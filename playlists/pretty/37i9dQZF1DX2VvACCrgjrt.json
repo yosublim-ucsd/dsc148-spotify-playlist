@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: AC Slater & Chris Lorenzo (Fly With Us)",
-  "num_followers": 433093,
+  "num_followers": 433168,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2YwNzE3OWVlMGQ1YTE3YTUwYjk1MzE3MjhmYjBiNjU3MzdmNjdl",
+  "snapshot_id": "MCxiM2Y2N2JiZDg5NDUwMzVkMjJmNWYwYjM2OGE1Nzc3ZDY2MzU2OTk1",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "FEMININE ENERGY",
+        "url": "https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 171265,
+      "name": "FEMININE ENERGY",
+      "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Stereo Function",
         "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
       },
@@ -903,26 +919,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Otherside",
-        "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Welcome to the Playhouse",
         "url": "https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy"
       },
@@ -943,6 +939,26 @@
       "duration_ms": 188571,
       "name": "Welcome to the Playhouse",
       "url": "https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Whistle",
         "url": "https://open.spotify.com/album/74ewEdzLaaLzrLvQumG2bC"
       },
@@ -1059,26 +1059,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Deep (with DJ Snake & Yung Felix)",
-        "url": "https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u"
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
       },
       "artists": [
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         }
       ],
-      "duration_ms": 213984,
-      "name": "Deep (with DJ Snake & Yung Felix)",
-      "url": "https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0"
+      "duration_ms": 173437,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1099,22 +1091,6 @@
       "duration_ms": 162580,
       "name": "The Way We Touch",
       "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "FEMININE ENERGY",
-        "url": "https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 171265,
-      "name": "FEMININE ENERGY",
-      "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1163,6 +1139,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Deep (with DJ Snake & Yung Felix)",
+        "url": "https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "duration_ms": 213984,
+      "name": "Deep (with DJ Snake & Yung Felix)",
+      "url": "https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Set The Tempo (feat. HQA)",
         "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 157741,
       "name": "MIRRORS",
       "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Relations",
-        "url": "https://open.spotify.com/album/6pPtbWPEp1UN26ExUTE2Sz"
-      },
-      "artists": [
-        {
-          "name": "Dzeko",
-          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Relations",
-      "url": "https://open.spotify.com/track/5O0vOpDt91Rw20NYKO6XQq"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1259,6 +1243,46 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Relations",
+        "url": "https://open.spotify.com/album/6pPtbWPEp1UN26ExUTE2Sz"
+      },
+      "artists": [
+        {
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Relations",
+      "url": "https://open.spotify.com/track/5O0vOpDt91Rw20NYKO6XQq"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Fiya (Curbi Edit)",
         "url": "https://open.spotify.com/album/296eebCCSymVYHR6fjiISA"
       },
@@ -1295,30 +1319,6 @@
       "duration_ms": 195268,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1lzlyna8QYmGs1QRzfe73K"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/655qrPH2ktkBC20SGffBAj"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "LIMIT",
         "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 217142,
       "name": "LIMIT",
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1lzlyna8QYmGs1QRzfe73K"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/655qrPH2ktkBC20SGffBAj"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "The Blur",
+        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "The Blur",
+      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "BLEEP BLOOP",
         "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 186666,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/3JRTdqas2IpIXLGdrLhRUG"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "The Blur",
-        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "The Blur",
-      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Here With You",
+        "url": "https://open.spotify.com/album/2bckXiVdAAmStOvsZlfOzx"
+      },
+      "artists": [
+        {
+          "name": "VAMERO",
+          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+        },
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/3ofM6vMSZ9FWC0bUv6VzYg"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "In Your House",
         "url": "https://open.spotify.com/album/73tX1UuJM9z5a0KcQsEKWn"
       },
@@ -1747,22 +1767,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 146190,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "LEFT TO RIGHT (Space Laces Remix)",
         "url": "https://open.spotify.com/album/1W0Mus0KmEd27lnEEhmZjv"
       },
@@ -1779,6 +1783,22 @@
       "duration_ms": 217604,
       "name": "LEFT TO RIGHT - Space Laces Remix",
       "url": "https://open.spotify.com/track/7pcmP5rRN9w145LcpOw9vx"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 146190,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1803,26 +1823,6 @@
       "duration_ms": 172320,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/0UTfh9gvdC7H1dAzBc0GE4"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Here With You",
-        "url": "https://open.spotify.com/album/2bckXiVdAAmStOvsZlfOzx"
-      },
-      "artists": [
-        {
-          "name": "VAMERO",
-          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
-        },
-        {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "Here With You",
-      "url": "https://open.spotify.com/track/3ofM6vMSZ9FWC0bUv6VzYg"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Best Shot",
-        "url": "https://open.spotify.com/album/2ZS4wPIZ1BxVuDpKalnf18"
-      },
-      "artists": [
-        {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
-        }
-      ],
-      "duration_ms": 220119,
-      "name": "Best Shot",
-      "url": "https://open.spotify.com/track/0bNsRYvrZokG8s7rfK3LS4"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "DROP 'EM",
         "url": "https://open.spotify.com/album/4d97rkRs2t5uB1Lk9irLky"
       },
@@ -2019,6 +2003,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
+        },
+        {
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Back It Up (feat. Young Lyxx)",
         "url": "https://open.spotify.com/album/1oIZpKnunXHez26jcAFmpI"
       },
@@ -2039,6 +2047,46 @@
       "duration_ms": 198094,
       "name": "Back It Up (feat. Young Lyxx)",
       "url": "https://open.spotify.com/track/6ePX5p0ufqiYywnNa9nXkO"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Best Shot",
+        "url": "https://open.spotify.com/album/2ZS4wPIZ1BxVuDpKalnf18"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "duration_ms": 220119,
+      "name": "Best Shot",
+      "url": "https://open.spotify.com/track/0bNsRYvrZokG8s7rfK3LS4"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "No Tinder",
+        "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 254062,
+      "name": "No Tinder",
+      "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2075,26 +2123,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "No Tinder",
-        "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
+        "name": "Rats",
+        "url": "https://open.spotify.com/album/2zZlhhA9JAb4FztUQJF0Tt"
       },
       "artists": [
         {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 254062,
-      "name": "No Tinder",
-      "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
+      "duration_ms": 203520,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/57rMaTfl37TwPrZ1omolEa"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2115,46 +2155,6 @@
       "duration_ms": 211653,
       "name": "Front To Back (feat. DLMT)",
       "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Rats",
-        "url": "https://open.spotify.com/album/2zZlhhA9JAb4FztUQJF0Tt"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/57rMaTfl37TwPrZ1omolEa"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Haus of Panda",
-          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
-        },
-        {
-          "name": "MYLK",
-          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2231,30 +2231,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Putaria",
-        "url": "https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Lodgerz",
-          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
-        },
-        {
-          "name": "Illegal Music",
-          "url": "https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u"
-        }
-      ],
-      "duration_ms": 160699,
-      "name": "Putaria",
-      "url": "https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Spinnin'",
         "url": "https://open.spotify.com/album/4QKGpE4b21hOsDGJ6yW8JS"
       },
@@ -2299,18 +2275,42 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Uplift",
-        "url": "https://open.spotify.com/album/6OwhZjeTdn2uQ3LZNsmHzP"
+        "name": "Putaria",
+        "url": "https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F"
       },
       "artists": [
         {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Lodgerz",
+          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+        },
+        {
+          "name": "Illegal Music",
+          "url": "https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u"
         }
       ],
-      "duration_ms": 228494,
-      "name": "Uplift",
-      "url": "https://open.spotify.com/track/5v61xHVqHn4EyakLpGqWzb"
+      "duration_ms": 160699,
+      "name": "Putaria",
+      "url": "https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/5PGKg1wqLHbW0jWZHTdXTe"
+      },
+      "artists": [
+        {
+          "name": "FREAK ON",
+          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
+        }
+      ],
+      "duration_ms": 189140,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/1152qBBmbWwDyC1ffE8zZy"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Uplift",
+        "url": "https://open.spotify.com/album/6OwhZjeTdn2uQ3LZNsmHzP"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        }
+      ],
+      "duration_ms": 228494,
+      "name": "Uplift",
+      "url": "https://open.spotify.com/track/5v61xHVqHn4EyakLpGqWzb"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf"
       },
@@ -2347,38 +2363,6 @@
       "duration_ms": 236129,
       "name": "All Eyez On Me",
       "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/5PGKg1wqLHbW0jWZHTdXTe"
-      },
-      "artists": [
-        {
-          "name": "FREAK ON",
-          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
-        }
-      ],
-      "duration_ms": 189140,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/1152qBBmbWwDyC1ffE8zZy"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2399,6 +2383,22 @@
       "duration_ms": 174395,
       "name": "Reality",
       "url": "https://open.spotify.com/track/2h6fLwmfDafmP1ImJFFskj"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe"
     }
   ],
   "unique_name": "Nasty Bits",

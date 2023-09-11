@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: MONSTA X
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,767 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,916 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 54 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 |
 | 55 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
 | 56 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 |
-| 57 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 |
-| 58 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 |
-| 59 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 |
+| 57 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 |
+| 58 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 |
+| 59 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 |
 | 60 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
 | 61 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 |
 | 62 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 69 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
 | 70 | [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 |
 
-Snapshot ID: `MCwwMjQ4MzdhNDlkYjQ2YmI3MzY3NGQ1YjlmZTIyYjQ0ZjEzZDlmNmE0`
+Snapshot ID: `MCw5MDMwOWU3Y2YzZDM5YzhlNmUzNDY3Njc0MDE0MzUwMWYxYmYyYjYx`

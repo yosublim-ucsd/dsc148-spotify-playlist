@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,456 likes - 75 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,550 likes - 75 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 65 | [Was That All It Was \- 12" Version](https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [The Essential Jean Carn \- The PIR Years](https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN) | 6:29 |
 | 66 | [Begin the Beguine](https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 4:18 |
 | 67 | [Dance A Little Bit Closer \- 12" Mix](https://open.spotify.com/track/3cwMDPUQ0Y8PQSg68HV2Fn) | [Charo](https://open.spotify.com/artist/0WKIRXNWr6cYlm8ZYVXD1I), [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4) | [Cuchi\-Cuchi](https://open.spotify.com/album/6chDvBqfNYlYh6NtGAo8ht) | 6:17 |
-| 68 | [Doctor Love \- Tom Moulton 12" Mix](https://open.spotify.com/track/0zewaxyhaiad2J2V8X12GL) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg) | 7:37 |
-| 69 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 |
+| 68 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 |
+| 69 | [Doctor Love \- Tom Moulton 12" Mix](https://open.spotify.com/track/0zewaxyhaiad2J2V8X12GL) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg) | 7:37 |
 | 70 | [What's Your Name, What's Your Number](https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:17 |
 | 71 | [Lady America](https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd) | [Voyage](https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6) | [Twelve Inch Classics from the 70s, Vol\. 2](https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa) | 6:47 |
 | 72 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 74 | [The Love I Lost \- A Tom Moulton Mix](https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Philadelphia International Records: The Tom Moulton Remixes](https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A) | 12:30 |
 | 75 | [If You Could Read My Mind \- The Disconet Re\-Edit](https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L) | 12:03 |
 
-Snapshot ID: `MCxiMjc2MTFkODZmODIwZjAyY2VmM2M3OGRlNzJhZGRhMWY3NjVjNjdl`
+Snapshot ID: `MCw3NDkzNmYyN2Y4MTVhMGJkYjc2NjMxNTViOTdmZWJjMGQ0ZDc1MjA4`

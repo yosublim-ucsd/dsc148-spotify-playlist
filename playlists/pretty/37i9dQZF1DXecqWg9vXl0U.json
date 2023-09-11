@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Disco Bahia.",
-  "num_followers": 46974,
+  "num_followers": 46998,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmViYjlmOWQ5OWU0MThmM2NlNGIzYzBiOTU0NWZmOGI3ZThhYTMx",
+  "snapshot_id": "MCw3N2U0NmJiZDE3NTBjMDg3YzkwOGVhZjhiMjI4YmFhMjdjZmFhZDc4",
   "tracks": [
     {
       "added_at": "2023-08-25 20:12:58",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
+        "name": "cuando faltes",
+        "url": "https://open.spotify.com/album/1pjB65d6ZlIHkm2mfhafJE"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "cuando faltes",
+      "url": "https://open.spotify.com/track/47171O0rMkJFNSHsTe972B"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 203076,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
-        "name": "cuando faltes",
-        "url": "https://open.spotify.com/album/1pjB65d6ZlIHkm2mfhafJE"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "cuando faltes",
-      "url": "https://open.spotify.com/track/47171O0rMkJFNSHsTe972B"
     },
     {
       "added_at": "2023-08-25 20:12:58",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
-        "name": "\u00c1ngel",
-        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
         "name": "Amanece Otra Vez",
         "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 247501,
       "name": "Amanece Otra Vez",
       "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
     },
     {
       "added_at": "2023-08-25 20:12:58",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
-        "name": "Cielo de Colores",
-        "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Cielo de Colores",
-      "url": "https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
         "name": "Siempre Hago Lo Que Quiero",
         "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 224000,
       "name": "Siempre Hago Lo Que Quiero",
       "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
+        "name": "Cielo de Colores",
+        "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Cielo de Colores",
+      "url": "https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX"
     },
     {
       "added_at": "2023-08-25 20:12:58",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
-        "name": "Me Gustas Tanto",
-        "url": "https://open.spotify.com/album/6mLXxtHQXzFn7GPowncu1N"
-      },
-      "artists": [
-        {
-          "name": "KNYA",
-          "url": "https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Me Gustas Tanto",
-      "url": "https://open.spotify.com/track/7fMshHtynGehLu7eVQj1hO"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
         "name": "Quiz\u00e1s (La Historia de Nosotros)",
         "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 203761,
       "name": "Quiz\u00e1s (La Historia de Nosotros)",
       "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
+        "name": "Me Gustas Tanto",
+        "url": "https://open.spotify.com/album/6mLXxtHQXzFn7GPowncu1N"
+      },
+      "artists": [
+        {
+          "name": "KNYA",
+          "url": "https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Me Gustas Tanto",
+      "url": "https://open.spotify.com/track/7fMshHtynGehLu7eVQj1hO"
     },
     {
       "added_at": "2023-08-25 20:12:58",

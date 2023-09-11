@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: legallyrxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,888 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,892 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 38 | [Morena Cachetona](https://open.spotify.com/track/7er0ansHqESONRdGQGnDwk) | [JOSEPE EL DEMENTE](https://open.spotify.com/artist/6t90cfIUQ39eOTksTUE0zc), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Morena Cachetona](https://open.spotify.com/album/6UPwgTTQembPg88PGOPls3) | 3:20 |
 | 39 | [Dimelo Ma](https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Dimelo Ma](https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh) | 2:53 |
 | 40 | [Siempre Fine](https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Siempre Fine](https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4) | 2:45 |
-| 41 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
-| 42 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 |
+| 41 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 |
+| 42 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
 | 43 | [Combi Nueva](https://open.spotify.com/track/5hqAc7ZD21UREu9mNKuLhr) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Combi Nueva](https://open.spotify.com/album/3DbPnfLURW3fIHfnU2pyhI) | 3:12 |
 | 44 | [Palmas](https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [Palmas](https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl) | 2:51 |
 | 45 | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX) | 3:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [Que Loco Mami](https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Que Loco Mami](https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s) | 2:56 |
 | 60 | [Tus Besos \- Remix](https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Tus Besos \(Remix\)](https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH) | 3:49 |
 
-Snapshot ID: `MCxhZDQ4NTdmMDI2YjhkMDE2OGM0YzEyZjc2ZTAyNTQ0NzRmZWYxZThl`
+Snapshot ID: `MCwzYjU4NjY2MzM2NjQ2ZTcwMmU5MGU1YjFkMDA1NDdkMjFjYzFkZWI3`

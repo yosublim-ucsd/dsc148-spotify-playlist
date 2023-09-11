@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=bei5IcQ0Qe\-2NnN2LjyV6g"> Odeal </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,939 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,977 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [FINAL CHAMPION](https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 3:07 |
 | 80 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 |
 
-Snapshot ID: `MCw2NzE5OTRjZTY5MjM0ODM1ZmM5NmQwYmE3MWY4ODRkZTk0MGFlOGI4`
+Snapshot ID: `MCwwZmUwNTMyMDE1NTRjNTUzYzI1NTg3NTc2ZDk4OTM5MWNjODllMzg3`

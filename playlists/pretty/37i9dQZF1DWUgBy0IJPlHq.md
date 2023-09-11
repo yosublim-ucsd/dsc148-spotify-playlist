@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Tyler Childers
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,177 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,451 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [When It's My Time](https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [When It's My Time](https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ) | 4:33 |
 | 100 | [Denim & Diamonds](https://open.spotify.com/track/7jAw05wdvqQhKDtKnFOH93) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:12 |
 
-Snapshot ID: `MCwyZmJkNTkyZjRhNTg1Mzk1ZWFiZTc3Zjc1YThjZTQyNDI3YTAyZmFk`
+Snapshot ID: `MCw3MDIzY2IyM2M2MWNjZmE0Yjc4M2FiMmFjYjI4NDJkOTI5N2I4MDQz`

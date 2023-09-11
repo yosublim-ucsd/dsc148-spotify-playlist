@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,469 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,489 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 50 | [Never Not \- Edit](https://open.spotify.com/track/3puLrG1rPAjC9SmTaJyaA2) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Never Not \(Edit\)](https://open.spotify.com/album/6smxm51Ys22ULtICU8Oth8) | 3:01 |
 | 51 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 |
 | 52 | [strip mall](https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [strip mall](https://open.spotify.com/album/6T6OnNPadTtsyslDCXpUYp) | 2:33 |
-| 53 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
+| 53 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
 | 54 | [Redwoods \- Abridged](https://open.spotify.com/track/05PXJyerno19ypVqyYBIaO) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [Woodgreen Street](https://open.spotify.com/album/3iETcOC29J9zEnZIYnbWWI) | 3:43 |
-| 55 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
+| 55 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
 | 56 | [Long Long Long \- Acoustic](https://open.spotify.com/track/13ukC82r00OfvNbu7z6A2a) | [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Long Long Long \(Acoustic\)](https://open.spotify.com/album/29OKnedaN7Zt91PRiM12lV) | 3:46 |
 | 57 | [Something Just Like This](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Something Just Like This](https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX) | 4:07 |
 | 58 | [Easy Violence](https://open.spotify.com/track/5ej9MfgSDNbc1qiPfrtIP2) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy Violence / John Prine](https://open.spotify.com/album/2N8s58tXG6YWPYSDYMyRWM) | 2:21 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 64 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 |
 | 65 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 66 | [Cubic Zirconia](https://open.spotify.com/track/409WM1TeevBE5DuAuCkkeJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cubic Zirconia](https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT) | 4:04 |
-| 67 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
+| 67 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
 | 68 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 |
-| 69 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
+| 69 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
 | 70 | [Didn't Know You Then](https://open.spotify.com/track/6oyDy1XJfGKBjvwdQMWpOX) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/0Dw5lEKTJgSULnuv7iYBKg) | 4:13 |
 | 71 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
 | 72 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 99 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
 | 100 | [みそしる](https://open.spotify.com/track/6cEJHeZgJs1EfRzmL4RWcS) | [7g classic’s](https://open.spotify.com/artist/09snWBv8zdH6mRDWoLGSWr) | [プチみそしる](https://open.spotify.com/album/2etsMLQKjSwgfoYGgJhgBR) | 5:19 |
 
-Snapshot ID: `MCw5YjNhNzIwNWI5MjM2NzZhZTM2OGFlMTQzMzY1MTFmNzkzMGMxYTYw`
+Snapshot ID: `MCw1ZWJiMDdkMGUxYWFmNWIyODg2NTZlOWMyYjlhZmY3OTdkZGE2ZTRk`

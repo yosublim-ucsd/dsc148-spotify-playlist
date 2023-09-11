@@ -1,12 +1,12 @@
 {
   "description": "Hit del passato e nuovi brani per la tua giornata perfetta.",
-  "num_followers": 179121,
+  "num_followers": 179200,
   "original_name": "La vita \u00e8 bella!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzhiZDU0MWZmYzlhNzg1NGI3NWVhYmE0NTg1NzYxYTdjMDQ0NmQ4",
+  "snapshot_id": "MCwyNmFkZjMwNjBlYTczZmMwYjEyOWRhNmMyYzkwMDhmOTFkMDJjZWNk",
   "tracks": [
     {
       "added_at": "2023-08-24 08:27:16",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-08-24 08:27:16",
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2023-08-24 08:27:16",
-      "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 269560,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+    },
+    {
+      "added_at": "2023-08-24 08:27:16",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2023-08-24 08:27:16",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-08-24 08:27:16",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Little Talks",
-      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
-    },
-    {
-      "added_at": "2023-08-24 08:27:16",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2023-08-24 08:27:16",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
       "artists": [
         {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+      "duration_ms": 266600,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
     },
     {
       "added_at": "2023-08-24 08:27:16",
@@ -495,6 +479,22 @@
       "duration_ms": 153466,
       "name": "Good Riddance (Time of Your Life)",
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+    },
+    {
+      "added_at": "2023-08-24 08:27:16",
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2023-08-24 08:27:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-08-24 08:27:16",
       "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
-    },
-    {
-      "added_at": "2023-08-24 08:27:16",
-      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 210772,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
       "url": "https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x"
+    },
+    {
+      "added_at": "2023-08-24 08:27:16",
+      "album": {
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
     }
   ],
   "unique_name": "La vita \u00e8 bella!",

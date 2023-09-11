@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,430,234 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,430,430 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 30 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
 | 31 | [Heaven Knows](https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 3:44 |
 | 32 | [Same Damn Life](https://open.spotify.com/track/5tkcQeBaeM1ZoNs2YUOmnz) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 3:19 |
-| 33 | [Comfortable Liar](https://open.spotify.com/track/412LyfktkgWKEn8kmKiyQe) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:43 |
-| 34 | [Help](https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:34 |
-| 35 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
-| 36 | [One For the Money](https://open.spotify.com/track/3MAFVGKEVV9EgO1lQnPqcc) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Ungrateful](https://open.spotify.com/album/5T6PKisUvgIzrohF8EIZmg) | 3:19 |
+| 33 | [Help](https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:34 |
+| 34 | [Comfortable Liar](https://open.spotify.com/track/412LyfktkgWKEn8kmKiyQe) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:43 |
+| 35 | [One For the Money](https://open.spotify.com/track/3MAFVGKEVV9EgO1lQnPqcc) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Ungrateful](https://open.spotify.com/album/5T6PKisUvgIzrohF8EIZmg) | 3:19 |
+| 36 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
 | 37 | [Into The Fire](https://open.spotify.com/track/1DOJAC971RZsoIdyM5sB53) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6) | 3:57 |
 | 38 | [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 |
 | 39 | [Bottoms Up](https://open.spotify.com/track/0FnugIN4Slm0weQqL8OXEM) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now \(Audio Only Version\)](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:37 |
 | 40 | [Into The Dark \(feat\. Kellin Quinn\)](https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 3:18 |
 | 41 | [Everybody](https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:20 |
 | 42 | [The Violence](https://open.spotify.com/track/2xLnCpQUbDL1Vsmfaoj089) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:28 |
-| 43 | [Bite My Tongue](https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Sinners Never Sleep](https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8) | 3:42 |
-| 44 | [Born For Greatness](https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 |
+| 43 | [Born For Greatness](https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 |
+| 44 | [Bite My Tongue](https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Sinners Never Sleep](https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8) | 3:42 |
 | 45 | [Infinite](https://open.spotify.com/track/0oLICk7wA4GsaGEk1lprgD) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [A Beautiful Place To Drown](https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap) | 2:43 |
 | 46 | [Don't Back Down](https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/116n80nAqikTC624dsTHhI) | 3:45 |
 | 47 | [Skeletons](https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Skeletons](https://open.spotify.com/album/42wOkbQaZa1jnpBpUmk5Zv) | 3:29 |
 | 48 | [Low Life](https://open.spotify.com/track/3qsLiIMrQAq12sY3kWAoWm) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Motherbrain](https://open.spotify.com/album/3iCTx5xyZ4Y6VWYoDMaXTm) | 3:36 |
-| 49 | [Gumshield](https://open.spotify.com/track/7dC1ODfFU31b77PQWgQ21M) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:37 |
-| 50 | [Go To War](https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 4:05 |
+| 49 | [Go To War](https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 4:05 |
+| 50 | [Gumshield](https://open.spotify.com/track/7dC1ODfFU31b77PQWgQ21M) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:37 |
 
-Snapshot ID: `MCwzYzVjNmNiZTQ2YmVhNTNjNGU1YjI2ZmQ2NTdlZmZhOTY3MDA0NDg5`
+Snapshot ID: `MCxiYTg1NzQxOGY5N2JhZGJjYTI5ZTE0NWNhMTk4YWZlYWQwZDg1OWM2`

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,032 songs - 1 day 14 hr 57 min
+1,033 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,7 @@
 | [Main Source](https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Main Source](https://open.spotify.com/album/10KFkzmGKNHigqLdtf78FE) | 2:25 | 2021-11-10 | 2022-08-19 |
 | [Making Pizza](https://open.spotify.com/track/3v65mSFX4hY7l0JveBQjNa) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [Making Pizza](https://open.spotify.com/album/0Td6eNByAw6kBfB47t576G) | 1:51 | 2022-06-24 | 2022-09-03 |
 | [Mallet Dreams](https://open.spotify.com/track/4FyekCqwBwaFRWCLvL4Or4) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [Mallet Dreams](https://open.spotify.com/album/2TluPmCV8AGpmyrg62Rwkb) | 1:42 | 2023-03-16 |  |
-| [Mansion Of Sizz](https://open.spotify.com/track/1U0jroBry8iTfYt73P9ET0) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [Lofi City](https://open.spotify.com/album/4LVapYHIAJc5s8V9yyKgc2) | 2:24 | 2022-10-28 |  |
+| [Mansion Of Sizz](https://open.spotify.com/track/1U0jroBry8iTfYt73P9ET0) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [Lofi City](https://open.spotify.com/album/4LVapYHIAJc5s8V9yyKgc2) | 2:24 | 2022-10-28 | 2023-09-11 |
 | [mararun](https://open.spotify.com/track/2nG9Kq8al1Y8CwuikqWXut) | [m3lly](https://open.spotify.com/artist/6ImTBYsoSoDNEMgY9VFU23) | [mararun](https://open.spotify.com/album/4T3cSDUhFHeoIEo4fDec58) | 2:06 | 2021-11-10 | 2023-03-02 |
 | [mariposas](https://open.spotify.com/track/2OEiGdcYERflPWGTau38WC) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [sunday mornings](https://open.spotify.com/album/1kd235cgVh0bdUEsx2wDlB) | 2:24 | 2021-11-10 | 2022-10-01 |
 | [Massiv](https://open.spotify.com/track/4v7qUBLz0u5AnSRRcRyNyD) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Knowh3r3](https://open.spotify.com/artist/0NlaY8zuh9hjpOPSRL3yOG) | [Massiv](https://open.spotify.com/album/1zYbe3XZCBebHnDtZ5FPEt) | 2:03 | 2023-04-03 |  |
@@ -757,6 +757,7 @@
 | [ripple](https://open.spotify.com/track/5P74LLSSglF3gIt2tcFSVn) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [ripple](https://open.spotify.com/album/2aDD0xJyadV6hisCeSiAhP) | 2:16 | 2023-03-24 |  |
 | [River of Dreams](https://open.spotify.com/track/7zcpE1ue1sPRYD7RdqB4Qi) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [River of Dreams](https://open.spotify.com/album/6wxywJnuaqkUsDpjqUWGrI) | 2:19 | 2021-11-10 | 2022-07-29 |
 | [Road Trip](https://open.spotify.com/track/7egZDzFPxPlXJe2RaPQYhd) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Road Trip](https://open.spotify.com/album/3H2o8UFe2NzqJdSWgRfVIx) | 2:09 | 2021-11-10 | 2022-06-03 |
+| [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 |  |
 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 | 2022-03-04 | 2023-03-02 |
 | [Rolling By](https://open.spotify.com/track/3LK0gJqUKVqTpBIogxjak7) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [Jam Session](https://open.spotify.com/album/0Udv2Q7r13MbZIAQ5vuMlu) | 2:36 | 2021-11-10 | 2022-06-10 |
 | [Rolling Like River Rocks](https://open.spotify.com/track/1mGvebQMqIXadbhHzUNdrD) | [Golden Frame](https://open.spotify.com/artist/1HlZzvl4HefwTdmj5W9uNo) | [Rolling Like River Rocks](https://open.spotify.com/album/4WDzXbXJJaTz8LhZH3K6Jf) | 2:12 | 2021-11-10 | 2022-07-22 |

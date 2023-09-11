@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: La Isla Centeno
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,656 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,694 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 48 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
 | 49 | [Perfidia](https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Perfidia](https://open.spotify.com/album/101igY1HyXs27avcElHKzj) | 3:31 |
 | 50 | [Aunque Me Cueste La Vida](https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 1:24 |
-| 51 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
-| 52 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
-| 53 | [Voy](https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Obras Maestras](https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK) | 3:21 |
+| 51 | [Voy](https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Obras Maestras](https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK) | 3:21 |
+| 52 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
+| 53 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
 | 54 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 |
 | 55 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 |
 | 56 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 59 | [Lo Mismo Que Usted](https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 3:09 |
 | 60 | [Porrito y a Dormir](https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9), [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM) | [Porrito y a Dormir](https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG) | 3:18 |
 
-Snapshot ID: `MCxhY2E4ODEzNmNhODUyZmRiNmJmNzYyNjk4ZDY4NzBiZDgyMTJiMjFh`
+Snapshot ID: `MCw3ZGJhYjYzMzYzMDJhMTc5ZGNmZDJlOWE4YzVmYWYxNzkxYWNlMDE4`

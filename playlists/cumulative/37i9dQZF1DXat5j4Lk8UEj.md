@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-250 songs - 15 hr 55 min
+251 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [Who Do You Think You're Talking To?](https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 3:19 | 2022-02-17 |  |
 | [Who Do You Think You're Talking To?](https://open.spotify.com/track/4z1vkuuzWQhgELq8K2dac8) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Who Do You Think You're Talking To?](https://open.spotify.com/album/6BnRn786U8IkixwdKEycoF) | 3:19 | 2021-12-09 | 2022-07-29 |
 | [Whooped If You Will](https://open.spotify.com/track/1uaCFn8AsypTLu9Y0wkS0T) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Whooped If You Will](https://open.spotify.com/album/0ni9VCUqBbFV1RJjpltgHa) | 4:00 | 2023-06-16 | 2023-07-31 |
-| [Whooped If You Will](https://open.spotify.com/track/5cUPGoeQDU7BlOO4Uz8MMi) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Won't Fence Us In](https://open.spotify.com/album/4OfaqQaBlT5KNUlpnRDeSQ) | 4:00 | 2023-07-28 |  |
+| [Whooped If You Will](https://open.spotify.com/track/5cUPGoeQDU7BlOO4Uz8MMi) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Won't Fence Us In](https://open.spotify.com/album/4OfaqQaBlT5KNUlpnRDeSQ) | 4:00 | 2023-07-28 | 2023-09-11 |
+| [Whooped If You Will](https://open.spotify.com/track/7w2xLKBswCeggLpAVnNmgf) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [All Bad](https://open.spotify.com/album/42yDMOCSnkUZwbH0tmt3WR) | 4:00 | 2023-07-28 |  |
 | [Why You Gotta Be](https://open.spotify.com/track/4DRe9zhFiYvRzixDqsSiOC) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Why You Gotta Be](https://open.spotify.com/album/1tYpSLfWGpyUzRttN5Kkt6) | 3:48 | 2021-12-09 | 2022-07-03 |
 | [Why You Gotta Be](https://open.spotify.com/track/4uyVtAFRciCP9fGqG3sm25) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:48 | 2022-02-17 | 2023-04-29 |
 | [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 | 2022-02-17 | 2023-07-17 |

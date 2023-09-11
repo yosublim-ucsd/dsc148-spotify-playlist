@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,067 likes - 39 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,071 likes - 39 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 38 | [A Silent Murder](https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A Silent Murder](https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx) | 2:36 |
 | 39 | [Unheard Voice](https://open.spotify.com/track/5IqQr1AFSTL1WkDUT7Z0is) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Unheard Voice](https://open.spotify.com/album/3s6rlS2V8UiZJf3J4k5HkP) | 3:11 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDBmZjY5Nzg2NThkZWZkOTgwMzNlZTk5OGFhMTRhYTc1ZA==`
+Snapshot ID: `MjgyMzkwNzcsMDAwMDAwMDA5NWIxZjQzNWZiMTkwYTA4YzA1Y2M4MjU1OWRlZjM1Yw==`

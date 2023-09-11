@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Hyperanhas
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,246 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,335 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Red Dot](https://open.spotify.com/track/5O4dyvMVJaGcxvawaCGQDy) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Red Dot](https://open.spotify.com/album/1ImUpotlDDUWdmevkE192Y) | 2:08 |
 | 75 | [Metflix \- Remix](https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 2:22 |
 
-Snapshot ID: `MCwwNTljOGNkMTk0NWExYzJlYTliYTBiOGFiOGJiMmE5N2EyZTdkMjli`
+Snapshot ID: `MCw4YTdjYmRiZmE4NmFkZjM1ODdjMWM0MzUzMzVjZDU4ZjM1ODQ5Njg3`

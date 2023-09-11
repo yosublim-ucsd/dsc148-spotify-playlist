@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth joints from around the globe
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,563 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,773 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 4 | [That's Life \(A Swamp\)](https://open.spotify.com/track/3q2rGkL2k9YHckjz0kG9Sx) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 5:26 |
 | 5 | [Coming Back](https://open.spotify.com/track/2oZJ4OZOP7DHMdSrpx4fwq) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:21 |
 | 6 | [FUGAZI](https://open.spotify.com/track/5xWvtdIspTn4RK8Ki3IjtR) | [Boyboy](https://open.spotify.com/artist/3atKvJHxeZCllkWawVbmXc) | [FUGAZI](https://open.spotify.com/album/782lLDVj2EifDWu5JAgGgh) | 3:05 |
-| 7 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 |
+| 7 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/1mkzHA0suincRybCyk5fis) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 5:40 |
 | 8 | [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 |
 | 9 | [Stay Soft](https://open.spotify.com/track/5oHTLHLHVbuVK5YY1yO3rt) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Softboi](https://open.spotify.com/album/17d8Xd8QtMjXSCDb4pb5t1) | 3:19 |
 | 10 | [TWIX](https://open.spotify.com/track/7sDrbISYUrsxQuqzCJjlk0) | [Dann Dib](https://open.spotify.com/artist/7zKpsWi7nGfM6AREKbpMoj) | [TWIX](https://open.spotify.com/album/5G0KbmUasvNGrih6kfvH0N) | 2:46 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 65 | [Token](https://open.spotify.com/track/0syv2XtOlEh4vafZjqYRJP) | [BADASSMUTHA](https://open.spotify.com/artist/4sIOO1xmOIT9hqn0Jhw9bo) | [Token](https://open.spotify.com/album/567iBpYnPXWL9Z1J6JYZwt) | 3:42 |
 | 66 | [You Don't Even Know](https://open.spotify.com/track/0fZCZuIkZMwOAb3Ygw2faP) | [SUPEREGO](https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER) | [Who Are You Hiding From?](https://open.spotify.com/album/3kST4kQgcujNX02sRT7ju7) | 2:50 |
 | 67 | [Take Your Time](https://open.spotify.com/track/0kjPELR27yGGQlTQn9leFi) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Take Your Time](https://open.spotify.com/album/15LdEtHxICBhxzYUAE0ruA) | 6:24 |
-| 68 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0) | 3:58 |
+| 68 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 3:58 |
 | 69 | [Cascades](https://open.spotify.com/track/5KL2TfaqLYbwguDHnEPJYJ) | [Grievous Bodily Calm](https://open.spotify.com/artist/58OKZUurPOXnGlGNRvoNwL) | [Cascades](https://open.spotify.com/album/6H3X7Wdc6qTDHsXQT8fiHP) | 5:35 |
 | 70 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 71 | [Over The Moon](https://open.spotify.com/track/5asQpx4UqHbWOYBNP375Qv) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 74 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 |
 | 75 | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/track/4ptwKUD9Tsbi5Tz5MVehvy) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/album/5ZGQes5uklrLNQvwUxVBhN) | 4:42 |
 
-Snapshot ID: `MCxkNjZlZGI2YmVlOGFjZDYyNzM3YTM3NGJjNmI5YTc4MWRkNTQ4YzUx`
+Snapshot ID: `MCxiY2I4MTEwYTEzZjE1YWQxMTkwMjJiYzRjMDJmMzRkNjM4NGU0YmY5`

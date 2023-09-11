@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Cassper Nyovest
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,780 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,849 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 |
 | 60 | [Wrong Person \(with ODUMODUBLVCK\)](https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:43 |
 
-Snapshot ID: `MCxjNTRkYjUzMDIwMDNmNWYzMjBiYmY4NDE0YTI0YjNkYmRlMTM4NGQz`
+Snapshot ID: `MCxlNzcxNmY5N2VhYTI3YjYzYjhiNGMwOGE5NmEyODU5ZTZiZjJjNWMx`

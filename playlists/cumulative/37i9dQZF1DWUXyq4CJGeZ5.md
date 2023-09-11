@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-430 songs - 18 hr 45 min
+431 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A New Day](https://open.spotify.com/track/3f3o11I6fICW22aTW3ZK2k) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A New Day](https://open.spotify.com/album/1OUJJk70WJeyliPi5Hu3q9) | 2:18 | 2023-03-10 |  |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2023-03-10 |  |
 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 | 2023-03-10 |  |
-| [Ad Libitum](https://open.spotify.com/track/7m5OILw45b30QyaqG8zhic) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Ad Libitum](https://open.spotify.com/album/2psCwjqmdWAShLWbXzCkNY) | 3:02 | 2023-03-10 |  |
+| [Ad Libitum](https://open.spotify.com/track/7m5OILw45b30QyaqG8zhic) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Ad Libitum](https://open.spotify.com/album/2psCwjqmdWAShLWbXzCkNY) | 3:02 | 2023-03-10 | 2023-09-11 |
 | [Adagio No 2 C\-Minor](https://open.spotify.com/track/6L0JsNlvd8CgtJkhRxZd5f) | [Tony Austero](https://open.spotify.com/artist/4IcLLdhDhgVZtC1GmZxyzw) | [Adagio No 2 C\-Minor](https://open.spotify.com/album/5bx5oBzjzCLliHbkwDOjnF) | 3:48 | 2023-03-10 |  |
 | [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2023-03-10 |  |
 | [Aeternum](https://open.spotify.com/track/2NUEiYBZDBrY5oidzrmYgv) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [Aeternum](https://open.spotify.com/album/4CBsyXYvh2iy9VihnMn5zE) | 2:15 | 2023-03-10 |  |
@@ -412,6 +412,7 @@
 | [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2023-03-10 |  |
 | [Walk](https://open.spotify.com/track/1IFzM39Bm7c28HoEhuixIC) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Walk](https://open.spotify.com/album/1BzQsplrvOkk3BicUV17AS) | 2:41 | 2023-03-10 |  |
 | [Waltz in F minor](https://open.spotify.com/track/20DUpGAFEPRFEBD3FbxUHK) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Waltz in F minor](https://open.spotify.com/album/0eFKKxmv0SE3SL3Z1YwmKi) | 2:24 | 2023-03-10 |  |
+| [Waltz Of The Swallow](https://open.spotify.com/track/1b4TVciUAU6bAXMNgpgxbf) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [Garden of Eternal Spring](https://open.spotify.com/album/15zG56ZwGXAjLPktRRTfzb) | 2:53 | 2023-03-10 |  |
 | [Watching Over You](https://open.spotify.com/track/6kWVRQKxzpOj8r06pps6O3) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [delta/alpha](https://open.spotify.com/album/6W2BFocMWkUumhGSrgE9il) | 2:18 | 2023-03-10 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2023-03-10 |  |
 | [Watercolor Tears](https://open.spotify.com/track/23J46AHR6peFeGAGTWeKYs) | [Brian Crain](https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb) | [Watercolor Tears](https://open.spotify.com/album/01JltJK8hpA8QBOPb0t5XJ) | 3:15 | 2023-03-10 |  |

@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-266 songs - 16 hr 1 min
+267 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cozumel](https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [Antología...Los Sonor's](https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6) | 2:47 | 2022-06-07 |  |
 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 | 2022-06-07 |  |
 | [Cumbia Cienaguera](https://open.spotify.com/track/3uUTp8ivOJPX695AIFBpwj) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:04 | 2021-10-19 | 2022-12-31 |
+| [Cumbia de la Cadenita](https://open.spotify.com/track/0s3rFFNwIf23TG4q3JTDbZ) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [El Disco de Oro para Equipos de Sonido, Vol 1](https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT) | 2:37 | 2022-12-07 |  |
 | [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2022-06-07 | 2022-11-13 |
 | [Cumbia Del Caribe](https://open.spotify.com/track/2QwG8nmiwvSwWdVqqpEH7m) | [Orquesta De Edmundo Arias](https://open.spotify.com/artist/3kbbhoHPSGIvPe77gD2Rxk) | [Musica Tropical De Colombia 2](https://open.spotify.com/album/6yB0UUjVedFpxgQ7dGHn73) | 3:16 | 2022-06-07 | 2022-07-19 |
 | [Cumbia del Caribe \- Instrumental](https://open.spotify.com/track/5eN99m5vWU5CSKQcBZtMPG) | [Orquesta De Edmundo Arias](https://open.spotify.com/artist/3kbbhoHPSGIvPe77gD2Rxk) | [Greatest Cumbia Classics Of Colombia, Vol\. 2](https://open.spotify.com/album/3trKivETlD5qX29DhLNOa9) | 3:15 | 2022-07-19 | 2022-11-13 |
@@ -141,7 +142,7 @@
 | [La Suavecita](https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Alvaro Pava](https://open.spotify.com/artist/5mYiZzPWHHMmGZ4Pl311pu) | [Música Tropical de Colombia, Vol\. 17](https://open.spotify.com/album/2l2CiNWyegCBfXad25fAJT) | 3:55 | 2022-07-19 | 2023-09-05 |
 | [La Subienda](https://open.spotify.com/track/2Czcw3HVVOVhBOMYHnfFcj) | [Gabriel Romero](https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/33nptLvg4fk3Alpy32a5s3) | 4:31 | 2022-06-07 | 2022-07-20 |
 | [La Velludita](https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 2:54 | 2022-06-07 | 2022-07-29 |
-| [La Ventanita](https://open.spotify.com/track/3LfPiuzPyCoa3Ja3QrJIZv) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [20 Grandes Exitos](https://open.spotify.com/album/0GmgH6t627664pQxUiEjbt) | 4:07 | 2022-07-19 |  |
+| [La Ventanita](https://open.spotify.com/track/3LfPiuzPyCoa3Ja3QrJIZv) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [20 Grandes Exitos](https://open.spotify.com/album/0GmgH6t627664pQxUiEjbt) | 4:07 | 2022-07-19 | 2023-09-11 |
 | [Lapiz Labial](https://open.spotify.com/track/78fAwRGXgvQc63QWyueWkq) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Los Felinos](https://open.spotify.com/album/5Ki8lDeDg86PikGgAiC2oQ) | 2:52 | 2021-10-19 | 2022-06-08 |
 | [Las Caleñas](https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:32 | 2022-06-07 |  |
 | [Las Mujeres No Se Acaban](https://open.spotify.com/track/76JtOI0FWWI1KhM0Gyj3rJ) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia](https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw) | 4:31 | 2021-10-19 | 2022-07-29 |

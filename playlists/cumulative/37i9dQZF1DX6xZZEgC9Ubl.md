@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-866 songs - 1 day 15 hr 21 min
+867 songs - 1 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,8 @@
 | [FWM2](https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/1nEasgzWx61CJchM2eXNvM) | 2:04 | 2022-04-08 | 2022-10-05 |
 | [FWM2](https://open.spotify.com/track/7o7WupJer78gUUoaHzVxTq) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:04 | 2023-04-12 |  |
 | [G n T](https://open.spotify.com/track/7bI1ljBRkTLgQExzKRcwdY) | [Lucid Kidd](https://open.spotify.com/artist/18fitAD50Su7lbUq5TvApN) | [G n T](https://open.spotify.com/album/15d8bNkv39geOBFQDBRoVF) | 3:25 | 2022-03-25 | 2022-04-21 |
-| [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 | 2021-07-24 |  |
+| [get me high](https://open.spotify.com/track/3Ae3B51HUn4dRiJCFhNJFk) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [+++](https://open.spotify.com/album/5NtmpPD3P9PqsxfmpZLxmW) | 1:45 | 2023-09-01 |  |
+| [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 | 2021-07-24 | 2023-09-11 |
 | [Ghost Rider](https://open.spotify.com/track/3xXkIxNwHu4aP6VUtGKJc0) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Ghost Rider](https://open.spotify.com/album/2X9G26ucxdZzrpVOj72rtO) | 4:00 | 2021-06-12 | 2022-03-02 |
 | [Ghostrider](https://open.spotify.com/track/7wBR106AOaYxjx3TnAcpTT) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [Ghostrider \(Clean\)](https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE) | 2:12 | 2023-03-17 |  |
 | [GIN N JUICE](https://open.spotify.com/track/7IeF3GYiOqsKQ97cchFod3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GIN N JUICE](https://open.spotify.com/album/31tl4xCfME9LBkMdCg0p0U) | 1:41 | 2021-01-21 | 2022-06-16 |

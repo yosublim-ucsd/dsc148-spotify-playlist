@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 213490,
       "name": "Para Ernesto",
       "url": "https://open.spotify.com/track/5EpbaJs8fHwiVHag4ZHX8K"
@@ -1544,6 +1544,24 @@
       "duration_ms": 299066,
       "name": "Shine It",
       "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
+    },
+    {
+      "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/19SYYIX0zzZvm3zZjuncT3"
+      },
+      "artists": [
+        {
+          "name": "Reiband",
+          "url": "https://open.spotify.com/artist/10JfXtdWDeKZKjP0LJkpiM"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230991,
+      "name": "Silver Mule",
+      "url": "https://open.spotify.com/track/3PJmsTebOq650PohvoAOny"
     },
     {
       "album": {

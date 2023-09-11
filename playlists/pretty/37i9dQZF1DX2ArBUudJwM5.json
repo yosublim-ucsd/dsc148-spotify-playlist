@@ -1,12 +1,12 @@
 {
   "description": "Estamos listas para un festival \u00fanico. \n#FestivalEQUAL \u2022 16 de septiembre \u2022 Hip\u00f3dromo de Palermo ",
-  "num_followers": 35562,
+  "num_followers": 35622,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2FiNTViMzBkY2JiN2E2NGRmNGU0YjRkZTA0YmYwNGU1Y2ZmODRj",
+  "snapshot_id": "MCw4NTE3YzA5NTgzMTcxYzNkZTc5ZTE4OTgyNmUwZTg4MDE5YmZlNmMx",
   "tracks": [
     {
       "added_at": "2023-09-07 01:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "El Buen Gualicho",
-        "url": "https://open.spotify.com/album/4uucwPifnf35dXKEQJm3kT"
-      },
-      "artists": [
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/0saIDjEHkPm4LgafFqsEo5"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 249217,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "El Buen Gualicho",
+        "url": "https://open.spotify.com/album/4uucwPifnf35dXKEQJm3kT"
+      },
+      "artists": [
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/0saIDjEHkPm4LgafFqsEo5"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Hice Todo Mal",
-        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Hice Todo Mal",
-      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "No Lo Pienses M\u00e1s",
         "url": "https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 171360,
       "name": "No Lo Pienses M\u00e1s",
       "url": "https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Hice Todo Mal",
+        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Hice Todo Mal",
+      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 176255,
       "name": "Karma",
       "url": "https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 296914,
-      "name": "La Batalla",
-      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "No Me Gustan los Grises",
         "url": "https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 217761,
       "name": "No Me Gustan los Grises",
       "url": "https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 296914,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "R\u00e1pido y Furioso",
-        "url": "https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx"
-      },
-      "artists": [
-        {
-          "name": "Maia Reficco",
-          "url": "https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM"
-        }
-      ],
-      "duration_ms": 153877,
-      "name": "R\u00e1pido y Furioso",
-      "url": "https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Canciones de tapa blanca y negra",
         "url": "https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+        "name": "R\u00e1pido y Furioso",
+        "url": "https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Maia Reficco",
+          "url": "https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM"
         }
       ],
-      "duration_ms": 182256,
-      "name": "TRIGAL",
-      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
+      "duration_ms": 153877,
+      "name": "R\u00e1pido y Furioso",
+      "url": "https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -967,6 +951,22 @@
       "duration_ms": 198800,
       "name": "Que no se entere",
       "url": "https://open.spotify.com/track/0PtHJn4KCLVoFI5gR4nBRU"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Ni Lo Pensemos",
-        "url": "https://open.spotify.com/album/3LlG3zOCDmuSGii7KdnHZu"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Ni Lo Pensemos",
-      "url": "https://open.spotify.com/track/47WiORtatRcT5lI6EokFXe"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 133711,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Ni Lo Pensemos",
+        "url": "https://open.spotify.com/album/3LlG3zOCDmuSGii7KdnHZu"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Ni Lo Pensemos",
+      "url": "https://open.spotify.com/track/47WiORtatRcT5lI6EokFXe"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Resisto/Existo",
-        "url": "https://open.spotify.com/album/4NoFgd1F0LhrpRe1Ej2saH"
-      },
-      "artists": [
-        {
-          "name": "Sol Pereyra",
-          "url": "https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A"
-        }
-      ],
-      "duration_ms": 192335,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/6lb3IdGu3LiSCPuMJyHSVV"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Temporal",
         "url": "https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 215067,
       "name": "Es Mi Culpa",
       "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Resisto/Existo",
+        "url": "https://open.spotify.com/album/4NoFgd1F0LhrpRe1Ej2saH"
+      },
+      "artists": [
+        {
+          "name": "Sol Pereyra",
+          "url": "https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A"
+        }
+      ],
+      "duration_ms": 192335,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/6lb3IdGu3LiSCPuMJyHSVV"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
+        "name": "Lo Que Tenias Conmigo",
+        "url": "https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 232838,
+      "name": "Lo Que Tenias Conmigo",
+      "url": "https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Lo Que Tenias Conmigo",
-        "url": "https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr"
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
         }
       ],
-      "duration_ms": 232838,
-      "name": "Lo Que Tenias Conmigo",
-      "url": "https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1"
+      "duration_ms": 249797,
+      "name": "Coraz\u00f3n Lic\u00e1ntropo",
+      "url": "https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1579,22 +1595,6 @@
       "duration_ms": 208502,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
-      },
-      "artists": [
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "duration_ms": 249797,
-      "name": "Coraz\u00f3n Lic\u00e1ntropo",
-      "url": "https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7"
+        "name": "Ella Es Como Vos",
+        "url": "https://open.spotify.com/album/1LfYBvw5tUsR0o4pVVRJWN"
       },
       "artists": [
         {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+          "name": "Antho Mattei",
+          "url": "https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl"
         }
       ],
-      "duration_ms": 233591,
-      "name": "Mi Nombre",
-      "url": "https://open.spotify.com/track/0HyUOz2Xp4d61ew3TCMkKC"
+      "duration_ms": 269773,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/4NiyWU5iTYOm95h2zHOFsk"
     }
   ],
   "unique_name": "EQUAL Argentina",

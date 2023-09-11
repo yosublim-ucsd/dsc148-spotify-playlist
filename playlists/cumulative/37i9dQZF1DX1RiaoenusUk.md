@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-97 songs - 6 hr 33 min
+98 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Olvidado en una Cueva Que Implotó](https://open.spotify.com/track/3CPcyW800SDhVerNoj8GQh) | [Nicolás Carou](https://open.spotify.com/artist/7Eo1djl0eJ1czhXpME4Dhp), [Wen](https://open.spotify.com/artist/1gPjLXy387NEzeZZGGx45q) | [¿Qué Le Hicimos a los Espejos?](https://open.spotify.com/album/2SrHyAA6EE5NFGv1vka41s) | 2:46 | 2023-09-07 |  |
 | [One Night](https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby) | [Núkuma](https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg) | [One Night](https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P) | 4:34 | 2023-02-17 |  |
 | [Papi ¿Dónde Está El Funk?](https://open.spotify.com/track/2xsAvvob9qFtBiEI1SK76p) | [Los Tetas](https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS) | [Latin Funk All\-Stars](https://open.spotify.com/album/1O5LoF8u5HvjPf54M9RS6A) | 5:50 | 2023-02-17 |  |
-| [Para Ernesto](https://open.spotify.com/track/5EpbaJs8fHwiVHag4ZHX8K) | [Marcelo Soler](https://open.spotify.com/artist/6RyrFvHJPFymCOzrfIyPdR), [Miguel Narvaez](https://open.spotify.com/artist/09lMweiqZ7U5McT0VqnLnO), [Nico Vera](https://open.spotify.com/artist/4P2ggHnAJsFCmzph1XpAL7) | [Para Ernesto](https://open.spotify.com/album/4tZc2ALthrdQKbO09arrs1) | 3:33 | 2023-02-17 |  |
+| [Para Ernesto](https://open.spotify.com/track/5EpbaJs8fHwiVHag4ZHX8K) | [Marcelo Soler](https://open.spotify.com/artist/6RyrFvHJPFymCOzrfIyPdR), [Miguel Narvaez](https://open.spotify.com/artist/09lMweiqZ7U5McT0VqnLnO), [Nico Vera](https://open.spotify.com/artist/4P2ggHnAJsFCmzph1XpAL7) | [Para Ernesto](https://open.spotify.com/album/4tZc2ALthrdQKbO09arrs1) | 3:33 | 2023-02-17 | 2023-09-11 |
 | [Pick Up On Your Line](https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8) | 4:46 | 2023-02-17 |  |
 | [Poppin](https://open.spotify.com/track/4y0BxbN4myQ0ty0mu0ZVty) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO), [Josefina Fiebelkorn](https://open.spotify.com/artist/5cTcXQ78LkQxxXNZcYyIiC), [Rojai](https://open.spotify.com/artist/2j6f7lxXOFnCcHVPcv9osR) | [Poppin](https://open.spotify.com/album/6NFHjrAmxBu1h3wqrZglVE) | 4:56 | 2023-02-17 |  |
 | [Por el Funk](https://open.spotify.com/track/2cpDLDHAaFOwQ4tjI9BN9l) | [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO) | [Por el Funk](https://open.spotify.com/album/1E5ueH8XpK3HUUoAwxHlnf) | 3:45 | 2023-02-17 |  |
@@ -89,6 +89,7 @@
 | [Resistencia](https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Under](https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n) | 3:38 | 2023-02-17 |  |
 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 | 2023-02-17 |  |
 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 | 2023-02-17 |  |
+| [Silver Mule](https://open.spotify.com/track/3PJmsTebOq650PohvoAOny) | [Reiband](https://open.spotify.com/artist/10JfXtdWDeKZKjP0LJkpiM) | [Disconnected](https://open.spotify.com/album/19SYYIX0zzZvm3zZjuncT3) | 3:50 | 2023-09-07 |  |
 | [Simon Freak](https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Tony 70](https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx) | 3:53 | 2023-02-17 |  |
 | [Sinestesia](https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Sinestesia](https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT) | 4:27 | 2023-02-17 |  |
 | [Sr\. A](https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Sr\. A](https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok) | 3:33 | 2023-02-17 |  |

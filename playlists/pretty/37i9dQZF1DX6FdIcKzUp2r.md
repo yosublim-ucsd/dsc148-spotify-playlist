@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,988 likes - 80 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,155 likes - 80 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 12 | [Hold Me Now](https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX) | 4:46 |
 | 13 | [Avalon](https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:16 |
 | 14 | [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
-| 15 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College & Electric Youth](https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 |
-| 16 | [The Power Of Love](https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 5:32 |
+| 15 | [The Power Of Love](https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 5:32 |
+| 16 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College & Electric Youth](https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 |
 | 17 | [The End Of The Innocence](https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:15 |
 | 18 | [This Woman's Work \- 2018 Remaster](https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 3:36 |
 | 19 | [The One You Love](https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [No Fun Aloud](https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ) | 4:34 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 34 | [In Too Deep \- 2007 Remaster](https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch \(2007 Remaster\)](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 5:02 |
 | 35 | [That's Just the Way It Is \- 2016 Remaster](https://open.spotify.com/track/5R1VlOafxN2pqpiEuFr1Hi) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:20 |
 | 36 | [Tara](https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 1:43 |
-| 37 | [Haunt Me](https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 5:50 |
-| 38 | [Wherever I Lay My Hat \(That's My Home\)](https://open.spotify.com/track/3yzM3pkIF5rlllUAAhFPx7) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [From Time To Time \- The Singles Collection](https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y) | 4:10 |
+| 37 | [Wherever I Lay My Hat \(That's My Home\)](https://open.spotify.com/track/3yzM3pkIF5rlllUAAhFPx7) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [From Time To Time \- The Singles Collection](https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y) | 4:10 |
+| 38 | [Haunt Me](https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 5:50 |
 | 39 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 | 40 | [Boadicea](https://open.spotify.com/track/3c9xinOHrEqF39omS0Czj1) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [The Celts](https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv) | 3:32 |
 | 41 | [Mystified \- 2017 Remaster](https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [With God On Our Side](https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 6:40 |
 | 80 | [Wild Theme](https://open.spotify.com/track/0RDDGPBOc9hgqQiBHvCBVi) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Local Hero](https://open.spotify.com/album/0xWqprLlB2Rjve0qQPoaaw) | 3:39 |
 
-Snapshot ID: `MCwzYjk3MjQ4YjFlMzNmMjhmM2I0YmJhOTcxYTQ2NDQ5MjBhMjVkNjEw`
+Snapshot ID: `MCxiYTk2ZWFjOTFkYmY0MzVmYzdjODQzOTMwMWM1Njk1MzVmMTZlOTQ3`

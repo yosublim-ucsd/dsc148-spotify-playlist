@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Irmãs de Pau, Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,665 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,706 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Betty Boop](https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Betty Boop](https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK) | 1:50 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCw5OTI5ZWZlNTBjZGU2ZDgxYzM2NzZlNDU3YjdhMTFiNWJjNjU0Mzhm`
+Snapshot ID: `MCw5MTIyY2FlYmY0ZDk5YmY4NmRjZGE1NWFmMzdjNzk1YTYyZDBmMzI1`

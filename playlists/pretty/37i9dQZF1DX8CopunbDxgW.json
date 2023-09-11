@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: Jungle",
-  "num_followers": 865419,
+  "num_followers": 865447,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzc3ZjYzNTczYzZkNDc2ZWFhZTk4YmJlMWE1NWM3MDFlYmYzNjk0",
+  "snapshot_id": "MCwwNDNkYzNhODI0YjdmNDY2YzE3ZmU5ZTM1MzJkZjFiZjhkOWEwN2E3",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Feel Like Makin' Love (feat. Roberta Flack)",
         "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 215000,
       "name": "Feel Like Makin' Love (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Landscape",
-        "url": "https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        },
-        {
-          "name": "Banji",
-          "url": "https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc"
-        }
-      ],
-      "duration_ms": 160730,
-      "name": "Landscape",
-      "url": "https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Waiting Forever",
         "url": "https://open.spotify.com/album/56aLlCwfr5e53TVYK0LOc5"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 186795,
       "name": "Waiting Forever",
       "url": "https://open.spotify.com/track/0wABBgkiamVDvK04MUvHkU"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Landscape",
+        "url": "https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "name": "Banji",
+          "url": "https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc"
+        }
+      ],
+      "duration_ms": 160730,
+      "name": "Landscape",
+      "url": "https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Differences",
         "url": "https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 220621,
       "name": "Headlights On",
       "url": "https://open.spotify.com/track/2GqjQzjkjdyRm4IER4rP9a"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1169,6 +1169,22 @@
       "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
     },
     {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Pull Me Back",
+        "url": "https://open.spotify.com/album/3xs74lOmX9CWx2ZC7nbEYC"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 171304,
+      "name": "Pull Me Back",
+      "url": "https://open.spotify.com/track/74KoMmEZUjg01KyqNlrr5E"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "The Mall",
@@ -1187,22 +1203,6 @@
       "duration_ms": 159720,
       "name": "The Carousel",
       "url": "https://open.spotify.com/track/7eTsUmK19laiJ3uaXqLU2I"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Pull Me Back",
-        "url": "https://open.spotify.com/album/3xs74lOmX9CWx2ZC7nbEYC"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 171304,
-      "name": "Pull Me Back",
-      "url": "https://open.spotify.com/track/74KoMmEZUjg01KyqNlrr5E"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Day Dreams",
+        "url": "https://open.spotify.com/album/2bb8gN0xF2BGAGrolED9zU"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Day Dreams",
+      "url": "https://open.spotify.com/track/03DGwbY8WataLlPkklkXKL"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "All The Things We Say / Move Me",
         "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
       },
@@ -1299,38 +1315,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Time To Run",
-        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Time To Run",
-      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "A Little Bit Further",
-        "url": "https://open.spotify.com/album/1EyXqBrGIPPnKWOuGubCDb"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 302065,
-      "name": "A Little Bit Further",
-      "url": "https://open.spotify.com/track/5KY4shvDTZMZ9wt3piadQ8"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "DAYS GO BY",
         "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
       },
@@ -1351,18 +1335,50 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Day Dreams",
-        "url": "https://open.spotify.com/album/2bb8gN0xF2BGAGrolED9zU"
+        "name": "A Little Bit Further",
+        "url": "https://open.spotify.com/album/1EyXqBrGIPPnKWOuGubCDb"
       },
       "artists": [
         {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         }
       ],
-      "duration_ms": 225120,
-      "name": "Day Dreams",
-      "url": "https://open.spotify.com/track/03DGwbY8WataLlPkklkXKL"
+      "duration_ms": 302065,
+      "name": "A Little Bit Further",
+      "url": "https://open.spotify.com/track/5KY4shvDTZMZ9wt3piadQ8"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Time To Run",
+        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Time To Run",
+      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/5slmjDmkuBgIkl3HPc3GHw"
+      },
+      "artists": [
+        {
+          "name": "SAFIA",
+          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2vHCoBojKudmRjFUnPsKys"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1419,22 +1435,6 @@
       "duration_ms": 237986,
       "name": "In The Summer",
       "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Float",
-        "url": "https://open.spotify.com/album/5slmjDmkuBgIkl3HPc3GHw"
-      },
-      "artists": [
-        {
-          "name": "SAFIA",
-          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/2vHCoBojKudmRjFUnPsKys"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Soy Gitano EP",
+        "url": "https://open.spotify.com/album/5pB761K03E09m3aZz9YFOM"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 204848,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Palaces : The Remixes, Pt. 3",
         "url": "https://open.spotify.com/album/3lGjGtDlA1E1fo7q4VeJng"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 277865,
       "name": "Sirens (feat. Caroline Polachek) [Tourist Remix]",
       "url": "https://open.spotify.com/track/6OoLVkHNPsKuPdOBAkhg4r"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Soy Gitano EP",
-        "url": "https://open.spotify.com/album/5pB761K03E09m3aZz9YFOM"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 204848,
-      "name": "Our Way",
-      "url": "https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "CRYSTAL BALL",
+        "url": "https://open.spotify.com/album/7ELlYESO3bDuxoaL7IWk50"
+      },
+      "artists": [
+        {
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+        }
+      ],
+      "duration_ms": 154013,
+      "name": "CRYSTAL BALL",
+      "url": "https://open.spotify.com/track/3wDBk1GUThtWitWubRzrFX"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Love In C Minor (Franc Moody Remix)",
         "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
       },
@@ -1671,38 +1687,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "CRYSTAL BALL",
-        "url": "https://open.spotify.com/album/7ELlYESO3bDuxoaL7IWk50"
-      },
-      "artists": [
-        {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
-        }
-      ],
-      "duration_ms": 154013,
-      "name": "CRYSTAL BALL",
-      "url": "https://open.spotify.com/track/3wDBk1GUThtWitWubRzrFX"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/2jXg4NPRQFiJRoQtuEoh3H"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 216278,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/1XUcmMksyUn0HwGaE7smrz"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "RISE (Darius Remix)",
         "url": "https://open.spotify.com/album/11H0eAX1PYOz4XENIBHmRL"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 451034,
       "name": "RISE - Darius Remix",
       "url": "https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2jXg4NPRQFiJRoQtuEoh3H"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 216278,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/1XUcmMksyUn0HwGaE7smrz"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1809,6 +1809,26 @@
       "url": "https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP"
     },
     {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "GITHPREMIXEDITION",
+        "url": "https://open.spotify.com/album/0pEbmdBXGb0acfUfxGEy9q"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Ben Hixon",
+          "url": "https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP"
+        }
+      ],
+      "duration_ms": 145945,
+      "name": "NoNewNews!!! - Ben Hixon Remix",
+      "url": "https://open.spotify.com/track/6aquBTxK51IypBHnGoJDTJ"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "MOONSHOTS",
@@ -1831,26 +1851,6 @@
       "duration_ms": 191253,
       "name": "DREAMS!",
       "url": "https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "GITHPREMIXEDITION",
-        "url": "https://open.spotify.com/album/0pEbmdBXGb0acfUfxGEy9q"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        },
-        {
-          "name": "Ben Hixon",
-          "url": "https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP"
-        }
-      ],
-      "duration_ms": 145945,
-      "name": "NoNewNews!!! - Ben Hixon Remix",
-      "url": "https://open.spotify.com/track/6aquBTxK51IypBHnGoJDTJ"
     }
   ],
   "unique_name": "metropolis",

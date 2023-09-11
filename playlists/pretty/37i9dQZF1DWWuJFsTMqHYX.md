@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,876 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,046 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 24 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
 | 25 | [Tabali te](https://open.spotify.com/track/6F28CLAzz6JwhfkBjyEgKx) | [Bassekou Kouyate](https://open.spotify.com/artist/2reknFuZPFjVat474Q35SQ), [Ngoni ba](https://open.spotify.com/artist/2wgNtcVFxnFkxrjpPZxXiw) | [Segu Blue](https://open.spotify.com/album/4QTlRKU34j7RvBuflzAOSP) | 1:46 |
 | 26 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 |
-| 27 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
-| 28 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 |
+| 27 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 |
+| 28 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
 | 29 | [Rachid Ouiguini](https://open.spotify.com/track/6py8BqF0Lk1P8YoXXTRw5P) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV) | 4:33 |
 | 30 | [Haiyu](https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [Shouka](https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0) | 3:22 |
 | 31 | [Hona](https://open.spotify.com/track/36OpkSbeJVaADUgJynvdht) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 |
 | 50 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
 
-Snapshot ID: `MCxmYWM4ZjIyN2ViN2IyNTIyMTJlZTc1MzhhNTc3MGY2OGUzNjVlODg3`
+Snapshot ID: `MCwzYzliZDQ3ODA1NjM0OGY4ZDI4NmFkYjVmMzE4ZGM5M2NlM2UyZjA2`

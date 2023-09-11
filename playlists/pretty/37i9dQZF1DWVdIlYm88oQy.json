@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 44652,
+  "num_followers": 44720,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmY5MDFiMTM0ZTc0NDUyZjZmMTg3NjFkNjhlYTBjZGI5MTIxYmEx",
+  "snapshot_id": "MCxkZTQzN2M2MjBhMThiMDZlMDcwZWQ5ZGZmZjdkZDE4NDYyYzk1Yjhk",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 212481,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 445080,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 212481,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Para vosotros canto",
-        "url": "https://open.spotify.com/album/76BfWcR9EHcvRJaxKA4V4t"
+        "name": "Sus Mas Grandes Exit",
+        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+          "name": "Angela Carrasco",
+          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
         }
       ],
-      "duration_ms": 279506,
-      "name": "Y Te Vas",
-      "url": "https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK"
+      "duration_ms": 275600,
+      "name": "Quererte a Ti",
+      "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Sus Mas Grandes Exit",
-        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
+        "name": "Para vosotros canto",
+        "url": "https://open.spotify.com/album/76BfWcR9EHcvRJaxKA4V4t"
       },
       "artists": [
         {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
         }
       ],
-      "duration_ms": 275600,
-      "name": "Quererte a Ti",
-      "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
+      "duration_ms": 279506,
+      "name": "Y Te Vas",
+      "url": "https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
+        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
+        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "duration_ms": 380080,
+      "name": "Nasty Sexo",
+      "url": "https://open.spotify.com/track/1QF2cLdi0hsrXlzaNOmHoS"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
         "name": "Alma con Alma",
         "url": "https://open.spotify.com/album/7sbG3cmyJzRI5QAA5fK1uf"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 187431,
       "name": "Murmullo Del Mar",
       "url": "https://open.spotify.com/track/2XAyyJigU8OPixEtBLXAIi"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
-        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
-        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
-      },
-      "artists": [
-        {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
-        }
-      ],
-      "duration_ms": 380080,
-      "name": "Nasty Sexo",
-      "url": "https://open.spotify.com/track/1QF2cLdi0hsrXlzaNOmHoS"
     },
     {
       "added_at": "2023-02-17 20:59:31",

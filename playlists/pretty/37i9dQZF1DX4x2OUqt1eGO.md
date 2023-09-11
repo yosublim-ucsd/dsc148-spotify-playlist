@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Naveen Kumar
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,680 likes - 75 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,706 likes - 75 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 34 | [Mountain Bird](https://open.spotify.com/track/4EaPLCrLWM8PdFNjvXf3iE) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Flutetronics](https://open.spotify.com/album/5LVsH3zmGKsvGypCeVMIHF) | 4:59 |
 | 35 | [I Will Not Be Sad In This World](https://open.spotify.com/track/0Lk10uvbHkIvGXLdVV3J9h) | [Djivan Gasparyan](https://open.spotify.com/artist/7ABrk0PO1Bz1U4G023WzSk) | [I Will Not Be Sad In This World](https://open.spotify.com/album/21UjyMSvz5ujaFfrs3ZT8x) | 6:18 |
 | 36 | [Indian Nights](https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [OM Yoga Mix](https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P) | 11:26 |
-| 37 | [Noble Courtship](https://open.spotify.com/track/1V8W6vKHeGDPRfrZwfqDDA) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Noble Courtship](https://open.spotify.com/album/335EBUdXTN0I03fNwNldDB) | 3:19 |
-| 38 | [Krishna Bansuri](https://open.spotify.com/track/4rFZgG0MTumGJBadcF66G6) | [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U), [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV) | [Krishna Bansuri](https://open.spotify.com/album/1rA8kzZkghg5OI4AzwCQ4j) | 1:31 |
+| 37 | [Krishna Bansuri](https://open.spotify.com/track/4rFZgG0MTumGJBadcF66G6) | [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U), [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV) | [Krishna Bansuri](https://open.spotify.com/album/1rA8kzZkghg5OI4AzwCQ4j) | 1:31 |
+| 38 | [Noble Courtship](https://open.spotify.com/track/1V8W6vKHeGDPRfrZwfqDDA) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Noble Courtship](https://open.spotify.com/album/335EBUdXTN0I03fNwNldDB) | 3:19 |
 | 39 | [Light of Night](https://open.spotify.com/track/7rjWPpOeQPWtan08othxfi) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Light of Night](https://open.spotify.com/album/4hxC0op0FiyhjcMHWwHGvb) | 3:17 |
 | 40 | [Flute Puriya Dhanashri](https://open.spotify.com/track/25m6wScMul9ga6xH7eo9Md) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:08 |
 | 41 | [Har Kisi Ko Nahi Milta](https://open.spotify.com/track/5W6WulSb6HrJgwVmaFDpfj) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Har Kisi Ko Nahi Milta \- Sentiments Of Love \(Instrumental\)](https://open.spotify.com/album/22kDYgl6ffaKP1bmiZeUJc) | 3:15 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 55 | [Karunardra Sneham \- Flute](https://open.spotify.com/track/5jzIRp19kymwPoRqijcNYP) | [Rajesh Cherthala](https://open.spotify.com/artist/4anJMRin2Eu12jUJKHvuDw) | [Karunardra Sneham \- Single](https://open.spotify.com/album/0F3b5PTSBU9GUkgU593Jh0) | 4:50 |
 | 56 | [Varanasi My Soul \- Banarasi Kajri \- Raga Pilu](https://open.spotify.com/track/0S9Uklvmnxs5uUSt8UQikf) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Bansuri: The Indian Flute](https://open.spotify.com/album/431hmllyP1obMhA2ssxxXw) | 7:26 |
 | 57 | [Relaxing Native Flute](https://open.spotify.com/track/47tBhzrgzEpKKHbPBeAYVr) | [Meditation Waves](https://open.spotify.com/artist/68Yiv3GKHZdgjlnjPU2Ccw) | [Healing Native Flute Meditation Songs](https://open.spotify.com/album/1inj4Jlc8iow4WVhR0WeB8) | 4:19 |
-| 58 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 |
-| 59 | [Durga](https://open.spotify.com/track/1f3Etpk0UmSDoj4zHYqIHu) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw), [Sriram Ramesh](https://open.spotify.com/artist/0DxF5hX19dKuP5x4oE5N2F), [Marina Albero](https://open.spotify.com/artist/2jWfppHhFHZewG8RWk8LHb), [Evan Flory\-Barnes](https://open.spotify.com/artist/4OXSAa2INCHHC74mkGy80D) | [The London Bridge Sessions](https://open.spotify.com/album/4e3EI9dcP63C8kzY4n0qyj) | 3:58 |
+| 58 | [Durga](https://open.spotify.com/track/1f3Etpk0UmSDoj4zHYqIHu) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw), [Sriram Ramesh](https://open.spotify.com/artist/0DxF5hX19dKuP5x4oE5N2F), [Marina Albero](https://open.spotify.com/artist/2jWfppHhFHZewG8RWk8LHb), [Evan Flory\-Barnes](https://open.spotify.com/artist/4OXSAa2INCHHC74mkGy80D) | [The London Bridge Sessions](https://open.spotify.com/album/4e3EI9dcP63C8kzY4n0qyj) | 3:58 |
+| 59 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 |
 | 60 | [Just Such Beauty](https://open.spotify.com/track/11XUNxCy1Ry7lAPMCMHsZW) | [Paul Adams](https://open.spotify.com/artist/5qEDGvC2RIXBDMQ9vRjgp5), [Pravin Godkhindi](https://open.spotify.com/artist/5zsiGj3C1bfEBeWtq0ryPe), [Elizabeth Geyer](https://open.spotify.com/artist/1NfXeYNUy4x1LF6AYfqLRM) | [Imaginings](https://open.spotify.com/album/0bSGln3ne5RW6ri7ScrAYD) | 4:58 |
 | 61 | [Bansuri \(Tranquil Waters\)](https://open.spotify.com/track/7AyWhg7yOGaT1a8juVaFAF) | [Indian Flute](https://open.spotify.com/artist/4vz48P0cvMOxI2BVAbGcbD) | [Indian Flute Meditation Music \(Pure Positive Vibes & Instrumental Music for Meditation and Yoga\)](https://open.spotify.com/album/42mCdQJfJr1SkICZy0KGaw) | 4:33 |
 | 62 | [Annapurna \(Hindustani Bansuri\) \[Live\]](https://open.spotify.com/track/2kpkGEpXCwvDXFJBnYHSrm) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Nada Aradhana: An Offering of Sounds, Vol\. 3 \(Live\)](https://open.spotify.com/album/36w1DR4UGdXss7AgJLMeb4) | 10:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 74 | [Between Thoughts](https://open.spotify.com/track/1CRP3o6j10DCJ4HMbBQvnj) | [Deepak Ram](https://open.spotify.com/artist/0IRHoIb1ZFEVrwdm0SzPh5) | [Flute For Thought](https://open.spotify.com/album/5SSsDneKbYQb2blJsE49Xe) | 10:09 |
 | 75 | [Realization \- Raga Rageshri](https://open.spotify.com/track/1lGzVMtAxIE7Z1onbuFj32) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Bansuri: The Indian Flute](https://open.spotify.com/album/431hmllyP1obMhA2ssxxXw) | 7:37 |
 
-Snapshot ID: `MCw5ZWE4OTkzYjc0ZWMxNjA3YjM4OGYzZWVlYWFhZjVlNjk3NmFjOWE3`
+Snapshot ID: `MCxjYzZjZWU2NTMyZTBkOGQwMTc2YmQwZTBmZDNkZjFmOWEzY2Y3ODQ5`

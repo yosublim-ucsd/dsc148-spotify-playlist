@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,582 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,598 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 37 | [Hip Hop Rare](https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB) | 2:03 |
 | 38 | [Jhony Convida \#7 \- Preto$](https://open.spotify.com/track/3D6lFwZAMGDuAUb5YuuUwQ) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [Spike mc](https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Blackoutt MC](https://open.spotify.com/artist/4BuVB9M4LodpY72q4pXoS0) | [Jhony Convida \#7 \- Preto$](https://open.spotify.com/album/0srN7DSRvf01APXmDyaZ0q) | 4:59 |
 | 39 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
-| 40 | [Sobe O Morro](https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Sobe O Morro](https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl) | 2:42 |
-| 41 | [NAGÔ](https://open.spotify.com/track/5FIF8T1ns1YEQVuq6rjGMw) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [NAGÔ](https://open.spotify.com/album/3wSJQ19HeumQwpmWiiJ8kJ) | 3:27 |
+| 40 | [NAGÔ](https://open.spotify.com/track/5FIF8T1ns1YEQVuq6rjGMw) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [NAGÔ](https://open.spotify.com/album/3wSJQ19HeumQwpmWiiJ8kJ) | 3:27 |
+| 41 | [Sobe O Morro](https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Sobe O Morro](https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl) | 2:42 |
 | 42 | [Homem da Noite](https://open.spotify.com/track/6DknEDDuon7HHYFcji6VEk) | [Cleiton Oliveira](https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs) | [Homem da Noite](https://open.spotify.com/album/09scSCeX8e2a5J5HAB6riJ) | 3:10 |
 | 43 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
 | 44 | [Diretamente do Rio](https://open.spotify.com/track/39iYTBGec9n0kaPn9eJggw) | [Baga](https://open.spotify.com/artist/6BbFS8BB3MT9nwTQKNDF9Q), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Diretamente do Rio](https://open.spotify.com/album/2Oqh0XdTGpSthDH8fuOyu8) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
 | 50 | [Uma Fase](https://open.spotify.com/track/6xkKyZinrWXX4FVUuuBeSD) | [Afree](https://open.spotify.com/artist/218HbunxGqD47MTClAmg6s), [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl) | [Uma Fase](https://open.spotify.com/album/1B56BdIqTZvCMk0UOhkDbY) | 3:18 |
 
-Snapshot ID: `MCwxNDE1ODU3MTFlYjg1OGE1NzU4YTgxOTQ3MDAyOWQzYjkyNzIyZTdh`
+Snapshot ID: `MCxkOTI5ZDVmMTEzMTBjNjYxYzllZTU1NzQxZDYxMzdkZDcwZGU4YThh`

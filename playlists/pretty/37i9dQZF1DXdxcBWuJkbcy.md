@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,930,630 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,931,538 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 74 | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7) | 2:19 |
 | 75 | [WOW \(feat\. ÁSDÍS\)](https://open.spotify.com/track/318quSv1UJeamoAkEDjAuY) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [WOW \(feat\. ÁSDÍS\)](https://open.spotify.com/album/5wGgVYOO2isbGL0WA5fs2Q) | 2:23 |
 | 76 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
-| 77 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 |
-| 78 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 |
+| 77 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 |
+| 78 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 |
 | 79 | [Miracle \(with Ellie Goulding\) \- Hardwell Remix](https://open.spotify.com/track/4LwbGXpHNvKkwiyLFBsBBQ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Miracle \(with Ellie Goulding\) \[Hardwell Remix\]](https://open.spotify.com/album/3LswMGIQwIQpJztiYx37xs) | 3:04 |
 | 80 | [Broken \- Lost Frequencies Cut](https://open.spotify.com/track/1C1zuA0hSfyNYFOTUddCzO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Broken \(Lost Frequencies Cut\)](https://open.spotify.com/album/2aKRgqvnqmAJ0NxZ6VD9Jc) | 2:52 |
 
-Snapshot ID: `MCxlMmYyOWYxYjA0MWY0ZGIxMGJiM2IxNTdhNjRiMDkyY2E4NzQ5N2My`
+Snapshot ID: `MCw0MTUyYmUyNDkzYTVmMzc1YTVkZmM1Y2QwNWQ1Mzc0OTdmNDA4NTJk`

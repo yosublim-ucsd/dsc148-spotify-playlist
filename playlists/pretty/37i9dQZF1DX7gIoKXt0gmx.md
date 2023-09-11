@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,675,181 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,676,016 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 14 | [Location](https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:39 |
 | 15 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 |
 | 16 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 |
-| 17 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
-| 18 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:12 |
+| 17 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:12 |
+| 18 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
 | 19 | [Right My Wrongs](https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 4:09 |
 | 20 | [Jealous \(with Ella Mai\)](https://open.spotify.com/track/2HXzOhKhZ46k5cLBPTlfuJ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Jealous](https://open.spotify.com/album/3H6JHY6lWD4zKIbIjmXLh9) | 3:45 |
 | 21 | [Playing Games \(with Bryson Tiller\) \- Extended Version](https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 81 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
 | 82 | [Losing](https://open.spotify.com/track/20E9JE3J8dHNDj9saOeNgu) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:45 |
 | 83 | [MUTUAL FRIEND](https://open.spotify.com/track/6PFyd6Gmp2LZHI1IpkZGgy) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:26 |
-| 84 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
-| 85 | [More Than Enough](https://open.spotify.com/track/1NjQZi2ajwmJsfnimLr41I) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [More Than Enough](https://open.spotify.com/album/0xfm90Zo2EQ9rSECde8uOq) | 2:31 |
+| 84 | [More Than Enough](https://open.spotify.com/track/1NjQZi2ajwmJsfnimLr41I) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [More Than Enough](https://open.spotify.com/album/0xfm90Zo2EQ9rSECde8uOq) | 2:31 |
+| 85 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
 | 86 | [Got Me \(with Ari Lennox & Omen feat\. Ty Dolla $ign & Dreezy\)](https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Omen](https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 4:44 |
 | 87 | [Do I Ever \(feat\. Chris Brown\)](https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Still FWM](https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO) | 3:10 |
 | 88 | [more than i should \(feat\. jessie reyez\)](https://open.spotify.com/track/20jLHaXVhMFjwHs1JPjL4S) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 |
 | 100 | [Be the One \(feat\. Col3trane\) \[Remix\]](https://open.spotify.com/track/42O0dHAlTU9oXiqz1tdjXH) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Be the One \(feat\. Col3trane\) \[Remix\]](https://open.spotify.com/album/1kh2ZdQPCS1R0Ed2wylzoE) | 3:11 |
 
-Snapshot ID: `MCw2YTQ1ZDM4Yjc5OWZiNjBlNWQ3ZGU4Y2MyMDNkOTM4ZDYxZjRjNDA1`
+Snapshot ID: `MCxjMTE5MGM3MGExOTlmYzcyN2I1ZjJiNzVlYTNmNjg4NjAzNjY4ZjYw`

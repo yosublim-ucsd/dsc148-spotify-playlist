@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,366 likes - 123 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,373 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,9 +110,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 100 | [Like A Movie](https://open.spotify.com/track/2ZSPHTpYqx2icUcbkr6Y5O) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [Like A Movie](https://open.spotify.com/album/2WvBKcO2WKwcVX97RWhQD4) | 3:16 |
 | 101 | [It is U](https://open.spotify.com/track/1vZB60Vn6CxFXaeixbPwni) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [OST \(Plz Luv Me Again\)](https://open.spotify.com/album/7bRCsUatH9bzjmpCR32yut) | 3:28 |
 | 102 | [SUN](https://open.spotify.com/track/32lY8lZDjJ90bvK30IuwNp) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [Like A Movie](https://open.spotify.com/album/2WvBKcO2WKwcVX97RWhQD4) | 3:16 |
-| 103 | [NEW DAYZ](https://open.spotify.com/track/5WfZIXUF0PlUMUcETTpk7t) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter\. \[NEW DAYZ\]](https://open.spotify.com/album/6UWqRWFu1heBKnelgnZxs2) | 3:26 |
-| 104 | [VAGABOND](https://open.spotify.com/track/62zGOAGCpElZUCN0TzP39r) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter\. \[UNKNOWN CODE\]](https://open.spotify.com/album/3wyH7Q759y9mOANdEOwuJS) | 3:26 |
-| 105 | [TNT \(Truth&Trust\)](https://open.spotify.com/track/4T30WW01s7L6kVDjJcIjST) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter 1\. TRACKS](https://open.spotify.com/album/2ZgUNU6gmCxWtEdHNWjtDw) | 3:19 |
+| 103 | [MY WAY](https://open.spotify.com/track/6w4QiIpOwtNKDMQBXBkBCS) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [STILL ON MY WAY](https://open.spotify.com/album/6aR92xjZNT47PxQDhQb4wC) | 3:27 |
+| 104 | [NEW DAYZ](https://open.spotify.com/track/5WfZIXUF0PlUMUcETTpk7t) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter\. \[NEW DAYZ\]](https://open.spotify.com/album/6UWqRWFu1heBKnelgnZxs2) | 3:26 |
+| 105 | [VAGABOND](https://open.spotify.com/track/62zGOAGCpElZUCN0TzP39r) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter\. \[UNKNOWN CODE\]](https://open.spotify.com/album/3wyH7Q759y9mOANdEOwuJS) | 3:26 |
 | 106 | [Big Fish](https://open.spotify.com/track/5A6bPhrJPExuA0fk3R1MiG) | [Harrybigbutton](https://open.spotify.com/artist/0ePqNOsEhh6mPuKWLhggld) | [Big Fish](https://open.spotify.com/album/5NoT8emADav2mtgS8GNvid) | 4:46 |
 | 107 | [Thelma & Louise](https://open.spotify.com/track/6OJmaq8tvZt0DR0wndogQF) | [Harrybigbutton](https://open.spotify.com/artist/0ePqNOsEhh6mPuKWLhggld) | [Big Fish](https://open.spotify.com/album/5NoT8emADav2mtgS8GNvid) | 3:32 |
 | 108 | [Coffee, Cigarettes and Rock'N'Roll](https://open.spotify.com/track/0vPELN49vvMOP5hUfiyrn7) | [Harrybigbutton](https://open.spotify.com/artist/0ePqNOsEhh6mPuKWLhggld) | [Man Of Spirit](https://open.spotify.com/album/7IPiExA4UzlbrXNn4midCk) | 3:17 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 122 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 |
 | 123 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
 
-Snapshot ID: `MCwxYmEwYjgyZDdkODkyZjhmYTZjMjI1Y2QyYWI2MWI0MmNhMmVmZDhi`
+Snapshot ID: `MCxiYWExYTQyMDYyNmY1OTk4MWY5NjYyZjdlZWVlNmFiMjI4MzJjYmYw`

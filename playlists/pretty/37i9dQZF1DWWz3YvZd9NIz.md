@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,145 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,594 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |
 | 70 | [Anyplace, Anywhere, Anytime \(Hardstyle Mix\)](https://open.spotify.com/track/6dHfWCHrgS2edtCqfMDnrf) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [ARK8](https://open.spotify.com/artist/6kTcTX6mM97SiF8D64B6AT) | [Anyplace, Anywhere, Anytime \(Hardstyle Mix\)](https://open.spotify.com/album/4LjPuviAC9iGENpSNZ2jZv) | 2:27 |
 
-Snapshot ID: `MCw4MTk2YjU3OWM5MDkzMWE2M2U2NzBiOTE1MDc4OWNlMzMxMzcyOTUy`
+Snapshot ID: `MCw0ZDg2ZWViNTQ2NGRlZTgxYTBiODM0NzgzMGMyNzkzNmJlY2VhM2Fm`

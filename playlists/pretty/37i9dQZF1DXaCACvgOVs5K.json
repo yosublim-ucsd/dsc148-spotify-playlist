@@ -1,12 +1,12 @@
 {
   "description": "Get ready for Ibiza season 2023. See you on the dancefloor.",
-  "num_followers": 211670,
+  "num_followers": 212321,
   "original_name": "Ibiza 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmQ0MTYyNGY0ZDU2YzdmMzZhY2JiY2JhOWNhYzU4Njc2ZGNkNjYy",
+  "snapshot_id": "MCxjMDMwY2QwODQ4OWIyZmRkNTM0OTI4MmE2OWU4ODg4YjA4YTcxNDE3",
   "tracks": [
     {
       "added_at": "2023-07-26 15:24:42",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
+    {
+      "added_at": "2023-07-26 15:24:42",
+      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2023-07-26 15:24:42",
-      "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "La Danza",
-      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
     },
     {
       "added_at": "2023-07-26 15:24:42",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
+        "name": "Welcome To The People",
+        "url": "https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "duration_ms": 160669,
+      "name": "Welcome To The People",
+      "url": "https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5"
+    },
+    {
+      "added_at": "2023-07-26 15:24:42",
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 242880,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
-    },
-    {
-      "added_at": "2023-07-26 15:24:42",
-      "album": {
-        "name": "Welcome To The People",
-        "url": "https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF"
-      },
-      "artists": [
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 160669,
-      "name": "Welcome To The People",
-      "url": "https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5"
     },
     {
       "added_at": "2023-07-26 15:24:42",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/2LeGGDt1Nn31jdCThW1SKW"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 170196,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU"
-    },
-    {
-      "added_at": "2023-07-26 15:24:42",
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 175833,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
+    },
+    {
+      "added_at": "2023-07-26 15:24:42",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/2LeGGDt1Nn31jdCThW1SKW"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 170196,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU"
     },
     {
       "added_at": "2023-07-26 15:24:42",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
-        "name": "It's A Killa",
-        "url": "https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 200028,
-      "name": "It's A Killa",
-      "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
-    },
-    {
-      "added_at": "2023-07-26 15:24:42",
-      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
+    },
+    {
+      "added_at": "2023-07-26 15:24:42",
+      "album": {
+        "name": "It's A Killa",
+        "url": "https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 200028,
+      "name": "It's A Killa",
+      "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
     },
     {
       "added_at": "2023-07-26 15:24:42",
@@ -1527,30 +1527,6 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
-        "name": "Diplo",
-        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
-    },
-    {
-      "added_at": "2023-07-26 15:24:42",
-      "album": {
         "name": "My City's On Fire (Anyma & Cassian Remix)",
         "url": "https://open.spotify.com/album/7CrZ3IMVHng3uOXib7KFNU"
       },
@@ -1571,6 +1547,30 @@
       "duration_ms": 199047,
       "name": "My City's On Fire (Anyma & Cassian Remix)",
       "url": "https://open.spotify.com/track/30sR2mBD6VIUk1w93XDMOL"
+    },
+    {
+      "added_at": "2023-07-26 15:24:42",
+      "album": {
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
     },
     {
       "added_at": "2023-07-26 15:24:42",
@@ -1763,6 +1763,30 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
+        "name": "Nightjar (feat. SHELLS)",
+        "url": "https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 149455,
+      "name": "Nightjar (feat. SHELLS)",
+      "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
+    },
+    {
+      "added_at": "2023-07-26 15:24:42",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
@@ -1791,30 +1815,6 @@
       "duration_ms": 157836,
       "name": "Hawt",
       "url": "https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z"
-    },
-    {
-      "added_at": "2023-07-26 15:24:42",
-      "album": {
-        "name": "Nightjar (feat. SHELLS)",
-        "url": "https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "SHELLS",
-          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
-        }
-      ],
-      "duration_ms": 149455,
-      "name": "Nightjar (feat. SHELLS)",
-      "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
     },
     {
       "added_at": "2023-07-26 15:24:42",

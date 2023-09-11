@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,846 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,950 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 41 | [Follow the Sunshine](https://open.spotify.com/track/1gbVT4Och2a9kk3mtpEYQw) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Follow the Sunshine](https://open.spotify.com/album/6yoF9geojHAisLNofJYTwg) | 3:01 |
 | 42 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
 | 43 | [Starry Eyes](https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv) | 4:18 |
-| 44 | [Things We Do for Love](https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [The Sha La Das](https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 3:28 |
-| 45 | [Man of the Universe](https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:09 |
+| 44 | [Man of the Universe](https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:09 |
+| 45 | [Things We Do for Love](https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [The Sha La Das](https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 3:28 |
 | 46 | [These Eyes](https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:40 |
 | 47 | [Blue Magic \(Waikiki\)](https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
 | 48 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 77 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 |
 | 78 | [Motorway](https://open.spotify.com/track/4x1wEZiMblCHTpsO3HviGV) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Motorway](https://open.spotify.com/album/5K458YIkowsLUlFzo6ENsG) | 3:35 |
 | 79 | [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 |
-| 80 | [Joy In The Battle](https://open.spotify.com/track/085xF3tCAXlTmaWDczmwmv) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [The Hope of My Soul](https://open.spotify.com/album/7ghSniRwAWBJiW6PKfMbC5) | 3:40 |
+| 80 | [Next Time](https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Soul Power](https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40) | 4:30 |
 
-Snapshot ID: `MCwyMTFhNTA0MzYyYzljOTcyMjYwMWE2YmJiYzdkOWRkYmUxZmRjYWZl`
+Snapshot ID: `MCw3OTZiNTBiNDllZDc4MDllNjcyMTUxMDUwOWU2MTdlZjc5MmMwYzMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > ¡Pa' toda la raza carnavalera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,171 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,280 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 15 | [La Chucha](https://open.spotify.com/track/4D0nMy6ertx5YXsmBWux5p) | [Los 3 Del Norteño](https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT) | [La Chucha](https://open.spotify.com/album/1PPUm7GpAdJ2HOMgXsYRNo) | 2:10 |
 | 16 | [Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana](https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Una No Es Ninguna](https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw) | 4:11 |
 | 17 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 |
-| 18 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 |
-| 19 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 |
-| 20 | [La Rabia](https://open.spotify.com/track/6vVdR7jAZVVCc4qx2JMLVz) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Bailando Ando](https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss) | 2:14 |
-| 21 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 |
+| 18 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 |
+| 19 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 |
+| 20 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 |
+| 21 | [La Rabia](https://open.spotify.com/track/6vVdR7jAZVVCc4qx2JMLVz) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Bailando Ando](https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss) | 2:14 |
 | 22 | [Y Claro Que Se Puede \- Sones para Jaripeo](https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf) | [Banda los Chirimoyos](https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb) | [Aquel Amor \(Desde Tingambato Michoacan\)](https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr) | 4:06 |
 | 23 | [Carnaval Putleco](https://open.spotify.com/track/5ApbRWd5f7L5leQqtBdbgA) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Desquítate Conmigo](https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S) | 3:33 |
 | 24 | [Al Estilo Potosí: El Pistolero / Ordeñando la Vaca / Cuando los Frijoles Bailan](https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 4:24 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 33 | [Pequeña de Ojos Brujos](https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u) | [Hermanos Romero](https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ) | [Se Les Peló Baltazar](https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX) | 3:05 |
 | 34 | [El Pistolero \- Son, Huapangobanda](https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz) | [Banda Corona de Michoacan](https://open.spotify.com/artist/0f5mM9qAQxnIC04LKP2VZy) | [La Fiera 2018](https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg) | 3:38 |
 | 35 | [Mujer Alegre](https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9), [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Mujer Alegre](https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat) | 3:37 |
-| 36 | [Carnavalerita](https://open.spotify.com/track/1uDoaYRjEPOsss80u8IKdF) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 2:36 |
+| 36 | [Quítate El Zapato](https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Me Hacían Falta Huevos](https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI) | 3:18 |
 | 37 | [La Conga Roja \(En Vivo\)](https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 2:55 |
-| 38 | [Quítate El Zapato](https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Me Hacían Falta Huevos](https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI) | 3:18 |
+| 38 | [Carnavalerita](https://open.spotify.com/track/1uDoaYRjEPOsss80u8IKdF) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 2:36 |
 | 39 | [Popurrí Mexicano: Son de la Negra / Pelea de Gallos](https://open.spotify.com/track/0gi7rXrTRTmQqsoVrVW3X8) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [La Trayectoria! \(De Arturo Camarillo\)](https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir) | 4:03 |
 | 40 | [El Tiliche](https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Que Lindo Es Michoacán! \(Puros Sones!\)](https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR) | 2:18 |
 | 41 | [Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Piña \- En Vivo](https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Banda la Fregona: Primer Aniversario \(En Vivo\)](https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4) | 7:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 74 | [La Chiclanera](https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:11 |
 | 75 | [Palillos Chinos \(En Vivo\)](https://open.spotify.com/track/4INNovqJJ4umIRINUqQTRJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 2:32 |
 
-Snapshot ID: `MCxmZjNmYTQ1YjNjZDcyZGQzNzc2NTIwNGZmYzhlNGM0ZmI1MTA1NTA1`
+Snapshot ID: `MCxiM2RkZmQ0ZGE3MDYwNWY0YzAwMzg5ZjdlNGE4ZWMzM2RkYjhjZWM0`

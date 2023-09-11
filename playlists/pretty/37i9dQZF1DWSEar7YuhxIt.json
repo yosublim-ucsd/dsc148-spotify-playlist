@@ -1,12 +1,12 @@
 {
   "description": "Horns up for this metal soundtrack for headbangers of all ages!",
-  "num_followers": 77822,
+  "num_followers": 78009,
   "original_name": "Raised on Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmMyYzI4ZjZlNTg1OTViZDczOTBhZGYzZGQ3YzA1Y2NjZTU3MzIw",
+  "snapshot_id": "MCwyY2VkNGY3YTYxNmMwMTM2NzNmMjVhODk2MTE1NGQ4ZDZlNTkyNGIw",
   "tracks": [
     {
       "added_at": "2021-04-20 17:47:58",
@@ -107,6 +107,22 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 293183,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
         "name": "Hellbilly Deluxe",
         "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 299533,
       "name": "Change (In the House of Flies)",
       "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
-    },
-    {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 293183,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
     },
     {
       "added_at": "2021-04-20 17:47:58",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "My Own Summer (Shove It)",
-      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
-    },
-    {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -265,22 +249,6 @@
       "url": "https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT"
     },
     {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
-    },
-    {
       "added_at": "2022-01-10 20:57:20",
       "album": {
         "name": "Sehnsucht (Anniversary Edition - Remastered)",
@@ -299,6 +267,22 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 299866,
-      "name": "Be Quiet and Drive (Far Away)",
-      "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD"
+      "duration_ms": 214760,
+      "name": "My Own Summer (Shove It)",
+      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
     },
     {
       "added_at": "2022-01-10 20:58:36",
@@ -375,6 +359,22 @@
       "duration_ms": 311813,
       "name": "Bat Country",
       "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 299866,
+      "name": "Be Quiet and Drive (Far Away)",
+      "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD"
     },
     {
       "added_at": "2021-04-20 17:47:58",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
-        "name": "Persistence Of Time (30th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Got The Time",
-      "url": "https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ"
-    },
-    {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
         "name": "Images and Words",
         "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 493933,
       "name": "Pull Me Under",
       "url": "https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
+        "name": "Persistence Of Time (30th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Got The Time",
+      "url": "https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ"
     },
     {
       "added_at": "2021-04-20 17:47:58",

@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 64615,
+  "num_followers": 64712,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjQ5NzI2ZDI2ZDEyY2NlZTA3Yzc0MTFiNmRjNjY3NDk2OWNkOTUw",
+  "snapshot_id": "MCxiZTY5OTIxMjc0NzMxNDJjNTM4MDcxZDgyZGI3NTA5MGExYzEwMmM4",
   "tracks": [
     {
       "added_at": "2023-08-31 11:42:11",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Young And Foolish",
-      "url": "https://open.spotify.com/track/1WygPWqmNs4s2fxtjmtI3O"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 262626,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/6akL58jOFRUs3DdoF1tUP0"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Young And Foolish",
+      "url": "https://open.spotify.com/track/1WygPWqmNs4s2fxtjmtI3O"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "Chet Baker Sings And Plays (Remastered 2004)",
         "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 290693,
       "name": "You Don't Know What Love Is - Remastered 2004",
       "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Lonely And Blue",
+        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Lonely And Blue",
-        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
         }
       ],
-      "duration_ms": 202866,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
+      "duration_ms": 325493,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -727,6 +727,38 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Everything Happens To Me - Complete Take 2",
+      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "The Complete Piano Duets",
+        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "I Cried For You",
+      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -755,22 +787,6 @@
       "duration_ms": 292106,
       "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
-        "name": "The Complete Piano Duets",
-        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "I Cried For You",
-      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -807,22 +823,6 @@
       "duration_ms": 188560,
       "name": "There Must Be A Way",
       "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Everything Happens To Me - Complete Take 2",
-      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "Whatever Happened To You?",
-      "url": "https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 191000,
       "name": "No More",
       "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "Whatever Happened To You?",
+      "url": "https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35"
     },
     {
       "added_at": "2023-08-31 11:42:11",

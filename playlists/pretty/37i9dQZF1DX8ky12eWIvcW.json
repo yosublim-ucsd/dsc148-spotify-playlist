@@ -1,12 +1,12 @@
 {
   "description": "Turn up with the biggest party tracks of the '90s and '00s.",
-  "num_followers": 2571909,
+  "num_followers": 2572574,
   "original_name": "Throwback Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWU1ODkzMTJhMWI3MzUyZTViNTM2MjFlNGY1NGE1YzM4MjY5ODUy",
+  "snapshot_id": "MCwyMTE5ODBiNDAyZDk2MjEyM2QyMDZmNjFhZTNiM2VkYjUxNTA4NTJh",
   "tracks": [
     {
       "added_at": "2023-09-05 14:26:32",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-09-05 14:26:32",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Smooth Operator - Single Version",
-      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
-    },
-    {
-      "added_at": "2023-09-05 14:26:32",
-      "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
@@ -411,22 +395,18 @@
     {
       "added_at": "2023-09-05 14:26:32",
       "album": {
-        "name": "Supernatural (Remastered)",
-        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "The Product G&B",
-          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 261973,
-      "name": "Maria Maria (feat. The Product G&B)",
-      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "added_at": "2023-09-05 14:26:32",
@@ -447,6 +427,26 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "added_at": "2023-09-05 14:26:32",
+      "album": {
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "The Product G&B",
+          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Maria Maria (feat. The Product G&B)",
+      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
     },
     {
       "added_at": "2023-09-05 14:26:32",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-09-05 14:26:32",
       "album": {
-        "name": "Down for Life",
-        "url": "https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp"
-      },
-      "artists": [
-        {
-          "name": "D4L",
-          "url": "https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "Laffy Taffy",
-      "url": "https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ"
-    },
-    {
-      "added_at": "2023-09-05 14:26:32",
-      "album": {
         "name": "Everytime We Touch (Premium Edition)",
         "url": "https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 197124,
       "name": "Everytime We Touch",
       "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
+    },
+    {
+      "added_at": "2023-09-05 14:26:32",
+      "album": {
+        "name": "Down for Life",
+        "url": "https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp"
+      },
+      "artists": [
+        {
+          "name": "D4L",
+          "url": "https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "Laffy Taffy",
+      "url": "https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ"
     },
     {
       "added_at": "2023-09-05 14:26:32",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-09-05 14:26:32",
       "album": {
-        "name": "Very Necessary",
-        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 248573,
-      "name": "Shoop",
-      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
-    },
-    {
-      "added_at": "2023-09-05 14:26:32",
-      "album": {
         "name": "The Dutchess",
         "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 246573,
       "name": "Glamorous",
       "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
+    },
+    {
+      "added_at": "2023-09-05 14:26:32",
+      "album": {
+        "name": "Very Necessary",
+        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 248573,
+      "name": "Shoop",
+      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
     },
     {
       "added_at": "2023-09-05 14:26:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Megan Thee Stallion + Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,017 likes - 76 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,089 likes - 76 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 58 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
 | 59 | [Still The One](https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Still The One](https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2) | 2:19 |
 | 60 | [Stand By Me \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:39 |
-| 61 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 61 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 62 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
 | 63 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 |
 | 64 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 75 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 |
 | 76 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
 
-Snapshot ID: `MCxjMjNhZjE5Njk5YzkyMWM5ZDQ3YTk3MTRkYzRhYzVmYmJjZWMxYzFl`
+Snapshot ID: `MCwwNjM5YzE1ZDA1MzFkMDFjNDlhYzQ2YTBiNzViZjIyODAwZGY2NGFl`

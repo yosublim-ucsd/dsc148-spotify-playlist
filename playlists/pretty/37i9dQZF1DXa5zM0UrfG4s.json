@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 103897,
+  "num_followers": 103923,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTgwYzkxYmIwMjdjOWIyNjljMzU3OGJiMGI3NTk3YmVlNWNlNDhh",
+  "snapshot_id": "MCwwMzhmZjMxYWViNmI4Y2VmNmMzOTVmZGY5YWE5Y2UzMzFjZDQ3MDM5",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -379,38 +379,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "En j\u00e4vel p\u00e5 att ragga bil",
-        "url": "https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 166624,
-      "name": "En j\u00e4vel p\u00e5 att ragga bil",
-      "url": "https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Borde g\u00e5 hem",
-        "url": "https://open.spotify.com/album/11jT6POseAnA12U1ZHdJd2"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Borde g\u00e5 hem",
-      "url": "https://open.spotify.com/track/2alWkiKWlHYmsgdvNoiO7l"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Gamleveien",
         "url": "https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 137816,
       "name": "Gamleveien",
       "url": "https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Borde g\u00e5 hem",
+        "url": "https://open.spotify.com/album/11jT6POseAnA12U1ZHdJd2"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Borde g\u00e5 hem",
+      "url": "https://open.spotify.com/track/2alWkiKWlHYmsgdvNoiO7l"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "En j\u00e4vel p\u00e5 att ragga bil",
+        "url": "https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 166624,
+      "name": "En j\u00e4vel p\u00e5 att ragga bil",
+      "url": "https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -491,6 +491,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Danse p\u00e5 panseret",
+        "url": "https://open.spotify.com/album/3oKQTXaW1WRLsWcf3LH57F"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "BEK & Moberg",
+          "url": "https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Danse p\u00e5 panseret",
+      "url": "https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "R\u00f6d Chevrolet",
         "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
       },
@@ -547,26 +567,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Danse p\u00e5 panseret",
-        "url": "https://open.spotify.com/album/3oKQTXaW1WRLsWcf3LH57F"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "BEK & Moberg",
-          "url": "https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Danse p\u00e5 panseret",
-      "url": "https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Ligga low",
         "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
       },
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Fy Faen S\u00e5 Deilig",
-        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
+        "name": "Ungkar med dobbelseng",
+        "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
       },
       "artists": [
         {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
         }
       ],
-      "duration_ms": 156913,
-      "name": "Fy Faen S\u00e5 Deilig",
-      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
+      "duration_ms": 190466,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Ungkar med dobbelseng",
-        "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
+        "name": "Fy Faen S\u00e5 Deilig",
+        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
       },
       "artists": [
         {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
         }
       ],
-      "duration_ms": 190466,
-      "name": "Granada",
-      "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
+      "duration_ms": 156913,
+      "name": "Fy Faen S\u00e5 Deilig",
+      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Langt av sted",
+        "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 160813,
+      "name": "Langt av sted",
+      "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "PIGA & DR\u00c4NG",
         "url": "https://open.spotify.com/album/2hv4vzbU53T6bjOSv0vpm0"
       },
@@ -671,6 +687,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Raggen m\u00e5ste g\u00e5",
+        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 131571,
+      "name": "Raggen m\u00e5ste g\u00e5",
+      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "TANTE",
         "url": "https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU"
       },
@@ -687,38 +719,6 @@
       "duration_ms": 133714,
       "name": "TANTE",
       "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Langt av sted",
-        "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 160813,
-      "name": "Langt av sted",
-      "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Raggen m\u00e5ste g\u00e5",
-        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 131571,
-      "name": "Raggen m\u00e5ste g\u00e5",
-      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Polare",
-        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
-      },
-      "artists": [
-        {
-          "name": "Prilla Generalen",
-          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Polare",
-      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "P\u00e5 vei",
         "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 235853,
       "name": "Rundt neste sving",
       "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Polare",
+        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
+      },
+      "artists": [
+        {
+          "name": "Prilla Generalen",
+          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Polare",
+      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Aldri tilbake",
+        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Aldri tilbake",
+      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Den Samme J\u00e6vla Sangen",
         "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 198268,
       "name": "29 tonn",
       "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Aldri tilbake",
-        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Aldri tilbake",
-      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
     },
     {
       "added_at": "2023-09-07 22:00:00",

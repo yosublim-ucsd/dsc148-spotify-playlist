@@ -4,7 +4,7 @@
 
 > ¡Perreo del bueno! Cover: Ñengo Flow
 
-481 songs - 1 day 3 hr 12 min
+482 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Copiloto](https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Copiloto](https://open.spotify.com/album/63o7fM4ZAmOE9dZthjmipy) | 2:21 | 2022-11-09 | 2022-11-12 |
 | [Corazón Roto](https://open.spotify.com/track/4x2cAn3IIBBMpXsU8UHS9k) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Corazón Roto](https://open.spotify.com/album/1Tet5B9nNy0B5pfVPRRfNQ) | 2:31 | 2022-10-03 | 2023-09-09 |
 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-04-07 | 2023-09-09 |
-| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 | 2023-09-11 |
 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 | 2022-03-21 | 2022-08-20 |
 | [Cristina \(feat\. Shelow Shaq\)](https://open.spotify.com/track/2egI1hFZDAYrkCgtepoore) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Cristina \(feat\. Shelow Shaq\)](https://open.spotify.com/album/2ZTlbmxYIAhs8ckvgx0imI) | 3:06 | 2022-03-21 | 2022-08-20 |
 | [Cuando Perriabas](https://open.spotify.com/track/5mj8WVFcKdGA8p9HWGTSLc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:08 | 2022-03-21 | 2022-07-29 |

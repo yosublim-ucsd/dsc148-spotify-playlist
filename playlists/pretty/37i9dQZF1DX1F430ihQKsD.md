@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: CRi, Half Moon Run
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,902 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,915 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Nuit américaine](https://open.spotify.com/track/1cOIijnd1qHpJSLA2jBQMe) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Nuit américaine](https://open.spotify.com/album/00NbIUbjav9Sy89vKhPtLo) | 4:01 |
 | 100 | [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 |
 
-Snapshot ID: `MCxiZjE3YWYyMjY0M2I3MWNmNWU5NWNjYmUzOTU5OWYxMDdiZWRiNjJj`
+Snapshot ID: `MCxhNGMwMWRjOTM2YjBlY2YzNDc0ZmRmNzAxNTRkNWU5NWY1MTQxYWQ3`

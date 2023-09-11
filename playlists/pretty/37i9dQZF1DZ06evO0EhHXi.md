@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,910 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,977 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Wanna Be Sedated](https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:29 |
 | 2 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 3 | [Pet Sematary](https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 3:29 |
-| 4 | [Poison Heart](https://open.spotify.com/track/6yXm3xUj0fcN4dGwBAl9qM) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 4:03 |
-| 5 | [Sheena Is a Punk Rocker \- 2017 Remaster](https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:49 |
+| 4 | [Sheena Is a Punk Rocker \- 2017 Remaster](https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:49 |
+| 5 | [Poison Heart](https://open.spotify.com/track/6yXm3xUj0fcN4dGwBAl9qM) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 4:03 |
 | 6 | [Needles and Pins \- 2018 Remaster](https://open.spotify.com/track/53rN8CcgrWP6DZcuQ4Q4og) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:21 |
 | 7 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 |
-| 8 | [California Sun \- 2017 Remaster](https://open.spotify.com/track/4dyBuBbYZj1iiK0ywYjYzT) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:07 |
-| 9 | [Rockaway Beach \- 2017 Remaster](https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:06 |
+| 8 | [Rockaway Beach \- 2017 Remaster](https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:06 |
+| 9 | [California Sun \- 2017 Remaster](https://open.spotify.com/track/4dyBuBbYZj1iiK0ywYjYzT) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:07 |
 | 10 | [Judy Is a Punk \- 2016 Remaster](https://open.spotify.com/track/0vGCxnTwYZFtOAW3oz28kd) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:32 |
 | 11 | [Baby, I Love You](https://open.spotify.com/track/29imR7dda5XqwPRFmby7HS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 3:44 |
 | 12 | [I Believe in Miracles](https://open.spotify.com/track/6YYGoARcDRYdJu9ezMPzUx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 3:18 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 27 | [Strength to Endure](https://open.spotify.com/track/1iOqQucADvs4hFX6YpflHO) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 2:59 |
 | 28 | [Cretin Hop \- 2017 Remaster](https://open.spotify.com/track/2GMujhtXaUVaSNbcTSGQ8m) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 1:55 |
 | 29 | [Durango 95 \- Live](https://open.spotify.com/track/2o8YxKjziubadspvVN20eS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loco Live](https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ) | 0:46 |
-| 30 | [Somebody Put Something in My Drink](https://open.spotify.com/track/1dPkrVL0fXxNOhTmZk08rd) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Animal Boy](https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh) | 3:19 |
-| 31 | [I Just Want to Have Something to Do \- 2018 Remaster](https://open.spotify.com/track/29F9vWkIUVQj2F4kX9EYre) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:42 |
+| 30 | [I Just Want to Have Something to Do \- 2018 Remaster](https://open.spotify.com/track/29F9vWkIUVQj2F4kX9EYre) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:42 |
+| 31 | [Somebody Put Something in My Drink](https://open.spotify.com/track/1dPkrVL0fXxNOhTmZk08rd) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Animal Boy](https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh) | 3:19 |
 | 32 | [Gimme Gimme Shock Treatment \- 2017 Remaster](https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:44 |
 | 33 | [Now I Wanna Sniff Some Glue \- 2016 Remaster](https://open.spotify.com/track/1KWWXe7kMpVptnBsdiiyVb) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:35 |
 | 34 | [Out of Time](https://open.spotify.com/track/78j8gwBS0Lf36M1yqRG6kJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Acid Eaters](https://open.spotify.com/album/784AdNOgrGhD6suxBrSd9P) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 49 | [It's Gonna Be Alright](https://open.spotify.com/track/5tLT3L4SqoBQtiZkxxPwQK) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 3:19 |
 | 50 | [Pinhead \- 2017 Remaster](https://open.spotify.com/track/3UieIbEtb7evYcdNgKczEa) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:43 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDBjZjFmMWM5ZGU4OTY2ZWQ3ZDg3OWViNWJhMTQyZGQxOQ==`
+Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDBlMDA5Y2RjMDBiNTY4MzUxYzJjOWUyZDcyMTlmY2NiMQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Dentro da Hilux e os funks mais 🔑 do Brasil\. Foto: Luan Pereira, MC Ryan SP, MC Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,943,067 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,945,868 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Maçã Verde](https://open.spotify.com/track/7lJoRyuNJtuiqTcKtuMuIR) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Avisa que é o Funk](https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh) | 2:44 |
 | 50 | [Pagodeiro](https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF) | [Pagodeiro](https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR) | 7:38 |
 
-Snapshot ID: `MCxkOWI0M2I5ZWM4NDQ2YjE2NGM1NzZmYTJjMTAxMjU3MzkzZTA3Yzgy`
+Snapshot ID: `MCw3YTBlNDkxMWE1NTMwYTQ1ZTQwNmY0YTExMjAyNGUxNjJlYzdiYzFk`

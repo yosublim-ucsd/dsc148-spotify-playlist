@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,925 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,029 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 56 | [Hold My Hand](https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Presenting Don Cornell](https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja) | 2:49 |
 | 57 | [What Do You Want to Make Those Eyes at Me for](https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs) | [Emile Ford & The Checkmates](https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC) | [What Do You Want to Make Those Eyes At Me For?](https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv) | 2:04 |
 | 58 | [Whatever Will Be, Will Be \(Que Sera, Sera\) \- Single Version](https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [16 Most Requested Songs](https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m) | 2:04 |
-| 59 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:57 |
-| 60 | [A Tear Fell](https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa \(Expanded Edition\)](https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx) | 2:35 |
+| 59 | [A Tear Fell](https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa \(Expanded Edition\)](https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx) | 2:35 |
+| 60 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:57 |
 | 61 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 |
 | 62 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
 | 63 | [Love Me Forever](https://open.spotify.com/track/3jtuTk2DS22xjOEJbbkTjC) | [Marion Ryan](https://open.spotify.com/artist/3i3CrQSW3chMBUDavwXUQe) | [Presenting Marion Ryan](https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
 | 80 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/30KTFJKXV7atWiDc6YOz30) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:55 |
 
-Snapshot ID: `MCxhNDNkY2E4MGY1Njg0ZjMyYTQyMDExNjE1MDAxNGVmN2FhOGE0ZTRk`
+Snapshot ID: `MCxiMjIzNjE0ZjkyNzI2N2M2MmVlYzQ3NmExMzQ2MzQ3MjhmYTI5Nzk4`

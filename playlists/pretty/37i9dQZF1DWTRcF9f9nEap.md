@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,763 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,818 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 41 | [Walkin' Blues](https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Fight](https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK) | 4:22 |
 | 42 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 |
 | 43 | [Gypsy In Me](https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:09 |
-| 44 | [Sweet Home Chicago](https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [At The Crossroads: The Blues Of Robert Johnson](https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc) | 4:28 |
+| 44 | [Jack Of Diamonds](https://open.spotify.com/track/7zNPzW0wjmeZXtALBAwBM7) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [Nothin' But Blood \(Bonus Track Version\)](https://open.spotify.com/album/5CHhtV2aaZ30s7LKKTO7OC) | 4:12 |
 | 45 | [In Your Town](https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(Remastered 2017\)](https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ) | 5:44 |
-| 46 | [Jack Of Diamonds](https://open.spotify.com/track/7zNPzW0wjmeZXtALBAwBM7) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [Nothin' But Blood \(Bonus Track Version\)](https://open.spotify.com/album/5CHhtV2aaZ30s7LKKTO7OC) | 4:12 |
+| 46 | [Sweet Home Chicago](https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [At The Crossroads: The Blues Of Robert Johnson](https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc) | 4:28 |
 | 47 | [My Heart Beat Like a Hammer](https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Best of Peter Green's Fleetwood Mac](https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI) | 2:57 |
 | 48 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
-| 49 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
-| 50 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
+| 49 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
+| 50 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
 
-Snapshot ID: `MCw4Njg5ZjRhN2Q0ZWFhMzRiOWM4OWRhYzdiYWQ3OWZmMDE2ZmI3MWU3`
+Snapshot ID: `MCw0YjQ4NGJmZWExYjUwYWNlMDFmYWY5ZjQ5NzkxZWMyNGNjMGY3Y2M1`

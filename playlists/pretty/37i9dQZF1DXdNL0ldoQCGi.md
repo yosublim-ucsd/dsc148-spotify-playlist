@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,296 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,585 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 13 | [barbie de chapéu \- funk](https://open.spotify.com/track/4MB8rQqtjrIrQw4ThCPf8e) | [Dj Paiva](https://open.spotify.com/artist/2383IwhdilQ7mXGRSR5VvM) | [barbie de chapéu \(funk\)](https://open.spotify.com/album/2gMfiCskXsisEV7LsqFLaB) | 2:33 |
 | 14 | [Cheiro da Karolina](https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh) | [Luiz Poderoso Chefão](https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns) | [Cheiro da Karolina](https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI) | 2:57 |
 | 15 | [99 Problemas](https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:10 |
-| 16 | [Let´s Go 4](https://open.spotify.com/track/3NU9HlJzAGxs3S7oE2QyF2) | [fpz](https://open.spotify.com/artist/6iApZhWkdXv40VOWDFAGFe) | [Let´s Go 4](https://open.spotify.com/album/4OvtSRAQWxnLMxgD2o3KOq) | 4:31 |
+| 16 | [Lets Go 4](https://open.spotify.com/track/1sZERP8lxfWxjyzPGl2MvA) | [leo caneta de ouro](https://open.spotify.com/artist/38MPWRSmaPNCLmbr1RH73n) | [Lets Go 4](https://open.spotify.com/album/38zYNwOTfIWOT5FKmWnEBu) | 4:31 |
 | 17 | [Ballena](https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 3:20 |
 | 18 | [Marrento](https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Marrento](https://open.spotify.com/album/1XJEF1mvKoaXzrm57YiQ7D) | 2:09 |
 | 19 | [Faz Completo, Chefe](https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB) | [Faz Completo, Chefe](https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL) | 2:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 79 | [Reverse](https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Reverse](https://open.spotify.com/album/4a4c1QDOCxkOB82wTaVxCJ) | 2:00 |
 | 80 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCw5YTBlY2VlOTYzNDEyODI2YTAwYWMzNDFlMjQ2YzU2ZGUyZDJlMDky`
+Snapshot ID: `MCxmYTI0ZWVkMjBmODY3ZjZjN2NhZjZlNDFmYjY2MmQ3NTRkMzM4YTNj`

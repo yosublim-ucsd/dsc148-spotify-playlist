@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,979 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,246 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 3 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 |
 | 4 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 5 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 |
-| 6 | [Halloween](https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:34 |
-| 7 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 |
+| 6 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 |
+| 7 | [Halloween](https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:34 |
 | 8 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 |
 | 9 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
 | 10 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 69 | [Skeleton Song](https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB) | [Bambi L](https://open.spotify.com/artist/2pcRdJu290vEYb27Az15Vh) | [Skeleton Song](https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW) | 2:42 |
 | 70 | [Omen](https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake, Shook, Shaken](https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag) | 2:53 |
 
-Snapshot ID: `MCxjZDRlZDVmZTgwOGZiMTAyYTViZGFlNTBhMjIzYWEyYmMwZmVjZWNk`
+Snapshot ID: `MCw0Zjc1MDcwMmNjZDc0NTIyNWY1OGFmODM5ZDY0MWVhZmE1YTMwNTEy`

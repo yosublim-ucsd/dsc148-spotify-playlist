@@ -3063,6 +3063,28 @@
     },
     {
       "album": {
+        "name": "Dance No More (with Kaleena Zanders)",
+        "url": "https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202657,
+      "name": "Dance No More (with Kaleena Zanders)",
+      "url": "https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t"
+    },
+    {
+      "album": {
         "name": "Dance With Me EP",
         "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
       },
@@ -6232,7 +6254,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 133984,
       "name": "I Won\u2019t Stop",
       "url": "https://open.spotify.com/track/56aXtU4yNbdkefmS45r0CW"
@@ -8854,7 +8876,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 190625,
       "name": "Move Your Body (feat. Moxie Knox)",
       "url": "https://open.spotify.com/track/2QUjCgRuF6grKzr4mINjs8"
@@ -12730,7 +12752,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 181625,
       "name": "The Loop",
       "url": "https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf"

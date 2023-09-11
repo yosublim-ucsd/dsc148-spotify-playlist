@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,855 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,959 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sentry \(feat\. MIKE\)](https://open.spotify.com/track/5L2zGgJi9BlL3CjVF4KL7W) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Sentry \(feat\. MIKE\)](https://open.spotify.com/album/5XrYVLVAJTGiBt43Pdusuo) | 2:21 |
-| 2 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 |
-| 3 | [Office Hours \(feat\. 50 Cent\)](https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:52 |
+| 2 | [Office Hours \(feat\. 50 Cent\)](https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:52 |
+| 3 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 |
 | 4 | [Sicilian Gold](https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Soul Assassins 3: Death Valley](https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD) | 1:54 |
 | 5 | [Painted Houses \(feat\. Conway the Machine\)](https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Painted Houses \(feat\. Conway the Machine\)](https://open.spotify.com/album/2jGpmrbzpjpdPPEAeD239b) | 3:03 |
 | 6 | [Turkey Wings \- Bonus Track](https://open.spotify.com/track/3MjtBnv45fIRRo9Qp9ul3C) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Elephant Man's Bones The ALC Edition](https://open.spotify.com/album/1G0ESeSyFudOH7k6xzfreh) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 |
 | 100 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 |
 
-Snapshot ID: `MCxlZDUzNDEwYzA3ZWRlMTliOTg0YTdiMTM4ZDI0NjEzOTgxMjdjMGVi`
+Snapshot ID: `MCxiZWE2YzNjNTA0YjI0ZTA4Y2I3MjNiOTUwMjYwYzkxZDI5Y2JiNzA3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 
 > Classic rock favorites\. Cover: Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,742 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,993 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 49 | [Running on Empty](https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty / Nothing but Time \(Digital 45\)](https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL) | 4:51 |
 | 50 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
 
-Snapshot ID: `MCw4YjkxOWFiMjVhYWYxYzNlYTIzNDUzN2I0MzgyNmRmN2FiMjhjNDlj`
+Snapshot ID: `MCxhNTBlZTI0M2I0Yzk2ZjRmZDVjOGY5YTlhMGQwMTVlNWY0YTA0YjRm`

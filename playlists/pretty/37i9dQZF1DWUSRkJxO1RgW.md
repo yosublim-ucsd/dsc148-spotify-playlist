@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,616 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,717 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 30 | [Mejor No Hablar de Ciertas Cosas](https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Divididos Por La Felicidad](https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR) | 4:46 |
 | 31 | [Mi Novia Se Cayó en un Pozo Ciego \- Remasterizado 2008](https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 3:57 |
 | 32 | [Bailando en las Veredas](https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 4:16 |
-| 33 | [Era En Abril](https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Tiempos Dificiles](https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM) | 4:44 |
+| 33 | [Barbazul Versus el Amor Letal](https://open.spotify.com/track/3GoSaTEDB00eXQdCZSw0rM) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Gulp!](https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA) | 4:19 |
 | 34 | [Por Qué No Puedo Ser Del Jet Set? \- Remasterizado 2007](https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:20 |
 | 35 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
 | 36 | [Estallando Desde el Océano](https://open.spotify.com/track/7379uubtjZDDT6Phsj4nhj) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 3:34 |
 | 37 | [Buscando un Símbolo de Paz](https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 4:42 |
-| 38 | [Barbazul Versus el Amor Letal](https://open.spotify.com/track/3GoSaTEDB00eXQdCZSw0rM) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Gulp!](https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA) | 4:19 |
+| 38 | [Era En Abril](https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Tiempos Dificiles](https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM) | 4:44 |
 | 39 | [El Satánico Dr\. Cadillac \- Remasterizado 2008](https://open.spotify.com/track/1GcL18n7WMpc6xRwY7D0bE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Satánico Dr\. Cadillac](https://open.spotify.com/album/5VNRf3l7z1prtgHuKNhsc8) | 4:01 |
 | 40 | [Brilla \(Shine\)](https://open.spotify.com/track/4xqttklZFV1w1RKjbVh4na) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 3:10 |
 | 41 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 59 | [Fantasma De Canterville](https://open.spotify.com/track/5o3XTDIlBbl66xPNLj1dol) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [El Fantasma De Canterville](https://open.spotify.com/album/5ftByhg3rSWly4WhsALmh8) | 3:48 |
 | 60 | [A Cada Hombre, A Cada Mujer](https://open.spotify.com/track/15YgfiMf7ArHQOLQ1fZEEC) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:53 |
 
-Snapshot ID: `MCwxM2M1OWExMDVhY2UwOGZhNzNiOGQzYmNkM2E5NTBiNmFhZTAwNGEz`
+Snapshot ID: `MCwxY2Y1YmFlNzkzZWE3MGQ1MTQ0MDM0OTgwN2RmNDNmN2ZjNTllNjQz`

@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: GUMX
 
-619 songs - 1 day 9 hr 22 min
+620 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 | 2023-07-11 |  |
 | [Place of Fire \(Beginning mix\)](https://open.spotify.com/track/7vcx8In5HIZGG5ZsH0J6IH) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Beginning](https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye) | 4:14 | 2022-05-12 | 2022-07-24 |
 | [Plasma](https://open.spotify.com/track/6CgPvIU9seQdHAS69Ftuuc) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [LAB](https://open.spotify.com/album/7pbytUjxaiUTwfVxuirlqB) | 2:46 | 2022-05-19 | 2022-07-25 |
-| [PLAYBACK](https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:14 | 2022-05-31 |  |
+| [PLAYBACK](https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:14 | 2022-05-31 | 2023-09-11 |
 | [plural](https://open.spotify.com/track/70fedLqWFoXBmseNz6GYSr) | [MUGWUMPS](https://open.spotify.com/artist/3UPRuzmO7PrK8APvfkRLKx) | [plural](https://open.spotify.com/album/3bYTDjd8tl421FmtTwkHQA) | 1:41 | 2022-05-12 | 2022-07-27 |
 | [Poetry junkie](https://open.spotify.com/track/5QRVBYZLrdcB4neWSKvf3N) | [健やかなる子ら](https://open.spotify.com/artist/66AMBCNBiYsZB4iUgEVmlx) | [aosag1](https://open.spotify.com/album/5Tdl9nO3hb7cmiLWA9PLe8) | 0:43 | 2023-02-28 | 2023-03-22 |
 | [pop world](https://open.spotify.com/track/77HYYowxjDYAlbGuk2WDo9) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [naked](https://open.spotify.com/album/0EpG1Jr8oTf9JvWWx6YNhs) | 1:55 | 2022-05-17 | 2022-07-28 |
@@ -424,6 +424,7 @@
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-12 |  |
 | [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 | 2022-05-12 | 2022-07-27 |
 | [Voice](https://open.spotify.com/track/1EJxVlb4XvtG3669TnPJXw) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 8:05 | 2022-07-21 | 2023-09-06 |
+| [Voice](https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W) | 8:05 | 2023-09-07 |  |
 | [W.O.W](https://open.spotify.com/track/2rIIZBDtTY52jQybxMOB0q) | [MOTHBALL](https://open.spotify.com/artist/4kFIznJL74Ic9Z5wfpCFNc) | [W.O.W](https://open.spotify.com/album/3FKeP5r7PxebHqyrrL8Of1) | 3:07 | 2022-05-12 | 2022-07-17 |
 | [WAITING](https://open.spotify.com/track/0UQugALECC271HnqLBDckC) | [NOTCH](https://open.spotify.com/artist/5cI87UgyxVRsJ1AsXxDB1c) | [DO OR DO NOT](https://open.spotify.com/album/7oFo7WyG2GdbVRnDeIMJEQ) | 2:58 | 2023-01-05 | 2023-06-02 |
 | [wake up! wake up!](https://open.spotify.com/track/3lEXSVcunWsoDvb4A1KQ90) | [stack44](https://open.spotify.com/artist/4EOraZF0akqvGDt131ALIJ) | [Hello! Mr.latecomer](https://open.spotify.com/album/4qZyWJo3epGLT7Y09RVeEV) | 3:40 | 2022-06-02 | 2022-07-29 |

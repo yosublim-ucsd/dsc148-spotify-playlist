@@ -1,12 +1,12 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 36556,
+  "num_followers": 36606,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGY0ZDUyYzdjYTZlNzExMTE5M2UyNTc4NzQ2YjRhZmFiN2VjNDY4",
+  "snapshot_id": "MCw1ZTVkZTFlNzc3MWFkNDljZGI1MDlkY2FjZjY3MmZiYmEwOWQzOWY5",
   "tracks": [
     {
       "added_at": "2023-08-31 11:14:51",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "Try Your Wings",
-        "url": "https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT"
-      },
-      "artists": [
-        {
-          "name": "Silva & Steini",
-          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Try Your Wings",
-      "url": "https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 230493,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "Try Your Wings",
+        "url": "https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT"
+      },
+      "artists": [
+        {
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Try Your Wings",
+      "url": "https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "Coming Forth by Day",
-        "url": "https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Wilson",
-          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 380380,
       "name": "Behind Me",
       "url": "https://open.spotify.com/track/56aMKNhh10LMs7zzPvICNS"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "Coming Forth by Day",
+        "url": "https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Wilson",
+          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -707,6 +707,46 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "Entre eux deux",
+        "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "What Of Your Eyes",
+      "url": "https://open.spotify.com/track/3hX0T0Z16mRfHAzd1sHluC"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
         "name": "I'm Glad There Is You",
         "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
       },
@@ -743,46 +783,6 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "Entre eux deux",
-        "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "What Of Your Eyes",
-      "url": "https://open.spotify.com/track/3hX0T0Z16mRfHAzd1sHluC"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 403429,
       "name": "Confession / The Other Woman",
       "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
-        "name": "Neon Blue",
-        "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
-      },
-      "artists": [
-        {
-          "name": "Muriel Zoe",
-          "url": "https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq"
-        }
-      ],
-      "duration_ms": 262346,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -831,18 +815,38 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "Laura Benanti",
-        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
+        "name": "Neon Blue",
+        "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
       },
       "artists": [
         {
-          "name": "Laura Benanti",
-          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
+          "name": "Muriel Zoe",
+          "url": "https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq"
         }
       ],
-      "duration_ms": 264653,
-      "name": "Go Slow",
-      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
+      "duration_ms": 262346,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "In Her Words",
+        "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        },
+        {
+          "name": "Vanisha Gould",
+          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
+        }
+      ],
+      "duration_ms": 267160,
+      "name": "Gone Again",
+      "url": "https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "In Her Words",
-        "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
+        "name": "Laura Benanti",
+        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
       },
       "artists": [
         {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        },
-        {
-          "name": "Vanisha Gould",
-          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
+          "name": "Laura Benanti",
+          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
         }
       ],
-      "duration_ms": 267160,
-      "name": "Gone Again",
-      "url": "https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3"
+      "duration_ms": 264653,
+      "name": "Go Slow",
+      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "Undefined",
-        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Undefined",
-      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
         "name": "Once Upon A Summertime",
         "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 167200,
       "name": "Once Upon A Summertime",
       "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
-      },
-      "artists": [
-        {
-          "name": "Deelee Dube",
-          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
-        }
-      ],
-      "duration_ms": 338822,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
         "name": "Lonely House",
         "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 211664,
       "name": "There's a Lull in My Life",
       "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
+      },
+      "artists": [
+        {
+          "name": "Deelee Dube",
+          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+        }
+      ],
+      "duration_ms": 338822,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "The Women Who Raised Me",
-        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 216274,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
         "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 204040,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/7A826LB6RXDtLE6a5IXMck"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "The Women Who Raised Me",
+        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 216274,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 477973,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
         "name": "April Fooled Me",
         "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 231400,
       "name": "April Fooled Me",
       "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 477973,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 345120,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
         "name": "Something Nice",
         "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 219000,
       "name": "Maybe You'll Be There",
       "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 345120,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
+        "name": "It Happens Like That",
+        "url": "https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 211740,
+      "name": "It Happens Like That",
+      "url": "https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
         "name": "Tell Him I Said Hello",
         "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "It Happens Like That",
-        "url": "https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo"
+        "name": "Stations",
+        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
       },
       "artists": [
         {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
         }
       ],
-      "duration_ms": 211740,
-      "name": "It Happens Like That",
-      "url": "https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP"
+      "duration_ms": 293124,
+      "name": "The Streets of Berlin",
+      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "Stations",
-        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n"
       },
       "artists": [
         {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
         }
       ],
-      "duration_ms": 293124,
-      "name": "The Streets of Berlin",
-      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
+      "duration_ms": 207745,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -1619,22 +1635,6 @@
       "duration_ms": 303973,
       "name": "I'm a Fool to Want You",
       "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 207745,
-      "name": "The Very Thought of You",
-      "url": "https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -1715,6 +1715,38 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
+        "name": "Musa",
+        "url": "https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Paco Soto",
+          "url": "https://open.spotify.com/artist/5WvleVXgt2bK1LRn1zlp4Q"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        }
+      ],
+      "duration_ms": 181923,
+      "name": "The Sweetest Sounds",
+      "url": "https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -1751,34 +1783,18 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "Musa",
-        "url": "https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0"
+        "name": "Only the Lonely",
+        "url": "https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p"
       },
       "artists": [
         {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "Paco Soto",
-          "url": "https://open.spotify.com/artist/5WvleVXgt2bK1LRn1zlp4Q"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
         }
       ],
-      "duration_ms": 181923,
-      "name": "The Sweetest Sounds",
-      "url": "https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK"
+      "duration_ms": 192171,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -1795,22 +1811,6 @@
       "duration_ms": 309810,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
-        "name": "Only the Lonely",
-        "url": "https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 192171,
-      "name": "Only the Lonely",
-      "url": "https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 279746,
+      "name": "Once Upon a Summertime",
+      "url": "https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
         "name": "The Show Must Go On",
         "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
       },
@@ -1875,38 +1891,6 @@
       "duration_ms": 309426,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 279746,
-      "name": "Once Upon a Summertime",
-      "url": "https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 198660,
-      "name": "Deep in a Dream",
-      "url": "https://open.spotify.com/track/40IDGLN76VxvxsHCKvsMNJ"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -1939,6 +1923,22 @@
       "duration_ms": 256685,
       "name": "There You Are",
       "url": "https://open.spotify.com/track/1g30SgnZXLzcgHj9eVszPs"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 198660,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/40IDGLN76VxvxsHCKvsMNJ"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 320250,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 161333,
       "name": "My Future Just Passed - From \"Safety In Numbers\"",
       "url": "https://open.spotify.com/track/0cSlVyagvzpWEFmhOqJS2P"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "The Art of Jazz with Miriam Netti, Vol. 2",
+        "url": "https://open.spotify.com/album/01WOu4s6vmRdYC7eK2JMt8"
+      },
+      "artists": [
+        {
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+        }
+      ],
+      "duration_ms": 308817,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/13OsVT5orbu0nLcpsvJSVh"
     },
     {
       "added_at": "2023-08-31 11:14:51",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2023-08-31 11:14:51",
       "album": {
-        "name": "The Art of Jazz with Miriam Netti, Vol. 2",
-        "url": "https://open.spotify.com/album/01WOu4s6vmRdYC7eK2JMt8"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 308817,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/13OsVT5orbu0nLcpsvJSVh"
-    },
-    {
-      "added_at": "2023-08-31 11:14:51",
-      "album": {
         "name": "One Evening in July",
         "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 349238,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/7pYHNfu7TnBOnkKi7YZW9N"
+    },
+    {
+      "added_at": "2023-08-31 11:14:51",
+      "album": {
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+        }
+      ],
+      "duration_ms": 320250,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
     }
   ],
   "unique_name": "Relaxing Vocal Jazz",

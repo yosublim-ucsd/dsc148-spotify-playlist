@@ -4,7 +4,7 @@
 
 > AAAAAAAAAAaAAAaaaAaAaAaaAaAa me ouviu aiiii???
 
-314 songs - 14 hr 18 min
+315 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/3P5h94RH9LOBwD8OF84M0u) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One More Love](https://open.spotify.com/album/3JFdUloxNYTVuNlr8mXEHB) | 3:30 | 2022-05-26 | 2022-06-28 |
 | [Menozin É Abusado](https://open.spotify.com/track/7ED51LMfG28pKMGIW3CEy0) | [021 Richard](https://open.spotify.com/artist/01U1Lf7mHrOLPjtfDAfvY1), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Menozin É Abusado](https://open.spotify.com/album/4x81PWFB5XqYGgj2KSB80w) | 2:38 | 2023-05-22 | 2023-08-04 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-12-06 | 2023-03-14 |
-| [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-07-17 |  |
+| [MONTAGEM \- PAREDE](https://open.spotify.com/track/1Bf8wk84B42gGewriwJlT9) | [SAMUKA](https://open.spotify.com/artist/3wGtjtHSh7D31VZV9wPupB) | [MONTAGEM \- PAREDE](https://open.spotify.com/album/0JgTiCbeMx4rflI3BBINoB) | 1:01 | 2023-09-08 |  |
+| [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-07-17 | 2023-09-11 |
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-05-26 | 2022-08-19 |
 | [MTG \- FAZ O VUK VUK SENTANDO \(VERSÃO SERIE GOLD\)](https://open.spotify.com/track/3mMLHPnMcT4jEM95zzqaBc) | [Dj Godim](https://open.spotify.com/artist/1EVMpP0oubPkCR1VQnu4rj) | [MTG \- FAZ O VUK VUK SENTANDO \(VERSÃO SERIE GOLD\)](https://open.spotify.com/album/3LCAf01y20MLmQ0tZ2HdEw) | 2:31 | 2023-07-18 | 2023-08-23 |
 | [MTG \- FAZ O VUK VUK SENTANDO \(VERSÃO SERIE GOLD\)](https://open.spotify.com/track/5hjrhk3dhlrxmjglQeMgOn) | [Dj Godim](https://open.spotify.com/artist/1EVMpP0oubPkCR1VQnu4rj) | [MTG \- FAZ O VUK VUK SENTANDO \(VERSÃO SERIE GOLD\)](https://open.spotify.com/album/0xBVE0oaH804bEbJGb0bfP) | 2:31 | 2023-07-28 | 2023-08-08 |

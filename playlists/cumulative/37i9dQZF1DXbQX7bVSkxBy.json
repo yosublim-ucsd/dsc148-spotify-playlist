@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Alagbara (feat. Lyrical HI) [Live]",
+        "url": "https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk"
+      },
+      "artists": [
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 734122,
+      "name": "Alagbara (feat. Lyrical HI) - Live",
+      "url": "https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4"
+    },
+    {
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
       },
@@ -1168,7 +1190,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 267572,
       "name": "Na You Dey Reign",
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
@@ -1362,6 +1384,24 @@
       "duration_ms": 740413,
       "name": "Okaka",
       "url": "https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3"
+    },
+    {
+      "album": {
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 613918,
+      "name": "Oke Mmiri",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
     },
     {
       "album": {
@@ -1636,7 +1676,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 490000,
       "name": "There's an Overflow",
       "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"

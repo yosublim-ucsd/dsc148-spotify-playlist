@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 21640,
+  "num_followers": 21652,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTcxOTVjY2NlYTA3ODBjMGEzZTFhNjAxNWU2ZGY4YWI4NjE4MjZh",
+  "snapshot_id": "MCw4ZTMyMTdhNGQxNDZhNzU5ZDEwYjI3OTBlZDRjYjRlYzEyNzdlYzUz",
   "tracks": [
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
+        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
+      },
+      "artists": [
+        {
+          "name": "THE \u864e\u7259\u9053",
+          "url": "https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4"
+        }
+      ],
+      "duration_ms": 260820,
+      "name": "PROOF OF ONESELF",
+      "url": "https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
         "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 01",
         "url": "https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
-        "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 08",
+        "url": "https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh"
       },
       "artists": [
         {
-          "name": "\u6c34\u5d8b \u54b2 (CV.\u5c0f\u6797\u5927\u7d00)",
-          "url": "https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW"
+          "name": "\u7872 \u9053\u592b (CV.\u4f0a\u6771\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq"
         }
       ],
-      "duration_ms": 246240,
-      "name": "\u30d5\u30a7\u30a4\u30d0\u30ea\u30c3\u30c8\u306b\u8e0a\u3089\u305b\u3066",
-      "url": "https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx"
+      "duration_ms": 303266,
+      "name": "Learning Message",
+      "url": "https://open.spotify.com/track/5ICy98VAWQfVgBialQdD6s"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1199,22 +1215,6 @@
       "duration_ms": 262680,
       "name": "GOLD ~No.79~",
       "url": "https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
-        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
-      },
-      "artists": [
-        {
-          "name": "THE \u864e\u7259\u9053",
-          "url": "https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4"
-        }
-      ],
-      "duration_ms": 260820,
-      "name": "PROOF OF ONESELF",
-      "url": "https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 08",
-        "url": "https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh"
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
+        "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
       },
       "artists": [
         {
-          "name": "\u7872 \u9053\u592b (CV.\u4f0a\u6771\u5065\u4eba)",
-          "url": "https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq"
+          "name": "\u6c34\u5d8b \u54b2 (CV.\u5c0f\u6797\u5927\u7d00)",
+          "url": "https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW"
         }
       ],
-      "duration_ms": 303266,
-      "name": "Learning Message",
-      "url": "https://open.spotify.com/track/5ICy98VAWQfVgBialQdD6s"
+      "duration_ms": 246240,
+      "name": "\u30d5\u30a7\u30a4\u30d0\u30ea\u30c3\u30c8\u306b\u8e0a\u3089\u305b\u3066",
+      "url": "https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx"
     },
     {
       "added_at": "2023-05-09 15:56:06",

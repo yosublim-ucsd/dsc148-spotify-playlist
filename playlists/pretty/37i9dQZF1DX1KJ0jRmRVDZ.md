@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,314 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,465 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [都落ち](https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:10 |
 | 50 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 |
 
-Snapshot ID: `MCxiMDQ3NDVjZjgwYWFiNTQ0ZGYyYTlkMTNkNWJhZjU3YjA1NjkzYzE1`
+Snapshot ID: `MCwxMTgxN2Q2ZDU3NjgzMzJjYzFjNDYwYTg4MWQwZTViNDlkMzc2YjNl`

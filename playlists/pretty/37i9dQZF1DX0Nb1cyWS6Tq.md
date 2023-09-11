@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,656 likes - 80 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,192 likes - 80 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 19 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 |
 | 20 | [Temple of Love \- 1992](https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT) | 8:08 |
 | 21 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
-| 22 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 |
-| 23 | [So Alive](https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Love and Rockets](https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU) | 4:17 |
+| 22 | [So Alive](https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Love and Rockets](https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU) | 4:17 |
+| 23 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 |
 | 24 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 |
 | 25 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 |
 | 26 | [Christian Woman](https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 8:58 |
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 31 | [Sacrifice](https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH) | [London After Midnight](https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer) | [Selected Scenes from the End of the World](https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN) | 7:35 |
 | 32 | [Burn](https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 6:38 |
 | 33 | [All We Ever Wanted Was Everything](https://open.spotify.com/track/6Q9kdCHXpAef5YbKXKeG9M) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Sky's Gone Out](https://open.spotify.com/album/42L0285NmWnp6lF0Tf6uyw) | 3:52 |
-| 34 | [Romeo's Distress](https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 3:16 |
-| 35 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 |
+| 34 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 |
+| 35 | [Romeo's Distress](https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 3:16 |
 | 36 | [Atmosphere \- 2020 Digital Remaster](https://open.spotify.com/track/7k42ztYdHyKWrKrENxwjkV) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Atmosphere](https://open.spotify.com/album/5bXAysvuhQbyWllgYuahwt) | 4:12 |
 | 37 | [Be My Druidess](https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 5:25 |
 | 38 | [Dead Souls](https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:53 |
 | 39 | [The Lovecats](https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:40 |
-| 40 | [Shadows](https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Shadows](https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV) | 3:07 |
-| 41 | [Dominion / Mother Russia](https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 7:00 |
+| 40 | [Dominion / Mother Russia](https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 7:00 |
+| 41 | [Shadows](https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Shadows](https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV) | 3:07 |
 | 42 | [The Passion of Lovers](https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:51 |
 | 43 | [Reptile](https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:55 |
 | 44 | [Christine](https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 2:59 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 60 | [Ghost Rider \- 2019 \- Remaster](https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 2:33 |
 | 61 | [Ivo](https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:53 |
 | 62 | [Twenty Four Hours \- 2007 Remaster](https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 4:28 |
-| 63 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
-| 64 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 |
+| 63 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 |
+| 64 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
 | 65 | [Incubus Succubus II](https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv) | 4:45 |
 | 66 | [Wasteland](https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Gods Own Medicine](https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV) | 5:40 |
 | 67 | [Medusa](https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Medusa](https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv) | 5:53 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 73 | [Не Смешно / Ne Smeshno](https://open.spotify.com/track/0eA4Bqcjt58ORsG9VFMSmt) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Monument](https://open.spotify.com/album/7I9n0t27YMnNqf8pIfTG9z) | 3:52 |
 | 74 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |
 | 75 | [Beatrix](https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:12 |
-| 76 | [Break the Chain](https://open.spotify.com/track/6kKRKC9D910aeIwvvsQ4us) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/2PH0lFIOpfK13q72nnP5Fn) | 4:46 |
-| 77 | [The Shadow Of Love](https://open.spotify.com/track/4QaOESIMfFp1MYOOOBHXrE) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Phantasmagoria](https://open.spotify.com/album/1uLToBhDc3RDVXJhhZ0yK2) | 3:49 |
+| 76 | [The Shadow Of Love](https://open.spotify.com/track/4QaOESIMfFp1MYOOOBHXrE) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Phantasmagoria](https://open.spotify.com/album/1uLToBhDc3RDVXJhhZ0yK2) | 3:49 |
+| 77 | [Break the Chain](https://open.spotify.com/track/6kKRKC9D910aeIwvvsQ4us) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/2PH0lFIOpfK13q72nnP5Fn) | 4:46 |
 | 78 | [Go! \- Club Mix](https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo) | 4:28 |
-| 79 | [For Her Light](https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB) | 3:01 |
-| 80 | [Tower Of Strength](https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Children](https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL) | 8:06 |
+| 79 | [Love Like Blood](https://open.spotify.com/track/0SEfEDcVisRq8z4gU6r86b) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 6:48 |
+| 80 | [For Her Light](https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB) | 3:01 |
 
-Snapshot ID: `MCw3ZjkxYjI4OTFkYmY3NzliODVhMmVlNTVhZWIyYWRmNjJlYWY4ZWVi`
+Snapshot ID: `MCwxNjNlODdmNzhlODUyNTdiN2E1NDRmNTJhNmJhZjllZmY5OTFmYzg4`

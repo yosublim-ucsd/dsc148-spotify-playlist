@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,521 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,543 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 67 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
 | 68 | [Después de la tormenta](https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP) | [Bryan Kaarl](https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui) | [Después de la tormenta](https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld) | 2:46 |
 | 69 | [Vete a la Chingada](https://open.spotify.com/track/2Eyhp0Y1c27MJPJNEVLs9n) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más > :\-\(](https://open.spotify.com/album/5wfGJBe1sQ4XbuL2fs0tkz) | 3:07 |
-| 70 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 |
-| 71 | [Aroma A Nostalgia \- Versión 2021](https://open.spotify.com/track/540QeUq2Xnf1gVwthgPZrH) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 4:38 |
+| 70 | [Aroma A Nostalgia \- Versión 2021](https://open.spotify.com/track/540QeUq2Xnf1gVwthgPZrH) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 4:38 |
+| 71 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 |
 | 72 | [Despedida](https://open.spotify.com/track/0f2n03VQWtlXKQmeIKazYF) | [Champ Jr.](https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr) | [Despedida](https://open.spotify.com/album/3SDScjJ7O8Vt3lXEf4JwSS) | 2:38 |
 | 73 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 74 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [café de las ocho](https://open.spotify.com/track/75HRhHdxSupU4JdnaLZtq8) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:55 |
 | 80 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 |
 
-Snapshot ID: `MCw1OWY4MzYxMmUyYTBkMTY2ZTQyZGFhODJmMGMwYzBmNWE2YjIzMDE5`
+Snapshot ID: `MCxjYTljNzkwMDM3OGJlM2JiNDg0YWQzMzZiZjAzY2IzYzM0YWQzYTQ0`

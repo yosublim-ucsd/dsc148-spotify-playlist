@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,205 likes - 150 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,288 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [Heights](https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON) | [Only Girl](https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt) | [Heights](https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp) | 3:46 |
 | 150 | [Keeper](https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Keeper](https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl) | 4:25 |
 
-Snapshot ID: `MCwxNGQ4ZjMxODU5N2MzMmIxNTg5MjI4N2JiMTNiZTVlNTBmYTczMzFj`
+Snapshot ID: `MCxjZDcwNWQ0MDViZjQxYzU3NzZkMjYzYmUzNTcwMDE2MDY0NDQwYWE4`

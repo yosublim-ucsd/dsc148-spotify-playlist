@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,122 likes - 102 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,175 likes - 102 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 2 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 |
 | 3 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 |
 | 4 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 |
-| 5 | [Solid Ground](https://open.spotify.com/track/6pbkFpjMVEYJhvhP0g78Ou) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y) | [Solid Ground](https://open.spotify.com/album/5rVAisj3co4CPMifZQ1jxe) | 3:06 |
+| 5 | [Solid Ground](https://open.spotify.com/track/4MwnHdSBnJ0tfrojqIUAiC) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y) | [Solid Ground](https://open.spotify.com/album/32fwnQrZWZlnTDvlPENMVp) | 3:06 |
 | 6 | [Wozani Zindlamafa](https://open.spotify.com/track/3jWzOF0KBySjTHyVMdAz5e) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Wozani Zindlamafa](https://open.spotify.com/album/2n0NKGMn0EwidGUlYKFxW4) | 4:00 |
 | 7 | [Nang'Mthokozisi \(Live\)](https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 10:46 |
 | 8 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 101 | [Graves Into Gardens](https://open.spotify.com/track/4rnoCR7AOaa6RWdyh7JgP0) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:43 |
 | 102 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
 
-Snapshot ID: `MCwzYzQ5M2FlMzE2MmM3ZmNhYzZmYzQyZjNlYWViNzIwZjNkNDg2OTBm`
+Snapshot ID: `MCwxYTc5Yzc0YmVjN2UwNTEwNGFhNThhYzRiZTE4N2NlOGNlNmFlODQ5`

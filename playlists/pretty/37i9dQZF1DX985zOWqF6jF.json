@@ -1,12 +1,12 @@
 {
   "description": "Y es que cuando nos comemo' hacemo' unas pose que los do' desconocemo' ",
-  "num_followers": 10374,
+  "num_followers": 10424,
   "original_name": "Perreo de Dos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTcwYzRiNzMyZTQzZWRlMWQ3NDJlZDA0YmU0MmM1NDI0NzQ2YjQx",
+  "snapshot_id": "MCw3ZWRkYTQ2ODk5Nzk3ODFlYzIzMjAxZjgwNjhiNTU2NTkzYTA2Zjgz",
   "tracks": [
     {
       "added_at": "2023-09-08 23:18:37",
@@ -407,26 +407,6 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193456,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
         "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 199994,
       "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193456,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -615,6 +615,42 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
+        "name": "KrING",
+        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "PPP",
+      "url": "https://open.spotify.com/track/3oB0bcIVRVZgCkWif0H4vV"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
+        "name": "Pa Ti",
+        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 191294,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
         "name": "Toda Remix",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
@@ -643,42 +679,6 @@
       "duration_ms": 367680,
       "name": "Toda Remix - Remix",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
-        "name": "Pa Ti",
-        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 191294,
-      "name": "Pa Ti",
-      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
-        "name": "KrING",
-        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
-      },
-      "artists": [
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "PPP",
-      "url": "https://open.spotify.com/track/3oB0bcIVRVZgCkWif0H4vV"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -723,6 +723,30 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
+        "name": "KrING",
+        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "HASTA ABAJO",
+      "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
         "name": "Velitas",
         "url": "https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA"
       },
@@ -743,50 +767,18 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "Darte Remix",
-        "url": "https://open.spotify.com/album/0Rg4l9kXJQyl04Oz4XyMWB"
+        "name": "Esclava (Remix)",
+        "url": "https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr"
       },
       "artists": [
         {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "bryant mayers",
+          "url": "https://open.spotify.com/artist/5WIXMN9m95WHt33u8idIzK"
         }
       ],
-      "duration_ms": 512060,
-      "name": "Darte Remix",
-      "url": "https://open.spotify.com/track/6wxZq37sANWYDJiDN5khyL"
+      "duration_ms": 284281,
+      "name": "Esclava (Remix)",
+      "url": "https://open.spotify.com/track/4YLR0IP9xFTnZpnuJV4sn8"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -803,22 +795,6 @@
       "duration_ms": 197586,
       "name": "Mi Cuarto",
       "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
-        "name": "Esclava (Remix)",
-        "url": "https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr"
-      },
-      "artists": [
-        {
-          "name": "bryant mayers",
-          "url": "https://open.spotify.com/artist/5WIXMN9m95WHt33u8idIzK"
-        }
-      ],
-      "duration_ms": 284281,
-      "name": "Esclava (Remix)",
-      "url": "https://open.spotify.com/track/4YLR0IP9xFTnZpnuJV4sn8"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -875,26 +851,50 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "KrING",
-        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
+        "name": "Darte Remix",
+        "url": "https://open.spotify.com/album/0Rg4l9kXJQyl04Oz4XyMWB"
       },
       "artists": [
         {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         },
         {
           "name": "Bryant Myers",
           "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         },
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 229826,
-      "name": "HASTA ABAJO",
-      "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
+      "duration_ms": 512060,
+      "name": "Darte Remix",
+      "url": "https://open.spotify.com/track/6wxZq37sANWYDJiDN5khyL"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "Umaye",
-        "url": "https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7"
-      },
-      "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Umaye",
-      "url": "https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
         "name": "Xexo",
         "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 204136,
       "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
+        "name": "Umaye",
+        "url": "https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Umaye",
+      "url": "https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "RULAY",
-        "url": "https://open.spotify.com/album/3iYAQLMCjwrj4q8cS3I8d2"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "RULAY",
-      "url": "https://open.spotify.com/track/5ITpOthZI6yuhF33ANi3UV"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
         "name": "Yo Soy la Fama",
         "url": "https://open.spotify.com/album/1Kh36gr6wF5KfF2oGTKTSX"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 239232,
       "name": "Mamisonga",
       "url": "https://open.spotify.com/track/0B5NFyHi0F9SPyd1A0En9m"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
+        "name": "RULAY",
+        "url": "https://open.spotify.com/album/3iYAQLMCjwrj4q8cS3I8d2"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "RULAY",
+      "url": "https://open.spotify.com/track/5ITpOthZI6yuhF33ANi3UV"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "Apaga la Luz",
-        "url": "https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        },
-        {
-          "name": "Naked Geometry",
-          "url": "https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl"
-        }
-      ],
-      "duration_ms": 169684,
-      "name": "Apaga la Luz",
-      "url": "https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 260000,
       "name": "Privado",
       "url": "https://open.spotify.com/track/4Nu07kdmj2GDenygAFmuT8"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
+        "name": "Apaga la Luz",
+        "url": "https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
+        {
+          "name": "Naked Geometry",
+          "url": "https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl"
+        }
+      ],
+      "duration_ms": 169684,
+      "name": "Apaga la Luz",
+      "url": "https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY"
     },
     {
       "added_at": "2023-09-08 23:18:37",

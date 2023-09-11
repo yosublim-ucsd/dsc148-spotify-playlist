@@ -1,12 +1,12 @@
 {
   "description": "pov: quem nunca ne",
-  "num_followers": 262675,
+  "num_followers": 262734,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzQ2Mzg5OGEyZjMwMGQxNjVhN2JiY2YyMTU1OWEwMDg2NmEyNTJm",
+  "snapshot_id": "MCwzNmFiNTQ1OTdiYjVhYzk0YzcxZWIxMTMwMzNiZTdhM2Y0ZWY4MmRh",
   "tracks": [
     {
       "added_at": "2023-09-08 17:38:23",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-09-08 17:38:23",
       "album": {
-        "name": "vampire",
-        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
-    },
-    {
-      "added_at": "2023-09-08 17:38:23",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": "2023-09-08 17:38:23",
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2023-09-08 17:38:23",
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -287,22 +287,6 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2023-09-08 17:38:23",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
       "added_at": "2023-09-08 17:38:23",
@@ -679,22 +663,6 @@
     {
       "added_at": "2023-09-08 17:38:23",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 202395,
-      "name": "Lavender Haze",
-      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
-    },
-    {
-      "added_at": "2023-09-08 17:38:23",
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -707,6 +675,22 @@
       "duration_ms": 223080,
       "name": "Say It Right",
       "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
+    },
+    {
+      "added_at": "2023-09-08 17:38:23",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
     },
     {
       "added_at": "2023-09-08 17:38:23",
@@ -771,6 +755,22 @@
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
+    },
+    {
+      "added_at": "2023-09-08 17:38:23",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
       "added_at": "2023-09-08 17:38:23",

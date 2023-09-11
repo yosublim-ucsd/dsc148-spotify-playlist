@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-317 songs - 19 hr 51 min
+318 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Always On My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 | 2021-12-10 |  |
 | [Am I Losing You \- Remastered](https://open.spotify.com/track/5UJCcSSiQRXT9ONGbgihDE) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Ultimate Ronnie Milsap](https://open.spotify.com/album/6MtbZ0Hjoez0CqgfIQ6FfM) | 3:36 | 2021-12-10 | 2022-07-29 |
 | [Amarillo by Morning](https://open.spotify.com/track/40UaGjNcP6ZRNDksHLrCli) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 2:48 | 2021-12-10 | 2022-07-29 |
-| [Anti\-Hero \- Country Version](https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Anti\-Hero \(Country Version\)](https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW) | 3:10 | 2022-11-04 |  |
+| [Anti\-Hero \- Country Version](https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Anti\-Hero \(Country Version\)](https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW) | 3:10 | 2022-11-04 | 2023-09-11 |
 | [Anymore](https://open.spotify.com/track/74iNoeAILH4cxEEHbVE8p5) | [Will Dempsey](https://open.spotify.com/artist/6EwJep0jBRD2MMG3BLH6dd) | [Anymore](https://open.spotify.com/album/5DfR3WXx0ior8OriOD9cK1) | 4:05 | 2021-12-10 | 2022-07-27 |
 | [Anyone](https://open.spotify.com/track/6LwOHSi4IoJtivi221knNa) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Anyone](https://open.spotify.com/album/3SZjxYfXYl3LWNI3VVV4NC) | 3:22 | 2022-10-14 | 2023-01-06 |
 | [Back in the High Life Again](https://open.spotify.com/track/1wfBLVzNoH2pQEeydZAs6N) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 4:40 | 2021-12-10 | 2022-07-23 |
@@ -117,6 +117,7 @@
 | [Hard To Say I'm Sorry](https://open.spotify.com/track/3UUIIv6iA4fsLLgo284oN3) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Whenever I Call You "Friend" \(feat\. Phillip Sweet\)](https://open.spotify.com/album/0qwDJBOgMOAxaNxKmYaEAV) | 5:22 | 2021-12-10 | 2022-02-03 |
 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 | 2021-12-10 |  |
 | [Heads Carolina, Tails California](https://open.spotify.com/track/3eyYxeswyx7wmO3n8EHKuD) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Slappers, Bangers & Certified Twangers, Vol\. 1](https://open.spotify.com/album/6ib3wEDfXc8b5vAwzz8vgQ) | 3:32 | 2021-12-10 | 2022-07-23 |
+| [Heartbroken](https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Heartbroken](https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc) | 2:54 | 2023-09-08 |  |
 | [Help Me Make It Through The Night](https://open.spotify.com/track/7v1gS86jVpKFdnt0gmkOSg) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [A Nashville Songbook](https://open.spotify.com/album/5EuBzU4C9X3A9fWah24JgA) | 3:35 | 2021-12-10 | 2022-07-28 |
 | [Help Me Make It Through the Night](https://open.spotify.com/track/69iVsk096xmrKtcrU2mVnj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Highwaymen](https://open.spotify.com/album/3HoSFsrDuaxgwLUBpC2zUE) | 3:59 | 2021-12-10 | 2022-07-27 |
 | [Here You Come Again](https://open.spotify.com/track/2DaaWA2TxQV4heZwWrX5oY) | [Cody Belew](https://open.spotify.com/artist/57mO2JxS9Ce0dX4ZJsUlfk) | [Here You Come Again](https://open.spotify.com/album/2Qcwg7sn0G09II6pjLXb8K) | 3:13 | 2022-03-25 | 2022-04-21 |

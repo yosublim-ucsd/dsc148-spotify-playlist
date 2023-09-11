@@ -4,10 +4,11 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-167 songs - 12 hr 47 min
+168 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 | 2023-09-08 |  |
 | [A Short Walk From Home](https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:05 | 2022-05-06 |  |
 | [After The Rain](https://open.spotify.com/track/2vqAgia9rMUeivicDvIdRI) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 4:40 | 2022-05-06 | 2023-04-14 |
 | [After The Storm](https://open.spotify.com/track/57DG0j3hPpSjlMKrwE7gPg) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 4:45 | 2022-05-06 | 2023-05-04 |
@@ -144,7 +145,7 @@
 | [Take Me There](https://open.spotify.com/track/5rB6wRwImtMsQirYDS2Xxu) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 5:14 | 2022-05-06 | 2022-10-05 |
 | [Tell Me So](https://open.spotify.com/track/1xIfnVs8j4QfY91Un3rxvE) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [In The Name Of Love](https://open.spotify.com/album/54oJKdLUcrIwOwX4FkxBxW) | 5:01 | 2022-05-06 | 2023-03-29 |
 | [The Catwalk](https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [The Catwalk](https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC) | 3:27 | 2023-04-06 |  |
-| [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 | 2023-08-18 |  |
+| [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 | 2023-08-18 | 2023-09-11 |
 | [The Gift](https://open.spotify.com/track/4OEEX2KxWFXOjp8tBf02t6) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 5:28 | 2022-05-06 | 2022-11-23 |
 | [The Last Kiss](https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 4:04 | 2023-05-11 |  |
 | [The Only One For Me](https://open.spotify.com/track/1dBhgZ40Qf8EVTZ61prtIJ) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Wishful Thinking](https://open.spotify.com/album/0L3yaukGbiP8X9BGHMGNOt) | 4:49 | 2022-05-06 | 2022-08-30 |

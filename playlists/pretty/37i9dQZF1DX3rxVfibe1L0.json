@@ -1,12 +1,12 @@
 {
   "description": "Get happy with today's dose of feel-good songs!",
-  "num_followers": 7552193,
+  "num_followers": 7552635,
   "original_name": "Mood Booster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWQzODZjZWJiMjI4Y2E4ZTk4NDkwZjkzZTMyYjg0NDBmZDAyZDY3",
+  "snapshot_id": "MCwzZDZhMDU0OTQ4ZDk0ZDRiODdhYTU3NjQ2ZDU0YTU3ZTE4ZjAzOThk",
   "tracks": [
     {
       "added_at": "2023-08-29 18:04:48",
@@ -755,26 +755,18 @@
     {
       "added_at": "2023-08-29 18:04:48",
       "album": {
-        "name": "Better Days (NEIKED x Mae Muller x Polo G)",
-        "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
       "artists": [
         {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
         }
       ],
-      "duration_ms": 160656,
-      "name": "Better Days (NEIKED x Mae Muller x Polo G)",
-      "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2023-08-29 18:04:48",
@@ -795,18 +787,26 @@
     {
       "added_at": "2023-08-29 18:04:48",
       "album": {
-        "name": "Lil Boo Thang",
-        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+        "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+        "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
       "artists": [
         {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 114233,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
+      "duration_ms": 160656,
+      "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+      "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
     },
     {
       "added_at": "2023-08-29 18:04:48",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-08-29 18:04:48",
       "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
+    },
+    {
+      "added_at": "2023-08-29 18:04:48",
+      "album": {
         "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
         "url": "https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 165619,
       "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
       "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
-    },
-    {
-      "added_at": "2023-08-29 18:04:48",
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "AOK",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "added_at": "2023-08-29 18:04:48",

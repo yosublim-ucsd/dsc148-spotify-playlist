@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "alley",
+        "url": "https://open.spotify.com/album/5ajbnD0oVAAmhKgKA92mtR"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115763,
+      "name": "alley",
+      "url": "https://open.spotify.com/track/59lzglOONvlnXfTarq1POU"
+    },
+    {
+      "album": {
         "name": "Butterscotch",
         "url": "https://open.spotify.com/album/2VO7rHl5HkUVeSU67nDOLI"
       },
@@ -1689,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Daydream Thing",
+        "url": "https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX"
+      },
+      "artists": [
+        {
+          "name": "Bnjo",
+          "url": "https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128664,
+      "name": "Daydream Thing",
+      "url": "https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x"
+    },
+    {
+      "album": {
         "name": "Daz",
         "url": "https://open.spotify.com/album/5Y6wMfvkvKWYyHhhSaXpmH"
       },
@@ -1704,6 +1740,24 @@
       "duration_ms": 167030,
       "name": "Daz",
       "url": "https://open.spotify.com/track/6P4UKqyzjaIXSVgaBKy2pn"
+    },
+    {
+      "album": {
+        "name": "chai latay",
+        "url": "https://open.spotify.com/album/2LsusJuv6WiMu7VKOLg7Ki"
+      },
+      "artists": [
+        {
+          "name": "Ree Vozz",
+          "url": "https://open.spotify.com/artist/03Kr8XGKfldmQU7bODAzqu"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171432,
+      "name": "dear",
+      "url": "https://open.spotify.com/track/4eMXHSc8jzmc9XdrHc14eO"
     },
     {
       "album": {
@@ -3535,6 +3589,24 @@
     },
     {
       "album": {
+        "name": "Harpiness",
+        "url": "https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV"
+      },
+      "artists": [
+        {
+          "name": "LILCHI",
+          "url": "https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Harpiness",
+      "url": "https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U"
+    },
+    {
+      "album": {
         "name": "Hear Me",
         "url": "https://open.spotify.com/album/4w1IUNKohLCeMuBoS3Svw1"
       },
@@ -4486,7 +4558,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 132000,
       "name": "Lazy Dreams",
       "url": "https://open.spotify.com/track/0MeDQSiROjluPfu8hF00bT"
@@ -6733,6 +6805,24 @@
     },
     {
       "album": {
+        "name": "Purple Hue",
+        "url": "https://open.spotify.com/album/69448mTpDDiJT3ix1zziay"
+      },
+      "artists": [
+        {
+          "name": "Dreams On Vinyl",
+          "url": "https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151223,
+      "name": "Purple Hue",
+      "url": "https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii"
+    },
+    {
+      "album": {
         "name": "Sandman Express",
         "url": "https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw"
       },
@@ -6798,7 +6888,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 180000,
       "name": "quarantine blues",
       "url": "https://open.spotify.com/track/5OqQA1I96jy9HrawfMBV3a"
@@ -7366,7 +7456,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 105757,
       "name": "sandcastles",
       "url": "https://open.spotify.com/track/2J0Rj3cOl6EfTGI5D0FA6p"
@@ -8658,7 +8748,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 134573,
       "name": "Superman in the Tree",
       "url": "https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv"
@@ -9256,7 +9346,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 113142,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/6pQF5FATuPz4GSihK6hx2p"

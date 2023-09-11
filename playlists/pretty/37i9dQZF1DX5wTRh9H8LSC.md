@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 
 > Listen Heroine's music 24 Hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,321 likes - 36 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,337 likes - 36 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 | 35 | [Time Is Up](https://open.spotify.com/track/6ZxavH9mJlUGYOSCdSplJs) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 4:38 |
 | 36 | [If That Was You](https://open.spotify.com/track/2fQP5ZQmyXTcvjn8Jj6gTf) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:47 |
 
-Snapshot ID: `MCxjZTM2Nzk4ZTU4YmFhMzY0ZWZjYmZjZTExZWViZmNkZTI3N2RlODBk`
+Snapshot ID: `MCw0MWJkYmUxMWEwNGU0MWY0N2Y0YmJlYjBkYjlkZGQ5ODk1Y2U3YWE2`

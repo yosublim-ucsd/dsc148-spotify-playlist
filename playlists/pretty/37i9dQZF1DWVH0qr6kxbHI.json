@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 64209,
+  "num_followers": 64331,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGFmNTk5MzFmYzRlNjNlOTM5ZGI4YmQzOWEwMjUwNDY0M2E3Yjc5",
+  "snapshot_id": "MCwzMjAyNTQxMzBiMmQ3YmEyNzI3NjBhN2UyNGZjNDEyYjcyNmU0ZWFi",
   "tracks": [
     {
       "added_at": "2023-08-28 17:02:49",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "La Orilla de Mi Pelo",
-        "url": "https://open.spotify.com/album/6NtCvKJZsZG1QqCJVMeOhy"
+        "name": "Se acabo",
+        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
         }
       ],
-      "duration_ms": 215493,
-      "name": "Cuando Te Beso",
-      "url": "https://open.spotify.com/track/5XqlTeL5oyxqSJsD6D7XVP"
+      "duration_ms": 182466,
+      "name": "Se acab\u00f3",
+      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Se acabo",
-        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
+        "name": "La Orilla de Mi Pelo",
+        "url": "https://open.spotify.com/album/6NtCvKJZsZG1QqCJVMeOhy"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Se acab\u00f3",
-      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
+      "duration_ms": 215493,
+      "name": "Cuando Te Beso",
+      "url": "https://open.spotify.com/track/5XqlTeL5oyxqSJsD6D7XVP"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe"
-      },
-      "artists": [
-        {
-          "name": "Paloma San Basilio",
-          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
-        }
-      ],
-      "duration_ms": 261813,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Un Ramito De Violetas",
         "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 252666,
       "name": "Un Ramito de Violetas",
       "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe"
+      },
+      "artists": [
+        {
+          "name": "Paloma San Basilio",
+          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
+        }
+      ],
+      "duration_ms": 261813,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
+        "name": "Seguir viviendo",
+        "url": "https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "Se me olvid\u00f3 otra vez",
+      "url": "https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
         "name": "Mari Trini Con los Panchos",
         "url": "https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 204347,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Seguir viviendo",
-        "url": "https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "Se me olvid\u00f3 otra vez",
-      "url": "https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Oraciones de amor",
-        "url": "https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 281440,
-      "name": "Te amar\u00e9, te amo, y te querr\u00e9",
-      "url": "https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Tan Solo Una Mujer",
         "url": "https://open.spotify.com/album/1rKjcPNljCVlg0gRHnENMd"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 271693,
       "name": "Se nos rompi\u00f3 el amor",
       "url": "https://open.spotify.com/track/5V8MiatwmSYw80Teq4d3li"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Oraciones de amor",
+        "url": "https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg"
+      },
+      "artists": [
+        {
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+        }
+      ],
+      "duration_ms": 281440,
+      "name": "Te amar\u00e9, te amo, y te querr\u00e9",
+      "url": "https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
+        "name": "Dec\u00e1logo (Sus 10 Mayores \u00c9xitos)",
+        "url": "https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Ponte la Mano en el Pecho",
+      "url": "https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
         "name": "Cristalitos Machacaos",
         "url": "https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
-        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Y se amaron dos caballos",
-      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Esc\u00fachame",
         "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Dec\u00e1logo (Sus 10 Mayores \u00c9xitos)",
-        "url": "https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7"
+        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
+        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
         }
       ],
-      "duration_ms": 211533,
-      "name": "Ponte la Mano en el Pecho",
-      "url": "https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv"
+      "duration_ms": 215626,
+      "name": "Y se amaron dos caballos",
+      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Mis Mejores Canciones",
-        "url": "https://open.spotify.com/album/3v6sufMLzild3gXVb4zmK8"
-      },
-      "artists": [
-        {
-          "name": "Gracia Montes",
-          "url": "https://open.spotify.com/artist/1dLbRp4b9TOqxlPj6Pmtbu"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Soy Una Feria",
-      "url": "https://open.spotify.com/track/5gPBR2GlcBQZnwEwPFR1fS"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Raices de la Canci\u00f3n Espa\u00f1ola, Vol. 4",
         "url": "https://open.spotify.com/album/0YPZiUW2u8RB8zRsVANNpr"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 164395,
       "name": "Coplillas de las Divisas (Americanos)",
       "url": "https://open.spotify.com/track/2jsHf9MILNts8a4oE52QX0"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Mis Mejores Canciones",
+        "url": "https://open.spotify.com/album/3v6sufMLzild3gXVb4zmK8"
+      },
+      "artists": [
+        {
+          "name": "Gracia Montes",
+          "url": "https://open.spotify.com/artist/1dLbRp4b9TOqxlPj6Pmtbu"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Soy Una Feria",
+      "url": "https://open.spotify.com/track/5gPBR2GlcBQZnwEwPFR1fS"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Baladilla De Los Tres R\u00edos",
-        "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
+        "name": "Tatuaje",
+        "url": "https://open.spotify.com/album/6z0xxhlPljQvIMgCrfkwTn"
       },
       "artists": [
         {
-          "name": "Pasi\u00f3n Vega",
-          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
         }
       ],
-      "duration_ms": 192627,
-      "name": "Baladilla De Los Tres R\u00edos",
-      "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
+      "duration_ms": 271213,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/4bSTSglkBr2mtv9bgKR8Th"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Tatuaje",
-        "url": "https://open.spotify.com/album/6z0xxhlPljQvIMgCrfkwTn"
+        "name": "Baladilla De Los Tres R\u00edos",
+        "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
       },
       "artists": [
         {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+          "name": "Pasi\u00f3n Vega",
+          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
         }
       ],
-      "duration_ms": 271213,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/4bSTSglkBr2mtv9bgKR8Th"
+      "duration_ms": 192627,
+      "name": "Baladilla De Los Tres R\u00edos",
+      "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
     },
     {
       "added_at": "2023-08-28 17:02:49",

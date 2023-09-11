@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Is "indie sleaze" in the room with us? ft\. The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,773 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,914 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 57 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
 | 58 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 |
 | 59 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
-| 60 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
-| 61 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 |
+| 60 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 |
+| 61 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
 | 62 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 63 | [Can't Stand Me Now](https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:23 |
 | 64 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
 | 65 | [D.A.N.C.E \- Radio Edit](https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [D.A.N.C.E](https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7) | 3:31 |
 | 66 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
 | 67 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
-| 68 | [Islands](https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:40 |
-| 69 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 |
+| 68 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 |
+| 69 | [Islands](https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:40 |
 | 70 | [Rill Rill](https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 3:49 |
 | 71 | [Y Control](https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 4:00 |
 | 72 | [The End Has No End](https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:05 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 96 | [Emerge](https://open.spotify.com/track/3vyKSb9sAdXl0kQ1KnS9fY) | [Fischerspooner](https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3) | [\#1](https://open.spotify.com/album/3OCiJ6mbOzJdzTrk8R9hy2) | 4:48 |
 | 97 | [Back in Your Head](https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [The Con](https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK) | 3:00 |
 | 98 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 |
-| 99 | [The Reeling](https://open.spotify.com/track/5noQJkpVfHt2D4df2GXieV) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 4:47 |
-| 100 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 |
+| 99 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 |
+| 100 | [The Reeling](https://open.spotify.com/track/5noQJkpVfHt2D4df2GXieV) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 4:47 |
 
-Snapshot ID: `MCxjM2E2Y2RjZjdlN2M4NzFhOGY3YTdlMGNlYWY3ZTAxZmIwMTE1ZTRj`
+Snapshot ID: `MCw0ZjQ0ZWRhYTg0MDkyNDFhMWVkODlhMmJjNzIyMzc2YjE5ZGJmOGNm`

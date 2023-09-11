@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-274 songs - 13 hr 29 min
+275 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Early Momo](https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Teslim: The Energy Still Lives in Me](https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI) | 3:14 | 2023-01-19 | 2023-03-31 |
 | [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-19 | 2023-02-11 |
 | [Ego](https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Ego](https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z) | 2:36 | 2022-10-13 | 2022-12-09 |
-| [Eh God \(Barnabas\)](https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 3:04 | 2022-06-09 |  |
+| [Eh God \(Barnabas\)](https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 3:04 | 2022-06-09 | 2023-09-11 |
 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-18 |  |
 | [Elon musk](https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Elon musk](https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I) | 3:15 | 2023-05-05 |  |
 | [Elon Musk \- Remix](https://open.spotify.com/track/0XEWEGM2Y9C4JjiuRPPCRo) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Elon Musk \(Remix\)](https://open.spotify.com/album/4wvbOYAuOweDZZZsGPfpRA) | 3:00 | 2023-05-19 | 2023-05-27 |
@@ -176,6 +176,7 @@
 | [Mufasa](https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Mufasa](https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO) | 2:51 | 2022-06-09 | 2022-12-26 |
 | [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 | 2023-08-10 |  |
 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 | 2023-06-23 |  |
+| [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm) | 2:56 | 2023-09-09 |  |
 | [New Religion](https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [New Religion](https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1) | 2:33 | 2023-06-02 |  |
 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2023-07-21 |  |
 | [NNEKA \(feat\. Tekno\)](https://open.spotify.com/track/0mYgEZ0CNnEAGBKpxD1fgv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:15 | 2023-06-16 | 2023-07-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 
 > This is Phoebe Bridgers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,252 likes - 40 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,312 likes - 40 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 | 39 | [It'll All Work Out \(Bonus Track\)](https://open.spotify.com/track/0QTdNeshBSmLmpgHP7R5iV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 2:46 |
 | 40 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDA4ZDE5YWNmYWZlZTIzYzBmYmUxOThmZWM4NWIzNjdmNQ==`
+Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDAyNTM0ZGYwMmYxMjJkZjg2MmVjODYyMDU4OTJlZDUxMA==`

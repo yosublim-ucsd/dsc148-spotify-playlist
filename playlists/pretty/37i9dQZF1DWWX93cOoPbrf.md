@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,976 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,271 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Respaldo y Apoyo](https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p) | [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Respaldo y Apoyo](https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS) | 1:58 |
 | 75 | [En Un Corvette](https://open.spotify.com/track/0EbNmjE3fD4kQYLejbQpTI) | [Niño Armado](https://open.spotify.com/artist/1iXmwjgoA59F6JIkc8RAJJ) | [En Un Corvette](https://open.spotify.com/album/3XY5zabnjR7uDCvSV9HQBV) | 2:52 |
 
-Snapshot ID: `MCw0YmEzMmE3NzdkMjQwMmFkMGZjZDVhYmYyMWYzZGYyNmMzN2YwYzdi`
+Snapshot ID: `MCwzMGVjYWYyZTYwZDM0MTQ2ZDYwODczZDczNmI4ZjE0Y2IzZTExZGIx`

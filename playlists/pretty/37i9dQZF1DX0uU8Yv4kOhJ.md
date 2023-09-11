@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,368 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,390 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 37 | [Sajsahuaman](https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8), [Yuri Ortuño León](https://open.spotify.com/artist/1Tez0X3Wh9zSosZpCyoeLw), [Rafael Arias Paz](https://open.spotify.com/artist/6byGBND3MbJ7xGjDwU0LaZ), [Orlando Jiménez](https://open.spotify.com/artist/09rYyheZjqeOn8sXUfk8Yh), [Raúl Muriel](https://open.spotify.com/artist/2sHM5euYwk4aMqhiT8MZCM) | [No Vuelvo a Amar \(feat\. Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel\) \[Bolivia y Su Folklore\]](https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY) | 2:42 |
 | 38 | [Baila Caporal](https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ) | [Sukay](https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B) | [Encuentros \(Meetings\)](https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL) | 4:32 |
 | 39 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
-| 40 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
-| 41 | [Cacharpaya Del Indio](https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu) | [Jorge Rico](https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp) | [A Journey To The Andes](https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P) | 4:56 |
+| 40 | [Cacharpaya Del Indio](https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu) | [Jorge Rico](https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp) | [A Journey To The Andes](https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P) | 4:56 |
+| 41 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
 | 42 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
-| 43 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 |
-| 44 | [Arriba Quemando el Sol](https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Maryta de Humahuaca](https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc) | [Arriba Quemando el Sol](https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv) | 3:28 |
+| 43 | [Arriba Quemando el Sol](https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Maryta de Humahuaca](https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc) | [Arriba Quemando el Sol](https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv) | 3:28 |
+| 44 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 |
 | 45 | [Cometa de Luz](https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb) | [Uña Ramos](https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA) | [Quena de los Andes](https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq) | 3:47 |
-| 46 | [Ódiame](https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA) | [Los Cancionautas Surmelódicos](https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga), [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Ódiame](https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde) | 3:43 |
-| 47 | [De Barrio](https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0) | [M.A.K.U SoundSystem](https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh) | [Mezcla](https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa) | 5:51 |
-| 48 | [Caracol](https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 4:08 |
+| 46 | [Caracol](https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 4:08 |
+| 47 | [Ódiame](https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA) | [Los Cancionautas Surmelódicos](https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga), [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Ódiame](https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde) | 3:43 |
+| 48 | [De Barrio](https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0) | [M.A.K.U SoundSystem](https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh) | [Mezcla](https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa) | 5:51 |
 | 49 | [Sunch'u T'ikitay \- Remastered](https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu) | [Los Kjarkas](https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN) | [Lo Mejor de los Kjarkas](https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9) | 3:36 |
 | 50 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 |
 
-Snapshot ID: `MCw4ZDlmMjVmZDAxZjcxMzFiODk4ZjJlZjcxZTNlYzdmZWUyODQzZjg1`
+Snapshot ID: `MCw2OTE4ZTJkNWVlMzNjMGMyOTNiNGZhZDljNzQ3Y2ZiNGEzYWYxMzA5`

@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Sael",
-  "num_followers": 1918871,
+  "num_followers": 1918980,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGFiMTI4MDU1NWZlNTI2ZjYzZGE5OGY2NDVhYThmNDM1NzIxOTM1",
+  "snapshot_id": "MCw3OWRhNzEyMDY4ZmFhNWRiYjRkZTQzOTNjMzcwMzE0MTI3MmExZTBh",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Morire Bebiendo",
+      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "LA FALTA QUE ME HACES (Bachata Version)",
         "url": "https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 169418,
       "name": "AMNESIA",
       "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Morire Bebiendo",
-      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
+      },
+      "artists": [
+        {
+          "name": "Xtreme",
+          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Ad\u00f3nde Se Fue ?",
+      "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
-      },
-      "artists": [
-        {
-          "name": "Xtreme",
-          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Ad\u00f3nde Se Fue ?",
-      "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Bachatica",
-        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
-      },
-      "artists": [
-        {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
-        }
-      ],
-      "duration_ms": 196461,
-      "name": "Bachatica",
-      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Y Los Claveles Mios",
         "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 236933,
       "name": "El Verde de Tus Ojos",
       "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Bachatica",
+        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
+      },
+      "artists": [
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        }
+      ],
+      "duration_ms": 196461,
+      "name": "Bachatica",
+      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "NATTIVIDAD",
-        "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Cuento Breve",
-      "url": "https://open.spotify.com/track/28BXqWI9e4hPMyJizqOQLT"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "bellodrama",
         "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 181603,
       "name": "Un Mill\u00f3n de Lunas",
       "url": "https://open.spotify.com/track/34pO51jqhxDyzGcvJbPj8i"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "NATTIVIDAD",
+        "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Cuento Breve",
+      "url": "https://open.spotify.com/track/28BXqWI9e4hPMyJizqOQLT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq"
+      },
+      "artists": [
+        {
+          "name": "Lil Eddie",
+          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
+        }
+      ],
+      "duration_ms": 203751,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Devu\u00e9lveme Mi Libertad",
         "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
       },
@@ -1703,26 +1719,6 @@
       "duration_ms": 216555,
       "name": "Quien de los Dos",
       "url": "https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Lost in the Music",
-        "url": "https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf"
-      },
-      "artists": [
-        {
-          "name": "Bachata Heightz",
-          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF"
     }
   ],
   "unique_name": "Bachata Lovers",

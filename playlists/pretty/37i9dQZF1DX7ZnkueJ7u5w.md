@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 
 > Música sabrosa para festejar la temporada de carnavales en México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,813 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,832 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 66 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 |
 | 67 | [La Negra Tiene Tumbao](https://open.spotify.com/track/78UZRdq9Wl3fkFoT12zA4g) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Reina Y Sus Amigos](https://open.spotify.com/album/0FLIEL0LI4A6lIYqRekRWH) | 4:12 |
 | 68 | [Mi Niña Mujer](https://open.spotify.com/track/2WPxFf05MYsEHQCxonA1vS) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [De Plaza En Plaza \(Cumbia Sinfónica/Deluxe\)](https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M) | 3:14 |
-| 69 | [La Sirenita](https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Amor Y Cumbia](https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ) | 3:56 |
-| 70 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
+| 69 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
+| 70 | [La Sirenita](https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Amor Y Cumbia](https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ) | 3:56 |
 | 71 | [Mil Horas \(with Sasha, Benny y Erik\)](https://open.spotify.com/track/3dy3Bwz5w5eenJz1R5KWo6) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Sasha, Benny y Erik](https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 4:03 |
 | 72 | [El Gran Varón](https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 6:54 |
 | 73 | [Baila Esta Cumbia](https://open.spotify.com/track/23TUteFlo4GRVKy2zRvtMC) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 4:22 |
 | 74 | [Amor de Mis Amores](https://open.spotify.com/track/3gR5KQnC8FYLoPG2LEfbGP) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Margarita](https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 4:06 |
 | 75 | [Con El Pompi Pa' 'rriba](https://open.spotify.com/track/2NMCFyKkZFbjCDauYOBRKI) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Me Liberé](https://open.spotify.com/album/32bZg0QYyvPGxfmkebhmIg) | 3:28 |
 
-Snapshot ID: `MCxiMGM3ZjQwMDk4MjFhZjk2YzYxYzlhNGJlMjBiOWQzOWQ3MDlmNzFi`
+Snapshot ID: `MCxkZDlmMWE3YTFjY2YxM2UxNTIyNDEwNThiNmVkOWVhNDQyNzcwY2Zh`

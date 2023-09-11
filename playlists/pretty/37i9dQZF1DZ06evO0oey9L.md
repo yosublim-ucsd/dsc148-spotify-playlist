@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,859 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,895 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Sueños y Metas](https://open.spotify.com/track/2IAz40IUjp8A2OdtOo9DUO) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Rubén Miranda Y Los De La J](https://open.spotify.com/artist/4A6lttDRrPRN2lb5SvyI9t) | [Sueños y Metas](https://open.spotify.com/album/5xznQhaDmG3QocS1i5KfUE) | 2:45 |
 | 50 | [Zumbando Por Cali](https://open.spotify.com/track/0lVa6LbJNXui0L4zzxu8n6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:13 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDAzMzdkNTQ0MTM1ZDVmZmZmOWE0MjQ5YWE4MGFkNWFkYw==`
+Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDA3NDg4YThlNjhmNzFmYmI0YTgxMjY2YjBkYzMzMTY5YQ==`

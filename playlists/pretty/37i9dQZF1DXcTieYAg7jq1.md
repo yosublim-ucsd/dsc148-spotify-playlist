@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,482 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,527 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 18 | [we all could use some help](https://open.spotify.com/track/6B7aGZA0Tfipg9ox1umX01) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [we all could use some help](https://open.spotify.com/album/7yCPSxaV1pRzXrdMKWuCYz) | 2:23 |
 | 19 | [Love Don't Let Me Go](https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Love Don’t Let Me Go](https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN) | 2:57 |
 | 20 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 |
-| 21 | [Waterfall](https://open.spotify.com/track/18dLNiaYuTkTJv75oE9RQc) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Waterfall](https://open.spotify.com/album/4M3EW2YEjaUKwDUyCXOWC6) | 2:59 |
+| 21 | [Waterfall](https://open.spotify.com/track/0G2qT4WpiDJh32zgcdzGMF) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo) | 2:59 |
 | 22 | [What More Can I Say](https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What More Can I Say](https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S) | 2:21 |
 | 23 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 |
 | 24 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Turn the Radio Up \(feat\. Jewel\)](https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Turn the Radio Up](https://open.spotify.com/album/4Ok4zpUyKd6vCaqa5D5vTJ) | 3:19 |
 | 100 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 |
 
-Snapshot ID: `MCxmNjZmOTZlNTRjYjlkZjczMTFiY2FlZjFhYzQ0NGZiZWFlNDJkYjYw`
+Snapshot ID: `MCxhODA1N2FiZTk3N2M3NzE3Mjg1MWFkM2FmZDliZDFlZWUzNjEyZjgw`

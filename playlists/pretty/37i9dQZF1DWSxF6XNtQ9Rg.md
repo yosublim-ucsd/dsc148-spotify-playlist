@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,039 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,148 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 62 | [ch1 5ei te](https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 3:03 |
 | 63 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 |
 | 64 | [Mon Fre \- feat\. Emis Killa](https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Mon Fre \(feat\. Emis Killa\)](https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K) | 3:44 |
-| 65 | [Allenamento \#2](https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [Allenamento \#2](https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT) | 2:31 |
-| 66 | [Cambiare Adesso](https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0) | [Trap Lovers](https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW) | 3:48 |
+| 65 | [Cambiare Adesso](https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0) | [Trap Lovers](https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW) | 3:48 |
+| 66 | [Allenamento \#2](https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [Allenamento \#2](https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT) | 2:31 |
 | 67 | [Ma Chérie \(feat\. Capo Plaza\)](https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 2:39 |
 | 68 | [LUNEDI'](https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:25 |
 | 69 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Cavallini \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3StzACYDEYmfOOWNU83iRs) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Crack Musica](https://open.spotify.com/album/5jEMsm5dqdur3YKs8RL56B) | 4:11 |
 | 100 | [Centro \(feat\. Coez\)](https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Back Home](https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We) | 3:04 |
 
-Snapshot ID: `MCxjOTYyYTE1MTVhYjQ5OTljZjQ3ZmMxZTc4OGNhMWM3ZWMyZTEyNzBh`
+Snapshot ID: `MCw3MWZmYzVlMzZjZjc0MGY3N2U5MjAwYTMyNzJjZjY2ZjFjZmY3ZjFj`

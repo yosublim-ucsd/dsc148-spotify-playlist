@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,944 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,967 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 28 | [Melhor Amigo](https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Melhor Amigo](https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU) | 5:35 |
 | 29 | [Meu Deus Cuidará de Mim](https://open.spotify.com/track/1V0Ma0rTt44fPrU6GVPI7I) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:16 |
 | 30 | [Aceito o Teu Chamado](https://open.spotify.com/track/1JxseLLcAhM48rfw0pQfYd) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:25 |
-| 31 | [Pensou em Mim](https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Pensou em Mim](https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu) | 7:09 |
-| 32 | [Pra Ser Campeão](https://open.spotify.com/track/0l3qUnBNlLCgdU85ILMlzV) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:33 |
+| 31 | [Como Águia](https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:34 |
+| 32 | [Pensou em Mim](https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Pensou em Mim](https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu) | 7:09 |
 | 33 | [Meu Melhor Amigo](https://open.spotify.com/track/6apees47ViBG319vgVmYnJ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 4:03 |
 | 34 | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/track/3rjEgRrgJ1s8XCJpfdTUar) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx) | 4:15 |
-| 35 | [Apaixonado Coração](https://open.spotify.com/track/5trNycknDFgdGosv98UeRc) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:08 |
-| 36 | [Como Águia](https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:34 |
+| 35 | [Pra Ser Campeão](https://open.spotify.com/track/0l3qUnBNlLCgdU85ILMlzV) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:33 |
+| 36 | [Apaixonado Coração](https://open.spotify.com/track/5trNycknDFgdGosv98UeRc) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:08 |
 | 37 | [Não Há Nada, Mas Haverá](https://open.spotify.com/track/1VwszHZbuF3IRtWInwRoar) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:44 |
 | 38 | [A Vitória Eu Posso Ver \(See a Victory\)](https://open.spotify.com/track/3d7xkpuxi6bgBf6iFikfs2) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [A Vitória Eu Posso Ver \(See a Victory\)](https://open.spotify.com/album/2hMRaxZ5VUh9MRwLnbk0sY) | 5:58 |
 | 39 | [Palavras Líquidas](https://open.spotify.com/track/4S7Kl8lfNb5UuMM1weoNHo) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Palavras Líquidas](https://open.spotify.com/album/633KAVSvTRywDez2dhipDp) | 4:27 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 45 | [Deus do Impossível](https://open.spotify.com/track/7wFzsIgT8lkpRM9Fr6RTL4) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:46 |
 | 46 | [Fé e a Razão](https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:44 |
 | 47 | [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 |
-| 48 | [O Amor Venceu \(Ao Vivo\)](https://open.spotify.com/track/3tsvvDT5rxEVs8rxtawduX) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Amor Venceu \(Ao Vivo\)](https://open.spotify.com/album/1Bp0byIrVLWQw9FjIiCSF4) | 6:35 |
-| 49 | [Se o Vento Soprar](https://open.spotify.com/track/1KqHoFhNjT3HmiTJGiIjk7) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Creio \(Ao Vivo\)](https://open.spotify.com/album/4FOGQicy3wsOra4zxwxsVQ) | 5:31 |
+| 48 | [Se o Vento Soprar](https://open.spotify.com/track/1KqHoFhNjT3HmiTJGiIjk7) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Creio \(Ao Vivo\)](https://open.spotify.com/album/4FOGQicy3wsOra4zxwxsVQ) | 5:31 |
+| 49 | [Agora Eu Tenho Você Comigo](https://open.spotify.com/track/3JAoGcKwkXVRQklnUBT2Gb) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:14 |
 | 50 | [O Que Darei a Ti](https://open.spotify.com/track/2EsPqXim2134VnFphor7gG) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 4:58 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDA3YjM5NTRiMDEzZWVjNjczMTAzZmY4MDg4YzAyMjhkYg==`
+Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDA5MDMxZTQ5MGE5NWIxYWEwMjBkODJiZmI1YmE4MmRhNg==`

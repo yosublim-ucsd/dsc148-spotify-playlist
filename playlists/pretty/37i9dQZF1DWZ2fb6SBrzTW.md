@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,249 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,306 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 54 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 |
 | 55 | [Woman](https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Woman](https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v) | 3:58 |
 | 56 | [Big Flexa](https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578) | [Big Flexa](https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3) | 5:27 |
-| 57 | [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 |
+| 57 | [Do I](https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Do I](https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk) | 2:35 |
 | 58 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 |
-| 59 | [Do I](https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Do I](https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk) | 2:35 |
+| 59 | [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 |
 | 60 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 |
 
-Snapshot ID: `MCw3MmU5ZWE0ZWMwYzAyYzFmY2M1NjliMzc3NjQxMjMyMzJiODBjYjkw`
+Snapshot ID: `MCw2MTViZDliNGNhZmFmNTNjMWRiZmNiZDJiNDVhZjY1ZDU3ODU4ODA1`

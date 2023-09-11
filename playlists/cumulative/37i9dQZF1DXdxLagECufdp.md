@@ -56,7 +56,7 @@
 | [Estos Celos](https://open.spotify.com/track/4d51QRhki1EM2qaNYYjfvK) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Estos Celos](https://open.spotify.com/album/2E1f852SuXQRCGGh9ml4Hf) | 3:29 | 2021-09-10 | 2023-01-07 |
 | [Fight Back Sisters](https://open.spotify.com/track/3QbYl04MfAbhQCNOBqeiqh) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Fight Back Sisters](https://open.spotify.com/album/1j8eySpDm565yzp9iQc4dh) | 3:15 | 2021-09-10 | 2022-07-28 |
 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 | 2023-01-07 |  |
-| [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 | 2021-09-10 | 2023-07-19 |
+| [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 | 2021-09-10 |  |
 | [Flor de Cumbión](https://open.spotify.com/track/7onER4nMDWvYcGiKhBxqEl) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/3Khkq0CFTx8eZq99X2rWeF) | 2:37 | 2021-09-10 | 2022-07-27 |
 | [Gas Gas](https://open.spotify.com/track/19Ah7Hh26xdpgaXVv0sEJo) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Karmen with a Happy End](https://open.spotify.com/album/1l723TBcNXs5iQOMn1w3Zc) | 3:04 | 2021-09-10 | 2023-01-07 |
 | [Georgian Lessons 1\-6](https://open.spotify.com/track/7LRNTyc8LdVLCsVG99Rfht) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2) | [BalkanBeats Soundlab](https://open.spotify.com/album/0KcQc9aXSMvzhhx2lRfp1Y) | 3:41 | 2023-01-07 |  |
@@ -159,6 +159,6 @@
 | [Zundoko](https://open.spotify.com/track/2MiU0WMe855DowQNML8NCN) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Get Happy](https://open.spotify.com/album/1GK7OpHxpyL9grOjPM6oRT) | 2:11 | 2021-09-10 | 2022-07-24 |
 | [Ácaro](https://open.spotify.com/track/1u2j4CufZ3HIZIo8y2yJs7) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Ácaro](https://open.spotify.com/album/5p9sfsdqNlhSDqbotwaJj5) | 3:45 | 2021-09-10 | 2023-05-15 |
 | [Ácaro](https://open.spotify.com/track/7wfUngUsze1XMv1unXUZiv) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Ácaro](https://open.spotify.com/album/0NjdSn2M2YVKzqvNVhAkOh) | 3:45 | 2021-09-10 | 2022-07-29 |
-| [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 | 2021-09-10 |  |
+| [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 | 2021-09-10 | 2023-09-11 |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

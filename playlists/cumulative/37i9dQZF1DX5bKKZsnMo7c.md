@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Cody Fry
 
-277 songs - 15 hr 5 min
+278 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,8 @@
 | [Under My Skin](https://open.spotify.com/track/5oiZiF3fBLHqgTDaH0Pj7M) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Let Live & Let Ghosts](https://open.spotify.com/album/0zQxOFhjixRmW1w6LftIyX) | 3:19 | 2022-05-17 | 2022-12-10 |
 | [Us and Pigs](https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Us and Pigs](https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt) | 2:54 | 2023-01-20 |  |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-05-17 | 2022-09-03 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-14 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-07-14 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-14 | 2023-09-11 |
 | [Vanilla Curls](https://open.spotify.com/track/3KaWB1Kdl93PWaXT8mDRpD) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Sock\-Footed](https://open.spotify.com/album/3LRcVZVluaa0kIqcDjEuv7) | 4:50 | 2022-05-17 | 2022-08-06 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-03 | 2022-10-06 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2a5iijmK8wnmiwxiqsn8QL) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pop Favourites](https://open.spotify.com/album/0loQ9cO8DNmHEH8SgeWkT8) | 3:26 | 2022-10-21 | 2022-11-13 |

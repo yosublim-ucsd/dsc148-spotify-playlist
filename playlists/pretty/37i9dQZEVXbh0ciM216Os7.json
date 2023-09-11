@@ -6,27 +6,59 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMzU3NjAsMDAwMDAwMDA5YTFjYjU0NGUxYWE4Y2E2MmJhNzkxMDhjY2Q5ODU4NA==",
+  "snapshot_id": "MjgyMzU3NjAsMDAwMDAwMDA2MjM0MDZjYzJjZDhmNGE2YzU3N2RkN2I5ZjJjYzdjNg==",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "One Week",
-        "url": "https://open.spotify.com/album/5kCMg3tpv9Qu25zUFem5VI"
+        "name": "Dookie (30th Anniversary Outtakes)",
+        "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
       },
       "artists": [
         {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 160400,
-      "name": "One Week",
-      "url": "https://open.spotify.com/track/3ILAN6s1hxqjRrhB6J5ron"
+      "duration_ms": 224800,
+      "name": "Christie Rd. - Outtake",
+      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Angry",
+        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 226735,
+      "name": "Angry",
+      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "You Thought (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/698IDYJMDJS5IVakqcX8vo"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -51,6 +83,42 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "One Week",
+        "url": "https://open.spotify.com/album/5kCMg3tpv9Qu25zUFem5VI"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/3ILAN6s1hxqjRrhB6J5ron"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Rumours Live",
+        "url": "https://open.spotify.com/album/24kD7cQnCojzadtNNlplxj"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 358253,
+      "name": "The Chain - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
+      "url": "https://open.spotify.com/track/4VGBaj8omMGArPnZ56a695"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Reveal",
         "url": "https://open.spotify.com/album/7g09Qn1ZsVdk4V8KusjWUn"
       },
@@ -63,22 +131,6 @@
       "duration_ms": 226203,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Dirty Diana (Metal Version)",
-        "url": "https://open.spotify.com/album/0rCS3cSTu4NJFPnzMfUk61"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 260495,
-      "name": "Dirty Diana (Metal Version)",
-      "url": "https://open.spotify.com/track/5JB0Ejgsq7Unv4JAzFPyHW"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -103,18 +155,66 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Rumours Live",
-        "url": "https://open.spotify.com/album/24kD7cQnCojzadtNNlplxj"
+        "name": "MAYNARD VIGNETTE [Feat. T.I., JID, and Jacquees]",
+        "url": "https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 358253,
-      "name": "The Chain - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
-      "url": "https://open.spotify.com/track/4VGBaj8omMGArPnZ56a695"
+      "duration_ms": 288018,
+      "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
+      "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Dirty Diana (Metal Version)",
+        "url": "https://open.spotify.com/album/0rCS3cSTu4NJFPnzMfUk61"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 260495,
+      "name": "Dirty Diana (Metal Version)",
+      "url": "https://open.spotify.com/track/5JB0Ejgsq7Unv4JAzFPyHW"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Le d\u00e9part",
+        "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 175020,
+      "name": "Le d\u00e9part",
+      "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -155,6 +255,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "For The Both of Us",
+        "url": "https://open.spotify.com/album/0fxF1wmYvHSPbche9nHviN"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "For The Both of Us",
+      "url": "https://open.spotify.com/track/0QIiiAoUQru2NQtRBrihII"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Rustin' In The Rain",
         "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
       },
@@ -187,46 +303,6 @@
       "duration_ms": 186352,
       "name": "one of one (feat. PawPaw Rod)",
       "url": "https://open.spotify.com/track/79jxfE4mZToAneAv2C7Dng"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "You Thought (feat. Janelle Mon\u00e1e)",
-        "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "You Thought (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Origin Story",
-        "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
-      },
-      "artists": [
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        },
-        {
-          "name": "The Future Kingz",
-          "url": "https://open.spotify.com/artist/4sw5s8BqMsNkOSZtNgACKv"
-        }
-      ],
-      "duration_ms": 297624,
-      "name": "Origin Story",
-      "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -319,46 +395,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Past and Present",
-        "url": "https://open.spotify.com/album/2Ro7ot6kaTFHKToSombkLV"
-      },
-      "artists": [
-        {
-          "name": "Andie Wiess",
-          "url": "https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX"
-        }
-      ],
-      "duration_ms": 135250,
-      "name": "Past and Present",
-      "url": "https://open.spotify.com/track/6WavI8LQ7DdAuuYN4IuDOV"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "BOTH",
-        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "BOTH",
-      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Dethalbum IV",
         "url": "https://open.spotify.com/album/0kOvFgwICfLldItMxuJvgC"
       },
@@ -391,6 +427,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Yours Truly (Tenth Anniversary Edition)",
         "url": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM"
       },
@@ -411,38 +463,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Castaway",
-        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/5Fi81yu2mZDF8m136BRS6v"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
       },
@@ -456,13 +476,13 @@
           "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
         },
         {
-          "name": "Chief Adjuah",
-          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         }
       ],
-      "duration_ms": 258941,
-      "name": "Chocolate For Dinner (feat. Chief Adjuah)",
-      "url": "https://open.spotify.com/track/2j98K5wRpXHlSyswZECQQy"
+      "duration_ms": 293122,
+      "name": "Witchcraft (feat. Robert Glasper)",
+      "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -476,9 +496,9 @@
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 270040,
-      "name": "Chain Reaction - Live",
-      "url": "https://open.spotify.com/track/7ADzRdI3TmUwBiHViCHCG8"
+      "duration_ms": 215013,
+      "name": "Any Way You Want It - Live",
+      "url": "https://open.spotify.com/track/2a4kGP6G2boa2kdwC6iLS8"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -503,22 +523,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Gimme Three Steps (Live)",
-        "url": "https://open.spotify.com/album/3GneX3d7xBTbuLzM9ViHMU"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 329160,
-      "name": "Gimme Three Steps - Live At The Ryman Theatre, Nashville, TN - November 13, 2022",
-      "url": "https://open.spotify.com/track/68M6DDAbPBYzEdTQeEhDQm"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Endless Fashion (with Nicki Minaj) [Versions]",
         "url": "https://open.spotify.com/album/1oeuqGef5PwGCyb6lxPoL4"
       },
@@ -538,7 +542,7 @@
       ],
       "duration_ms": 192144,
       "name": "Endless Fashion (with Nicki Minaj) - sped up version",
-      "url": "https://open.spotify.com/track/5DxOt3uyfE2kGWuTXp6xaG"
+      "url": "https://open.spotify.com/track/21sbvbJBX8aWjlVRtdB7zE"
     },
     {
       "added_at": "2023-09-08 04:00:00",

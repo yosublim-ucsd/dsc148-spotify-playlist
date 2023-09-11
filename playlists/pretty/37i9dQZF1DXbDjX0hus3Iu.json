@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 486790,
+  "num_followers": 486855,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGEyYzIyYWQ5YjJiNTU3MDU4YzE2NzA3ZjFkNDg4N2M5NTE4MjNi",
+  "snapshot_id": "MCwxODQ1NzhkZDI5MzVmZjlmYzNkNDViMzM1YjlhYTdlNTJlZWZkYjkx",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Oh, Atlanta",
+      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Molly Hatchet",
         "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 201826,
       "name": "Third Rate Romance - Remastered",
       "url": "https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Oh, Atlanta",
-      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
-      },
-      "artists": [
-        {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Bounty Hunter",
-      "url": "https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "High On The Hog",
         "url": "https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 253560,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
+      },
+      "artists": [
+        {
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Bounty Hunter",
+      "url": "https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Champagne Jam",
-        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 273226,
-      "name": "Champagne Jam",
-      "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Get Right With The Man",
         "url": "https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 165320,
       "name": "Takin' Up Space",
       "url": "https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Champagne Jam",
+        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 273226,
+      "name": "Champagne Jam",
+      "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Free Fall",
-        "url": "https://open.spotify.com/album/6WtQ7NpP9nZV7cBybTiL4c"
+        "name": "You Are Here",
+        "url": "https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7"
       },
       "artists": [
         {
-          "name": "Dixie Dregs",
-          "url": "https://open.spotify.com/artist/33MM9GE3xkoG9IL9IePpdu"
+          "name": "Amberson-Baggett Band",
+          "url": "https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Refried Funky Chicken",
-      "url": "https://open.spotify.com/track/2NN052M5Inp7KfwPT9xner"
+      "duration_ms": 233142,
+      "name": "Rise of the Rebel",
+      "url": "https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1403,34 +1403,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "You Are Here",
-        "url": "https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7"
+        "name": "Free Fall",
+        "url": "https://open.spotify.com/album/6WtQ7NpP9nZV7cBybTiL4c"
       },
       "artists": [
         {
-          "name": "Amberson-Baggett Band",
-          "url": "https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH"
+          "name": "Dixie Dregs",
+          "url": "https://open.spotify.com/artist/33MM9GE3xkoG9IL9IePpdu"
         }
       ],
-      "duration_ms": 233142,
-      "name": "Rise of the Rebel",
-      "url": "https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Train, Train",
-        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Gimme, Gimme, Gimme",
-      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
+      "duration_ms": 198040,
+      "name": "Refried Funky Chicken",
+      "url": "https://open.spotify.com/track/2NN052M5Inp7KfwPT9xner"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1447,6 +1431,22 @@
       "duration_ms": 341933,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Train, Train",
+        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "Gimme, Gimme, Gimme",
+      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
-        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
-      },
-      "artists": [
-        {
-          "name": "Dickey Betts",
-          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
-        }
-      ],
-      "duration_ms": 396226,
-      "name": "Duane's Tune",
-      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 298266,
       "name": "Time To Roll",
       "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
+        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
+      },
+      "artists": [
+        {
+          "name": "Dickey Betts",
+          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
+        }
+      ],
+      "duration_ms": 396226,
+      "name": "Duane's Tune",
+      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
     },
     {
       "added_at": "2023-01-18 21:52:55",

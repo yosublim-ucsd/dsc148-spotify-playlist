@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,051 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,116 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 22 | [Suspirium](https://open.spotify.com/track/4Y1igB1GDncJvt7ezbV3cW) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Suspiria \(Music for the Luca Guadagnino Film\)](https://open.spotify.com/album/2UehMLybYgLuuNHRNJpbCB) | 3:21 |
 | 23 | [notre dame](https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [notre dame](https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN) | 4:18 |
 | 24 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
-| 25 | [Sense of Home](https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U) | 4:25 |
-| 26 | [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 |
+| 25 | [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 |
+| 26 | [Sense of Home](https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U) | 4:25 |
 | 27 | [White Water](https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [White Water](https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V) | 3:53 |
 | 28 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 |
 | 29 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 40 | [The Wolves \(Act I and II\)](https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 5:22 |
 | 41 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 |
 | 42 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 |
-| 43 | [Silvery](https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 3:52 |
-| 44 | [Warm Foothills](https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 3:45 |
-| 45 | [You](https://open.spotify.com/track/6mwHS78L18Da6HRO4HNo0i) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 3:56 |
-| 46 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
-| 47 | [Howl](https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ) | 3:38 |
+| 43 | [Warm Foothills](https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 3:45 |
+| 44 | [Silvery](https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 3:52 |
+| 45 | [Howl](https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ) | 3:38 |
+| 46 | [You](https://open.spotify.com/track/6mwHS78L18Da6HRO4HNo0i) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 3:56 |
+| 47 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
 | 48 | [The Fold](https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK) | [Wickerbird](https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti) | [The Crow Mother](https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD) | 3:36 |
 | 49 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 |
 | 50 | [Samara](https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Samara](https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U) | 4:16 |
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 73 | [Seven Hours](https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:41 |
 | 74 | [apathy](https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 3:09 |
 | 75 | [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 |
-| 76 | [Calling](https://open.spotify.com/track/4qgCo3MXhSQhDM8Aq1mXIu) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Calling](https://open.spotify.com/album/5JfZ1ndPZNDX3CoksYG2GN) | 5:10 |
-| 77 | [Stick with You](https://open.spotify.com/track/6TZ9adRRarZhhfzBD1b4GF) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Uranium Heart](https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6) | 2:46 |
+| 76 | [Stick with You](https://open.spotify.com/track/6TZ9adRRarZhhfzBD1b4GF) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Uranium Heart](https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6) | 2:46 |
+| 77 | [Calling](https://open.spotify.com/track/4qgCo3MXhSQhDM8Aq1mXIu) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Calling](https://open.spotify.com/album/5JfZ1ndPZNDX3CoksYG2GN) | 5:10 |
 | 78 | [Bones](https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Bones](https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU) | 3:50 |
-| 79 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
-| 80 | [Poison to You](https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Grapefruit Season](https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z) | 3:53 |
-| 81 | [Lost](https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Two](https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ) | 3:56 |
-| 82 | [Never Let Me Go](https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Never Let Me Go](https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF) | 4:28 |
+| 79 | [Poison to You](https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Grapefruit Season](https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z) | 3:53 |
+| 80 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
+| 81 | [Never Let Me Go](https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Never Let Me Go](https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF) | 4:28 |
+| 82 | [Lost](https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Two](https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ) | 3:56 |
 | 83 | [The Grain](https://open.spotify.com/track/24At1pkaBi4P9PsbeeUttf) | [Black Oak](https://open.spotify.com/artist/3PMflYpdvhwPDNea1MW5Wh) | [Equinox](https://open.spotify.com/album/5QQVaIp7B4zABTIaEECseo) | 3:29 |
 | 84 | [Branscombe](https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx) | [Branscombe](https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU) | 7:19 |
 | 85 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
 | 100 | [Filthy Rich](https://open.spotify.com/track/13VxOPr7t6Ou4Hrh0t7oA5) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Filthy Rich](https://open.spotify.com/album/6n4IG3jR6vsGgpYMHBc1zg) | 2:01 |
 
-Snapshot ID: `MCwxZDNlMzhkZjdjNTFhNjU2YjBiMTMxN2Q5YjllODk4M2FlOTU0YzFk`
+Snapshot ID: `MCxlY2JiNTYwYzlhMzJmNzJjN2JjODQzNjZiNTFjNDg1MzNkZWMzZTlh`

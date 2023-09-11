@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,926 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,022 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 28 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 |
 | 29 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
 | 30 | [Signals](https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Signals](https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7) | 2:44 |
-| 31 | [GRAVITY \(FEAT\. TYLER, THE CREATOR\)](https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Dahi](https://open.spotify.com/artist/3ZhbexGbcNVqoviFmpYVXu), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm) | 3:34 |
-| 32 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
+| 31 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
+| 32 | [GRAVITY \(FEAT\. TYLER, THE CREATOR\)](https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Dahi](https://open.spotify.com/artist/3ZhbexGbcNVqoviFmpYVXu), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm) | 3:34 |
 | 33 | [long stay \(feat\. Bakar\)](https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:35 |
 | 34 | [Will I See You Again?](https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN) | 4:00 |
 | 35 | [Indonesian Fantasies](https://open.spotify.com/track/3NktF1rRdORH8FH3p8wKp3) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 49 | [GHETTO GATSBY \(FEAT\. ALICIA KEYS\)](https://open.spotify.com/track/2krESug6AyfOL07tlaGwts) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 | 50 | [Speed Of Plight](https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:00 |
 
-Snapshot ID: `MCw4N2NhZGY0YTMyYmY1M2I5NjNjZDU0YzYxMTgyOThiMGVjYTlkMzMy`
+Snapshot ID: `MCw3ZTYzNDE1OTJkNGZhMDgzNDI3N2ZjOWFjMTEyNmM0NGE0ZWFmMzUw`

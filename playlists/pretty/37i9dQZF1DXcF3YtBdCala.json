@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Natalia Jim\u00e9nez en portada. ",
-  "num_followers": 128344,
+  "num_followers": 128414,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2I1YTRmYThiMGZmN2RlYjBhZTM0NjdjNTQxYTY1ODRhZmZhN2Iy",
+  "snapshot_id": "MCxlNmNhMmI1YWJiZjZkNTExODVkY2QxMWNkZWFlYWIyMzZjOGIxODAw",
   "tracks": [
     {
       "added_at": "2023-09-08 06:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
+        "name": "Prohibido Llorar",
+        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Prohibido Llorar",
+      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 173016,
       "name": "X Personas Como T\u00fa",
       "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
-        "name": "Prohibido Llorar",
-        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Prohibido Llorar",
-      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "Ya Lleg\u00f3 la Echeverr\u00eda...",
-        "url": "https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ"
+        "name": "No Te Fui Suficiente",
+        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
       },
       "artists": [
         {
@@ -1616,25 +1616,9 @@
           "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
         }
       ],
-      "duration_ms": 206666,
-      "name": "Cosi\u00e9ndome el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
-        "name": "Ese Fui Yo",
-        "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
-      },
-      "artists": [
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Ese Fui Yo",
-      "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
+      "duration_ms": 278666,
+      "name": "No Te Fui Suficiente",
+      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 198893,
       "name": "No Mereces Que Te Quiera",
       "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
+        "name": "Ese Fui Yo",
+        "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Ese Fui Yo",
+      "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1707,8 +1707,8 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "No Te Fui Suficiente",
-        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
+        "name": "Ya Lleg\u00f3 la Echeverr\u00eda...",
+        "url": "https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ"
       },
       "artists": [
         {
@@ -1716,9 +1716,9 @@
           "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
         }
       ],
-      "duration_ms": 278666,
-      "name": "No Te Fui Suficiente",
-      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
+      "duration_ms": 206666,
+      "name": "Cosi\u00e9ndome el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y"
     },
     {
       "added_at": "2023-09-08 06:00:00",

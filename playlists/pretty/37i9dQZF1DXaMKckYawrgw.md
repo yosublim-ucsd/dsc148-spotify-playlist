@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Out Of Control Army en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,564 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,571 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 81 | [Impermeable](https://open.spotify.com/track/0SrYQV1yFWPMU4i395FUx8) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Bibi Marín](https://open.spotify.com/artist/2WUDNYnIWyyjzPLcXoTKql) | [Impermeable](https://open.spotify.com/album/2Ep365xchKBZC0RtLSKBjw) | 3:54 |
 | 82 | [Tu nombre](https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk) | [Tu nombre](https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO) | 2:53 |
 | 83 | [Estambul Ska](https://open.spotify.com/track/6DPAbdD7Wik0WxdpIwQRmH) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Ska, Vol\. 2](https://open.spotify.com/album/7GrWjBPVOAzYFdFFwHRAvZ) | 2:37 |
-| 84 | [Ciao](https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Ciao](https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce) | 4:23 |
-| 85 | [Sirvala más](https://open.spotify.com/track/2JSEOpKXYQiIEkQNw3NP3p) | [THE MARGINADOS 2 TONE FROM L\. A.](https://open.spotify.com/artist/567IFwIs3pkx9T8AKHqf76) | [Sirvala más](https://open.spotify.com/album/6FswQydKb5MDSQ2vsEDeSj) | 3:44 |
+| 84 | [Sirvala más](https://open.spotify.com/track/2JSEOpKXYQiIEkQNw3NP3p) | [THE MARGINADOS 2 TONE FROM L\. A.](https://open.spotify.com/artist/567IFwIs3pkx9T8AKHqf76) | [Sirvala más](https://open.spotify.com/album/6FswQydKb5MDSQ2vsEDeSj) | 3:44 |
+| 85 | [Ciao](https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Ciao](https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce) | 4:23 |
 | 86 | [Humanidad](https://open.spotify.com/track/2rcV9YNXMA0LaVAOLA2aBq) | [Delirio de Persecución](https://open.spotify.com/artist/6vqDz3oLUoF0HWhWoYWW6p) | [Humanidad](https://open.spotify.com/album/1mPrv36x0YIpoMvOPq8KWx) | 2:35 |
-| 87 | [El Chapulín](https://open.spotify.com/track/59sQU11cdcoC2HEmMxVFv5) | [Paco Ellington](https://open.spotify.com/artist/2GJeoAx45CGPveeIWVD8Hg), [Skapoli](https://open.spotify.com/artist/3nrbc0A8FvXAaS7XxV2iLE) | [El Chapulín](https://open.spotify.com/album/165IEkSYLUmnQvd4GS8hNR) | 3:26 |
+| 87 | [alo alo](https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl) | [La trenza De La Abuela](https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM) | [Loco amor](https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL) | 3:00 |
 | 88 | [Bum Bum](https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3) | [Buena Vibra Social Sound](https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01) | [Buena Vibra Social Sound, Vol\. 1](https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu) | 3:53 |
-| 89 | [alo alo](https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl) | [La trenza De La Abuela](https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM) | [Loco amor](https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL) | 3:00 |
-| 90 | [Felicidad](https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 5:04 |
+| 89 | [El Chapulín](https://open.spotify.com/track/59sQU11cdcoC2HEmMxVFv5) | [Paco Ellington](https://open.spotify.com/artist/2GJeoAx45CGPveeIWVD8Hg), [Skapoli](https://open.spotify.com/artist/3nrbc0A8FvXAaS7XxV2iLE) | [El Chapulín](https://open.spotify.com/album/165IEkSYLUmnQvd4GS8hNR) | 3:26 |
+| 90 | [Blue Ska](https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Sueños \(Remastered\)](https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx) | 3:01 |
 | 91 | [Mérida Ska](https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:33 |
-| 92 | [Blue Ska](https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Sueños \(Remastered\)](https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx) | 3:01 |
-| 93 | [El Mundo No Esta Listo](https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [El Mundo No Esta Listo](https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv) | 2:52 |
-| 94 | [Lamento Egipcio](https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG) | [Módulo Ghetto](https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM) | [Lamento Egipcio](https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd) | 3:53 |
-| 95 | [No Insistas Más](https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR), [Betania López](https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL) | [Classic's Ska](https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj) | 4:13 |
+| 92 | [El Mundo No Esta Listo](https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [El Mundo No Esta Listo](https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv) | 2:52 |
+| 93 | [Lamento Egipcio](https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG) | [Módulo Ghetto](https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM) | [Lamento Egipcio](https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd) | 3:53 |
+| 94 | [No Insistas Más](https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR), [Betania López](https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL) | [Classic's Ska](https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj) | 4:13 |
+| 95 | [Felicidad](https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 5:04 |
 | 96 | [Revoluciones](https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS) | [La Hoja Ensamble](https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE) | [Revoluciones](https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ) | 6:27 |
 | 97 | [Lejos Otra Vez](https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [La Kruda Realidad](https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda) | 3:18 |
 | 98 | [Stay Rude](https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [Marcando El Ritmo](https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE) | 2:35 |
 | 99 | [La Mentira](https://open.spotify.com/track/2zbuaopaNyAC3C4940YNCL) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [Rude Boy Nights](https://open.spotify.com/album/5QkJ7K1MeJuq0oSD8YJfbw) | 3:26 |
-| 100 | [Jueves](https://open.spotify.com/track/1A2UpNvD4mDtfDxRwy32EY) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE), [Ruzzo Móran](https://open.spotify.com/artist/0RwRXTmjAzNtDsNoVmGHPr) | [Marcando El Ritmo](https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE) | 3:38 |
+| 100 | [La Ultima Noche](https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR) | [La Ultima Noche](https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT) | 4:08 |
 
-Snapshot ID: `MCw2Yjg3Zjc4ZWZiYzdjNWI4MjAzZmMyMWYwMWQwMDc4ZWRhMzU0ODdh`
+Snapshot ID: `MCwyMWY2ZGFmYTY1MjM0NTA5ZDkzNGRhNTk4ZDQyN2RmOWUyY2E2ODAw`

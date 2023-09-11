@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,300 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,353 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 17 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
 | 18 | [Ayaya](https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 3:36 |
 | 19 | [Interloper](https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper](https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc) | 6:29 |
-| 20 | [Blurred \- Bonobo Remix](https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 6:01 |
-| 21 | [Ghostly](https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 6:00 |
+| 20 | [Ghostly](https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 6:00 |
+| 21 | [Blurred \- Bonobo Remix](https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 6:01 |
 | 22 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 |
 | 23 | [Epoch](https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch \(Deluxe Version\)](https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg) | 5:45 |
 | 24 | [What Have You Done To Me?](https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [What Have You Done To Me?](https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x) | 4:46 |
 | 25 | [Perfect in a Way \- Ben Böhmer Remix](https://open.spotify.com/track/0G57FO3IP8Q6TTLiAMRLuc) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Kaktus Einarsson](https://open.spotify.com/artist/6JNguRWD1fs6lOR6IXQlp3), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Perfect in a Way \(Remixes\)](https://open.spotify.com/album/17doTJCIOkuz5LzMRioJvA) | 6:23 |
-| 26 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
-| 27 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
-| 28 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 |
-| 29 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 |
-| 30 | [Pacer](https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Pacer](https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw) | 7:39 |
+| 26 | [Pacer](https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Pacer](https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw) | 7:39 |
+| 27 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
+| 28 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
+| 29 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 |
+| 30 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 |
 | 31 | [Zeit für Sommer](https://open.spotify.com/track/7jJUfG00mR9VtBeRdtU9H2) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Davon](https://open.spotify.com/album/2c0kuubSze3tSfrhDB1kbR) | 6:01 |
 | 32 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 |
 | 33 | [Neverland \- Aparde Remix](https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Stars Wrapped In Skin EP](https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr) | 6:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Nights](https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec) | 5:44 |
 | 50 | [Years On Years](https://open.spotify.com/track/7jp4qGkFD3kSMekSTC8pTL) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Years On Years \(Remixes\)](https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy) | 2:03 |
 
-Snapshot ID: `MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy`
+Snapshot ID: `MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2`

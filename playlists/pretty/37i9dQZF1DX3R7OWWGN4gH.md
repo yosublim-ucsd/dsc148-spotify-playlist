@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > Entering my reputation era...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,878 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100,842 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 33 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 |
 | 34 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 |
 | 35 | [Circus](https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:12 |
-| 36 | [Little Girl Gone](https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I) | 3:08 |
-| 37 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
+| 36 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
+| 37 | [Little Girl Gone](https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I) | 3:08 |
 | 38 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 |
 | 39 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 |
 | 40 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 80 | [Cradles](https://open.spotify.com/track/5sSYvDVyP0CP9TUiqy3fuF) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/746AA6hN51bj4yUlGBHgUX) | 3:29 |
 | 81 | [Dangerous Woman](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:55 |
 | 82 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
-| 83 | [Panic Room](https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Panic Room](https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM) | 3:57 |
-| 84 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 |
+| 83 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 |
+| 84 | [Panic Room](https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Panic Room](https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM) | 3:57 |
 | 85 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 |
 | 86 | [Choke](https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Choke](https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn) | 3:15 |
 | 87 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 |
 | 88 | [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 |
 | 89 | [Class Fight](https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 2:41 |
 | 90 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 |
-| 91 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
-| 92 | [Take It Off](https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:35 |
+| 91 | [Take It Off](https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:35 |
+| 92 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
 | 93 | [Emperor's New Clothes](https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 2:38 |
 | 94 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 |
 | 95 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 |
 | 96 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 |
 | 97 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 |
-| 98 | [Achilles Come Down](https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Go Farther In Lightness](https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab) | 7:02 |
+| 98 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 |
 | 99 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
-| 100 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 |
+| 100 | [Achilles Come Down](https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Go Farther In Lightness](https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab) | 7:02 |
 
-Snapshot ID: `MCxlZjI3OWJiODRjYTk1ODExYjNhYjU5ZWRmY2QxMzQxYTZhNjQ1ZDk5`
+Snapshot ID: `MCxiOTM4NzIyMmIyZDQ3NTAyNDhlMjlkM2UwZDc1MGZjMzRhNWQ2Nzhm`

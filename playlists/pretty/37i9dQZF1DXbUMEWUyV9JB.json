@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! De todas, Norte\u00f1as, Sonideras, con Banda y mas! Cover: Grupo Frontera & Bad Bunny",
-  "num_followers": 262668,
+  "num_followers": 262791,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTJkNzNlM2ZlMTBhZjMzMTg4YzJhMGMwYjFlNDI5NGM1Mzg2NjU4",
+  "snapshot_id": "MCw5NmJmOTgwOTk3NzZhN2JmMjE2NjI3MGM0MWFiZjE2YmE4MmZmMWQ4",
   "tracks": [
     {
       "added_at": "2023-05-01 18:15:14",
@@ -655,38 +655,6 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "Donde Estaras",
-        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 223503,
-      "name": "Donde Estaras",
-      "url": "https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM"
-    },
-    {
-      "added_at": "2023-05-01 18:15:14",
-      "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
-    },
-    {
-      "added_at": "2023-05-01 18:15:14",
-      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -707,6 +675,38 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2023-05-01 18:15:14",
+      "album": {
+        "name": "Donde Estaras",
+        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 223503,
+      "name": "Donde Estaras",
+      "url": "https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM"
+    },
+    {
+      "added_at": "2023-05-01 18:15:14",
+      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
-    },
-    {
-      "added_at": "2023-05-01 18:15:14",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 283240,
       "name": "Rumba Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+    },
+    {
+      "added_at": "2023-05-01 18:15:14",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
     },
     {
       "added_at": "2023-05-01 18:15:14",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
-      },
-      "artists": [
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "duration_ms": 236518,
-      "name": "El Angel Del Amor",
-      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
-    },
-    {
-      "added_at": "2023-05-01 18:15:14",
-      "album": {
         "name": "Lives Pa' la Raza",
         "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
       },
@@ -1267,22 +1251,18 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "Ando Bien Agusto",
-        "url": "https://open.spotify.com/album/6Vd6fo2eFRRZvxCILrySBa"
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 190682,
-      "name": "Ando Bien Agusto",
-      "url": "https://open.spotify.com/track/5heouRKOr5RdKXWd4tdZZw"
+      "duration_ms": 236518,
+      "name": "El Angel Del Amor",
+      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
     },
     {
       "added_at": "2023-05-01 18:15:14",
@@ -1335,18 +1315,22 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+        "name": "Ando Bien Agusto",
+        "url": "https://open.spotify.com/album/6Vd6fo2eFRRZvxCILrySBa"
       },
       "artists": [
         {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 216317,
-      "name": "Quedate Con \u00c9l",
-      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
+      "duration_ms": 190682,
+      "name": "Ando Bien Agusto",
+      "url": "https://open.spotify.com/track/5heouRKOr5RdKXWd4tdZZw"
     },
     {
       "added_at": "2023-05-01 18:15:14",
@@ -1363,6 +1347,22 @@
       "duration_ms": 188310,
       "name": "Vamonos de Fiesta",
       "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
+    },
+    {
+      "added_at": "2023-05-01 18:15:14",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Quedate Con \u00c9l",
+      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
     },
     {
       "added_at": "2023-05-01 18:15:14",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
+        "name": "Oro Puro: \u00c9xitos",
+        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
+      },
+      "artists": [
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Int\u00e9ntalo T\u00fa",
+      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
+    },
+    {
+      "added_at": "2023-05-01 18:15:14",
+      "album": {
         "name": "Piel A Piel",
         "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
       },
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "Oro Puro: \u00c9xitos",
-        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
-      },
-      "artists": [
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Int\u00e9ntalo T\u00fa",
-      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
-    },
-    {
-      "added_at": "2023-05-01 18:15:14",
-      "album": {
         "name": "El Llanto de los Luceros / El Llanto de los Sapos",
         "url": "https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn"
       },
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-05-01 18:15:14",
       "album": {
-        "name": "Victor Garc\u00eda",
-        "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
+        "name": "Tonto Cari\u00f1o",
+        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
       },
       "artists": [
         {
-          "name": "Victor Garcia",
-          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+          "name": "Los Papis RA7",
+          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof"
+      "duration_ms": 299284,
+      "name": "Estupido",
+      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
     }
   ],
   "unique_name": "Super Cumbias",

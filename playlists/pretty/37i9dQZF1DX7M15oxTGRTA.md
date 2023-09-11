@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,908 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,003 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,18 +65,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 55 | [For the Love of You, Pts\. 1 & 2](https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:37 |
 | 56 | [Computer Love](https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:42 |
 | 57 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
-| 58 | [Angel](https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80s Jazz Hits](https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS) | 5:00 |
-| 59 | [Stay With Me](https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [In A Special Way](https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa) | 3:45 |
+| 58 | [Stay With Me](https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [In A Special Way](https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa) | 3:45 |
+| 59 | [Angel](https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80s Jazz Hits](https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS) | 5:00 |
 | 60 | [Betcha by Golly Wow \(Live\)](https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Betcha by Golly Wow \(Live\)](https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws) | 4:13 |
 | 61 | [Never Knew Love Like This Before](https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Pride Classics](https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc) | 5:26 |
 | 62 | [Very Special](https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG) | [Debra Laws](https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34) | [Very Special](https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4) | 4:28 |
-| 63 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 |
-| 64 | [Ebony Eyes](https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Cold Blooded \(Expanded Edition\)](https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B) | 5:07 |
+| 63 | [Ebony Eyes](https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Cold Blooded \(Expanded Edition\)](https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B) | 5:07 |
+| 64 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 |
 | 65 | [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 |
 | 66 | [Don't Ask My Neighbors](https://open.spotify.com/track/2GZe8LsPldakpQy5T8151f) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 4:27 |
-| 67 | [Please Don't Go Girl](https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:23 |
-| 68 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
-| 69 | [Devotion](https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 4:50 |
+| 67 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
+| 68 | [Devotion](https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 4:50 |
+| 69 | [Please Don't Go Girl](https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:23 |
 | 70 | [You Put A Move On My Heart](https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 6:13 |
 | 71 | [Your Song](https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Glow](https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL) | 5:38 |
 | 72 | [Can't Get over You](https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Silky Soul](https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC) | 5:17 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 87 | [It's Time for Love](https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 5:57 |
 | 88 | [Is This the End](https://open.spotify.com/track/3aUvAn5WkN1s1nWTbdQp3S) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Vows Of Love](https://open.spotify.com/album/5CxM6SVKWudQD9C2LEkJkD) | 4:14 |
 | 89 | [For the Good Times](https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [The Love Songs Collection](https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG) | 6:13 |
-| 90 | [Dream Lover](https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg) | [Liz Hogue](https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm) | [Vicious & Fresh](https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft) | 5:57 |
-| 91 | [Pensando Nela](https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:36 |
+| 90 | [Pensando Nela](https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:36 |
+| 91 | [Dream Lover](https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg) | [Liz Hogue](https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm) | [Vicious & Fresh](https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft) | 5:57 |
 | 92 | [Running In And Out Of My Life](https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Injoy](https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo) | 4:47 |
 | 93 | [Amiga](https://open.spotify.com/track/0jlDIEbvMEFycwPA5eWBar) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [As Inesquecíveis De Tim Maia](https://open.spotify.com/album/4W5RIZq0lxqtncklhpH2hV) | 4:42 |
 | 94 | [Insatiable Woman \- 12" Version](https://open.spotify.com/track/005dZEnx7On15zBKACxlG7) | [Isley, Jasper, Isley](https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0) | [Caravan of Love \(Expanded Version\)](https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7) | 6:14 |
 | 95 | [I Can Do Bad By Myself](https://open.spotify.com/track/34nUuoStWnKLFqFH0LNzQA) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 5:07 |
-| 96 | [Num Paraíso](https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:35 |
-| 97 | [Amor Natural](https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Saci Pererê](https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF) | 4:05 |
-| 98 | [Girassol](https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Girassol](https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw) | 1:41 |
+| 96 | [Amor Natural](https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Saci Pererê](https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF) | 4:05 |
+| 97 | [Girassol](https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Girassol](https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw) | 1:41 |
+| 98 | [Num Paraíso](https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:35 |
 | 99 | [Um dia de domingo](https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 5:00 |
 | 100 | [Me dê motivos](https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 4:51 |
 
-Snapshot ID: `MCxiM2JlMWRjMzg3YjM5MjJkN2NhNzZiNTY4MGZlN2VkOTFlOThhNzJj`
+Snapshot ID: `MCxiYWM4Y2M0YmNmYjJhZTQyYjU3ZWVkOTg3OGU4OWVjZGM2NjM2ZTVi`

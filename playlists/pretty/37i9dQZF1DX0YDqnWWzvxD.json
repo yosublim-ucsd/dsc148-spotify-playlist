@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 73983,
+  "num_followers": 74114,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmUwMmI2ODdhY2E0ODk0OGNlMjliMjNkNGJjMDZjZTAxMDkyNGY2",
+  "snapshot_id": "MCxlZjI4MDViYWJkNmY3YjZlNjExZDY4YWQxMjk1YzQ3ODFlNmMxZGY5",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -171,6 +171,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
+      },
+      "artists": [
+        {
+          "name": "Benny Bernstein",
+          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
+        }
+      ],
+      "duration_ms": 165920,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Echoes of Silence",
         "url": "https://open.spotify.com/album/4i5kqpHHr4fjDNzusQeDuH"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 262400,
       "name": "Voice of Eternity",
       "url": "https://open.spotify.com/track/75PdHrz9uyj9hIYT9xadZ3"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
-      },
-      "artists": [
-        {
-          "name": "Benny Bernstein",
-          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
-        }
-      ],
-      "duration_ms": 165920,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Bedside Angels",
-        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Stills",
-          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
-        }
-      ],
-      "duration_ms": 134504,
-      "name": "Bedside Angels",
-      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Benny Bernstein",
         "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 154246,
       "name": "Conscious Jorney",
       "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Bedside Angels",
+        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Stills",
+          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
+        }
+      ],
+      "duration_ms": 134504,
+      "name": "Bedside Angels",
+      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -707,18 +707,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Spa Music: Tibet (80 Minutes of Tibetan Bowls & Flutes for Massage, New Age, Yoga & Relaxation)",
-        "url": "https://open.spotify.com/album/32R6Vzvn7LlSklrHO0SCr3"
+        "name": "Incomplete",
+        "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
       },
       "artists": [
         {
-          "name": "Massage Tribe",
-          "url": "https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C"
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
         }
       ],
-      "duration_ms": 659773,
-      "name": "Honesty & Truth - 10-Minute Mix For Meditation & Massage",
-      "url": "https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN"
+      "duration_ms": 139752,
+      "name": "A Whisper In The Dark",
+      "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -743,18 +743,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Incomplete",
-        "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
+        "name": "Spa Music: Tibet (80 Minutes of Tibetan Bowls & Flutes for Massage, New Age, Yoga & Relaxation)",
+        "url": "https://open.spotify.com/album/32R6Vzvn7LlSklrHO0SCr3"
       },
       "artists": [
         {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+          "name": "Massage Tribe",
+          "url": "https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C"
         }
       ],
-      "duration_ms": 139752,
-      "name": "A Whisper In The Dark",
-      "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
+      "duration_ms": 659773,
+      "name": "Honesty & Truth - 10-Minute Mix For Meditation & Massage",
+      "url": "https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Savasana",
-        "url": "https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41"
-      },
-      "artists": [
-        {
-          "name": "Sintrano",
-          "url": "https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI"
-        }
-      ],
-      "duration_ms": 131284,
-      "name": "Savasana",
-      "url": "https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Savasana",
+        "url": "https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41"
+      },
+      "artists": [
+        {
+          "name": "Sintrano",
+          "url": "https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI"
+        }
+      ],
+      "duration_ms": 131284,
+      "name": "Savasana",
+      "url": "https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Mindful Piano: Music for Meditation",
         "url": "https://open.spotify.com/album/5DJm78hvC2FktiJ0BczmIm"
       },
@@ -835,54 +835,6 @@
       "duration_ms": 332013,
       "name": "Oceans of Mindfulness",
       "url": "https://open.spotify.com/track/5MqRAmszGco33DuPYE6WBs"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Sacred Woods",
-        "url": "https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm"
-      },
-      "artists": [
-        {
-          "name": "Figaro Castello",
-          "url": "https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n"
-        }
-      ],
-      "duration_ms": 247283,
-      "name": "Mindful and Free",
-      "url": "https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Chill Me Out",
-        "url": "https://open.spotify.com/album/3BliSukodJ2stxupt8uwNe"
-      },
-      "artists": [
-        {
-          "name": "Deep Divers",
-          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
-        }
-      ],
-      "duration_ms": 331632,
-      "name": "Oxygen Bar",
-      "url": "https://open.spotify.com/track/69pZpLNdwCZ6Ns1J0o2lRY"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Bindu: Music for Yoga, Meditation & Healing",
-        "url": "https://open.spotify.com/album/3bEQirFx4qGRFbNEns9fiz"
-      },
-      "artists": [
-        {
-          "name": "Shaman's Dream",
-          "url": "https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI"
-        }
-      ],
-      "duration_ms": 581253,
-      "name": "Moonlight Saptah",
-      "url": "https://open.spotify.com/track/7Ewux0DybgmLssS2HtEfKt"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -911,18 +863,50 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Surya Namaskar",
-        "url": "https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj"
+        "name": "Sacred Woods",
+        "url": "https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm"
       },
       "artists": [
         {
-          "name": "Kai Franz",
-          "url": "https://open.spotify.com/artist/19EL2uHYTPD43sPYRrIZcE"
+          "name": "Figaro Castello",
+          "url": "https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n"
         }
       ],
-      "duration_ms": 918750,
-      "name": "Savasana",
-      "url": "https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50"
+      "duration_ms": 247283,
+      "name": "Mindful and Free",
+      "url": "https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Bindu: Music for Yoga, Meditation & Healing",
+        "url": "https://open.spotify.com/album/3bEQirFx4qGRFbNEns9fiz"
+      },
+      "artists": [
+        {
+          "name": "Shaman's Dream",
+          "url": "https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI"
+        }
+      ],
+      "duration_ms": 581253,
+      "name": "Moonlight Saptah",
+      "url": "https://open.spotify.com/track/7Ewux0DybgmLssS2HtEfKt"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Chill Me Out",
+        "url": "https://open.spotify.com/album/3BliSukodJ2stxupt8uwNe"
+      },
+      "artists": [
+        {
+          "name": "Deep Divers",
+          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
+        }
+      ],
+      "duration_ms": 331632,
+      "name": "Oxygen Bar",
+      "url": "https://open.spotify.com/track/69pZpLNdwCZ6Ns1J0o2lRY"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -939,6 +923,22 @@
       "duration_ms": 144845,
       "name": "Leviathan",
       "url": "https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Surya Namaskar",
+        "url": "https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj"
+      },
+      "artists": [
+        {
+          "name": "Kai Franz",
+          "url": "https://open.spotify.com/artist/19EL2uHYTPD43sPYRrIZcE"
+        }
+      ],
+      "duration_ms": 918750,
+      "name": "Savasana",
+      "url": "https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Zen Music for Relaxation Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts"
+      },
+      "artists": [
+        {
+          "name": "Anzan",
+          "url": "https://open.spotify.com/artist/1Mhq1g88z5a6wYqaAoYpIA"
+        },
+        {
+          "name": "Tomas Walker",
+          "url": "https://open.spotify.com/artist/5pbkjz0DBO4qbMrsM92GXr"
+        }
+      ],
+      "duration_ms": 126965,
+      "name": "Unbroken Flow",
+      "url": "https://open.spotify.com/track/7LL5mwQEOD6dpm4Qb0K2rn"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Tokyo Drifting",
         "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 247022,
       "name": "Barefoot",
       "url": "https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Zen Music for Relaxation Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts"
-      },
-      "artists": [
-        {
-          "name": "Anzan",
-          "url": "https://open.spotify.com/artist/1Mhq1g88z5a6wYqaAoYpIA"
-        },
-        {
-          "name": "Tomas Walker",
-          "url": "https://open.spotify.com/artist/5pbkjz0DBO4qbMrsM92GXr"
-        }
-      ],
-      "duration_ms": 126965,
-      "name": "Unbroken Flow",
-      "url": "https://open.spotify.com/track/7LL5mwQEOD6dpm4Qb0K2rn"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Yoga World Meditation Vol .1",
-        "url": "https://open.spotify.com/album/1H7bQHH1mIJQSxSVRlPV2h"
-      },
-      "artists": [
-        {
-          "name": "One Trybal",
-          "url": "https://open.spotify.com/artist/6HF5xusdmwR1RDAsLFw3Zh"
-        }
-      ],
-      "duration_ms": 274186,
-      "name": "Light and Color",
-      "url": "https://open.spotify.com/track/5gu8xQISrwSLvJmcrkinIb"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "The Wait",
         "url": "https://open.spotify.com/album/0XEsAcQHS96pDLpjoWmmJU"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 313574,
       "name": "Holistic Water",
       "url": "https://open.spotify.com/track/406MXMgqW4aHQ4G1rhCcF6"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Yoga World Meditation Vol .1",
+        "url": "https://open.spotify.com/album/1H7bQHH1mIJQSxSVRlPV2h"
+      },
+      "artists": [
+        {
+          "name": "One Trybal",
+          "url": "https://open.spotify.com/artist/6HF5xusdmwR1RDAsLFw3Zh"
+        }
+      ],
+      "duration_ms": 274186,
+      "name": "Light and Color",
+      "url": "https://open.spotify.com/track/5gu8xQISrwSLvJmcrkinIb"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Zen Music for Massage: Tranquility & Total Relax, Ambient Nature Sounds, Gentle Touch, Relaxing Music",
-        "url": "https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA"
-      },
-      "artists": [
-        {
-          "name": "Memory Helper",
-          "url": "https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h"
-        }
-      ],
-      "duration_ms": 413999,
-      "name": "Calm Meditation",
-      "url": "https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I"
-    },
-    {
       "added_at": "2023-05-10 11:43:32",
       "album": {
         "name": "Nature's Bed",
@@ -1491,6 +1475,22 @@
       "duration_ms": 131842,
       "name": "Nature's Bed",
       "url": "https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Zen Music for Massage: Tranquility & Total Relax, Ambient Nature Sounds, Gentle Touch, Relaxing Music",
+        "url": "https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA"
+      },
+      "artists": [
+        {
+          "name": "Memory Helper",
+          "url": "https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h"
+        }
+      ],
+      "duration_ms": 413999,
+      "name": "Calm Meditation",
+      "url": "https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I"
     },
     {
       "added_at": "2023-05-10 11:43:32",

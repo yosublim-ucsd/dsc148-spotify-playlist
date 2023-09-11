@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-685 songs - 1 day 4 hr 47 min
+686 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-01-20 |  |
 | [A Perceptual Process](https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [A Perceptual Process](https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl) | 1:53 | 2022-05-27 | 2022-09-24 |
 | [A Place Like This](https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [A Place Like This](https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy) | 2:01 | 2022-05-27 | 2022-09-24 |
-| [A Right Time to Plant and Another to Reap](https://open.spotify.com/track/4pqQYahNRXKNylayHXoaDa) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [A Right Time to Plant and Another to Reap](https://open.spotify.com/album/49XknZnGlbOO6szF6uxKwV) | 2:03 | 2022-05-27 |  |
+| [A Right Time to Plant and Another to Reap](https://open.spotify.com/track/4pqQYahNRXKNylayHXoaDa) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [A Right Time to Plant and Another to Reap](https://open.spotify.com/album/49XknZnGlbOO6szF6uxKwV) | 2:03 | 2022-05-27 | 2023-09-11 |
 | [a silent conversation](https://open.spotify.com/track/0P57HvwLXbtPnXUJ2viiOh) | [like gentle rain](https://open.spotify.com/artist/1buksjoq8qDrWEYexFNnG4) | [a silent conversation](https://open.spotify.com/album/41XBHPwHv3Wvm0kxFPx2oy) | 2:16 | 2023-03-06 | 2023-03-28 |
 | [A Thought Evoked](https://open.spotify.com/track/5CIuhTu5H6req55w8yBejp) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [A Thought Evoked](https://open.spotify.com/album/5tbZrlYXjQCuPYF9IwjI7w) | 2:54 | 2022-05-27 | 2022-09-24 |
 | [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-05-27 | 2023-05-26 |
@@ -52,7 +52,7 @@
 | [Asilah](https://open.spotify.com/track/01bBzDT79dc34s2Aj9C5Z8) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Asilah](https://open.spotify.com/album/7sbf9VjGSRCE2BOA3GCOgX) | 1:55 | 2023-02-20 | 2023-07-25 |
 | [Asilah](https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Asilah](https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM) | 2:40 | 2022-05-27 | 2022-09-24 |
 | [Au Fond D'Amour](https://open.spotify.com/track/4Qk8tKfZW3lrPG18ZdWmE6) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Au Fond D'Amour](https://open.spotify.com/album/2pFYFoJj3SPBFBXrnbI65S) | 2:48 | 2022-05-27 | 2022-09-24 |
-| [Auriga](https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Auriga](https://open.spotify.com/album/69FM0NepvcgTA81ItYe8HI) | 2:14 | 2022-05-27 | 2023-08-24 |
+| [Auriga](https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Auriga](https://open.spotify.com/album/69FM0NepvcgTA81ItYe8HI) | 2:14 | 2022-05-27 |  |
 | [Aurora](https://open.spotify.com/track/2BtlvjGVA4mDDhj6VoCDho) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [Caritas](https://open.spotify.com/album/052uIw2Psurx5buzGCcrDH) | 2:22 | 2022-05-27 | 2022-09-24 |
 | [Aurskog](https://open.spotify.com/track/4Xy7g0dikhYyNhdHyzBBr6) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Aurskog](https://open.spotify.com/album/1NdMcghLOelX6u0Mz8smaG) | 2:05 | 2022-05-27 |  |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2022-05-27 | 2022-07-21 |
@@ -294,7 +294,7 @@
 | [Journey in Place](https://open.spotify.com/track/7dNH0Srg1kTobjTUwGnqxc) | [Walter Groenig](https://open.spotify.com/artist/5wS8vfWhht4IzuXzQisbim) | [Journey in Place](https://open.spotify.com/album/0SkWn5AmuyrZyDMBvCvj8q) | 2:52 | 2022-05-27 | 2023-02-04 |
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2022-05-27 | 2023-01-21 |
 | [June](https://open.spotify.com/track/7rl3w6GFrwBA5cnbVd3vIC) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [June](https://open.spotify.com/album/5f0Nwusj5eiz92QhCatBtu) | 2:43 | 2023-06-19 |  |
-| [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-05-27 |  |
+| [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-05-27 | 2023-09-11 |
 | [Just For Now](https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Just For Now](https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV) | 1:50 | 2022-05-27 | 2023-07-25 |
 | [Just Like Glass](https://open.spotify.com/track/77RVnHDxwWHltl9ZubyvOY) | [Aline Forma](https://open.spotify.com/artist/77gqTd54FTF2uKWV0RI7FU) | [Just Like Glass](https://open.spotify.com/album/0nSLtWGCUuX7Or7SoMHlEN) | 2:56 | 2022-05-27 | 2022-09-24 |
 | [Just Passing By](https://open.spotify.com/track/51zL0hF9UCIToxItCojCRP) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Just Passing By](https://open.spotify.com/album/4naAhJ8qPaCcNd99DVrixB) | 2:02 | 2023-04-25 |  |
@@ -488,6 +488,7 @@
 | [Remembrance](https://open.spotify.com/track/1BCCWdwTZKOsvO8RInNJqX) | [Lucinda Friese](https://open.spotify.com/artist/6YhUWOVu9JXCbtpvkeYGDT) | [Remembrance](https://open.spotify.com/album/7iXEJWNcMTG8h4CEQeFUqQ) | 2:14 | 2022-05-27 | 2022-09-24 |
 | [Reminiscing](https://open.spotify.com/track/5muqwZES8Lyh1v9KrPB5QN) | [Bruno Engel](https://open.spotify.com/artist/0Sb2aOfzhbp5opi1w083TP) | [Reminiscing](https://open.spotify.com/album/1ZiRRqSyj8HqfGH305Zxtz) | 2:36 | 2022-05-27 | 2022-09-24 |
 | [Requiescant in pace](https://open.spotify.com/track/5GqG8kwc3eOUWTOBG1gBnZ) | [Theo Burgheim](https://open.spotify.com/artist/3ESMu2wJwDAmtpZ5V0eXRV) | [Tingley Road](https://open.spotify.com/album/5IqlfqohQVntDUjJOtLu9N) | 2:10 | 2022-05-27 | 2022-09-24 |
+| [Respectfully](https://open.spotify.com/track/3GNy9aZAn5ZTdBm6Ha0XCt) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Harmonism I](https://open.spotify.com/album/2XOeI9TVCRZL28H4F5CYSm) | 2:10 | 2023-09-04 |  |
 | [Respire](https://open.spotify.com/track/0KBgZ0jaeEbRrpFIRLFg9D) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Respire](https://open.spotify.com/album/3u5HXH5FPELSLS7IQj6alu) | 2:09 | 2022-05-27 | 2022-09-24 |
 | [Retrouvailles](https://open.spotify.com/track/11JN2F71WjDG5uZZ0i1vMd) | [Gabriel Auer](https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM) | [Retrouvailles](https://open.spotify.com/album/4lDonUI9z7jnJosqAoH1S7) | 2:52 | 2022-05-27 | 2022-07-21 |
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-05-27 | 2023-05-04 |

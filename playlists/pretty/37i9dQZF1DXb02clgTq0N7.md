@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 
 > Y que retumbe la bandona con puros corridos de 24k\. La Arrolladora Banda El Limón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,835 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,939 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 25 | [Chalito](https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:20 |
 | 26 | [Ando Bien Pedo](https://open.spotify.com/track/58rgceeiYu1wFneDP2j5LJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:24 |
 | 27 | [El Dinero Los Cambio](https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Dinero Los Cambio](https://open.spotify.com/album/5qVzF9aMHohPPTb2wO6gh4) | 3:04 |
-| 28 | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1) | 3:35 |
-| 29 | [Manuel Juárez](https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 4:38 |
+| 28 | [Manuel Juárez](https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 4:38 |
+| 29 | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1) | 3:35 |
 | 30 | [El Nano \- Versión Estudio](https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:18 |
 | 31 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 |
 | 32 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 67 | [Ray02](https://open.spotify.com/track/6ghrwhaBnkhJaEM25wm3s4) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:25 |
 | 68 | [Los Ninis](https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:53 |
 | 69 | [Hace Falta Alfredo](https://open.spotify.com/track/3AVWAizGEQ5z10Ac3Y1I4R) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Fuera De Serie](https://open.spotify.com/artist/7cBeYyUmgHMHbDO2Zr7utS) | [Emilio Garra](https://open.spotify.com/album/7eXf8TK9XzmQHmaGDlW7pv) | 3:04 |
-| 70 | [El Buho \(Con Banda\)](https://open.spotify.com/track/0gQ6d3HX8cmTGkqCeWZ2rZ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos \(Con Banda\)](https://open.spotify.com/album/11zljiGCObvgkdTxTBXKXM) | 2:55 |
-| 71 | [El Katch](https://open.spotify.com/track/1CRtFt2ucv4fISV8HIMHPv) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Ulises Quintero](https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu) | [Lo Mejor De](https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ) | 2:26 |
+| 70 | [El Katch](https://open.spotify.com/track/1CRtFt2ucv4fISV8HIMHPv) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Ulises Quintero](https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu) | [Lo Mejor De](https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ) | 2:26 |
+| 71 | [El Buho \(Con Banda\)](https://open.spotify.com/track/0gQ6d3HX8cmTGkqCeWZ2rZ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos \(Con Banda\)](https://open.spotify.com/album/11zljiGCObvgkdTxTBXKXM) | 2:55 |
 | 72 | [RDSD \(En Vivo\)](https://open.spotify.com/track/71zZZw8sUwqL7EAS1CcwQS) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Banda La Fantastica](https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye) | [RDSD \(En Vivo\)](https://open.spotify.com/album/5GnUydkVPaQHMBjVOcxnHH) | 3:05 |
 | 73 | [Don Dinero](https://open.spotify.com/track/5C1fs86eZF8fC32nphXuD1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 2:51 |
 | 74 | [Entre Pancho y Pancho 2.0](https://open.spotify.com/track/2p35OtN25aGq8Brpp3GyiV) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Entre Pancho y Pancho 2.0](https://open.spotify.com/album/59JMwQSNIq5w6h7PaHiYYv) | 2:53 |
 | 75 | [Los Dos Plebes](https://open.spotify.com/track/5qROxEji2ksPXQdEp4X28a) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Los Mejores Corridos y Rancheras](https://open.spotify.com/album/1sLwqqnV64LERipuDvqfHY) | 3:32 |
 
-Snapshot ID: `MCwyMTdhOGYwZjgyN2NkOWZmOWM2MzZlZWE2MGI0OTBkZGE3N2M1NzNl`
+Snapshot ID: `MCwxNjcxZTRlZTA0MzE4YjQ2MWE4YTJjZDQ5MDlhNGI3NWU3NDU3YWMz`

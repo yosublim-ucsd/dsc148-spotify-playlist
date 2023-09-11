@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Guga entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,519 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,575 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [LACAZETTE CU DELE ALLI](https://open.spotify.com/track/66ZF8N3u5bzCNfEqUAqznX) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [LACAZETTE CU DELE ALLI](https://open.spotify.com/album/06RZURNUWuzGqwnEB0H1Yi) | 3:15 |
 | 75 | [CLIMA QUENTE](https://open.spotify.com/track/4wsm6HtaiBEgSIloZzLMa0) | [PiMP WiLLIAM](https://open.spotify.com/artist/5oZcIrge17ygyt5U7ZxhA9), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [CLIMA QUENTE](https://open.spotify.com/album/7zfKdOD52POCBrCFHcBF8r) | 3:44 |
 
-Snapshot ID: `MCxiMjgxZGJlMjIxYWY4YjgyNDFmNDhmMzFhZDgwZDI3OGM3MjM2NjU5`
+Snapshot ID: `MCxjZWU4YWY1ZDU4OTFiNjI1MzYzYjM0NTljYWE2OTA5MjhlZDVmMTA3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 
 > Choral and instrumental classical music from the Renaissance era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,372 likes - 64 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,439 likes - 64 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 | 2 | [Intabolatura de lauto, Book 4: Calata ala spagnola](https://open.spotify.com/track/2AUmB3hu5fHgbWlAIknr7A) | [Joan Ambrosio Dalza](https://open.spotify.com/artist/2Vo7E1wIPn0DnMFvX4H06F), [Christopher Wilson](https://open.spotify.com/artist/13U6np0LvIVvrGltTbhNZh) | [Early Venetian Lute Music](https://open.spotify.com/album/25CYYMQ8TW2SfWv4UKIfAx) | 2:06 |
 | 3 | [If ye love me](https://open.spotify.com/track/2NjcAszEdomxtNhmVqb8tU) | [Thomas Tallis](https://open.spotify.com/artist/1XmMnFJ9jhW4tI7bQuNYFG), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn), [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe) | [Faire Is The Heaven \- Music Of The English Church](https://open.spotify.com/album/0BnSC2ltaMLu3h4GnDqguk) | 2:16 |
 | 4 | [Image of Melancholy](https://open.spotify.com/track/2xemktJsTw9werdDf6jWCO) | [Anthony Holborne](https://open.spotify.com/artist/5wBrgZigt8RFVrcARWc9bD), [Barokksolistene](https://open.spotify.com/artist/1OcVt5llZFb6dkSeMGhvGJ), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [The Image of Melancholy](https://open.spotify.com/album/1gE2YAnPpvekqiXFDWx63h) | 5:33 |
-| 5 | [Recercare](https://open.spotify.com/track/1MXE1uNdZ2TLQGwUcSKPR7) | [Francesco Spinacino](https://open.spotify.com/artist/2RFTpR1OggyhKhPAhCs1ih), [Robert Meunier](https://open.spotify.com/artist/7J9NDzCbObDXUGri1irrZD) | [Vergine Bella \- Italian Renaissance Music](https://open.spotify.com/album/4WqFd1iJGzdEzRqYpqgIJv) | 2:09 |
+| 5 | [Recercare \(I\)](https://open.spotify.com/track/5cjn8s41QfgUEFD8AX0eCo) | [Francesco Spinacino](https://open.spotify.com/artist/2RFTpR1OggyhKhPAhCs1ih), [Robert Meunier](https://open.spotify.com/artist/7J9NDzCbObDXUGri1irrZD) | [Vergine bella \- Italian Renaissance Music](https://open.spotify.com/album/2YYhgviaGsRpygnqokPWjL) | 2:09 |
 | 6 | [Obsecro Te](https://open.spotify.com/track/4Ty3xe0DxUYIq1vTog3sJr) | [Josquin des Prez](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8), [Ariel Abramovich](https://open.spotify.com/artist/77W9LQq9mcPEkZVPTzY7e6), [Lee Santana](https://open.spotify.com/artist/61QbO9V1phMYrxDEviA7Gn) | [Secret History](https://open.spotify.com/album/67A1EpEe40lALbw9M7LIOU) | 5:41 |
 | 7 | [Intemerata Dei mater](https://open.spotify.com/track/13dTXGC6c4t9XPMaAzumtU) | [Johannes Ockeghem](https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO), [Oxford Camerata](https://open.spotify.com/artist/1r5Se2Ts0fmLzFreCTOy2I), [Jeremy Summerly](https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf) | [Renaissance Masterpieces](https://open.spotify.com/album/6xR6WVe00D4LVg2WhI38NX) | 8:10 |
 | 8 | [A Worcester Ladymass: O Maria virgo pia](https://open.spotify.com/track/0ScXUttqeQecpcFgfE8wRI) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Trio Mediæval](https://open.spotify.com/artist/4FdQQ2c3CdaOqUhak3CqFC) | [A Worcester Ladymass](https://open.spotify.com/album/7wrMP7g5B16KwC7She64gA) | 1:57 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 | 63 | [Mass For Four Voices: 1\. Gloria](https://open.spotify.com/track/6GzfuT24wqfHZquZZwLYIV) | [Thomas Tallis](https://open.spotify.com/artist/1XmMnFJ9jhW4tI7bQuNYFG), [The Hilliard Ensemble](https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS) | [Tallis: The Lamentations Of Jeremiah](https://open.spotify.com/album/5xzL1xekOtok9HF0STLt5n) | 5:09 |
 | 64 | [The King of Denmarks Delight](https://open.spotify.com/track/2PosJTq6obVASb20uOSmgC) | [Tobias Hume](https://open.spotify.com/artist/1z5IeyRbd7iLgu1fpxFRLe), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL) | [Hume: Poeticall Musicke](https://open.spotify.com/album/1X1HfR9db93Nr2gOBAX2Hn) | 2:31 |
 
-Snapshot ID: `MCw4ZmY5OWFhYWNjOTU5YjgxYzcwN2YwZmMzNTJiYjFhOWY0YmUzOTE2`
+Snapshot ID: `MCwwNWVkNTNkOWFiZjdlNTBhOGNhOGRlMDQyODc2M2Y4Y2RlOGNjNjYy`

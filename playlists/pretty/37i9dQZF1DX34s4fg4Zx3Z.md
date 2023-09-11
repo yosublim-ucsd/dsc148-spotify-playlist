@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Virgin Suicides](https://open.spotify.com/track/0AnGIIIpMtTHvPZs7FzPp0) | [Yellowa](https://open.spotify.com/artist/4AL79ySD9YSiJAkigZjutp) | [Virgin Suicides](https://open.spotify.com/album/5XXj6Bw8LSw45LPW578Zu3) | 1:57 |
 | 100 | [em lai di dau day?](https://open.spotify.com/track/1JZUgjMN8onMfdCAQxb0xb) | [Cáu](https://open.spotify.com/artist/79RDZmnftJOANOKbYtEo5e) | [em lai di dau day?](https://open.spotify.com/album/1mXPFMkwnS8WP19cgIO0oy) | 2:51 |
 
-Snapshot ID: `MCxhMTBkMzRkNDAyZmM5NjA0ZTNiZTA0ODExNjYzYzZhOTFkMTc0N2Fm`
+Snapshot ID: `MCxlMmNiMzA4ZWNkOWJjNWNmZDFmYjZjZjBiMjQ1ODU1M2E0MTA0NzE0`

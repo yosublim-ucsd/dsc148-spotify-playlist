@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Everything in Texas is best! Lo que suena in the Lone Star state\. Cover: Grupo Frontera & Grupo Firme
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,013 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,083 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 22 | [Mentiras](https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:54 |
 | 23 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/6XEt23sq6sRgER8sSZbCR5) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:12 |
 | 24 | [Princesa](https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Princesa](https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR) | 2:31 |
-| 25 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 |
-| 26 | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69) | 3:20 |
+| 25 | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69) | 3:20 |
+| 26 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 |
 | 27 | [Loco Enamorado](https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Loco Enamorado](https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N) | 3:46 |
 | 28 | [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 |
 | 29 | [De Lunes A Viernes](https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af) | [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [De Lunes A Viernes](https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 49 | [Mi Tesoro \(En Vivo\)](https://open.spotify.com/track/5upZqOtEEFH9TwdYorE7Af) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Mi Tesoro \(En Vivo\)](https://open.spotify.com/album/3izA85ST6c3tnSLoYg8v6W) | 3:02 |
 | 50 | [Te Quiero, I Love You](https://open.spotify.com/track/3RrbxvX4plpA9uNdLDTXjm) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Te Quiero, I Love You](https://open.spotify.com/album/3tKRcZOzh0NY2wI6ajpdGw) | 2:59 |
 
-Snapshot ID: `MCxlMjIwMGRlMmY5ZmY0YmJiYTY1ZjExODc5NmRmODc5ZmY5MzQ2NmVk`
+Snapshot ID: `MCxkNjllZDFiYTk5ZTRiNmYwMWM0NmMzZTljYWZhYzczMGIyYzZjZWE5`

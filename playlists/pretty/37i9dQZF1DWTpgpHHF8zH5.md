@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,848 likes - 95 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,884 likes - 95 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 | 53 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 |
 | 54 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 |
 | 55 | [Without You](https://open.spotify.com/track/1tnfPfTc733IBccOamdcjM) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [Without You](https://open.spotify.com/album/0e6bVPjT166kgo3NWfDOmv) | 3:07 |
-| 56 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 |
-| 57 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
+| 56 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
+| 57 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 |
 | 58 | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL) | 2:29 |
 | 59 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 |
 | 60 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 | 94 | [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 |
 | 95 | [Hold On](https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Hold On](https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J) | 2:50 |
 
-Snapshot ID: `MCw4YzE1ZmQ0ZjhmNzA2NjQxNjIwNzFiYzIxYjE1YWE4ZDExMzlmM2E3`
+Snapshot ID: `MCxkMzgwNTEyYmU0MTJmYzVmNDM0Yjc0OGY3NzhiNjUxMjQ3Mjc4OGEy`

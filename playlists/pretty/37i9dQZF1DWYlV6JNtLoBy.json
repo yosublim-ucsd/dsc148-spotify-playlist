@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 2595,
+  "num_followers": 2625,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzgwYWJkNmVjYWZhOWJiNTQ4N2JkYTllZjBlYTUyNzZkMDVjOTFi",
+  "snapshot_id": "MCw0MWMxMmQyMjlmNTE4MzJjY2IyOTE3Y2MwNjA0NzI3MWQ0NzA0N2E2",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
     },
     {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 613918,
+      "name": "Oke Mmiri",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
+    },
+    {
       "added_at": "2023-08-25 00:01:00",
       "album": {
         "name": "I Believe (Island Medley) - Single",
@@ -463,22 +479,6 @@
       "duration_ms": 142996,
       "name": "Yesu Nitie Nguvu",
       "url": "https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "Oke Mmiri",
-        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 613918,
-      "name": "Oke Mmiri",
-      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "NINA SIRI",
-        "url": "https://open.spotify.com/album/3NyvSTjdt2P19P7I8xV3oz"
+        "name": "Bwana Ni Ngome Yangu",
+        "url": "https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF"
       },
       "artists": [
         {
-          "name": "Israel Mbonyi",
-          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
+          "name": "St. Joseph's Choir Kendu Bay Parish",
+          "url": "https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA"
         }
       ],
-      "duration_ms": 672438,
-      "name": "NINA SIRI",
-      "url": "https://open.spotify.com/track/71qTDQi7eBRbheRm7pny4V"
+      "duration_ms": 346640,
+      "name": "Huyu Ni Nani",
+      "url": "https://open.spotify.com/track/0l39flJoMHffawcZES5NCS"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Bwana Ni Ngome Yangu",
-        "url": "https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF"
+        "name": "NINA SIRI",
+        "url": "https://open.spotify.com/album/3NyvSTjdt2P19P7I8xV3oz"
       },
       "artists": [
         {
-          "name": "St. Joseph's Choir Kendu Bay Parish",
-          "url": "https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA"
+          "name": "Israel Mbonyi",
+          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
         }
       ],
-      "duration_ms": 346640,
-      "name": "Huyu Ni Nani",
-      "url": "https://open.spotify.com/track/0l39flJoMHffawcZES5NCS"
+      "duration_ms": 672438,
+      "name": "NINA SIRI",
+      "url": "https://open.spotify.com/track/71qTDQi7eBRbheRm7pny4V"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -807,22 +807,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Tumeshinda",
-        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
+        "name": "WINNING",
+        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
       },
       "artists": [
         {
-          "name": "Eunice Njeri",
-          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
+          "name": "Harmini",
+          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
         },
         {
-          "name": "Godwill Babette",
-          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
+          "name": "Chud'e",
+          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
         }
       ],
-      "duration_ms": 365417,
-      "name": "Tumeshinda",
-      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
+      "duration_ms": 152622,
+      "name": "WINNING",
+      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -843,22 +843,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "The Sound of Redemption",
-        "url": "https://open.spotify.com/album/33eTjDxci5pBddq5SAJome"
+        "name": "Tumeshinda",
+        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
       },
       "artists": [
         {
-          "name": "Mabongi",
-          "url": "https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j"
+          "name": "Eunice Njeri",
+          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
         },
         {
-          "name": "Khaya Mthethwa",
-          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+          "name": "Godwill Babette",
+          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
         }
       ],
-      "duration_ms": 403568,
-      "name": "We Worship",
-      "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
+      "duration_ms": 365417,
+      "name": "Tumeshinda",
+      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -895,22 +895,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "WINNING",
-        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
+        "name": "The Sound of Redemption",
+        "url": "https://open.spotify.com/album/33eTjDxci5pBddq5SAJome"
       },
       "artists": [
         {
-          "name": "Harmini",
-          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
+          "name": "Mabongi",
+          "url": "https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j"
         },
         {
-          "name": "Chud'e",
-          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
         }
       ],
-      "duration_ms": 152622,
-      "name": "WINNING",
-      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
+      "duration_ms": 403568,
+      "name": "We Worship",
+      "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
     },
     {
       "added_at": "2023-08-25 00:01:00",

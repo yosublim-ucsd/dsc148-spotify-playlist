@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,065 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,235 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
 | 60 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 |
 
-Snapshot ID: `MCxjMGQ1ZjM2OTRiNjllMmU2N2VmOTAwMDIzNDVhMzNmNGQ5NjIyMzE0`
+Snapshot ID: `MCwzOWY2ODZlOWRlM2UwN2NkNjcxMjJmYWIzZGQ0YmQ4NDljM2IxZGVh`

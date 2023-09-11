@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 85836,
+  "num_followers": 85901,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDFmOTNkYWFlZDBhM2M0OGI1NmM2YmU4OWE0YmNiMjcyNDc3ZmMz",
+  "snapshot_id": "MCw3ZDE5MjAxNTY1YmRmMGM4MDQwYzE4ZjVjYmVjMGIwMGNkNjQxMjJh",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Beautiful Anyway",
-        "url": "https://open.spotify.com/album/1DBj9YNMRkONwSVBLr5jRD"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 298977,
-      "name": "Beautiful Anyway",
-      "url": "https://open.spotify.com/track/7dLyLufQvh84ghKQ0qiWTb"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 216315,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Beautiful Anyway",
+        "url": "https://open.spotify.com/album/1DBj9YNMRkONwSVBLr5jRD"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 298977,
+      "name": "Beautiful Anyway",
+      "url": "https://open.spotify.com/track/7dLyLufQvh84ghKQ0qiWTb"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 297506,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Zeal",
         "url": "https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 228247,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/07ii8FiGFeAf6ZoW8TbggA"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 297506,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Like Myself",
+        "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Grace",
+          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Like Myself",
+      "url": "https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
         "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 222878,
       "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
       "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Like Myself",
-        "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Grace",
-          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Like Myself",
-      "url": "https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Autumn Love",
-        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
-      },
-      "artists": [
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 295120,
-      "name": "Autumn Love",
-      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Under Fire",
         "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 258573,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 295120,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
     },
     {
       "added_at": "2020-09-04 04:02:00",

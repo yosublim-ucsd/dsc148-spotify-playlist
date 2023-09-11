@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: ELENA ROSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,491 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,568 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 17 | [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 |
 | 18 | [Celular](https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Celular](https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd) | 2:56 |
 | 19 | [Lovelove U](https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Lovelove U](https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv) | 2:55 |
-| 20 | [1Trago](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1Trago](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 |
-| 21 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
-| 22 | [Palpita](https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Palpita](https://open.spotify.com/album/603fRSffKcKusaqnmhXos5) | 2:31 |
+| 20 | [Palpita](https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Palpita](https://open.spotify.com/album/603fRSffKcKusaqnmhXos5) | 2:31 |
+| 21 | [1Trago](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1Trago](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 |
+| 22 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
 | 23 | [traición](https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [traición](https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz) | 2:45 |
 | 24 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 |
 | 25 | [Cerquita De Ti](https://open.spotify.com/track/70FJ7VpGX4Luv8GlMGSLRM) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo) | [Cerquita De Ti](https://open.spotify.com/album/5Wg1E8vq9CFjnaBKJClHK2) | 3:37 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 42 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 |
 | 43 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
 | 44 | [Disculpa Amiga](https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Disculpa Amiga](https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp) | 2:48 |
-| 45 | [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 |
+| 45 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
 | 46 | [Ya No Se Mueve](https://open.spotify.com/track/1ySJxsLuBOwc3BOvNGeIdZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ya No Se Mueve](https://open.spotify.com/album/2DXjnfXuEeacuThcytHodq) | 2:35 |
-| 47 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
+| 47 | [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 |
 | 48 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 |
 | 49 | [Soltando A Pedazos](https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Soltando A Pedazos](https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy) | 2:44 |
 | 50 | [Nunca Deja de Llover](https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Nunca Deja De Llover](https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I) | 2:50 |
 
-Snapshot ID: `MCwzMmRjMjk3ZDc2YTZlZTE3MzUxODBkNjZhYTM5Y2I3ZGUyOGY3MmNl`
+Snapshot ID: `MCw5ZWI2ZWQxMTM1M2ZhNmYxNGJmNWU0MzAxMWJhZTIxOTQwNzMxODNj`

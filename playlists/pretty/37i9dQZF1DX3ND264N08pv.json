@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 55018,
+  "num_followers": 55171,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWM2NDBmMzljYTk5YjU5MmUwN2U4MjczNjcxMWUxYjVlYjhlMTE4",
+  "snapshot_id": "MCw4ODkxYTkwMGVlN2E1YTM5MGY1NmU0ZmRmZDcyOTNjYTA0NDU1MmVj",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "The Ultimate Killing Machine",
         "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 205846,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Fake Shit",
-        "url": "https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Fake Shit",
-      "url": "https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Pac-man 2.0",
         "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 148360,
       "name": "Pac-man 2.0",
       "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Fake Shit",
+        "url": "https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Fake Shit",
+      "url": "https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Beat My Drum",
         "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 202124,
       "name": "Beat My Drum",
       "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Story of My Life",
-        "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
-      },
-      "artists": [
-        {
-          "name": "Frenchkillerz",
-          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
-        },
-        {
-          "name": "PsykoPhonic",
-          "url": "https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 294600,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Story of My Life",
+        "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
+      },
+      "artists": [
+        {
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
+        },
+        {
+          "name": "PsykoPhonic",
+          "url": "https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Masters Of Hardcore Chapter XLIV",
-        "url": "https://open.spotify.com/album/2Y0PWBnphib2osozApxHou"
-      },
-      "artists": [
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Wave Of Destruction",
         "url": "https://open.spotify.com/album/7J4zZlQKZlAohMDKkGMwJ5"
       },
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Masters Of Hardcore Chapter XLIV",
+        "url": "https://open.spotify.com/album/2Y0PWBnphib2osozApxHou"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "BLACK HOLE",
         "url": "https://open.spotify.com/album/4s4jnEYCM5gQalByOEXQqo"
       },
@@ -1751,22 +1751,6 @@
       "duration_ms": 173657,
       "name": "BLACK HOLE",
       "url": "https://open.spotify.com/track/2zHjYnNKADys8LidsZUIjG"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Hide Me",
-        "url": "https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL"
-      },
-      "artists": [
-        {
-          "name": "Aftermath",
-          "url": "https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Hide Me",
-      "url": "https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1791,6 +1775,22 @@
       "duration_ms": 201600,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Hide Me",
+        "url": "https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL"
+      },
+      "artists": [
+        {
+          "name": "Aftermath",
+          "url": "https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Hide Me",
+      "url": "https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B"
     },
     {
       "added_at": "2023-09-07 22:00:00",

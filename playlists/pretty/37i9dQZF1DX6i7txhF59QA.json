@@ -1,12 +1,12 @@
 {
   "description": "Let's party with cheerful Korean trot medley. Cover: Nahee Kim(\uae40\ub098\ud76c) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 20615,
+  "num_followers": 20627,
   "original_name": "K-Trot Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODUwYzNiYmU0ZmYwZDBkZTU1MmM1YTUzOTFmZDQ5MTBjZWVlMmI4",
+  "snapshot_id": "MCw2ODk5Yzk0YzcyNDcyNjZkNGM4ZDE0YjYxNTAwNGMyMjBlNzY3OTJj",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Lots of Love",
-        "url": "https://open.spotify.com/album/3RvBl6rKAc0y0SsRjR4MqE"
-      },
-      "artists": [
-        {
-          "name": "Hong Jin Young",
-          "url": "https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY"
-        }
-      ],
-      "duration_ms": 212211,
-      "name": "Thumb Up",
-      "url": "https://open.spotify.com/track/3UpDEwkdjWdNb2gKchoNsy"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "\uc624\uc2b9\uadfc Special `\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c`",
         "url": "https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 218894,
       "name": "\uc788\uc744\ub54c \uc798\ud574",
       "url": "https://open.spotify.com/track/2wXilNx41uugI1OgRWI3SC"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Lots of Love",
+        "url": "https://open.spotify.com/album/3RvBl6rKAc0y0SsRjR4MqE"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Young",
+          "url": "https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY"
+        }
+      ],
+      "duration_ms": 212211,
+      "name": "Thumb Up",
+      "url": "https://open.spotify.com/track/3UpDEwkdjWdNb2gKchoNsy"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "\ub3fc\uc9c0\ud1a0\ub07c",
+        "url": "https://open.spotify.com/album/6z33vHdsvbRzVXGeFHQ13X"
+      },
+      "artists": [
+        {
+          "name": "Jang Yoon-Jeong",
+          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "\ub3fc\uc9c0\ud1a0\ub07c",
+      "url": "https://open.spotify.com/track/5EeXIVuU688iRZFkRh98wP"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "\ud55c\uc794\ud574",
         "url": "https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 213074,
       "name": "\ub204\ub098\uac00 \ub531\uc774\uc57c",
       "url": "https://open.spotify.com/track/2gB2WYfvPzzxwbukvUTf0Z"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "\ub3fc\uc9c0\ud1a0\ub07c",
-        "url": "https://open.spotify.com/album/6z33vHdsvbRzVXGeFHQ13X"
-      },
-      "artists": [
-        {
-          "name": "Jang Yoon-Jeong",
-          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "\ub3fc\uc9c0\ud1a0\ub07c",
-      "url": "https://open.spotify.com/track/5EeXIVuU688iRZFkRh98wP"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/3IJF1fOkMAMqnfcLKHjVjX"
-      },
-      "artists": [
-        {
-          "name": "YOUNGTAK",
-          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "On Your Side",
-      "url": "https://open.spotify.com/track/6DmrMG6iTGu2e086WHEPtw"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "\uc6b0\ub9ac\u5bb6",
         "url": "https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 251173,
       "name": "\ub098\ubcf4\ub2e4 \ub354 \uc0ac\ub791\ud574\uc694",
       "url": "https://open.spotify.com/track/4aOozUyHI6r5LauMX6TtUw"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/3IJF1fOkMAMqnfcLKHjVjX"
+      },
+      "artists": [
+        {
+          "name": "YOUNGTAK",
+          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/6DmrMG6iTGu2e086WHEPtw"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "pr\u00e9paration(\uc058\ub808\ube60\ub77c\uc528\uc6a9)",
+        "url": "https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20"
+      },
+      "artists": [
+        {
+          "name": "Jang Yoon-Jeong",
+          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "\ubaa9\ud3ec\ud589 \uc644\ud589\uc5f4\ucc28",
+      "url": "https://open.spotify.com/track/1tb1vddvrGHwE1wSRwGB6V"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Love call center PART4",
         "url": "https://open.spotify.com/album/4IT3qJP9Yqhyy3itCSmpUx"
       },
@@ -955,26 +971,6 @@
       "duration_ms": 225880,
       "name": "Last night's story",
       "url": "https://open.spotify.com/track/1XJ6zkQPsyAu1EQ4Uktgu9"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "The Farewell Bus Stop",
-        "url": "https://open.spotify.com/album/5Q3mg8s6QDYsJVWLXAHt0l"
-      },
-      "artists": [
-        {
-          "name": "YOOSANSEUL",
-          "url": "https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y"
-        },
-        {
-          "name": "Song Ga In",
-          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "The Farewell Bus Stop",
-      "url": "https://open.spotify.com/track/4gJEy8qaW50XFWxW7NLgz4"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "pr\u00e9paration(\uc058\ub808\ube60\ub77c\uc528\uc6a9)",
-        "url": "https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20"
+        "name": "The Farewell Bus Stop",
+        "url": "https://open.spotify.com/album/5Q3mg8s6QDYsJVWLXAHt0l"
       },
       "artists": [
         {
-          "name": "Jang Yoon-Jeong",
-          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
+          "name": "YOOSANSEUL",
+          "url": "https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y"
+        },
+        {
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
         }
       ],
-      "duration_ms": 211733,
-      "name": "\ubaa9\ud3ec\ud589 \uc644\ud589\uc5f4\ucc28",
-      "url": "https://open.spotify.com/track/1tb1vddvrGHwE1wSRwGB6V"
+      "duration_ms": 216586,
+      "name": "The Farewell Bus Stop",
+      "url": "https://open.spotify.com/track/4gJEy8qaW50XFWxW7NLgz4"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1079,38 +1079,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "REDEVELOPMENT OF LOVE 2",
-        "url": "https://open.spotify.com/album/3DQ0qjt95ZBDLy8LSDq8ne"
-      },
-      "artists": [
-        {
-          "name": "YOOSANSEUL",
-          "url": "https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "REDEVELOPMENT OF LOVE 2",
-      "url": "https://open.spotify.com/track/5N1twcXVVLz0RCklDWpewA"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "YOU & ME",
-        "url": "https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G"
-      },
-      "artists": [
-        {
-          "name": "KIM SOO CHAN",
-          "url": "https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "YOU & ME",
-      "url": "https://open.spotify.com/track/2HVR58hpYOXJH7JSOWe4Sk"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Love call center PART35",
         "url": "https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ"
       },
@@ -1131,6 +1099,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "YOU & ME",
+        "url": "https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G"
+      },
+      "artists": [
+        {
+          "name": "KIM SOO CHAN",
+          "url": "https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "YOU & ME",
+      "url": "https://open.spotify.com/track/2HVR58hpYOXJH7JSOWe4Sk"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "\uae40\uc6a9\uc784 \uc2a4\ud398\uc15c \ubca0\uc2a4\ud2b8 76",
         "url": "https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 169914,
       "name": "\uc0bc\uac01\uad00\uacc4",
       "url": "https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "REDEVELOPMENT OF LOVE 2",
+        "url": "https://open.spotify.com/album/3DQ0qjt95ZBDLy8LSDq8ne"
+      },
+      "artists": [
+        {
+          "name": "YOOSANSEUL",
+          "url": "https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "REDEVELOPMENT OF LOVE 2",
+      "url": "https://open.spotify.com/track/5N1twcXVVLz0RCklDWpewA"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "[2020 TrotAwards] BEST",
+        "url": "https://open.spotify.com/album/7HG7FBpiTxtXkEYZpY0dzK"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        },
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "That's too much + A song for a wife",
+      "url": "https://open.spotify.com/track/6Lp04YjlZjXKB2xmxHg6WU"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "\uc6b0\ub9ac\u5bb6",
         "url": "https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w"
       },
@@ -1439,26 +1459,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Love call center PART9",
-        "url": "https://open.spotify.com/album/1lAFblayoSOk4ZzgtqGT0I"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        },
-        {
-          "name": "YOUNGTAK",
-          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
-        }
-      ],
-      "duration_ms": 268219,
-      "name": "Scars deeper than love",
-      "url": "https://open.spotify.com/track/6ZDGfuLzNSNYtuY3JETdaz"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "MISS TROT2 PRELIMINARY BEST PART2",
         "url": "https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx"
       },
@@ -1475,22 +1475,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "[2020 TrotAwards] BEST",
-        "url": "https://open.spotify.com/album/7HG7FBpiTxtXkEYZpY0dzK"
+        "name": "Love call center PART9",
+        "url": "https://open.spotify.com/album/1lAFblayoSOk4ZzgtqGT0I"
       },
       "artists": [
         {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         },
         {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+          "name": "YOUNGTAK",
+          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
         }
       ],
-      "duration_ms": 202373,
-      "name": "That's too much + A song for a wife",
-      "url": "https://open.spotify.com/track/6Lp04YjlZjXKB2xmxHg6WU"
+      "duration_ms": 268219,
+      "name": "Scars deeper than love",
+      "url": "https://open.spotify.com/track/6ZDGfuLzNSNYtuY3JETdaz"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Finger Heart",
-        "url": "https://open.spotify.com/album/536AwbTSsZRzotWrQ8zPUq"
-      },
-      "artists": [
-        {
-          "name": "Roh Ji Hoon",
-          "url": "https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw"
-        }
-      ],
-      "duration_ms": 185430,
-      "name": "Finger Heart",
-      "url": "https://open.spotify.com/track/6aN8AOfNkNQQ8isY9vrmyo"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "pr\u00e9paration(\uc058\ub808\ube60\ub77c\uc528\uc6a9)",
         "url": "https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 198586,
       "name": "\uc5ec\uc790\uc608\uc694",
       "url": "https://open.spotify.com/track/7fAVgSWyatO93M3o6FvmlQ"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Finger Heart",
+        "url": "https://open.spotify.com/album/536AwbTSsZRzotWrQ8zPUq"
+      },
+      "artists": [
+        {
+          "name": "Roh Ji Hoon",
+          "url": "https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw"
+        }
+      ],
+      "duration_ms": 185430,
+      "name": "Finger Heart",
+      "url": "https://open.spotify.com/track/6aN8AOfNkNQQ8isY9vrmyo"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1575,38 +1575,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Taste of life",
-        "url": "https://open.spotify.com/album/4IGv48d0xSWpKmO8Db0Srm"
-      },
-      "artists": [
-        {
-          "name": "Yang Ji Eun",
-          "url": "https://open.spotify.com/artist/5rLGnWPQ1yVg4skBZD8VEw"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Taste of life",
-      "url": "https://open.spotify.com/track/48F26fZUkzsKahAn97EviB"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "\ud2b8\ub85c\ud2b8 \uc5ec\uc778 1, 2",
-        "url": "https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc218\uc9c4",
-          "url": "https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP"
-        }
-      ],
-      "duration_ms": 156356,
-      "name": "\ubaa9\uacc4\ub098\ub8e8",
-      "url": "https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/615aalqP0HyakgrgP9ceg3"
       },
@@ -1619,6 +1587,22 @@
       "duration_ms": 162880,
       "name": "Follow Me (Prod. by Young Tak)",
       "url": "https://open.spotify.com/track/1fihoC9boTXb99e4qHV6lh"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Taste of life",
+        "url": "https://open.spotify.com/album/4IGv48d0xSWpKmO8Db0Srm"
+      },
+      "artists": [
+        {
+          "name": "Yang Ji Eun",
+          "url": "https://open.spotify.com/artist/5rLGnWPQ1yVg4skBZD8VEw"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Taste of life",
+      "url": "https://open.spotify.com/track/48F26fZUkzsKahAn97EviB"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "\ud2b8\ub85c\ud2b8 \uc5ec\uc778 1, 2",
+        "url": "https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc218\uc9c4",
+          "url": "https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP"
+        }
+      ],
+      "duration_ms": 156356,
+      "name": "\ubaa9\uacc4\ub098\ub8e8",
+      "url": "https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Read and Ignored",
         "url": "https://open.spotify.com/album/2TLUFzFHkfjirhp8i8ZYhp"
       },
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Music source of Mr. Trot Death match Part2",
-        "url": "https://open.spotify.com/album/0OjXvl6OUHiVZYIvvmSWSe"
+        "name": "Love call center PART16",
+        "url": "https://open.spotify.com/album/7u8HLtO5WhyaSCGDmciwMT"
       },
       "artists": [
         {
           "name": "Lee Chanwon",
           "url": "https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k"
+        },
+        {
+          "name": "Kim Jungyeon",
+          "url": "https://open.spotify.com/artist/1hYRpUtSjcgh8qwPE0JkRz"
         }
       ],
-      "duration_ms": 176254,
-      "name": "Why are you crying",
-      "url": "https://open.spotify.com/track/3GgkHnqjgPC9oQCbcYRJx5"
+      "duration_ms": 184893,
+      "name": "A trip to myself",
+      "url": "https://open.spotify.com/track/3K5YbYz0oiSku3AJPm1Cz1"
     }
   ],
   "unique_name": "K-Trot Stars",

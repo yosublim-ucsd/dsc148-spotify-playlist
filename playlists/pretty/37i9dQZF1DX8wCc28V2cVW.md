@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,256 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,309 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 69 | [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 |
 | 70 | [Trisection](https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:37 |
 | 71 | [Luca](https://open.spotify.com/track/0ZWbnEsONhMZI7gpKOFMcu) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:41 |
-| 72 | [FFVII REMAKE: スカーレットのテーマ \(Scarlet's Theme\)](https://open.spotify.com/track/3tnuyMU0FohoFg77aAghTn) | [Tsuyoshi Sekito](https://open.spotify.com/artist/0NTNUSfkUTEAPRcwSyl7a9), [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 4:10 |
-| 73 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 |
-| 74 | [「Prelude \- menu \-」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/21yzCKqAqVaBYes3Gz8P9t) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 3:00 |
+| 72 | [「Prelude \- menu \-」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/21yzCKqAqVaBYes3Gz8P9t) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 3:00 |
+| 73 | [FFVII REMAKE: スカーレットのテーマ \(Scarlet's Theme\)](https://open.spotify.com/track/3tnuyMU0FohoFg77aAghTn) | [Tsuyoshi Sekito](https://open.spotify.com/artist/0NTNUSfkUTEAPRcwSyl7a9), [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 4:10 |
+| 74 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 |
 | 75 | [New Bodhum](https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:39 |
 
-Snapshot ID: `MCxjMzVhZTBhNGM1NGNkYTBlN2Q0Nzg2NGNjOWU5NDA0ZjI1MDg2MDg3`
+Snapshot ID: `MCw5MDA2ZGQ2OTk4ZTdmMzU5NTFiYjhlZTcxZmU4ODZiOTQ2M2Q2MGM4`

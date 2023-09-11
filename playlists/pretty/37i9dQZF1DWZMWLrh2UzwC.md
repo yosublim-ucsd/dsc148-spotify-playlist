@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,164 likes - 78 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,165 likes - 78 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 77 | [Hide](https://open.spotify.com/track/68HVXA35PbtgzjEeb1YuE2) | [Echo Resort](https://open.spotify.com/artist/5DDzVl7PztpChpK9ZxTXZe) | [Hide](https://open.spotify.com/album/4QV7bBHslur9zkmEanlDki) | 4:17 |
 | 78 | [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 |
 
-Snapshot ID: `MCwwM2RjYjA3N2I5YzMyMWVlYmFkNTQ1ZDIzZTJkODQzYmM3YzBmNjdm`
+Snapshot ID: `MCwwNGQzNzg3NWQ0YmJiOWVlYzU4OWZlNGM5ZTk2ZjQ2NDZhZGIyYzIz`

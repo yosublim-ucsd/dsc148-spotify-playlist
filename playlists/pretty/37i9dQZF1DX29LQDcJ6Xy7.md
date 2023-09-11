@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,731 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,858 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 75 | [Blitzkrieg](https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28) | [Deathstars](https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp) | [Termination Bliss](https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7) | 4:06 |
 | 76 | [To The Hilt](https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Industrial Machine Musick](https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf) | 4:22 |
 | 77 | [Ich weiß es nicht](https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Ich weiß es nicht](https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6) | 4:49 |
-| 78 | [Rabenherz](https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Helheim \(Deluxe Edition\)](https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY) | 3:12 |
-| 79 | [End Of The Line](https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6) | 4:03 |
+| 78 | [End Of The Line](https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6) | 4:03 |
+| 79 | [Rabenherz](https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Helheim \(Deluxe Edition\)](https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY) | 3:12 |
 | 80 | [Ofelia](https://open.spotify.com/track/3kYCOAQ2UuI4LO13zZ3Pk3) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Ofelia](https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x) | 3:08 |
 | 81 | [Headhunter V1.0](https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896) | [Front 242](https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX) | [Front By Front](https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR) | 5:02 |
-| 82 | [Face Down](https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Face Down](https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6) | 3:39 |
-| 83 | [Sins of the Flesh](https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS) | [Sister Machine Gun](https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId) | [Sins Of The Flesh](https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542) | 5:06 |
+| 82 | [Sins of the Flesh](https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS) | [Sister Machine Gun](https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId) | [Sins Of The Flesh](https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542) | 5:06 |
+| 83 | [Face Down](https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Face Down](https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6) | 3:39 |
 | 84 | [Hatred Will Prevail \- Monolith Remix](https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Rhys Fulber](https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P) | [Recoded](https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj) | 5:44 |
 | 85 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
 | 86 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 94 | [New Messiah](https://open.spotify.com/track/784D068nWk6mUvEXkufPnF) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [New Messiah](https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem) | 4:30 |
 | 95 | [Prey & Obey](https://open.spotify.com/track/010zNby24HBoMyMZClgViJ) | [PIG](https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0) | [Prey & Obey](https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr) | 4:46 |
 | 96 | [I Am Nothing](https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Chasing Ghosts](https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E) | 4:03 |
-| 97 | [Prototype](https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz) | [The Silverblack](https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r) | [Prototype 6:17](https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM) | 3:28 |
-| 98 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 |
+| 97 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 |
+| 98 | [Prototype](https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz) | [The Silverblack](https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r) | [Prototype 6:17](https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM) | 3:28 |
 | 99 | [Join In The Chant](https://open.spotify.com/track/34vs8Nv1UbY63eWgMR1Tb2) | [Nitzer Ebb](https://open.spotify.com/artist/7EnAgffrVyerTWH628TJ6f) | [That Total Age](https://open.spotify.com/album/7wm0bknBmCO7Ienh7plPz4) | 6:05 |
 | 100 | [A Matter of Time](https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:02 |
 
-Snapshot ID: `MCxmMzRiNWUyZGQ3NjIwM2JjZWI2YTZhNTQyZjEyOGMwODgzMWQzN2U5`
+Snapshot ID: `MCw2ZTM5ZTljNGRmZDRlZWU2MDYwZmI2NzhjMzUwNmJkZGQ5MzgzZTA4`

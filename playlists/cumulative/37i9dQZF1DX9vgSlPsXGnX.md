@@ -4,7 +4,7 @@
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-131 songs - 6 hr 34 min
+132 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Delirio](https://open.spotify.com/track/0IXvPugWyQNt46o7eZnpjm) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Canta Carmen Delia Delpini](https://open.spotify.com/album/3fxjUbibmFrNXBpHfqib41) | 3:10 | 2021-12-26 | 2022-07-29 |
 | [Delirio](https://open.spotify.com/track/23lcRsgi0OWWUaUmpHctS8) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL), [Johnny Rodriguez Y Su Trio](https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka) | [Canta](https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ) | 3:10 | 2021-12-26 |  |
 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 | 2021-12-26 |  |
-| [Donde Encontraras](https://open.spotify.com/track/1dMK5yoypaN0cr3aW5xJqz) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [La Serenata de los Enamorados](https://open.spotify.com/album/0ccaSPcFOccacjj9EVgJNx) | 3:22 | 2021-12-26 |  |
+| [Donde Encontraras](https://open.spotify.com/track/1dMK5yoypaN0cr3aW5xJqz) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [La Serenata de los Enamorados](https://open.spotify.com/album/0ccaSPcFOccacjj9EVgJNx) | 3:22 | 2021-12-26 | 2023-09-11 |
 | [Dos Gardenias](https://open.spotify.com/track/1N7KhNYVLFiXODqduYX2dF) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [20 Exitos\- Daniel Santos](https://open.spotify.com/album/7c7mOuUPoKotLSiVVPpdYy) | 3:03 | 2021-12-26 | 2022-07-29 |
 | [Dos Gardenias](https://open.spotify.com/track/4faOsdm3wPyhqSgkM9jZ9D) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Éxitos](https://open.spotify.com/album/54BYhUZE62cpwfBlcIYAWs) | 3:03 | 2021-12-26 |  |
 | [El Andariego](https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al) | [Pepe Jara](https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl) | [El Trovador Solitario](https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze) | 2:46 | 2021-12-26 |  |
@@ -95,6 +95,7 @@
 | [Nuestro Juramento](https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [15 Años De Exitos](https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL) | 3:15 | 2021-12-26 | 2022-07-29 |
 | [Nuestro Juramento](https://open.spotify.com/track/14g4Oi7wtimsoJYLjtiCa9) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Lo Mejor de Julio Jaramillo](https://open.spotify.com/album/1vmIQyW1o8tKb4vtBefwi7) | 3:15 | 2021-12-26 | 2022-11-14 |
 | [Nuestro Juramento](https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 3:15 | 2021-12-26 |  |
+| [Nuestro Juramento](https://open.spotify.com/track/0cGYk1dJWiA0fUSgQuAGpY) | [Los Jefes](https://open.spotify.com/artist/2yCqVZMT1Q1rCz86KiKQUp) | [Los Jefes Interpretan al Inmortal Julio Jaramillo](https://open.spotify.com/album/3SjcynTYHXUywEqdpv2KFA) | 3:26 | 2021-12-26 |  |
 | [Odiame](https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:17 | 2021-12-26 |  |
 | [Perdon](https://open.spotify.com/track/2IsKqcHOJlVJskX7UhILXU) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/20vzQzOfUlOeKWuGquhhSv) | 3:12 | 2021-12-26 | 2022-07-29 |
 | [Perdon](https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 3:12 | 2021-12-26 |  |

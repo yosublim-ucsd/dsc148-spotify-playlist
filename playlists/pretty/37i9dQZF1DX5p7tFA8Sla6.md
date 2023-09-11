@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,600 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,642 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 48 | [Sheez Music](https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Everybody Want Sum](https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD) | 4:48 |
 | 49 | [You're Gone](https://open.spotify.com/track/2auIQ3gf99I7wFz2DbZKWk) | [Smoove & Turrell](https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn), [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Mount Pleasant](https://open.spotify.com/album/080iszZgRFPqymcbo1qlOK) | 3:42 |
 | 50 | [Head](https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO) | 4:45 |
-| 51 | [Funk That Junk](https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [What We Got Together](https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18) | 2:35 |
-| 52 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
+| 51 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
+| 52 | [Funk That Junk](https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [What We Got Together](https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18) | 2:35 |
 | 53 | [Miss Madison](https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE) | [Phat Phunktion](https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 3:30 |
 | 54 | [Slippery When Wet](https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 3:17 |
 | 55 | [Let's Work](https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Wild](https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI), [Mammal Dap](https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq) | [Wild](https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK) | 3:32 |
 | 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 
-Snapshot ID: `MCwxOGFhYTRiM2UyNDBiYTYzNDc2Mzc0NjQ1OWE4NTY5ZGFiY2RmMDg2`
+Snapshot ID: `MCw3NDNiOWEyY2JiNTkzMGQwM2MxODQ5NjQ2ODgyMTAzMDIzNDQ0ZWFh`

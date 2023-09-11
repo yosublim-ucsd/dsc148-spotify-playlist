@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,447 likes - 80 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,650 likes - 80 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 |
-| 2 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 |
+| 1 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 |
+| 2 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 |
 | 3 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 |
 | 4 | [Again](https://open.spotify.com/track/47cZOrEp9js0X3E6tQt5b4) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Ash Lee](https://open.spotify.com/artist/5cLztgiKT0bPu4xzweQxKT) | [Again](https://open.spotify.com/album/1QZJpWXksSmGPnWImp4JE8) | 2:21 |
 | 5 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 35 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |
 | 36 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
 | 37 | [Butterflies](https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:39 |
-| 38 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
-| 39 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
+| 38 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
+| 39 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
 | 40 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
 | 41 | [Sunshine](https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:22 |
 | 42 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 66 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
 | 67 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 |
 | 68 | [Sleepless Nights \(feat\. Phoelix\)](https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:59 |
-| 69 | [Read My Mind](https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:48 |
-| 70 | [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 |
-| 71 | [Naked](https://open.spotify.com/track/0mKbQvLjf1jVdnOKSZ5nC7) | [Marques Houston](https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt) | [Naked](https://open.spotify.com/album/4KahGYWAcGDrsjgPHW99Mg) | 4:26 |
+| 69 | [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 |
+| 70 | [Naked](https://open.spotify.com/track/0mKbQvLjf1jVdnOKSZ5nC7) | [Marques Houston](https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt) | [Naked](https://open.spotify.com/album/4KahGYWAcGDrsjgPHW99Mg) | 4:26 |
+| 71 | [Read My Mind](https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:48 |
 | 72 | [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 |
 | 73 | [3 Hour Drive \(feat\. Sampha\)](https://open.spotify.com/track/3WBpLOiuBWlkSjqxXfqQrH) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:01 |
 | 74 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 76 | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q) | 3:58 |
 | 77 | [Road Of The Lonely Ones](https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Road Of The Lonely Ones](https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf) | 3:38 |
 | 78 | [Cruel Intentions \(Remix\) \[feat\. Snoh Aalegra\]](https://open.spotify.com/track/54NPbWDqKcSGnP1FEkk7iC) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cruel Intentions \(Remix\) \[feat\. Snoh Aalegra\]](https://open.spotify.com/album/3VpPE17j7Zja4iLdHnP1Ps) | 4:40 |
-| 79 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
-| 80 | [If](https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:15 |
+| 79 | [If](https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:15 |
+| 80 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
 
-Snapshot ID: `MCwxZDEzNzcwOWQzYzdkZTQ3NjFhNjE5ZWY2MWFmZjk1YzJiNzNlOTNl`
+Snapshot ID: `MCxjNjI2YjcyM2FmYmY5ZjQ2MzczZGE2YzU5Mzg4NDVjMTFjYWJkYWM2`

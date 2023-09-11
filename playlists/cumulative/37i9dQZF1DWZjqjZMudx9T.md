@@ -4,7 +4,7 @@
 
 > De la CALLE a la CIMA con Mora.
 
-274 songs - 15 hr 35 min
+275 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-07-07 |  |
 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 | 2022-09-02 | 2022-09-23 |
 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-04-20 | 2023-09-09 |
-| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 | 2023-09-11 |
 | [COSITAS](https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:15 | 2022-11-11 | 2023-01-14 |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-01-21 | 2022-03-26 |
 | [Cuarentena](https://open.spotify.com/track/3NzO25bvpU4lUf8kYvcrd1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Cuarentena](https://open.spotify.com/album/6gNn20ucl04E91XvLdMc1Z) | 2:11 | 2021-12-31 | 2022-02-05 |

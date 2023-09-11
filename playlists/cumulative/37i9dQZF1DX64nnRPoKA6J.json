@@ -430,7 +430,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 196093,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
@@ -2092,11 +2092,23 @@
         {
           "name": "Stardust",
           "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
+        },
+        {
+          "name": "Benjamin Diamond",
+          "url": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Thomas Bangalter",
+          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
         }
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 403293,
       "name": "Music Sounds Better With You",
       "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt"

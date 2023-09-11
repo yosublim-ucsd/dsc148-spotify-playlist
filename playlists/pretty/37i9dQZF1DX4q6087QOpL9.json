@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 79048,
+  "num_followers": 79162,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzZhNThiMWQyMzkwYmNjMTEzNWM3ZjMyN2JlNWU3MTJjOGRjM2M5",
+  "snapshot_id": "MCxmZWVlOGE5MjliY2M2YzViODdmYTBmZTQxNTZlNjUxYzExYmNiOWFm",
   "tracks": [
     {
       "added_at": "2023-09-06 10:51:27",
@@ -211,26 +211,6 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Thiwe",
-          "url": "https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve"
-        }
-      ],
-      "duration_ms": 466375,
-      "name": "Crazy - Quentin Harris Remix",
-      "url": "https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
         "name": "You're In My System",
         "url": "https://open.spotify.com/album/1Scs2iEwQ3DrCW5JzYJ091"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 351343,
       "name": "You're In My System - Original Mix",
       "url": "https://open.spotify.com/track/0ttcT1gEVaUy0Sat4jqnnd"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Thiwe",
+          "url": "https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve"
+        }
+      ],
+      "duration_ms": 466375,
+      "name": "Crazy - Quentin Harris Remix",
+      "url": "https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -423,22 +423,18 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "I Think I'll Do Some Stepping (On My Own) - OPOLOPO Rework",
-        "url": "https://open.spotify.com/album/4xR1Tz7NKnqwaPYvt3VlSX"
+        "name": "The Way You Love Me - Deluxe Re-Issue",
+        "url": "https://open.spotify.com/album/5XFybVXqX9Xhys2sd91eC1"
       },
       "artists": [
         {
-          "name": "Sandy Barber",
-          "url": "https://open.spotify.com/artist/5smHFUSf9HBHBw8Ce0mh2s"
-        },
-        {
-          "name": "Opolopo",
-          "url": "https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94"
+          "name": "Marc Evans",
+          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
         }
       ],
-      "duration_ms": 508111,
-      "name": "I Think I'll Do Some Stepping (On My Own) - OPOLOPO Rework",
-      "url": "https://open.spotify.com/track/0q6bCDZ8YCM4QyGofrSiSy"
+      "duration_ms": 399653,
+      "name": "The Way U Love Me",
+      "url": "https://open.spotify.com/track/5u2Bf96SjyWMKSrqAu9jUD"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -463,18 +459,22 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "The Way You Love Me - Deluxe Re-Issue",
-        "url": "https://open.spotify.com/album/5XFybVXqX9Xhys2sd91eC1"
+        "name": "I Think I'll Do Some Stepping (On My Own) - OPOLOPO Rework",
+        "url": "https://open.spotify.com/album/4xR1Tz7NKnqwaPYvt3VlSX"
       },
       "artists": [
         {
-          "name": "Marc Evans",
-          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
+          "name": "Sandy Barber",
+          "url": "https://open.spotify.com/artist/5smHFUSf9HBHBw8Ce0mh2s"
+        },
+        {
+          "name": "Opolopo",
+          "url": "https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94"
         }
       ],
-      "duration_ms": 399653,
-      "name": "The Way U Love Me",
-      "url": "https://open.spotify.com/track/5u2Bf96SjyWMKSrqAu9jUD"
+      "duration_ms": 508111,
+      "name": "I Think I'll Do Some Stepping (On My Own) - OPOLOPO Rework",
+      "url": "https://open.spotify.com/track/0q6bCDZ8YCM4QyGofrSiSy"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -691,46 +691,6 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "It's Over Now",
-        "url": "https://open.spotify.com/album/2OTynXGD4thV4JRXfKpCPf"
-      },
-      "artists": [
-        {
-          "name": "Waterstone",
-          "url": "https://open.spotify.com/artist/26EuK5ESLBjKNvR9lAIOG5"
-        },
-        {
-          "name": "Amanda Wilson",
-          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
-        }
-      ],
-      "duration_ms": 377768,
-      "name": "It's Over Now - Extended Vocal Mix",
-      "url": "https://open.spotify.com/track/76sTVWN1GTofI77lz4nlxk"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/1iWWc8Yads44yQcCJntXFq"
-      },
-      "artists": [
-        {
-          "name": "Ananda Project",
-          "url": "https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c"
-        },
-        {
-          "name": "Gaelle Adisson",
-          "url": "https://open.spotify.com/artist/7nGw9P67X1POjUDuf8ofFo"
-        }
-      ],
-      "duration_ms": 402800,
-      "name": "Cascades of Colour",
-      "url": "https://open.spotify.com/track/4Q1lNgOmrCPu5pnPHBDP3n"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/75yHjtmmdmIwY5lblJklzf"
       },
@@ -755,6 +715,46 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/1iWWc8Yads44yQcCJntXFq"
+      },
+      "artists": [
+        {
+          "name": "Ananda Project",
+          "url": "https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c"
+        },
+        {
+          "name": "Gaelle Adisson",
+          "url": "https://open.spotify.com/artist/7nGw9P67X1POjUDuf8ofFo"
+        }
+      ],
+      "duration_ms": 402800,
+      "name": "Cascades of Colour",
+      "url": "https://open.spotify.com/track/4Q1lNgOmrCPu5pnPHBDP3n"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
+        "name": "It's Over Now",
+        "url": "https://open.spotify.com/album/2OTynXGD4thV4JRXfKpCPf"
+      },
+      "artists": [
+        {
+          "name": "Waterstone",
+          "url": "https://open.spotify.com/artist/26EuK5ESLBjKNvR9lAIOG5"
+        },
+        {
+          "name": "Amanda Wilson",
+          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
+        }
+      ],
+      "duration_ms": 377768,
+      "name": "It's Over Now - Extended Vocal Mix",
+      "url": "https://open.spotify.com/track/76sTVWN1GTofI77lz4nlxk"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
         "name": "I Believe In Miracles",
         "url": "https://open.spotify.com/album/7skJgHIK6fM8oBz6REK82U"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 289849,
       "name": "I Believe In Miracles - Broken Party Animal Mix",
       "url": "https://open.spotify.com/track/7GHHZJ0tQu4SVSzvAKus6R"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
-        "name": "Michael",
-        "url": "https://open.spotify.com/album/6bKcuQcBLfUwfMycHOvWlF"
-      },
-      "artists": [
-        {
-          "name": "Roy Davis Jr.",
-          "url": "https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8"
-        }
-      ],
-      "duration_ms": 342800,
-      "name": "Michael - Love From San Francisco Dub",
-      "url": "https://open.spotify.com/track/7pPhKV991VkEc2oGCV7eSD"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -815,6 +799,22 @@
       "duration_ms": 310040,
       "name": "Colouration",
       "url": "https://open.spotify.com/track/5R0O1izXn9jy0PQn1Ki2Lt"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/6bKcuQcBLfUwfMycHOvWlF"
+      },
+      "artists": [
+        {
+          "name": "Roy Davis Jr.",
+          "url": "https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "Michael - Love From San Francisco Dub",
+      "url": "https://open.spotify.com/track/7pPhKV991VkEc2oGCV7eSD"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "He Is The Joy",
-        "url": "https://open.spotify.com/album/1QuipireXfiZkcHNOV3Up6"
-      },
-      "artists": [
-        {
-          "name": "Donna Allen",
-          "url": "https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ"
-        },
-        {
-          "name": "Urban Blues Project",
-          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
-        }
-      ],
-      "duration_ms": 546000,
-      "name": "He Is The Joy - U.B.P. Classic Mix",
-      "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
         "name": "Here to There",
         "url": "https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy"
       },
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
+        "name": "He Is The Joy",
+        "url": "https://open.spotify.com/album/1QuipireXfiZkcHNOV3Up6"
+      },
+      "artists": [
+        {
+          "name": "Donna Allen",
+          "url": "https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ"
+        },
+        {
+          "name": "Urban Blues Project",
+          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
+        }
+      ],
+      "duration_ms": 546000,
+      "name": "He Is The Joy - U.B.P. Classic Mix",
+      "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
         "name": "Collection 1999-2011",
         "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 269572,
-      "name": "Night Visions",
-      "url": "https://open.spotify.com/track/3ChSgzeihSYujR3JpKk9De"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
         "name": "Defined",
         "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 342893,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 269572,
+      "name": "Night Visions",
+      "url": "https://open.spotify.com/track/3ChSgzeihSYujR3JpKk9De"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -1347,22 +1347,18 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "Basic Blaze",
-        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
+        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
+        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
       },
       "artists": [
         {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        },
-        {
-          "name": "Palmer Brown",
-          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
         }
       ],
-      "duration_ms": 319760,
-      "name": "My Beat - feat. Palmer Brown",
-      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
+      "duration_ms": 642782,
+      "name": "Swimming Places",
+      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -1391,34 +1387,22 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
-        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
+        "name": "Basic Blaze",
+        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
       },
       "artists": [
         {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
-        }
-      ],
-      "duration_ms": 642782,
-      "name": "Swimming Places",
-      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
-        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
-        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
-      },
-      "artists": [
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
         {
-          "name": "Kenny Dixon Jr.",
-          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
+          "name": "Palmer Brown",
+          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
         }
       ],
-      "duration_ms": 285617,
-      "name": "Soul Sounds - Mixed",
-      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
+      "duration_ms": 319760,
+      "name": "My Beat - feat. Palmer Brown",
+      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -1439,26 +1423,18 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "Never Saw You Coming",
-        "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
+        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
       },
       "artists": [
         {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Tsepo Tshola",
-          "url": "https://open.spotify.com/artist/0EBplhirl0JcMSVLO9bF1k"
-        },
-        {
-          "name": "DJ Spinna",
-          "url": "https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc"
+          "name": "Kenny Dixon Jr.",
+          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
         }
       ],
-      "duration_ms": 508266,
-      "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
-      "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
+      "duration_ms": 285617,
+      "name": "Soul Sounds - Mixed",
+      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -1519,6 +1495,30 @@
       "duration_ms": 361653,
       "name": "Free - Andr\u00e9s Remix",
       "url": "https://open.spotify.com/track/4OS4TRXB2bBVDGO2hEqBgS"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
+        "name": "Never Saw You Coming",
+        "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Tsepo Tshola",
+          "url": "https://open.spotify.com/artist/0EBplhirl0JcMSVLO9bF1k"
+        },
+        {
+          "name": "DJ Spinna",
+          "url": "https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc"
+        }
+      ],
+      "duration_ms": 508266,
+      "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
+      "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "Word, Sound & Power",
-        "url": "https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
-        }
-      ],
-      "duration_ms": 641584,
-      "name": "Morning Factory",
-      "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
         "name": "Love's Been Right Here",
         "url": "https://open.spotify.com/album/4pyTC09XaKrvHkZ990Ao3J"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 455505,
       "name": "Love's Been Right Here - DJ Spen & Gary Hudgins Remix",
       "url": "https://open.spotify.com/track/0I0Cp90UWNjsg3iOFW3iR5"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
+        "name": "Word, Sound & Power",
+        "url": "https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        }
+      ],
+      "duration_ms": 641584,
+      "name": "Morning Factory",
+      "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
+        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
+        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 584040,
+      "name": "Love Calls - Darryl James Mix",
+      "url": "https://open.spotify.com/track/2FcCm2RoIEKs8EfApaZt6P"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
         "name": "Track 1 Revisited - Single",
         "url": "https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 401400,
       "name": "Alibi - Dennis F's Out On Bail Mix",
       "url": "https://open.spotify.com/track/057swhFYVLbnaU8elKKUin"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
-        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
-        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 584040,
-      "name": "Love Calls - Darryl James Mix",
-      "url": "https://open.spotify.com/track/2FcCm2RoIEKs8EfApaZt6P"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -2167,6 +2167,34 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
+        "name": "For The Culture (Sean McCabe & Black Sonix Remix)",
+        "url": "https://open.spotify.com/album/5hvhL20Q3hGxuZ6U7ZIhXf"
+      },
+      "artists": [
+        {
+          "name": "The Journey Men",
+          "url": "https://open.spotify.com/artist/6WVT3vw4kx4gskTAcpJulr"
+        },
+        {
+          "name": "Mike City",
+          "url": "https://open.spotify.com/artist/4b8jP3BNzAfeaKqd4Whlvd"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        },
+        {
+          "name": "Black Sonix",
+          "url": "https://open.spotify.com/artist/6ePv8p63HwNzcwz39BgHKm"
+        }
+      ],
+      "duration_ms": 247918,
+      "name": "For The Culture - Sean McCabe & Black Sonix Remix Edit",
+      "url": "https://open.spotify.com/track/7HOZfuZ9OzOtfHfOW3XNaK"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
         "name": "Dangerous Vibes",
         "url": "https://open.spotify.com/album/66FlxzmcI8adLafeoppLCp"
       },
@@ -2211,34 +2239,6 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "For The Culture (Sean McCabe & Black Sonix Remix)",
-        "url": "https://open.spotify.com/album/5hvhL20Q3hGxuZ6U7ZIhXf"
-      },
-      "artists": [
-        {
-          "name": "The Journey Men",
-          "url": "https://open.spotify.com/artist/6WVT3vw4kx4gskTAcpJulr"
-        },
-        {
-          "name": "Mike City",
-          "url": "https://open.spotify.com/artist/4b8jP3BNzAfeaKqd4Whlvd"
-        },
-        {
-          "name": "Sean McCabe",
-          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
-        },
-        {
-          "name": "Black Sonix",
-          "url": "https://open.spotify.com/artist/6ePv8p63HwNzcwz39BgHKm"
-        }
-      ],
-      "duration_ms": 247918,
-      "name": "For The Culture - Sean McCabe & Black Sonix Remix Edit",
-      "url": "https://open.spotify.com/track/7HOZfuZ9OzOtfHfOW3XNaK"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
         "name": "Warning (Radio Edit)",
         "url": "https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD"
       },
@@ -2263,6 +2263,26 @@
       "duration_ms": 232258,
       "name": "Warning - Radio Edit",
       "url": "https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/6uPlPqAVtZNiYC8Qck1swM"
+      },
+      "artists": [
+        {
+          "name": "Staxx",
+          "url": "https://open.spotify.com/artist/5YCyz9Of2IErCRiM7qXwDI"
+        },
+        {
+          "name": "Dr Packer",
+          "url": "https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "Joy - Dr Packer Remix",
+      "url": "https://open.spotify.com/track/4k4wT8eYhdfhQ9M262drm1"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -2303,26 +2323,6 @@
       "duration_ms": 483573,
       "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
       "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/6uPlPqAVtZNiYC8Qck1swM"
-      },
-      "artists": [
-        {
-          "name": "Staxx",
-          "url": "https://open.spotify.com/artist/5YCyz9Of2IErCRiM7qXwDI"
-        },
-        {
-          "name": "Dr Packer",
-          "url": "https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm"
-        }
-      ],
-      "duration_ms": 210491,
-      "name": "Joy - Dr Packer Remix",
-      "url": "https://open.spotify.com/track/4k4wT8eYhdfhQ9M262drm1"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/3yuKDNV15fE0ttSmT2riCj"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 380020,
       "name": "Love Come Down - Main Mix",
       "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "Deep House Anthems",
-        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
-        }
-      ],
-      "duration_ms": 504933,
-      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
-      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
         "name": "Fix Your Love",
         "url": "https://open.spotify.com/album/4Yinw5qIb3dMxdmSGQdYmP"
       },
@@ -2555,6 +2539,38 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
+        "name": "Deep House Anthems",
+        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "duration_ms": 504933,
+      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
+      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
+        "name": "Black Resurrection",
+        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 525130,
+      "name": "Spiritually Speaking",
+      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
         "name": "Seven Ways To Wonder (The Remixes)",
         "url": "https://open.spotify.com/album/6lr0dRBpTY8mRXgHGDDRQB"
       },
@@ -2575,22 +2591,6 @@
       "duration_ms": 453386,
       "name": "Outta Love - Alix Alvarez Sole Channel Remix",
       "url": "https://open.spotify.com/track/4sUdysO4MnWWwWhc72xOhv"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
-        "name": "Black Resurrection",
-        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 525130,
-      "name": "Spiritually Speaking",
-      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -2743,6 +2743,26 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
+      },
+      "artists": [
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        },
+        {
+          "name": "Tkumah Sadeek",
+          "url": "https://open.spotify.com/artist/7dtp0FfcaR3gVdMtZvooYH"
+        }
+      ],
+      "duration_ms": 530459,
+      "name": "Crossroads - Vocal Mix",
+      "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
         "name": "Love and Devotion",
         "url": "https://open.spotify.com/album/4FRzsqXyeqlFjB6azOBOuF"
       },
@@ -2775,26 +2795,6 @@
       "duration_ms": 402088,
       "name": "Dem People Go - Get Out! Mix",
       "url": "https://open.spotify.com/track/51QIC18zwmCwzzubAmVFod"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
-      },
-      "artists": [
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
-        },
-        {
-          "name": "Tkumah Sadeek",
-          "url": "https://open.spotify.com/artist/7dtp0FfcaR3gVdMtZvooYH"
-        }
-      ],
-      "duration_ms": 530459,
-      "name": "Crossroads - Vocal Mix",
-      "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -2843,26 +2843,6 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4FQ6GPr9THpyZh2AlbHB26"
-      },
-      "artists": [
-        {
-          "name": "Risksoundsystem",
-          "url": "https://open.spotify.com/artist/4OpU2Yc6oQQKLgvOyO2JLc"
-        },
-        {
-          "name": "Marc Evans",
-          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
-        }
-      ],
-      "duration_ms": 414720,
-      "name": "Closer - Original Mix",
-      "url": "https://open.spotify.com/track/2aWKUNDJI9dpEGQY2BVtjb"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/3RwDXsnqjYwdSKYnsm2xrM"
       },
@@ -2883,18 +2863,22 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "Deep Creations EP",
-        "url": "https://open.spotify.com/album/7bxC08H2DI2AjrOeHlEC85"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4FQ6GPr9THpyZh2AlbHB26"
       },
       "artists": [
         {
-          "name": "Jon Cutler",
-          "url": "https://open.spotify.com/artist/6vmRl3VuXiU126ssJufx2Z"
+          "name": "Risksoundsystem",
+          "url": "https://open.spotify.com/artist/4OpU2Yc6oQQKLgvOyO2JLc"
+        },
+        {
+          "name": "Marc Evans",
+          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
         }
       ],
-      "duration_ms": 421935,
-      "name": "Headz",
-      "url": "https://open.spotify.com/track/4cLBJzfMsha3cGj2zqnAQK"
+      "duration_ms": 414720,
+      "name": "Closer - Original Mix",
+      "url": "https://open.spotify.com/track/2aWKUNDJI9dpEGQY2BVtjb"
     },
     {
       "added_at": "2023-09-06 10:51:27",
@@ -2923,6 +2907,22 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
+        "name": "Deep Creations EP",
+        "url": "https://open.spotify.com/album/7bxC08H2DI2AjrOeHlEC85"
+      },
+      "artists": [
+        {
+          "name": "Jon Cutler",
+          "url": "https://open.spotify.com/artist/6vmRl3VuXiU126ssJufx2Z"
+        }
+      ],
+      "duration_ms": 421935,
+      "name": "Headz",
+      "url": "https://open.spotify.com/track/4cLBJzfMsha3cGj2zqnAQK"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
         "name": "Blaque House",
         "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
       },
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2023-09-06 10:51:27",
       "album": {
-        "name": "T. Williams - EP",
-        "url": "https://open.spotify.com/album/18jM8fMBY5MX7uS9toKDFj"
-      },
-      "artists": [
-        {
-          "name": "T.Williams",
-          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
-        }
-      ],
-      "duration_ms": 369866,
-      "name": "Afric",
-      "url": "https://open.spotify.com/track/3K4qw8z8Xi8JZk2LhGFSoL"
-    },
-    {
-      "added_at": "2023-09-06 10:51:27",
-      "album": {
         "name": "The Best of Blaze, Vol. 2 - Hubert Street",
         "url": "https://open.spotify.com/album/4FOV54XWPqa1sQDXgGdafZ"
       },
@@ -2967,6 +2951,22 @@
       "duration_ms": 413200,
       "name": "Take a Stand - Blaze Shelter Mix",
       "url": "https://open.spotify.com/track/7xsfE9vCuyXqKY2jtxgGYn"
+    },
+    {
+      "added_at": "2023-09-06 10:51:27",
+      "album": {
+        "name": "T. Williams - EP",
+        "url": "https://open.spotify.com/album/18jM8fMBY5MX7uS9toKDFj"
+      },
+      "artists": [
+        {
+          "name": "T.Williams",
+          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
+        }
+      ],
+      "duration_ms": 369866,
+      "name": "Afric",
+      "url": "https://open.spotify.com/track/3K4qw8z8Xi8JZk2LhGFSoL"
     },
     {
       "added_at": "2023-09-06 10:51:27",

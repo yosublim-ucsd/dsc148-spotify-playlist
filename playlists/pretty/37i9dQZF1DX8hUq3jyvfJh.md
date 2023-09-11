@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Juliette e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,297 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,337 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,22 +26,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 16 | [5 contra 1 \- Live](https://open.spotify.com/track/1io4V9LDLXZwEglQZKq8zO) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ LIVE](https://open.spotify.com/album/0E3HbvHoAFMaYVKExpTQnP) | 2:53 |
 | 17 | [Ovelha Negra \- Acústico MTV](https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acústico MTV Manu Gavassi Canta Fruto Proibido](https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt) | 4:55 |
 | 18 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 |
-| 19 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
-| 20 | [danos colaterais](https://open.spotify.com/track/6NpyaGzRIy3ZAyrWp7GAiC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [danos colaterais](https://open.spotify.com/album/3HqcMHOo5q5TKiW758pE9y) | 2:41 |
+| 19 | [danos colaterais](https://open.spotify.com/track/6NpyaGzRIy3ZAyrWp7GAiC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [danos colaterais](https://open.spotify.com/album/3HqcMHOo5q5TKiW758pE9y) | 2:41 |
+| 20 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
 | 21 | [INÍCIO DO FIM](https://open.spotify.com/track/1xJV8NLJOXS9X0gLw2KDqv) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 3:06 |
 | 22 | [A.N.A.N.D.A.](https://open.spotify.com/track/19N3cwfpPVn61lTNLPlG8X) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A.N.A.N.D.A.](https://open.spotify.com/album/6Sanh4zYrUafHTxedmfea1) | 2:27 |
 | 23 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
-| 24 | [Bomba](https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3) | [Priscilla](https://open.spotify.com/artist/2kAllRyiZRNrD6nty4j3IV) | [Bomba](https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo) | 2:16 |
-| 25 | [Amigos Não Se Pegam](https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Amigos Não Se Pegam](https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr) | 2:45 |
-| 26 | [desculpa, qualquer coisa](https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [tudo, eu, enfim.](https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq) | 3:54 |
+| 24 | [desculpa, qualquer coisa](https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [tudo, eu, enfim.](https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq) | 3:54 |
+| 25 | [Bomba](https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3) | [Priscilla](https://open.spotify.com/artist/2kAllRyiZRNrD6nty4j3IV) | [Bomba](https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo) | 2:16 |
+| 26 | [Amigos Não Se Pegam](https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Amigos Não Se Pegam](https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr) | 2:45 |
 | 27 | [cABeçA De VEnTo](https://open.spotify.com/track/7xehHTNvc8fQEbNDfoE16P) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [cABeçA De VEnTo](https://open.spotify.com/album/2giZ7WnTkyie1TJJOoTEPX) | 2:45 |
 | 28 | [Libera a Pressão](https://open.spotify.com/track/1XbEcV9RjfGy3nUoya9yvA) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Libera a Pressão](https://open.spotify.com/album/3gMEKirJ3O9aHoZCxUSkeK) | 2:00 |
 | 29 | [Nem Eu Me Entendo](https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Múltipla](https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2) | 2:41 |
-| 30 | [ainda te busco](https://open.spotify.com/track/2kvGNBQ5Sf1Sh2ojXbwxoX) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [KARUMA](https://open.spotify.com/album/5UBuUGbxBmntnQLvkJNg1i) | 2:25 |
+| 30 | [Chá De Camomila](https://open.spotify.com/track/6HEbNUXxMipde8vEtSZ49N) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 3:11 |
 | 31 | [Desculpa te Ligar \- Versão Estendida, Ao Vivo](https://open.spotify.com/track/2gJaKTrXgaNQzAbNRCJSkK) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Desculpa te Ligar \(Versão Estendida, Ao Vivo\)](https://open.spotify.com/album/0ZcuzvxFwJXLhiidHmPJDQ) | 3:28 |
-| 32 | [Chá De Camomila](https://open.spotify.com/track/6HEbNUXxMipde8vEtSZ49N) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 3:11 |
-| 33 | [Casa Comigo?](https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Casa Comigo?](https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr) | 2:39 |
-| 34 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
+| 32 | [ainda te busco](https://open.spotify.com/track/2kvGNBQ5Sf1Sh2ojXbwxoX) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [KARUMA](https://open.spotify.com/album/5UBuUGbxBmntnQLvkJNg1i) | 2:25 |
+| 33 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
+| 34 | [Casa Comigo?](https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Casa Comigo?](https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr) | 2:39 |
 | 35 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
 | 36 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 |
 | 37 | [Fim de Semana](https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ) | [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Fim de Semana](https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [ATÉ O AMANHECER](https://open.spotify.com/track/65ZF0SDgHrIhSYXLYaZ47S) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [ATÉ O AMANHECER](https://open.spotify.com/album/6i8zv9CCuIszeZZxa3i6Uo) | 3:29 |
 | 50 | [Sem Tédio](https://open.spotify.com/track/6LIOqJseCbEpEVLkMkjp7U) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:00 |
 
-Snapshot ID: `MCxmZWI3ODg5ZDVlZDIwYTNjMDZkNmMyNjY0ODg2NzBjMGQzNmMyZWIy`
+Snapshot ID: `MCw2NDc3ODM0MWI0MzU4MjIzMjc3YjQ0NWI4ZWZkMGQ1YjQxYTc1YzEy`

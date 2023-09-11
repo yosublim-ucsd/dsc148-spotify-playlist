@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Sael
 
-324 songs - 20 hr 4 min
+325 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Carita de Inocente](https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:11 | 2022-03-04 | 2022-07-29 |
 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 | 2022-03-04 | 2022-09-30 |
 | [Carmín \(feat\. Juan Luis Guerra\)](https://open.spotify.com/track/7feNblkR0A56vttsAGTyzK) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:28 | 2022-03-04 | 2022-07-29 |
+| [Celoso](https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Celoso](https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq) | 3:23 | 2023-09-01 |  |
 | [Ciudadana](https://open.spotify.com/track/7fCvGG97wqAIqtOxX87Uv1) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:33 | 2022-09-02 | 2022-09-10 |
 | [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 | 2023-04-28 |  |
 | [Como Abeja a la Flor](https://open.spotify.com/track/1XSIDSBoFIlXEy9WpxSMdo) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX) | [Como Abeja a la Flor](https://open.spotify.com/album/2FvnEzBegeI1BjMpGwhuIX) | 3:51 | 2022-03-04 | 2022-09-03 |
@@ -294,7 +295,7 @@
 | [Suegra](https://open.spotify.com/track/3DGvNJcyicD4gHoVEvH86P) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:44 | 2022-09-02 | 2022-09-10 |
 | [Sus Huellas](https://open.spotify.com/track/7fBuy1fdHEwG3mRdlHNM41) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:34 | 2022-09-09 | 2022-10-28 |
 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 | 2022-03-04 | 2022-09-10 |
-| [Tatuaje](https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 3:51 | 2022-09-09 |  |
+| [Tatuaje](https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 3:51 | 2022-09-09 | 2023-09-11 |
 | [Tatuaje](https://open.spotify.com/track/7qvnwfrklCpXozI4ZDU3qc) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL) | [Tatuaje](https://open.spotify.com/album/1PG3xm0A5CkuLONdSC0VyO) | 3:50 | 2022-03-04 | 2022-09-03 |
 | [Te Espero](https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Espero](https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK) | 4:06 | 2022-03-04 | 2023-09-06 |
 | [Te Extraño \- Bachata Version](https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:32 | 2022-03-04 |  |

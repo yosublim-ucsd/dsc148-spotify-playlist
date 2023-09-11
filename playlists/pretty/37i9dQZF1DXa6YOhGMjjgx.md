@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The very best of the alternative rock scene\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,703 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,711 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 35 | [Lava Lamp Pisco](https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 4:01 |
 | 36 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
 | 37 | [Preacher](https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Preacher](https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3) | 1:45 |
-| 38 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 |
-| 39 | [Superglue](https://open.spotify.com/track/1WvyvGWoB0IprROWOnj711) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Superglue \(Vevo DSCVR\)](https://open.spotify.com/album/6ysCt6q2kORt5JMdPOonD1) | 4:10 |
+| 38 | [Superglue](https://open.spotify.com/track/1WvyvGWoB0IprROWOnj711) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Superglue \(Vevo DSCVR\)](https://open.spotify.com/album/6ysCt6q2kORt5JMdPOonD1) | 4:10 |
+| 39 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 |
 | 40 | [More Than This](https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:02 |
 | 41 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
 | 42 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 48 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 |
 | 49 | [All I Wanna Do Is Hate](https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [All I Wanna Do Is Hate](https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz) | 2:45 |
 | 50 | [This Won't Go Over Well](https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [This Won't Go Over Well](https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259) | 3:24 |
-| 51 | [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 |
-| 52 | [Make A Dime](https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [What's So Fucking Funny?](https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG) | 2:56 |
+| 51 | [Make A Dime](https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [What's So Fucking Funny?](https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG) | 2:56 |
+| 52 | [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 |
 | 53 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 54 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 |
 | 55 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
@@ -73,20 +73,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 63 | [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
 | 64 | [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 |
 | 65 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 |
-| 66 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 |
-| 67 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:49 |
-| 68 | [How Far Can You Push A Man?](https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [How Far Can You Push A Man?](https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg) | 4:03 |
-| 69 | [Seven White Horses](https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Seven White Horses](https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB) | 3:40 |
-| 70 | [STATUES \(v2\)](https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [STATUES \(v2\)](https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH) | 4:53 |
-| 71 | [Missile Command](https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:24 |
-| 72 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
+| 66 | [Sweet & Sour America](https://open.spotify.com/track/59vcPuuPULBU5Conczvnuh) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Sweet & Sour America](https://open.spotify.com/album/3R8rOhhzsMZ4i18xTR3LTm) | 3:12 |
+| 67 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 |
+| 68 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:49 |
+| 69 | [How Far Can You Push A Man?](https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [How Far Can You Push A Man?](https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg) | 4:03 |
+| 70 | [Seven White Horses](https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Seven White Horses](https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB) | 3:40 |
+| 71 | [STATUES \(v2\)](https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [STATUES \(v2\)](https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH) | 4:53 |
+| 72 | [Missile Command](https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:24 |
 | 73 | [Choking](https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:07 |
-| 74 | [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 |
+| 74 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
 | 75 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 |
-| 76 | [Stranded](https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 4:01 |
+| 76 | [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 |
 | 77 | [Left Right Forward](https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Left Right Forward](https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE) | 2:55 |
-| 78 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 |
-| 79 | [Sweet & Sour America](https://open.spotify.com/track/59vcPuuPULBU5Conczvnuh) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Sweet & Sour America](https://open.spotify.com/album/3R8rOhhzsMZ4i18xTR3LTm) | 3:12 |
+| 78 | [Stranded](https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 4:01 |
+| 79 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 |
 | 80 | [SAY IT](https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv) | [NEW LANGUAGE](https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL) | [SAY IT](https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH) | 2:41 |
 | 81 | [Common Chaos](https://open.spotify.com/track/231wGywsY9is10w83qwrwC) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Common Chaos](https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo) | 2:51 |
 | 82 | [If I Believed In Love](https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 99 | [Torpedo](https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/45FNVeKY799LKTNL4SmaGx) | 3:44 |
 | 100 | [Where Do We Go From Here?](https://open.spotify.com/track/4IXi93psmDt4xcqRb52CT5) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Where Do We Go From Here?](https://open.spotify.com/album/4mugwf4oHm7gG12MrLJsJV) | 3:08 |
 
-Snapshot ID: `MCw4ZmYzZDU0MTEzZGRmYmIyNzIwMDA0N2Q0NTFjMTVlMjBmM2NiMzVj`
+Snapshot ID: `MCw3NWUxYjQwYWI0MGEyM2Q4MTk5M2I2Mjc1ZWUwZjQ2MDY2MTVlYjA3`

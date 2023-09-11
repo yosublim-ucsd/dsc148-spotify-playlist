@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Dali Mata y Breton en portada.",
-  "num_followers": 96577,
+  "num_followers": 96576,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGI2OTc3NDVmOTkwN2ZkYjcwY2Q0MjgwMTI0MGVmZmM3ZmMxNTdl",
+  "snapshot_id": "MCw4MzVlN2YzMDE5NWQzOTY1YjkxMWMyNWMzZDBiY2ZmZDViMGExZWIy",
   "tracks": [
     {
       "added_at": "2023-09-01 16:37:39",
@@ -571,8 +571,8 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "Ni Modo",
-        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 185058,
-      "name": "Ni Modo",
-      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
+      "duration_ms": 168125,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -747,8 +747,8 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+        "name": "Ni Modo",
+        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 168125,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
+      "duration_ms": 185058,
+      "name": "Ni Modo",
+      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "SIN TI",
-        "url": "https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG"
-      },
-      "artists": [
-        {
-          "name": "Costa de \u00c1mbar",
-          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "SIN TI",
-      "url": "https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e"
-    },
-    {
-      "added_at": "2023-09-01 16:37:39",
-      "album": {
         "name": "Te Rendiste en Mi",
         "url": "https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 148353,
       "name": "Te Rendiste en Mi",
       "url": "https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6"
+    },
+    {
+      "added_at": "2023-09-01 16:37:39",
+      "album": {
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG"
+      },
+      "artists": [
+        {
+          "name": "Costa de \u00c1mbar",
+          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -975,26 +975,6 @@
       "duration_ms": 186748,
       "name": "Que no me encuentre",
       "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
-    },
-    {
-      "added_at": "2023-09-01 16:37:39",
-      "album": {
-        "name": "Todo Lo Que Hay",
-        "url": "https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7"
-      },
-      "artists": [
-        {
-          "name": "Costa de \u00c1mbar",
-          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
-        },
-        {
-          "name": "Venado Meraki",
-          "url": "https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB"
-        }
-      ],
-      "duration_ms": 169441,
-      "name": "Todo Lo Que Hay",
-      "url": "https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -1095,6 +1075,26 @@
       "duration_ms": 234466,
       "name": "Tu Despedida",
       "url": "https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz"
+    },
+    {
+      "added_at": "2023-09-01 16:37:39",
+      "album": {
+        "name": "Todo Lo Que Hay",
+        "url": "https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7"
+      },
+      "artists": [
+        {
+          "name": "Costa de \u00c1mbar",
+          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
+        },
+        {
+          "name": "Venado Meraki",
+          "url": "https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB"
+        }
+      ],
+      "duration_ms": 169441,
+      "name": "Todo Lo Que Hay",
+      "url": "https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "Problema",
-        "url": "https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 164086,
-      "name": "Problema",
-      "url": "https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT"
-    },
-    {
-      "added_at": "2023-09-01 16:37:39",
-      "album": {
         "name": "El Fin",
         "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 177813,
       "name": "El Fin",
       "url": "https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N"
+    },
+    {
+      "added_at": "2023-09-01 16:37:39",
+      "album": {
+        "name": "Problema",
+        "url": "https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 164086,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT"
     }
   ],
   "unique_name": "madera y miel",

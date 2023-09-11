@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,055 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,179 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 6 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 |
 | 7 | [Cheers To Goodbye \(feat\. Spencer Charnas\)](https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [Cheers To Goodbye \(feat\. Spencer Charnas\)](https://open.spotify.com/album/4RLmfkEmhjFeNYZ0hS2WB5) | 3:46 |
 | 8 | [Handshakes With Snakes](https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Handshakes With Snakes](https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD) | 1:57 |
-| 9 | [Drown](https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Drown](https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge) | 2:46 |
-| 10 | [Yuve Yuve Yu](https://open.spotify.com/track/2huR9BaWUtNT8Txwy3nPOx) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Gereg](https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ) | 4:42 |
+| 9 | [Yuve Yuve Yu](https://open.spotify.com/track/2huR9BaWUtNT8Txwy3nPOx) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Gereg](https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ) | 4:42 |
+| 10 | [Drown](https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Drown](https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge) | 2:46 |
 | 11 | [DOMINATION](https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [DOMINATION](https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob) | 2:48 |
 | 12 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
 | 13 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 36 | [Caterpillar](https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [Caterpillar](https://open.spotify.com/album/1su4sMJNmHerXssClObphO) | 3:25 |
 | 37 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 38 | [Storm](https://open.spotify.com/track/5C4y8xih0UowIf9yPgSAYT) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A) | [Silver Lake by Esa Holopainen](https://open.spotify.com/album/2zWSbMftaoejsLk66Rzsj4) | 4:14 |
-| 39 | [At the Seams](https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 3:09 |
-| 40 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 |
+| 39 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 |
+| 40 | [At the Seams](https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 3:09 |
 | 41 | [Heaviness](https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8) | [LIONFIGHT](https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP) | [An Investigation Into Perceived Heaviness](https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt) | 3:55 |
 | 42 | [Dopamine](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [From Voodoo to Zen](https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8) | 4:49 |
 | 43 | [WRAITH](https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 3:19 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 63 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
 | 64 | [Black Brick](https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Black Brick](https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq) | 7:27 |
 | 65 | [Into The Void \- Single Edit](https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites \(Deluxe Edition\)](https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T) | 3:30 |
-| 66 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 |
-| 67 | [I Can't Breathe](https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 1:18 |
+| 66 | [I Can't Breathe](https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 1:18 |
+| 67 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 |
 | 68 | [Going Under](https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Going Under](https://open.spotify.com/album/1HqFkGXZGw489mMw2xVC9g) | 3:13 |
 | 69 | [With You](https://open.spotify.com/track/6BDDpHza9P19logSNepfSy) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [The Weight That Holds Me Here](https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84) | 3:06 |
 | 70 | [Make It Out Alive](https://open.spotify.com/track/6lBIyFHLLDe30Rg4kvt9Kw) | [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3), [Sentinel Complex](https://open.spotify.com/artist/31K3DcAhtW5bcuFOcNumWK), [Man Ov God](https://open.spotify.com/artist/5IoAhDxIVxXuhZWd1GchB9) | [Make It Out Alive](https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 79 | [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 |
 | 80 | [Arcana Imperii](https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh) | 4:53 |
 
-Snapshot ID: `MCwxYzRhZjI1YTA2OTIxNDMzZjk2MjBjOGI4MmFhMjQxMzU3OGYwMmI3`
+Snapshot ID: `MCw1ZjY0NzMzMDA3YjE3MWUxZDY3NDU0YmNkYThmNTc0MjZkYjg2MjUy`

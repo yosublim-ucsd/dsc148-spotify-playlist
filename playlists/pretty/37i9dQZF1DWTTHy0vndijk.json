@@ -1,12 +1,12 @@
 {
   "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: LEE CHAE YEON(\uc774\ucc44\uc5f0) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 530190,
+  "num_followers": 530246,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjA1NTJlOGRmYmRhNTM1M2I2ZWU2YzI3OTc0M2FlOGU1ZGFkNWRh",
+  "snapshot_id": "MCw1NDU0Yjc1MDJiYjBlZTdlMDdlMDM0NmFmNDEwZGFlMDNhMTQ2YzFj",
   "tracks": [
     {
       "added_at": "2023-09-06 09:32:22",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-06 09:32:22",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f"
-    },
-    {
-      "added_at": "2023-09-06 09:32:22",
-      "album": {
         "name": "Dear OHMYGIRL",
         "url": "https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 220560,
       "name": "Dun Dun Dance",
       "url": "https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF"
+    },
+    {
+      "added_at": "2023-09-06 09:32:22",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f"
     },
     {
       "added_at": "2023-09-06 09:32:22",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-09-06 09:32:22",
       "album": {
-        "name": "9 WAY TICKET",
-        "url": "https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "WE GO",
-      "url": "https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS"
-    },
-    {
-      "added_at": "2023-09-06 09:32:22",
-      "album": {
         "name": "Golden Hourglass",
         "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 200493,
       "name": "Summer Comes",
       "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"
+    },
+    {
+      "added_at": "2023-09-06 09:32:22",
+      "album": {
+        "name": "9 WAY TICKET",
+        "url": "https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "WE GO",
+      "url": "https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS"
     },
     {
       "added_at": "2023-09-06 09:32:22",

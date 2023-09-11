@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-239 songs - 11 hr 55 min
+240 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Tablas](https://open.spotify.com/track/5jb4RcGMQHZFhjXRaXekCI) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Tablas](https://open.spotify.com/album/2mxV8Z4MkfRvT5TzJOeISk) | 2:22 | 2021-09-03 | 2022-07-17 |
 | [Tangatutanga](https://open.spotify.com/track/4OxWepIRN3GXUxF7g4Kwvq) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua) | 1:28 | 2021-09-03 | 2022-07-29 |
 | [Tangatutanga](https://open.spotify.com/track/6jKsTrjBw58EylG0U0Pxws) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 1:28 | 2021-09-03 |  |
-| [Tequila](https://open.spotify.com/track/020XZ8mDVjzbnmvjL6GKls) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Go Champs Go!](https://open.spotify.com/album/56dcDUhBf8fOnveET5B61r) | 2:15 | 2021-09-03 |  |
+| [Tequila](https://open.spotify.com/track/020XZ8mDVjzbnmvjL6GKls) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Go Champs Go!](https://open.spotify.com/album/56dcDUhBf8fOnveET5B61r) | 2:15 | 2021-09-03 | 2023-09-11 |
 | [Tequila](https://open.spotify.com/track/6iBdawbfBxb7op85Ydd9C7) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Surf Party: Best Of The Surfaris \- Live!](https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4) | 2:42 | 2021-09-03 |  |
 | [Terremoto](https://open.spotify.com/track/57819d21abP6AB4L2jFgAy) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/26eEerapTfJvphEBK0mks5) | 3:09 | 2021-09-03 | 2022-07-29 |
 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 | 2021-09-03 |  |
@@ -227,6 +227,7 @@
 | [The Guns Of Brixton](https://open.spotify.com/track/2T1I1KpJwkXEVeBnlm70Kn) | [The Anacondas](https://open.spotify.com/artist/32Ux0YK2riaKZNTMqeUiJz) | [The Anacondas](https://open.spotify.com/album/6ZJeq5JVmG2IAwKdwEVUWc) | 2:43 | 2021-09-03 | 2022-07-28 |
 | [The Last Wave](https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:07 | 2021-09-03 |  |
 | [The Trouble With Those Mothra Girls](https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 3:29 | 2021-09-03 |  |
+| [The Very Thought Of You](https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:48 | 2023-07-28 |  |
 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 | 2021-09-03 |  |
 | [Third Stone from the Sun](https://open.spotify.com/track/5aqZp6mHibX1qaPFabgDe2) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Calling Up Spirits](https://open.spotify.com/album/51KwH3TBjlgo5JE7FK6Fux) | 6:32 | 2023-07-28 |  |
 | [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 | 2021-09-03 | 2023-07-29 |

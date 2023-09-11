@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: V\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,228 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,522 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 30 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 31 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
 | 32 | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) | [WONWOO](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt), [MINGYU](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) | 2:54 |
-| 33 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 |
-| 34 | [Wishing On You](https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:14 |
-| 35 | [Love Me A Little](https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [THE UNSEEN](https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh) | 3:19 |
-| 36 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 |
+| 33 | [Wishing On You](https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:14 |
+| 34 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 |
+| 35 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 |
+| 36 | [Love Me A Little](https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [THE UNSEEN](https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh) | 3:19 |
 | 37 | [Yours](https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Yours](https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn) | 3:55 |
 | 38 | [Birthday](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Birthday \- SM STATION : NCT LAB](https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr) | 3:41 |
 | 39 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 46 | [LOLO](https://open.spotify.com/track/0LC7FqUsJ4NbS1kklXZH2y) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LOLO](https://open.spotify.com/album/5ZBe80f6DrwaoDt8DT9oB3) | 2:22 |
 | 47 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 |
 | 48 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
-| 49 | [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 |
+| 49 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
 | 50 | [Cry For Love](https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:30 |
-| 51 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
+| 51 | [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 |
 | 52 | [Forever Only](https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Forever Only \- SM STATION : NCT LAB](https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8) | 3:16 |
 | 53 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 54 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 69 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
 | 70 | [I AM SHAMPOO](https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [I AM SHAMPOO](https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe) | 2:21 |
 
-Snapshot ID: `MCxkMzIxZjYzZWU3NzdmYjNlYmQ0MTcyYTA1ZGRkOTkxZGFjMTYyODgx`
+Snapshot ID: `MCwxNjI2M2EzMzBmNzc4NjA5NTRmOGZmYmM1NDhmNjNhOGRiNTUzNmQz`

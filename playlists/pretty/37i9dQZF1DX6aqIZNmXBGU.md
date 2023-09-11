@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,519 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,527 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 43 | [Think Of You](https://open.spotify.com/track/3soRnznKdQHTMmuW6wiUDY) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Carter](https://open.spotify.com/album/6YHygEcxxMN8qc1tSir660) | 2:41 |
 | 44 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 |
 | 45 | [Leash \- Remastered](https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:08 |
-| 46 | [Badillac](https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 2:27 |
-| 47 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
+| 46 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
+| 47 | [Badillac](https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 2:27 |
 | 48 | [The Boy](https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Onion](https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W) | 3:02 |
 | 49 | [Ride A White Swan](https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx) | 2:11 |
 | 50 | [Tall Man Skinny Lady](https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa) | 4:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [No Song Unheard](https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [High Visibility](https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx) | 4:00 |
 | 60 | [Lick the Bag](https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 3:18 |
 
-Snapshot ID: `MCwzOTM2NGFkM2Y5ZjA4M2E3Y2I1N2VkNGMzM2U5ZDM3MWY5ZDNkYjM1`
+Snapshot ID: `MCw1ZTZhMjBlYWQ1YzU2NDE1ZjFmZDMxZmNjMjhlNmYxYTE1Yzg4OTZl`

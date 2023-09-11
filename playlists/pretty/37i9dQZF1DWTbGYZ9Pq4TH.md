@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,973 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,017 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 10 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 |
 | 11 | [L'ultima notte](https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [L'ultima notte](https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40) | 2:37 |
 | 12 | [Le luci della città](https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 2:57 |
-| 13 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 |
-| 14 | [Estate](https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Mentre Tutto Scorre \(Deluxe Version\)](https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86) | 2:58 |
+| 13 | [Estate](https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Mentre Tutto Scorre \(Deluxe Version\)](https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86) | 2:58 |
+| 14 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 |
 | 15 | [Ti dedico il silenzio](https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:54 |
 | 16 | [Completamente](https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [Completamente Sold Out](https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj) | 3:36 |
 | 17 | [La storia infinita](https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:27 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 44 | [Stanza Singola \(feat\. Tommaso Paradiso\)](https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Stanza Singola](https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc) | 3:16 |
 | 45 | [Poetica](https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Possibili Scenari](https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa) | 4:53 |
 | 46 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 |
-| 47 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 |
-| 48 | [Un attimo ancora](https://open.spotify.com/track/0rork59Tm6wKPD4SMTay1n) | [Gemelli Diversi](https://open.spotify.com/artist/1rmR17cbB34R3cKheHJBDZ) | [Gemelli Diversi](https://open.spotify.com/album/2win94a4gptG9kru2p6Hka) | 4:00 |
+| 47 | [Un attimo ancora](https://open.spotify.com/track/0rork59Tm6wKPD4SMTay1n) | [Gemelli Diversi](https://open.spotify.com/artist/1rmR17cbB34R3cKheHJBDZ) | [Gemelli Diversi](https://open.spotify.com/album/2win94a4gptG9kru2p6Hka) | 4:00 |
+| 48 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 |
 | 49 | [Rimmel](https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Rimmel](https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K) | 3:40 |
 | 50 | [Oggi Sono Io](https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [it.pop](https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t) | 3:48 |
 
-Snapshot ID: `MCw1OTQyYWViZDdiNWI4ZmQxODNjNWM4YjllYzk2MzIzYjFhN2FmZWQ1`
+Snapshot ID: `MCxhOGY0MGRjMTU5ZmEzMWZhZmZlZjEzY2Q0ZDk4ZTkzMTM2NmMwYTgz`

@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Alusp\u00fckse",
       "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 203369,
       "name": "ballad of a homeschooled girl",
       "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
@@ -5548,7 +5548,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
@@ -11246,7 +11246,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -14711,6 +14711,28 @@
     },
     {
       "album": {
+        "name": "LOVELY BASTARDS",
+        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116104,
+      "name": "LOVELY BASTARDS",
+      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
+    },
+    {
+      "album": {
         "name": "low down",
         "url": "https://open.spotify.com/album/6Q9y1eI1EbuyVt5md6SlOT"
       },
@@ -15100,7 +15122,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 248986,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
@@ -27630,7 +27652,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 151346,
       "name": "What's left in your mind",
       "url": "https://open.spotify.com/track/6o0hmoO92RZAhUAyJFf0fj"

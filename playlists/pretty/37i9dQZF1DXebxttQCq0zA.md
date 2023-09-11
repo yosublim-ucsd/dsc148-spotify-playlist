@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,549 likes - 204 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,008 likes - 204 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 203 | [Primordeal Instincts](https://open.spotify.com/track/2HFa8YQM9xXsaqquv8efKI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:20 |
 | 204 | [Sleeping Beauty](https://open.spotify.com/track/0Cks68XMF8C89s1zTfFtR2) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 3:11 |
 
-Snapshot ID: `MCw1Mjk1YzQ2YjMxOGRmMWY0OWQ4YzIzZGU5YWEwYzllODJlMDU0M2Y4`
+Snapshot ID: `MCxhYTE1MTI2YWZkMWZiOGMzNWE1ZjJiZmJhMTY0MzE0YjBhMDVkOWRk`

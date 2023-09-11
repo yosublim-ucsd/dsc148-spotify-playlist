@@ -4,7 +4,7 @@
 
 > A mix of the biggest pop, dance, and hip hop party songs\. Cover: Dua Lipa
 
-405 songs - 21 hr 25 min
+406 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [It's Getting Hot](https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Getting Hot](https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO) | 2:14 | 2023-08-04 |  |
 | [Jealousy \(feat\. blackbear\)](https://open.spotify.com/track/3MxvnLsw2nx9W12svVvmyr) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Jealousy \(feat\. blackbear\)](https://open.spotify.com/album/42HaB11yhZYG8jktiBkYHI) | 3:31 | 2021-12-02 | 2022-04-20 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-10-14 | 2022-11-30 |
-| [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-11-30 |  |
+| [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-11-30 | 2023-09-11 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-03-18 | 2022-04-21 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-12-02 | 2023-01-06 |
 | [Kiss My \(Uh Oh\)](https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:56 | 2021-12-02 | 2022-07-08 |
@@ -234,6 +234,7 @@
 | [MOVE \(feat\. Grace Jones & Tems\)](https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:23 | 2022-07-29 | 2022-08-13 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-04-15 | 2022-10-29 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-11-29 |  |
+| [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 | 2023-08-25 |  |
 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 | 2021-12-02 | 2022-07-27 |
 | [My Humps](https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb) | 3:06 | 2021-12-08 | 2022-04-20 |
 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 | 2022-04-22 | 2022-05-20 |

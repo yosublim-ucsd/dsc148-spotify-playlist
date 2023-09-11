@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie 2023: Bakar heats up, Slowdive's album & Jungle on repeat. ",
-  "num_followers": 2229354,
+  "num_followers": 2229353,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmY3OTZkODZkNGRhZmVmYmRjMzViZjIwYjFhNjI5ZmRiZjA2YjZm",
+  "snapshot_id": "MCxjNzExYjI0MWYyNGRjYmRlMjFkODhhNGY0YTJhNjFjMWQ1OGM0N2Ez",
   "tracks": [
     {
       "added_at": "2023-08-17 23:44:53",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "4runner",
         "url": "https://open.spotify.com/album/7HI6B7UBPjpK0I4PoTfsVu"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 265453,
       "name": "4runner",
       "url": "https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "added_at": "2023-09-01 02:22:07",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Touching Yourself",
-      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
-    },
-    {
       "added_at": "2023-07-19 04:00:00",
       "album": {
         "name": "i'll be okay",
@@ -775,6 +759,22 @@
       "duration_ms": 98750,
       "name": "Better",
       "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Touching Yourself",
+      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo"
     },
     {
-      "added_at": "2023-07-31 15:59:44",
-      "album": {
-        "name": "The Loveliest Time",
-        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 256528,
-      "name": "Kollage",
-      "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
-    },
-    {
       "added_at": "2023-08-23 23:58:36",
       "album": {
         "name": "Star b/w Heaven",
@@ -855,6 +839,22 @@
       "duration_ms": 179346,
       "name": "Star",
       "url": "https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC"
+    },
+    {
+      "added_at": "2023-07-31 15:59:44",
+      "album": {
+        "name": "The Loveliest Time",
+        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 256528,
+      "name": "Kollage",
+      "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Bubblegum",
-      "url": "https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT"
-    },
-    {
       "added_at": "2023-07-07 00:52:15",
       "album": {
         "name": "After Midnight (feat. Clairo)",
@@ -1071,6 +1055,22 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
     },
     {
-      "added_at": "2023-08-01 23:37:51",
-      "album": {
-        "name": "Loading",
-        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
-    },
-    {
       "added_at": "2023-07-07 00:52:15",
       "album": {
         "name": "Ordinary Love",
@@ -1135,6 +1119,22 @@
       "duration_ms": 263349,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
+    },
+    {
+      "added_at": "2023-08-01 23:37:51",
+      "album": {
+        "name": "Loading",
+        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
-    },
-    {
       "added_at": "2023-07-07 00:52:15",
       "album": {
         "name": "Bruise",
@@ -1347,6 +1331,22 @@
       "duration_ms": 179280,
       "name": "Bruise",
       "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Become",
-        "url": "https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 306106,
-      "name": "Holiday House",
-      "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
-    },
-    {
       "added_at": "2023-08-30 19:31:03",
       "album": {
         "name": "So Many Plans",
@@ -1485,6 +1469,22 @@
       "url": "https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc"
     },
     {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Become",
+        "url": "https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 306106,
+      "name": "Holiday House",
+      "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
+    },
+    {
       "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Evicted",
@@ -1499,6 +1499,22 @@
       "duration_ms": 209760,
       "name": "Evicted",
       "url": "https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 197811,
+      "name": "3D Feelings",
+      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1521,20 +1537,20 @@
       "url": "https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-08-23 23:58:36",
       "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+        "name": "I Want To Be Your Only Pet",
+        "url": "https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW"
       },
       "artists": [
         {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
         }
       ],
-      "duration_ms": 197811,
-      "name": "3D Feelings",
-      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
+      "duration_ms": 214200,
+      "name": "I Want To Be Your Only Pet",
+      "url": "https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St"
     },
     {
       "added_at": "2023-08-01 17:19:49",
@@ -1569,20 +1585,20 @@
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
     },
     {
-      "added_at": "2023-08-23 23:58:36",
+      "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "I Want To Be Your Only Pet",
-        "url": "https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW"
+        "name": "Miami Baby",
+        "url": "https://open.spotify.com/album/7xCHhK4CCxyT70MaKqIMsF"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
         }
       ],
-      "duration_ms": 214200,
-      "name": "I Want To Be Your Only Pet",
-      "url": "https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St"
+      "duration_ms": 293339,
+      "name": "Miami Baby",
+      "url": "https://open.spotify.com/track/0BhMGTZ32kho286pz0mJxq"
     },
     {
       "added_at": "2023-08-17 23:44:53",
@@ -1599,22 +1615,6 @@
       "duration_ms": 181508,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1pxV36wX49w3PAcv8etdRU"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Miami Baby",
-        "url": "https://open.spotify.com/album/7xCHhK4CCxyT70MaKqIMsF"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 293339,
-      "name": "Miami Baby",
-      "url": "https://open.spotify.com/track/0BhMGTZ32kho286pz0mJxq"
     },
     {
       "added_at": "2023-07-19 19:45:49",
@@ -1689,6 +1689,22 @@
       "url": "https://open.spotify.com/track/21B45csd0sMwX5VnAHc4BX"
     },
     {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
+    },
+    {
       "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Where Are You Going?",
@@ -1703,22 +1719,6 @@
       "duration_ms": 212985,
       "name": "Now I Know You",
       "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/2ujA7Bkj0mWEWPimvJV1Iu"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 263695,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/49H43h8jd9pE3qy5v5NseC"
     }
   ],
   "unique_name": "Front Page Indie",

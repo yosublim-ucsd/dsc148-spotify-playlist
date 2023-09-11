@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Irreversible Entanglements
 
-1,067 songs - 3 day 13 hr 56 min
+1,068 songs - 3 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -893,7 +893,8 @@
 | [The Junglist \- Bonus Track](https://open.spotify.com/track/0Ew7cCW9CQWEZX8KrOIiFk) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn \(10th Anniversary Remaster\)](https://open.spotify.com/album/6KPAS8bKufxqev7XFgg8ss) | 5:18 | 2023-09-08 |  |
 | [The Last Song \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron & Justin Stanton\)](https://open.spotify.com/track/6cAQCcRC7HeIxxQ5EdxI9k) | [Zach Brock](https://open.spotify.com/artist/2gP7EdtXx1CWc3gLco3B1C), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jonathan Maron](https://open.spotify.com/artist/5c2waqtgYO4U0hSvVzxSXe), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5) | [Dirty Mindz](https://open.spotify.com/album/3BSfTSY5q7tNeZgWw7nC6H) | 9:18 | 2022-06-03 | 2022-07-02 |
 | [The Layers](https://open.spotify.com/track/3NeP3pdpRdVM2u72HxR2Md) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [The Layers](https://open.spotify.com/album/1IBBI7ztokzQD970HUEmoA) | 3:43 | 2023-02-03 | 2023-02-25 |
-| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 | 2023-08-18 |  |
+| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 | 2023-08-18 | 2023-09-11 |
+| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/1mkzHA0suincRybCyk5fis) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 5:40 | 2023-08-18 |  |
 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/3wFA4vZlBMoDUjHNPTRaiZ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/4SecYNmUfTlg29S48YfIyr) | 5:40 | 2023-08-18 | 2023-08-24 |
 | [The Little Boxer](https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Common Ground](https://open.spotify.com/album/1TxksZoZOYltLztkow77CS) | 6:46 | 2022-09-30 | 2023-01-21 |
 | [The Lonely One \- Live](https://open.spotify.com/track/0hqyR1hZP9RvMV3cHgGfNs) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5), [Anthony Wilson](https://open.spotify.com/artist/1zpjijZvliAWsGHVtDYRGh), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Trios: Ocean \(Live\)](https://open.spotify.com/album/3hspa0ZBXbDRtMR66b6c8Z) | 12:18 | 2022-09-23 | 2022-10-29 |

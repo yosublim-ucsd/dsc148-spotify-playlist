@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,022 likes - 57 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,010 likes - 57 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 | 7 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
 | 8 | [It’s The Most Wonderful Time Of The Year](https://open.spotify.com/track/4LXhkiy0GcyHhXXyscUkeN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas](https://open.spotify.com/album/2HX22KUfq3ByM0v5TdHjjo) | 2:30 |
 | 9 | [This Christmas](https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 3:51 |
-| 10 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 |
+| 10 | [Christmas Vacation](https://open.spotify.com/track/2UuwMH7KBuWlYYTk7JeK5F) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5) | 1:48 |
 | 11 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB) | 4:38 |
 | 12 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6) | 2:46 |
 | 13 | [Last Christmas \- Remastered](https://open.spotify.com/track/6wn2nmFn3wDuiMldRiuRuL) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:27 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 | 56 | [What Christmas Means To Me](https://open.spotify.com/track/1jSi8wHEny7WwvBeA7KMpA) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Holiday 2020](https://open.spotify.com/album/23UAHj0aCS6hTsEcV2hDaW) | 2:27 |
 | 57 | [Mele Kalikimaka \(Merry Christmas\)](https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 |
 
-Snapshot ID: `MCwyZDU3ZGYzNDU0MjQyODA5NWY1MWFiMTYyZDZlY2Q5YWQ5NDUyZDI0`
+Snapshot ID: `MCxlZjFjODY0ZDI5NzkyZWM3MWJkOWI3NDBlOTdkYzY1OTRjOGE2OWU5`

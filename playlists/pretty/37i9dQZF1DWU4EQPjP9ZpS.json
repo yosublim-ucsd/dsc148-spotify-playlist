@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 279338,
+  "num_followers": 279507,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmExYWRiMTQxYjM1YjY5NDNjMTljODQ4MzlhOTkyZDkwMTY4YWM1",
+  "snapshot_id": "MCw0Nzc5YjYxYTU3OWU2N2MxNzA2MDYwN2MyYTRmYWY5YjRmMmJiMWE1",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Music in the Air",
-        "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
-      },
-      "artists": [
-        {
-          "name": "\u8c4a\u5e73\u533a\u6c11Toyohirakumin",
-          "url": "https://open.spotify.com/artist/4fsJpVczcZYWFbvvMWgTEN"
-        }
-      ],
-      "duration_ms": 142806,
-      "name": "Akaiwa 1985",
-      "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 103214,
       "name": "143",
       "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Music in the Air",
+        "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
+      },
+      "artists": [
+        {
+          "name": "\u8c4a\u5e73\u533a\u6c11Toyohirakumin",
+          "url": "https://open.spotify.com/artist/4fsJpVczcZYWFbvvMWgTEN"
+        }
+      ],
+      "duration_ms": 142806,
+      "name": "Akaiwa 1985",
+      "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -943,30 +943,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
-        "url": "https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE"
-      },
-      "artists": [
-        {
-          "name": "L a z u l i _ y e l l o w",
-          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
-        },
-        {
-          "name": "Vivi Vulture",
-          "url": "https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090"
-        },
-        {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
-      "url": "https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Televised Tragedies",
         "url": "https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 320462,
       "name": "\u5e7d\u970a",
       "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
+        "url": "https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE"
+      },
+      "artists": [
+        {
+          "name": "L a z u l i _ y e l l o w",
+          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
+        },
+        {
+          "name": "Vivi Vulture",
+          "url": "https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090"
+        },
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
+      "url": "https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Goodbye, 5o 5oon...",
-        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
-      },
-      "artists": [
-        {
-          "name": "Pan!c Pop",
-          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
-        }
-      ],
-      "duration_ms": 176015,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Left to Our Own Devices",
         "url": "https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy"
       },
@@ -1079,18 +1063,34 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Midnight Store",
-        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+        "name": "Goodbye, 5o 5oon...",
+        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
       },
       "artists": [
         {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+          "name": "Pan!c Pop",
+          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
         }
       ],
-      "duration_ms": 157974,
-      "name": "Turn the Fridge On",
-      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
+      "duration_ms": 176015,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "so be it",
+        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
+      },
+      "artists": [
+        {
+          "name": "willi6m",
+          "url": "https://open.spotify.com/artist/2OUFKazBcRtkBSief5OYo8"
+        }
+      ],
+      "duration_ms": 388732,
+      "name": "so be it",
+      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "so be it",
-        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
       "artists": [
         {
-          "name": "willi6m",
-          "url": "https://open.spotify.com/artist/2OUFKazBcRtkBSief5OYo8"
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
         }
       ],
-      "duration_ms": 388732,
-      "name": "so be it",
-      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Fever Dream (slowed + reverb)",
-        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
-      },
-      "artists": [
-        {
-          "name": "Sunnbrella",
-          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Fever Dream - slowed + reverb",
-      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "No Sugar Added",
         "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 162228,
       "name": "Carrie Bradshaw",
       "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Fever Dream (slowed + reverb)",
+        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
+      },
+      "artists": [
+        {
+          "name": "Sunnbrella",
+          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Fever Dream - slowed + reverb",
+      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Information Superhighway",
-        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
-      },
-      "artists": [
-        {
-          "name": "</body>",
-          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
-        }
-      ],
-      "duration_ms": 107604,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Empty Hiding World",
         "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 233774,
       "name": "Beyond Nostalgia",
       "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Information Superhighway",
+        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
+      },
+      "artists": [
+        {
+          "name": "</body>",
+          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
+        }
+      ],
+      "duration_ms": 107604,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Aeris",
+        "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Oneirataxia",
+      "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Us Ephemeral (George Clanton Remix)",
         "url": "https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 269538,
       "name": "Us Ephemeral (George Clanton Remix)",
       "url": "https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Aeris",
-        "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
-      },
-      "artists": [
-        {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Oneirataxia",
-      "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Harlequin",
+      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Glass Mind",
         "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 219428,
       "name": "Glass Mind",
       "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
-      },
-      "artists": [
-        {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        }
-      ],
-      "duration_ms": 176086,
-      "name": "Harlequin",
-      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
     },
     {
       "added_at": "2023-07-18 02:19:19",

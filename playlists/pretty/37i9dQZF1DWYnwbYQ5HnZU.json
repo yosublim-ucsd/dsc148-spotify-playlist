@@ -1,12 +1,12 @@
 {
   "description": "Spotify country fan favorites. Cover: Little Big Town",
-  "num_followers": 2172676,
+  "num_followers": 2172773,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjg2YmJjNTE3M2MyMjkxZDU1MmJmOWQ5MzQyNzRhODg3Njg2ODE4",
+  "snapshot_id": "MCxmMzJkZDFhODcwYjY3NTYyYjZiNDdiMjMzMGVhNzdjMGI5OGFmN2Y3",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Die A Happy Man",
-      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 253200,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Die A Happy Man",
+      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+      "duration_ms": 215853,
+      "name": "Good Directions",
+      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Good Directions",
-      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Kane Brown",
         "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 188253,
       "name": "What Ifs (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 215140,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Would You Go With Me",
-      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Love, Heartbreak, & Everything in Between",
         "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 198208,
       "name": "Somebody Like That",
       "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Would You Go With Me",
+      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Real Friends",
-        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Good Vibes",
-      "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 171333,
       "name": "What\u2019s Your Country Song",
       "url": "https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Real Friends",
+        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Summer Forever",
-        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Do I Make You Wanna",
-      "url": "https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 262280,
       "name": "Talladega",
       "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Summer Forever",
+        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Do I Make You Wanna",
+      "url": "https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Blown Away",
-      "url": "https://open.spotify.com/track/0vFMQi8ZnOM2y8cuReZTZ2"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Mercury Lane",
         "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 195053,
       "name": "Best Shot",
       "url": "https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Blown Away",
+      "url": "https://open.spotify.com/track/0vFMQi8ZnOM2y8cuReZTZ2"
     },
     {
       "added_at": "2023-09-01 04:00:00",

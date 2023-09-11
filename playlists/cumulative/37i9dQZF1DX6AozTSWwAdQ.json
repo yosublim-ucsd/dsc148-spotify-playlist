@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 192207,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 184881,
       "name": "Car Park",
       "url": "https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz"
@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+    },
+    {
+      "album": {
         "name": "gfy (with Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F"
       },
@@ -1974,6 +1992,24 @@
       "duration_ms": 178147,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM"
+    },
+    {
+      "album": {
+        "name": "Good One",
+        "url": "https://open.spotify.com/album/0veADhZcbDksUVSx9wt69O"
+      },
+      "artists": [
+        {
+          "name": "Busted",
+          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220814,
+      "name": "Good One",
+      "url": "https://open.spotify.com/track/4XYwyQ4oms8fhY8TnB0Dft"
     },
     {
       "album": {
@@ -3890,7 +3926,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 176826,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
@@ -5374,6 +5410,24 @@
       "duration_ms": 200482,
       "name": "Troubled Son",
       "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213912,
+      "name": "Turbulent Skies",
+      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
     },
     {
       "album": {

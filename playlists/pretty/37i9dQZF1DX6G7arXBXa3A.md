@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,999 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,052 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 4 | [It Had to Be You \(Big Band and Vocals\)](https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:38 |
 | 5 | [Stompin At The Savoy](https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [B\. G\. In Hi Fi](https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct) | 3:15 |
 | 6 | [Something's Gotta Give](https://open.spotify.com/track/3krgfOQI9Szq8cF0Umm1O1) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Decca Years](https://open.spotify.com/album/653NffdK42IKzsD3goAEHg) | 2:05 |
-| 7 | [You Make Me Feel so Young](https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:05 |
-| 8 | [I've Got The World On A String](https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:11 |
+| 7 | [I've Got The World On A String](https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:11 |
+| 8 | [You Make Me Feel so Young](https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:05 |
 | 9 | [Polka Dots and Moonbeams](https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra with the Tommy Dorsey Orchestra \(with Frank Sinatra\)](https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g) | 3:19 |
 | 10 | [Sing, Sing, Sing](https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 8:40 |
 | 11 | [In the Mood](https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:36 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 40 | [A You’re Adorable](https://open.spotify.com/track/3LN8pyCUQji0qVzuczFal7) | [Jimmy Dorsey](https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek) | [Jimmy Dorsey:The Complete Standard Transcriptions](https://open.spotify.com/album/29jPgtTm7XiLYUKNE5QwG0) | 2:29 |
 | 41 | [Work Song](https://open.spotify.com/track/3YLc8x4uliODz7Ppa1KnKB) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Black, Brown and Beige](https://open.spotify.com/album/6dfaMuSYNofjA7mOBgS25u) | 8:05 |
 | 42 | [Lullaby of the Leaves](https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu) | [The Kenny Clarke\-Francy Boland Big Band](https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO) | [More Smiles](https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg) | 4:14 |
-| 43 | [Greenhouse](https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP) | [Rob McConnell & The Boss Brass With Phil Woods](https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br) | [Boss Brass And Woods](https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb) | 7:41 |
-| 44 | [Just One Of Those Things](https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Inspiration \(A Tribute To Nat King Cole\)](https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m) | 2:42 |
+| 43 | [Just One Of Those Things](https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Inspiration \(A Tribute To Nat King Cole\)](https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m) | 2:42 |
+| 44 | [Greenhouse](https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP) | [Rob McConnell & The Boss Brass With Phil Woods](https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br) | [Boss Brass And Woods](https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb) | 7:41 |
 | 45 | [Doodlin'](https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 3:55 |
 | 46 | [I Can't Turn You Loose](https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Can't Turn You Loose](https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z) | 5:14 |
 | 47 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 49 | [I Didn´t Tell Them Why](https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq) | [Andrea Motis](https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Didn´t Tell Them Why](https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7) | 4:57 |
 | 50 | [Everybody's Talking](https://open.spotify.com/track/40JozCcMFdIbiqwjqu2iCc) | [Dutty Moonshine Big Band](https://open.spotify.com/artist/2aRD3jAqJXXE6luSkvLp3W), [Greg Blackman](https://open.spotify.com/artist/7r75JahMqaqUitdEipf65c) | [Everybody's Talking](https://open.spotify.com/album/0b9Rn4o1UbsyW3rM4qR8tg) | 2:56 |
 
-Snapshot ID: `MCxjZjM1MGNhNzgyNGY2NTQyMGExM2Y5NGFjMTk5ODM1MjgyOTVmNWFh`
+Snapshot ID: `MCw4NGRlYjcxZjEyNGVmNmM3MGZkZmFjNTQyNGFmNjNjMDU0MTU4Mzgw`

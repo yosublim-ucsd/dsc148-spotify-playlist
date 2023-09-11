@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,233 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,315 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 36 | [Weightless](https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Weightless](https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA) | 2:29 |
 | 37 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 |
 | 38 | [Moonrise](https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Moonrise](https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg) | 3:28 |
-| 39 | [Vishram \- Yoga Version](https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Vishram \- Yoga Version](https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi) | 2:45 |
-| 40 | [Breath Of Life](https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:34 |
+| 39 | [Breath Of Life](https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:34 |
+| 40 | [Vishram \- Yoga Version](https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Vishram \- Yoga Version](https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi) | 2:45 |
 | 41 | [Hills Of Clarity](https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Hills Of Clarity](https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA) | 4:15 |
 | 42 | [The Sun Will Rise Again](https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [The Sun Will Rise Again](https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn) | 2:22 |
 | 43 | [Slowly Flying](https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Simple Soul](https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku) | 3:34 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 69 | [Nature's Embrace](https://open.spotify.com/track/7iASF4SyBJIHg7PM3rEpTR) | [David Tobin](https://open.spotify.com/artist/37WB1QgTG301CGchCHTQ5O), [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Ambient Sleep Bliss](https://open.spotify.com/album/6N4hsBasKsW1LAuv2bPKNp) | 4:12 |
 | 70 | [Floating Without Gravity](https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Floating Without Gravity](https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh) | 2:42 |
 | 71 | [Hush](https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hush](https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C) | 2:41 |
-| 72 | [Peace Of Mind](https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:58 |
-| 73 | [Sleepy Eyes](https://open.spotify.com/track/6yh2v1ESQ0gOqU8d1Cyexm) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Sleepy Eyes](https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ) | 3:44 |
+| 72 | [Sleepy Eyes](https://open.spotify.com/track/6yh2v1ESQ0gOqU8d1Cyexm) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Sleepy Eyes](https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ) | 3:44 |
+| 73 | [Peace Of Mind](https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:58 |
 | 74 | [Semblance](https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN) | 3:03 |
 | 75 | [Oh so Quiet](https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Oh so Quiet](https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4) | 3:10 |
 | 76 | [Monument](https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Cosmos](https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6) | 3:58 |
 | 77 | [mOther World](https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe) | [Mike Molloy](https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r) | [mOther World](https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un) | 2:04 |
 | 78 | [Dream Away](https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Dream Away](https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx) | 2:04 |
 | 79 | [Sleep Sequence](https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleep Sequence](https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm) | 3:23 |
-| 80 | [Parallels](https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Parallels](https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq) | 3:36 |
+| 80 | [Midnight Thoughts](https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Wondrous](https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ) | 2:20 |
 
-Snapshot ID: `MCwyNzg2MWQ5M2RiMzNhYTM3ZWUwODRkODgzMzU5ZmQwODk5ODRkNWUw`
+Snapshot ID: `MCw4MjZjZjkzODU1MmJkZjNhNmE5YjkyOTQ2ODg1ZmNkZWE1MjQ3MmRm`

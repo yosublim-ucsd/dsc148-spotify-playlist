@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Tiakola & Dave
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,139 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,314 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 49 | [A Veil of Mist](https://open.spotify.com/track/37PyxXH5vlbNcYwxOHbfFn) | [SPACESPEAKERS](https://open.spotify.com/artist/23jUmiOyAG9Dzq6Ayp9LUG), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw), [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [KOSMIK](https://open.spotify.com/album/22YHa0g0LTJ9kjQ03me248) | 5:02 |
 | 50 | [Pakistan](https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Pakistan](https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2) | 2:54 |
 
-Snapshot ID: `MCwxMWNjZGI3NTZkY2UwMTkzODNmMTE4ZTBmYmFhMDNlNTc4N2Y2YzAx`
+Snapshot ID: `MCxjMDdiMTAzNjc0OTQ2YWNkZDU4MTExMTIwYTU3MDRiNWU2NDc5ZmQ4`

@@ -1,12 +1,12 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4005713,
+  "num_followers": 4006243,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzgzNDdlNzZjY2FiYTBlM2U1YzgyNjQwZGY4Y2FiMWIzYWRkM2U1",
+  "snapshot_id": "MCwxMzAyOTQ3NWRhODc0ZmFiYzYzYWM5NmRlZTM2YWY3MDYxMzk3NWYy",
   "tracks": [
     {
       "added_at": "2023-02-17 11:17:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Only Human (Deluxe)",
-        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 260285,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Perception",
         "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 212120,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Only Human (Deluxe)",
+        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 260285,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190898,
-      "name": "illicit affairs",
-      "url": "https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 190898,
+      "name": "illicit affairs",
+      "url": "https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 231933,
       "name": "Burn",
       "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Lost Boy",
-        "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 275280,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 202340,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Lost Boy",
+        "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "THE END OF EVERYTHING",
         "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 144377,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Violent",
-        "url": "https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1"
-      },
-      "artists": [
-        {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
-        }
-      ],
-      "duration_ms": 135877,
-      "name": "Violent",
-      "url": "https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "The Bedroom Demos",
         "url": "https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 220239,
       "name": "A Drop in the Ocean",
       "url": "https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Violent",
+        "url": "https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 135877,
+      "name": "Violent",
+      "url": "https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "The Intro",
         "url": "https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 207973,
       "name": "Superficial Love",
       "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Stop All The World Now",
-        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 250000,
       "name": "Turning Tables",
       "url": "https://open.spotify.com/track/4oy98QoABnGKpvapDkI525"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Stop All The World Now",
+        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -3031,6 +3031,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 247106,
+      "name": "Save Myself",
+      "url": "https://open.spotify.com/track/6TIU9Ehmi6dMzZK73Ym4yj"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
         "name": "Bad Life",
         "url": "https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6"
       },
@@ -3047,22 +3063,6 @@
       "duration_ms": 226867,
       "name": "Bad Life",
       "url": "https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 247106,
-      "name": "Save Myself",
-      "url": "https://open.spotify.com/track/6TIU9Ehmi6dMzZK73Ym4yj"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -3183,6 +3183,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
+        "name": "Toy Story Favorites",
+        "url": "https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "When She Loved Me - From \"Toy Story 2\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/780W6YW5HFANQLR77Owern"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
         "name": "Me Before You (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
       },
@@ -3199,22 +3215,6 @@
       "duration_ms": 204586,
       "name": "Unsteady - Erich Lee Gravity Remix",
       "url": "https://open.spotify.com/track/7AOdyU64RafmvJUL4WMotN"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
-        "name": "Toy Story Favorites",
-        "url": "https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "When She Loved Me - From \"Toy Story 2\" / Soundtrack Version",
-      "url": "https://open.spotify.com/track/780W6YW5HFANQLR77Owern"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -3283,18 +3283,18 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/5UZriQSHZOJOjqUtPE5lpg"
       },
       "artists": [
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 231813,
-      "name": "Front Porch",
-      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
+      "duration_ms": 208986,
+      "name": "Too Sad To Cry",
+      "url": "https://open.spotify.com/track/3CRtbOoAP82y0VbPO5j1ft"
     }
   ],
   "unique_name": "Life Sucks",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best in modern country music\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,457 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,579 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
 | 75 | [Sad Ass Country Song](https://open.spotify.com/track/3nn7clyurm04ygyjoRlBy6) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype Broken](https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf) | 2:57 |
 
-Snapshot ID: `MCwyNjY5OTlkYTQ5ZGNjNjBlNzU3ZjRhMjIxM2QwZmYzOTM4OTIxODM0`
+Snapshot ID: `MCxiODQ2MGNlOGUxNWRiYjM1YzViOTcyNmIyMWFiOGQxNDNjZDkwZjc1`

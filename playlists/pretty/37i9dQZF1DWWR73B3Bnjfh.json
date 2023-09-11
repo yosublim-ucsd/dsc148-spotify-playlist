@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 101364,
+  "num_followers": 101516,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2E5M2YzMjc5MTJhOWE0YjMwYTAyMzc0MTcwZGI3YjQ2M2E5NWVl",
+  "snapshot_id": "MCwxNWQwNDQxMTU0YThmZDY2OTU1NzE2M2YxZjA0MjE2YzJlMzY1YTEx",
   "tracks": [
     {
       "added_at": "2023-09-01 07:46:44",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-09-01 07:46:44",
       "album": {
+        "name": "Way Out West (OJC Remaster)",
+        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 471173,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT"
+    },
+    {
+      "added_at": "2023-09-01 07:46:44",
+      "album": {
         "name": "Know What I Mean? [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 377546,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6UVl12QoQEOGjJCocfBJyn"
-    },
-    {
-      "added_at": "2023-09-01 07:46:44",
-      "album": {
-        "name": "Way Out West (OJC Remaster)",
-        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 471173,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT"
     },
     {
       "added_at": "2023-09-01 07:46:44",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-01 07:46:44",
       "album": {
-        "name": "Gerry Mulligan Meets Ben Webster",
-        "url": "https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 442506,
-      "name": "Chelsea Bridge",
-      "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
-    },
-    {
-      "added_at": "2023-09-01 07:46:44",
-      "album": {
         "name": "Paul Bley",
         "url": "https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 189813,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/7rfQSR01yyCxP55RNl7Zyu"
+    },
+    {
+      "added_at": "2023-09-01 07:46:44",
+      "album": {
+        "name": "Gerry Mulligan Meets Ben Webster",
+        "url": "https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 442506,
+      "name": "Chelsea Bridge",
+      "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
     },
     {
       "added_at": "2023-09-01 07:46:44",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-09-01 07:46:44",
       "album": {
+        "name": "Stan Getz Plays (Clef Records LPR)",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w"
+    },
+    {
+      "added_at": "2023-09-01 07:46:44",
+      "album": {
         "name": "What Is There To Say?",
         "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 246066,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
-    },
-    {
-      "added_at": "2023-09-01 07:46:44",
-      "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
     },
     {
       "added_at": "2023-09-01 07:46:44",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-09-01 07:46:44",
       "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
+    },
+    {
+      "added_at": "2023-09-01 07:46:44",
+      "album": {
         "name": "Brown And Roach Incorporated",
         "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 598866,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt"
-    },
-    {
-      "added_at": "2023-09-01 07:46:44",
-      "album": {
-        "name": "Stan Getz Plays (Clef Records LPR)",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w"
     },
     {
       "added_at": "2023-09-01 07:46:44",
@@ -1291,26 +1291,30 @@
     {
       "added_at": "2023-09-01 07:46:44",
       "album": {
-        "name": "The Standard Joe",
-        "url": "https://open.spotify.com/album/3sVNad4AWMQvwIpAa8dUzK"
+        "name": "Falling In Love With Paul Desmond",
+        "url": "https://open.spotify.com/album/38SK483XET4r7jzPXaz8rc"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         },
         {
-          "name": "Al Foster",
-          "url": "https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6"
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
         },
         {
-          "name": "Rufus Reid",
-          "url": "https://open.spotify.com/artist/7mcseJPsc7KCQrITzrOrWg"
+          "name": "Eugene Wright",
+          "url": "https://open.spotify.com/artist/3Bx84JkzpCnEzS2bTIHI53"
+        },
+        {
+          "name": "Connie Kay",
+          "url": "https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake"
         }
       ],
-      "duration_ms": 530000,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy"
+      "duration_ms": 343000,
+      "name": "When Joanna Loved Me",
+      "url": "https://open.spotify.com/track/2rxK2vd9P8QM1TEbyGFjoY"
     }
   ],
   "unique_name": "Jazz Noir",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,192 likes - 121 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,265 likes - 121 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 85 | [Making The Circle](https://open.spotify.com/track/2IZSJBp2pkdDIdArKUD4uD) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Bring Us The Bright](https://open.spotify.com/album/3TsyAhKh3iEruzauyaKkmg) | 6:47 |
 | 86 | [The Kipper and the Pork Pie](https://open.spotify.com/track/6pkkUNpoDPhI0dGV72caDx) | [WorldService Project](https://open.spotify.com/artist/1yYpduIG9QUEIh3w2ibm9D) | [Hiding in Plain Sight](https://open.spotify.com/album/2NHruqgKmRD6Jwewz7eU0Y) | 3:42 |
 | 87 | [Captain Señor Mouse](https://open.spotify.com/track/6z71qHoHjMRU3EbulmmNVq) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Return To The Seventh Galaxy](https://open.spotify.com/album/6C6zPgI6qcNZfGTWDeiHly) | 9:00 |
-| 88 | [Inner Babylon](https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/7Mzsu0oVInnu9zOzVSBgK2) | 5:20 |
+| 88 | [Inner Babylon \- 10th Anniversary Remaster](https://open.spotify.com/track/4v9nCwprto0WudPm7Sugaz) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn \(10th Anniversary Remaster\)](https://open.spotify.com/album/6KPAS8bKufxqev7XFgg8ss) | 5:22 |
 | 89 | [Hazard Profile, Pt\. 5 \- 2022 Remaster](https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 5:23 |
 | 90 | [Willie The Pimp](https://open.spotify.com/track/3toxxSU3TcvzgmeR8LLUiX) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 9:23 |
 | 91 | [Taurian Matador](https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA) | 3:03 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 120 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 | 121 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 |
 
-Snapshot ID: `MCwzMzM4YjMwN2Q0ZjAyMTJlZGE5NTFiNTc0Y2I3ZWQ5YjQ3M2FlMTQ5`
+Snapshot ID: `MCxiZjkyMmY5YjAzYTlmZjlmNWJmNzIyMjYzNmQzOTQ0NjdjNWQ3YzFm`

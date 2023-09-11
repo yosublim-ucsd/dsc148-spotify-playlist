@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 
 > Trap de la isla, con Yeruza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,963 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,026 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 | 49 | [Tacos Altos](https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Gargola](https://open.spotify.com/artist/5eJtlvB9Qga52zsu4GzDNA) | [Tacos Altos](https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN) | 5:06 |
 | 50 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
 
-Snapshot ID: `MCxjMGUxMjU0NzU2NWYyYmRmZWVkNTAzMjcyNzg1MGRjY2QyZDY3Y2I3`
+Snapshot ID: `MCxjNDIyOTZmNjAwNDQzNmViMmRhNjAxNTE2MThhYzk4NGExNWE3Yjg0`

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-253 songs - 14 hr 1 min
+254 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Frosty the Snowman](https://open.spotify.com/track/6jwwplLo8hMDRW6Rrv1cd2) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Frosty the Snowman](https://open.spotify.com/album/4pvXuhVffopCcrxJVhmF5w) | 2:57 | 2021-12-24 | 2022-07-27 |
 | [GIFT 2 U](https://open.spotify.com/track/0OOElGM78RfThghdz0Hz9E) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/5MRT6I49I0WinhPxO4ovsS) | 3:11 | 2021-12-24 | 2022-07-24 |
 | [GIFT 2 U](https://open.spotify.com/track/3CVbAFuBbae8279r6D98Yg) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/4Jz9J0dBhLvUKe2QaZkB3G) | 3:11 | 2021-12-24 | 2022-09-22 |
+| [GIFT 2 U](https://open.spotify.com/track/3v2L8zZI9xF31s10hZWS5x) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/3YIT2aYTemcRWwopmEpTYM) | 3:11 | 2022-12-16 |  |
 | [GIFT 2 U](https://open.spotify.com/track/4c4KfwFafduTVOAJwkq5bw) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/3GnfAwrmllpK00Uxfd1SAE) | 3:11 | 2022-12-16 | 2023-08-28 |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/4z1pZgbzHeNjkVi2U4wyIL) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Go Tell It On The Mountain](https://open.spotify.com/album/3uc9cbSv6XfwMNE8lRtR0G) | 3:01 | 2021-12-24 | 2022-11-19 |
 | [God Rest Ye Merry Gentlemen \(feat\. Sarah McLachlan\)](https://open.spotify.com/track/6YgKtmBkCAm2ew0JYZFVVd) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Barenaked for the Holidays](https://open.spotify.com/album/20jrQQKFqYVr5ErT9Uem4S) | 3:26 | 2021-12-24 | 2022-07-29 |
@@ -250,7 +251,7 @@
 | [We'll Be Alright](https://open.spotify.com/track/4AXX2fes8GOdvuCUjadbmT) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [We'll Be Alright](https://open.spotify.com/album/4MEHD7eRexeF3cpIlauzM1) | 2:14 | 2022-10-29 |  |
 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4) | 1:55 | 2021-12-24 |  |
 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/42DRM86n9XCMFrlgZQ0MZn) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/0th0Dcu3NKB3LdlCZyQfZc) | 1:55 | 2021-12-24 | 2022-07-28 |
-| [What Child Is This](https://open.spotify.com/track/0lEEDHdUyqVQKClt7cVUcF) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Donnell Leahy](https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu) | [A Celtic Family Christmas](https://open.spotify.com/album/5VK7arkKtcMJBTJOlB34cS) | 4:14 | 2021-12-24 |  |
+| [What Child Is This](https://open.spotify.com/track/0lEEDHdUyqVQKClt7cVUcF) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Donnell Leahy](https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu) | [A Celtic Family Christmas](https://open.spotify.com/album/5VK7arkKtcMJBTJOlB34cS) | 4:14 | 2021-12-24 | 2023-09-11 |
 | [What Child Is This](https://open.spotify.com/track/3xjspY9inGDfhKv6Ksl4D5) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Donnell Leahy](https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu) | [A Celtic Family Christmas](https://open.spotify.com/album/1Y6TIxPLTw9ZMPpRU3Qpry) | 4:14 | 2021-12-24 | 2022-07-28 |
 | [What I See](https://open.spotify.com/track/3vdKhieD57HDrBx0wyMyYh) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Joy to the World](https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh) | 2:49 | 2021-12-24 |  |
 | [When We Are Together](https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas Together](https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t) | 2:26 | 2021-12-24 |  |

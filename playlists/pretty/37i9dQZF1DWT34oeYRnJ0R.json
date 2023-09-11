@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGEwZGIwM2Y2NzcxMzY3NjM3MjA4N2UwY2I2ODMzNzY3NDEwNjFk",
+  "snapshot_id": "MCxmYTM3OWUwMjM3Mjg5ZDYwOWYzMDY3ZTdkNDBhNjMwOGUxN2MzYmMz",
   "tracks": [
     {
       "added_at": "2023-09-08 04:47:50",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
-        "name": "Otra Vibra",
-        "url": "https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 207664,
-      "name": "Otra Vibra",
-      "url": "https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5"
-    },
-    {
-      "added_at": "2023-09-08 04:47:50",
-      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+    },
+    {
+      "added_at": "2023-09-08 04:47:50",
+      "album": {
+        "name": "Otra Vibra",
+        "url": "https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 207664,
+      "name": "Otra Vibra",
+      "url": "https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5"
     },
     {
       "added_at": "2023-09-08 04:47:50",
@@ -411,26 +411,22 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "E.VAX",
-          "url": "https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 196701,
-      "name": "11 Y ONCE",
-      "url": "https://open.spotify.com/track/1YUTTfAThKaxEYP9Zfv21V"
+      "duration_ms": 232560,
+      "name": "No Te Deseo el Mal",
+      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
     },
     {
       "added_at": "2023-09-08 04:47:50",
@@ -451,22 +447,26 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "E.VAX",
+          "url": "https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr"
         }
       ],
-      "duration_ms": 232560,
-      "name": "No Te Deseo el Mal",
-      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
+      "duration_ms": 196701,
+      "name": "11 Y ONCE",
+      "url": "https://open.spotify.com/track/1YUTTfAThKaxEYP9Zfv21V"
     },
     {
       "added_at": "2023-09-08 04:47:50",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
-        "name": "NO HAY LEY",
-        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "NO HAY LEY",
-      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
-    },
-    {
-      "added_at": "2023-09-08 04:47:50",
-      "album": {
         "name": "Me Muevo Con Dios",
         "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 180374,
       "name": "Movezz en silencio",
       "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "added_at": "2023-09-08 04:47:50",
+      "album": {
+        "name": "NO HAY LEY",
+        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "NO HAY LEY",
+      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
     },
     {
       "added_at": "2023-09-08 04:47:50",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 169526,
+      "name": "P\u00cdDELO",
+      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
+    },
+    {
+      "added_at": "2023-09-08 04:47:50",
+      "album": {
         "name": "CHRONOS",
         "url": "https://open.spotify.com/album/39ZCda6u6x5gq6HkNA3D1n"
       },
@@ -1179,18 +1195,26 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "DEKKOLETERA 333",
+        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Montano",
+          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
         }
       ],
-      "duration_ms": 169526,
-      "name": "P\u00cdDELO",
-      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
+      "duration_ms": 191561,
+      "name": "No Te Creas Tanto",
+      "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
     },
     {
       "added_at": "2023-09-08 04:47:50",
@@ -1235,26 +1259,18 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
-        "name": "DEKKOLETERA 333",
-        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY"
       },
       "artists": [
         {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        },
-        {
-          "name": "Montano",
-          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
         }
       ],
-      "duration_ms": 191561,
-      "name": "No Te Creas Tanto",
-      "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
+      "duration_ms": 153269,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l"
     },
     {
       "added_at": "2023-09-08 04:47:50",
@@ -1275,22 +1291,6 @@
       "duration_ms": 195873,
       "name": "El Father",
       "url": "https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw"
-    },
-    {
-      "added_at": "2023-09-08 04:47:50",
-      "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l"
     },
     {
       "added_at": "2023-09-08 04:47:50",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
-        "name": "BeSos aL vIEnTo :(",
-        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "BeSos aL vIEnTo :(",
-      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
-    },
-    {
-      "added_at": "2023-09-08 04:47:50",
-      "album": {
         "name": "UuU",
         "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
       },
@@ -1471,26 +1455,18 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
-        "name": "Tu Fan\u00e1tico (Remix)",
-        "url": "https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM"
+        "name": "BeSos aL vIEnTo :(",
+        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
       },
       "artists": [
         {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
         }
       ],
-      "duration_ms": 214535,
-      "name": "Tu Fan\u00e1tico - Remix",
-      "url": "https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc"
+      "duration_ms": 184800,
+      "name": "BeSos aL vIEnTo :(",
+      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
     },
     {
       "added_at": "2023-09-08 04:47:50",
@@ -1519,18 +1495,26 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
-        "name": "Bubbaloo",
-        "url": "https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4"
+        "name": "Tu Fan\u00e1tico (Remix)",
+        "url": "https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM"
       },
       "artists": [
         {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 192669,
-      "name": "Bubbaloo",
-      "url": "https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N"
+      "duration_ms": 214535,
+      "name": "Tu Fan\u00e1tico - Remix",
+      "url": "https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc"
     },
     {
       "added_at": "2023-09-08 04:47:50",
@@ -1547,6 +1531,22 @@
       "duration_ms": 117539,
       "name": "Si Te Portas Bonito - Edit",
       "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
+    },
+    {
+      "added_at": "2023-09-08 04:47:50",
+      "album": {
+        "name": "Bubbaloo",
+        "url": "https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 192669,
+      "name": "Bubbaloo",
+      "url": "https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N"
     },
     {
       "added_at": "2023-09-08 04:47:50",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
-        "name": "El Man Perfecto",
-        "url": "https://open.spotify.com/album/6gifQZChGomZlbjyvvG7wK"
-      },
-      "artists": [
-        {
-          "name": "Pitizion",
-          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
-        },
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "El Man Perfecto",
-      "url": "https://open.spotify.com/track/6liVt4KfKzMQ4vdedo8Ld2"
-    },
-    {
-      "added_at": "2023-09-08 04:47:50",
-      "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
       },
@@ -1815,6 +1795,26 @@
     {
       "added_at": "2023-09-08 04:47:50",
       "album": {
+        "name": "El Man Perfecto",
+        "url": "https://open.spotify.com/album/6gifQZChGomZlbjyvvG7wK"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        },
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "El Man Perfecto",
+      "url": "https://open.spotify.com/track/6liVt4KfKzMQ4vdedo8Ld2"
+    },
+    {
+      "added_at": "2023-09-08 04:47:50",
+      "album": {
         "name": "No Me Busques Donde Mismo",
         "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
       },
@@ -1827,22 +1827,6 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
-    },
-    {
-      "added_at": "2023-09-08 04:47:50",
-      "album": {
-        "name": "Reggaet\u00f3n Sex",
-        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/55SBsj6T7muoDtMcUX5feZ"
     },
     {
       "added_at": "2023-09-08 04:47:50",
@@ -1863,6 +1847,22 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "added_at": "2023-09-08 04:47:50",
+      "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/55SBsj6T7muoDtMcUX5feZ"
     },
     {
       "added_at": "2023-09-08 04:47:50",

@@ -1,12 +1,12 @@
 {
   "description": "hairbrush as a microphone type songs.",
-  "num_followers": 47690,
+  "num_followers": 48093,
   "original_name": "Slumber Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDk0MGNjZjdkOWQ5MGQ1ODJjYTBhMGMzNzk4OGZlMmE2OWUwMTdi",
+  "snapshot_id": "MCw0ZTJmOWFiMWVmYWI0ZjQ2MTIwNDBjMTE5YTAzMDY1Mjc3MWFmNTNj",
   "tracks": [
     {
       "added_at": "2023-09-05 22:48:49",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 187703,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
     },
     {
       "added_at": "2023-09-05 22:48:49",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Disturbia",
-      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+      "duration_ms": 187703,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
     },
     {
       "added_at": "2023-09-05 22:48:49",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 149438,
-      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
-    },
-    {
-      "added_at": "2023-09-05 22:48:49",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 171333,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/3UGIZ8qcrMTwzLbx6Kttqt"
+    },
+    {
+      "added_at": "2023-09-05 22:48:49",
+      "album": {
+        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 149438,
+      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
     },
     {
       "added_at": "2023-09-05 22:48:49",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "vampire",
-        "url": "https://open.spotify.com/album/5Z30mAi4dtJ642OLgiKm55"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/4OC6qCqVMscZLBMnLTsVyg"
-    },
-    {
-      "added_at": "2023-09-05 22:48:49",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 177973,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/5dONhl6aXFuN86UBdayF6W"
+    },
+    {
+      "added_at": "2023-09-05 22:48:49",
+      "album": {
+        "name": "Diamonds & Dancefloors",
+        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190290,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D"
     }
   ],
   "unique_name": "Slumber Party",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Chales Ans y Sharif en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,827 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,832 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [INESTABLE](https://open.spotify.com/track/7oZU0WfiYy81ezw6tnSpH7) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [INESTABLE](https://open.spotify.com/album/7u83atv1sRDpcLZTx60sfV) | 2:54 |
 | 100 | [Hierba Mala](https://open.spotify.com/track/0O0EHS42NLO9beCdP0m2VJ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Hierba Mala](https://open.spotify.com/album/3OS70FhPdphV5p6ii238CE) | 3:54 |
 
-Snapshot ID: `MCxlZjRhN2FiN2RkMTc0OTE2ODdkYzk2MTliOWU0YWNjMTJhMjU4NWMy`
+Snapshot ID: `MCxiOWY0YTE3Nzc1NjVhMGU0MDVjMTMyNGQzODIxZTU2NGUxMjEzNDhh`

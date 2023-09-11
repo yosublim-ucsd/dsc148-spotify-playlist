@@ -4,7 +4,7 @@
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-388 songs - 23 hr 19 min
+389 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,8 @@
 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 | 2023-05-19 |  |
 | [Undertow](https://open.spotify.com/track/2x5c9ApuyqGcJ0ApKukGCl) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [The Fool](https://open.spotify.com/album/5ILOMA8LzHfdjR2HZQ2vFN) | 5:53 | 2023-02-20 | 2023-03-11 |
 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 | 2022-10-07 | 2023-01-21 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-28 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-09 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-28 | 2023-09-11 |
 | [Ven](https://open.spotify.com/track/0owF0olEgbExno5CZSWd6S) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Es Mentira](https://open.spotify.com/album/4gSJO6NAABBQT1IjcXnofg) | 5:05 | 2023-02-20 | 2023-03-11 |
 | [Ven Conmigo](https://open.spotify.com/track/1pmhavHQm3tVTObNNRcmAb) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Volver A](https://open.spotify.com/album/4T8bQZALNGcpVUXlBNKuYY) | 3:17 | 2022-10-07 | 2022-12-10 |
 | [Veneno](https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Veneno](https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0) | 3:20 | 2022-04-18 | 2022-11-13 |

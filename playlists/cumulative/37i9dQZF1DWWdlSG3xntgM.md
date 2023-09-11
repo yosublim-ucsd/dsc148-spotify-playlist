@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-205 songs - 17 hr 22 min
+206 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Sao Anh Nỡ Đành Quên](https://open.spotify.com/track/1TKXDNKrUOV21b19jfXiSO) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Lam Anh](https://open.spotify.com/artist/5trMq1OIockzQVpFicyrpn) | [Sao Anh Nỡ Đành Quên](https://open.spotify.com/album/69IZ8R0qBU6ySFRFW9B6Tj) | 4:10 | 2022-03-11 |  |
 | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/track/3LuQ1yA6hpG8L4OiDpE436) | [Hoang Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o) | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/album/5vaRnl2QeL8hONSGhi1EE8) | 5:43 | 2022-03-11 | 2023-01-06 |
 | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/track/3DCQIiZFDjaiAhv4BrjQzv) | [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Không Giờ Rồi](https://open.spotify.com/album/7bCirXjP1oEspmEXRaZwu4) | 6:09 | 2022-03-11 | 2022-07-28 |
-| [Sài Gòn Niềm Nhớ Không Tên](https://open.spotify.com/track/2dpdXnhU0eFshwdNc9gxYv) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tiếng Ca U Hoài](https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi) | 3:50 | 2023-08-08 |  |
+| [Sài Gòn Niềm Nhớ Không Tên](https://open.spotify.com/track/2dpdXnhU0eFshwdNc9gxYv) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tiếng Ca U Hoài](https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi) | 3:50 | 2023-08-08 | 2023-09-11 |
 | [Sầu Lẻ Bóng](https://open.spotify.com/track/4iKcBTgpYjDKuxWc5hRYqY) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5iARlHWbiqMDnGbF9CAVv1) | 5:34 | 2022-03-11 | 2022-07-29 |
 | [Sầu Lẻ Bóng](https://open.spotify.com/track/43NMdhGO3jWk3BWpM8I8QB) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/1wVDUWmmUJaGPe60pX3t9h) | 5:16 | 2022-03-11 | 2022-07-28 |
 | [Sầu Lẻ Bóng](https://open.spotify.com/track/4a9t1NmCc4PH7i9uNXS6pi) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/20hpRAF1vJyA9Svfa5di1H) | 5:18 | 2023-05-24 |  |
@@ -193,6 +193,7 @@
 | [Xin Thời Gian Qua Mau](https://open.spotify.com/track/3nimTYr39MANUqa01DjlKE) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:36 | 2022-03-11 | 2023-08-08 |
 | [Xin Thời Gian Qua Mau](https://open.spotify.com/track/5RveO8xVKdXERVcJ4CG1d7) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Xin Thời Gian Qua Mau](https://open.spotify.com/album/177Qm5XYwylnDg34pfJta8) | 5:35 | 2022-04-27 | 2022-06-06 |
 | [Xin Thời Gian Qua Mau](https://open.spotify.com/track/1cFQ97xPMbOqlH8V7B9Ytn) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Chuyện Tình Hoa 10 Giờ](https://open.spotify.com/album/0huTCpWAp5Ibqhb80DwUVR) | 5:09 | 2022-03-11 | 2022-07-25 |
+| [Xuân Này Con Không Về](https://open.spotify.com/track/7rQUKFLXPOIYpvFKNddRcS) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Xuân Đi Lễ Chùa](https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc) | 5:05 | 2023-08-08 |  |
 | [Xuân này con không về](https://open.spotify.com/track/6i7wRwKIDHT8UqeynMOM63) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O), [Đặng Thế Luân](https://open.spotify.com/artist/4eLFgnJaGjZVOMJctGmqsl) | [Tôi Chưa Có Mùa Xuân](https://open.spotify.com/album/7fHOU3HrRkkIMcAnzfHI6U) | 4:19 | 2022-03-11 | 2022-07-25 |
 | [Xuân Này Con Không Về](https://open.spotify.com/track/1Y89eBUJ1lS7d2yQlVUm3M) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Bến Xuân](https://open.spotify.com/album/1MADZBcRfbVzBsrBBsqaaZ) | 4:45 | 2023-01-17 |  |
 | [Xuân này con về mẹ ở đâu](https://open.spotify.com/track/4G6pLDWfTKAXJINPDQsZC2) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Mừng Xuân Năm 2016](https://open.spotify.com/album/3iya7kk0t0kMYSCGd0R901) | 4:15 | 2023-01-17 | 2023-05-24 |

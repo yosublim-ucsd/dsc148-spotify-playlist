@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,788 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,862 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 30 | [Enloquecido](https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 3:32 |
 | 31 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 |
 | 32 | [Tu](https://open.spotify.com/track/6ajVb9JDdueaxbtLImUEPC) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 |
-| 33 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
-| 34 | [Eres Una Niña](https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:50 |
+| 33 | [Eres Una Niña](https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:50 |
+| 34 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
 | 35 | [Que Bonito Es Querer](https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:29 |
 | 36 | [Mi Razón De Ser](https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Dany, Te Dedico Esta Canción Con Todo Mi Corazón](https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL) | 3:29 |
 | 37 | [Baby](https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 4:38 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 41 | [MMXX's](https://open.spotify.com/track/3oJhbB8LrDTCNj35lwdtxf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [MMXX's](https://open.spotify.com/album/2rtNe0iWMSd6J5nPhsNOyY) | 2:59 |
 | 42 | [Niña De Mi Corazón](https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:08 |
 | 43 | [Te Regalo](https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 3:14 |
-| 44 | [No Se Puede Decir Adiós](https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [No Se Puede Decir Adiós / Nuestra Canción](https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29) | 2:44 |
+| 44 | [Loco Enamorado](https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [80% Mío](https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x) | 3:30 |
 | 45 | [Mi Vicio](https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Summer School Mixtape, Vol\. 1](https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU) | 3:14 |
-| 46 | [Loco Enamorado](https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [80% Mío](https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x) | 3:30 |
+| 46 | [No Se Puede Decir Adiós](https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [No Se Puede Decir Adiós / Nuestra Canción](https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29) | 2:44 |
 | 47 | [Y Es Que Contigo](https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 2:10 |
 | 48 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 |
 | 49 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 60 | [Noches De Desvelo](https://open.spotify.com/track/7aYP7DH23pb0cAZBQQK6uz) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Soy El Nata](https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN) | 2:59 |
 | 61 | [Tú Eres Mi Amor \- Versión Regional Mexicana](https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tú Eres Mi Amor \(Versión Regional Mexicana\)](https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy) | 3:48 |
 | 62 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
-| 63 | [Me Pones A Temblar](https://open.spotify.com/track/5lOEI6CBTnLQrVVoIswN8Q) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Mundo Diferente](https://open.spotify.com/album/1Dxy2q1OCv3zUr1hO2HM0J) | 3:10 |
-| 64 | [15 Besos](https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [El Problema](https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s) | 3:21 |
-| 65 | [Es Amor](https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Es Amor](https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ) | 2:44 |
+| 63 | [15 Besos](https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [El Problema](https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s) | 3:21 |
+| 64 | [Me Pones A Temblar](https://open.spotify.com/track/5lOEI6CBTnLQrVVoIswN8Q) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Mundo Diferente](https://open.spotify.com/album/1Dxy2q1OCv3zUr1hO2HM0J) | 3:10 |
+| 65 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
 | 66 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
 | 67 | [Quiero Darte](https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP) | 2:58 |
-| 68 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
+| 68 | [Es Amor](https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Es Amor](https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ) | 2:44 |
 | 69 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
 | 70 | [Lo Que Te Amo](https://open.spotify.com/track/2IqNbflEkshezwf3F814H8) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Hombre Afortunado \(Deluxe\)](https://open.spotify.com/album/0QVMOQ8NYtNcOSq6fR4osl) | 3:32 |
 | 71 | [El Amor De Mi Vida](https://open.spotify.com/track/20ucGUA3I3z5lBi651CfNh) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [El Amor De Mi Vida](https://open.spotify.com/album/1wBeKqcO0EVPcKethJQ9sm) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 79 | [Cómo No Adorarla](https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:41 |
 | 80 | [Soy Para Ti](https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Soy Para Ti](https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT) | 2:40 |
 
-Snapshot ID: `MCwzMjA2YTEyZmU0Y2E4OWI1OGIwYmRjMTZjNDdiZDkxZWMwYTgwNDc2`
+Snapshot ID: `MCwyYTgwNDUzZDNiZDBiNzI0ODY1MjlkZTM4ZmUxZWEyZjQ1ZjIwZjg4`

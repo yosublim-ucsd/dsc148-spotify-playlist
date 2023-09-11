@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,729 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,045 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [FLAWS](https://open.spotify.com/track/0EnlvUZO6N6TadHIwbRkRQ) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FLAWS](https://open.spotify.com/album/2HeQ8J78llo9ltuobnqS1F) | 4:07 |
 | 100 | [Lightsabers \(feat\. C Dot Castro\)](https://open.spotify.com/track/67w6FFEfUw7rYNPgKAJCRQ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [C Dot Castro](https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6) | [Lightsabers \(feat\. C Dot Castro\)](https://open.spotify.com/album/3qQQF9zSGLWhyWBWGtXZD9) | 4:50 |
 
-Snapshot ID: `MCwyZmNmYzYwYmM1MzM1NTE2MjYzZGFhYzUwNGVmZTg1MzhlNjVlMjhm`
+Snapshot ID: `MCw5OGM5NmEyNWJjODEzZGY3YmMyZjgyMjc1ZGJhNjllZTEyOWVhNTU1`

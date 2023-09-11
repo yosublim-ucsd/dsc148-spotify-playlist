@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > Zeit für Gemütlichkeit, Kürbisse und lange Herbstspaziergänge.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,124 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,121 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 15 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 |
 | 16 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
 | 17 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 |
-| 18 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
-| 19 | [Radio](https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:34 |
+| 18 | [Radio](https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:34 |
+| 19 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
 | 20 | [Kiss Me](https://open.spotify.com/track/1ELMCVbADOtZj8tYdS01nI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:49 |
 | 21 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 |
-| 22 | [Out of My League](https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:29 |
-| 23 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 |
-| 24 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
+| 22 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
+| 23 | [Out of My League](https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:29 |
+| 24 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 |
 | 25 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 |
 | 26 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
 | 27 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 61 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 |
 | 62 | [Spiegelbild](https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Spiegelbild](https://open.spotify.com/album/70TzQMM2AWBS1amTd4h57G) | 3:14 |
 | 63 | [Egoist](https://open.spotify.com/track/1I9Pfp7ME8LRDuarPaBz3H) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Egoist](https://open.spotify.com/album/6cLgeh84azkbBltd6ZOw7S) | 3:18 |
-| 64 | [Midnight](https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Midnight](https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY) | 2:56 |
-| 65 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 |
+| 64 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 |
+| 65 | [Midnight](https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Midnight](https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY) | 2:56 |
 | 66 | [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 |
 | 67 | [Only For A Moment](https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Only For A Moment](https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV) | 2:47 |
 | 68 | [Sie](https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Sie](https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1) | 3:21 |
 | 69 | [More To This Life](https://open.spotify.com/track/6zPyE3kqAboGKv2iKNOEcR) | [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [More To This Life](https://open.spotify.com/album/4GAoGetqEAbfALqARE0s4I) | 3:20 |
 | 70 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
 
-Snapshot ID: `MCwwZWVjNWMzMjE4MTQ5ODU1ODI2MjNjMDA0ZjZmMzdmYzg0YjgxODU5`
+Snapshot ID: `MCwwMzUyMGEyZjA2MjYzYWYzODIzMWJlOWRhNTY1OGI4ZmYxYmI5Njhi`

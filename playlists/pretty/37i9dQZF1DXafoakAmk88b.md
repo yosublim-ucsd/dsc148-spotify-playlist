@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie driving the current\. Cover: Jordan Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,121 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,207 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 49 | [Leaving The Light](https://open.spotify.com/track/27cBRq5YMm5D1B1nygzetD) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Leaving The Light](https://open.spotify.com/album/2w9vjWFtC4W6MiNK9TwnYq) | 3:10 |
 | 50 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 
-Snapshot ID: `MCxjN2IwNWE0MTE2OTVjM2Y5NGJiZjJhOGU1YWMzMjFjOGM3ZDgxMWU5`
+Snapshot ID: `MCxhN2UxODE4YzBkMWFkMzU1MTY2ZTVmMTNjMzYxMWQzMzg5MGIzMmZm`

@@ -4,7 +4,7 @@
 
 > Canciones que te pondrán en el mejor mood ever\. Olivia Rodrigo en portada.
 
-264 songs - 14 hr 15 min
+265 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,8 @@
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-01-24 | 2022-09-22 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 |  |
 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 | 2022-03-18 | 2022-11-01 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-04-03 | 2023-05-05 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-04-27 |  |
 | [We're Good](https://open.spotify.com/track/4xAJSIcCHcOCli5m325X2H) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [We're Good](https://open.spotify.com/album/4t3Ur7xbLyt0ybULu8jJMH) | 2:45 | 2022-01-07 | 2022-05-06 |

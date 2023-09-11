@@ -4,7 +4,7 @@
 
 > La playlist de ton été 2023 ! 🌞
 
-176 songs - 8 hr 54 min
+177 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 | 2023-06-29 |  |
 | [Un jour je marierai un ange](https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Un jour, je](https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI) | 2:45 | 2022-09-07 | 2023-04-07 |
 | [Vamos](https://open.spotify.com/track/5QowMIujytktMDC8pktNXH) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [La TN \(Team Naps\)](https://open.spotify.com/album/7MNbcWeCe5gCt3PdMXFXeI) | 4:01 | 2022-09-07 | 2023-03-07 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-09-05 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-05 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-09-05 | 2023-09-11 |
 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 | 2023-06-06 | 2023-07-14 |
 | [Waves](https://open.spotify.com/track/0YbFEoJi7Esa7lhIrEpBjl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:45 | 2023-09-05 |  |
 | [We Could Be Together](https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn) | 2:29 | 2022-09-07 | 2023-04-28 |

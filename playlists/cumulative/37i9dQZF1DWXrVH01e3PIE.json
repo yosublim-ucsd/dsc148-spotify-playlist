@@ -966,10 +966,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 170787,
       "name": "Coron\u00e9",
       "url": "https://open.spotify.com/track/386NSsUV8EaZe1xFea64cw"
+    },
+    {
+      "album": {
+        "name": "Mafia Lirical",
+        "url": "https://open.spotify.com/album/3LvQoppyYo1QSEISDUsg8T"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170787,
+      "name": "Coron\u00e9",
+      "url": "https://open.spotify.com/track/6h22JGTLtV29j7sXmtB2ii"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 472505,
+  "num_followers": 472812,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzk3OGQxNzI3ZjI0YzNhODNkOGZkMTg0ODM4M2E4MDBjMWY0Yjk0",
+  "snapshot_id": "MCw1YmYzNDM1YmQ2N2U4Nzg3ZjNmNjE3ZmY1YjAxYjNlZWNmOGE4ZThm",
   "tracks": [
     {
       "added_at": "2023-08-25 13:50:04",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 194594,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "Someone\u2019s EP II X",
         "url": "https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 266289,
       "name": "go with u - Louis La Roche Remix",
       "url": "https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "We Stayed Up All Night",
-        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Ardyn",
-          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
-        }
-      ],
-      "duration_ms": 265758,
-      "name": "We Stayed Up All Night",
-      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "Collage 1",
         "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
       },
@@ -1107,22 +1087,22 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Float Away",
-        "url": "https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe"
+        "name": "We Stayed Up All Night",
+        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         },
         {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+          "name": "Ardyn",
+          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Float Away",
-      "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
+      "duration_ms": 265758,
+      "name": "We Stayed Up All Night",
+      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1147,6 +1127,26 @@
       "duration_ms": 244202,
       "name": "Sunlight (feat. Years and Years) - Darius Remix",
       "url": "https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Float Away",
+        "url": "https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Float Away",
+      "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 324266,
-      "name": "Kin",
-      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "Kyle (i found you)",
         "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 173000,
       "name": "Can\u2019t Let You Go",
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 324266,
+      "name": "Kin",
+      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
         "name": "Back To Life",
         "url": "https://open.spotify.com/album/7aJdFN1wN5WTF9kP0tJQVz"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
       },
       "artists": [
         {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
         }
       ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+      "duration_ms": 180533,
+      "name": "UH",
+      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1515,22 +1531,6 @@
       "duration_ms": 241804,
       "name": "Feels Just Like It",
       "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "UH",
-      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Pocketknife",
-        "url": "https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L"
-      },
-      "artists": [
-        {
-          "name": "Mr Little Jeans",
-          "url": "https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf"
-        }
-      ],
-      "duration_ms": 307066,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "S\u00e9quences (Remixes)",
         "url": "https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd"
       },
@@ -1627,22 +1611,18 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Low Season",
-        "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
+        "name": "Pocketknife",
+        "url": "https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Mr Little Jeans",
+          "url": "https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf"
         }
       ],
-      "duration_ms": 237560,
-      "name": "Kinda Lovely",
-      "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
+      "duration_ms": 307066,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1679,6 +1659,26 @@
       "duration_ms": 318306,
       "name": "We Belong - Odesza Remix",
       "url": "https://open.spotify.com/track/4tO93FtEpqdVA0b9RXK4xI"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Low Season",
+        "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 237560,
+      "name": "Kinda Lovely",
+      "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
     },
     {
       "added_at": "2023-08-25 13:50:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,939 likes - 75 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,246 likes - 75 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 38 | [Candy](https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Brick By Brick](https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8) | 4:13 |
 | 39 | [Drown](https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:30 |
 | 40 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
-| 41 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
-| 42 | [Midlife Crisis](https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 4:19 |
+| 41 | [Midlife Crisis](https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 4:19 |
+| 42 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
 | 43 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
 | 44 | [Dramamine](https://open.spotify.com/track/5vtRk4rYxiy4cj95cmJ5Ma) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [This Is a Long Drive for Someone with Nothing to Think About](https://open.spotify.com/album/3PTktNuj2FItJr8afuiieo) | 5:42 |
 | 45 | [Sunburn](https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:53 |
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 58 | [Velouria](https://open.spotify.com/track/0lBO2VOhlNNx879Fjd9XY3) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Bossanova](https://open.spotify.com/album/0BK1LxNNcaNUtAqTBQAOR8) | 3:40 |
 | 59 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
 | 60 | [Sacrifice](https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH) | [London After Midnight](https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer) | [Selected Scenes from the End of the World](https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN) | 7:35 |
-| 61 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
+| 61 | [It's No Good](https://open.spotify.com/track/339PPSAl7Ta2CZ25YI7a7v) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Q](https://open.spotify.com/artist/7HYjhgcTjrAIRBCACbSEqE), [Tim Simenon](https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW) | [Ultra \| The 12" Singles](https://open.spotify.com/album/3FRJU9jyS1gc71ha3leUp8) | 5:58 |
 | 62 | [Burn](https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 6:38 |
-| 63 | [It's No Good](https://open.spotify.com/track/339PPSAl7Ta2CZ25YI7a7v) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Q](https://open.spotify.com/artist/7HYjhgcTjrAIRBCACbSEqE), [Tim Simenon](https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW) | [Ultra \| The 12" Singles](https://open.spotify.com/album/3FRJU9jyS1gc71ha3leUp8) | 5:58 |
+| 63 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
 | 64 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 |
-| 65 | [Who Was In My Room Last Night?](https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Independent Worm Saloon](https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo) | 4:09 |
-| 66 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 |
+| 65 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 |
+| 66 | [Who Was In My Room Last Night?](https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Independent Worm Saloon](https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo) | 4:09 |
 | 67 | [Bone Machine \- Remastered](https://open.spotify.com/track/7ERZgMLgpVhrp2D6JYy02t) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:03 |
 | 68 | [I Think I'm Paranoid](https://open.spotify.com/track/7fFJ4nfi1mnQ10J8YAu9Di) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 3:38 |
 | 69 | [Venus as a Boy](https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 74 | [March Of The Pigs](https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 2:58 |
 | 75 | [Black Sunshine](https://open.spotify.com/track/0D7aPFnFa9qIVFpOJ1ZBTG) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 4:49 |
 
-Snapshot ID: `MCxiZDkyZDY3ZmNhY2UxMjM0MDM4Y2E5ODc5Yzk2ZWIxOTBmY2Q0MWZj`
+Snapshot ID: `MCw3ZWQwYTg0MzE3Nzg1YTA3NTBkZDBiOGFjMTBjNGY2MWY1YzFlNjI4`

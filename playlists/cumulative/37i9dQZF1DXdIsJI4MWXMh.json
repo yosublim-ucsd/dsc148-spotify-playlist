@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Siempre Arriba \u2502 Pa Darle Gusto Al Gusto (Cumbias Rancheras Del Sur)",
+        "url": "https://open.spotify.com/album/7fx5J5NxE6RPBDpiS5fEr6"
+      },
+      "artists": [
+        {
+          "name": "Gran Sismo Tropikal",
+          "url": "https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213420,
+      "name": "El Wiri Wiri",
+      "url": "https://open.spotify.com/track/5zwP4VkQCsK3pazOHleeHk"
+    },
+    {
+      "album": {
         "name": "Me Voy a Emborrachar",
         "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
       },
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 254850,
       "name": "Mi Decisi\u00f3n",
       "url": "https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8"

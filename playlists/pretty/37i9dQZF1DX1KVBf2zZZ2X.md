@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,631 likes - 90 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,762 likes - 90 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 50 | [Morning Sun](https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Morning Sun](https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj) | 2:47 |
 | 51 | [Pentode](https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Pentode](https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A) | 2:39 |
 | 52 | [Through the Clouds](https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 2:32 |
-| 53 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 |
-| 54 | [The Blue Dragon](https://open.spotify.com/track/6oNdphvzPO37XFCLtZMKVC) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [The Blue Dragon](https://open.spotify.com/album/69idyZhdF1As3JRdfZhXBz) | 3:39 |
+| 53 | [The Blue Dragon](https://open.spotify.com/track/6oNdphvzPO37XFCLtZMKVC) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [The Blue Dragon](https://open.spotify.com/album/69idyZhdF1As3JRdfZhXBz) | 3:39 |
+| 54 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 |
 | 55 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 |
 | 56 | [Pitter Patter](https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Pitter Patter](https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE) | 2:42 |
 | 57 | [Wait](https://open.spotify.com/track/2T1ybUcEfgC1Z4XUXw5GlZ) | [Aubrey Fornier](https://open.spotify.com/artist/3d8Ky2p7PzmNYDvPcJxGM9) | [Wait](https://open.spotify.com/album/4LtHbWd6Dgd7xApLzpzzp9) | 1:54 |
@@ -84,19 +84,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 74 | [Relaxing Dreams](https://open.spotify.com/track/1sVSK4sDadVzioPciymr00) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Relaxing Dreams](https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4) | 4:41 |
 | 75 | [On the Cottage Floor](https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:46 |
 | 76 | [Solitude](https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 3:06 |
-| 77 | [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 |
-| 78 | [Song Of The Willow](https://open.spotify.com/track/2qauTYzfcc16QprcwV8put) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Song Of The Willow](https://open.spotify.com/album/4grcPo21FAY8jbe6y3JMk5) | 2:18 |
+| 77 | [Song Of The Willow](https://open.spotify.com/track/2qauTYzfcc16QprcwV8put) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Song Of The Willow](https://open.spotify.com/album/4grcPo21FAY8jbe6y3JMk5) | 2:18 |
+| 78 | [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 |
 | 79 | [Honeydew](https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Honeydew](https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y) | 2:00 |
 | 80 | [Noruega](https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noruega](https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx) | 3:45 |
 | 81 | [...comes sunshine](https://open.spotify.com/track/4HfWzLFR1tHW1rQuzKW3Be) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [...comes sunshine](https://open.spotify.com/album/27PmpZSLnHo4qjl3f7R7bm) | 3:07 |
 | 82 | [Carpology](https://open.spotify.com/track/5eTwZHtaPzrRoVtyOUMgx1) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Carpology](https://open.spotify.com/album/2HVhkzOKtK1M5yvbRfZdek) | 2:03 |
-| 83 | [At Dawn](https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:14 |
-| 84 | [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 |
+| 83 | [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 |
+| 84 | [At Dawn](https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:14 |
 | 85 | [Noche De Otoño](https://open.spotify.com/track/4BiQv316kzweNWOmAxGFor) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noche De Otoño](https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO) | 3:25 |
 | 86 | [Hygrometer](https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Hygrometer](https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C) | 2:26 |
 | 87 | [The Sparrow](https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [The Old Grandfather Clock](https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu) | 3:12 |
-| 88 | [Juncture](https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Juncture](https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8) | 2:22 |
-| 89 | [Wave](https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF) | [The Lagoon](https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA) | [Wave](https://open.spotify.com/album/16S959NluCJSWVpybU2jb8) | 3:51 |
-| 90 | [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 |
+| 88 | [Take a Breath](https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Take a Breath](https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu) | 2:50 |
+| 89 | [Juncture](https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Juncture](https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8) | 2:22 |
+| 90 | [Wave](https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF) | [The Lagoon](https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA) | [Wave](https://open.spotify.com/album/16S959NluCJSWVpybU2jb8) | 3:51 |
 
-Snapshot ID: `MCxhMWZiYjVkYTQzOTg1OTJmNzQ4NzY1ZjVhYmQzYTY5ZDE4YmE5MzM1`
+Snapshot ID: `MCxlODUxY2I4Nzk3ZTBjYmViNDM3MjJiZTk3Y2ZkM2Q5N2M2YWZmNWZi`

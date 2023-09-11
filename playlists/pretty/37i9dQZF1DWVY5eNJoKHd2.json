@@ -1,12 +1,12 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 1108227,
+  "num_followers": 1108856,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjYzMDk0YWU1ODIyNzM3M2U2YjE2NzFkNjcwNjU5YmNkN2FhY2Yw",
+  "snapshot_id": "MCxkMGQ3NzAyNDZjY2IzMzRkYThiOTdkZTRiMmQ0MTE1ZWIwOGVjNzBl",
   "tracks": [
     {
       "added_at": "2023-05-19 16:52:20",
@@ -537,38 +537,6 @@
       "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "sdp interlude",
-      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Camp",
-        "url": "https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 317293,
-      "name": "Les",
-      "url": "https://open.spotify.com/track/0YsGMHid6sFq5PcToe3JZE"
-    },
-    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "adore u",
@@ -587,6 +555,38 @@
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Camp",
+        "url": "https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 317293,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/0YsGMHid6sFq5PcToe3JZE"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "sdp interlude",
+      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 277043,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
-    },
-    {
       "added_at": "2023-05-19 16:52:20",
       "album": {
         "name": "WASTELAND",
@@ -667,6 +651,22 @@
       "duration_ms": 169013,
       "name": "JACKIE BROWN",
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 277043,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -849,6 +849,22 @@
       "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw"
     },
     {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
+    },
+    {
       "added_at": "2023-05-19 16:52:20",
       "album": {
         "name": "Double Fantasy",
@@ -867,22 +883,6 @@
       "duration_ms": 268235,
       "name": "Double Fantasy (with Future)",
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Everything So Far",
-        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "Need 2",
-      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -981,6 +981,22 @@
       "url": "https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM"
     },
     {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
       "added_at": "2023-05-19 16:52:20",
       "album": {
         "name": "Paradise Again",
@@ -1015,22 +1031,6 @@
       "duration_ms": 256532,
       "name": "White Iverson",
       "url": "https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2023-08-09 15:29:21",
@@ -1129,26 +1129,6 @@
       "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"
     },
     {
-      "added_at": "2023-06-07 15:28:24",
-      "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Hummingbird (Metro Boomin & James Blake)",
-      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
-    },
-    {
       "added_at": "2023-05-19 16:52:20",
       "album": {
         "name": "Ends & Begins",
@@ -1163,6 +1143,22 @@
       "duration_ms": 197465,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 217209,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1181,20 +1177,24 @@
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
+      "added_at": "2023-06-07 15:28:24",
       "album": {
-        "name": "Winner",
-        "url": "https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy"
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 217209,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai"
+      "duration_ms": 319493,
+      "name": "Hummingbird (Metro Boomin & James Blake)",
+      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "Nothing Was The Same",
-        "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 227880,
-      "name": "Hold On, We're Going Home",
-      "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
+      "duration_ms": 326533,
+      "name": "Ex-Factor",
+      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1311,18 +1307,22 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+        "name": "Nothing Was The Same",
+        "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 326533,
-      "name": "Ex-Factor",
-      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
+      "duration_ms": 227880,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1377,6 +1377,22 @@
       "url": "https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2"
     },
     {
+      "added_at": "2023-05-24 16:44:21",
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Breathe (In the Air)",
+      "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+    },
+    {
       "added_at": "2023-05-19 16:52:20",
       "album": {
         "name": "Hurry Up, We're Dreaming",
@@ -1393,20 +1409,20 @@
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
-      "added_at": "2023-05-24 16:44:21",
+      "added_at": "2023-08-31 17:50:34",
       "album": {
-        "name": "The Dark Side of the Moon",
-        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA"
       },
       "artists": [
         {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 169534,
-      "name": "Breathe (In the Air)",
-      "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+      "duration_ms": 216453,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1455,22 +1471,6 @@
       "duration_ms": 231964,
       "name": "Who Hurt You?",
       "url": "https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym"
-    },
-    {
-      "added_at": "2023-08-31 17:50:34",
-      "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ"
     },
     {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "Eat Your Young",
-        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Eat Your Young",
-      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Lose It All (I Don't Wanna)",
@@ -1591,6 +1575,22 @@
       "duration_ms": 139071,
       "name": "Lose It All (I Don't Wanna)",
       "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
     },
     {
       "added_at": "2023-05-19 16:52:20",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia y cuarteto!",
-  "num_followers": 454099,
+  "num_followers": 454686,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWE1NzcyMzhmNjE4MTdlNzI0NzA4Njk1Nzg0ZjFjYmI5Nzk0YzI1",
+  "snapshot_id": "MCw1YzM3ZTE3YmNmN2E5YmVmYzAzMWI1ZmQ4ZDFhMDQ0ODllNDUwMjQw",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -731,30 +731,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "LATI2",
-        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "LATI2",
-      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Solo (Amistad... o Nada!!!)",
         "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 189152,
       "name": "Jurabas Tu",
       "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "LATI2",
+        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "LATI2",
+      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 251146,
-      "name": "La Cumbia De Los Trapos",
-      "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Se Fue Viral",
         "url": "https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 180213,
       "name": "Se Fue Viral",
       "url": "https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 251146,
+      "name": "La Cumbia De Los Trapos",
+      "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "Yo Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Vol\u00f3 la Paloma",
         "url": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 290120,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "Yo Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Amor de Mentiras",
-        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 224352,
       "name": "Su Florcita",
       "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Amor de Mentiras",
+        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Sa, Za...Sabor",
         "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 233613,
       "name": "Porque te amo",
       "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "No Podre Olvidarme",
+      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
       "artists": [
         {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 195586,
-      "name": "No Podre Olvidarme",
-      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Coraz\u00f3n Valiente",
         "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 200575,
       "name": "Si Esta Casa Hablara",
       "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Messirve Mix 3",
-        "url": "https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 447529,
-      "name": "Messirve Mix 3",
-      "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Boquita de Caramelo",
         "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
@@ -1643,18 +1627,34 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Cachorro",
-        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
+        "name": "Tiempo De Bailar",
+        "url": "https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         }
       ],
-      "duration_ms": 175909,
-      "name": "Cachorro",
-      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
+      "duration_ms": 169250,
+      "name": "La Cola",
+      "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Messirve Mix 3",
+        "url": "https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 447529,
+      "name": "Messirve Mix 3",
+      "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1691,18 +1691,34 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Tiempo De Bailar",
-        "url": "https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM"
+        "name": "Los Verdugos De La Mufa",
+        "url": "https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
         }
       ],
-      "duration_ms": 169250,
-      "name": "La Cola",
-      "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
+      "duration_ms": 238533,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Cachorro",
+        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Cachorro",
+      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1719,22 +1735,6 @@
       "duration_ms": 254333,
       "name": "Vienes y Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Los Verdugos De La Mufa",
-        "url": "https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
     },
     {
       "added_at": "2023-09-08 03:00:00",

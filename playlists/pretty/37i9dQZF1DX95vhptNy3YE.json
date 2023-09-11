@@ -1,12 +1,12 @@
 {
   "description": "Duquesa e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 215411,
+  "num_followers": 215424,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjZiMDhlMTRmOGI3NmI1NTc5OWFlY2I2NTE4OTk2Y2U1YTdiZmFl",
+  "snapshot_id": "MCw2MzE2M2ZkYjkwYTVkZDBjMTA2NTRiZTMyY2U0Mzg4MzQ1ZmUyNzhm",
   "tracks": [
     {
       "added_at": "2023-09-08 16:54:46",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-09-08 16:54:46",
       "album": {
+        "name": "Beija Que Eu Paro de Falar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hClh0VFvcaG04mAjzKBZa"
+      },
+      "artists": [
+        {
+          "name": "Bom Gosto",
+          "url": "https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd"
+        }
+      ],
+      "duration_ms": 128453,
+      "name": "Beija Que Eu Paro de Falar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4vbt2ZMxdVDerLgOUrMYoW"
+    },
+    {
+      "added_at": "2023-09-08 16:54:46",
+      "album": {
         "name": "Sou + As Negras",
         "url": "https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 161076,
       "name": "Sou + As Negras",
       "url": "https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ"
-    },
-    {
-      "added_at": "2023-09-08 16:54:46",
-      "album": {
-        "name": "Beija Que Eu Paro de Falar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6hClh0VFvcaG04mAjzKBZa"
-      },
-      "artists": [
-        {
-          "name": "Bom Gosto",
-          "url": "https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd"
-        }
-      ],
-      "duration_ms": 128453,
-      "name": "Beija Que Eu Paro de Falar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4vbt2ZMxdVDerLgOUrMYoW"
     },
     {
       "added_at": "2023-09-08 16:54:46",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-09-08 16:54:46",
       "album": {
-        "name": "Zulu: Quarta Parede, Vol.3",
-        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 289090,
-      "name": "O Pre\u00e7o da Guerra",
-      "url": "https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu"
-    },
-    {
-      "added_at": "2023-09-08 16:54:46",
-      "album": {
         "name": "Novinha do Peito Bicudo",
         "url": "https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa"
       },
@@ -939,6 +919,26 @@
     {
       "added_at": "2023-09-08 16:54:46",
       "album": {
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+        }
+      ],
+      "duration_ms": 289090,
+      "name": "O Pre\u00e7o da Guerra",
+      "url": "https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu"
+    },
+    {
+      "added_at": "2023-09-08 16:54:46",
+      "album": {
         "name": "KEN ELAS QUER",
         "url": "https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL"
       },
@@ -955,6 +955,26 @@
       "duration_ms": 121234,
       "name": "KEN ELAS QUER",
       "url": "https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf"
+    },
+    {
+      "added_at": "2023-09-08 16:54:46",
+      "album": {
+        "name": "A noite toda",
+        "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
+      },
+      "artists": [
+        {
+          "name": "Lionel",
+          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "A noite toda",
+      "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
     },
     {
       "added_at": "2023-09-08 16:54:46",
@@ -983,26 +1003,6 @@
     {
       "added_at": "2023-09-08 16:54:46",
       "album": {
-        "name": "A noite toda",
-        "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
-      },
-      "artists": [
-        {
-          "name": "Lionel",
-          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "A noite toda",
-      "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
-    },
-    {
-      "added_at": "2023-09-08 16:54:46",
-      "album": {
         "name": "Nova Wave, Pt. 2",
         "url": "https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI"
       },
@@ -1019,22 +1019,18 @@
     {
       "added_at": "2023-09-08 16:54:46",
       "album": {
-        "name": "Gostosa de Air Max",
-        "url": "https://open.spotify.com/album/4h9JWqAumE78sOniGFUGg1"
+        "name": "Of\u00edcio de Cantante",
+        "url": "https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE"
       },
       "artists": [
         {
-          "name": "Laura Sette",
-          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
-        },
-        {
-          "name": "Weeze Cooker",
-          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 135609,
-      "name": "Gostosa de Air Max",
-      "url": "https://open.spotify.com/track/02uKdKnouBOFSqP8aRCUmj"
+      "duration_ms": 278837,
+      "name": "Of\u00edcio de Cantante",
+      "url": "https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v"
     },
     {
       "added_at": "2023-09-08 16:54:46",
@@ -1055,6 +1051,26 @@
       "duration_ms": 217538,
       "name": "Kawo",
       "url": "https://open.spotify.com/track/4TCNy9SAKNl3LLpsK8ITID"
+    },
+    {
+      "added_at": "2023-09-08 16:54:46",
+      "album": {
+        "name": "Gostosa de Air Max",
+        "url": "https://open.spotify.com/album/4h9JWqAumE78sOniGFUGg1"
+      },
+      "artists": [
+        {
+          "name": "Laura Sette",
+          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
+        },
+        {
+          "name": "Weeze Cooker",
+          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
+        }
+      ],
+      "duration_ms": 135609,
+      "name": "Gostosa de Air Max",
+      "url": "https://open.spotify.com/track/02uKdKnouBOFSqP8aRCUmj"
     },
     {
       "added_at": "2023-09-08 16:54:46",
@@ -1099,18 +1115,22 @@
     {
       "added_at": "2023-09-08 16:54:46",
       "album": {
-        "name": "Of\u00edcio de Cantante",
-        "url": "https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE"
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
       },
       "artists": [
         {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         }
       ],
-      "duration_ms": 278837,
-      "name": "Of\u00edcio de Cantante",
-      "url": "https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v"
+      "duration_ms": 128695,
+      "name": "Romance de Novela",
+      "url": "https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS"
     },
     {
       "added_at": "2023-09-08 16:54:46",
@@ -1131,26 +1151,6 @@
       "duration_ms": 144000,
       "name": "J\u00f3ias",
       "url": "https://open.spotify.com/track/2LFnuYFKk2O6UNBZ8RlSy9"
-    },
-    {
-      "added_at": "2023-09-08 16:54:46",
-      "album": {
-        "name": "Toda Noite",
-        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
-      },
-      "artists": [
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "Romance de Novela",
-      "url": "https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS"
     },
     {
       "added_at": "2023-09-08 16:54:46",

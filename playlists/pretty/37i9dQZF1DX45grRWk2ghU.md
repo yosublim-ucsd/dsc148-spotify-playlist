@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > Life in plastic is fantastic
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,117 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,678 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 21 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
 | 22 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 |
 | 23 | [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 |
-| 24 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
-| 25 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
+| 24 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
+| 25 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
 | 26 | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL) | 2:29 |
 | 27 | [World Class Sinner / I’m A Freak](https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM) | [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 3:19 |
 | 28 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 31 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 |
 | 32 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
 | 33 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 |
-| 34 | [PROVENZA \- REMIX](https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:07 |
-| 35 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
+| 34 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
+| 35 | [PROVENZA \- REMIX](https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:07 |
 | 36 | [Tia Tamera \(feat\. Rico Nasty\)](https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Amala \(Deluxe Version\)](https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU) | 3:31 |
 | 37 | [Not Your Barbie Girl](https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Not Your Barbie Girl](https://open.spotify.com/album/0V4a4xYECICWUCzgoxfIYF) | 3:06 |
 | 38 | [When I Grow Up](https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination \(Deluxe\)](https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 74 | [Obsessed](https://open.spotify.com/track/1VpKOZ6nnap41hh5CbY8gJ) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Obsessed](https://open.spotify.com/album/1pNNZl0NpdpOYQulwgkV8s) | 2:14 |
 | 75 | [Bitch I'm Madonna](https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:47 |
 
-Snapshot ID: `MCw2ZGY1YzRkODJhNjc0MzBhYzMzMWNjMDE4YWQ1OWJlYmUwYmRmMTIz`
+Snapshot ID: `MCwwODU3Mzg1OTRmYzJjZTQ1YTQ4NTFiZTA1MWUwODRhN2U0NDFiNjQ1`

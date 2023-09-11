@@ -10248,7 +10248,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 129000,
       "name": "give it a whirl",
       "url": "https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF"
@@ -25024,6 +25024,24 @@
       "duration_ms": 140571,
       "name": "sunset",
       "url": "https://open.spotify.com/track/5NO2HocQGechq8BaHmvbIa"
+    },
+    {
+      "album": {
+        "name": "sunset",
+        "url": "https://open.spotify.com/album/0wCBbw4ksyMQ5TwzfmY85u"
+      },
+      "artists": [
+        {
+          "name": "Blue Bag",
+          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164166,
+      "name": "sunset",
+      "url": "https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9"
     },
     {
       "album": {

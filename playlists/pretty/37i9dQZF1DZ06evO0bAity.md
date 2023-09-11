@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 28 | [Blood On My Leather](https://open.spotify.com/track/2yX5Hz2SvtGvfNnI879xrf) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Blood On My Leather](https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh) | 2:33 |
 | 29 | [Run To Paradise](https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Run To Paradise](https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT) | 3:14 |
 | 30 | [Keep Myself on Edge](https://open.spotify.com/track/7KZbJBjcUE0x4rHbk0fQU0) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:34 |
-| 31 | [Golden Retriever](https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:21 |
-| 32 | [Make Yourself Mad](https://open.spotify.com/track/575WHTkmnohs1agEfIoRGS) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Make Yourself Mad](https://open.spotify.com/album/7gRumG1rTgiTrHuH6S7Fxe) | 2:40 |
+| 31 | [Make Yourself Mad](https://open.spotify.com/track/575WHTkmnohs1agEfIoRGS) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Make Yourself Mad](https://open.spotify.com/album/7gRumG1rTgiTrHuH6S7Fxe) | 2:40 |
+| 32 | [Golden Retriever](https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:21 |
 | 33 | [Hot Potato](https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:15 |
 | 34 | [Hypercolour](https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:24 |
 | 35 | [Cops / Capacity](https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:52 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 46 | [No Sleep](https://open.spotify.com/track/7K2EiQPCwiaWjXiWXl8dzu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX) | 2:51 |
 | 47 | [Dumb It Down](https://open.spotify.com/track/3flaoSMm3t1rGv0JChT5pR) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:36 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDA3OWFhNmU1YjRkNjk0YWNjODQyMjhmYzUzMDdkMWNlOA==`
+Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDA4YmU5ODIyMWI3YzE1MDQ0YTRiY2EzMDMyNmYyNGNlZA==`

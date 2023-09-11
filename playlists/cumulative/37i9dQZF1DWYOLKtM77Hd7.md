@@ -4,7 +4,7 @@
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-58 songs - 3 hr 1 min
+59 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Christmas Alphabet](https://open.spotify.com/track/7s7e8daLJ9Uw1NBXlZlkwf) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The McGuire Sisters Greatest Hits](https://open.spotify.com/album/1XUHMyIyGrUkx9kfRZYCIm) | 2:10 | 2022-11-23 |  |
 | [Christmas In Hollis](https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Tougher Than Leather \(Expanded Edition\)](https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv) | 2:58 | 2022-11-23 |  |
 | [Christmas Is The Time To Say "I Love You"](https://open.spotify.com/track/2NSFg6KZjXOXLOZ3ayZFbV) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Christmas Is the Time to Say "I Love You"](https://open.spotify.com/album/6ljRiNswE0QEYRltbRdVTX) | 2:54 | 2022-11-23 |  |
+| [Christmas Vacation](https://open.spotify.com/track/2UuwMH7KBuWlYYTk7JeK5F) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5) | 1:48 | 2022-11-23 |  |
 | [Christmas Wrapping](https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl) | [The Waitresses](https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8) | [The Best Of The Waitresses](https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU) | 5:20 | 2022-11-23 |  |
 | [Deck The Halls](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 | 2022-11-23 |  |
 | [Didn't I Get This Last Year?](https://open.spotify.com/track/0kPLIXhrliRxKHjCb6kxdP) | [Bob Rivers & Twisted Radio](https://open.spotify.com/artist/7LSj8VCfJkkw9FQkEnQZLc) | [Bob Rivers & Twisted Radio \- Twisted Christmas Boxed Set](https://open.spotify.com/album/1CqsDLEDJtZxKrKzAFNbz0) | 3:22 | 2022-11-23 |  |
@@ -47,7 +48,7 @@
 | [Merry Xmas Everybody](https://open.spotify.com/track/4dBQWyoZmmgvFBlALGlqZi) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Merry Xmas Everybody](https://open.spotify.com/album/05p2SZoivHg20xFgM0ibTy) | 3:43 | 2022-11-23 |  |
 | [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 | 2022-11-23 |  |
 | [One More Sleep ’til Christmas](https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS) | [Kermit](https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 2:50 | 2022-11-23 |  |
-| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2022-11-23 |  |
+| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2022-11-23 | 2023-09-11 |
 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/47otoIkhx3fkdivEXL5OB6) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:10 | 2022-11-23 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2022-11-23 |  |
 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 | 2022-11-23 |  |

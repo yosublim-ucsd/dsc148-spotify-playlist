@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > ¡Picositos y con mucho sabor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,125 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,188 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Llorar](https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88) | 3:43 |
 | 2 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
-| 3 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 |
-| 4 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:46 |
-| 5 | [Chan Chan](https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 4:16 |
-| 6 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 |
+| 3 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 |
+| 4 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 |
+| 5 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:46 |
+| 6 | [Chan Chan](https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 4:16 |
 | 7 | [Espejeando](https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:03 |
 | 8 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
 | 9 | [20 Rosas](https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:14 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 74 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 |
 | 75 | [Conductor](https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 2:51 |
 | 76 | [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 |
-| 77 | [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 |
-| 78 | [Un Poblano En Nueva York](https://open.spotify.com/track/0atpapzPqDHfYRWeOlgDQf) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Las Clasicas Con Los Yes Yes](https://open.spotify.com/album/0n8IqXoFifn6WsBu9OGLiv) | 3:06 |
+| 77 | [Un Poblano En Nueva York](https://open.spotify.com/track/0atpapzPqDHfYRWeOlgDQf) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Las Clasicas Con Los Yes Yes](https://open.spotify.com/album/0n8IqXoFifn6WsBu9OGLiv) | 3:06 |
+| 78 | [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 |
 | 79 | [El Aguajal](https://open.spotify.com/track/1RKFSzNHUjnsbVlM0r397p) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [El Mundo de los Pobres](https://open.spotify.com/album/66TOc56eMrDa7l7kgec8Ms) | 3:54 |
 | 80 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
 | 81 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 99 | [Todos tenemos hogar](https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Historia natural](https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N) | 3:43 |
 | 100 | [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 |
 
-Snapshot ID: `MCxmOGFjMDUyY2MwOGRiNDQ3YzhhYzU0Mzk1ZmE1OTk5YTEwZDdkNjdh`
+Snapshot ID: `MCw0NTkyYTg3YzA3YjNlYmYyMjI0MmI0ZmE1NmEyZjVlNTI1NWRlMTQx`

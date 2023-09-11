@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 74318,
+  "num_followers": 74314,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTBlOWUxY2Y0NjE5NzlhZGNkODI4NmY5NDUyYWJkZmEzYWQ1YzJl",
+  "snapshot_id": "MCxlZTEzNzBjOGI3ZDg2Mjc3OWQ5MzgyMjdkNWY2MjdiNmM2NjNiYjky",
   "tracks": [
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Already Done",
-        "url": "https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z"
-      },
-      "artists": [
-        {
-          "name": "Free Worship",
-          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Already Done",
-      "url": "https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "Breakthrough (Live)",
         "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 332946,
       "name": "Hallelujah For The Cross - Live",
       "url": "https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "Already Done",
+        "url": "https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Already Done",
+      "url": "https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g"
     },
     {
       "added_at": "2023-04-09 08:58:44",

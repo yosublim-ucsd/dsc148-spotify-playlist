@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,032 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,109 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 16 | [eu te convido](https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [25 de fevereiro](https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv) | 3:05 |
 | 17 | [Desde o Primeiro Sim](https://open.spotify.com/track/5RmyZkrPcN3YzdX6qinVtx) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Desde o Primeiro Sim](https://open.spotify.com/album/2aO1eeu6qWK6orMxpqgp0Y) | 4:28 |
 | 18 | [Um Verso de Amor](https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG), [Alex Gonzaga](https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd) | [Pamela Falando de Amor](https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU) | 4:44 |
-| 19 | [À Moda Antiga](https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U) | [À Moda Antiga](https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB) | 3:02 |
+| 19 | [Deus, Você e Eu](https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51) | [Saulo Vianna](https://open.spotify.com/artist/758WjLdtMlNGzWtoUaJCHe) | [Aperfeiçoou](https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD) | 3:59 |
 | 20 | [Era Você](https://open.spotify.com/track/2pBNf05NfW1nrQqblf8VO0) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Lugar Mais Alto](https://open.spotify.com/album/4MwD9JVQ5rjY79jrO2ak9G) | 4:36 |
-| 21 | [Deus, Você e Eu](https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51) | [Saulo Vianna](https://open.spotify.com/artist/758WjLdtMlNGzWtoUaJCHe) | [Aperfeiçoou](https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD) | 3:59 |
+| 21 | [À Moda Antiga](https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U) | [À Moda Antiga](https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB) | 3:02 |
 | 22 | [Meu Eterno Namorado](https://open.spotify.com/track/6fCkIEUDpl8mBQKkQe5h9O) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Som Gospel](https://open.spotify.com/album/3IJpPRPjIDDkNVgdrwvuoe) | 4:42 |
 | 23 | [Escolhi Te Esperar](https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Cabelo solto \- Playback](https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg) | 3:56 |
 | 24 | [Pra Sempre](https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j) | [Thiago Grulha](https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu) | [Somos Iguais \(Ao Vivo\)](https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER) | 2:35 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 32 | [Presente de Deus](https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS) | [Oficina do Som](https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha), [Renato Vianna](https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7) | [Presente de Deus](https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W) | 3:29 |
 | 33 | [Isso é Amor](https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 3:52 |
 | 34 | [Encontrar Você](https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Thamiriz](https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM) | [Encontrar Você](https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij) | 3:55 |
-| 35 | [Com Você](https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ) | [Cassiane e Jairinho](https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Você](https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no) | 3:43 |
-| 36 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
+| 35 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
+| 36 | [Com Você](https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ) | [Cassiane e Jairinho](https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Você](https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no) | 3:43 |
 | 37 | [O Jeito Que Você Me Olha](https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [O Jeito Que Você Me Olha](https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF) | 3:18 |
 | 38 | [Mulher Realizada](https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Mulher Realizada](https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74) | 4:17 |
 | 39 | [Te Amaria Outra Vez / Amar Você \(Ao Vivo\)](https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Te Amaria Outra Vez / Amar Você \(Ao Vivo\)](https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe) | 4:09 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 58 | [Nosso Castelo](https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nosso Castelo](https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd) | 4:12 |
 | 59 | [Canção do Amor](https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Canção do Amor](https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD) | 3:28 |
 | 60 | [Um Pedacinho do Céu](https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Um Pedacinho do Céu](https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG) | 3:53 |
-| 61 | [Chave do Amor](https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL) | [Kelwin Ramos](https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4), [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Chave do Amor](https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp) | 3:10 |
-| 62 | [Por Favor](https://open.spotify.com/track/0DEV0GiQpOWptidS9t7WNY) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [D.R\. Desfrutando a Relação](https://open.spotify.com/album/2nvHgivR5Eufk3rDQbpuX3) | 3:47 |
+| 61 | [Por Favor](https://open.spotify.com/track/0DEV0GiQpOWptidS9t7WNY) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [D.R\. Desfrutando a Relação](https://open.spotify.com/album/2nvHgivR5Eufk3rDQbpuX3) | 3:47 |
+| 62 | [Chave do Amor](https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL) | [Kelwin Ramos](https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4), [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Chave do Amor](https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp) | 3:10 |
 | 63 | [Deus Você e Eu](https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Deus Você e Eu](https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU) | 3:39 |
 | 64 | [Nós](https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Nós](https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7) | 2:54 |
 | 65 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
 
-Snapshot ID: `MCw0ODMxOTA2NmViMjZjNjM3ZDVjYTU2MGE4ZGQ0YmIxYzA5MDdiZjMx`
+Snapshot ID: `MCxjNzI2MzA4YWEyOWMzMWFhYzQyZDAxZGM1OTM3NmFkYTU2MTFkOTg1`

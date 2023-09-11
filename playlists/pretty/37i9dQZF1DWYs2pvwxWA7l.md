@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=D2brSPxsTCqTMm6uQK4wQg"> BNXN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,802 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,085 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 62 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 |
 | 63 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 |
 | 64 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
-| 65 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 |
-| 66 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 |
+| 65 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 |
+| 66 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 |
 | 67 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 |
 | 68 | [Ogaranya](https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Ogaranya](https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG) | 2:48 |
 | 69 | [Cough](https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Cough](https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx) | 2:57 |
 | 70 | [Many Things](https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Many Things](https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe) | 2:47 |
 
-Snapshot ID: `MCw4ZWJlNzdmNWY1NTIxNjUwZjU3OGM5MGRmZjkzNmQ2Y2Q3ZGMyMDQx`
+Snapshot ID: `MCxiZDc1YWMxOGQwMjhkYjAzNGNjYzJiZmI1OGFiNzg4NzJiY2YzNTRl`

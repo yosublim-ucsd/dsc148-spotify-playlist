@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 
 > Country tracks to pump up your gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,590 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,706 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 74 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 |
 | 75 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 |
 
-Snapshot ID: `MCxkNjQxZTA5NmJmM2RlOWYyNDY2MDljZjNmZTQ1ODQ1YjkyYjIzYTEx`
+Snapshot ID: `MCxhZmYxM2YyYjYzNTkxN2YwM2Q2OGNjNmZjMzgzZmFiNTgwMmNhYTg3`

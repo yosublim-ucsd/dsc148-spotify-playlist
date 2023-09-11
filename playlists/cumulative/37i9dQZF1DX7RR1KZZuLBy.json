@@ -2344,7 +2344,7 @@
     {
       "album": {
         "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/5rVAisj3co4CPMifZQ1jxe"
+        "url": "https://open.spotify.com/album/32fwnQrZWZlnTDvlPENMVp"
       },
       "artists": [
         {
@@ -2359,6 +2359,28 @@
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186486,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/4MwnHdSBnJ0tfrojqIUAiC"
+    },
+    {
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/5rVAisj3co4CPMifZQ1jxe"
+      },
+      "artists": [
+        {
+          "name": "Jesse Frohling",
+          "url": "https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY"
+        },
+        {
+          "name": "Kenzie Frohling",
+          "url": "https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-11",
       "duration_ms": 186486,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/6pbkFpjMVEYJhvhP0g78Ou"

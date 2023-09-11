@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > Hated is out! Foto: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,769 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,875 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 44 | [Shy Away](https://open.spotify.com/track/7v4ziK63yNqkfHh8S3ZSR3) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy \(Livestream Version\)](https://open.spotify.com/album/1B61NzknoGqafMfKLY7QtZ) | 2:55 |
 | 45 | [SANCTUARY](https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [SANCTUARY](https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl) | 2:54 |
 | 46 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 |
-| 47 | [cold cold cold](https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX) | [EZI](https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC) | [isolation demos](https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu) | 2:34 |
-| 48 | [grave inside my head](https://open.spotify.com/track/1ckva68ysL3kpDRkZII6vK) | [GUTTER](https://open.spotify.com/artist/4crqbpbdd2bQuRbuWL07RS), [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [grave inside my head](https://open.spotify.com/album/0MLF0wdEFpJPP4pQACbvMk) | 2:00 |
+| 47 | [grave inside my head](https://open.spotify.com/track/1ckva68ysL3kpDRkZII6vK) | [GUTTER](https://open.spotify.com/artist/4crqbpbdd2bQuRbuWL07RS), [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [grave inside my head](https://open.spotify.com/album/0MLF0wdEFpJPP4pQACbvMk) | 2:00 |
+| 48 | [cold cold cold](https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX) | [EZI](https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC) | [isolation demos](https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu) | 2:34 |
 | 49 | [indieedgycool](https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:26 |
 | 50 | [fmk \(with blackbear\) \- messier](https://open.spotify.com/track/5CO8EbwcxnvA28O7NCDKfJ) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\) \[messier\]](https://open.spotify.com/album/6awuYwlqz9cN5h3yCOffbg) | 3:06 |
 
-Snapshot ID: `MCxkMDBjYzliNzJkYWI5YWM4ZjllYjlkNWYzYjk1OGE1ODQ3YTY5NTFi`
+Snapshot ID: `MCxlMzc2NjJjZjMzMjRlNjI2MmM0YzFiMDA4MDdhM2YzODExODI3N2E5`

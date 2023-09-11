@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 463001,
+  "num_followers": 463258,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTc1Mjk0ZWM2YzY0M2QwZTk2ZmFjOWQ0ZDk1MWJhZTM2NTUyOGZk",
+  "snapshot_id": "MCxhMjRjYzc1YWRkMTI2YTBlNzlkZGZmNzAwNGU3ZWNmMzIyMTA4M2Uy",
   "tracks": [
     {
       "added_at": "2023-08-08 22:15:15",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 309053,
-      "name": "The Adults Are Talking",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Nothing Happens",
         "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 178000,
       "name": "Are You Bored Yet? (feat. Clairo)",
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 309053,
+      "name": "The Adults Are Talking",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
     },
     {
-      "added_at": "2023-07-24 22:20:42",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "3 Nights",
-      "url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX"
-    },
-    {
       "added_at": "2023-07-21 10:48:21",
       "album": {
         "name": "Mura Masa",
@@ -559,6 +543,22 @@
       "duration_ms": 192160,
       "name": "Love$ick (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"
+    },
+    {
+      "added_at": "2023-07-24 22:20:42",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "3 Nights",
+      "url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -643,6 +643,26 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
+        "name": "Phone Numbers",
+        "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 146826,
+      "name": "Phone Numbers",
+      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
         "name": "Year of the Caprese",
         "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
       },
@@ -689,24 +709,20 @@
       "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
     },
     {
-      "added_at": "2023-07-21 10:48:21",
+      "added_at": "2023-07-24 22:20:42",
       "album": {
-        "name": "Phone Numbers",
-        "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 146826,
-      "name": "Phone Numbers",
-      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
+      "duration_ms": 204014,
+      "name": "Hot Rod",
+      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -723,22 +739,6 @@
       "duration_ms": 199232,
       "name": "Ode to a Conversation Stuck in Your Throat",
       "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
-    },
-    {
-      "added_at": "2023-07-24 22:20:42",
-      "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 204014,
-      "name": "Hot Rod",
-      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "How Will You Know If You Never Try",
-        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 185172,
       "name": "21",
       "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "How Will You Know If You Never Try",
+        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
       "added_at": "2023-08-04 12:43:17",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
     },
     {
-      "added_at": "2023-07-24 22:20:42",
-      "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 230773,
-      "name": "Cold Cold Man",
-      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
-    },
-    {
       "added_at": "2023-07-21 10:48:21",
       "album": {
         "name": "Caravelle",
@@ -1255,6 +1239,22 @@
       "duration_ms": 276293,
       "name": "Canop\u00e9e",
       "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
+    },
+    {
+      "added_at": "2023-07-24 22:20:42",
+      "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "Cold Cold Man",
+      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Alvvays",
-        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Archie, Marry Me",
-      "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 192000,
       "name": "Disco Man",
       "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Alvvays",
+        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Archie, Marry Me",
+      "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
       },
@@ -1607,6 +1623,22 @@
       "duration_ms": 119016,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Father of the Bride",
+        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1627,50 +1659,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "GOOD TIMES / PROBLEMZ",
-        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         }
       ],
-      "duration_ms": 181312,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
-        "name": "Father of the Bride",
-        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
+      "duration_ms": 290173,
+      "name": "The Bay",
+      "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
     }
   ],
   "unique_name": "Summer Indie",

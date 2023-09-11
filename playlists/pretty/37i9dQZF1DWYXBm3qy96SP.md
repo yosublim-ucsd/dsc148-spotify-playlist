@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: The Rolling Stones　Photo: Mark Seliger
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,111 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,140 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 32 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
 | 33 | [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 |
 | 34 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 |
-| 35 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 |
-| 36 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 |
+| 35 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 |
+| 36 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 |
 | 37 | [Fighting Myself](https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:21 |
 | 38 | [METALI!! \- feat\. Tom Morello](https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [METALI!! \(feat\. Tom Morello\)](https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt) | 3:28 |
 | 39 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 52 | [Fortress](https://open.spotify.com/track/2DgCbJDypBVf0X3PiDjdY1) | [Love Under The Sun](https://open.spotify.com/artist/662xmarhYJgaJoXsfAiDuT), [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Fortress](https://open.spotify.com/album/0FT1HspWvHgHxF48eLZl8i) | 2:30 |
 | 53 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 | 54 | [We Were Never Lost](https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Lights](https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv) | 3:44 |
-| 55 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 |
+| 55 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 |
 | 56 | [Man Down](https://open.spotify.com/track/0zwTWAaEvnHoGIoRIPG0oD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Man Down](https://open.spotify.com/album/2hPc8LFCi2HzeW1BdSw8TH) | 3:03 |
 | 57 | [Francesca](https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:30 |
 | 58 | [Out of Here](https://open.spotify.com/track/3B2yKoPSPTpJMkeWkKKBEI) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Out of Here](https://open.spotify.com/album/0KsIXZG5hCdJvd9OAaxrNU) | 3:32 |
-| 59 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 |
+| 59 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 |
 | 60 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 |
 | 61 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 |
 | 62 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 79 | [Nobody](https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:53 |
 | 80 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 |
 
-Snapshot ID: `MCwxMDNmNTQ3MDM3ZDE0ZGNkMTJkZGMwZjFkMGI2M2MxYzFiOGJiOTdh`
+Snapshot ID: `MCw2NjBiYzk4MTQ1YTlkZGFiODNkYjQ1MzUzNmFjMzRiYmU1YjRkMDRj`

@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Soul Glo
 
-147 songs - 6 hr 11 min
+148 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Trauma Bonds](https://open.spotify.com/track/1wT90Y3nYuDhTjytAfO6Cx) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Blending](https://open.spotify.com/album/2O3NneZDbRKj2kTyMK9jrw) | 4:38 | 2023-08-11 |  |
 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-02-24 |  |
 | [Under My Skin](https://open.spotify.com/track/2WSK2AMe6HMWnf5v44WZ0Y) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/0NeYAcRZFc5kQWyoUucMxG) | 2:52 | 2023-07-18 | 2023-07-22 |
-| [Under My Skin](https://open.spotify.com/track/31b42JpcNCgM1AV3l7Ixje) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/3YjB0HnU6qIJIvyxxGovGo) | 2:52 | 2023-07-18 |  |
+| [Under My Skin](https://open.spotify.com/track/31b42JpcNCgM1AV3l7Ixje) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/3YjB0HnU6qIJIvyxxGovGo) | 2:52 | 2023-07-18 | 2023-09-11 |
+| [Under My Skin](https://open.spotify.com/track/6ZnFZBuuLMTiBYx4Lx3gMU) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Not Through Blood](https://open.spotify.com/album/72qCyvqc1Spr8Vwx97NTTA) | 2:52 | 2023-08-25 |  |
 | [Vie](https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w) | [Fury](https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0) | [Vie](https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO) | 3:48 | 2023-06-20 |  |
 | [Walk Away](https://open.spotify.com/track/3oTmI7QmcVxDarZBjIFo20) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Haymaker](https://open.spotify.com/album/5jq1TKdbp3hZrT7iJw4VPS) | 3:01 | 2023-02-24 | 2023-06-21 |
 | [War Above Los Angeles](https://open.spotify.com/track/2Andf7SMtdA0IVvwzwY2zS) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Free LSD](https://open.spotify.com/album/5nER4eLsGNJadmUGamAsCF) | 2:55 | 2023-02-24 |  |

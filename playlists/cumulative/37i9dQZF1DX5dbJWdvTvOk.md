@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-589 songs - 1 day 0 hr 58 min
+590 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Always With You](https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Always With You](https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9) | 2:27 | 2023-08-10 |  |
 | [Am ende](https://open.spotify.com/track/60N406bCjmSX6Mwj0lR7dC) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Am ende](https://open.spotify.com/album/2a7ziC6igJV8XCrw9s2yeb) | 2:32 | 2023-04-21 |  |
 | [am Marienplatz](https://open.spotify.com/track/6aChaZyAJMXGE1dv3Hl1Py) | [Alexander Wurzler](https://open.spotify.com/artist/25W6u2VnVVME6ZEMSn9Kfa) | [Morgenstund](https://open.spotify.com/album/2ni9DbZXvKnvHyr5UbYAo5) | 2:49 | 2022-07-15 | 2023-04-22 |
+| [AM Sunset](https://open.spotify.com/track/06ZwqZmTvUVclp1a7a1Wka) | [Ralph Couvert](https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa) | [AM Sunset](https://open.spotify.com/album/33beEdj4t72q8BLg2eZBOT) | 3:10 | 2023-09-07 |  |
 | [Amai Hi](https://open.spotify.com/track/39kKNitwwvn7Y0oH0NGN82) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Amai Hi](https://open.spotify.com/album/62Y6MiU9MICnsbetYyKizY) | 2:02 | 2023-04-21 |  |
 | [Amfora](https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q) | [Elke Meyer](https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j) | [Amfora](https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2) | 2:04 | 2022-12-16 |  |
 | [Amor Perfeito](https://open.spotify.com/track/5Ayj1cdbFJ6d9MwFeFEREe) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Amor Perfeito](https://open.spotify.com/album/5tbZcyDOEmo4dbpes7LAlO) | 2:20 | 2023-08-31 |  |
@@ -292,7 +293,7 @@
 | [Lake District](https://open.spotify.com/track/2xrNBiMKQ8Waq8Yfk3SILh) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Lake District](https://open.spotify.com/album/2D3X3S42HBWPbhWL9nE7YE) | 2:49 | 2022-07-15 | 2022-10-29 |
 | [Lange Reise](https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Wunder der Welt](https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg) | 2:36 | 2023-04-21 |  |
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2023-04-21 |  |
-| [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 | 2023-04-21 |  |
+| [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 | 2023-04-21 | 2023-09-11 |
 | [Lavender Fields](https://open.spotify.com/track/3ExlWxzIV13ak6afl93XDq) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Lavender Fields](https://open.spotify.com/album/5ZWhg4hM263s5Mb21HicFg) | 3:29 | 2022-07-15 | 2022-10-07 |
 | [Layers](https://open.spotify.com/track/3HCq1uKsrIfii8eYSgO9tf) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Layers](https://open.spotify.com/album/3Mru6j8trKeOcaw27xAlqB) | 2:41 | 2023-04-21 |  |
 | [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |

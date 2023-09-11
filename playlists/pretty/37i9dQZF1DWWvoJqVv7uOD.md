@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Cian Durcot
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,634 likes - 83 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,794 likes - 83 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 82 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |
 | 83 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 |
 
-Snapshot ID: `MCwwYzFmZWZjM2NiMzgxOGRmYWZkZDdlOTYyNzU1NDE5NDkwNGFmMTM2`
+Snapshot ID: `MCwyNjgxOWYyMTdkOGIxMDEyNzg4NTQxMjlkZWJhNmI3NWJmMGUwOTBh`

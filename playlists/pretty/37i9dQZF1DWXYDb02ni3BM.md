@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 
 > Las divas del pop latino de ayer y hoy\. Foto: Alejandra Guzmán
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,387 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,506 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 | 44 | [Destino](https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:00 |
 | 45 | [Pies Descalzos, Sueños Blancos](https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:25 |
 | 46 | [Ser O Parecer](https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Celestial](https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw) | 3:31 |
-| 47 | [1Trago](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1Trago](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 |
-| 48 | [Todos Me Miran](https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [La Trayectoria](https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ) | 3:24 |
-| 49 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
-| 50 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 |
+| 47 | [Todos Me Miran](https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [La Trayectoria](https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ) | 3:24 |
+| 48 | [1Trago](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1Trago](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 |
+| 49 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 |
+| 50 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
 
-Snapshot ID: `MCw1YmI0MzBkZGYyZGQ5NjNkNWZlNWZiNzM2MGVjZGZhMWIyNThiZTAw`
+Snapshot ID: `MCwxMjJjOWRmMWQ4MGZjNTUxZGVkZjkzMGU0ODIzYmE1MDBjNzVjZjhh`

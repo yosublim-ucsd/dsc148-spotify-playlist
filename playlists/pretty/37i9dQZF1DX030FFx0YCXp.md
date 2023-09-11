@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 
 > Crowdpleasing classics for an easy, carefree day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,027 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,091 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 |
 | 2 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 3 | [Bad Moon Rising](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:21 |
-| 4 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
-| 5 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
+| 4 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
+| 5 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
 | 6 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 |
 | 7 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
 | 8 | [Rich Girl](https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Bigger Than Both Of Us](https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic) | 2:22 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 19 | [Hurts So Good](https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 3:38 |
 | 20 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 |
 | 21 | [Learning To Fly](https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:02 |
-| 22 | [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 |
-| 23 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
+| 22 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
+| 23 | [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 |
 | 24 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 |
 | 25 | [Sister Golden Hair](https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Hearts](https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n) | 3:19 |
 | 26 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 37 | [China Grove](https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:15 |
 | 38 | [Jet Airliner](https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:35 |
 | 39 | [Small Town](https://open.spotify.com/track/2HsjJJL4DhPCzMlnaGv7ap) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Scarecrow](https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk) | 3:41 |
-| 40 | [Peace Train \- Remastered 2021](https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 4:13 |
-| 41 | [I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:08 |
-| 42 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 |
-| 43 | [Show Me The Way](https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Frampton](https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX) | 4:03 |
+| 40 | [I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:08 |
+| 41 | [Peace Train \- Remastered 2021](https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 4:13 |
+| 42 | [Show Me The Way](https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Frampton](https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX) | 4:03 |
+| 43 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 |
 | 44 | [What Is Life \- 2014 Remaster](https://open.spotify.com/track/44fw7RulJyj7dGIi9qR86N) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 4:24 |
 | 45 | [Blinded By The Light](https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [The Roaring Silence](https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV) | 7:08 |
 | 46 | [Drift Away \- Single Version](https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Ultimate Collection: Dobie Gray](https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS) | 3:57 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 61 | [Take Me to the River](https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Explores Your Mind](https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q) | 3:45 |
 | 62 | [Heartache Tonight \- 2013 Remaster](https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:25 |
 | 63 | [Feelin' Alright](https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 4:10 |
-| 64 | [Turn to Stone](https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 3:49 |
-| 65 | [Carry on Wayward Son](https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [The Essential Kansas](https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ) | 5:22 |
-| 66 | [Rikki Don't Lose That Number](https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 4:32 |
+| 64 | [Rikki Don't Lose That Number](https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 4:32 |
+| 65 | [Turn to Stone](https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 3:49 |
+| 66 | [Carry on Wayward Son](https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [The Essential Kansas](https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ) | 5:22 |
 | 67 | [Shambala \- Single Version](https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Cyan](https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK) | 3:24 |
 | 68 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 |
 | 69 | [Something To Talk About](https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 79 | [Amie \- Remastered January 1992](https://open.spotify.com/track/0jxcw9bsXmHbPUSZqscNai) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Aimee And Other Hits](https://open.spotify.com/album/613A1kuyIWleqEF0YC0Msr) | 4:19 |
 | 80 | [Dust in the Wind](https://open.spotify.com/track/4E0lSJ6c5unoku9UIZoJSl) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [The Best Of Kansas](https://open.spotify.com/album/3eLtE3HWyUWQbO2CYFKkwO) | 3:25 |
 
-Snapshot ID: `MCw3NDEwNzM0MDdiNjg1ZTdjMjMzMTI3YjM0NmNmYjA1OTFhZTJkNzlj`
+Snapshot ID: `MCxjMmU0YTUwMjUwNWUyZjU5YzIzODExYjk2YjFmZDhhYTQ3ZGY4OWVh`

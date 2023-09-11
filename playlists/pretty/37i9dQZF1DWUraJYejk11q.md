@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,643 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,660 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 12 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
 | 13 | [realcopy](https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T) | [derek muro](https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY) | [chronopolis](https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q) | 3:13 |
 | 14 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
-| 15 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA) | 3:26 |
-| 16 | [Leave Here](https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9) | 4:57 |
+| 15 | [Leave Here](https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9) | 4:57 |
+| 16 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA) | 3:26 |
 | 17 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
 | 18 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
 | 19 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Opak](https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Opak](https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz) | 5:37 |
 | 50 | [Bliss](https://open.spotify.com/track/4uxW8xGvAHT2lOCFLG7gUg) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Bliss](https://open.spotify.com/album/3pzfRwPIduKjP0qOF6BYOD) | 3:20 |
 
-Snapshot ID: `MCw5YzU2YmNhNDZlYjYxMTgwNmQ5ZTc0YjRiMjMyNDkyNDY2YWNiNTg2`
+Snapshot ID: `MCxjZWM2ZDE5MzU2MzVlMWMyNWZmODlkMGM2ZTRiODY3OTUyMGJiMjli`

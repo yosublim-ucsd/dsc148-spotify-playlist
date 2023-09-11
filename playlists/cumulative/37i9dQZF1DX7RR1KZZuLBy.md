@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-164 songs - 15 hr 5 min
+165 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Settle for Less \(Live\)](https://open.spotify.com/track/4Xo9grcw19YyxmpHzTbML4) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [The Uprising](https://open.spotify.com/artist/4DW2FpAZ3RVvVr5sXOHbW1) | [The Dawn \(Live\)](https://open.spotify.com/album/69i6OVB0BEPOaQYf7fn7tl) | 3:50 | 2018-09-23 |  |
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2023-06-23 |  |
 | [Sixolele](https://open.spotify.com/track/77DtZoPVPzsetJnfN7Gzn6) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [Izililo](https://open.spotify.com/album/6thyPQyQMTgLI3TzkRh4GP) | 5:00 | 2023-06-16 |  |
-| [Solid Ground](https://open.spotify.com/track/6pbkFpjMVEYJhvhP0g78Ou) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y) | [Solid Ground](https://open.spotify.com/album/5rVAisj3co4CPMifZQ1jxe) | 3:06 | 2023-08-25 |  |
+| [Solid Ground](https://open.spotify.com/track/4MwnHdSBnJ0tfrojqIUAiC) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y) | [Solid Ground](https://open.spotify.com/album/32fwnQrZWZlnTDvlPENMVp) | 3:06 | 2023-08-25 |  |
+| [Solid Ground](https://open.spotify.com/track/6pbkFpjMVEYJhvhP0g78Ou) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y) | [Solid Ground](https://open.spotify.com/album/5rVAisj3co4CPMifZQ1jxe) | 3:06 | 2023-08-25 | 2023-09-11 |
 | [Something About the Name Jesus](https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 6:08 | 2018-09-23 | 2023-04-21 |
 | [Speak A Word \- Live At The Ticketpro Dome](https://open.spotify.com/track/5VvFX25rgjN3TU41KsiQNc) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [The Worshipper](https://open.spotify.com/album/7zll0NF89vzUVOkUpGveSN) | 8:54 | 2018-09-23 | 2022-11-13 |
 | [Speak A Word \- Live At The Ticketpro Dome](https://open.spotify.com/track/5hbkEA5dWKNO866NGdUJ0W) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [The Gathering Of Worshippers \- Speak A Word \(Live At The Ticketpro Dome\)](https://open.spotify.com/album/18CBMyTv69P8hDRLxYwd6V) | 8:54 | 2018-09-23 |  |

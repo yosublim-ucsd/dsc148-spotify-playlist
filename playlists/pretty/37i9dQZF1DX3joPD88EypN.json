@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 30430,
+  "num_followers": 30480,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTQ3NDQ3NjEwZDQ3ODAwMzc1ZjZkOTNkYjAzZDBlYjczYTE1Y2Nl",
+  "snapshot_id": "MCw5NWVhNDYyMTdiZDUwNmJjYmZlODcyZmRmZmU5N2QyMWQ3ZmExZTcz",
   "tracks": [
     {
       "added_at": "2023-08-31 23:59:00",
@@ -459,8 +459,8 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Changing Places",
-        "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
+        "name": "The Ground",
+        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
         }
       ],
-      "duration_ms": 496693,
-      "name": "Song Of Yearning",
-      "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
+      "duration_ms": 295866,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -563,8 +563,8 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "The Ground",
-        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
+        "name": "Changing Places",
+        "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
         }
       ],
-      "duration_ms": 295866,
-      "name": "Twins",
-      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
+      "duration_ms": 496693,
+      "name": "Song Of Yearning",
+      "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "The Land That Is Not",
+        "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
+      },
+      "artists": [
+        {
+          "name": "Sinikka Langeland",
+          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
+        }
+      ],
+      "duration_ms": 375653,
+      "name": "Triumph Of Being",
+      "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "So I Write",
         "url": "https://open.spotify.com/album/4vAwdCMgU6JptyBoGx85rH"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 469706,
       "name": "So I Write",
       "url": "https://open.spotify.com/track/4HsqVdZAwDB7SasYlWOn0H"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "The Land That Is Not",
-        "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
-      },
-      "artists": [
-        {
-          "name": "Sinikka Langeland",
-          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
-        }
-      ],
-      "duration_ms": 375653,
-      "name": "Triumph Of Being",
-      "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1119,8 +1119,8 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
-        "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
+        "name": "Gefion",
+        "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
       },
       "artists": [
         {
@@ -1132,33 +1132,29 @@
           "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
         },
         {
-          "name": "Joey Baron",
-          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
         }
       ],
-      "duration_ms": 514933,
-      "name": "Red Hook - Live At The Jazz Standard, New York / 2017",
-      "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
+      "duration_ms": 270586,
+      "name": "And They All Came Marching Out Of The Woods",
+      "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
     },
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Adam",
-        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
+        "name": "Nearly Invisible Stitches",
+        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
       },
       "artists": [
         {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
         }
       ],
-      "duration_ms": 498112,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
+      "duration_ms": 403513,
+      "name": "Nearly Invisible Stitches",
+      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1179,18 +1175,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Nearly Invisible Stitches",
-        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
       },
       "artists": [
         {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
         }
       ],
-      "duration_ms": 403513,
-      "name": "Nearly Invisible Stitches",
-      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
+      "duration_ms": 498112,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1247,8 +1247,8 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Gefion",
-        "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
+        "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
+        "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
       },
       "artists": [
         {
@@ -1260,29 +1260,13 @@
           "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
         },
         {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+          "name": "Joey Baron",
+          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
         }
       ],
-      "duration_ms": 270586,
-      "name": "And They All Came Marching Out Of The Woods",
-      "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid Trio",
-          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
-        }
-      ],
-      "duration_ms": 301840,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
+      "duration_ms": 514933,
+      "name": "Red Hook - Live At The Jazz Standard, New York / 2017",
+      "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid Trio",
+          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
+        }
+      ],
+      "duration_ms": 301840,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Reflections and Odysseys",
         "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
       },
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Children's Day",
+        "url": "https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot"
+      },
+      "artists": [
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        }
+      ],
+      "duration_ms": 415645,
+      "name": "Children's Day - Small Group Version",
+      "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Children's Day",
-        "url": "https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot"
-      },
-      "artists": [
-        {
-          "name": "Marius Neset",
-          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
-        }
-      ],
-      "duration_ms": 415645,
-      "name": "Children's Day - Small Group Version",
-      "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Scandinavian Standards",
+        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
+      },
+      "artists": [
+        {
+          "name": "Niels Lan Doky",
+          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
+        }
+      ],
+      "duration_ms": 306826,
+      "name": "The Lilly Flower - Liljankukka",
+      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "We Seem to Be Drifting Apart",
         "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Scandinavian Standards",
-        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
-      },
-      "artists": [
-        {
-          "name": "Niels Lan Doky",
-          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
-        }
-      ],
-      "duration_ms": 306826,
-      "name": "The Lilly Flower - Liljankukka",
-      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Bayou",
         "url": "https://open.spotify.com/album/2tsGHiONyukWb8rYSG6TGb"
       },
@@ -1563,6 +1563,30 @@
       "duration_ms": 183493,
       "name": "Como",
       "url": "https://open.spotify.com/track/28UMbNE9pbq0kJpsd9mIZM"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Going with the Flow",
+        "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
+      },
+      "artists": [
+        {
+          "name": "Olga Konkova",
+          "url": "https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS"
+        },
+        {
+          "name": "Carl Morten Iversen",
+          "url": "https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        }
+      ],
+      "duration_ms": 531252,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1595,26 +1619,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Going with the Flow",
-        "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
+        "name": "Funeral Dance",
+        "url": "https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE"
       },
       "artists": [
         {
-          "name": "Olga Konkova",
-          "url": "https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS"
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
         },
         {
-          "name": "Carl Morten Iversen",
-          "url": "https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
         }
       ],
-      "duration_ms": 531252,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
+      "duration_ms": 320534,
+      "name": "S\u00e6velid",
+      "url": "https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1639,26 +1659,6 @@
       "duration_ms": 301253,
       "name": "Mirages",
       "url": "https://open.spotify.com/track/0s8YGmoWPKtb1GynGbHAWK"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Funeral Dance",
-        "url": "https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        }
-      ],
-      "duration_ms": 320534,
-      "name": "S\u00e6velid",
-      "url": "https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Hjorten i skogen",
-        "url": "https://open.spotify.com/album/1msMWUc2k6bMgdUlzXjyFW"
-      },
-      "artists": [
-        {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
-        }
-      ],
-      "duration_ms": 425642,
-      "name": "Hjorten i skogen",
-      "url": "https://open.spotify.com/track/2yJIwvrRF8OnwFJ8GV81oZ"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Few Words",
         "url": "https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8"
       },
@@ -1835,6 +1819,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Hjorten i skogen",
+        "url": "https://open.spotify.com/album/1msMWUc2k6bMgdUlzXjyFW"
+      },
+      "artists": [
+        {
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
+        }
+      ],
+      "duration_ms": 425642,
+      "name": "Hjorten i skogen",
+      "url": "https://open.spotify.com/track/2yJIwvrRF8OnwFJ8GV81oZ"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Kurzsam and Fulger",
         "url": "https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15"
       },
@@ -1847,22 +1847,6 @@
       "duration_ms": 373899,
       "name": "Langsam",
       "url": "https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Lycka till med musiken",
-        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
-      },
-      "artists": [
-        {
-          "name": "Agnas Bros",
-          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
-        }
-      ],
-      "duration_ms": 544093,
-      "name": "9",
-      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1883,6 +1867,22 @@
       "duration_ms": 459000,
       "name": "Sacred Rituals",
       "url": "https://open.spotify.com/track/4fibLzZCLwcyvsO4Y2MFel"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Lycka till med musiken",
+        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
+      },
+      "artists": [
+        {
+          "name": "Agnas Bros",
+          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
+        }
+      ],
+      "duration_ms": 544093,
+      "name": "9",
+      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
     },
     {
       "added_at": "2023-08-31 23:59:00",

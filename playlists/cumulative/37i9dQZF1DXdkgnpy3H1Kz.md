@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-368 songs - 1 day 7 hr 51 min
+369 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [Midsummer Dream](https://open.spotify.com/track/62w4TwPRdFZ73mNg2InQ8S) | [Bertrand.](https://open.spotify.com/artist/0Tr1bsEAQBw1E3CflACBl4) | [Ellen Allien Presents We Are Not Alone, Pt\. 3](https://open.spotify.com/album/0HD6Irn5GEHMXJ698hyi09) | 5:14 | 2023-06-30 | 2023-08-05 |
 | [Mind Surge](https://open.spotify.com/track/1omcqv2A6nZpzOSmoifvNA) | [MORSURE](https://open.spotify.com/artist/7i2NAgDUSGr7whcVn5Azja) | [Mind Surge](https://open.spotify.com/album/6J7ZWU8spqhJAypouFPFBj) | 6:22 | 2023-08-04 |  |
 | [Mononucleacid](https://open.spotify.com/track/5FsLF9gFHZiQXTaExRMegW) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Vax Of Love](https://open.spotify.com/album/4qZj9T8hTnqvOec6JKnONX) | 6:42 | 2023-03-17 | 2023-04-15 |
-| [Monsoon](https://open.spotify.com/track/46coYfQnzhbBfb2dWetg6T) | [Sam KDC](https://open.spotify.com/artist/4iFviujAFhomjaFyHY5SHZ), [Flaminia](https://open.spotify.com/artist/6Vvx3DbVbHlQglFknmtEt5) | [Grounding](https://open.spotify.com/album/7BvpsyjjVugsAlV7JprU7O) | 6:20 | 2023-08-04 |  |
+| [Monsoon](https://open.spotify.com/track/3OI4I9CVRCiMiD89WPWrcM) | [Sam KDC](https://open.spotify.com/artist/4iFviujAFhomjaFyHY5SHZ), [Flaminia](https://open.spotify.com/artist/6Vvx3DbVbHlQglFknmtEt5) | [Grounding](https://open.spotify.com/album/22LQJvGFlcoKxe2KRbHhxx) | 6:20 | 2023-09-01 |  |
+| [Monsoon](https://open.spotify.com/track/46coYfQnzhbBfb2dWetg6T) | [Sam KDC](https://open.spotify.com/artist/4iFviujAFhomjaFyHY5SHZ), [Flaminia](https://open.spotify.com/artist/6Vvx3DbVbHlQglFknmtEt5) | [Grounding](https://open.spotify.com/album/7BvpsyjjVugsAlV7JprU7O) | 6:20 | 2023-08-04 | 2023-09-11 |
 | [MSB4000\-06](https://open.spotify.com/track/5c1oLsAu5OEGJFZdh5OIku) | [Dollkraut](https://open.spotify.com/artist/0ocSwGS6cbsOhgWvbKZVNT), [DJ Europarking](https://open.spotify.com/artist/6v2HisLcnWEbfHNUu89Aox) | [Msb4000\-06](https://open.spotify.com/album/2FwlwD1g60OsfVp65bbHwr) | 3:57 | 2022-12-03 | 2023-02-11 |
 | [Muro De Los Lamentos \- Kamixlo Remix](https://open.spotify.com/track/3Z3AzUeHA2x9VUxK4xZQ2q) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T), [Kamixlo](https://open.spotify.com/artist/047OAyUhKioOpwIRFrRVfx) | [Muro De Los Lamentos \(Kamixlo Remix\)](https://open.spotify.com/album/1iDBmq5dTdWV8NP5lP3Dag) | 3:21 | 2023-02-10 | 2023-03-18 |
 | [My boyfirend Is Very Sexy \(Millimetric Remix\)](https://open.spotify.com/track/7yEhYqtwXLLP7UGYNKcPXZ) | [Adriano Canzian](https://open.spotify.com/artist/3tZ4GWqNaKSOVCqLVenVny), [Millimetric](https://open.spotify.com/artist/3V2apCMzTayzViIniv4Lb5) | [Pornography \(Deluxe Edition\)](https://open.spotify.com/album/6JQnSmkpiIo8HqxtuegXe6) | 4:37 | 2023-06-30 | 2023-08-05 |

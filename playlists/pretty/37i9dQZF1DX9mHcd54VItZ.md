@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=GelQWYzpTk\-l2uPtHFRCzA">Spoegwolf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,547 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,571 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Missing You](https://open.spotify.com/track/6EC17BieM7VV6brgDbTjVq) | [Taking Back March](https://open.spotify.com/artist/4DXdfwRdIQSELsgnKI8qzq) | [Missing You](https://open.spotify.com/album/1IOR4boDTAKJ9zUFoElhon) | 2:29 |
 | 50 | [Burn It](https://open.spotify.com/track/7hSWzzi9Cwu3JL8NB7SpFh) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Burn It](https://open.spotify.com/album/5zKgkvUdr5MXfaJBRvRyOi) | 2:32 |
 
-Snapshot ID: `MCxjODRlNWY2ZTUzNGQ2ZDRiMDA1MjRhZjBjNDVhOWRlMTQ1NmZhZjEx`
+Snapshot ID: `MCw0NzI0ZGMzOTc1MzcwNTk5MmVhZDk0YmI5MDNjZDU5ZGFjZDg3YmVh`

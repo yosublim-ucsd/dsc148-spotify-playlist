@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Eyedress
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,272 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,451 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 32 | [Natural](https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:43 |
 | 33 | [Mystery](https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:43 |
 | 34 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
-| 35 | [How Was Your Day?](https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 4:20 |
-| 36 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
+| 35 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
+| 36 | [How Was Your Day?](https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 4:20 |
 | 37 | [A Sad Song About a Girl I No Longer Know](https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI) | [Bedside Kites](https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL) | [Bedside Kites](https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi) | 5:28 |
 | 38 | [Human Condition](https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Human Condition](https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC) | 2:11 |
-| 39 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
-| 40 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
+| 39 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
+| 40 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
 | 41 | [Ways to Go](https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe) | 2:07 |
 | 42 | [u dont kno me](https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:59 |
 | 43 | [Forever](https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz) | 4:09 |
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 83 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 |
 | 84 | [€ € € €^^%%!!!!!heaven!!!!!!](https://open.spotify.com/track/15pUb5F93loQQWGN5yqB0y) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [€ € € €^^%%!!!!!heaven!!!!!!](https://open.spotify.com/album/7H9foucw2Pl96e1bwW8L3Q) | 4:23 |
 | 85 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 |
-| 86 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi) | 2:17 |
-| 87 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
-| 88 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
-| 89 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
+| 86 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
+| 87 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi) | 2:17 |
+| 88 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
+| 89 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
 | 90 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 |
 | 91 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 |
 | 92 | [Attention](https://open.spotify.com/track/4TKAE15440weMFqZeuzprE) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [at least, I tried](https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [at least, I tried](https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT) | 3:14 |
 | 100 | [What We Left Behind](https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv) | 3:55 |
 
-Snapshot ID: `MCw2YTM5MjNkODNhOGQwODcyMmRmNmY3NjY0NmQ4M2M4NGE0YjQ0MGE1`
+Snapshot ID: `MCxhNTJhMTU4Njg5MTJlNmJlN2Q4OTcwY2Y0YjEwNmI2MmVmYzBhNmU2`

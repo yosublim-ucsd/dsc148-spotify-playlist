@@ -1,12 +1,12 @@
 {
   "description": "Catchy pop music to keep those legs going.",
-  "num_followers": 389649,
+  "num_followers": 390051,
   "original_name": "Fast Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmQzOGVlZjVhZmQ0NmMxZjllOGJjOWFlYzZiOGQzYjI4YWFjZWZi",
+  "snapshot_id": "MCw3MTJhMjliMGE4ZDA2ZDU5NDQwNTUyNTg1M2M2ZDVlNjk0N2Q2OGE5",
   "tracks": [
     {
       "added_at": "2023-02-10 12:47:53",
@@ -151,18 +151,22 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+      "duration_ms": 229360,
+      "name": "Time of Our Lives",
+      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
     },
     {
       "added_at": "2023-01-03 14:50:49",
@@ -187,22 +191,18 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 229360,
-      "name": "Time of Our Lives",
-      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "added_at": "2023-01-03 14:50:49",
@@ -311,18 +311,22 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
       "artists": [
         {
           "name": "Calvin Harris",
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
         }
       ],
-      "duration_ms": 219159,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
+      "duration_ms": 212640,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
     },
     {
       "added_at": "2023-01-03 14:50:49",
@@ -439,22 +443,18 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
-        "name": "How Deep Is Your Love",
-        "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
       },
       "artists": [
         {
           "name": "Calvin Harris",
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
         }
       ],
-      "duration_ms": 212640,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
+      "duration_ms": 219159,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
     },
     {
       "added_at": "2023-01-03 14:50:49",

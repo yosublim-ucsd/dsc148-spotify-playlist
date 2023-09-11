@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 
 > A lazy Sunday vibe, whatever day of the week it is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,899 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,303 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 85 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
 | 86 | [Try](https://open.spotify.com/track/1kS9d4x0ftbfq65eaBGSCT) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Folklore](https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu) | 4:38 |
 | 87 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
-| 88 | [Song For Guy](https://open.spotify.com/track/71zJRiAG1f817v9R9tYMvg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 6:53 |
-| 89 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
+| 88 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
+| 89 | [Song For Guy](https://open.spotify.com/track/71zJRiAG1f817v9R9tYMvg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 6:53 |
 | 90 | [Saturday in the Park](https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:55 |
 | 91 | [Jealous Guy \- Live](https://open.spotify.com/track/7k0lw3bHc5JpqhMRGchjRg) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Live](https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5) | 3:09 |
 | 92 | [VCR](https://open.spotify.com/track/65O4mmCwB46tKBNQhY79Ty) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 99 | [I Don't Want to Talk About It](https://open.spotify.com/track/7cE35BjpKtOIMTqsKGL8z8) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Idlewild](https://open.spotify.com/album/1C36Ww2wRq8wzTg7ZbsZor) | 4:18 |
 | 100 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
 
-Snapshot ID: `MCxkY2FiZGIzNTY2MDg2YjQyZGQzODg3OTBlN2U4YzQxNTFmZmZkM2M3`
+Snapshot ID: `MCxmMjdkYjM2ZjM0ZTc2ZTdhZGFkZjQzOWFmMGQ4NmQzODUwOWVkOWEx`

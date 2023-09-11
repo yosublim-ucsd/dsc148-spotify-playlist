@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,956 likes - 48 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,013 likes - 48 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 31 | [Gracias](https://open.spotify.com/track/33dFdcaqLv97oVBHCo6Wcz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 5:42 |
 | 32 | [Salmo 34](https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Salmo 34](https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS) | 4:12 |
 | 33 | [Tu Gracia](https://open.spotify.com/track/4pnVqsh2SpbKBKVR0wOVJd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ), [Daniel Berrios](https://open.spotify.com/artist/3fODCvQm2gOnXydNhVdFDt), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 8:11 |
-| 34 | [Dios De Avivamiento](https://open.spotify.com/track/2oK5Vp8bA0vaRJhQmhdC7B) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw) | [Dios De Avivamiento](https://open.spotify.com/album/0nwOb0NwaqHCH2BO5sKxFp) | 4:02 |
-| 35 | [Una Nueva Historia](https://open.spotify.com/track/6sxc2kDoRsWDRUeyGKmoTg) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás](https://open.spotify.com/album/6Y9XV3wB6uILdjHfHy6Aat) | 6:06 |
+| 34 | [Una Nueva Historia](https://open.spotify.com/track/6sxc2kDoRsWDRUeyGKmoTg) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás](https://open.spotify.com/album/6Y9XV3wB6uILdjHfHy6Aat) | 6:06 |
+| 35 | [Dios De Avivamiento](https://open.spotify.com/track/2oK5Vp8bA0vaRJhQmhdC7B) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw) | [Dios De Avivamiento](https://open.spotify.com/album/0nwOb0NwaqHCH2BO5sKxFp) | 4:02 |
 | 36 | [Encuentro Glorioso](https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 5:49 |
 | 37 | [Despierta Mi Corazón](https://open.spotify.com/track/3exjY1UuuSPVgdFMFNrxAb) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 7:44 |
 | 38 | [Hasta el Final](https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 4:47 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 47 | [Me Vuelvo a Ti](https://open.spotify.com/track/7IhUvHVUMPpPqnt6wSSbGf) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS) | 4:34 |
 | 48 | [Quién Como Tú](https://open.spotify.com/track/1IJVdbTQCoFJfJFLRlrs8E) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 5:14 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDAxNmE4NjZjMjBiNTEyYWY1NmZjZTljN2I3ZTIxMWM0NA==`
+Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDA3NmExZjhiOTQwNDgzYzcwMzQ2Nzg3NTcwYzBkMzZiNQ==`

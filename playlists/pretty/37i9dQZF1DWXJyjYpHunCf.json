@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Noah Kahan",
-  "num_followers": 855384,
+  "num_followers": 855614,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYThhOWNkNGQ3ZGFkMGUwOTI2NDNhZDRhODBiYzAyOGU2YWI0OGYw",
+  "snapshot_id": "MCxkNmYzYjY2MGI5ZWUwNzFhYmQ4YTkzZjYxOTcxMjdjNGMwNDdjMjNi",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "This Could Be Good",
-      "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "This Could Be Good",
+      "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 248694,
-      "name": "Flora",
-      "url": "https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 248694,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "We Still Move on Dance Floors",
+        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "In This Life",
+      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Backyard Mafia",
         "url": "https://open.spotify.com/album/5nqB1Ti9gY4zym2yDMFyLZ"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "We Still Move on Dance Floors",
-        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
         }
       ],
-      "duration_ms": 163893,
-      "name": "In This Life",
-      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
+      "duration_ms": 178271,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1407,22 +1423,6 @@
       "duration_ms": 166583,
       "name": "drive",
       "url": "https://open.spotify.com/track/1POBIDmX5L8lDEQSkO1DBi"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Those Younger Days",
+        "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
+      },
+      "artists": [
+        {
+          "name": "The Hunts",
+          "url": "https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Kinda Wild",
         "url": "https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 297279,
       "name": "Kinda Wild",
       "url": "https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Those Younger Days",
-        "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
-      },
-      "artists": [
-        {
-          "name": "The Hunts",
-          "url": "https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw"
     },
     {
       "added_at": "2023-09-01 04:00:00",

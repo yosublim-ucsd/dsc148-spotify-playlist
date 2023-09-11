@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,100 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,128 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 49 | [Pegame Tu Vicio](https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Vida](https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9) | 5:01 |
 | 50 | [Lo Mejor Para Los Dos \(Todo de Cabeza\) \- Version Guitarra \- En Vivo](https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH) | [Kaleth Morales En Guitarras](https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y) | 4:11 |
 
-Snapshot ID: `MCxkMjU1MjFkYmIxYWY0NzA0OTg4OWY0ZjE0NjE5MDMyNWJjYzI0NjBj`
+Snapshot ID: `MCxjZDcyZGUzY2E2NDBmYWQ2OTRkMzc3MWFlZWU3ZDQzNTUzMGY2Yjcx`

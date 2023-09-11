@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,859 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,041 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 36 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
 | 37 | [Dépassé](https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Dépassé](https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS) | 2:52 |
 | 38 | [TQG](https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TQG](https://open.spotify.com/album/5f4P1wEFrcMyJKahHfLaoa) | 3:18 |
-| 39 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 39 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 40 | [Flash](https://open.spotify.com/track/3fKhBsWZYvxmBdgHmexyne) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Flash](https://open.spotify.com/album/2U2BM552LnpdQaBfh1TkRs) | 3:12 |
 | 41 | [Some Kind Of Kiss](https://open.spotify.com/track/2xsRIYRAC0mXttKR4sZscl) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Some Kind Of Kiss](https://open.spotify.com/album/5rb5FtGstxBVv9xdFCDKSg) | 2:28 |
 | 42 | [Celui qui part](https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Celui qui part](https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe) | 2:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 59 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 60 | [Parce que c'est toi](https://open.spotify.com/track/7yaeoyjJmeHJ6xMFlj4xJr) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Epicentre](https://open.spotify.com/album/1XyYE1siSQg0hR1FoHMDWL) | 2:50 |
 
-Snapshot ID: `MCw4NDg3MjMzNDViYmM4MjU5NzhiYzhlODQzOTcxYmEyMzFhNDVkNzVj`
+Snapshot ID: `MCw4Y2QyMGU5YTY1YTg2ZGNmZmJmOTU1ODIwZDViZTJjYWIxMzEyNmM3`

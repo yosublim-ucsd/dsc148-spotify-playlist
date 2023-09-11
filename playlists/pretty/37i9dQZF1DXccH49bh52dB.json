@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 513727,
+  "num_followers": 514044,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGYxNzkzNzE2MGMxZjZjYzIwYmQyNmYxZjQ5MzIzMDYyNGE1ZmFh",
+  "snapshot_id": "MCxkZmM0ZTc1ODkyZWI4OThlZGQxZGU5N2I2NDIwNDE2YzY2Mjg0ZmVj",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -219,6 +219,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "duration_ms": 226738,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Peace Is The Mission (Extended)",
         "url": "https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        }
-      ],
-      "duration_ms": 226738,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "The Ocean (feat. Shy Martin)",
         "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 183414,
       "name": "The Ocean (feat. Shy Martin)",
       "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Ocean Drive",
-        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "Ocean Drive",
-      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -787,8 +787,8 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Stargazing - EP",
-        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
       "artists": [
         {
@@ -796,13 +796,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+          "name": "Maty Noyes",
+          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
         }
       ],
-      "duration_ms": 236853,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
+      "duration_ms": 239465,
+      "name": "Stay (feat. Maty Noyes)",
+      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/1n8ESe5nt7EeuZedZUI3yu"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 218964,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/2CgOd0Lj5MuvOqzqdaAXtS"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/3nShNINlg4p0DhOQAfIKQt"
       },
@@ -927,28 +947,8 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/1n8ESe5nt7EeuZedZUI3yu"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        },
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 218964,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/2CgOd0Lj5MuvOqzqdaAXtS"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+        "name": "Stargazing - EP",
+        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
       },
       "artists": [
         {
@@ -956,13 +956,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Maty Noyes",
-          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
         }
       ],
-      "duration_ms": 239465,
-      "name": "Stay (feat. Maty Noyes)",
-      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
+      "duration_ms": 236853,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Max Milner",
-          "url": "https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8"
-        }
-      ],
-      "duration_ms": 221762,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 218480,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Max Milner",
+          "url": "https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8"
+        }
+      ],
+      "duration_ms": 221762,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 235215,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 215813,
       "name": "Gonna Love Ya",
       "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 235215,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg"
     },
     {
       "added_at": "2023-09-08 04:00:00",

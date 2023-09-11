@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,624 likes - 67 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,639 likes - 67 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 66 | [Tongue Demons](https://open.spotify.com/track/7jW3TunvXFpQjEa9gQjwrX) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF), [Freeka Tet](https://open.spotify.com/artist/1S7mHCJVmfSUre3mo1NZGa) | [STROBE.RIP](https://open.spotify.com/album/5k1jtWSTm2oOUqa9PPXKFD) | 1:36 |
 | 67 | [Travel With Friend](https://open.spotify.com/track/1H2pQp45DBcyxZJv3v8gjG) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt), [Nik Colk Void](https://open.spotify.com/artist/3QFGVjOUDFPitmWnDCz1nj) | [Full\-On](https://open.spotify.com/album/1K9NVUXU8EPDXHy8KxYKYg) | 2:58 |
 
-Snapshot ID: `MCw3NGQzYWIwMDg2ZmRmMTFkMTc0ODllYzUwY2Y0OWI1Y2U1YTIwNmIy`
+Snapshot ID: `MCw5NWRmOGEyNmQwMzhlYWJiYzU4NGYyNGQ3Zjg3ZTVlZjliYzY2Zjhh`

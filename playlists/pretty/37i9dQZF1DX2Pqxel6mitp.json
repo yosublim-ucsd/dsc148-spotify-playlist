@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 65012,
+  "num_followers": 65110,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2ViZWZkOGVlZjMzMWFkM2UyMTBhMWM1MjkwZDc4ZDgwY2E0ZDlh",
+  "snapshot_id": "MCxkZjEyNmQzMGRjODk5MzczNTRmZWY0ZDhkMmJiNmVlNzQ2ZGIxZmI4",
   "tracks": [
     {
       "added_at": "2023-08-23 10:42:12",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Get Up! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xu9bQjnB72GNFeH31UDX7"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "You Found Another Lover (I Lost Another Friend) - The Machine Shop Session",
-      "url": "https://open.spotify.com/track/2ElTJmWJbuHT7owpTe3upS"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 273946,
       "name": "High And Lonesome",
       "url": "https://open.spotify.com/track/1fy10qCN9rlsfRKRJxxfrA"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "Get Up! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xu9bQjnB72GNFeH31UDX7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "You Found Another Lover (I Lost Another Friend) - The Machine Shop Session",
+      "url": "https://open.spotify.com/track/2ElTJmWJbuHT7owpTe3upS"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "The King of Chicago Blues Piano",
         "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 175293,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
         "name": "Solid Air",
         "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 361970,
       "name": "Lord I Just Can't Keep from Crying",
       "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Tell Me Baby",
-      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "That's All Right (Mama) - the Fire Sessions",
-        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
-      },
-      "artists": [
-        {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Death Valley Blues",
-      "url": "https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
       },
@@ -963,6 +947,38 @@
       "duration_ms": 218864,
       "name": "Low Down Dog",
       "url": "https://open.spotify.com/track/2EonQEVNpFj4DjrBqBghxe"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "That's All Right (Mama) - the Fire Sessions",
+        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Death Valley Blues",
+      "url": "https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 215662,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 215662,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Yellow Peril",
         "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 204986,
       "name": "Yellow Peril",
       "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 237769,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 237769,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
         "name": "Man in the Ground",
         "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
       },
@@ -1067,22 +1067,30 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "How Many Miles",
-        "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
+        "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
+        "url": "https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR"
       },
       "artists": [
         {
-          "name": "Bo Ramsey",
-          "url": "https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd"
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         },
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "Kyshona",
+          "url": "https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Wounded Dog",
-      "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
+      "duration_ms": 181546,
+      "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
+      "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1119,30 +1127,22 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
-        "url": "https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR"
+        "name": "How Many Miles",
+        "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Bo Ramsey",
+          "url": "https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd"
         },
         {
-          "name": "Kyshona",
-          "url": "https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 181546,
-      "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
-      "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
+      "duration_ms": 238533,
+      "name": "Wounded Dog",
+      "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Misery Loves Company",
-        "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
-      },
-      "artists": [
-        {
-          "name": "Mary Flower",
-          "url": "https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2"
-        }
-      ],
-      "duration_ms": 372440,
-      "name": "Death Letter Blues",
-      "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 247630,
       "name": "Another Weary Soul",
       "url": "https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "Misery Loves Company",
+        "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
+      },
+      "artists": [
+        {
+          "name": "Mary Flower",
+          "url": "https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2"
+        }
+      ],
+      "duration_ms": 372440,
+      "name": "Death Letter Blues",
+      "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Wild Country",
-        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
-      },
-      "artists": [
-        {
-          "name": "Carmel",
-          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
-        }
-      ],
-      "duration_ms": 358133,
-      "name": "Wild Country 2021",
-      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Newbury",
         "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
       },
@@ -1883,6 +1867,38 @@
       "duration_ms": 198000,
       "name": "Newbury",
       "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/5IrhwzC5IkEFzERecd2wnl"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Atticus",
+          "url": "https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g"
+        }
+      ],
+      "duration_ms": 174067,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/1cKGXdl6m2k9gLDDDxqqtp"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "Wild Country",
+        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
+      },
+      "artists": [
+        {
+          "name": "Carmel",
+          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
+        }
+      ],
+      "duration_ms": 358133,
+      "name": "Wild Country 2021",
+      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1919,22 +1935,6 @@
       "duration_ms": 270706,
       "name": "Empire State Express",
       "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/5IrhwzC5IkEFzERecd2wnl"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Atticus",
-          "url": "https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g"
-        }
-      ],
-      "duration_ms": 174067,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/1cKGXdl6m2k9gLDDDxqqtp"
     },
     {
       "added_at": "2023-08-23 10:42:12",

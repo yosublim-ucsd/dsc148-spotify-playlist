@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > Sampha takeover! Listen to his new single and his personal favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,022 likes - 127 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,082 likes - 127 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 115 | [Easy Go!](https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Easy Go!](https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk) | 2:30 |
 | 116 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 | 117 | [CONSTELLATIONS \(feat\. NAO\)](https://open.spotify.com/track/6B6FxQxSSVwvSgcNUe5QZQ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 2:52 |
-| 118 | [Starlight \(feat\. Lord Siva\)](https://open.spotify.com/track/3fGhEM2oydg2PLWTxMTtoV) | [When Saints Go Machine](https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Starlight \(feat\. Lord Siva\)](https://open.spotify.com/album/5HnHCDp8UhNXrMhk2JQtiT) | 3:04 |
+| 118 | [Starlight \(feat\. Lord Siva\)](https://open.spotify.com/track/0585zQHROQgY5fgR3d9nrx) | [When Saints Go Machine](https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Rosy](https://open.spotify.com/album/03RdPEUR8MY5iOP0MzqJlw) | 3:04 |
 | 119 | [TIKTOK](https://open.spotify.com/track/3GIUq2N1YFL1KZe2zjw7qz) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [AS SEEN ON TV](https://open.spotify.com/album/35G6ItQb4YVubOm6fuThYh) | 2:47 |
 | 120 | [Sweet Tea](https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Sweet Tea](https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp) | 4:07 |
 | 121 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 126 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 |
 | 127 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 |
 
-Snapshot ID: `MCxjMzE4MTYwZWMwZTRkMjE1MmNjYzA5OTA1ZWJjOWVhZjJhODIyNmM2`
+Snapshot ID: `MCxmZjUzMzg5YmQxOWQyM2VhNGM3Mjk2NTllM2JlMmNhZWRlNjhlMWY0`

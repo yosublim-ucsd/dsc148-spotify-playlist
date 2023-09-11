@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195598,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA"
+    },
+    {
+      "album": {
         "name": "Where To Find Me",
         "url": "https://open.spotify.com/album/1gDkVVQODZStmAx0kUl9Tn"
       },
@@ -4597,6 +4615,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s My Birthday",
+        "url": "https://open.spotify.com/album/1glQYqG0CJxmYONoz04LVU"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158803,
+      "name": "It\u2019s My Birthday",
+      "url": "https://open.spotify.com/track/1qMDY64lQJyic7OtjYDTUs"
+    },
+    {
+      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/3p3saMidKHm879P3SC0znA"
       },
@@ -5113,6 +5149,24 @@
     },
     {
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231907,
+      "name": "logical",
+      "url": "https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU"
+    },
+    {
+      "album": {
         "name": "London Is Lonely",
         "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
       },
@@ -5374,7 +5428,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 219207,
       "name": "Love Me In Chapters II",
       "url": "https://open.spotify.com/track/0f5BoyLg6qVDsAJ5JemBcO"
@@ -6270,6 +6324,24 @@
       "duration_ms": 271693,
       "name": "On God",
       "url": "https://open.spotify.com/track/7Imv7ToM8XZoumqkNSQ6tQ"
+    },
+    {
+      "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
       "album": {
@@ -7438,7 +7510,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 111497,
       "name": "she-rex",
       "url": "https://open.spotify.com/track/3f2BR1qNYODnMq3ncGQ1SV"
@@ -7518,7 +7590,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 175875,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
@@ -8894,7 +8966,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 169893,
       "name": "ultimatejutsu_1644.wav",
       "url": "https://open.spotify.com/track/1tuXIa2dInm5AE4Prxyhbi"

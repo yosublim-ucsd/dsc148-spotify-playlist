@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: SNOW WIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,582 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,618 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 42 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 |
 | 43 | [damn Right Pt\. 2](https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [damn Right Pt\. 2](https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4) | 3:06 |
 | 44 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
-| 45 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
-| 46 | [Headaches](https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Headaches](https://open.spotify.com/album/3ue7xLhaMzW4VS2wD5CsO9) | 5:11 |
-| 47 | [Better Than the Boys](https://open.spotify.com/track/6sHVzNuJ95MQOuZoCXKSJw) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/2CQMZOxrA5pmFlbwLtHQEy) | 2:34 |
+| 45 | [Better Than the Boys](https://open.spotify.com/track/6sHVzNuJ95MQOuZoCXKSJw) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/2CQMZOxrA5pmFlbwLtHQEy) | 2:34 |
+| 46 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
+| 47 | [Headaches](https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Headaches](https://open.spotify.com/album/3ue7xLhaMzW4VS2wD5CsO9) | 5:11 |
 | 48 | [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 |
 | 49 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 |
 | 50 | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y) | 4:13 |
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 77 | [Can you](https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Can you \(Galcher Lustwerk Remix\)](https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD) | 3:39 |
 | 78 | [Space](https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Space](https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9) | 3:13 |
 | 79 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 |
-| 80 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
-| 81 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
+| 80 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
+| 81 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
 | 82 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
-| 83 | [Power](https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 4:42 |
-| 84 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 |
-| 85 | [Am I Human?](https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Am I Human?](https://open.spotify.com/album/2wagkL8o47G71cciBICnsI) | 2:32 |
+| 83 | [Am I Human?](https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Am I Human?](https://open.spotify.com/album/2wagkL8o47G71cciBICnsI) | 2:32 |
+| 84 | [Power](https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 4:42 |
+| 85 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 |
 | 86 | [Alive](https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Alive](https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3) | 3:17 |
 | 87 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
 | 88 | [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 |
 | 89 | [Blush](https://open.spotify.com/track/1SFtNl1fToY45Siz65CnSa) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [Blush](https://open.spotify.com/album/34V8K95l5c3Idr3TwDpclN) | 3:33 |
 | 90 | [Dramamine](https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi) | 2:55 |
 
-Snapshot ID: `MCw2NTNhYmMzNjU0MjIyZDRlYzgxNTVhZjFkNjM1ZWMyMTBmNzljOGQw`
+Snapshot ID: `MCxkMDRjOWE1YmJlYjgwYjAyYWZjZTU5NmY1ZjI3YTA0ZjgyNzRiNTlj`

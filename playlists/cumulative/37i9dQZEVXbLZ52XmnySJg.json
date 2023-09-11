@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 207838,
       "name": "Aam Jahe Munde",
       "url": "https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4"
@@ -10447,6 +10447,32 @@
     },
     {
       "album": {
+        "name": "Jawan",
+        "url": "https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202556,
+      "name": "Not Ramaiya Vastavaiya",
+      "url": "https://open.spotify.com/track/5inzjqKe05zP1eInEO8O1i"
+    },
+    {
+      "album": {
         "name": "Nusta Paisa",
         "url": "https://open.spotify.com/album/22vgvuGWlqNx7Tu29FSvSO"
       },
@@ -11582,7 +11608,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 216270,
       "name": "Pyaar Hota Kayi Baar Hai (From \"Tu Jhoothi Main Makkaar\")",
       "url": "https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt"
@@ -12756,7 +12782,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
@@ -13080,7 +13106,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 153002,
       "name": "Shri Krishna Govind Hare Murari",
       "url": "https://open.spotify.com/track/58SIEtTjWErr0yEXVBKxvd"
@@ -13192,7 +13218,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"

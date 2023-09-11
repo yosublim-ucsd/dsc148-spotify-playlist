@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,642,764 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,643,132 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 43 | [Homeward Bound](https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:29 |
 | 44 | [Closer to Fine](https://open.spotify.com/track/7rKyITVLEwldhdXIy7P6Vw) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Indigo Girls \(Expanded Edition\)](https://open.spotify.com/album/1rkuKm5mDoauq9XKjRV94x) | 4:01 |
 | 45 | [Stuck In The Middle With You](https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Reservoir Dogs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF) | 3:23 |
-| 46 | [Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:46 |
-| 47 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 |
+| 46 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 |
+| 47 | [Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:46 |
 | 48 | [Change the World](https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe) | 3:54 |
 | 49 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:48 |
-| 50 | [Pink Houses](https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Uh\-HUH!](https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ) | 4:43 |
-| 51 | [Walkin' Back to Georgia](https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 2:50 |
+| 50 | [Walkin' Back to Georgia](https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 2:50 |
+| 51 | [Pink Houses](https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Uh\-HUH!](https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ) | 4:43 |
 | 52 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 |
-| 53 | [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 |
-| 54 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 |
+| 53 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 |
+| 54 | [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 |
 | 55 | [Hard Sun](https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 5:22 |
 | 56 | [Pale Blue Eyes](https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 5:39 |
 | 57 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 99 | [Let Him Fly](https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Living With Ghosts](https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF) | 3:11 |
 | 100 | [It's All Over Now Baby Blue](https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Rich Kid Blues](https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk) | 3:49 |
 
-Snapshot ID: `MCwyZmJiNzc4ODc1OGIwN2JhNWM5NDhjZTAzNThkMmQxNGVmMzg5ODM2`
+Snapshot ID: `MCwyYjAwMmNmZWI5ZDFjOTgxMzQ1MDNhM2Q5Y2M0YWEzZDFkOWFiN2Zi`

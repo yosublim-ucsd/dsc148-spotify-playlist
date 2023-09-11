@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,064 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,114 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 9 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 |
 | 10 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 |
 | 11 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
-| 12 | [Battery Acid](https://open.spotify.com/track/1Z61fnfYnLiE9hvbKgqbxp) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/3P9qDVbj3woeznS2EgkU2x) | 5:19 |
+| 12 | [Battery Acid](https://open.spotify.com/track/3jN8aTvGH6RN06BYXhk6Ob) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 5:19 |
 | 13 | [Wish You Were Here](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 4:08 |
 | 14 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
 | 15 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 49 | [Hate Me \(Sometimes\)](https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:53 |
 | 50 | [love song](https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 4:00 |
 
-Snapshot ID: `MCxiYzY1YWFjNGNjODNmY2M1MjI2OGM3ZmE2ZTcyMWJlOTg2OTA5OGVh`
+Snapshot ID: `MCwzYjdhMjBkNWI1N2U4ZGQ2YmI1NTM2NWE0MzZhMGExZTgyODkxMmFm`

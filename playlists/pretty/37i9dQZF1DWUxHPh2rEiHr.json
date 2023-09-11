@@ -1,12 +1,12 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Camilo & Diljit Dosanjh",
-  "num_followers": 490402,
+  "num_followers": 490449,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGFiNWUyMjRiOWYwMzMyMmJlNTAwYjc1NzQ3NTFmZWNmNTdjYmVm",
+  "snapshot_id": "MCwxZmRiNzAwODViYjJjYzgxNmU5OWIxOWQxYzZiMTBmYmZhNTQwOTEx",
   "tracks": [
     {
       "added_at": "2023-09-05 22:01:04",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-05 22:01:04",
       "album": {
-        "name": "NewJeans 'OMG'",
-        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
-    },
-    {
-      "added_at": "2023-09-05 22:01:04",
-      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2023-09-05 22:01:04",
+      "album": {
+        "name": "NewJeans 'OMG'",
+        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
     },
     {
       "added_at": "2023-09-05 22:01:04",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-09-05 22:01:04",
       "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "added_at": "2023-09-05 22:01:04",
+      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
-    },
-    {
-      "added_at": "2023-09-05 22:01:04",
-      "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
       "added_at": "2023-09-05 22:01:04",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-09-05 22:01:04",
       "album": {
-        "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Aldo Ranks",
-          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
-        }
-      ],
-      "duration_ms": 166882,
-      "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
-    },
-    {
-      "added_at": "2023-09-05 22:01:04",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
+    },
+    {
+      "added_at": "2023-09-05 22:01:04",
+      "album": {
+        "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "duration_ms": 166882,
+      "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
     },
     {
       "added_at": "2023-09-05 22:01:04",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-09-05 22:01:04",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "added_at": "2023-09-05 22:01:04",
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
-    },
-    {
-      "added_at": "2023-09-05 22:01:04",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
       "added_at": "2023-09-05 22:01:04",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2023-09-05 22:01:04",
       "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
+    },
+    {
+      "added_at": "2023-09-05 22:01:04",
+      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 175802,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
-    },
-    {
-      "added_at": "2023-09-05 22:01:04",
-      "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
     },
     {
       "added_at": "2023-09-05 22:01:04",
@@ -1531,26 +1531,18 @@
     {
       "added_at": "2023-09-05 22:01:04",
       "album": {
-        "name": "Cap\u00edtulo 1",
-        "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
       "artists": [
         {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "K y B",
-          "url": "https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 211456,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     }
   ],
   "unique_name": "Global X",

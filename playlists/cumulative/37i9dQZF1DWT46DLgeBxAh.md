@@ -4,7 +4,7 @@
 
 > Una mezcla sabrosa, picosita y refrescante.
 
-312 songs - 17 hr 39 min
+313 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-06-03 |  |
 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 | 2022-01-07 |  |
 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 | 2022-10-28 | 2023-05-30 |
-| [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 | 2022-01-07 |  |
+| [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 | 2022-01-07 | 2023-09-11 |
 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 | 2022-01-07 |  |
 | [Esta Noche Se Me Olvida](https://open.spotify.com/track/6746mUlyXUbMeWzBqMTYEi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:22 | 2022-06-21 | 2022-10-29 |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:38 | 2022-06-15 | 2022-07-01 |
@@ -211,6 +211,7 @@
 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 | 2022-01-07 |  |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2022-12-29 |  |
 | [Pa' Todo El Año \- En Vivo](https://open.spotify.com/track/41MpX9Fn5HT57O0VSdV1Ia) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pa' Todo El Año \(En Vivo\)](https://open.spotify.com/album/5JoWZNE9num63U8PdD65cH) | 4:34 | 2022-08-03 | 2022-10-29 |
+| [Pal Amor Soy Malo](https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Pal Amor Soy Malo](https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC) | 2:36 | 2023-08-22 |  |
 | [Palabra de Hombre](https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Palabra de Hombre](https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb) | 3:16 | 2022-01-07 | 2023-01-23 |
 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2022-01-07 | 2023-08-23 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2022-01-07 | 2023-04-11 |

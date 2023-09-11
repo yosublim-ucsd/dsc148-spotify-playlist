@@ -4,7 +4,7 @@
 
 > Shawty lo que necesitas es darle flow\. Karol G y Peso Pluma en portada.
 
-466 songs - 1 day 1 hr 39 min
+467 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-06-30 |  |
 | [Copas](https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Copas](https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs) | 3:57 | 2023-03-31 |  |
 | [Copiloto](https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Copiloto](https://open.spotify.com/album/63o7fM4ZAmOE9dZthjmipy) | 2:21 | 2022-11-04 | 2023-02-25 |
-| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 | 2023-09-11 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-23 |  |
 | [Cosa de Locos](https://open.spotify.com/track/4cKUpgMAoFV9DdkC4DhELR) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5) | [Cosa de Locos](https://open.spotify.com/album/519NqufTeZJjydmA45WZa3) | 3:05 | 2023-02-17 | 2023-02-25 |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-01-21 | 2022-08-16 |

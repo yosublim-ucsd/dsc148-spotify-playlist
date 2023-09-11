@@ -1958,10 +1958,32 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 129506,
       "name": "Recercare",
       "url": "https://open.spotify.com/track/1MXE1uNdZ2TLQGwUcSKPR7"
+    },
+    {
+      "album": {
+        "name": "Vergine bella - Italian Renaissance Music",
+        "url": "https://open.spotify.com/album/2YYhgviaGsRpygnqokPWjL"
+      },
+      "artists": [
+        {
+          "name": "Francesco Spinacino",
+          "url": "https://open.spotify.com/artist/2RFTpR1OggyhKhPAhCs1ih"
+        },
+        {
+          "name": "Robert Meunier",
+          "url": "https://open.spotify.com/artist/7J9NDzCbObDXUGri1irrZD"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129506,
+      "name": "Recercare (I)",
+      "url": "https://open.spotify.com/track/5cjn8s41QfgUEFD8AX0eCo"
     },
     {
       "album": {

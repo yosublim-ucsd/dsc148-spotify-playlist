@@ -2876,7 +2876,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 301538,
       "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
       "url": "https://open.spotify.com/track/17iGUekw5nFt5mIRJcUm3R"
@@ -9800,7 +9800,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 317408,
       "name": "Ng\u00e0y Mai Ng\u01b0\u1eddi Ta L\u1ea5y Ch\u1ed3ng (feat. Voi B\u1ea3n \u0110\u00f4n)",
       "url": "https://open.spotify.com/track/2Npr9vbXuQYcpnsouBIrHU"
@@ -10980,7 +10980,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 213995,
       "name": "People Pt.2 (feat. IU)",
       "url": "https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd"
@@ -14456,6 +14456,28 @@
       "duration_ms": 175255,
       "name": "T\u00ecnh Ca T\u00ecnh Ta",
       "url": "https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh c\u1edd y\u00eau em",
+        "url": "https://open.spotify.com/album/633b3JiGJnZoepcvZeu2yo"
+      },
+      "artists": [
+        {
+          "name": "Kuun \u0110\u1ee9c Nam",
+          "url": "https://open.spotify.com/artist/05xxXziuRhVsmlSjTD4Soh"
+        },
+        {
+          "name": "Linh Th\u1ed9n",
+          "url": "https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258471,
+      "name": "T\u00ecnh c\u1edd y\u00eau em",
+      "url": "https://open.spotify.com/track/0gzpqwLf1jhNjnSJEyweAX"
     },
     {
       "album": {

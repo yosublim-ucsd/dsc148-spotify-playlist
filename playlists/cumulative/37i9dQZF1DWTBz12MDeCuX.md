@@ -4,7 +4,7 @@
 
 > Sorry Ms\. Jackson! Cover: Pashanim
 
-1,221 songs - 2 day 10 hr 5 min
+1,222 songs - 2 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1101,7 +1101,8 @@
 | [Ups & Downs](https://open.spotify.com/track/53g6tgjn3Ex6o3Q8hcIxkG) | [Theo Junior](https://open.spotify.com/artist/4Q8tZV1nlCycCfu1RFAsJO) | [Ups & Downs](https://open.spotify.com/album/6TWKnFXOEU0AOXe8pSUnS8) | 2:39 | 2022-07-19 | 2022-09-02 |
 | [Upset](https://open.spotify.com/track/54WI3cLupfyM0BN9Jshsta) | [CHRIS RAIN](https://open.spotify.com/artist/2xVJqCdxc81K24QaW0je4y) | [Upset](https://open.spotify.com/album/0gp185gn4jfzQIZkoKGDOk) | 2:32 | 2023-03-24 | 2023-03-31 |
 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 | 2023-08-15 | 2023-08-25 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-07 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Vatos Locos](https://open.spotify.com/track/6gF0SzgjzeYSriubXBGThr) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP) | [Vatos Locos](https://open.spotify.com/album/2GlT1zfc04pKMawuOvt1GL) | 2:43 | 2023-05-11 | 2023-06-09 |
 | [Vegas](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 3:03 | 2023-08-29 |  |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-06-13 | 2022-06-24 |

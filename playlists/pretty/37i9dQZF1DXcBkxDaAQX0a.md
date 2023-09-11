@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,489 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,549 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 28 | [Toothpick](https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:35 |
 | 29 | [Here's My Heart](https://open.spotify.com/track/1V4ks332ryWHKyBv67mdSG) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Beautiful Mess](https://open.spotify.com/album/0wf7JnnpOSRkgfVfbXEfwZ) | 3:35 |
 | 30 | [Who I Am Hates Who I've Been \- Acoustic](https://open.spotify.com/track/2sP6Ne0hozVjqZAhTzvjgi) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Bird and the Bee Sides](https://open.spotify.com/album/7uiqOhZuzWcCl3WOS5R2jz) | 3:25 |
-| 31 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 |
-| 32 | [Take My Breath Away](https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ) | 3:54 |
+| 31 | [Take My Breath Away](https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ) | 3:54 |
+| 32 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 |
 | 33 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 |
 | 34 | [You Were The Letdown \(Chasing California\)](https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX) | 3:11 |
 | 35 | [Dammit \(Acoustic\)](https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Dammit \(Acoustic\)](https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC) | 4:01 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 48 | [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj) | 3:42 |
 | 49 | [Crying out Loud](https://open.spotify.com/track/3b5xqoWMD6W0oW814guCqs) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:43 |
 | 50 | [Cruel Summer](https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Cruel Summer](https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED) | 2:54 |
-| 51 | [Worn Down](https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Worn Down / Leave It Alone](https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq) | 3:25 |
-| 52 | [Dear Rose, I'm Haunted](https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t) | [Drawn To The Sky](https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02) | [Dear Rose, I'm Haunted](https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7) | 3:57 |
+| 51 | [Dear Rose, I'm Haunted](https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t) | [Drawn To The Sky](https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02) | [Dear Rose, I'm Haunted](https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7) | 3:57 |
+| 52 | [Worn Down](https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Worn Down / Leave It Alone](https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq) | 3:25 |
 | 53 | [Seattle](https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Seattle](https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT) | 3:26 |
 | 54 | [Empty Throne \- Acoustic](https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f) | [Alazka](https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7) | [Empty Throne \(Acoustic\)](https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg) | 4:55 |
 | 55 | [Dakota \(Reimagined\)](https://open.spotify.com/track/3Rkpb1WRkkFD7AlFjNZf1i) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Reimagined](https://open.spotify.com/album/3VCobudBxR70a4fngXZFLe) | 3:19 |
-| 56 | [Tide](https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Blue in the Dark](https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42) | 2:39 |
-| 57 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
+| 56 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
+| 57 | [Tide](https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Blue in the Dark](https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42) | 2:39 |
 | 58 | [Still Dreaming \(Acoustic\)](https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Redux: The First 10 Years](https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l) | 4:16 |
 | 59 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/4B6ODLVDLIWcQxNUWmjlmY) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 2:59 |
 | 60 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [I'll Be a Mess Without You](https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm) | [Chief State](https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5) | [I'll Be a Mess Without You](https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z) | 4:37 |
 | 75 | [Agree to Disagree \- Acoustic](https://open.spotify.com/track/5uxbUvPyzIU64kyuKgrKab) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
 
-Snapshot ID: `MCwxNTg4ODk4ZDAyYTdiZTE5OGJjZTc3MGFkNzZhNmUxMDM0NGI5MjFi`
+Snapshot ID: `MCxmMDhkMGFhZmEzMTdmNTY4ZWMxZTNkYTBkMTBlYzAwZjhhZDE4Zjdl`

@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: Lakeview",
-  "num_followers": 559463,
+  "num_followers": 559713,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWYyMTQwODI3MDA3MGI1NGRiMjc4YTMxMTg3YjA1NjE3ODc2ZTA2",
+  "snapshot_id": "MCxhMjJkODFkY2Y5NTQ4MjZhOTVjZjJjZWQwZmEwNmIyY2M3NjNjZTYx",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -287,6 +287,38 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
+      },
+      "artists": [
+        {
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
+        }
+      ],
+      "duration_ms": 198113,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Jesus and Joan Jett",
+        "url": "https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl"
+      },
+      "artists": [
+        {
+          "name": "Kasey Tyndall",
+          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Jesus and Joan Jett",
+      "url": "https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Town Line",
         "url": "https://open.spotify.com/album/080zNTXnyXccahBk0Vv6wG"
       },
@@ -311,38 +343,6 @@
       "duration_ms": 283346,
       "name": "Country Boy (feat. Charlie Daniels, Chris Young, & George Jones)",
       "url": "https://open.spotify.com/track/5TzoqLAFczwhUMrjNlWITI"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Jesus and Joan Jett",
-        "url": "https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl"
-      },
-      "artists": [
-        {
-          "name": "Kasey Tyndall",
-          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Jesus and Joan Jett",
-      "url": "https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
-      },
-      "artists": [
-        {
-          "name": "Hayden Coffman",
-          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
-        }
-      ],
-      "duration_ms": 198113,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -475,18 +475,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        },
+        {
+          "name": "Ivan Moody",
+          "url": "https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD"
+        },
+        {
+          "name": "Mick Mars",
+          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Tattoos on This Town",
-      "url": "https://open.spotify.com/track/2SEsRxNSXidnMOZoTEzX1k"
+      "duration_ms": 197234,
+      "name": "Outlaws & Outsiders",
+      "url": "https://open.spotify.com/track/2C2ExKriHRkD9qNilogjXn"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -523,30 +535,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
       },
       "artists": [
         {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        },
-        {
-          "name": "Ivan Moody",
-          "url": "https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD"
-        },
-        {
-          "name": "Mick Mars",
-          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 197234,
-      "name": "Outlaws & Outsiders",
-      "url": "https://open.spotify.com/track/2C2ExKriHRkD9qNilogjXn"
+      "duration_ms": 202466,
+      "name": "Tattoos on This Town",
+      "url": "https://open.spotify.com/track/2SEsRxNSXidnMOZoTEzX1k"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "BRINGING BACK THE SUNSHINE",
-        "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 221401,
-      "name": "Neon Light",
-      "url": "https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Straw in the Wind",
         "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 199773,
       "name": "Let the Rain Come Down",
       "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "BRINGING BACK THE SUNSHINE",
+        "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 221401,
+      "name": "Neon Light",
+      "url": "https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Come Get Your Memory",
-        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
+        "name": "Pecos & the Rooftops",
+        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
       },
       "artists": [
         {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Come Get Your Memory",
-      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
+      "duration_ms": 214582,
+      "name": "Hurt No More",
+      "url": "https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Pecos & the Rooftops",
-        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
+        "name": "High Time",
+        "url": "https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn"
       },
       "artists": [
         {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 214582,
-      "name": "Hurt No More",
-      "url": "https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS"
+      "duration_ms": 234848,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "High Time",
-        "url": "https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn"
+        "name": "Come Get Your Memory",
+        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
         }
       ],
-      "duration_ms": 234848,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
+      "duration_ms": 171000,
+      "name": "Come Get Your Memory",
+      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "LOSER",
-        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },
       "artists": [
         {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 194896,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
+      "duration_ms": 201173,
+      "name": "Wait Outside",
+      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Wait Outside",
-      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
+      "duration_ms": 194896,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
     },
     {
       "added_at": "2023-09-08 04:00:00",

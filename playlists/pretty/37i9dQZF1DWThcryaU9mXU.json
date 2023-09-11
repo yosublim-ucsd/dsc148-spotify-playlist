@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 45899,
+  "num_followers": 45941,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0",
+  "snapshot_id": "MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl",
   "tracks": [
     {
       "added_at": "2023-08-18 13:43:08",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Still Frame Replay",
-        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 464453,
-      "name": "The Memory of Our Love",
-      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "You Can't Lose What You Ain't Never Had",
         "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 433360,
       "name": "How Unlucky Can One Man Be",
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Still Frame Replay",
+        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 464453,
+      "name": "The Memory of Our Love",
+      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "The Blues",
-        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 502973,
-      "name": "Lonely World",
-      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 167330,
       "name": "Blues On The Bay",
       "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "The Blues",
+        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 502973,
+      "name": "Lonely World",
+      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 208732,
+      "name": "It Serves Me Right to Suffer - Remastered",
+      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
         "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
         "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 158333,
       "name": "Help The Poor",
       "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 208732,
-      "name": "It Serves Me Right to Suffer - Remastered",
-      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
+        "name": "The Essential Blue Archive: Why Should I Cry",
+        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Johnson",
+          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Friendless Blues",
+      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
         "name": "Soul for the Heart",
         "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "The Essential Blue Archive: Why Should I Cry",
-        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
       "artists": [
         {
-          "name": "Lonnie Johnson",
-          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
         }
       ],
-      "duration_ms": 179306,
-      "name": "Friendless Blues",
-      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
+      "duration_ms": 319960,
+      "name": "No More Lonely Nights",
+      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1135,22 +1151,6 @@
       "duration_ms": 359133,
       "name": "35 Long Years",
       "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 319960,
-      "name": "No More Lonely Nights",
-      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
     },
     {
       "added_at": "2023-08-18 13:43:08",

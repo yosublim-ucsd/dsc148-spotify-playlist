@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 
 > Suéltala que ella baila sola\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,010 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,596 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 5 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 |
 | 6 | [LOKERA](https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:17 |
 | 7 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
-| 8 | [Te Cura](https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Te Cura \(FAST X Soundtrack\)](https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP) | 2:30 |
-| 9 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 |
+| 8 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 |
+| 9 | [Te Cura](https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Te Cura \(FAST X Soundtrack\)](https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP) | 2:30 |
 | 10 | [La Difícil](https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:43 |
 | 11 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 | 12 | [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 49 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
 | 50 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 |
 
-Snapshot ID: `MCw0YTQxOGM1NTQwZmI0ZGQ0ZWZmNzUwNWYxODUwZmMyMjE0NTE5NTc0`
+Snapshot ID: `MCxmOGQ5Y2IxNjY4ZmVlZDA1NDMwNjc3ZmUzNDE4ZmFhN2VhYTRlZWI0`

@@ -4,7 +4,7 @@
 
 > HIPHOP 50!
 
-1,202 songs - 2 day 5 hr 6 min
+1,203 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -967,7 +967,8 @@
 | [Släppa din hand](https://open.spotify.com/track/2I2skJ2CGRjcPszuzUAq3g) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4) | [STHLM SNDRM](https://open.spotify.com/album/3O16hIFcU4moWbGF53J3Yu) | 3:24 | 2023-06-15 | 2023-06-30 |
 | [Släppa Taget](https://open.spotify.com/track/0w4aPwxBYwYg5VMKVlU3gQ) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Släppa Taget](https://open.spotify.com/album/7w4W6NrkgzCBVpgYneFRKD) | 3:14 | 2023-04-27 | 2023-06-02 |
 | [Slå tillbaks](https://open.spotify.com/track/3009VcC2Z0lf1sZBuJnJbN) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Slå tillbaks](https://open.spotify.com/album/0dKjkBn1u8UtmDEDWQsFGx) | 2:53 | 2022-06-23 | 2022-08-05 |
-| [Slösa Min Tid](https://open.spotify.com/track/2eJyy5ndUo90AwE0rPzUDi) | [fowler](https://open.spotify.com/artist/49y6Rng4PhdGOKdC4xKfIA), [ANH](https://open.spotify.com/artist/1kmyK4B8GpPz1nHI2MvOSO) | [Slösa Min Tid](https://open.spotify.com/album/7ukBA1iD8CgLWavw25pHts) | 2:33 | 2023-09-07 |  |
+| [Slösa Min Tid](https://open.spotify.com/track/2eJyy5ndUo90AwE0rPzUDi) | [fowler](https://open.spotify.com/artist/49y6Rng4PhdGOKdC4xKfIA), [ANH](https://open.spotify.com/artist/1kmyK4B8GpPz1nHI2MvOSO) | [Slösa Min Tid](https://open.spotify.com/album/7ukBA1iD8CgLWavw25pHts) | 2:33 | 2023-09-07 | 2023-09-11 |
+| [Slösa Min Tid](https://open.spotify.com/track/75Fpg4QgKglOYjl2qahrOY) | [fowler](https://open.spotify.com/artist/49y6Rng4PhdGOKdC4xKfIA), [ANH](https://open.spotify.com/artist/1kmyK4B8GpPz1nHI2MvOSO) | [Slösa Min Tid](https://open.spotify.com/album/2NvulYneU0aBPQn99DZDNt) | 2:33 | 2023-09-07 |  |
 | [Smooth](https://open.spotify.com/track/0yytFV5LM6FCKaeANeVvfv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [No Borders: European Compilation Project](https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP) | 2:51 | 2022-11-10 | 2023-02-10 |
 | [Smäller lokalt](https://open.spotify.com/track/3qzZR7sk8OvUQAHmaklatW) | [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [Smäller lokalt](https://open.spotify.com/album/26XvNWskss1XednRdp59bH) | 2:12 | 2023-03-03 | 2023-03-31 |
 | [Snabbt](https://open.spotify.com/track/6TdJ1SX5GWGaP890MCs5bn) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx), [R1ZZY](https://open.spotify.com/artist/0gc4Q4fFZ8m5HNZtW8MxGB), [Pregame](https://open.spotify.com/artist/4C3xckfmc7nHR3P29jrXFb) | [Snabbt](https://open.spotify.com/album/6atpUdjNIDMWUvREXaoruK) | 1:56 | 2023-08-10 | 2023-09-08 |

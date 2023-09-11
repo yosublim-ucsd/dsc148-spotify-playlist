@@ -1,12 +1,12 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 60647,
+  "num_followers": 60696,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGEzMzI3ZWI0OTk1MmYzOTlmYTI3ZDg4ZTVhMjJjMzY2MWNjYzlh",
+  "snapshot_id": "MCw1YzM1MDA5YWEyZTFlNzQyMTcyYjUzOWNkOTEzYWQ4ZmY1YmRkM2Ix",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -387,6 +387,30 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
+        "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+        }
+      ],
+      "duration_ms": 265707,
+      "name": "8 Slavonic Dances, Op. 46, B.83: No. 1 in C (Presto)",
+      "url": "https://open.spotify.com/track/4ufKPZ02YSD0e2Qr6EQrq8"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Dvo\u0159\u00e1k: Cello Concerto",
         "url": "https://open.spotify.com/album/5pZUua8KjKwIUBHprq1gcE"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 798132,
       "name": "Dvo\u0159\u00e1k: Cello Concerto in B Minor, Op. 104, B. 191: II. Adagio ma non troppo",
       "url": "https://open.spotify.com/track/2Eg68dTteuw8EDHToPtKbe"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
-        "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Czech Philharmonic",
-          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
-        },
-        {
-          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
-          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
-        }
-      ],
-      "duration_ms": 265707,
-      "name": "8 Slavonic Dances, Op. 46, B.83: No. 1 in C (Presto)",
-      "url": "https://open.spotify.com/track/4ufKPZ02YSD0e2Qr6EQrq8"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Poetic Tone Pictures, Op.85/IX. Serenade",
+        "url": "https://open.spotify.com/album/36qLB0biVdPu8ULEOdDsi3"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 316861,
+      "name": "IX. Serenade",
+      "url": "https://open.spotify.com/track/0SRigmImBiUL3k3Wvm9dy8"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Tchaikovsky: Serenade For Strings / Dvor\u00e1k: Serenade For Strings",
         "url": "https://open.spotify.com/album/2lf78D4V5E0khuU33D3qVZ"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 296000,
       "name": "Serenade for Strings in E Major, Op. 22, B. 52: I. Moderato",
       "url": "https://open.spotify.com/track/4Uk5HBXrc3bo5q0d2uqnhk"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Poetic Tone Pictures, Op.85/IX. Serenade",
-        "url": "https://open.spotify.com/album/36qLB0biVdPu8ULEOdDsi3"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 316861,
-      "name": "IX. Serenade",
-      "url": "https://open.spotify.com/track/0SRigmImBiUL3k3Wvm9dy8"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
-        "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 194541,
-      "name": "VIII. Goblins' Dance",
-      "url": "https://open.spotify.com/track/69cpBS0y62ZcS5HYraDqre"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
         "url": "https://open.spotify.com/album/7H7TEUrE4LEZWXdhkOk8vp"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 236133,
       "name": "Czech Suite, Op. 39, B. 93: I. Preludium (Pastorale)",
       "url": "https://open.spotify.com/track/5f044O4P9otieCX8o4O0Pc"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
+        "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 194541,
+      "name": "VIII. Goblins' Dance",
+      "url": "https://open.spotify.com/track/69cpBS0y62ZcS5HYraDqre"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1135,30 +1135,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
-        "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Mariss Jansons",
-          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
-        },
-        {
-          "name": "Oslo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
-        }
-      ],
-      "duration_ms": 760733,
-      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: IV. Finale. Allegro molto",
-      "url": "https://open.spotify.com/track/6cEmZmkoooz48sBTBpKo4R"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "The Dvorak Album",
         "url": "https://open.spotify.com/album/5fpF7IymM8VdjpTuMsw1SK"
       },
@@ -1183,6 +1159,30 @@
       "duration_ms": 230146,
       "name": "Piano Trio No. 4 in E Minor, Op. 90, B.166, \"Dumky\": V. Allegro",
       "url": "https://open.spotify.com/track/08OqQ7q3lKggZbQzAWwHGH"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
+        "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Mariss Jansons",
+          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
+        },
+        {
+          "name": "Oslo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
+        }
+      ],
+      "duration_ms": 760733,
+      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: IV. Finale. Allegro molto",
+      "url": "https://open.spotify.com/track/6cEmZmkoooz48sBTBpKo4R"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
         }
       ],
-      "duration_ms": 179240,
-      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): In Deepest Forest Glade",
-      "url": "https://open.spotify.com/track/4ZPW1M9NzWWYyeZI55yOk8"
+      "duration_ms": 136906,
+      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): There Stands an Ancient Rock",
+      "url": "https://open.spotify.com/track/6WXwLD6h1cnAh52qSUL7Cs"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1312,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
         }
       ],
-      "duration_ms": 136906,
-      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): There Stands an Ancient Rock",
-      "url": "https://open.spotify.com/track/6WXwLD6h1cnAh52qSUL7Cs"
+      "duration_ms": 179240,
+      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): In Deepest Forest Glade",
+      "url": "https://open.spotify.com/track/4ZPW1M9NzWWYyeZI55yOk8"
     },
     {
       "added_at": "2022-09-30 04:01:00",

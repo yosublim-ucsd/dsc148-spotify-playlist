@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,000 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,075 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 37 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
 | 38 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 39 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
-| 40 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 |
-| 41 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
-| 42 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
+| 40 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
+| 41 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 |
+| 42 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
 | 43 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 |
 | 44 | [Boy's a Liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
 | 45 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [Break It Off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 |
 | 50 | [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 |
 
-Snapshot ID: `MCxiOTEyYzY5MWJjM2QwMGVmODhjMjEzYzExZjY5OTMzYzA5NTc3Y2I5`
+Snapshot ID: `MCxlYWE1N2U1Nzc1NDFlODYxMWI3Mzc1ODM5Mzc5M2EwNzEzZDIwZDcz`

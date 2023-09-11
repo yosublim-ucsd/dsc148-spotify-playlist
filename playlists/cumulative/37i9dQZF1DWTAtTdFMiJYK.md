@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover : Prateeksha Srivastava
+> Most exciting artists from the Indian Indie scene\. Cover : Garvit \- Priyansh
 
-257 songs - 15 hr 7 min
+258 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [obsessive](https://open.spotify.com/track/0TxjLkMYm98aKVcpRsu2ux) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [obsessive](https://open.spotify.com/album/4ULtY8eKrBarUAA4qKaS58) | 2:52 | 2021-12-06 | 2022-01-28 |
 | [Ocean](https://open.spotify.com/track/7kjxJeYKpqNGmJDSEqJkX6) | [Mosambee](https://open.spotify.com/artist/0rzJyg4AjdVg7BPaFVOUxZ), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Ocean](https://open.spotify.com/album/7ByIOSoMLB33Kzjt6SENHc) | 3:00 | 2021-12-06 | 2022-02-01 |
 | [Oh Look](https://open.spotify.com/track/7dLd126uKiCaKJEZ1Yoxm7) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Oh Look](https://open.spotify.com/album/4PhVLXykhI3aZQCocoU3dc) | 3:50 | 2021-12-06 | 2022-01-11 |
-| [Paar Laaye](https://open.spotify.com/track/3MSWGzFm8N3wJvOloRovR6) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Paar Laaye](https://open.spotify.com/album/07JJWCjfs4UDGYGCamuncp) | 3:00 | 2023-01-20 |  |
+| [Paar Laaye](https://open.spotify.com/track/3MSWGzFm8N3wJvOloRovR6) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Paar Laaye](https://open.spotify.com/album/07JJWCjfs4UDGYGCamuncp) | 3:00 | 2023-01-20 | 2023-09-11 |
 | [Pal Behta Jaaye](https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye](https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc) | 2:54 | 2022-01-31 | 2023-05-19 |
 | [Parchaiyon Mein](https://open.spotify.com/track/49b0lWRHXFe8FKwX3mUQSX) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Parchaiyon Mein](https://open.spotify.com/album/5fh0lOtAYumENnO47eCO9O) | 3:18 | 2021-12-06 | 2022-01-11 |
 | [Parda](https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6) | 3:12 | 2023-01-10 |  |
@@ -243,6 +243,7 @@
 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 | 2022-01-31 | 2023-02-11 |
 | [That Morning](https://open.spotify.com/track/2ZNYeQ0yS3zjTOlvUrhdaW) | [Ronnie & Barty](https://open.spotify.com/artist/1VEKDeyV79I5cUU1KA2grq) | [Chapter One](https://open.spotify.com/album/7Ck1njcK2VB2BIsMHE5fzu) | 3:19 | 2022-01-10 | 2023-01-11 |
 | [Titli](https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Titli](https://open.spotify.com/album/5U88eg0vPC1N9GbdQ9MsUG) | 2:35 | 2023-03-10 |  |
+| [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 | 2023-09-10 |  |
 | [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 | 2022-09-14 |  |
 | [Tu Kahaan Hai?](https://open.spotify.com/track/2UmL7Lg9B1vpDQoopwfYcD) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Tu Kahaan Hai?](https://open.spotify.com/album/7wnywQW8a2YFp2gpsaiC19) | 3:11 | 2023-07-10 |  |
 | [Tu Kaun Hai](https://open.spotify.com/track/0z4WjqjRgQJuXlWbOC5L6A) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Tu Kaun Hai](https://open.spotify.com/album/4UgSmIR3uBY5ehDNeZszsZ) | 5:33 | 2022-09-14 | 2023-02-18 |

@@ -4,7 +4,7 @@
 
 > Super mega hits! Foto: Olivia Rodrigo
 
-391 songs - 21 hr 41 min
+392 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,8 @@
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-01-21 | 2022-02-12 |
 | [Used To Be](https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:52 | 2023-08-18 | 2023-09-02 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 |  |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-07-21 | 2022-09-24 |
 | [Vegas \(I Wanna Ride\)](https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5) | [Joseline Hernandez](https://open.spotify.com/artist/2PRMdXcZ3cQu57agSO2zDn) | [Vegas \(I Wanna Ride\)](https://open.spotify.com/album/0Jjnv5tSd8p8HW7PCwSiHa) | 3:40 | 2022-05-27 | 2022-06-11 |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-04-07 | 2023-04-29 |

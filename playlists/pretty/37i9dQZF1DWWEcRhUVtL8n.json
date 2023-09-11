@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: boyish",
-  "num_followers": 1702480,
+  "num_followers": 1702452,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWY4M2VlZTcxZDRlZTA2ODVmZTgwOTE4YmQ5MTFhNTIyZDhlMDdj",
+  "snapshot_id": "MCw5ZDQzNmNjYjBlMmIzNDE0YWMxMDdjYTc5NGMxYjE4ZDI5OTlmMDcz",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-09-08 23:17:10",
       "album": {
-        "name": "When We Were Friends",
-        "url": "https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
       "artists": [
         {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 282205,
-      "name": "Kilby Girl",
-      "url": "https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH"
+      "duration_ms": 199422,
+      "name": "pretty isn\u2019t pretty",
+      "url": "https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X"
     },
     {
       "added_at": "2023-06-30 04:21:00",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
     },
     {
-      "added_at": "2023-09-08 23:17:10",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+        "name": "When We Were Friends",
+        "url": "https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
         }
       ],
-      "duration_ms": 199422,
-      "name": "pretty isn\u2019t pretty",
-      "url": "https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X"
+      "duration_ms": 282205,
+      "name": "Kilby Girl",
+      "url": "https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 218588,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Diving (feat. Holly Humberstone)",
@@ -591,22 +607,6 @@
       "duration_ms": 215986,
       "name": "Diving (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 218588,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -821,6 +821,22 @@
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "James Dean",
+        "url": "https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "James Dean",
+      "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Home (From Barbie The Album)",
@@ -851,22 +867,6 @@
       "duration_ms": 155801,
       "name": "There\u2019s no Other",
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "James Dean",
-        "url": "https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "James Dean",
-      "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -973,26 +973,6 @@
       "url": "https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp"
     },
     {
-      "added_at": "2023-07-03 15:40:30",
-      "album": {
-        "name": "Kill Your Pain (with King Princess)",
-        "url": "https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA"
-      },
-      "artists": [
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        },
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 166194,
-      "name": "Kill Your Pain (with King Princess)",
-      "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Lovegod",
@@ -1023,6 +1003,26 @@
       "duration_ms": 171925,
       "name": "HATELOVE",
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
+    },
+    {
+      "added_at": "2023-07-03 15:40:30",
+      "album": {
+        "name": "Kill Your Pain (with King Princess)",
+        "url": "https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        },
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 166194,
+      "name": "Kill Your Pain (with King Princess)",
+      "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1237,6 +1237,22 @@
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "2009 TOYOTA",
+        "url": "https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 141991,
+      "name": "2009 TOYOTA",
+      "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
+    },
+    {
       "added_at": "2023-08-25 04:56:29",
       "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
@@ -1255,22 +1271,6 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "2009 TOYOTA",
-        "url": "https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 141991,
-      "name": "2009 TOYOTA",
-      "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1369,6 +1369,22 @@
       "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "how's it feel to be a boy",
+        "url": "https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "duration_ms": 141373,
+      "name": "how's it feel to be a boy",
+      "url": "https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "To Be Yours",
@@ -1387,38 +1403,6 @@
       "duration_ms": 211782,
       "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "how's it feel to be a boy",
-        "url": "https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA"
-      },
-      "artists": [
-        {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "how's it feel to be a boy",
-      "url": "https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2"
-    },
-    {
-      "added_at": "2023-06-30 04:21:00",
-      "album": {
-        "name": "Smiley",
-        "url": "https://open.spotify.com/album/63ub9Mu2sxcHPPSxpBspMR"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 169263,
-      "name": "Smiley",
-      "url": "https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1469,6 +1453,22 @@
       "url": "https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1"
     },
     {
+      "added_at": "2023-06-30 04:21:00",
+      "album": {
+        "name": "Smiley",
+        "url": "https://open.spotify.com/album/63ub9Mu2sxcHPPSxpBspMR"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "Smiley",
+      "url": "https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv"
+    },
+    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Seasons",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Demise",
-        "url": "https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 192119,
-      "name": "Demise",
-      "url": "https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Maybe I\u2019m Lonely",
@@ -1515,6 +1499,22 @@
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Demise",
+        "url": "https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 192119,
+      "name": "Demise",
+      "url": "https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP"
     },
     {
       "added_at": "2023-04-28 05:05:19",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv"
     },
     {
-      "added_at": "2023-08-02 00:40:55",
-      "album": {
-        "name": "Euphoric",
-        "url": "https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Some Things You\u2019ll Never Know",
-      "url": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "dirty dishes",
@@ -1583,6 +1567,22 @@
       "duration_ms": 207684,
       "name": "dirty dishes",
       "url": "https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq"
+    },
+    {
+      "added_at": "2023-08-02 00:40:55",
+      "album": {
+        "name": "Euphoric",
+        "url": "https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Some Things You\u2019ll Never Know",
+      "url": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1633,20 +1633,20 @@
       "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
     },
     {
-      "added_at": "2023-07-14 18:19:08",
+      "added_at": "2023-04-21 04:19:11",
       "album": {
-        "name": "Supermodels",
-        "url": "https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm"
+        "name": "Rocket Ship",
+        "url": "https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m"
       },
       "artists": [
         {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
         }
       ],
-      "duration_ms": 165916,
-      "name": "A Good Thing",
-      "url": "https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3"
+      "duration_ms": 89189,
+      "name": "Rocket Ship",
+      "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
     }
   ],
   "unique_name": "Indie Pop",

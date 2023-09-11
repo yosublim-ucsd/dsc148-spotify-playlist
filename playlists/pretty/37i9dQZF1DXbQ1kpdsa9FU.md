@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,427 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,560 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 20 | [10,000 Reasons \(Bless The Lord\) \[Radio Version\] \- Radio Version/Live](https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 4:16 |
 | 21 | [Run To The Father](https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:08 |
 | 22 | [Just Be Held](https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Thrive](https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY) | 3:41 |
-| 23 | [The Father's House \- Studio](https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [The Father's House](https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M) | 4:13 |
-| 24 | [Tremble \- Studio Version](https://open.spotify.com/track/6RTOAaQeVkm1GUTqIY0hjp) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Unknown \- EP](https://open.spotify.com/album/5dCMe8uY2xl4aPPPR9Wbod) | 3:03 |
+| 23 | [Tremble \- Studio Version](https://open.spotify.com/track/6RTOAaQeVkm1GUTqIY0hjp) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Unknown \- EP](https://open.spotify.com/album/5dCMe8uY2xl4aPPPR9Wbod) | 3:03 |
+| 24 | [The Father's House \- Studio](https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [The Father's House](https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M) | 4:13 |
 | 25 | [Rescue Story](https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:57 |
-| 26 | [Confidence](https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Changed](https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx) | 3:01 |
+| 26 | [Holy Water](https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:02 |
 | 27 | [It Is Well \- Live](https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:25 |
-| 28 | [Holy Water](https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:02 |
+| 28 | [Confidence](https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Changed](https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx) | 3:01 |
 | 29 | [Come As You Are](https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Neon Steeple](https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf) | 4:49 |
 | 30 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 |
 | 31 | [Who Am I](https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 3:27 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 37 | [Holy Spirit](https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 5:02 |
 | 38 | [Even Then](https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:16 |
 | 39 | [Hills and Valleys \(The Valleys Version\)](https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 4:09 |
-| 40 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 |
-| 41 | [Fear No More](https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More](https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ) | 3:12 |
+| 40 | [Fear No More](https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More](https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ) | 3:12 |
+| 41 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 |
 | 42 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
 | 43 | [Soul On Fire \(feat\. All Sons & Daughters\) \(feat\. All Sons & Daughters\)](https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:17 |
 | 44 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 83 | [God's Not Done with You \- Single Version](https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [God's Not Done with You](https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk) | 3:15 |
 | 84 | [There Will Be A Day](https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Speaking Louder Than Before](https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt) | 4:39 |
 | 85 | [I Will Fear No More](https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:22 |
-| 86 | [Never Been a Moment](https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:20 |
-| 87 | [Open The Eyes Of My Heart \- Live](https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 5:21 |
+| 86 | [Open The Eyes Of My Heart \- Live](https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 5:21 |
+| 87 | [Never Been a Moment](https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:20 |
 | 88 | [Lord, I Need You \- Live](https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 4:34 |
 | 89 | [Blessings](https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ) | [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Blessings](https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc) | 4:58 |
 | 90 | [Break Every Chain \- Live](https://open.spotify.com/track/3vk0GnIa9jp1B00felbJQE) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Awakening \- Live From Chicago](https://open.spotify.com/album/3Qpvw6jAhDlTvM90o4pbft) | 8:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 99 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 |
 | 100 | [Awake My Soul](https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:24 |
 
-Snapshot ID: `MCw2YmJiZTUwOGE1MjVlN2VkYmU0M2RiYmUxYzY4ZWI1YzdjN2I2M2Ew`
+Snapshot ID: `MCw2ODI5YTdjZjJhMmE1ZjUyNWUyMDYyM2M5MWE1OWYwNTJhZjhhZWU1`

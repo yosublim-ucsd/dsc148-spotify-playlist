@@ -1,12 +1,12 @@
 {
   "description": "Let's go!",
-  "num_followers": 316070,
+  "num_followers": 316387,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWY2YTViNGVkYjg5NDQwMmI2ZTRhYTAwMGMzZDRlOTNkYTk1MmY5",
+  "snapshot_id": "MCxlYjJiYzhiMDFjNGM4NDBkMGFlMGY4ODBmMTAzNDc2MTBmYTU1NjE3",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "Ice On The Dune",
+        "url": "https://open.spotify.com/album/1olQuvonXXUEourYrj6daN"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 204591,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5WBnKCEsPwsvWHUZmLjS3s"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -527,6 +543,22 @@
       "duration_ms": 246306,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
     },
     {
       "added_at": "2023-05-17 13:32:35",
@@ -547,38 +579,6 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 195951,
-      "name": "You Stupid Bitch",
-      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "Ice On The Dune",
-        "url": "https://open.spotify.com/album/1olQuvonXXUEourYrj6daN"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 204591,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5WBnKCEsPwsvWHUZmLjS3s"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 238786,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
+      "duration_ms": 184599,
+      "name": "Heavy, California",
+      "url": "https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 184599,
-      "name": "Heavy, California",
-      "url": "https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz"
+      "duration_ms": 238786,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Two Vines",
-        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "High And Low",
-      "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Spring EP",
         "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 204666,
       "name": "Pictures of Girls",
       "url": "https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Two Vines",
+        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "High And Low",
+      "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "A Deeper Understanding",
+        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 350893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Cool Like You (Deluxe)",
         "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 175773,
       "name": "This Head I Hold",
       "url": "https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "A Deeper Understanding",
-        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 350893,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
     },
     {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "I Can't Stand It",
+      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
+    },
+    {
       "added_at": "2023-05-17 13:32:35",
       "album": {
         "name": "Out Of My League",
@@ -1183,22 +1199,6 @@
       "duration_ms": 243253,
       "name": "The Ghosts of Beverly Drive",
       "url": "https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "I Can't Stand It",
-      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
     },
     {
-      "added_at": "2023-05-17 13:32:35",
-      "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
-    },
-    {
       "added_at": "2023-01-20 11:00:00",
       "album": {
         "name": "1998",
@@ -1355,6 +1339,22 @@
       "duration_ms": 224026,
       "name": "1998",
       "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
+    },
+    {
+      "added_at": "2023-05-17 13:32:35",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
       "added_at": "2023-01-20 11:00:00",

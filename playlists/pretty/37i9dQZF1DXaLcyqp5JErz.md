@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Davi Sacer, Simone
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,963 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,292 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 2 | [Ninguém Explica Deus \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:30 |
 | 3 | [Grandes Coisas \- Ao Vivo](https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Uma Nova História \(ao Vivo\)](https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq) | 4:57 |
 | 4 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 |
-| 5 | [Sou Humano](https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:48 |
-| 6 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 |
+| 5 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 |
+| 6 | [Sou Humano](https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:48 |
 | 7 | [Meu Barquinho](https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B) | [Meu Barquinho](https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0) | 4:47 |
 | 8 | [Galileu \- Ao Vivo](https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Galileu \(ao Vivo\)](https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3) | 5:25 |
 | 9 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 |
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 11 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 |
 | 12 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Gospel Collection Ao Vivo](https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx) | 3:59 |
 | 13 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 |
-| 14 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
-| 15 | [Arde Outra Vez](https://open.spotify.com/track/7k9IRoJBdV9NIoGGxnCE7g) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Na Sala do Pai](https://open.spotify.com/album/57Zc0kM2ZK0vabo89mLX7V) | 7:10 |
+| 14 | [Arde Outra Vez](https://open.spotify.com/track/7k9IRoJBdV9NIoGGxnCE7g) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Na Sala do Pai](https://open.spotify.com/album/57Zc0kM2ZK0vabo89mLX7V) | 7:10 |
+| 15 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
 | 16 | [Liberta\-Me de Mim](https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Liberta\-Me de Mim](https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y) | 7:09 |
 | 17 | [O Escudo](https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG) | [Voz da Verdade](https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71) | [O Melhor de Deus Esta Por Vir](https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5) | 4:25 |
 | 18 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 | 70 | [Me Rendo](https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY) | [Hillsong Global Project](https://open.spotify.com/artist/15QEMU8TfJ3jEJjV5dRfCi), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Global Project Português](https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv) | 6:10 |
 
-Snapshot ID: `MCxjNjAxZmQyNjkyMTc5NTQ5Y2MwMWQxMTM4NWM1Njc0NmY3MTNiNDQ5`
+Snapshot ID: `MCwxZmM1YjA4OThkNTUwZjU2M2YwNDFkYTAzY2I4NWM3ODJlODE1YTM4`

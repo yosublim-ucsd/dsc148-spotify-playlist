@@ -1,12 +1,12 @@
 {
   "description": "The tracks sticking us together.",
-  "num_followers": 105544,
+  "num_followers": 105674,
   "original_name": "Family Glue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWFkNDRmOThkNjNjYjQ1ZmNjZGQ0OGE0MmQ2OGM3ZThkMGE4NmE2",
+  "snapshot_id": "MCw2ODdlYzVlNTYyMDliY2I3ZWIzMGU4ZjE4ZDAxYTM2ZDAyYTdlMzEx",
   "tracks": [
     {
       "added_at": "2021-08-31 00:52:34",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 294573,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -599,6 +583,22 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Buffalo Springfield",
         "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 227600,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 176333,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
-      },
-      "artists": [
-        {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        },
-        {
-          "name": "George Martin",
-          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
-        }
-      ],
-      "duration_ms": 252239,
-      "name": "A Horse with No Name",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
+      },
+      "artists": [
+        {
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        },
+        {
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
+        }
+      ],
+      "duration_ms": 252239,
+      "name": "A Horse with No Name",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 186251,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
       "artists": [
         {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
+      "duration_ms": 186251,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1595,6 +1579,22 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1627,6 +1627,22 @@
       "duration_ms": 160280,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "December, 1963 (Oh What a Night!)",
+      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1667,22 +1683,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "December, 1963 (Oh What a Night!)",
-      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
       "artists": [
         {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
         }
       ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 322548,
-      "name": "Bennie And The Jets - Remastered 2014",
-      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1899,34 +1899,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Barefoot Blue Jean Night",
-      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
+      "duration_ms": 322548,
+      "name": "Bennie And The Jets - Remastered 2014",
+      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1943,6 +1927,22 @@
       "duration_ms": 194293,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Barefoot Blue Jean Night",
+      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "More Than Just a Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Out of My League",
-      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "From Elvis in Memphis",
         "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 261279,
       "name": "Suspicious Minds",
       "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "More Than Just a Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 182066,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Diamond Dogs (2016 Remaster)",
         "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
       },
@@ -2227,6 +2211,22 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 324422,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Night Moves",
+        "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 324422,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2327,18 +2327,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Bringing Down The Horse",
-        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
       "artists": [
         {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
         }
       ],
-      "duration_ms": 312626,
-      "name": "One Headlight",
-      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2359,18 +2359,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+        "name": "Bringing Down The Horse",
+        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
       },
       "artists": [
         {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
         }
       ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+      "duration_ms": 312626,
+      "name": "One Headlight",
+      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 195144,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Real Love Baby",
         "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 195144,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Higher And Higher",
-        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -2507,18 +2491,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Someone To Spend Time With",
-        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
+        "name": "Higher And Higher",
+        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
       },
       "artists": [
         {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 173953,
-      "name": "Someone To Spend Time With",
-      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
+      "duration_ms": 179120,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2539,18 +2523,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
         }
       ],
-      "duration_ms": 298120,
-      "name": "The Way You Make Me Feel - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2567,6 +2551,22 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 298120,
+      "name": "The Way You Make Me Feel - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Shake Your Money Maker",
-        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Hard To Handle",
-      "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "A New World Record",
         "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 212306,
       "name": "Livin' Thing",
       "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Shake Your Money Maker",
+        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Hard To Handle",
+      "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Soul Provider",
-        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "How Am I Supposed to Live Without You",
-      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Pearl (Legacy Edition)",
         "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
       },
@@ -2843,18 +2827,34 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
-        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
+        "name": "Soul Provider",
+        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
       },
       "artists": [
         {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
         }
       ],
-      "duration_ms": 306373,
-      "name": "Home - 2019 - Remaster",
-      "url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx"
+      "duration_ms": 255666,
+      "name": "How Am I Supposed to Live Without You",
+      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2875,18 +2875,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
+        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
       },
       "artists": [
         {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
         }
       ],
-      "duration_ms": 252106,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+      "duration_ms": 306373,
+      "name": "Home - 2019 - Remaster",
+      "url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -3103,22 +3103,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Can't Fight The Moonlight",
-      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Daryl Hall & John Oates (The Silver Album)",
         "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
@@ -3131,6 +3115,22 @@
       "duration_ms": 185293,
       "name": "Sara Smile",
       "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -3215,22 +3215,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Let It Bleed",
         "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
       },
@@ -3243,6 +3227,22 @@
       "duration_ms": 448720,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -3295,18 +3295,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 263106,
-      "name": "Sussudio - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     }
   ],
   "unique_name": "Family Glue",

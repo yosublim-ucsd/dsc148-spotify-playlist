@@ -1,18 +1,18 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 327582,
+  "num_followers": 327665,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDE3NzFiM2UyMWJiZWZkYzQ3MWQ2Yzk1ZjM1MGUxOWVkN2M1MDc0",
+  "snapshot_id": "MCxmNTc5OTVhYTYwMjkyZTcwMTY5NjI3ODhhYzhiOTE2YjIwOTc0ZmUw",
   "tracks": [
     {
       "added_at": "2023-09-09 00:01:32",
       "album": {
-        "name": "vampire",
-        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 219724,
       "name": "vampire",
-      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
       "added_at": "2023-09-09 00:01:32",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-09-09 00:01:32",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
-    },
-    {
-      "added_at": "2023-09-09 00:01:32",
-      "album": {
         "name": "La Velocidad de la Luz",
         "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 267826,
       "name": "Bailando Solo",
       "url": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb"
+    },
+    {
+      "added_at": "2023-09-09 00:01:32",
+      "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
     },
     {
       "added_at": "2023-09-09 00:01:32",

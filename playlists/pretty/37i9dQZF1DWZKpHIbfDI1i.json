@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Juan Gabriel en portada.",
-  "num_followers": 594691,
+  "num_followers": 594756,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTNlZjRkMWMxZTRiNTIzYTk1YjQzOTcxY2YwZmE5OGE4MzBmMmU5",
+  "snapshot_id": "MCwzODAyMWQzNGU0NDNkZDM2NzA5ZDhjMGZhNzJjZjRiMzM3NzdiNTg2",
   "tracks": [
     {
       "added_at": "2023-09-08 20:53:19",
@@ -203,22 +203,18 @@
     {
       "added_at": "2023-09-08 20:53:19",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 160517,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "added_at": "2023-09-08 20:53:19",
@@ -287,22 +283,6 @@
     {
       "added_at": "2023-09-08 20:53:19",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
-    },
-    {
-      "added_at": "2023-09-08 20:53:19",
-      "album": {
         "name": "Abcdario",
         "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
       },
@@ -343,22 +323,6 @@
     {
       "added_at": "2023-09-08 20:53:19",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
-    },
-    {
-      "added_at": "2023-09-08 20:53:19",
-      "album": {
         "name": "OJITOS ROJOS",
         "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
       },
@@ -375,6 +339,42 @@
       "duration_ms": 221601,
       "name": "OJITOS ROJOS",
       "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
+    },
+    {
+      "added_at": "2023-09-08 20:53:19",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "added_at": "2023-09-08 20:53:19",
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 160517,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
     },
     {
       "added_at": "2023-09-08 20:53:19",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-08 20:53:19",
       "album": {
-        "name": "Tenemos que hablar",
-        "url": "https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "Tenemos que hablar",
-      "url": "https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI"
-    },
-    {
-      "added_at": "2023-09-08 20:53:19",
-      "album": {
         "name": "Se Cancela La Depre (En Vivo)",
         "url": "https://open.spotify.com/album/07tgEwwKVe516EcidYUrUd"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 232842,
       "name": "Se Cancela La Depre (En Vivo)",
       "url": "https://open.spotify.com/track/4NJAXc8SambFCaVoWOkUyw"
+    },
+    {
+      "added_at": "2023-09-08 20:53:19",
+      "album": {
+        "name": "Tenemos que hablar",
+        "url": "https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Tenemos que hablar",
+      "url": "https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI"
     },
     {
       "added_at": "2023-09-08 20:53:19",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-08 20:53:19",
       "album": {
-        "name": "Gorra L.A.",
-        "url": "https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 161571,
-      "name": "Gorra L.A.",
-      "url": "https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG"
-    },
-    {
-      "added_at": "2023-09-08 20:53:19",
-      "album": {
         "name": "CCC (Remix)",
         "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
+    },
+    {
+      "added_at": "2023-09-08 20:53:19",
+      "album": {
+        "name": "Gorra L.A.",
+        "url": "https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 161571,
+      "name": "Gorra L.A.",
+      "url": "https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG"
     },
     {
       "added_at": "2023-09-08 20:53:19",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-09-08 20:53:19",
       "album": {
+        "name": "dEsANiMaO :(",
+        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "dEsANiMaO :(",
+      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
+    },
+    {
+      "added_at": "2023-09-08 20:53:19",
+      "album": {
         "name": "Cerquita De Ti",
         "url": "https://open.spotify.com/album/5Wg1E8vq9CFjnaBKJClHK2"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 217346,
       "name": "Cerquita De Ti",
       "url": "https://open.spotify.com/track/70FJ7VpGX4Luv8GlMGSLRM"
-    },
-    {
-      "added_at": "2023-09-08 20:53:19",
-      "album": {
-        "name": "dEsANiMaO :(",
-        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "dEsANiMaO :(",
-      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
     },
     {
       "added_at": "2023-09-08 20:53:19",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-08 20:53:19",
       "album": {
-        "name": "Necesito un Favor",
-        "url": "https://open.spotify.com/album/3pIK5Xn2CZ1rSJ6j0jSwy6"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 175588,
-      "name": "Necesito un Favor",
-      "url": "https://open.spotify.com/track/4DhWnnCpbKNmpZ4hVYKjNc"
-    },
-    {
-      "added_at": "2023-09-08 20:53:19",
-      "album": {
         "name": "Amor Clandestino",
         "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 226535,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/0zmd3kkK4FL9qYBXhWiOKW"
+    },
+    {
+      "added_at": "2023-09-08 20:53:19",
+      "album": {
+        "name": "Necesito un Favor",
+        "url": "https://open.spotify.com/album/3pIK5Xn2CZ1rSJ6j0jSwy6"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 175588,
+      "name": "Necesito un Favor",
+      "url": "https://open.spotify.com/track/4DhWnnCpbKNmpZ4hVYKjNc"
     },
     {
       "added_at": "2023-09-08 20:53:19",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-09-08 20:53:19",
       "album": {
+        "name": "Aunque No Te Pueda Ver",
+        "url": "https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Aunque No Te Pueda Ver",
+      "url": "https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3"
+    },
+    {
+      "added_at": "2023-09-08 20:53:19",
+      "album": {
         "name": "Amor Clandestino",
         "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
-    },
-    {
-      "added_at": "2023-09-08 20:53:19",
-      "album": {
-        "name": "Aunque No Te Pueda Ver",
-        "url": "https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Aunque No Te Pueda Ver",
-      "url": "https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3"
     },
     {
       "added_at": "2023-09-08 20:53:19",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-09-08 20:53:19",
       "album": {
-        "name": "Extra\u00f1\u00e1ndote",
-        "url": "https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW"
-    },
-    {
-      "added_at": "2023-09-08 20:53:19",
-      "album": {
         "name": "Traigo El Mando",
         "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 182911,
       "name": "Traigo El Mando",
       "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
+    },
+    {
+      "added_at": "2023-09-08 20:53:19",
+      "album": {
+        "name": "Extra\u00f1\u00e1ndote",
+        "url": "https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW"
     },
     {
       "added_at": "2023-09-08 20:53:19",

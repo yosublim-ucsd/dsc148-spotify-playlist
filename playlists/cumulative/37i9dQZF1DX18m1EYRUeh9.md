@@ -4,7 +4,7 @@
 
 > Smooth joints from around the globe
 
-112 songs - 7 hr 29 min
+114 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Plate](https://open.spotify.com/track/3vFG1ZcB68ACOdeY99aYIm) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Forever Forever](https://open.spotify.com/album/338Gexpd2aM74CJBGfcuDC) | 3:27 | 2023-08-17 |  |
 | [poor man's boy](https://open.spotify.com/track/37078l3sNWX5jqt6PockGR) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [poor man's boy](https://open.spotify.com/album/5jZKYpgLEzCohYyYejUD4L) | 3:44 | 2023-08-10 | 2023-08-18 |
 | [RagJazz](https://open.spotify.com/track/7DAuQoUWFq40NBVXwWs4xU) | [NEONE the Wonderer](https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E) | [RagJazz](https://open.spotify.com/album/3zxutQ3DFl5sBX7sxI2nVZ) | 4:19 | 2023-08-10 | 2023-09-08 |
-| [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0) | 3:58 | 2023-08-10 |  |
+| [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0) | 3:58 | 2023-08-10 | 2023-09-11 |
+| [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 3:58 | 2023-09-04 |  |
 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 | 2023-08-24 |  |
 | [SHROOMS BEFORE the party](https://open.spotify.com/track/6fYGlV8elDvLPBtMQ9CI1H) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX) | [CRYING IN THE PORSCHE](https://open.spotify.com/album/2aV5jppDjMowztsehjhg98) | 2:19 | 2023-08-10 | 2023-09-01 |
 | [Silent](https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Silent](https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN) | 4:47 | 2023-08-10 | 2023-08-25 |
@@ -94,7 +95,8 @@
 | [Take Your Time](https://open.spotify.com/track/0kjPELR27yGGQlTQn9leFi) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Take Your Time](https://open.spotify.com/album/15LdEtHxICBhxzYUAE0ruA) | 6:24 | 2023-08-10 |  |
 | [Tenere Den](https://open.spotify.com/track/7ytOQ3MLqno1gpctggPRTU) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Tenere Den](https://open.spotify.com/album/6Kn1FZXSVW4ydCAelpLpei) | 3:32 | 2023-08-10 | 2023-08-25 |
 | [That's Life \(A Swamp\)](https://open.spotify.com/track/3q2rGkL2k9YHckjz0kG9Sx) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 5:26 | 2023-08-17 |  |
-| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 | 2023-08-24 |  |
+| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 | 2023-08-24 | 2023-09-11 |
+| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/1mkzHA0suincRybCyk5fis) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 5:40 | 2023-09-04 |  |
 | [the speed of sound!](https://open.spotify.com/track/1odpKYfJOpwiRAR0KyIPkU) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [portrait of a dog](https://open.spotify.com/album/6SsOunBXV82rQ7xhiQlYi5) | 4:43 | 2023-08-17 |  |
 | [The World Is Here For You](https://open.spotify.com/track/26KHeStct1X9bFpWSCOhjb) | [Immy Owusu](https://open.spotify.com/artist/5gmKrR6QTu7AfVN7u1uPwO) | [The World Is Here For You](https://open.spotify.com/album/5aDnjZgPThp7hgOXVAaGeI) | 5:30 | 2023-08-10 | 2023-08-18 |
 | [There Is No End](https://open.spotify.com/track/7osp6A9CjbjofNXFe2qiwF) | [New Age Doom](https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni), [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [There Is No End](https://open.spotify.com/album/3CE9ZdwrAljC4mQr7WhXWt) | 12:01 | 2023-08-31 |  |

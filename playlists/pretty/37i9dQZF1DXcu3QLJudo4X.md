@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,234 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,331 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 18 | [The Things \(That\) I Used to Do](https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:54 |
 | 19 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
 | 20 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
-| 21 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
-| 22 | [Little Red Rooster](https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:51 |
+| 21 | [Little Red Rooster](https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:51 |
+| 22 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
 | 23 | [Sweet Little Angel](https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 5:30 |
 | 24 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 |
 | 25 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 57 | [Ain't Nobody's Business](https://open.spotify.com/track/4aD3d9kzxY8MXAssMQ3c6v) | [Jimmy Whiterspoon](https://open.spotify.com/artist/6Jsv53pu1yK3Q9ZuHcfhsH) | [Presenting Jimmy Whitherspoon](https://open.spotify.com/album/6NVixVUSc6EtmvWzJM8vZf) | 3:38 |
 | 58 | [See See Rider Blues](https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G) | [Bea Booze](https://open.spotify.com/artist/47PKMyeVDaFasSwGibmoSk) | [Country Blues 101](https://open.spotify.com/album/0A2ttGOhKCGIVzLXtSgajJ) | 3:09 |
 
-Snapshot ID: `MCxjNzBhNjc5MWI5ZjYwOWM1OTdjNzcyOGI1NzAxZWUzMGZlNTllZWUw`
+Snapshot ID: `MCwyZmIxMmIwN2M5YWQzZWY5NWJmN2RjMDczY2UzNzZjYWIwNzcwMDBi`

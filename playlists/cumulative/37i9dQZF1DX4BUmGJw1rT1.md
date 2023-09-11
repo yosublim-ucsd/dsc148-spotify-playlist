@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-205 songs - 14 hr 17 min
+206 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 | 2023-01-20 | 2023-06-28 |
 | [Better This Way](https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Jigsaw Heart](https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI) | 4:10 | 2022-05-25 |  |
 | [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2022-07-08 | 2023-08-25 |
-| [Bloodshot Eyes](https://open.spotify.com/track/44UXzqbquZyHlOA4MrNwB5) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Bloodshot Eyes](https://open.spotify.com/album/5yaOqd0avsCCGlxS3hHIUY) | 3:41 | 2023-08-18 |  |
+| [Bloodshot Eyes](https://open.spotify.com/track/44UXzqbquZyHlOA4MrNwB5) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Bloodshot Eyes](https://open.spotify.com/album/5yaOqd0avsCCGlxS3hHIUY) | 3:41 | 2023-08-18 | 2023-09-11 |
 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 | 2022-07-08 |  |
 | [Blues Deluxe](https://open.spotify.com/track/4kE0QjiD0IkeXGjmRaQtiO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/2POTy8KiRigEg16A0cUDjx) | 7:20 | 2022-05-25 | 2022-07-29 |
 | [Blues Music](https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [G\. Love And Special Sauce](https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek) | 4:15 | 2022-06-14 |  |
@@ -44,6 +44,7 @@
 | [Destiny](https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:17 | 2022-10-03 |  |
 | [Does Anybody Know](https://open.spotify.com/track/68hRjnbmGNKjGObSdmB5ZL) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 3:28 | 2023-02-24 |  |
 | [Does Anybody Know](https://open.spotify.com/track/7HpL4czETBCPqzQhr97eR1) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 3:28 | 2022-10-03 | 2023-03-02 |
+| [Don't Be a Stranger](https://open.spotify.com/track/5t2IeNWSmf8gegtwVxrWIH) | [Matthew Curry](https://open.spotify.com/artist/7l2PJU1YHpVxat3wymK9J8) | [Don't Be a Stranger](https://open.spotify.com/album/0xKbwByE0EiKtl4RiaTqyJ) | 3:32 | 2023-08-25 |  |
 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/1RMmxSQGG9Xd4OLwnCWEvY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Sisters & Brothers](https://open.spotify.com/album/37ISHphkeOt1OZXVr5WK2r) | 3:24 | 2022-05-25 | 2022-07-29 |
 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Sisters & Brothers](https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz) | 3:24 | 2022-07-29 |  |
 | [Don't Explain](https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 4:34 | 2022-05-25 |  |

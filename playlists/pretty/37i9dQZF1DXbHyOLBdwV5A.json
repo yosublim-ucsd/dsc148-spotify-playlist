@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 112974,
+  "num_followers": 113052,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWEzNWFkNjI2MWQ3OTk2ZjM2M2JjNGUyZTg3NzI1ZGUwOTBhMzk3",
+  "snapshot_id": "MCwzYWUwZTJmYjBlM2YwYzJjZWU1NmJlNWU1MjgzYjA3YmU3YTJiMzgw",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -99,6 +99,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "\u00c9 Tudo Sobre Voc\u00ea (M\u00cbDNA Remix)",
+        "url": "https://open.spotify.com/album/7GFrYcpAuj4fCgu5C7fg6e"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        },
+        {
+          "name": "M\u00cbDNA",
+          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - M\u00cbDNA Remix",
+      "url": "https://open.spotify.com/track/38MdsTHfF7KvE48N0T3mjL"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "S\u00f3 Quero Queimar (Remix)",
         "url": "https://open.spotify.com/album/4sz7OFQhn3xOZOYjbe8AXE"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 217500,
       "name": "S\u00f3 Quero Queimar - Remix",
       "url": "https://open.spotify.com/track/720ymxcvuttoINPvJ3EXSC"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "\u00c9 Tudo Sobre Voc\u00ea (M\u00cbDNA Remix)",
-        "url": "https://open.spotify.com/album/7GFrYcpAuj4fCgu5C7fg6e"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        },
-        {
-          "name": "M\u00cbDNA",
-          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "\u00c9 Tudo Sobre Voc\u00ea - M\u00cbDNA Remix",
-      "url": "https://open.spotify.com/track/38MdsTHfF7KvE48N0T3mjL"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -239,30 +239,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "A Casa Sou Eu",
-        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "A Casa Sou Eu - Remix",
-      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Voc\u00ea Me Mudou",
         "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
       },
@@ -319,6 +295,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
+      },
+      "artists": [
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "Val\u00e9ria Amanaj\u00e1z",
+          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
+        }
+      ],
+      "duration_ms": 160818,
+      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "S\u00f3 o Come\u00e7o (Remix)",
         "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
       },
@@ -339,22 +335,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
+        "name": "A Casa Sou Eu",
+        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
       },
       "artists": [
         {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "Val\u00e9ria Amanaj\u00e1z",
-          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         }
       ],
-      "duration_ms": 160818,
-      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
+      "duration_ms": 225000,
+      "name": "A Casa Sou Eu - Remix",
+      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -743,6 +743,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Pique Rei Davi (Remix)",
+        "url": "https://open.spotify.com/album/0mhHx49Dugoxr3FEjjq60Q"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 113777,
+      "name": "Pique Rei Davi - Remix",
+      "url": "https://open.spotify.com/track/4c09bY8MeyRqyExO11rXIH"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
         "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 161169,
       "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
       "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Pique Rei Davi (Remix)",
-        "url": "https://open.spotify.com/album/0mhHx49Dugoxr3FEjjq60Q"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        }
-      ],
-      "duration_ms": 113777,
-      "name": "Pique Rei Davi - Remix",
-      "url": "https://open.spotify.com/track/4c09bY8MeyRqyExO11rXIH"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -827,26 +827,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Vamo Com Tudo",
-        "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
+        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
+        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
       },
       "artists": [
         {
-          "name": "Kennto",
-          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "YoungJhow",
-          "url": "https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko"
+          "name": "Diego Albuquerque",
+          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
         },
         {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         }
       ],
-      "duration_ms": 179527,
-      "name": "Vamo Com Tudo",
-      "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
+      "duration_ms": 215625,
+      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
+      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -903,26 +903,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
-        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
+        "name": "Vamo Com Tudo",
+        "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
       },
       "artists": [
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "Kennto",
+          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
         },
         {
-          "name": "Diego Albuquerque",
-          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
+          "name": "YoungJhow",
+          "url": "https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko"
         },
         {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
         }
       ],
-      "duration_ms": 215625,
-      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
-      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
+      "duration_ms": 179527,
+      "name": "Vamo Com Tudo",
+      "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Igual a Voc\u00ea",
+        "url": "https://open.spotify.com/album/1qgYeL92GjRaQgZRqPAgil"
+      },
+      "artists": [
+        {
+          "name": "Carlinhosdj",
+          "url": "https://open.spotify.com/artist/4GxleeDpZsQx4pUB6EZQre"
+        },
+        {
+          "name": "Dec\u00e3o Renovado",
+          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "Igual a Voc\u00ea",
+      "url": "https://open.spotify.com/track/3GJ0yZq2BA3jZ2NoW1QTVE"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 147840,
       "name": "N\u00e3o Sou Merecedor",
       "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Igual a Voc\u00ea",
-        "url": "https://open.spotify.com/album/1qgYeL92GjRaQgZRqPAgil"
-      },
-      "artists": [
-        {
-          "name": "Carlinhosdj",
-          "url": "https://open.spotify.com/artist/4GxleeDpZsQx4pUB6EZQre"
-        },
-        {
-          "name": "Dec\u00e3o Renovado",
-          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "Igual a Voc\u00ea",
-      "url": "https://open.spotify.com/track/3GJ0yZq2BA3jZ2NoW1QTVE"
     },
     {
       "added_at": "2023-09-08 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,702 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,724 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 99 | [Separate Ways \(Worlds Apart\) \- Stripped Down](https://open.spotify.com/track/7vIucU2XRSATEeXjjzzToQ) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Separate Ways \(Worlds Apart\) \[Stripped Down\]](https://open.spotify.com/album/0M2Um59muj9gb80oRlTyDX) | 4:22 |
 | 100 | [Fix'n To Break](https://open.spotify.com/track/26YvZWW29FXHaSRQzajRYv) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 |
 
-Snapshot ID: `MCxmYjdmZDkyOThjN2UxY2MyYzE5N2Q2OWNmNDc1YWYyMTFlNDQxOWZm`
+Snapshot ID: `MCw5NTQ4NTcwMDI4ZDg2ZDc1ZTAzNjU3NzhkZDkwNTI1ZTI5N2ZiOWY1`

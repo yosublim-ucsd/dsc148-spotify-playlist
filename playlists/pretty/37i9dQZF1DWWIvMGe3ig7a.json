@@ -1,12 +1,12 @@
 {
   "description": "A sad playlist for when the buildup to summer ends up being a bummer, ft d4vd",
-  "num_followers": 33214,
+  "num_followers": 33263,
   "original_name": "bummer summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDE2MTlkZTM0YmU1Yzc1ZTkyZWU5OGFkZTAwMmU5OGMzZmQxYmM2",
+  "snapshot_id": "MCxiODgzNjNkZTcxNjNmNjE2NWI5YjcyNDIyOTAzZGY4NjY5Nzk0ZTcw",
   "tracks": [
     {
       "added_at": "2023-08-14 15:57:12",
@@ -39,22 +39,6 @@
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
-    },
-    {
-      "added_at": "2023-08-14 17:13:31",
-      "album": {
-        "name": "vampire",
-        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
       "added_at": "2023-08-14 15:57:12",
@@ -107,22 +91,6 @@
     {
       "added_at": "2023-08-14 15:57:12",
       "album": {
-        "name": "summer depression",
-        "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "summer depression",
-      "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
-    },
-    {
-      "added_at": "2023-08-14 15:57:12",
-      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
@@ -135,6 +103,22 @@
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2023-08-14 15:57:12",
+      "album": {
+        "name": "summer depression",
+        "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "summer depression",
+      "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
     },
     {
       "added_at": "2023-08-14 15:57:12",
@@ -211,22 +195,6 @@
     {
       "added_at": "2023-08-14 15:57:12",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
-    },
-    {
-      "added_at": "2023-08-14 15:57:12",
-      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -243,18 +211,18 @@
     {
       "added_at": "2023-08-14 15:57:12",
       "album": {
-        "name": "i'll be okay",
-        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
       "artists": [
         {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 98750,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
       "added_at": "2023-08-14 15:57:12",
@@ -271,6 +239,22 @@
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
+    },
+    {
+      "added_at": "2023-08-14 15:57:12",
+      "album": {
+        "name": "i'll be okay",
+        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 98750,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
     },
     {
       "added_at": "2023-08-14 15:57:12",
@@ -467,22 +451,6 @@
     {
       "added_at": "2023-08-14 15:57:12",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": "2023-08-14 15:57:12",
-      "album": {
         "name": "Lukas Graham",
         "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
       },
@@ -531,38 +499,6 @@
     {
       "added_at": "2023-08-14 15:57:12",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
-    },
-    {
-      "added_at": "2023-08-14 15:57:12",
-      "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
-    },
-    {
-      "added_at": "2023-08-14 15:57:12",
-      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -575,6 +511,38 @@
       "duration_ms": 212784,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
+    },
+    {
+      "added_at": "2023-08-14 15:57:12",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2023-08-14 15:57:12",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
     },
     {
       "added_at": "2023-08-14 17:13:31",
@@ -591,6 +559,22 @@
       "duration_ms": 203600,
       "name": "Duvet",
       "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
+    },
+    {
+      "added_at": "2023-08-14 15:57:12",
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
     },
     {
       "added_at": "2023-08-14 15:57:12",
@@ -643,22 +627,6 @@
     {
       "added_at": "2023-08-14 15:57:12",
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
-    },
-    {
-      "added_at": "2023-08-14 15:57:12",
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -687,6 +655,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
+    },
+    {
+      "added_at": "2023-08-14 15:57:12",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
       "added_at": "2023-08-14 15:57:12",
@@ -815,6 +799,22 @@
       "duration_ms": 248818,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH"
+    },
+    {
+      "added_at": "2023-08-14 17:13:31",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 220492,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
     }
   ],
   "unique_name": "bummer summer",

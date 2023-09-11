@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Kizz Daniel & Becky G",
-  "num_followers": 113749,
+  "num_followers": 113781,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzk0NDI0NzA1ODZhMDVkMjVmMTYxZjFkMWViMDM1ODFiMTJiYThk",
+  "snapshot_id": "MCxjYmUyOTlhMmUwMmY3YjMyZTFiZTA1ZmE0NTliZDllYWY4ZjdiNWIz",
   "tracks": [
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
+        "name": "Zimenice",
+        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
+      },
+      "artists": [
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        },
+        {
+          "name": "Tezzla",
+          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Zimenice",
+      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
         "name": "Sanga Zoo (feat. Farruko)",
         "url": "https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V"
       },
@@ -1123,26 +1143,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "MAMACITA",
-        "url": "https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP"
-      },
-      "artists": [
-        {
-          "name": "Natalia Paris",
-          "url": "https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 257368,
-      "name": "MAMACITA",
-      "url": "https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "Claramente",
         "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
       },
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Zimenice",
-        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
-      },
-      "artists": [
-        {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        },
-        {
-          "name": "Tezzla",
-          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Zimenice",
-      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "Sabi na Sabura",
         "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 186000,
       "name": "Sabi na Sabura",
       "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP"
+      },
+      "artists": [
+        {
+          "name": "Natalia Paris",
+          "url": "https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 257368,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n"
     },
     {
       "added_at": "2023-07-20 23:00:00",

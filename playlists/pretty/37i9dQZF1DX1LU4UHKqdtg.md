@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Stray Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,192 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,681 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 2 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 | 3 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 |
 | 4 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
-| 5 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [X&G](https://open.spotify.com/artist/0J8vnuLl37meRjZttkpCBP) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
+| 5 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 6 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 |
 | 7 | [Beautiful Restriction](https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [A Time Called You \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY) | 3:52 |
 | 8 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 80 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:00 |
 | 81 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 |
 
-Snapshot ID: `MCxkNmI0ZjQ2NmM0ZWRjYTA5M2Q1MjJkYWQzYmQwODRjYzIwYWU4NDg3`
+Snapshot ID: `MCw0ZmZjN2ViMGExZDc0MWNlNjcyZWY0N2JiMzEyMDQyNThhODM0MGQ1`

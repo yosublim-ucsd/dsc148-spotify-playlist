@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Hawthorne Heights
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,832 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,932 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 100 | [LIES](https://open.spotify.com/track/2QrUWzndXheW05HL6boFny) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [LIES](https://open.spotify.com/album/0ZknFIPfCdZgKAAvzSVgaQ) | 3:32 |
 | 101 | [Lovely Murk](https://open.spotify.com/track/2BYJiIQwds17fOiTtecQbt) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1), [Lingua Ignota](https://open.spotify.com/artist/3Q2RrKEOBdkWI2MJQgdt84) | [Love's Holiday](https://open.spotify.com/album/1l2DnEVEFSC5NcDzLurPg2) | 5:15 |
 
-Snapshot ID: `MCw2ODhlNjllMDY5MDJmMWMwZGEwMzU5MWM3MTA4OWFmNTkzMWQ1ZGM0`
+Snapshot ID: `MCxhZTcyZTE4MzMyNzUyOGZiNWMzZDlhMTQ5MmExZjIyMmYzZDAxZTMx`

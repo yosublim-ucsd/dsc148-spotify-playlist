@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,846,219 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,846,438 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 35 | [Alive](https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Alive](https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi) | 2:28 |
 | 36 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
 | 37 | [Body Count](https://open.spotify.com/track/3WjHjGe1WIL7SOk1BGlXX4) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Body Count](https://open.spotify.com/album/6xL1ikHJ821Ixva9Suq4qM) | 2:56 |
-| 38 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 38 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 39 | [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 |
 | 40 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 |
 | 41 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 99 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
 | 100 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 
-Snapshot ID: `MCw5ODk4MGI3NjIwNGM1Y2ZmM2FjMmIxODRjOWNjYTZhMTc3ZjUwODBk`
+Snapshot ID: `MCxjNGUxYTRhMDQxYzk1ODk3NDJjYjg5MDA4MDhmMzk5MTgyOGFmYjQz`

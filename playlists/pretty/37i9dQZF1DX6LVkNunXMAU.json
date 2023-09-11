@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Papina de Palma",
-  "num_followers": 55009,
+  "num_followers": 55018,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTFjMmRiYTE4ZDBjZGFjNjgyZmRkYjIzNWE4YmFhMGQ1OTI4MTNm",
+  "snapshot_id": "MCxkNWI5YWVmMmY1OGVmNGQyZDUxOTU0ZDA3Y2E2Y2U3ZjM0MDAyN2M0",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -855,22 +855,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "El Plan Mayor",
-        "url": "https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
       "artists": [
         {
-          "name": "Lichi",
-          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
         },
         {
-          "name": "\u00bfJuan Julian?",
-          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
         }
       ],
-      "duration_ms": 172725,
-      "name": "El Plan Mayor",
-      "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
+      "duration_ms": 192989,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -891,22 +891,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
+        "name": "El Plan Mayor",
+        "url": "https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY"
       },
       "artists": [
         {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+          "name": "Lichi",
+          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
         },
         {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+          "name": "\u00bfJuan Julian?",
+          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
         }
       ],
-      "duration_ms": 192989,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
+      "duration_ms": 172725,
+      "name": "El Plan Mayor",
+      "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Dolor",
-        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 168037,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 224000,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 168037,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1207,42 +1207,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Aquellos misterios",
-        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 149625,
-      "name": "Aquellos misterios",
-      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Milanesa al Pan",
-        "url": "https://open.spotify.com/album/405rypS7jhNdcqFTnIsVdL"
-      },
-      "artists": [
-        {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 169079,
-      "name": "Milanesa al Pan",
-      "url": "https://open.spotify.com/track/6gE0pYDB5ndP0bSPeXktcL"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Track",
         "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
       },
@@ -1275,6 +1239,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Aquellos misterios",
+        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 149625,
+      "name": "Aquellos misterios",
+      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "t quiero baby",
         "url": "https://open.spotify.com/album/560daVWObPmtxsOvhWsIQU"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 146250,
       "name": "t quiero baby",
       "url": "https://open.spotify.com/track/3MqMPEIc6pXXJWSpfwhHOq"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Milanesa al Pan",
+        "url": "https://open.spotify.com/album/405rypS7jhNdcqFTnIsVdL"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 169079,
+      "name": "Milanesa al Pan",
+      "url": "https://open.spotify.com/track/6gE0pYDB5ndP0bSPeXktcL"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "NI\u00d1A",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "NI\u00d1A",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "La Melancol\u00eda",
         "url": "https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 109000,
       "name": "La Melancol\u00eda",
       "url": "https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "NI\u00d1A",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "NI\u00d1A",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Noche Tem\u00e1tica",
+        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
+      },
+      "artists": [
+        {
+          "name": "Todo El Verano",
+          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
+        }
+      ],
+      "duration_ms": 219834,
+      "name": "Noche Tem\u00e1tica",
+      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Locos",
         "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 213159,
       "name": "Locos",
       "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "En Lo Que Llega La Primavera",
-        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 251199,
-      "name": "Como una Flecha",
-      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Noche Tem\u00e1tica",
-        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
+        "name": "En Lo Que Llega La Primavera",
+        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
       },
       "artists": [
         {
-          "name": "Todo El Verano",
-          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 219834,
-      "name": "Noche Tem\u00e1tica",
-      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
+      "duration_ms": 251199,
+      "name": "Como una Flecha",
+      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Bailar en la Cuerda Floja",
-        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 221620,
-      "name": "Bailar en la Cuerda Floja",
-      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 165808,
       "name": "Particular",
       "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Bailar en la Cuerda Floja",
+        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 221620,
+      "name": "Bailar en la Cuerda Floja",
+      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Instante Eterno de Felicidad",
-        "url": "https://open.spotify.com/album/5yhABD33uH530lInv5JqFB"
-      },
-      "artists": [
-        {
-          "name": "Alfonso El Pintor",
-          "url": "https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ"
-        }
-      ],
-      "duration_ms": 188210,
-      "name": "Instante Eterno de Felicidad",
-      "url": "https://open.spotify.com/track/1WgnAv2AxgRslHy6jKqkk1"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Locomotora",
         "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 185296,
       "name": "Que Placer",
       "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Instante Eterno de Felicidad",
+        "url": "https://open.spotify.com/album/5yhABD33uH530lInv5JqFB"
+      },
+      "artists": [
+        {
+          "name": "Alfonso El Pintor",
+          "url": "https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ"
+        }
+      ],
+      "duration_ms": 188210,
+      "name": "Instante Eterno de Felicidad",
+      "url": "https://open.spotify.com/track/1WgnAv2AxgRslHy6jKqkk1"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1791,22 +1791,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Ya No Era Fel\u00edz Contigo",
-        "url": "https://open.spotify.com/album/2MMrxUtCssjTgQr1NHigS5"
+        "name": "No Ves Tal Vez",
+        "url": "https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Colores",
-          "url": "https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan"
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
         },
         {
-          "name": "Vicente Cifuentes",
-          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
+          "name": "Jono McCleery",
+          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
         }
       ],
-      "duration_ms": 188046,
-      "name": "Ya No Era Fel\u00edz",
-      "url": "https://open.spotify.com/track/7mTfMbGpBMZQE3pE9cyndg"
+      "duration_ms": 209829,
+      "name": "No Ves Tal Vez",
+      "url": "https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN"
     }
   ],
   "unique_name": "mandarina",

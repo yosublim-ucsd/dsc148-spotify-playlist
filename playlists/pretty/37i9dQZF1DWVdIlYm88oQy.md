@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,652 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,720 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 4 | [Contrabando Y Traición](https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:26 |
 | 5 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
 | 6 | [Oye Como Va](https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:16 |
-| 7 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
-| 8 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
+| 7 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
+| 8 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
 | 9 | [Siempre en Mi Mente](https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre En Mi Mente](https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm) | 3:25 |
 | 10 | [El Cantante](https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 10:26 |
 | 11 | [Y Volveré \- Remastered 1994](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 21 | [La Nave del Olvido](https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [La Nave del Olvido](https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ) | 3:35 |
 | 22 | [Murió La Flor](https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 3:22 |
 | 23 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
-| 24 | [Y Te Vas](https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Para vosotros canto](https://open.spotify.com/album/76BfWcR9EHcvRJaxKA4V4t) | 4:39 |
+| 24 | [Quererte a Ti](https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 4:35 |
 | 25 | [Plástico](https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 6:41 |
-| 26 | [Quererte a Ti](https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 4:35 |
+| 26 | [Y Te Vas](https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Para vosotros canto](https://open.spotify.com/album/76BfWcR9EHcvRJaxKA4V4t) | 4:39 |
 | 27 | [Black Magic Woman / Gypsy Queen](https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 5:19 |
 | 28 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
 | 29 | [Adoro](https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:21 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 78 | [Stay Out Of My Life](https://open.spotify.com/track/0wsGHiAoOQwOOtBWauLiVN) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [I Can See](https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6) | 3:56 |
 | 79 | [El Cazanguero](https://open.spotify.com/track/4MlbAHuESYOsLGu8i7wFVY) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [A Man And His Music: Poeta del Pueblo](https://open.spotify.com/album/3OFaszBlhmz3MkM8fpP2Nf) | 4:06 |
 | 80 | [No Mercedes](https://open.spotify.com/track/6c8xw7vfxc0gDz3OFU2qxC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:18 |
-| 81 | [Murmullo Del Mar](https://open.spotify.com/track/2XAyyJigU8OPixEtBLXAIi) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Alma con Alma](https://open.spotify.com/album/7sbG3cmyJzRI5QAA5fK1uf) | 3:07 |
-| 82 | [Nasty Sexo](https://open.spotify.com/track/1QF2cLdi0hsrXlzaNOmHoS) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 6:20 |
+| 81 | [Nasty Sexo](https://open.spotify.com/track/1QF2cLdi0hsrXlzaNOmHoS) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 6:20 |
+| 82 | [Murmullo Del Mar](https://open.spotify.com/track/2XAyyJigU8OPixEtBLXAIi) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Alma con Alma](https://open.spotify.com/album/7sbG3cmyJzRI5QAA5fK1uf) | 3:07 |
 | 83 | [Amor del Alma](https://open.spotify.com/track/0tNhDyaUDr2CY9rStDbc2l) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Del Alma \(Los Mejores Boleros Y Baladas De rocio Durcal\)](https://open.spotify.com/album/589YR8hhnGQp2ucKKbIfUj) | 2:51 |
 | 84 | [La Vida](https://open.spotify.com/track/2yRZ94l0C9WzASirjKKuwI) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [I Can See](https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6) | 3:06 |
 | 85 | [Lo Pasado, Pasado](https://open.spotify.com/track/1HYPtBNR4kXNqBo3wfpW27) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:11 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 89 | [Por Creer en Ti](https://open.spotify.com/track/4rwhcZ5qKOae4CGp78LSjG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 Éxitos](https://open.spotify.com/album/3sMYq7e2hCexGBrFA73dS7) | 2:01 |
 | 90 | [Lágrimas y Lluvia](https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:03 |
 
-Snapshot ID: `MCw0ZmY5MDFiMTM0ZTc0NDUyZjZmMTg3NjFkNjhlYTBjZGI5MTIxYmEx`
+Snapshot ID: `MCxkZTQzN2M2MjBhMThiMDZlMDcwZWQ5ZGZmZjdkZDE4NDYyYzk1Yjhk`

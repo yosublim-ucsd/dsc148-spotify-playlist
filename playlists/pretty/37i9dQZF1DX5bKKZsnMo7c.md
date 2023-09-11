@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Cody Fry
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,989 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,101 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 6 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 |
 | 7 | [Everyday is the Best Day of My Life](https://open.spotify.com/track/4vB1VyZYSSdZYH9QNaSJIa) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Everyday is the Best Day of My Life](https://open.spotify.com/album/7jlVqJqJBJ7yewZ31whhjQ) | 2:12 |
 | 8 | [Feel Better](https://open.spotify.com/track/0mfHN9LcAPidSI3JCPqYml) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 4:12 |
-| 9 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 9 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 10 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 |
 | 11 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 |
 | 12 | [Long Gone](https://open.spotify.com/track/5HcPpRhTGsj9VEIYd3r8a0) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Long Gone](https://open.spotify.com/album/1bAD7LRQyKFCaaBxjLkWte) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 79 | [feral canadian scaredy cat](https://open.spotify.com/track/1ew1R0vY1hqwYQQTHXCiQX) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [feral canadian scaredy cat](https://open.spotify.com/album/5sMayuz5wi235vdum4wpj1) | 3:04 |
 | 80 | [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:27 |
 
-Snapshot ID: `MCxjMTFjMzk4ZmUxNWY3YTA0OGEzYjQ0MjIyNmRiOWRhNGJlOTcyOWM0`
+Snapshot ID: `MCw2YmU4Mzk1YzBiMGJlNWNhOWQ0ZThiOGZjZDEzMjQzYTJkNmQxNmJi`

@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Laufey
 
-1,670 songs - 3 day 9 hr 4 min
+1,671 songs - 3 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1042,7 +1042,7 @@
 | [never mind, let's break up](https://open.spotify.com/track/7HmYcLhoo4MVRSUVZSRIpg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [never mind, let's break up](https://open.spotify.com/album/38cbgGWFNBxq8zVtacRpqC) | 2:42 | 2021-08-21 | 2021-09-04 |
 | [neverletyougo](https://open.spotify.com/track/6ps0RcnIrPoiMd9vfcA9KB) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [neverletyougo](https://open.spotify.com/album/2oNeFeW7cRXefZVwQA4eFf) | 2:58 | 2022-03-30 | 2022-06-04 |
 | [New Ceilings](https://open.spotify.com/track/1NAyAWzHtFPkhU36Qgr4gm) | [Dava](https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu) | [New Ceilings](https://open.spotify.com/album/4veDrAkMEkChwfYKmmlgSb) | 3:06 | 2021-02-26 | 2021-03-14 |
-| [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [X&G](https://open.spotify.com/artist/0J8vnuLl37meRjZttkpCBP) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-29 |  |
+| [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-29 |  |
 | [New Normal](https://open.spotify.com/track/2CIYemjFXdmCWpJnfbtrD6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [New Normal](https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk) | 3:18 | 2021-07-22 | 2021-08-21 |
 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 | 2021-06-26 | 2021-07-24 |
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-25 | 2022-05-20 |
@@ -1549,7 +1549,8 @@
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 |  |
 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 | 2021-09-18 | 2021-10-02 |
 | [Valley of Lies](https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Valley of Lies](https://open.spotify.com/album/6HxwkL6Z3D14XOXY5SUPJp) | 3:04 | 2022-07-22 | 2022-08-27 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Venting to Strangers](https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Venting to Strangers](https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz) | 2:32 | 2022-11-18 | 2023-02-11 |
 | [Veronica](https://open.spotify.com/track/32dqTQIiHuXKACRBN9Pmbh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Veronica](https://open.spotify.com/album/1eJ6md3TTpSgFySveYfDsH) | 2:36 | 2021-08-21 | 2021-09-20 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2023-09-01 |  |

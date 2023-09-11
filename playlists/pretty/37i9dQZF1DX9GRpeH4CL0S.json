@@ -1,12 +1,12 @@
 {
   "description": "The greatest Alternative Rock songs through the decades. Cover: The Killers",
-  "num_followers": 685434,
+  "num_followers": 685651,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTQyNmNkNDYwYmFjM2I0NjEzNmZlMjJkYjRlZDU3NjBmN2ZhM2Ez",
+  "snapshot_id": "MCxkNGM2ZjYzZTdlZjNjOTEzOTBiZmJmMTAxYzAyODI3YjkzMmFjNDJi",
   "tracks": [
     {
       "added_at": "2022-11-23 20:10:22",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 181533,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 193653,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 204733,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 237039,
-      "name": "Time is Running Out",
-      "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 246213,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 237039,
+      "name": "Time is Running Out",
+      "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217984,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Fever To Tell (Deluxe Remastered)",
         "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 219986,
       "name": "Maps",
       "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217984,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Hold My Home",
-        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "First",
-      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Siamese Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 201173,
       "name": "Today - 2011 Remaster",
       "url": "https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Hold My Home",
+        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "First",
+      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "Move Along",
-      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Broken Boy Soldiers",
         "url": "https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 215266,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 238880,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
     },
     {
       "added_at": "2022-11-23 20:10:22",

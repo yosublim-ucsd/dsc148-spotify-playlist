@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: BJ The Chicago Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,994 likes - 175 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,125 likes - 175 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Bend, Don't Break](https://open.spotify.com/track/1aOMBiw2qKg5uyQ8CQdeDr) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Bend, Don't Break / Shoestring](https://open.spotify.com/album/4EwEKepDwjaCPJhNvXk4O5) | 3:51 |
 | 175 | [Always Be Mine](https://open.spotify.com/track/6flcRMKoeCsnhwBTBOOW1Q) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:35 |
 
-Snapshot ID: `MCwyOWVlNTEzOGI3ODljMjlhYjdiNjc3MTkxMmI4ODVkZDhhYTc5MTQ0`
+Snapshot ID: `MCw2MTgwODdiMmM1MGExMjA5YmE4MDMwMmZlZDI5ZWIzOWQ4MzliMzFk`

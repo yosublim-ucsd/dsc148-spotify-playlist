@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 235315,
+  "num_followers": 235408,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2ZiYmVhMThjZmFiYzkyNTcwNjdiOWVlMDE2MjlmNjUzNWRjNTZl",
+  "snapshot_id": "MCw0OGI4ZGM4NTQwZjZjYmMzOTRiMDBkM2Q0NDhkMWY0M2YyZWE3MjY1",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "No Fake Love (with YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 148996,
       "name": "No Fake Love (with YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -507,6 +507,30 @@
       "duration_ms": 108949,
       "name": "listen up - Radio Edit",
       "url": "https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -583,30 +607,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
-        "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "GLU",
         "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Crash & Burn",
         "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
       },
@@ -731,6 +747,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 183895,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Used To Me (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
       },
@@ -751,22 +783,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 183895,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 224500,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Words of Affirmation",
-        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 186095,
-      "name": "Words of Affirmation",
-      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+        "name": "Words of Affirmation",
+        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
         }
       ],
-      "duration_ms": 182278,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
+      "duration_ms": 186095,
+      "name": "Words of Affirmation",
+      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Victims & Villains",
         "url": "https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 238178,
-      "name": "MUSE FREESTYLE",
-      "url": "https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/0fBXkE3U6UluW9yg1hIWkW"
       },
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 238178,
+      "name": "MUSE FREESTYLE",
+      "url": "https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -1211,6 +1227,22 @@
       "duration_ms": 173968,
       "name": "Softly",
       "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Y4",
+        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Fool 4 U",
+      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1231,18 +1263,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Y4",
-        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
+        "name": "Spend The Night",
+        "url": "https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Fool 4 U",
-      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
+      "duration_ms": 193729,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1351,22 +1387,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
@@ -1399,22 +1419,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Gameboy Color",
-        "url": "https://open.spotify.com/album/3pCHgEhuauqOLRxBFWXm1U"
-      },
-      "artists": [
-        {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
-        }
-      ],
-      "duration_ms": 154651,
-      "name": "Gameboy Color",
-      "url": "https://open.spotify.com/track/6MefIlx2loVSQ0JnIkKPM1"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
       },
@@ -1435,22 +1439,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Spend The Night",
-        "url": "https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ"
+        "name": "Gameboy Color",
+        "url": "https://open.spotify.com/album/3pCHgEhuauqOLRxBFWXm1U"
       },
       "artists": [
         {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
         }
       ],
-      "duration_ms": 193729,
-      "name": "Spend The Night",
-      "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
+      "duration_ms": 154651,
+      "name": "Gameboy Color",
+      "url": "https://open.spotify.com/track/6MefIlx2loVSQ0JnIkKPM1"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Man Makes Plans",
-        "url": "https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC"
-      },
-      "artists": [
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 169311,
-      "name": "Drunk Tank",
-      "url": "https://open.spotify.com/track/4NZmBeRHvRSl79EkOj3pBH"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Save Me, Pt. 2",
         "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 151569,
       "name": "Save Me, Pt. 2",
       "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Man Makes Plans",
+        "url": "https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 169311,
+      "name": "Drunk Tank",
+      "url": "https://open.spotify.com/track/4NZmBeRHvRSl79EkOj3pBH"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1599,6 +1599,22 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1711,42 +1727,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
-      },
-      "artists": [
-        {
-          "name": "Kim Petite",
-          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
-        },
-        {
-          "name": "Eurosoundz",
-          "url": "https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn"
-        }
-      ],
-      "duration_ms": 179954,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Temporary Love",
         "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 156213,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Out of Touch",
+        "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 212574,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
     }
   ],
   "unique_name": "R&B Magic",

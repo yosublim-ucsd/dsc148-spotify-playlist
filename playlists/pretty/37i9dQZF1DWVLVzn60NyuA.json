@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 281971,
+  "num_followers": 282185,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzg5NWFjOTMzMzJlZjA4NWUwMmRlMWMyMjA5OTExN2QzYjNiZDlh",
+  "snapshot_id": "MCxjNGE2MGZiODQzNTNkODQ3MTU1ZGJhN2UyZTQyNmJmYTk5YjY3NjYz",
   "tracks": [
     {
       "added_at": "2023-09-07 07:00:03",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
     },
     {
       "added_at": "2023-09-07 07:00:03",
@@ -611,26 +611,6 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
-        "name": "Cough (Odo)",
-        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 176134,
-      "name": "Cough (Odo)",
-      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
+        "name": "Cough (Odo)",
+        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 176134,
+      "name": "Cough (Odo)",
+      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
     },
     {
       "added_at": "2023-09-07 07:00:03",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
+        "name": "Fleur froide (Donum Novae)",
+        "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 197240,
+      "name": "Le temps",
+      "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
         "name": "No Bad Songz",
         "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 178000,
       "name": "Nesesari",
       "url": "https://open.spotify.com/track/1yOt3NUFWpYbnFW6ISj59h"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
-        "name": "Fleur froide (Donum Novae)",
-        "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 197240,
-      "name": "Le temps",
-      "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
     },
     {
       "added_at": "2023-09-07 07:00:03",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
         "name": "Ghazali (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 184661,
       "name": "Ghazali (feat. Bryan Mg)",
       "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2023-09-07 07:00:03",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
         "name": "L.I.T.A",
         "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 251147,
       "name": "Sugarcane - Remix",
       "url": "https://open.spotify.com/track/6NuG2JgERZZXvvjmtjOFix"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2023-09-07 07:00:03",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
         "name": "So Distant (feat. Tayc)",
         "url": "https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 174059,
       "name": "So Distant (feat. Tayc)",
       "url": "https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
       "added_at": "2023-09-07 07:00:03",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
-        "name": "Do You Mind?",
-        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 147174,
-      "name": "Do You Mind?",
-      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
         "name": "GO",
         "url": "https://open.spotify.com/album/517OJfoCoydqA83CeuEPpT"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 242442,
       "name": "GO",
       "url": "https://open.spotify.com/track/6xhxjkhzbf4kfDSCOEYgqZ"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
+        "name": "Do You Mind?",
+        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 147174,
+      "name": "Do You Mind?",
+      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
     },
     {
       "added_at": "2023-09-07 07:00:03",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
-        "name": "Drunk in Love (Henny)",
-        "url": "https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn"
-      },
-      "artists": [
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        }
-      ],
-      "duration_ms": 104357,
-      "name": "Drunk in Love (Henny)",
-      "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
         "name": "Legalize",
         "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 146249,
       "name": "Legalize",
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
+        "name": "Drunk in Love (Henny)",
+        "url": "https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 104357,
+      "name": "Drunk in Love (Henny)",
+      "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
     },
     {
       "added_at": "2023-09-07 07:00:03",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
-        "name": "Rock With Me",
-        "url": "https://open.spotify.com/album/5KnWslFbJTIcpsBLh52LRm"
-      },
-      "artists": [
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        }
-      ],
-      "duration_ms": 177678,
-      "name": "Rock With Me",
-      "url": "https://open.spotify.com/track/5K2sqQFCw5I5SI4FcmEq8N"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
         "name": "SMS",
         "url": "https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 153287,
       "name": "SMS",
       "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
+        "name": "Rock With Me",
+        "url": "https://open.spotify.com/album/5KnWslFbJTIcpsBLh52LRm"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 177678,
+      "name": "Rock With Me",
+      "url": "https://open.spotify.com/track/5K2sqQFCw5I5SI4FcmEq8N"
     },
     {
       "added_at": "2023-09-07 07:00:03",
@@ -2491,30 +2491,6 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Lafropop",
-          "url": "https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB"
-        }
-      ],
-      "duration_ms": 169898,
-      "name": "911",
-      "url": "https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
         "name": "Caribe 2.0",
         "url": "https://open.spotify.com/album/1tPnFAJ2ihuiKlh05HUh9o"
       },
@@ -2535,6 +2511,30 @@
       "duration_ms": 155400,
       "name": "Caribe 2.0",
       "url": "https://open.spotify.com/track/4L8bFIYzXyK7U8EJk5POlO"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Lafropop",
+          "url": "https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB"
+        }
+      ],
+      "duration_ms": 169898,
+      "name": "911",
+      "url": "https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D"
     },
     {
       "added_at": "2023-09-07 07:00:03",

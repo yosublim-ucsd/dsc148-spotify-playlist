@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 20594,
+  "num_followers": 20608,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTk0OTdmMTc2M2IzODJhNDMyNDA2NzIyZWYxOTEyYzE4MmE5MTlh",
+  "snapshot_id": "MCw5MjhhYmVkMGQxYzMzOWVmYzc1MGRjOTYwODkzNGEwMThmODhlYzYy",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -111,30 +111,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Eine Alpensinfonie (An Alpine Symphony)",
-        "url": "https://open.spotify.com/album/73oCMeoyC9TtvfuwEyFPxV"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Bernard Haitink",
-          "url": "https://open.spotify.com/artist/13F9LNBUeRx3FYLr96Bge1"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 375520,
-      "name": "Eine Alpensinfonie: VII. Vision - Nebel steigen auf - Die Sonne verd\u00fcstert sich allm\u00e4hlich - Elegie",
-      "url": "https://open.spotify.com/track/7yUywXhOtNSHlATYB1fA4W"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "R. Strauss: Oboe Concerto",
         "url": "https://open.spotify.com/album/14gVF3IYbIK2n3AkhC2Kyk"
       },
@@ -159,6 +135,30 @@
       "duration_ms": 509000,
       "name": "Concerto for Oboe and Small Orchestra in D Major, Op. 144: I. Allegro moderato",
       "url": "https://open.spotify.com/track/1pAIlvyqOfnr4baZp2QGb9"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Eine Alpensinfonie (An Alpine Symphony)",
+        "url": "https://open.spotify.com/album/73oCMeoyC9TtvfuwEyFPxV"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Bernard Haitink",
+          "url": "https://open.spotify.com/artist/13F9LNBUeRx3FYLr96Bge1"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 375520,
+      "name": "Eine Alpensinfonie: VII. Vision - Nebel steigen auf - Die Sonne verd\u00fcstert sich allm\u00e4hlich - Elegie",
+      "url": "https://open.spotify.com/track/7yUywXhOtNSHlATYB1fA4W"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -387,6 +387,34 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
+        "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Lise Davidsen",
+          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "4 Lieder, Op. 27, TrV 170: No. 1, Ruhe, meine Seele!",
+      "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Through Life & Love",
         "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
       },
@@ -451,34 +479,6 @@
       "duration_ms": 180320,
       "name": "Der Rosenkavalier, Op. 59 / Act 1: Introduction",
       "url": "https://open.spotify.com/track/0l0weeIrC9ueCHJPi3XLlh"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
-        "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Lise Davidsen",
-          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "4 Lieder, Op. 27, TrV 170: No. 1, Ruhe, meine Seele!",
-      "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -607,34 +607,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Four Last Songs",
-        "url": "https://open.spotify.com/album/6rMcWQlVDTpNe7ISqkv1JB"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Kiri Te Kanawa",
-          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
-        },
-        {
-          "name": "Andrew Davis",
-          "url": "https://open.spotify.com/artist/1Q9HCWdqbiui9pOsDtYkXW"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "4 Letzte Lieder, TrV 296: No. 2, September",
-      "url": "https://open.spotify.com/track/3zsCas0Qw2bew1AtdxQb3M"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Highlights from Salome, Ariadne of Naxos, Die Liebe der Danae & Capiriccio",
         "url": "https://open.spotify.com/album/48NMqcp6NAJ0aZKuAX2hpw"
       },
@@ -659,6 +631,34 @@
       "duration_ms": 270240,
       "name": "Die Liebe der Danae, Op. 83, TrV 278: Wie ungibst du mich mit frieden",
       "url": "https://open.spotify.com/track/1aOVTTniKZA9cIOq6DBKLi"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Four Last Songs",
+        "url": "https://open.spotify.com/album/6rMcWQlVDTpNe7ISqkv1JB"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "Andrew Davis",
+          "url": "https://open.spotify.com/artist/1Q9HCWdqbiui9pOsDtYkXW"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "4 Letzte Lieder, TrV 296: No. 2, September",
+      "url": "https://open.spotify.com/track/3zsCas0Qw2bew1AtdxQb3M"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -791,34 +791,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Solti - Richard Strauss - The Operas",
-        "url": "https://open.spotify.com/album/5NoP4U6KVEhyzIWXJ9x1D5"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 681213,
-      "name": "Daphne, Op. 82, TrV 272: \"Ich komme, ich komme\"",
-      "url": "https://open.spotify.com/track/0ylOOGWlbKBeAY3YaRY8bK"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Heimliche Aufforderung",
         "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
       },
@@ -847,6 +819,34 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Solti - Richard Strauss - The Operas",
+        "url": "https://open.spotify.com/album/5NoP4U6KVEhyzIWXJ9x1D5"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 681213,
+      "name": "Daphne, Op. 82, TrV 272: \"Ich komme, ich komme\"",
+      "url": "https://open.spotify.com/track/0ylOOGWlbKBeAY3YaRY8bK"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
         "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
       },
@@ -867,30 +867,6 @@
       "duration_ms": 928133,
       "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
       "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "R. Strauss: Symphonische Dichtungen",
-        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Tonk\u00fcnstler-Orchester",
-          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 1065373,
-      "name": "Don Juan, Op. 20, TrV 156",
-      "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -935,6 +911,30 @@
       "duration_ms": 369720,
       "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
       "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "R. Strauss: Symphonische Dichtungen",
+        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Tonk\u00fcnstler-Orchester",
+          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "duration_ms": 1065373,
+      "name": "Don Juan, Op. 20, TrV 156",
+      "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -987,6 +987,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
+        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "duration_ms": 348533,
+      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
+      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
         "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
       },
@@ -1011,30 +1035,6 @@
       "duration_ms": 907586,
       "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
       "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
-        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        },
-        {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
-        }
-      ],
-      "duration_ms": 348533,
-      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
-      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1459,6 +1459,34 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "\"Homage\" - The Age of the Diva",
+        "url": "https://open.spotify.com/album/1ctlAZPfAzx2pp8ObmA3bt"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "duration_ms": 291786,
+      "name": "Die Liebe der Danae: \"Wie umgibst du mich mit Frieden\"",
+      "url": "https://open.spotify.com/track/1lDXttEeQgf55CNp8YebTF"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/4Lb4ZJyRNKyjKbYFsuWCpN"
       },
@@ -1487,34 +1515,6 @@
       "duration_ms": 228106,
       "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
       "url": "https://open.spotify.com/track/7FWRFBUh0ETGb1ANRGX8tB"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "\"Homage\" - The Age of the Diva",
-        "url": "https://open.spotify.com/album/1ctlAZPfAzx2pp8ObmA3bt"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "Mariinsky Orchestra",
-          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        }
-      ],
-      "duration_ms": 291786,
-      "name": "Die Liebe der Danae: \"Wie umgibst du mich mit Frieden\"",
-      "url": "https://open.spotify.com/track/1lDXttEeQgf55CNp8YebTF"
     },
     {
       "added_at": "2022-06-20 09:55:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: SOLE, Sung Si Kyung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,550 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,573 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 11 | [Palette \(feat\. G\-DRAGON\)](https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:37 |
 | 12 | [Nap Fairy](https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nap Fairy \- SM STATION](https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ) | 3:36 |
 | 13 | [When I Get Old](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [When I Get Old](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) | 3:04 |
-| 14 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
-| 15 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
+| 14 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
+| 15 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
 | 16 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 |
 | 17 | [Somebody!](https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Somebody](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) | 2:57 |
 | 18 | [NO ONE](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
 | 50 | [Anemone](https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:52 |
 
-Snapshot ID: `MCwxM2ExNDBmNGZkOGI0NmEyZDZiYTkzYTE1OGM1MTdjYjBiODI1ODRh`
+Snapshot ID: `MCw4M2Q5NWU3NzhjNjczYjI2MmNkMTVhYjllOTMwNThmNGMwMTllN2Y4`

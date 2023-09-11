@@ -1,12 +1,12 @@
 {
   "description": "Beat the traffic blues with these killer tunes.",
-  "num_followers": 10104,
+  "num_followers": 10127,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTUxY2E4ZGM5YzJjNTY5MGMwMTcxYTM0NTRhNWI2ODQ0OGEwMDAw",
+  "snapshot_id": "MCw4OGRhZWZmNjNlYTFlMGQ2MzIyZWE1Y2QzNzcxZDg4ZTBiNzk3ZDVi",
   "tracks": [
     {
       "added_at": "2023-09-09 09:48:21",
@@ -603,6 +603,26 @@
     {
       "added_at": "2023-09-09 09:48:21",
       "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Militerian (feat. Naira Marley)",
+      "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
+    },
+    {
+      "added_at": "2023-09-09 09:48:21",
+      "album": {
         "name": "Be Who You Are (Real Magic)",
         "url": "https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 189713,
       "name": "Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)",
       "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
-    },
-    {
-      "added_at": "2023-09-09 09:48:21",
-      "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Militerian (feat. Naira Marley)",
-      "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
     },
     {
       "added_at": "2023-09-09 09:48:21",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-09 09:48:21",
       "album": {
-        "name": "Jah",
-        "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 147641,
-      "name": "Jah",
-      "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
-    },
-    {
-      "added_at": "2023-09-09 09:48:21",
-      "album": {
         "name": "Hide & Seek",
         "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 208350,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
+    },
+    {
+      "added_at": "2023-09-09 09:48:21",
+      "album": {
+        "name": "Jah",
+        "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 147641,
+      "name": "Jah",
+      "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
     },
     {
       "added_at": "2023-09-09 09:48:21",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2023-09-09 09:48:21",
       "album": {
+        "name": "My Love (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176187,
+      "name": "My Love (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
+    },
+    {
+      "added_at": "2023-09-09 09:48:21",
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2023-09-09 09:48:21",
       "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 188656,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2023-09-09 09:48:21",
-      "album": {
         "name": "Who Is Your Guy?",
         "url": "https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34"
       },
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2023-09-09 09:48:21",
       "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+      "duration_ms": 188656,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "added_at": "2023-09-09 09:48:21",
@@ -1175,6 +1179,22 @@
       "duration_ms": 329079,
       "name": "Khekheleza (Dlala Dlala)",
       "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
+    },
+    {
+      "added_at": "2023-09-09 09:48:21",
+      "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2023-09-09 09:48:21",
@@ -1227,22 +1247,22 @@
     {
       "added_at": "2023-09-09 09:48:21",
       "album": {
-        "name": "Gbese",
-        "url": "https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC"
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
       },
       "artists": [
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 162991,
-      "name": "Gbese",
-      "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
+      "duration_ms": 177067,
+      "name": "10 Toes (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
     },
     {
       "added_at": "2023-09-09 09:48:21",
@@ -1267,22 +1287,42 @@
     {
       "added_at": "2023-09-09 09:48:21",
       "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         },
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 177067,
-      "name": "10 Toes (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+      "duration_ms": 180682,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
+    },
+    {
+      "added_at": "2023-09-09 09:48:21",
+      "album": {
+        "name": "Gbese",
+        "url": "https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 162991,
+      "name": "Gbese",
+      "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
     },
     {
       "added_at": "2023-09-09 09:48:21",
@@ -1307,26 +1347,6 @@
     {
       "added_at": "2023-09-09 09:48:21",
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 180682,
-      "name": "Girl Next Door",
-      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
-    },
-    {
-      "added_at": "2023-09-09 09:48:21",
-      "album": {
         "name": "19 & Dangerous (Deluxe)",
         "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 142571,
       "name": "Running",
       "url": "https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH"
-    },
-    {
-      "added_at": "2023-09-09 09:48:21",
-      "album": {
-        "name": "My Love (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 176187,
-      "name": "My Love (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
     },
     {
       "added_at": "2023-09-09 09:48:21",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-09-09 09:48:21",
       "album": {
-        "name": "Reckless & Sweet",
-        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 159680,
-      "name": "Reckless & Sweet",
-      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
-    },
-    {
-      "added_at": "2023-09-09 09:48:21",
-      "album": {
         "name": "The Golden Boy",
         "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 151663,
       "name": "Mon Bebe",
       "url": "https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw"
+    },
+    {
+      "added_at": "2023-09-09 09:48:21",
+      "album": {
+        "name": "Reckless & Sweet",
+        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 159680,
+      "name": "Reckless & Sweet",
+      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
     },
     {
       "added_at": "2023-09-09 09:48:21",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2023-09-09 09:48:21",
       "album": {
-        "name": "Life & Money (Remix)",
-        "url": "https://open.spotify.com/album/6UvYqIIOIE9pw7H7SqeS50"
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
       "artists": [
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         },
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 184800,
-      "name": "Life & Money - Remix",
-      "url": "https://open.spotify.com/track/0zsh54Zhz2os1mEzgqnUpF"
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
     },
     {
       "added_at": "2023-09-09 09:48:21",
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2023-09-09 09:48:21",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+        "name": "Life & Money (Remix)",
+        "url": "https://open.spotify.com/album/6UvYqIIOIE9pw7H7SqeS50"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 166801,
-      "name": "Aboboyaa (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+      "duration_ms": 184800,
+      "name": "Life & Money - Remix",
+      "url": "https://open.spotify.com/track/0zsh54Zhz2os1mEzgqnUpF"
     },
     {
       "added_at": "2023-09-09 09:48:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,392 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,874 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 27 | [Flying Octopus](https://open.spotify.com/track/2XWBbVold8LNroIDyeockI) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F) | 3:31 |
 | 28 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 |
 | 29 | [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 |
-| 30 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 |
-| 31 | [Sakura](https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Sakura](https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6) | 4:28 |
+| 30 | [Sakura](https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Sakura](https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6) | 4:28 |
+| 31 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 |
 | 32 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 |
 | 33 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
 | 34 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 |
 | 50 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 |
 
-Snapshot ID: `MCw1YTc3NTc2OGJkZTQ4MzY0ZjU2MmQxMDM1ZGNmOGU3YWYzOTJlNjlk`
+Snapshot ID: `MCw5ZGI0MmFiYjllMDA2NWQ5OTNmMjYxZGY2ZDA0Yjk1NDUyYzAyZjA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > consider this an RSVP to littest wedding parties
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,417 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,426 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 51 | [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 |
 | 52 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
 
-Snapshot ID: `MCw2MmZlMWRiM2Q0MTg0ZTgxOThmNDk2Yjk0M2JiY2JlNTljMDlkNTk4`
+Snapshot ID: `MCw3OWRhNTc3YjViMjliYmExZWI2OGM0NTRlNjQyY2IwMzgwMTFjY2Jh`

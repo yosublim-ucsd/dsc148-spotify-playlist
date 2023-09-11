@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Rulo y la contrabanda.
 
-326 songs - 21 hr 12 min
+327 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bello Es Amar Para Siempre](https://open.spotify.com/track/2p8EJ6I57gr25DPkT0lYd0) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Mi Vida en Marte](https://open.spotify.com/album/6hOAD63p0gtDZ25wl7qGZ6) | 4:05 | 2022-05-19 | 2022-05-27 |
 | [Bendita Primavera](https://open.spotify.com/track/1OhLqQd3U4qsPqP08bTPOy) | [Diego Cruz y los Niños Viejos](https://open.spotify.com/artist/6JEZisBM6g3xIngyo9sAcW), [Pablo Sanpa](https://open.spotify.com/artist/6bJo8YEWeliXUCWUY9iy8e) | [Bendita Primavera](https://open.spotify.com/album/24o5PJsiKSxz0mKjT2IEnT) | 5:22 | 2023-04-06 | 2023-04-25 |
 | [Bombero](https://open.spotify.com/track/4NwStwtcE02Rh64H4o3t9o) | [CHUS](https://open.spotify.com/artist/03Ti07lMY1vSVctkbIADLG) | [Bombero](https://open.spotify.com/album/5WJlH2OtY2ySr7brpJNffm) | 2:21 | 2022-06-24 | 2022-07-08 |
-| [Buena muerte](https://open.spotify.com/track/3ukdHzLqj0G4ZaeOFW9lVf) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Buena muerte](https://open.spotify.com/album/65I0m92pou1tBZedRi4F0g) | 3:38 | 2022-12-01 |  |
+| [Buena muerte](https://open.spotify.com/track/3ukdHzLqj0G4ZaeOFW9lVf) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Buena muerte](https://open.spotify.com/album/65I0m92pou1tBZedRi4F0g) | 3:38 | 2022-12-01 | 2023-09-11 |
 | [Buscando en la basura](https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Negociando gasolina](https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR) | 3:28 | 2022-05-26 |  |
 | [Busco Mi Sitio](https://open.spotify.com/track/3BIDS59HKFKR2SwRrSChsS) | [La Regadera](https://open.spotify.com/artist/6qO2fx56JkdCirbByg3Gko) | [Busco Mi Sitio](https://open.spotify.com/album/2pLyVi8jlhrbdXKvwmAUj3) | 3:18 | 2022-06-16 | 2022-07-08 |
 | [Caballos salvajes](https://open.spotify.com/track/7cFRBZUGXbVxrRhb5T2d7v) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Caballos salvajes](https://open.spotify.com/album/2tEQxiD3EsLyRSduTqYyJN) | 4:41 | 2022-07-21 | 2022-08-30 |
@@ -69,6 +69,7 @@
 | [Coexistir](https://open.spotify.com/track/2HDeLyJ8aWiX6pVAQIV2aW) | [Efecto Temporal](https://open.spotify.com/artist/5rhei1s70y3wyleRGfb22V) | [Coexistir](https://open.spotify.com/album/1mVJPwzYe0ZdjYqC8pORkv) | 2:46 | 2022-09-08 | 2022-09-15 |
 | [Como Camarón](https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Esencial Estopa](https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK) | 3:23 | 2022-06-09 |  |
 | [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/0KlA1SYsu8sPIFR2oi6iLw) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Como Si Fueras a Morir Mañana \(Madrid Nuclear \- En Directo\)](https://open.spotify.com/album/1Ouu5x4oKjFOqiR2zcWSc5) | 4:43 | 2022-05-19 | 2022-07-29 |
+| [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Madrid Nuclear \- En Directo](https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9) | 4:43 | 2023-08-31 |  |
 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/0IUFjvwlh18TWiTi6kO5pP) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:38 | 2022-05-19 | 2022-09-22 |
 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:38 | 2022-07-21 |  |
 | [Como Un Burro Amarrado En La Puerta Del Baile \- Remastered](https://open.spotify.com/track/2igMoFouNmVPGsjsIgXYgR) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Pop Español De Los 90](https://open.spotify.com/album/5Qk1y41EXPWr98u1TsH35Y) | 3:38 | 2022-11-10 | 2022-11-14 |

@@ -204,10 +204,28 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 319025,
       "name": "Battery Acid",
       "url": "https://open.spotify.com/track/1Z61fnfYnLiE9hvbKgqbxp"
+    },
+    {
+      "album": {
+        "name": "SEWERSTAR",
+        "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
+      },
+      "artists": [
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319025,
+      "name": "Battery Acid",
+      "url": "https://open.spotify.com/track/3jN8aTvGH6RN06BYXhk6Ob"
     },
     {
       "album": {

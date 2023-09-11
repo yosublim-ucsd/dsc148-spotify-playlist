@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 33770,
+  "num_followers": 33971,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDQ5ZmY5Yjc2ODAxNzEzZjVkYzQ4OWEwNzI2YjQ3ODgwMTEwYmY0",
+  "snapshot_id": "MCwxNTk1Y2RlNWM3YmI4NmM4ZWY0MGQ2ZWY1NGMyZGNiMThiNTU4OTc5",
   "tracks": [
     {
       "added_at": "2023-08-29 23:44:25",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Seems Like",
-        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 194020,
-      "name": "Seems Like",
-      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "The Very Best Of Aaron Neville",
         "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 164560,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Seems Like",
+        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "duration_ms": 194020,
+      "name": "Seems Like",
+      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Baby, I'm For Real",
         "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Mr. Brown Eyed Soul",
-        "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
       },
       "artists": [
         {
-          "name": "Sunny & The Sunliners",
-          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
         }
       ],
-      "duration_ms": 119553,
-      "name": "Smile Now, Cry Later",
-      "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
+      "duration_ms": 209213,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1127,6 +1111,22 @@
       "duration_ms": 165333,
       "name": "You Beat Me To The Punch",
       "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Mr. Brown Eyed Soul",
+        "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
+      },
+      "artists": [
+        {
+          "name": "Sunny & The Sunliners",
+          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
+        }
+      ],
+      "duration_ms": 119553,
+      "name": "Smile Now, Cry Later",
+      "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "The Never Ending Impressions",
         "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
         }
       ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
+      "duration_ms": 290866,
+      "name": "Always and Forever - Single Version",
+      "url": "https://open.spotify.com/track/6wiL61UORY5exOzXFBxPlc"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1287,22 +1303,6 @@
       "duration_ms": 233430,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Too Hot to Handle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 290866,
-      "name": "Always and Forever - Single Version",
-      "url": "https://open.spotify.com/track/6wiL61UORY5exOzXFBxPlc"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Grazin'",
-        "url": "https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw"
-      },
-      "artists": [
-        {
-          "name": "The Friends Of Distinction",
-          "url": "https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu"
-        }
-      ],
-      "duration_ms": 252280,
-      "name": "Going In Circles",
-      "url": "https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 151626,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Grazin'",
+        "url": "https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw"
+      },
+      "artists": [
+        {
+          "name": "The Friends Of Distinction",
+          "url": "https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu"
+        }
+      ],
+      "duration_ms": 252280,
+      "name": "Going In Circles",
+      "url": "https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
-      },
-      "artists": [
-        {
-          "name": "Ralfi Pagan",
-          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
-        }
-      ],
-      "duration_ms": 250045,
-      "name": "To Say I Love You",
-      "url": "https://open.spotify.com/track/6p2xp5G0SKMTTfYF4ZAfhe"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
         "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 357360,
       "name": "Silly",
       "url": "https://open.spotify.com/track/3XrzApq8R10O6WwNwMw8t4"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
+      },
+      "artists": [
+        {
+          "name": "Ralfi Pagan",
+          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+        }
+      ],
+      "duration_ms": 250045,
+      "name": "To Say I Love You",
+      "url": "https://open.spotify.com/track/6p2xp5G0SKMTTfYF4ZAfhe"
     },
     {
       "added_at": "2023-08-29 23:44:25",

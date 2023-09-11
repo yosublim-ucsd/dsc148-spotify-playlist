@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,565 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,662 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 54 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 |
 | 55 | [No discutamos](https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:22 |
 | 56 | [Si Quieres](https://open.spotify.com/track/3E4fIAY3BmI6ZzMaJ3pr0j) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 4:12 |
-| 57 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
-| 58 | [Aventurero](https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Aventurero](https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG) | 3:10 |
+| 57 | [Aventurero](https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Aventurero](https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG) | 3:10 |
+| 58 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
 | 59 | [Mi Venganza](https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ) | 3:11 |
 | 60 | [OK](https://open.spotify.com/track/6ZpPLJ3wck4X1eOhUGCWPx) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [OK](https://open.spotify.com/album/7jKr5d7pxSFzxo8bkM0Y3G) | 2:21 |
 | 61 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 99 | [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 |
 | 100 | [El Alumno](https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Alumno](https://open.spotify.com/album/4rHTyJISches0y7efQTJbW) | 3:08 |
 
-Snapshot ID: `MCw2ZGFiZjZmNTZjMjNjNjQyNjk0MTAwMTA5OThhNDFmZDQwMzkxM2Ew`
+Snapshot ID: `MCxlM2UxZTI1NDE0ZWE1YTczMGU1OTI4MGMwZDA5MGZkNDllY2EwOWQ2`

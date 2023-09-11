@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > AAAAAAAAAAaAAAaaaAaAaAaaAaAa me ouviu aiiii???
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159,554 likes - 70 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160,320 likes - 70 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 14 | [01 Não É 02](https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [01 Não É 02](https://open.spotify.com/album/2paL9EMEJaM0YAGGHSLvpl) | 2:08 |
 | 15 | [Halls na Língua](https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Halls na Língua](https://open.spotify.com/album/21gJooS1uexxzD1qkDcw09) | 3:12 |
 | 16 | [Love, Love](https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Matheus Alves](https://open.spotify.com/artist/1WA2YgK6RudLFgrIIPfUeR) | [Love, Love](https://open.spotify.com/album/1P6rGeHgiZkqO4H0fF4UaS) | 2:13 |
-| 17 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 |
+| 17 | [MONTAGEM \- PAREDE](https://open.spotify.com/track/1Bf8wk84B42gGewriwJlT9) | [SAMUKA](https://open.spotify.com/artist/3wGtjtHSh7D31VZV9wPupB) | [MONTAGEM \- PAREDE](https://open.spotify.com/album/0JgTiCbeMx4rflI3BBINoB) | 1:01 |
 | 18 | [Iphone Fourteen](https://open.spotify.com/track/350rWAdB4UynfrNdIohP9Q) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Só Pra Tu Lembrar de Mim](https://open.spotify.com/album/5GPtt0xJj5MSVOS155M7zU) | 2:30 |
 | 19 | [Novidade na Área](https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Novidade na Área](https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl) | 2:00 |
 | 20 | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/track/5vdQUAFncALEH9EQvyAqIX) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [MC Celo BK](https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c), [DJ Menezes](https://open.spotify.com/artist/12ayBbABWnctytOKqQwMyr), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/album/3cMus2DPrc3370m8whkCul) | 3:02 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
 | 70 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCw4YjBmZDEwM2NhZDAyM2JkMDUyNWY0YjFiNjYwYjY2MDk2MWVmNGUw`
+Snapshot ID: `MCxkZmIzMmRmOGFiN2I4YzZjY2M5Nzk2NzgyYmRiMDFmNDhhMGI3MmNk`

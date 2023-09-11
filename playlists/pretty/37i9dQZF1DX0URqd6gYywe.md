@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Fabiana Cantilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,702 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,812 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 50 | [Amanece en la Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 |
 | 51 | [Diez años después](https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:35 |
 | 52 | [Luz](https://open.spotify.com/track/3nLL7rb00qmExkNTyJJqSv) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Naranja Persa](https://open.spotify.com/album/7tUsFtOjoRAiu5uOHJfETd) | 4:31 |
-| 53 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 |
-| 54 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
+| 53 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
+| 54 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 |
 | 55 | [Silencio](https://open.spotify.com/track/0lZLhOrIYSAnMeEICJnYSH) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 4:49 |
 | 56 | [Todo Pasa](https://open.spotify.com/track/28lnhTSWkiBngKkT1ik12n) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:38 |
 | 57 | [Chance](https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Karmagedon](https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv) | 5:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 74 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 |
 | 75 | [Certezas de Cartón](https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Certezas de Cartón](https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv) | 3:38 |
 
-Snapshot ID: `MCwxOTgxYzYwMGI2YTE5YzM2YWI0NDhmOGY3N2FlM2IxZmFhYmQxZWU3`
+Snapshot ID: `MCxjNmFhOTViYTM0MmQ5NDEyNmI0MjY5NDgyYTcxNmM5ZmY1MjczMTJi`

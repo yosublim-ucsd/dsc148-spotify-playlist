@@ -4,7 +4,7 @@
 
 > Music blasting, faith on swole\.  Get your beast mode on!  Guest Curated by <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=ee8a724b019b4d6d">KB</a>
 
-458 songs - 22 hr 59 min
+459 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Get It, Get It](https://open.spotify.com/track/2Aq2yNSQU02PpMUJp86JFz) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [MAKEBA](https://open.spotify.com/artist/298U4nSkh4Zbb68nPuBYTn), [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [B\. Stokes](https://open.spotify.com/artist/5TurTnk96PSPIVZ3cG6HB1) | [Highlight Tapes, Vol\. 1](https://open.spotify.com/album/5vTdtFjNXMEaQOjvPhUImJ) | 2:10 | 2022-02-04 | 2022-07-09 |
 | [Get Out My Way](https://open.spotify.com/track/51DaW6U334rZ19HB0oduYe) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Never Fold](https://open.spotify.com/album/6lp34X38buB3Rl6u2zh5g1) | 3:28 | 2022-02-04 | 2022-12-17 |
 | [Get Up](https://open.spotify.com/track/3jdw64pKdS37TuckuxXUmX) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Get Up](https://open.spotify.com/album/2fRpk6fSR4q8iTG2veuXXx) | 2:33 | 2022-02-04 |  |
-| [Ghost](https://open.spotify.com/track/4PMipuvMgXfv4JB0eLKddT) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Ghost](https://open.spotify.com/album/4Vdmu9W7R5Yx95GCAEF33D) | 2:11 | 2023-08-11 |  |
+| [Ghost](https://open.spotify.com/track/4PMipuvMgXfv4JB0eLKddT) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Ghost](https://open.spotify.com/album/4Vdmu9W7R5Yx95GCAEF33D) | 2:11 | 2023-08-11 | 2023-09-11 |
 | [Ghost](https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [Ghost](https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB) | 2:07 | 2022-05-28 |  |
 | [Ghost](https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Ghost](https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq) | 2:25 | 2022-11-04 | 2022-11-26 |
 | [Giants](https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Giants](https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg) | 2:43 | 2023-08-11 |  |
@@ -439,6 +439,7 @@
 | [WHAT A DAY](https://open.spotify.com/track/4gWoygRy7vI1Hxs99fymb3) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [WHAT A DAY](https://open.spotify.com/album/40aNMrVZkiEXfzPTTUQa6Y) | 2:43 | 2022-02-04 | 2023-08-12 |
 | [What I Like](https://open.spotify.com/track/5Yd20D9Kt282CO1ANW0QXI) | [JWOODZ](https://open.spotify.com/artist/1euV2O9oyOrwbwOoakx45f), [Kevi Morse](https://open.spotify.com/artist/5St4lPQjCFHH7dobvEFLLI) | [BARELY STARTED](https://open.spotify.com/album/0vvhC7bKZ7F04QxJ0ISoBT) | 2:53 | 2022-03-23 |  |
 | [What You Want](https://open.spotify.com/track/1ZUTF5BOTyyhQZyZvoZeCc) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [What You Want](https://open.spotify.com/album/2MCa8xNBeDmExl0nfhaKjc) | 3:37 | 2022-03-23 | 2022-04-21 |
+| [What?](https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v) | [Reece Lache](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe) | [What?](https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw) | 2:12 | 2023-08-11 |  |
 | [Where The Love Go?](https://open.spotify.com/track/6AcH0LfJlSzhHQqzWaxU5Y) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Christopher](https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW) | 2:20 | 2022-02-04 | 2022-12-17 |
 | [Where To Find Me](https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Where To Find Me](https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb) | 2:18 | 2022-04-30 | 2022-05-29 |
 | [White Noise](https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [White Noise](https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP) | 3:47 | 2022-02-04 | 2022-05-08 |

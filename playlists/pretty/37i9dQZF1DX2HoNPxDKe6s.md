@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 
 > The hip\-hop party soundtrack of summer, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,590 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,632 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 | 34 | [PUFFIN ON ZOOTIEZ](https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:52 |
 | 35 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
 | 36 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
-| 37 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 |
-| 38 | [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:01 |
+| 37 | [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:01 |
+| 38 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 |
 | 39 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 |
 | 40 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 |
 | 41 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 | 44 | [SLUT ME OUT](https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT](https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ) | 2:03 |
 | 45 | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74) | 3:23 |
 | 46 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 |
-| 47 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 |
-| 48 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
+| 47 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
+| 48 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 |
 | 49 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 |
 | 50 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 |
 
-Snapshot ID: `MCw0NDAzZTg5NWNkNGU5NTQ0YzQ3ZTI2NjY4OTk2ZGM3YjNjODYwNGY1`
+Snapshot ID: `MCwzZmM1ODYxNGI3YmVmODAwZTVmNmY3MzUwYWYxZDMzOTAzOTAyNTI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,939 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,980 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 49 | [La nuit n'en finit plus](https://open.spotify.com/track/1TGcuqWyRfV488tGSiv9iq) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/3tZV6fFNYUXa3HUFaT7Xhz) | 2:58 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/6mWJLNSVLNJDa2f0Quqa3X) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Les années 60, Vol\. 2](https://open.spotify.com/album/7psc0MrG0TGTKXwSTsjRom) | 2:11 |
 
-Snapshot ID: `MCwyMDE4NTMzMmFlNTdiNDAzNzVjNDEyZWQ2MTYyZmJjMjJhNTVlODU4`
+Snapshot ID: `MCw5NTE0NjYxMGI3OWFmMTc5ZTFiMjkxZjQ3YTUwZGE0NTQ3MWE5NjM5`

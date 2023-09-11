@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Young Miko.
 
-378 songs - 21 hr 26 min
+379 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Como Soy](https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM) | 5:12 | 2022-07-22 | 2023-07-29 |
 | [Como Yo Puedo Olvidar](https://open.spotify.com/track/2dovaZsPSEQCRYuUCBtBLF) | [Ventura El Favorito](https://open.spotify.com/artist/3ydKvxN2Cngfl8gaA9Ld9H), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [Como Yo Puedo Olvidar](https://open.spotify.com/album/34gYq2MZR2pAhlprxpWSyx) | 3:31 | 2023-03-17 | 2023-04-01 |
 | [Coroné](https://open.spotify.com/track/0BcheiZV7WuB5M9yGAFtwB) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/16NCoucptRbqb2VoMbmt3V) | 2:50 | 2023-06-09 | 2023-06-14 |
-| [Coroné](https://open.spotify.com/track/386NSsUV8EaZe1xFea64cw) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/0qR3J5yY7BMDQOlgFyVgQ0) | 2:50 | 2023-06-09 |  |
+| [Coroné](https://open.spotify.com/track/386NSsUV8EaZe1xFea64cw) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/0qR3J5yY7BMDQOlgFyVgQ0) | 2:50 | 2023-06-09 | 2023-09-11 |
+| [Coroné](https://open.spotify.com/track/6h22JGTLtV29j7sXmtB2ii) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/3LvQoppyYo1QSEISDUsg8T) | 2:50 | 2023-09-08 |  |
 | [Cotidiano](https://open.spotify.com/track/5fhXtKQWLg6pjE4Ca02hgd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Cotidiano](https://open.spotify.com/album/5JXWsZ1nZVLDXfSV4d777m) | 2:12 | 2021-12-06 | 2022-06-04 |
 | [Creo \- Remix](https://open.spotify.com/track/2ogNwewszcmto1CC2an0xO) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Creo \(Remix\)](https://open.spotify.com/album/0CLFXd0a3YDeP7IPRb6ggh) | 4:23 | 2022-06-10 | 2022-07-16 |
 | [Criminal Mood](https://open.spotify.com/track/5HWiWcpQ2zcPA0TVip4kyA) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Rulits TMB](https://open.spotify.com/artist/0yS7QAEchrBFgVTQogvntW) | [Criminal Mood](https://open.spotify.com/album/62pIIvltFPUnUCEUsxLW2a) | 2:21 | 2022-03-04 | 2022-06-04 |

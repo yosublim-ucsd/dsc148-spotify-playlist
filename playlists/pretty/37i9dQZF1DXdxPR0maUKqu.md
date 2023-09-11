@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,746 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,828 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 35 | [夕方ジェネレーション](https://open.spotify.com/track/2zrkwF6k8fv6BzW5Pg5BS8) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [夕方ジェネレーション](https://open.spotify.com/album/5wRH839yau15M0iWjD8Lsw) | 5:00 |
 | 36 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
 | 37 | [春愁](https://open.spotify.com/track/5SHguvOUbyPTINNjCvRo8K) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Love me, Love you](https://open.spotify.com/album/21awaIwNyYDin6Zzbtos4g) | 3:03 |
-| 38 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
-| 39 | [spiral](https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [spiral](https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs) | 3:51 |
+| 38 | [spiral](https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [spiral](https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs) | 3:51 |
+| 39 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
 | 40 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 |
 | 41 | [おどる ひかり](https://open.spotify.com/track/5vKeKeMQEOVVHvWoboCWdK) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [おどる ひかり](https://open.spotify.com/album/70dxLOHCgr6kXq9PU6v1er) | 4:41 |
 | 42 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 49 | [Starting Over](https://open.spotify.com/track/2kuTXMJcOuIgZGc73kP5Is) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Starting Over](https://open.spotify.com/album/3d4K0E7Jisj18spw1y7rEF) | 3:10 |
 | 50 | [シャッター](https://open.spotify.com/track/19mjCzLuMHZ0Tyn3eI85bo) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:08 |
 
-Snapshot ID: `MCxmYjJiNWQzZTg3MzE4MGRkOTE4NzkzNjQ0M2Q5YmFmZWU0ZTVkODM3`
+Snapshot ID: `MCxlZTg5Nzk4NDk5YzExZmZlM2JlN2IzNmY1MDAzMjc2MGM2MWU3MWE3`

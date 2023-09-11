@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: MY FIRST STORY
 
-140 songs - 8 hr 4 min
+142 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Dear Life](https://open.spotify.com/track/6gsr8v2ZGPMzMegnJ05byK) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [SOUNDSCAPE](https://open.spotify.com/album/5q53vO8tjeMQ1hICEqjvDS) | 3:43 | 2023-08-15 |  |
 | [DESTINATION UNKNOWN](https://open.spotify.com/track/1SBs9FBcvzM9KclTZn5U8U) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE) | 2:49 | 2023-07-20 |  |
 | [Dive in Your Faith](https://open.spotify.com/track/0pzu9pwttcFnbx822XA9xx) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Dive in Your Faith](https://open.spotify.com/album/38QdEHccuklJS8B35kl2qE) | 3:27 | 2023-07-20 |  |
-| [DO THE DANCE](https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [DO THE DANCE](https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2) | 3:16 | 2023-07-27 |  |
+| [DO THE DANCE](https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [DO THE DANCE](https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2) | 3:16 | 2023-07-27 | 2023-09-11 |
 | [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 | 2023-07-27 | 2023-07-29 |
 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2023-07-20 |  |
 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 | 2023-07-20 |  |
@@ -48,13 +48,15 @@
 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 | 2023-07-20 |  |
 | [Hyperhell](https://open.spotify.com/track/1NgQvI5UhPKnqSS2f5eQoF) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [Hyperhell](https://open.spotify.com/album/7FwB8j1LLXMbkoYxfy3TuN) | 2:41 | 2023-07-20 | 2023-08-02 |
 | [I Don't Know\(Re\)](https://open.spotify.com/track/1gvFijuYRt1JHJsvyIX9Zo) | [Kill The Gossip](https://open.spotify.com/artist/536HIHYj6SspezuJFoFHmo) | [I Don't Know\(Re\)](https://open.spotify.com/album/340gjdOAYulMtGDP3kyvTI) | 2:36 | 2023-07-20 | 2023-08-16 |
+| [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 | 2023-09-10 |  |
 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 | 2023-07-20 |  |
 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-07-20 |  |
 | [I'm ready to die for my friends](https://open.spotify.com/track/2CQVZQ31zugcnfaxCkuR2N) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [I'm ready to die for my friends](https://open.spotify.com/album/3iy3EnIGs1JF8diFJrBJCF) | 3:50 | 2023-07-20 |  |
-| [Jupiter](https://open.spotify.com/track/2R4IXQQ3DoWosEB2BrtdxF) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn) | 3:20 | 2023-07-20 |  |
+| [Jupiter](https://open.spotify.com/track/2R4IXQQ3DoWosEB2BrtdxF) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn) | 3:20 | 2023-07-20 | 2023-09-11 |
 | [Kanzen kankaku Dreamer](https://open.spotify.com/track/1XT0cpl9g0GuRQJao2nqXd) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Niche Syndrome](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) | 4:12 | 2023-07-20 |  |
 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 | 2023-07-20 |  |
 | [KiLLiNG ME](https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [SEEDS OF HOPE](https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5) | 2:55 | 2023-07-20 | 2023-08-09 |
+| [KiSS OF DEATH](https://open.spotify.com/track/3vv2Mr8J2jGPjFOPiaTwic) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:52 | 2023-09-10 |  |
 | [Kodou](https://open.spotify.com/track/19A7WBwlU8wK0419zlQSFn) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [Automata](https://open.spotify.com/album/5fGTM9Mns9IckCXUMZPcfW) | 3:19 | 2023-07-20 | 2023-08-25 |
 | [LAST FOREVER](https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/73tNOaqid3GTZjHaQx7lQ4) | 4:16 | 2023-07-20 | 2023-07-26 |
 | [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 | 2023-07-20 | 2023-07-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 
 > From across the globe\. New Songwriters on the horizon\. Cover: Mbryo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,874 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,918 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 | 6 | [Body Better](https://open.spotify.com/track/6q0xuMnc64pDLSE67pQy7e) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:09 |
 | 7 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
 | 8 | [Best of Us](https://open.spotify.com/track/5DhcEJWVdkPNkJUVnbiUKo) | [WIER](https://open.spotify.com/artist/2eGAHWide96MItPXtwxMr2), [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Christina Stürmer](https://open.spotify.com/artist/5GnRHCbhnGp57tp4whNvOo), [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB), [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [Joel Brandenstein](https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A), [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG), [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3), [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa), [Sasha](https://open.spotify.com/artist/091dY4SjI2cy4YHdvhCjg1), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Best of Us](https://open.spotify.com/album/5The4yrlGj0HOZJbiLixt4) | 3:17 |
-| 9 | [Mama's Eyes](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [Mama's Eyes](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
+| 9 | [MAMA'S EYES](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MAMA'S EYES](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
 | 10 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 |
 | 11 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 12 | [Lose It All](https://open.spotify.com/track/1rLKLphzEdI1YQqHn4n0OD) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Lose It All](https://open.spotify.com/album/4dPAqSKXgdO0YosVpLNbE4) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 | 49 | [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 |
 | 50 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
 
-Snapshot ID: `MCw2NDNjYmIyOWUyNjIyZjE2NWU2MDk5OGVkZmRjYmYyZDY1NGE0YTQ4`
+Snapshot ID: `MCwwODY5MmFlZDI2ODM5OTE2NDMwOTU0ZGNhMTM2MDYwOGI2NmVhOTNm`

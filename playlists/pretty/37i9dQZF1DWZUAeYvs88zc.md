@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,388 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,642 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 53 | [Talking to Yourself](https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:53 |
 | 54 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 |
 | 55 | [I Love You's](https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 3:36 |
-| 56 | [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 |
-| 57 | [You Let Me Down](https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:13 |
-| 58 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 |
-| 59 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
+| 56 | [You Let Me Down](https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:13 |
+| 57 | [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 |
+| 58 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
+| 59 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 |
 | 60 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 |
 | 61 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 4:34 |
 | 62 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 67 | [Not Sad Anymore](https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Not Sad Anymore](https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN) | 3:15 |
 | 68 | [I'm Not Dead Yet](https://open.spotify.com/track/0UCPhf8taREU3GMhFMoNKN) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [I'm Not Dead Yet](https://open.spotify.com/album/1yMUi2EXhNKenf6rHEu7AT) | 2:58 |
 | 69 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 |
-| 70 | [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 |
-| 71 | [Psycho](https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:04 |
+| 70 | [Psycho](https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:04 |
+| 71 | [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 |
 | 72 | [hate to be you](https://open.spotify.com/track/4B8xshUQgezhJ8i8HWhHR1) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:02 |
 | 73 | [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 |
 | 74 | [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 |
 | 75 | [simple times](https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:47 |
 
-Snapshot ID: `MCw5MjY0YjFiMDUxNjdhOTkzOTk0MDg1MDEwOTNiMjQyYzhlNDRiODVl`
+Snapshot ID: `MCwzMDA5MDYxNjc0ZWQ5ZjBiZTE2MzI0NDVhYjhjZjY4ZDA2MDIxMDE0`

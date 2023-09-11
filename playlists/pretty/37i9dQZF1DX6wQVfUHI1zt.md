@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,179 likes - 120 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,250 likes - 120 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 36 | [Bidi Bidi Bom Bom \- 1994 Version](https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:30 |
 | 37 | [Como Te Extrano](https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:38 |
 | 38 | [Estúpido Romántico](https://open.spotify.com/track/5DGCz0pG9SrJpIps43xyod) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 4:34 |
-| 39 | [Lágrimas](https://open.spotify.com/track/6iKnCeOWsfBTZxLAtqm2xn) | [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/3phdl28dDCj4AFDgfhKxHw) | 3:42 |
-| 40 | [Tonta](https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Puro Tejano Gold](https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7) | 3:06 |
+| 39 | [Tonta](https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Puro Tejano Gold](https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7) | 3:06 |
+| 40 | [Lágrimas](https://open.spotify.com/track/6iKnCeOWsfBTZxLAtqm2xn) | [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/3phdl28dDCj4AFDgfhKxHw) | 3:42 |
 | 41 | [La Llama](https://open.spotify.com/track/1UoU72fMy6ztND27wRtuFb) | [Los Palominos](https://open.spotify.com/artist/0PWmxlpld6uKF8DXOupfQe) | [10 De Colección](https://open.spotify.com/album/4OcDyb089lSW7AUAm3Uvhb) | 3:28 |
 | 42 | [Son Tus Miradas](https://open.spotify.com/track/2nPVP13joEfdlIIxfaVujj) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Steel Rain](https://open.spotify.com/album/1MULrpYOnPW4U8nTyuu9pD) | 2:53 |
 | 43 | [Todavía](https://open.spotify.com/track/4CSwCfn6qCuXvnhxvarnG7) | [Elsa Garcia](https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE) | [Pasion](https://open.spotify.com/album/3ySyGfsLT8Y4naB0iKo7PS) | 3:37 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 92 | [Sueña](https://open.spotify.com/track/6LsysQAxBx5PVMbufJeqY9) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:15 |
 | 93 | [Fotos Y Recuerdos](https://open.spotify.com/track/5l4yL1SGvwxuN3It1eupnu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 2:35 |
 | 94 | [Enséñame A Olvidarte](https://open.spotify.com/track/0shtd9B4bdC8Nf4hw5Ii7k) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:22 |
-| 95 | [Siempre Estoy Pensando En Ti](https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:01 |
-| 96 | [Eso Duele](https://open.spotify.com/track/4r1UX2U2tHi639B4TwE5Vb) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:16 |
+| 95 | [Eso Duele](https://open.spotify.com/track/4r1UX2U2tHi639B4TwE5Vb) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:16 |
+| 96 | [Siempre Estoy Pensando En Ti](https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:01 |
 | 97 | [Te Voy A Amar](https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:56 |
 | 98 | [Costumbres](https://open.spotify.com/track/4b7NywXvngCF1aB49IQLyC) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:49 |
 | 99 | [I Could Fall In Love](https://open.spotify.com/track/3BK927dUqOGro6GtXO3e2S) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Lo Mejor De…](https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f) | 4:41 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 105 | [No Sé Por Qué](https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 2:49 |
 | 106 | [Yo No Tengo La Culpa](https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:37 |
 | 107 | [Con Mis Alas Rotas](https://open.spotify.com/track/6uOuVy1yGf70OJFk0RBbh5) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:36 |
-| 108 | [Si No Te Hubiera Conocido](https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Si No Te Hubiera Conocido](https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY) | 3:14 |
-| 109 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:21 |
+| 108 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:21 |
+| 109 | [Si No Te Hubiera Conocido](https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Si No Te Hubiera Conocido](https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY) | 3:14 |
 | 110 | [Las Cadenas](https://open.spotify.com/track/6VJYwVo6MDV4h8mNfTb61Q) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:10 |
 | 111 | [Di Algo featuring Edgar Ramirez of Zeri](https://open.spotify.com/track/65othLo1tpzoD8LUT16GTu) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Iconic \(Remastered\)](https://open.spotify.com/album/04QjiAjGtDlaGITJRecZRj) | 3:44 |
 | 112 | [Cindy Don't Know](https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:38 |
@@ -124,9 +124,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 114 | [Que Me Lleven Canciones](https://open.spotify.com/track/3qi5CS04DKtP5eIzQZ5gI7) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:56 |
 | 115 | [Perdoname](https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [FOREVER MAZZ](https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA) | 4:38 |
 | 116 | [Vuelve](https://open.spotify.com/track/2wWq8OrM7L0zUqvZvexwGV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:47 |
-| 117 | [No Te Olvidaré](https://open.spotify.com/track/1Qqnwem5JIf7TAE70BLav9) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:09 |
-| 118 | [Ven Conmigo](https://open.spotify.com/track/5neqwbGxk0u6OgiTqXmd57) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:26 |
+| 117 | [Ven Conmigo](https://open.spotify.com/track/5neqwbGxk0u6OgiTqXmd57) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:26 |
+| 118 | [No Te Olvidaré](https://open.spotify.com/track/1Qqnwem5JIf7TAE70BLav9) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:09 |
 | 119 | [Vuelvo](https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Lo Basico](https://open.spotify.com/album/2hruqNk86ciCeHpUv0tggC) | 4:15 |
 | 120 | [¿Qué Será?](https://open.spotify.com/track/2Jgu37m4rGRGhmaS0W9JMv) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:39 |
 
-Snapshot ID: `MCxkODVkZjFkOGEzNGEyMzMwZmY5MmE2YTdmM2EyOTU1YWJmMWViNDM1`
+Snapshot ID: `MCwxMmFmZTM4NmNlNjBkZWEzMmYzZWE2YTBiNTcxZjhlOThlMGYyNWM0`

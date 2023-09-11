@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150276,
+  "num_followers": 150280,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTgwNmU1NzkxMmQ1ZDBhMTVjNWQyMmJiNjNjMjU0YzM2MmZiNGQy",
+  "snapshot_id": "MCxlNDI4NDg3YTMwMDVkNjc2ZTlkNWQ0ZmZjZWEzM2MzMzU0ZTFmYzI1",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "The Colonel",
-        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
-      },
-      "artists": [
-        {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
-        },
-        {
-          "name": "Justin Champagne",
-          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
-        }
-      ],
-      "duration_ms": 157367,
-      "name": "Good Vibes Only",
-      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "The Bubba Mathis EP",
         "url": "https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 211888,
       "name": "Put in Work",
       "url": "https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "The Colonel",
+        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
+      },
+      "artists": [
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        }
+      ],
+      "duration_ms": 157367,
+      "name": "Good Vibes Only",
+      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -827,6 +827,70 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
+        "name": "COUNTRY FUZZ",
+        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "duration_ms": 164334,
+      "name": "Slow Rollin'",
+      "url": "https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Blood Red",
+        "url": "https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Blood Red",
+      "url": "https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Tall Boy",
+        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 140128,
+      "name": "Tall Boy",
+      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Trailer Park Barbie.",
+        "url": "https://open.spotify.com/album/5Ir7SKNW8KpB1QLpqKUBhL"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "duration_ms": 170087,
+      "name": "Trailer Park Barbie",
+      "url": "https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
         "name": "Muddy Days Drunken Nights",
         "url": "https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK"
       },
@@ -855,70 +919,6 @@
       "duration_ms": 192214,
       "name": "Rippin It up (feat. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz)",
       "url": "https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Blood Red",
-        "url": "https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk"
-      },
-      "artists": [
-        {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Blood Red",
-      "url": "https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "COUNTRY FUZZ",
-        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 164334,
-      "name": "Slow Rollin'",
-      "url": "https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Trailer Park Barbie.",
-        "url": "https://open.spotify.com/album/5Ir7SKNW8KpB1QLpqKUBhL"
-      },
-      "artists": [
-        {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
-        }
-      ],
-      "duration_ms": 170087,
-      "name": "Trailer Park Barbie",
-      "url": "https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Tall Boy",
-        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 140128,
-      "name": "Tall Boy",
-      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
     },
     {
       "added_at": "2023-08-21 15:41:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: The Cure
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,305 likes - 80 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,670 likes - 80 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 16 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
 | 17 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 |
 | 18 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |
-| 19 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 |
-| 20 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
+| 19 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
+| 20 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 |
 | 21 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
 | 22 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
 | 23 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 63 | [Between the Bars](https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:21 |
 | 64 | [Child Psychology](https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh) | [Black Box Recorder](https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR) | [England Made Me](https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS) | 4:08 |
 | 65 | [Out of Space](https://open.spotify.com/track/6cYJBIE9FC1QAoPw5EhdLA) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:02 |
-| 66 | [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 2:59 |
-| 67 | [Hedonism \(Just Because You Feel Good\)](https://open.spotify.com/track/2qRZm3cGCUPK40j3g0G5cN) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Stoosh](https://open.spotify.com/album/4S7eZrznxAyzv8IaoztDDR) | 3:27 |
+| 66 | [Hedonism \(Just Because You Feel Good\)](https://open.spotify.com/track/2qRZm3cGCUPK40j3g0G5cN) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Stoosh](https://open.spotify.com/album/4S7eZrznxAyzv8IaoztDDR) | 3:27 |
+| 67 | [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 2:59 |
 | 68 | [Sure Shot](https://open.spotify.com/track/21REQ1bCUWphT2QK3bLWYQ) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 3:19 |
 | 69 | [Country House \- 2012 Remaster](https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Great Escape \(Special Edition\)](https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1) | 3:56 |
 | 70 | [Grace](https://open.spotify.com/track/64SIlhd3BaHCCMSfajXG7l) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 5:22 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 75 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
 | 76 | [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 |
 | 77 | [Love Spreads](https://open.spotify.com/track/6JvEXmRh3l2acBzvqavgT9) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Second Coming](https://open.spotify.com/album/3DE7aixVSE6DZ6ALYIztT0) | 5:47 |
-| 78 | [Waltz \#2 \(XO\)](https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 4:40 |
-| 79 | [The Only One I Know](https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u) | 3:58 |
+| 78 | [The Only One I Know](https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u) | 3:58 |
+| 79 | [Waltz \#2 \(XO\)](https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 4:40 |
 | 80 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
 
-Snapshot ID: `MCw4YjhhYzc4NTlkYzUyODMwMzIwMTE1NDRlNDEyODE1YTZmNDIyZDM2`
+Snapshot ID: `MCxiOWVkODU5NzkxMzg1ZGRhNGE0OGNmYTRlMDJhODVhMzBhODRkZDdh`

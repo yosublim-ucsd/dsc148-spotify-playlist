@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-241 songs - 12 hr 17 min
+242 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 | 2022-06-09 | 2023-02-17 |
 | [baby](https://open.spotify.com/track/2aGYOI0pqaMrNkUsZLChhK) | [Weesh](https://open.spotify.com/artist/7vwspaeDUbE12cJ3ppZdIZ), [Drexbeats](https://open.spotify.com/artist/5Kw6tU4czzjX7sz2QYQBEu) | [baby](https://open.spotify.com/album/7r2BseVxWVB0QrbKiCVdMH) | 2:39 | 2023-07-28 | 2023-09-10 |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2022-06-09 |  |
+| [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 | 2023-09-09 |  |
 | [Back In Office](https://open.spotify.com/track/1Br3JtJFsEN9byeuryq9zQ) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Back In Office](https://open.spotify.com/album/1gfcxREIzWiCKzAw71PxHp) | 3:11 | 2022-06-09 | 2022-07-25 |
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-07 | 2022-12-08 |
 | [Balablu](https://open.spotify.com/track/60Sewwrwex32vWYXNi6zgJ) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Hitsound](https://open.spotify.com/artist/1gkLlq1xDlp3krBv3H9zLg) | [Balablu](https://open.spotify.com/album/6bf4XCYj8Y5wvbhrFKW7S9) | 2:27 | 2023-04-14 | 2023-05-12 |
@@ -128,7 +129,7 @@
 | [Level Up](https://open.spotify.com/track/13C83mBRF1HW2cQ1ThDn9q) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Level Up](https://open.spotify.com/album/4HRPdNNrlFdvye0nyGEfBK) | 2:43 | 2023-08-10 | 2023-09-10 |
 | [Levels](https://open.spotify.com/track/0TalH2EQxBFEOJGNMk8Edm) | [Jimmy Nevis](https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE), [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [Things We Don't Talk About](https://open.spotify.com/album/6b10CoMCksM7uJYa4zOykU) | 3:49 | 2023-01-27 | 2023-02-04 |
 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 | 2023-04-27 | 2023-07-14 |
-| [Live Life](https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:41 | 2022-09-30 |  |
+| [Live Life](https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:41 | 2022-09-30 | 2023-09-11 |
 | [LOML \(feat\. Olamide\)](https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [LOML \(feat\. Olamide\)](https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH) | 3:16 | 2022-06-09 | 2022-07-29 |
 | [Long Time](https://open.spotify.com/track/4HdSvJOkkBuiVUrL9eXJ2K) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Long Time](https://open.spotify.com/album/2k2AYdW4INL9p0mxm8CcBt) | 3:11 | 2022-06-09 | 2022-07-23 |
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-06-23 | 2023-02-24 |

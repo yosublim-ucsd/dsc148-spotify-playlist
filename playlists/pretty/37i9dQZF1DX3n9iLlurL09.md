@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,343 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,378 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 40 | [Lightning Bolt](https://open.spotify.com/track/79DO6dBi8936P6EShLB209) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 2:24 |
 | 41 | [Hollywood Forever Cemetery Sings](https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:10 |
 | 42 | [Ride](https://open.spotify.com/track/0ZyfiFudK9Si2n2G9RkiWj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:49 |
-| 43 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
-| 44 | [The Fall](https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:44 |
+| 43 | [The Fall](https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:44 |
+| 44 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
 | 45 | [How Did I Get Here](https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Summer's Gone](https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1) | 2:11 |
 | 46 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
 | 47 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 77 | [Insane feat\. Moon Holiday](https://open.spotify.com/track/0ULEBRTLZhgKisTpgKzAuB) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 3:33 |
 | 78 | [Tightrope](https://open.spotify.com/track/44psOy0D0SP8rcIiUgKgBs) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 3:29 |
 | 79 | [Chained](https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:47 |
-| 80 | [I Found You](https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 2:59 |
-| 81 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 |
+| 80 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 |
+| 81 | [I Found You](https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 2:59 |
 | 82 | [From Nowhere](https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Sweet Disarray](https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y) | 3:16 |
 | 83 | [Let’s Go](https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Lightning](https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH) | 3:30 |
 | 84 | [Sleepless feat\. Jezzabell Doran](https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 3:29 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 89 | [Breathing Underwater](https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica \(Deluxe Edition\)](https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ) | 3:56 |
 | 90 | [Paddling Out](https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy To You](https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF) | 3:37 |
 | 91 | [Forest Whitaker](https://open.spotify.com/track/5S67wnJOMjuySVEu4ssCof) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Kevin Devine](https://open.spotify.com/artist/66ScZxprvrMbCtN4ivA0JX) | [II](https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp) | 3:43 |
-| 92 | [lofticries](https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:59 |
-| 93 | [On Top \(feat\. T\-Shirt\)](https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 3:51 |
+| 92 | [On Top \(feat\. T\-Shirt\)](https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 3:51 |
+| 93 | [lofticries](https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:59 |
 | 94 | [Every Single Night](https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 3:29 |
 | 95 | [Yet Again](https://open.spotify.com/track/6zc0b2JM2M9DKMuLQ1XCRK) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX) | 5:18 |
 | 96 | [Next Year](https://open.spotify.com/track/04Lfe4r35E38e6D0FlJKfn) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 99 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
 | 100 | [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Delta Spirit](https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi) | 3:39 |
 
-Snapshot ID: `MCw4YjE1ZTYwMjUyMWVkNjE4ZTFjMDQ3M2UyYTM3Y2EyMTQxMjM5OThi`
+Snapshot ID: `MCxkZWI1ZmFkODU4ZDgzYzBjNTJkNGYyYjUwYTNmZWE5YmY2ZDFhZDkz`

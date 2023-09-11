@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 
 > The songs of the 1960s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,635 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,787 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 19 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
 | 20 | [Proud Mary](https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Bayou Country \(Expanded Edition\)](https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq) | 3:07 |
 | 21 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
-| 22 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
-| 23 | [It's Not Unusual](https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Along Came Jones](https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR) | 1:59 |
+| 22 | [It's Not Unusual](https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Along Came Jones](https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR) | 1:59 |
+| 23 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
 | 24 | [You Never Can Tell](https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:41 |
 | 25 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
 | 26 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 33 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 |
 | 34 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 | 35 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 |
-| 36 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
-| 37 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
+| 36 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
+| 37 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
 | 38 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
 | 39 | [Black Magic Woman \- Single Version](https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana's Greatest Hits](https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai) | 3:16 |
 | 40 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 64 | [It's My Party](https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [I'll Cry If I Want To](https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8) | 2:20 |
 | 65 | [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 |
 | 66 | [The Locomotion](https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:19 |
-| 67 | [Groovin'](https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL) | [The Young Rascals](https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2) | [Groovin' \(Mono\)](https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U) | 2:31 |
-| 68 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 |
+| 67 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 |
+| 68 | [Groovin'](https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL) | [The Young Rascals](https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2) | [Groovin' \(Mono\)](https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U) | 2:31 |
 | 69 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
 | 70 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
 | 71 | [Chapel Of Love](https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [The Very Best of The Dixie Cups: Chapel of Love](https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 74 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 | 75 | [Walk Like a Man](https://open.spotify.com/track/4C76SOnBa9eQDwOwe11hPz) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Big Girls Don't Cry and 12 Other Hits](https://open.spotify.com/album/21nYbsqCxRcKE1gOB9f98a) | 2:17 |
 
-Snapshot ID: `MCxiMWE5Y2JkYTUxYjRjY2IzYTQ0ZjRkNmNlZWU4OGRmNTNhNDc4ZmU2`
+Snapshot ID: `MCwwMWY5ZDNhZDFkMGFmNDhlNDI4ZjM4N2FmN2I1ZDM1Y2I3Njc0MDZj`

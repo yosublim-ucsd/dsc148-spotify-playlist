@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7394,
+  "num_followers": 7393,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjY0ODczNjI4ZjQzN2VlYTQxOTI1MjlmMTNlNmVkMmMyYjE2NDc4",
+  "snapshot_id": "MCwyMDdkNjhhZGRlOGMzYWVmOTlhYmI1YTE4ODA5NjA3YWNjZGVlNjYx",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
         }
       ],
-      "duration_ms": 180066,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb"
+      "duration_ms": 164000,
+      "name": "When My Sugar Walks Down The Street",
+      "url": "https://open.spotify.com/track/778SCkNfo4MyNQyB4H0fXb"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
         }
       ],
-      "duration_ms": 164000,
-      "name": "When My Sugar Walks Down The Street",
-      "url": "https://open.spotify.com/track/778SCkNfo4MyNQyB4H0fXb"
+      "duration_ms": 180066,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -615,54 +615,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Paul Barbarin & His New Orleans Jazz Band",
-        "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
-      },
-      "artists": [
-        {
-          "name": "Paul Barbarin & His New Orleans Jazz Band",
-          "url": "https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS"
-        }
-      ],
-      "duration_ms": 315600,
-      "name": "Bugle Boy March",
-      "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "1939-1944",
-        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
-      },
-      "artists": [
-        {
-          "name": "Muggsy Spanier",
-          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Livery Stable Blues (Barnyard Blues)",
-      "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Kings Of Dixieland",
-        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
-      },
-      "artists": [
-        {
-          "name": "Dixieland Band",
-          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
-        }
-      ],
-      "duration_ms": 139558,
-      "name": "Ring On Her Fingers",
-      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "George Girard's Band",
         "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
       },
@@ -695,6 +647,54 @@
       "duration_ms": 179573,
       "name": "Roses of Picardy",
       "url": "https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Paul Barbarin & His New Orleans Jazz Band",
+        "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
+      },
+      "artists": [
+        {
+          "name": "Paul Barbarin & His New Orleans Jazz Band",
+          "url": "https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS"
+        }
+      ],
+      "duration_ms": 315600,
+      "name": "Bugle Boy March",
+      "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Kings Of Dixieland",
+        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
+      },
+      "artists": [
+        {
+          "name": "Dixieland Band",
+          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
+        }
+      ],
+      "duration_ms": 139558,
+      "name": "Ring On Her Fingers",
+      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "1939-1944",
+        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
+      },
+      "artists": [
+        {
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Livery Stable Blues (Barnyard Blues)",
+      "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -779,8 +779,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "On Parade",
-        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
         }
       ],
-      "duration_ms": 136714,
-      "name": "The Billboard",
-      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -943,8 +943,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+        "name": "On Parade",
+        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
         }
       ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
+      "duration_ms": 136714,
+      "name": "The Billboard",
+      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
     },
     {
       "added_at": "2020-08-19 17:19:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,685 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,708 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 43 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 |
 | 44 | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [El Nour](https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF) | 3:19 |
 | 45 | [Baby Baby \- Acoustic Version](https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Baby Baby \(Acoustic Version\)](https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82) | 2:40 |
-| 46 | [Dalia](https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Dalia](https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC) | 4:16 |
-| 47 | [Ella Enta \(Live Session\)](https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ella Enta \(Live Session\)](https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3) | 4:08 |
+| 46 | [Ella Enta \(Live Session\)](https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ella Enta \(Live Session\)](https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3) | 4:08 |
+| 47 | [Dalia](https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Dalia](https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC) | 4:16 |
 | 48 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 |
 | 49 | [W3od](https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [W3od](https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq) | 2:48 |
 | 50 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 69 | [Ombre de mon amant](https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE) | [Michel Lambert](https://open.spotify.com/artist/6DIgXovySNbDB3K5lTtUKT), [Rima Khcheich](https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y), [Maarten Ornstein](https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Ombre de mon amant](https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1) | 6:29 |
 | 70 | [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 |
 
-Snapshot ID: `MCwxYWE3M2EyZjcxMzAwYzE4ODhmMDYyNWY2NDg4ZWI3Y2YwOWZlMWZj`
+Snapshot ID: `MCw2NWJiMDc3ZDY4YjY1NmQzMjZmMTUwYWNlY2YwOTJjNWQ0YTFkMjg0`

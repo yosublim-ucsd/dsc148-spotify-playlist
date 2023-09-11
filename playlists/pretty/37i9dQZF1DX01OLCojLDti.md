@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 
 > Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,233 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,250 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 7 | [茜心](https://open.spotify.com/track/1hIp7DZMhrW6gxYVccHWZh) | [米女メイ \(CV.薮島朱音\)](https://open.spotify.com/artist/7kcbAeii9YxDGxRqBFIyrU) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:44 |
 | 8 | [ミッドナイトラプソディ](https://open.spotify.com/track/0VVOwXxpiB4Uzvszq02L9H) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:50 |
 | 9 | [星屑クルージング](https://open.spotify.com/track/20DDILVNtFMfzEjYWCgZDZ) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:54 |
-| 10 | [Eyeをちょうだい](https://open.spotify.com/track/4zpo5aWr2n1LTjpUYu8awo) | [鬼塚夏美 \(CV.絵森 彩\)](https://open.spotify.com/artist/5ULB8cHC1ldMNZDOJc065u) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:34 |
-| 11 | [ビギナーズRock!!](https://open.spotify.com/track/0rTV99hC01MZ0hw2NaqNhu) | [桜小路きな子 \(CV.鈴原希実\)](https://open.spotify.com/artist/6CsJiRhS9wVBUwzqfmhFwD) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:14 |
+| 10 | [ビギナーズRock!!](https://open.spotify.com/track/0rTV99hC01MZ0hw2NaqNhu) | [桜小路きな子 \(CV.鈴原希実\)](https://open.spotify.com/artist/6CsJiRhS9wVBUwzqfmhFwD) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:14 |
+| 11 | [Eyeをちょうだい](https://open.spotify.com/track/4zpo5aWr2n1LTjpUYu8awo) | [鬼塚夏美 \(CV.絵森 彩\)](https://open.spotify.com/artist/5ULB8cHC1ldMNZDOJc065u) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:34 |
 | 12 | [ビタミンSUMMER!](https://open.spotify.com/track/2J3Ysm4IPXulMfvwP7em3s) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ビタミンSUMMER! / Chance Day, Chance Way! \(第6話盤\)](https://open.spotify.com/album/2amqKXVS3ZZ6G3RMGnikXF) | 3:29 |
 | 13 | [Free Flight](https://open.spotify.com/track/2AZuJhYwI8eALfuCsri0IP) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:30 |
 | 14 | [Starry Prayer](https://open.spotify.com/track/7cGH6rmdQga1CpehVY8HwS) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 4:08 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 30 | [エンドレスサーキット \- 平安名すみれ Ver.](https://open.spotify.com/track/7u57GnFsg1CaOC0c7eVp83) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 2:35 |
 | 31 | [駆けるメリーゴーランド \- 澁谷かのん Ver.](https://open.spotify.com/track/2LcTth33ATPHEV5pIjnxDE) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:41 |
 | 32 | [駆けるメリーゴーランド \- 嵐 千砂都 Ver.](https://open.spotify.com/track/3o8J9VsfhIDpsJlRRu8VBW) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:41 |
-| 33 | [Ringing!](https://open.spotify.com/track/4mW90bggzjedGuWehaj3Jw) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:22 |
-| 34 | [Anniversary](https://open.spotify.com/track/1NkTsEt3quWlBzS4V8ughc) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:30 |
+| 33 | [Anniversary](https://open.spotify.com/track/1NkTsEt3quWlBzS4V8ughc) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:30 |
+| 34 | [Ringing!](https://open.spotify.com/track/4mW90bggzjedGuWehaj3Jw) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:22 |
 | 35 | [Ringing!](https://open.spotify.com/track/2bnDu15idoCjxzCbRhu1Zf) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:21 |
 | 36 | [Anniversary](https://open.spotify.com/track/2UTPVDJjgebX1313QNn0hx) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:30 |
 | 37 | [Dears](https://open.spotify.com/track/3cAsFzMTD6F1MxlUUEqASJ) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:41 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 40 | [ノンフィクション!!](https://open.spotify.com/track/2MdKm0P7WVSW4sOy7C7gvG) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第10話盤\)](https://open.spotify.com/album/1WL0ewJxIVf0dvOEhHxyfL) | 3:23 |
 | 41 | [未来は風のように](https://open.spotify.com/track/3VUtCH8OrOjSy9InzRYjUS) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:07 |
 | 42 | [START!! True dreams](https://open.spotify.com/track/6vMCFAjO14G0dbMpWkWo8f) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:00 |
-| 43 | [POP TALKING](https://open.spotify.com/track/42pGNqslWbOLHCsFFpiCwK) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ビタミンSUMMER! / Chance Day, Chance Way! \(第8話盤\)](https://open.spotify.com/album/0e1DwNzI9KkH6HRPEamOzG) | 3:00 |
-| 44 | [Sing!Shine!Smile!](https://open.spotify.com/track/0l1xmDyMVZdRdIkjBnPMPn) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing!Shine!Smile! / 未来の音が聴こえる \(第10話盤\)](https://open.spotify.com/album/5mKov3lKYFvgHWMpBZjxaJ) | 4:26 |
+| 43 | [Sing!Shine!Smile!](https://open.spotify.com/track/0l1xmDyMVZdRdIkjBnPMPn) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing!Shine!Smile! / 未来の音が聴こえる \(第10話盤\)](https://open.spotify.com/album/5mKov3lKYFvgHWMpBZjxaJ) | 4:26 |
+| 44 | [POP TALKING](https://open.spotify.com/track/42pGNqslWbOLHCsFFpiCwK) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ビタミンSUMMER! / Chance Day, Chance Way! \(第8話盤\)](https://open.spotify.com/album/0e1DwNzI9KkH6HRPEamOzG) | 3:00 |
 | 45 | [始まりは君の空](https://open.spotify.com/track/3MLmsSy2wq9Ko73GSDUwNM) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 5:01 |
 | 46 | [Welcome to 僕らのセカイ](https://open.spotify.com/track/3CZM58SiIktg2PzW8ywkRO) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Welcome to 僕らのセカイ / Go!! リスタート \(第1話盤\)](https://open.spotify.com/album/2DNuAnj2LYjDW5A2ueXQWa) | 4:20 |
 | 47 | [What a Wonderful Dream!!](https://open.spotify.com/track/585TNUshe0FAEHvgUmUMlZ) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 |
-| 48 | [私のSymphony \- 2022 Version](https://open.spotify.com/track/0uSJF9rlX5ZxyCfzeuSugO) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:57 |
-| 49 | [TO BE CONTINUED](https://open.spotify.com/track/0KHF63nvWLEID5ZEzwUKd3) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing!Shine!Smile! / 未来の音が聴こえる \(第12話盤\)](https://open.spotify.com/album/7J38QZOcQfuuZixGxTDYGA) | 3:10 |
+| 48 | [TO BE CONTINUED](https://open.spotify.com/track/0KHF63nvWLEID5ZEzwUKd3) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing!Shine!Smile! / 未来の音が聴こえる \(第12話盤\)](https://open.spotify.com/album/7J38QZOcQfuuZixGxTDYGA) | 3:10 |
+| 49 | [私のSymphony \- 2022 Version](https://open.spotify.com/track/0uSJF9rlX5ZxyCfzeuSugO) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:57 |
 | 50 | [スター宣言](https://open.spotify.com/track/2NXZ1iOG0zV0petFHEc3iG) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:42 |
 
-Snapshot ID: `MCxiNmY5MmMzYzdhNjYyNzNmOGI0MDUwMTg4YTNkMjM1NjY3YTQ1NWZl`
+Snapshot ID: `MCw4MTc4ZDE0YTQ0YWMzODY0ODQxZmE5ODk4ZjkxOTI3ZjZhNTFiMjg5`

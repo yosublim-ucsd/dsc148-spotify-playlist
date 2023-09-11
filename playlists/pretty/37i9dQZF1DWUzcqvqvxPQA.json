@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25955,
+  "num_followers": 25958,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWJmNzJhZWU0ZGVhNzc3ZGI1NTBkODQyNjk3ODM0OWYyYmNmYTZm",
+  "snapshot_id": "MCw3ZmRjNzZlZGVlMDE1OTdiZjA0MWEwODdjZTMwMDQ2ZjhjM2E2ZGZj",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/6UBNCEcxtzCNUQdQOle3um"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 200330,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/6UBNCEcxtzCNUQdQOle3um"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Say It",
-        "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Glorify",
-      "url": "https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "I\u2019ll Give Thanks",
         "url": "https://open.spotify.com/album/6X7mF04HpAVdND0ODi4TDo"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 214866,
       "name": "Patient",
       "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Glorify",
+      "url": "https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/7a19yU7ehSsANZmkXtgcGa"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 168000,
       "name": "Close (feat. Steven Furtick)",
       "url": "https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Wherever I Go",
-        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Wherever I Go",
-      "url": "https://open.spotify.com/track/7a19yU7ehSsANZmkXtgcGa"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -723,22 +723,6 @@
       "duration_ms": 202893,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 182043,
-      "name": "Never Gonna Let Me Go",
-      "url": "https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -815,6 +799,22 @@
       "duration_ms": 177200,
       "name": "Glorify (feat. Toby Mac & Terrian)",
       "url": "https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 182043,
+      "name": "Never Gonna Let Me Go",
+      "url": "https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Twenty Four Seven",
-        "url": "https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 186513,
-      "name": "Fanatic",
-      "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Peopled with Dreams",
         "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 234558,
       "name": "Juggernaut",
       "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Twenty Four Seven",
+        "url": "https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 186513,
+      "name": "Fanatic",
+      "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
     },
     {
       "added_at": "2020-08-13 14:39:00",

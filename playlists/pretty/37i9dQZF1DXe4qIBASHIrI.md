@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,950 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,040 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 99 | [Dias Perfectos](https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [El Techo es el Suelo](https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1) | 4:40 |
 | 100 | [Fumemos un cigarrillo \- Soundtrack Original de la Película](https://open.spotify.com/track/4LlUdiN47svvAwEmbFWQN3) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Fumemos un cigarrillo \(Soundtrack Original de la Película\)](https://open.spotify.com/album/1qHG2eqmFWACQnG8ksdeYz) | 4:01 |
 
-Snapshot ID: `MCw5YjlhOTI2NzlmYjVmNGU5NzdiNmQwYmRmMDlmMTE5ODE4YmU4NWRj`
+Snapshot ID: `MCxiODUyMWY3NWZjZThmODhiMzA1NGM5NmE4NTAwNzY1YzIwODhjN2Ew`

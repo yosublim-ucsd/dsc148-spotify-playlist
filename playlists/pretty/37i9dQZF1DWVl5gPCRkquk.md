@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,524 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,587 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 69 | [Tragic Magic](https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:22 |
 | 70 | [Mr\. Rodriguez](https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:43 |
 | 71 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 |
-| 72 | [As It Is](https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 3:04 |
-| 73 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 |
-| 74 | [Held Down](https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 4:07 |
-| 75 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 |
-| 76 | [Till the Flame Turns Blue](https://open.spotify.com/track/65ZLBQ0h2KKqNqqpnr76N0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:05 |
+| 72 | [Till the Flame Turns Blue](https://open.spotify.com/track/65ZLBQ0h2KKqNqqpnr76N0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:05 |
+| 73 | [As It Is](https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 3:04 |
+| 74 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 |
+| 75 | [Held Down](https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 4:07 |
+| 76 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 |
 | 77 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
 | 78 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 |
 | 79 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 90 | [Latter Days](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 |
 | 91 | [Cool Jam](https://open.spotify.com/track/7uMh3fweKrgDOtnMoxp3O4) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:26 |
 | 92 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
-| 93 | [Soul Capturer \- Single Version](https://open.spotify.com/track/2cr3V8opJ5RYiWnlJE3Al3) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Soul Capturer](https://open.spotify.com/album/61JXj0lxPZ6bQw8mRQgkHD) | 5:44 |
-| 94 | [El Dorado](https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 4:23 |
+| 93 | [El Dorado](https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 4:23 |
+| 94 | [Soul Capturer \- Single Version](https://open.spotify.com/track/2cr3V8opJ5RYiWnlJE3Al3) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Soul Capturer](https://open.spotify.com/album/61JXj0lxPZ6bQw8mRQgkHD) | 5:44 |
 | 95 | [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 |
 | 96 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
 | 97 | [Need You](https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Need You](https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ) | 3:09 |
 | 98 | [Delicate Dark](https://open.spotify.com/track/66PueoWfYEelSTykaRJLSU) | [Rose Betts](https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i) | [Delicate Dark](https://open.spotify.com/album/3EmqLGDhIIH6LMnx2A5q6R) | 3:02 |
-| 99 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
-| 100 | [Little Lover](https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 4:50 |
+| 99 | [Helpless](https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Helpless](https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA) | 4:25 |
+| 100 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
 
-Snapshot ID: `MCw0ZTgxODgyOGNkMDkzNGUxYjI4NjExMjcyMjY0Y2JhNTRhNzU5MjM1`
+Snapshot ID: `MCwyZDYzOTIyNThhNzcxMjc5MTMxMmY3NDBkYzg5YzAyZDZmY2QzZDZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,834 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,020 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 42 | [Invisible Touch \- 2007 Remaster](https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch \(2007 Remaster\)](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 3:28 |
 | 43 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
 | 44 | [Cars](https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0) | 3:58 |
-| 45 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
-| 46 | [Fade To Grey](https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [Visage](https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf) | 3:59 |
+| 45 | [Fade To Grey](https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [Visage](https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf) | 3:59 |
+| 46 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
 | 47 | [King Of Pain](https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:59 |
 | 48 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
 | 49 | [Sowing The Seeds Of Love](https://open.spotify.com/track/62vx6uOYO7PrqKqKTKg9RY) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Seeds Of Love](https://open.spotify.com/album/4M0DNIYXbpCdKnVV4LoD9X) | 6:19 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 57 | [Where Eagles Dare](https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection](https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10) | 2:08 |
 | 58 | [In Between Days \- 2006 Remaster](https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 2:57 |
 | 59 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 |
-| 60 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 |
-| 61 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
+| 60 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
+| 61 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 |
 | 62 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 63 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 |
 | 64 | [Making Plans For Nigel](https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Drums And Wires](https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl) | 4:13 |
-| 65 | [Synchronicity II](https://open.spotify.com/track/5ynO8cYFjDwELIZfFHHeYe) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:00 |
-| 66 | [Big in Japan \- Best Of](https://open.spotify.com/track/3F8aTQzmKovktFcR7MCGFW) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [First Harvest 1984\-1992](https://open.spotify.com/album/0d60Pri6GuV9E8jeJrSB33) | 3:55 |
-| 67 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
+| 65 | [Big in Japan \- Best Of](https://open.spotify.com/track/3F8aTQzmKovktFcR7MCGFW) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [First Harvest 1984\-1992](https://open.spotify.com/album/0d60Pri6GuV9E8jeJrSB33) | 3:55 |
+| 66 | [Synchronicity II](https://open.spotify.com/track/5ynO8cYFjDwELIZfFHHeYe) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:00 |
+| 67 | [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 |
 | 68 | [Cities In Dust](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:51 |
-| 69 | [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 |
+| 69 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
 | 70 | [Lullaby \- 2010 Remaster](https://open.spotify.com/track/4d4oXk7O2lEhZ83ivV93li) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 4:09 |
 | 71 | [Only Time Will Tell](https://open.spotify.com/track/49NDegc7RQyvq6mhAs06p6) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 4:44 |
 | 72 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 74 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
 | 75 | [Repetition](https://open.spotify.com/track/2inEARypHsfVOk7yMs9ptr) | [Information Society](https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO) | [Information Society](https://open.spotify.com/album/1pQhBQI8Oxo4p2wh61rGfg) | 4:34 |
 
-Snapshot ID: `MCxhNWNkNmM4ODY3ZDk0NjZmZGVmOWIyOWRhNTYxZjZhOGM3OWVjY2Ux`
+Snapshot ID: `MCw4NDk2ZmJkYjA5ODI4ZjFjZjU2MTNjNTQ5NGMwMjA3NGI4OTE2OWYw`

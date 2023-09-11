@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,532,115 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,532,375 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 60 | [Wild in the Streets](https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh) | 2:35 |
 | 61 | [Los Angeles](https://open.spotify.com/track/3hgBGx3ShG9uCiJ3kvh8wm) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Los Angeles \(2019 Remaster\)](https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn) | 2:24 |
 | 62 | [Blank Generation \- 2013 Remaster](https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Spurts: The Richard Hell Story \(2013 Remaster\)](https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF) | 2:47 |
-| 63 | [The Passenger](https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 4:40 |
-| 64 | [Suspect Device](https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:35 |
-| 65 | [What Do I Get? \- 2001 Remastered Version](https://open.spotify.com/track/0caQ80s7fyh8xJzD8Sq6Ir) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Singles Going Steady](https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E) | 2:55 |
+| 63 | [Suspect Device](https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:35 |
+| 64 | [What Do I Get? \- 2001 Remastered Version](https://open.spotify.com/track/0caQ80s7fyh8xJzD8Sq6Ir) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Singles Going Steady](https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E) | 2:55 |
+| 65 | [The Passenger](https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 4:40 |
 | 66 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
 | 67 | [Salad Days](https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [Salad Days](https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2) | 2:46 |
 | 68 | [See No Evil](https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 3:52 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 88 | [Natural's Not In It](https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:06 |
 | 89 | [Dean's Dream](https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Death Rides A Pale Cow: The Ultimate Collection](https://open.spotify.com/album/2ZNb1MUe50ckOcSe9TQOQz) | 1:47 |
 | 90 | [Hurry Up Harry](https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl) | [Sham 69](https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1) | [Angels With Dirty Faces](https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY) | 3:26 |
-| 91 | [All This and More](https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 2:47 |
-| 92 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
-| 93 | [Circles](https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93) | 2:46 |
+| 91 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
+| 92 | [Circles](https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93) | 2:46 |
+| 93 | [All This and More](https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 2:47 |
 | 94 | [Life of Crime](https://open.spotify.com/track/4JGfjGq1ySrwFhwXPERGA2) | [The Weirdos](https://open.spotify.com/artist/2XRBA6Nc5WTh9cTcvnqOge) | [Weird World Volume 1](https://open.spotify.com/album/5OFyoxqWQiI7MWlN867V9h) | 2:19 |
 | 95 | [The Modern World](https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [This Is The Modern World](https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436) | 2:30 |
 | 96 | [I Love Livin' in the City](https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd) | [Fear](https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS) | [The Record](https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE) | 2:05 |
 | 97 | [Radio, Radio](https://open.spotify.com/track/68zMm2sG8wCavafCFFYRPg) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:06 |
-| 98 | [Anarchy Burger \(Hold The Government\)](https://open.spotify.com/track/3QebYR26gRT9Bso2VSnUOR) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism \(Deluxe Edition\)](https://open.spotify.com/album/3jLxf9rmNQePi1nCXtaunV) | 1:53 |
-| 99 | [That's Progress](https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd) | [D.O.A.](https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk) | [Last Scream of the Missing Neighbors](https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc) | 3:13 |
+| 98 | [That's Progress](https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd) | [D.O.A.](https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk) | [Last Scream of the Missing Neighbors](https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc) | 3:13 |
+| 99 | [Anarchy Burger \(Hold The Government\)](https://open.spotify.com/track/3QebYR26gRT9Bso2VSnUOR) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism \(Deluxe Edition\)](https://open.spotify.com/album/3jLxf9rmNQePi1nCXtaunV) | 1:53 |
 | 100 | [Pills](https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 2:47 |
 
-Snapshot ID: `MCwxZmE4OWY5YmIyZjI0YjI5YTk4Zjc0ZDMzZDAwZjc3YjZhNDIxNzYy`
+Snapshot ID: `MCwxYmEyZThlNWVhY2ZlMjFlZGNjYjk4YmU0OWRjZTA2NzI5NGRjMThk`

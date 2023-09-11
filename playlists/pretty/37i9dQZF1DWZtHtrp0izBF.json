@@ -1,12 +1,12 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 58627,
+  "num_followers": 58673,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDJjN2UwNjliOTVlYTY4NjU3MjRhYjI0MzQ0ZmVlZWUxOWYwYWU0",
+  "snapshot_id": "MCwxYjlhY2NjM2JiM2U0ZDljZDk2ZGZmMjU4OTg4YmRhNzQ5MWExN2Fi",
   "tracks": [
     {
       "added_at": "2021-11-25 14:50:11",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "Que Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
-    },
-    {
-      "added_at": "2021-11-25 14:50:11",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 354973,
       "name": "Gotas De Lluvia",
       "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "added_at": "2021-11-25 14:50:11",
+      "album": {
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
     },
     {
       "added_at": "2021-11-25 14:50:11",
@@ -375,18 +375,18 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "De Verdad (15 Super Exitos)",
-        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 297053,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
     },
     {
       "added_at": "2021-11-25 14:50:11",
@@ -407,18 +407,18 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+        "name": "De Verdad (15 Super Exitos)",
+        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+      "duration_ms": 297053,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
     },
     {
       "added_at": "2021-11-25 14:50:11",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Millenium Hits",
-        "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 281260,
-      "name": "Persona Ideal",
-      "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
-    },
-    {
-      "added_at": "2021-11-25 14:50:11",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 316093,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+    },
+    {
+      "added_at": "2021-11-25 14:50:11",
+      "album": {
+        "name": "Millenium Hits",
+        "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 281260,
+      "name": "Persona Ideal",
+      "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
     },
     {
       "added_at": "2021-11-25 14:50:11",

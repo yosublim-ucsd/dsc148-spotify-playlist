@@ -1,12 +1,12 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 57158,
+  "num_followers": 57552,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzA5MzM4N2Q0OGQxNTVjNDhiZTE0YmU5YzU3NGNlYzIwYjUyZGQw",
+  "snapshot_id": "MCw2ZWZiYmQxZjIwOWZkMDE3YTA1ZjNiN2MzNGM4NWIyN2MwMGE3NzUx",
   "tracks": [
     {
       "added_at": "2023-09-08 00:01:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 213912,
+      "name": "Turbulent Skies",
+      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
         "name": "East To West",
         "url": "https://open.spotify.com/album/2mppFezAfFbXwrthx4HKnR"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 299176,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
         "name": "Daily",
         "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
       },
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 213912,
-      "name": "Turbulent Skies",
-      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
+      "duration_ms": 299176,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -875,30 +875,6 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        }
-      ],
-      "duration_ms": 507376,
-      "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
-      "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
         "name": "Ebenezeri",
         "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
       },
@@ -923,18 +899,26 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "The Lord's Prayer (It's Yours) [Acoustic]",
-        "url": "https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 224024,
-      "name": "The Lord's Prayer (It's Yours) - Acoustic",
-      "url": "https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH"
+      "duration_ms": 507376,
+      "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
+      "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -955,6 +939,22 @@
       "duration_ms": 397850,
       "name": "Bina Moya Waka (Live)",
       "url": "https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "The Lord's Prayer (It's Yours) [Acoustic]",
+        "url": "https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 224024,
+      "name": "The Lord's Prayer (It's Yours) - Acoustic",
+      "url": "https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -1019,54 +1019,6 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "Wind of Revival",
-        "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 281251,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
         "name": "Alagbara (feat. Lyrical HI) [Live]",
         "url": "https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk"
       },
@@ -1083,6 +1035,54 @@
       "duration_ms": 734122,
       "name": "Alagbara (feat. Lyrical HI) - Live",
       "url": "https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 613918,
+      "name": "Oke Mmiri",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "Wind of Revival",
+        "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 281251,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 224634,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 280424,
-      "name": "Chinedum",
-      "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 164651,
-      "name": "Worry About Nothing",
-      "url": "https://open.spotify.com/track/1bateGag5fX01lBjlkJ6JG"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
         "name": "I Will Sing (Refreshed)",
         "url": "https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 350847,
       "name": "I Will Sing (Refreshed)",
       "url": "https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 164651,
+      "name": "Worry About Nothing",
+      "url": "https://open.spotify.com/track/1bateGag5fX01lBjlkJ6JG"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
+        "name": "Morning Devotion/Amapiano Praise (Live)",
+        "url": "https://open.spotify.com/album/4wDyN58e3WS3xuC06krqO5"
+      },
+      "artists": [
+        {
+          "name": "Spirit of Prophecy",
+          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+        }
+      ],
+      "duration_ms": 806000,
+      "name": "Morning Devotion/Amapiano Praise - Live",
+      "url": "https://open.spotify.com/track/1wBiGuowpm9ydzGtaCEkAV"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
         "name": "Ife Wami",
         "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 137739,
       "name": "Ife Wami",
       "url": "https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "Morning Devotion/Amapiano Praise (Live)",
-        "url": "https://open.spotify.com/album/4wDyN58e3WS3xuC06krqO5"
-      },
-      "artists": [
-        {
-          "name": "Spirit of Prophecy",
-          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
-        }
-      ],
-      "duration_ms": 806000,
-      "name": "Morning Devotion/Amapiano Praise - Live",
-      "url": "https://open.spotify.com/track/1wBiGuowpm9ydzGtaCEkAV"
     },
     {
       "added_at": "2023-09-08 00:01:00",

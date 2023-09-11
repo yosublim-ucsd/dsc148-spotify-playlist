@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,886 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,887 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 23 | [Inappropriate Behaviour](https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Inappropriate Behaviour](https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY) | 3:16 |
 | 24 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
 | 25 | [All Over Again](https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz) | 3:43 |
-| 26 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 |
-| 27 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
+| 26 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
+| 27 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 |
 | 28 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
 | 29 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 |
 | 30 | [CAMPFIRE](https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 3:00 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 52 | [What It Means to Be Human](https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [What It Means to Be Human](https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q) | 4:35 |
 | 53 | [Tears Don’t Fall](https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm) | [Terrible Sons](https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g) | [Half Awake, Half Asleep](https://open.spotify.com/album/7cHSI1g84HZbJ2GwauTahA) | 3:10 |
 | 54 | [this is how you fall in love](https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE) | [Parker Rose](https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF) | [this is how you fall in love](https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh) | 2:41 |
-| 55 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 |
-| 56 | [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 |
+| 55 | [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 |
+| 56 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 |
 | 57 | [Carry You With Me](https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Carry You With Me](https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD) | 4:18 |
 | 58 | [Disappearing Light](https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 3:42 |
 | 59 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
 | 60 | [The Sweetest Days](https://open.spotify.com/track/4uKbNHTS478jijU1okANjz) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [The Sweetest Days](https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE) | 3:34 |
 
-Snapshot ID: `MCxiNmNmOGUyNThlNDUzNGFhZmQzYWUwZThkMGVlYmI2OTdkMWE5M2Ux`
+Snapshot ID: `MCw0NjFkMzQ4ZDk5MDllZWRkNjJlYmQyZDdjNGE4MDhkMTQ4ODBjMDg2`

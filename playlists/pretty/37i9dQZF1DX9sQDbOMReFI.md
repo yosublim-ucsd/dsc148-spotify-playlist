@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Coolio
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,784 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,213 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [The Ghetto](https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Short Dog's In The House](https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt) | 5:02 |
 | 50 | [It's Funky Enough \- Remastered Single](https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 4:29 |
 
-Snapshot ID: `MCwxMmRjMWU0YzM1ZThmZWZiMGI3MjQ1Mjc3NGJiM2RiMDg5MjczOTJm`
+Snapshot ID: `MCw0ZGVkYTk2YmYyYjI2MzY4MjkwM2U2Mjk4MzY5MmE0ZTU4YzkwN2I2`

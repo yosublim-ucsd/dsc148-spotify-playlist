@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-95 songs - 4 hr 12 min
+96 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Boreal Forest](https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Exploring Nature](https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV) | 2:06 | 2023-04-13 |  |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-03-03 |  |
 | [By The Window](https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [By The Window](https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ) | 2:30 | 2023-03-03 |  |
-| [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-01 |  |
+| [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-01 | 2023-09-11 |
 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-03-03 |  |
 | [Calming Birds](https://open.spotify.com/track/6Er9bq9dt39Xmv8heRUxUO) | [Aziz Kirkin](https://open.spotify.com/artist/7BPMsxBuGDkaKlsYWR38kS) | [Calming Birds](https://open.spotify.com/album/3gQmWlR1BiBnVl1xmGxQIm) | 2:04 | 2023-09-01 | 2023-09-09 |
 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 | 2023-03-03 |  |
@@ -91,6 +91,7 @@
 | [Solitude](https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 3:06 | 2023-03-03 |  |
 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 | 2023-03-03 |  |
 | [Song Of The Willow](https://open.spotify.com/track/2qauTYzfcc16QprcwV8put) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Song Of The Willow](https://open.spotify.com/album/4grcPo21FAY8jbe6y3JMk5) | 2:18 | 2023-03-03 |  |
+| [Take a Breath](https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Take a Breath](https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu) | 2:50 | 2023-09-05 |  |
 | [The Blue Dragon](https://open.spotify.com/track/6oNdphvzPO37XFCLtZMKVC) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [The Blue Dragon](https://open.spotify.com/album/69idyZhdF1As3JRdfZhXBz) | 3:39 | 2023-03-03 |  |
 | [The Darker Hours](https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [The Darker Hours](https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT) | 2:59 | 2023-03-03 |  |
 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 | 2023-03-03 |  |

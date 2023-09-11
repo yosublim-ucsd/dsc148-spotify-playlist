@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,121 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,139 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 22 | [Love Triangle](https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:13 |
 | 23 | [VIVID WORLD](https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Butterfly / Solitude Rain / VIVID WORLD \(朝香果林盤\)](https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm) | 4:35 |
 | 24 | [MONSTER GIRLS](https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:56 |
-| 25 | [Dream with You](https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Dream with You / Poppin' Up! / DIVE! \(上原歩夢盤\)](https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1) | 4:18 |
-| 26 | [Queendom](https://open.spotify.com/track/1ydn7r96t51VLtpZ5T8CeI) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:59 |
+| 25 | [Queendom](https://open.spotify.com/track/1ydn7r96t51VLtpZ5T8CeI) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:59 |
+| 26 | [Dream with You](https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Dream with You / Poppin' Up! / DIVE! \(上原歩夢盤\)](https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1) | 4:18 |
 | 27 | [Infinity!Our wings!!](https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:31 |
 | 28 | [Sing & Smile!!](https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Sing & Smile!!](https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW) | 4:41 |
 | 29 | [MELODY](https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:29 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 37 | [オードリー](https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:54 |
 | 38 | [夢への一歩](https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:47 |
 | 39 | [翠いカナリア](https://open.spotify.com/track/3LDPZE2mrrsvHGJOTwm2i3) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:49 |
-| 40 | [Dream Land!Dream World!](https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Dream Land!Dream World!](https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN) | 3:51 |
-| 41 | [哀温ノ詩](https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:17 |
+| 40 | [哀温ノ詩](https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:17 |
+| 41 | [Dream Land!Dream World!](https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Dream Land!Dream World!](https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN) | 3:51 |
 | 42 | [Poppin' Up!](https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Dream with You / Poppin' Up! / DIVE! \(中須かすみ盤\)](https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar) | 4:18 |
 | 43 | [めっちゃGoing!!](https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:48 |
 | 44 | [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 |
 | 45 | [Awakening Promise](https://open.spotify.com/track/5tURJEIapyFgJB6OoykQJI) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Awakening Promise / 夢がここからはじまるよ](https://open.spotify.com/album/2AVHHCRSevbqVGmSNAos6o) | 4:13 |
 | 46 | [恋するMagic!!](https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 3:48 |
-| 47 | [ダイアモンド](https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:53 |
-| 48 | [I'm Still...](https://open.spotify.com/track/6hoWEK3oAZGV66U5z1UVbP) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 4:06 |
-| 49 | [あなたの理想のヒロイン](https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 5:26 |
-| 50 | [Maze Town](https://open.spotify.com/track/1aLfZSKp44prkEYIGpWM63) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Maze Town](https://open.spotify.com/album/1xhku0K709SOBcrqqz3LmB) | 4:23 |
+| 47 | [Maze Town](https://open.spotify.com/track/1aLfZSKp44prkEYIGpWM63) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Maze Town](https://open.spotify.com/album/1xhku0K709SOBcrqqz3LmB) | 4:23 |
+| 48 | [ダイアモンド](https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:53 |
+| 49 | [I'm Still...](https://open.spotify.com/track/6hoWEK3oAZGV66U5z1UVbP) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 4:06 |
+| 50 | [あなたの理想のヒロイン](https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 5:26 |
 
-Snapshot ID: `MCw0OWQ1MmRiNTliNmY5NGE4MWY2OGU0NTY2YTcyZTZiZjgyZDQzYTRm`
+Snapshot ID: `MCw1OTVmMWM3NmZjZDViYmZiMjE2YTVlOGQzZTRjYmQ4ZWE0ZTM0NThh`

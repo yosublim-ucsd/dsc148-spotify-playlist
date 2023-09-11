@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Chelsea Cutler
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,905 likes - 82 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,926 likes - 82 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 81 | [House on a Hill \(feat\. Em Beihold\)](https://open.spotify.com/track/2sGlzNEN74khZtPK57lfuq) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [House on a Hill \(feat\. Em Beihold\)](https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q) | 3:18 |
 | 82 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 |
 
-Snapshot ID: `MCw1NTE3MTZhZGZhNGM5YzY0NzkzZGI2OTdhYzk1MmNiZDEyZTk2OWU0`
+Snapshot ID: `MCxmZjZiZDVkMTZiMjdlYjZjZTVmOTQwZWExOTJiYjUwYjhjNjVjMDZj`

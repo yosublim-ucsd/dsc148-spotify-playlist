@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 187197,
+  "num_followers": 187270,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzgyOTY3MTI0ZDgxOGMwZDcwZDQ5MzNmNGQxMThiODY0OTYzYjA1",
+  "snapshot_id": "MCw1ZGVjNTQ1OWRhNWQ3MjgzODhiNjMyMTY5NTJmMGY1YTllZTNlMmZi",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Happy To Be With You",
+        "url": "https://open.spotify.com/album/36gLFOM5E6PELPukiJ4I0d"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 291333,
+      "name": "Don't Let It Go to Your Head - 12\" Version",
+      "url": "https://open.spotify.com/track/4nRiCBgh4dvI1fqv3f7rpw"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 139093,
       "name": "Two Can Have A Party",
       "url": "https://open.spotify.com/track/0LIxJkq7caYmgbawjgEqMn"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Happy To Be With You",
-        "url": "https://open.spotify.com/album/36gLFOM5E6PELPukiJ4I0d"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 291333,
-      "name": "Don't Let It Go to Your Head - 12\" Version",
-      "url": "https://open.spotify.com/track/4nRiCBgh4dvI1fqv3f7rpw"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Goin' Places",
-        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 274346,
-      "name": "Find Me a Girl",
-      "url": "https://open.spotify.com/track/51CkYfiL0waVyqjLrGSX8l"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "A Cellarful Of Motown!",
         "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 175493,
       "name": "If You Ever Get Your Hands On Love",
       "url": "https://open.spotify.com/track/1BoUVp2lFv1Dx1TJWNbMut"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Goin' Places",
+        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 274346,
+      "name": "Find Me a Girl",
+      "url": "https://open.spotify.com/track/51CkYfiL0waVyqjLrGSX8l"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "A Cellarful Of Motown!",
+        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+      },
+      "artists": [
+        {
+          "name": "Frank Wilson",
+          "url": "https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "My Sugar Baby",
+      "url": "https://open.spotify.com/track/6zOM8k0i1xe087FfD4yGYf"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Goin' Places",
         "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 124533,
       "name": "Keep Him",
       "url": "https://open.spotify.com/track/3aLMilJgzNmCDUbO9ghRug"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "A Cellarful Of Motown!",
-        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
-      },
-      "artists": [
-        {
-          "name": "Frank Wilson",
-          "url": "https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "My Sugar Baby",
-      "url": "https://open.spotify.com/track/6zOM8k0i1xe087FfD4yGYf"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Maybe Tomorrow",
-        "url": "https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "It's Great To Be Here",
-      "url": "https://open.spotify.com/track/78qHwCaeAn0VIQcFj1AyXk"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Eccentric Soul: Twinight's Lunar Rotation",
         "url": "https://open.spotify.com/album/5FM27Sd9COvzQpJbRE55M2"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 201786,
       "name": "To Love Someone (That Don't Love You)",
       "url": "https://open.spotify.com/track/5rrXRBLNgcVwEyKSel6idy"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "It's Great To Be Here",
+      "url": "https://open.spotify.com/track/78qHwCaeAn0VIQcFj1AyXk"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Dave Hamilton's Detroit Dancers",
-        "url": "https://open.spotify.com/album/4afaQ6KsmsZOFNEygrGmLW"
-      },
-      "artists": [
-        {
-          "name": "The Mark-Keys",
-          "url": "https://open.spotify.com/artist/6inrHX6orJylUug2PXqjBr"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "Heavenly Thing",
-      "url": "https://open.spotify.com/track/3rhCVdKPTJVVuM9XBGI40p"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Lift This Hurt b/w You're Being Unfair",
         "url": "https://open.spotify.com/album/1aP4oSMDr2TqgC7nm6cLMj"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 161800,
       "name": "Lift This Hurt",
       "url": "https://open.spotify.com/track/3LSgGjq8enMTmioZlouR5Q"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Dave Hamilton's Detroit Dancers",
+        "url": "https://open.spotify.com/album/4afaQ6KsmsZOFNEygrGmLW"
+      },
+      "artists": [
+        {
+          "name": "The Mark-Keys",
+          "url": "https://open.spotify.com/artist/6inrHX6orJylUug2PXqjBr"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "Heavenly Thing",
+      "url": "https://open.spotify.com/track/3rhCVdKPTJVVuM9XBGI40p"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "My Love Is Growing",
-      "url": "https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Chess Soul: A Decade Of Chicago\u2019s Finest",
         "url": "https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "My Love Is Growing",
+      "url": "https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
         "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 171240,
       "name": "But I'm Afraid - Single Version",
       "url": "https://open.spotify.com/track/7wVdkxbpXI62VP7RoZMhPp"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "The Complete Motown Singles Vol. 4: 1964",
-        "url": "https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk"
-      },
-      "artists": [
-        {
-          "name": "Carolyn Crawford",
-          "url": "https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "I'll Come Running",
-      "url": "https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "My Music",
-        "url": "https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE"
+        "name": "The Complete Motown Singles Vol. 4: 1964",
+        "url": "https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk"
       },
       "artists": [
         {
-          "name": "Bunny Sigler",
-          "url": "https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg"
+          "name": "Carolyn Crawford",
+          "url": "https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS"
         }
       ],
-      "duration_ms": 207666,
-      "name": "My Music",
-      "url": "https://open.spotify.com/track/23TOftlUTOe477OSP4PzZh"
+      "duration_ms": 157560,
+      "name": "I'll Come Running",
+      "url": "https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1615,6 +1599,22 @@
       "duration_ms": 163306,
       "name": "I'm Ready for Love",
       "url": "https://open.spotify.com/track/6VQAjEdoa6XL2CaDUFEioS"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "My Music",
+        "url": "https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE"
+      },
+      "artists": [
+        {
+          "name": "Bunny Sigler",
+          "url": "https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "My Music",
+      "url": "https://open.spotify.com/track/23TOftlUTOe477OSP4PzZh"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Detroit Funk Vaults",
-        "url": "https://open.spotify.com/album/5TyaKsCaFybG3jMoc84iwE"
-      },
-      "artists": [
-        {
-          "name": "The Deacons",
-          "url": "https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "A Drop in the Bucket",
-      "url": "https://open.spotify.com/track/5tr22uCdtY1ZoCOFwi0OAc"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Motown Unreleased: 1966",
         "url": "https://open.spotify.com/album/1M1lda8aucpMc8HBPTHGjm"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 150186,
       "name": "Please Love Me - Mono",
       "url": "https://open.spotify.com/track/0XQWZGT2B9VmiJ4d9wiTzO"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Detroit Funk Vaults",
+        "url": "https://open.spotify.com/album/5TyaKsCaFybG3jMoc84iwE"
+      },
+      "artists": [
+        {
+          "name": "The Deacons",
+          "url": "https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "A Drop in the Bucket",
+      "url": "https://open.spotify.com/track/5tr22uCdtY1ZoCOFwi0OAc"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Movin' On - The Early Years (Remastered)",
-        "url": "https://open.spotify.com/album/7mIldRsXig3Qb5kpusP5ft"
-      },
-      "artists": [
-        {
-          "name": "The Joneses",
-          "url": "https://open.spotify.com/artist/68e5cP09Ecpbvv5pm4zvxK"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/7ufWDOtatuX8McQDQoMDm5"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Spiritual Concept",
         "url": "https://open.spotify.com/album/2AgmHr8EuZC82apIzn3V9t"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 205146,
       "name": "Let's Take It All",
       "url": "https://open.spotify.com/track/02JZTwhETBzgyov794DaNm"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Movin' On - The Early Years (Remastered)",
+        "url": "https://open.spotify.com/album/7mIldRsXig3Qb5kpusP5ft"
+      },
+      "artists": [
+        {
+          "name": "The Joneses",
+          "url": "https://open.spotify.com/artist/68e5cP09Ecpbvv5pm4zvxK"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/7ufWDOtatuX8McQDQoMDm5"
     },
     {
       "added_at": "2022-05-11 12:29:38",

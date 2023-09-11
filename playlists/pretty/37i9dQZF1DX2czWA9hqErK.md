@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,696 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,838 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 20 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 |
 | 21 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 22 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |
-| 23 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
-| 24 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
-| 25 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 |
+| 23 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 |
+| 24 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
+| 25 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
 | 26 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 |
-| 27 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 28 | [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 |
+| 27 | [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 |
+| 28 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 29 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
 | 30 | [live more & love more](https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [live more & love more](https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4) | 2:38 |
 | 31 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 44 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 |
 | 45 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
 | 46 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/58pTPJPBjw1xL9OcLcQczU) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/6iiQFr91jK794wZRDMSXkp) | 3:47 |
-| 47 | [peace](https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:54 |
-| 48 | [How Could You](https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 3:07 |
-| 49 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
+| 47 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
+| 48 | [peace](https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:54 |
+| 49 | [How Could You](https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 3:07 |
 | 50 | [I'll Be Waiting](https://open.spotify.com/track/04zpnoSROKFTCfgkoPcZ5A) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 2:52 |
 | 51 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
 | 52 | [pick up the phone](https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [pick up the phone](https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf) | 2:25 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 89 | [Joe](https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:07 |
 | 90 | [Shade of Yellow](https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:36 |
 | 91 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 |
-| 92 | [Happiest Girl](https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Happiest Girl](https://open.spotify.com/album/4pKxL29XtwK9qXxh0Zsq9c) | 2:47 |
-| 93 | [Forget Me \- Spotify Singles](https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 3:49 |
-| 94 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 |
-| 95 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 |
+| 92 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 |
+| 93 | [Happiest Girl](https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Happiest Girl](https://open.spotify.com/album/4pKxL29XtwK9qXxh0Zsq9c) | 2:47 |
+| 94 | [Forget Me \- Spotify Singles](https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 3:49 |
+| 95 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 |
 | 96 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
 | 97 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 |
 | 98 | [A Strange Kind Of Beautiful](https://open.spotify.com/track/0ttVAF5zheWZoLI3pURxWS) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:32 |
 | 99 | [Face in the Crowd](https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Face in the Crowd](https://open.spotify.com/album/5e811Cmtlnt225AQO1tIiu) | 3:24 |
 | 100 | [Room Service](https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:46 |
 
-Snapshot ID: `MCxiN2FkZjE2NWQwY2JkYzIzODE1NWUzMWVhNDhkYjc1Y2ZjNWNmZTBl`
+Snapshot ID: `MCwzYmRjMmViYWE2NjkyZmFmM2VkMzdkZTk2ZDExOTY0NzIzZGNiYzRl`

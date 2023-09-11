@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,928 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,017 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 28 | [Urvashi](https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Urvashi](https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso) | 3:35 |
 | 29 | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV) | 2:50 |
 | 30 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |
-| 31 | [Brothers Anthem](https://open.spotify.com/track/3uZiNvBNQldjl4OJiKsuxe) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Brothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/383e45grHa4YKHGRojMqYy) | 5:53 |
-| 32 | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN) | 3:32 |
+| 31 | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN) | 3:32 |
+| 32 | [Brothers Anthem](https://open.spotify.com/track/3uZiNvBNQldjl4OJiKsuxe) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Brothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/383e45grHa4YKHGRojMqYy) | 5:53 |
 | 33 | [Ainvayi Ainvayi](https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Band Baaja Baaraat](https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU) | 4:27 |
 | 34 | [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/album/1d8jt3TJEbsTf6bTDnfyK9) | 3:49 |
 | 35 | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Goa Beach](https://open.spotify.com/track/4obyqyCX0Vx839PTsz1OGf) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Goa Beach](https://open.spotify.com/album/7EI4PXzgUDnRVsFCgP8xPF) | 3:38 |
 | 50 | [Dil Mera Blast](https://open.spotify.com/track/1OjjMsdBWWszjERnKeJbfd) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dil Mera Blast](https://open.spotify.com/album/0Gk4AsC07XUkqvk0lCbNIw) | 3:09 |
 
-Snapshot ID: `MCxkYTk1Nzk3NzA4NDkzYzIzNzUyYjMxZjZjNmU4ZjY3NzFlZTM2Yzdi`
+Snapshot ID: `MCxiNzZjNWIwNjA5NTQ1YTE5MjcyOGM4NzdlZmFkODllMmJhMmYwMDJi`

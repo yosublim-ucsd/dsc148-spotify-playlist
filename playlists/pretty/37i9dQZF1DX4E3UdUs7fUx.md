@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,310,876 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,310,847 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 40 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 41 | [You And I \- Moon And Stars / Acoustic](https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [You And I \(Moon And Stars / Acoustic\)](https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C) | 3:20 |
 | 42 | [Lights Off](https://open.spotify.com/track/0kmm2zTSQZoNuNd1lZ0Sbl) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [EPs 2014 \- 2016](https://open.spotify.com/album/3rrSdYF171Zwh3uKUIHuvk) | 3:53 |
-| 43 | [Mango Tree](https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [A Book Like This](https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU) | 3:45 |
-| 44 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
-| 45 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
-| 46 | [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 |
+| 43 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
+| 44 | [Mango Tree](https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [A Book Like This](https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU) | 3:45 |
+| 45 | [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 |
+| 46 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
 | 47 | [All This Time Running](https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/71FWp5uo78GM4C7ZseK2O9) | 3:05 |
-| 48 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
+| 48 | [Waiting Around \- Acoustic](https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Vacancy](https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL) | 2:32 |
 | 49 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
-| 50 | [Waiting Around \- Acoustic](https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Vacancy](https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL) | 2:32 |
-| 51 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
-| 52 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:13 |
+| 50 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
+| 51 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:13 |
+| 52 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
 | 53 | [To Live a Life](https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 3:12 |
 | 54 | [Resilient](https://open.spotify.com/track/2Nm0IGkliIwWjSBINf3KjG) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Resilient](https://open.spotify.com/album/1AwzLRB4cP8KISlr8ExOEt) | 4:10 |
 | 55 | [There's A Place](https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Pacific](https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ) | 6:08 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 89 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
 | 90 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 |
 | 91 | [Overland](https://open.spotify.com/track/4k5R36pR5HA3SHlabSQX56) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:25 |
-| 92 | [Its A Winding Road](https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Oh Brother](https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4) | 4:35 |
-| 93 | [Saint Monica \- Undone](https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Saint Monica \(Undone\)](https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6) | 2:26 |
+| 92 | [Saint Monica \- Undone](https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Saint Monica \(Undone\)](https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6) | 2:26 |
+| 93 | [Its A Winding Road](https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Oh Brother](https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4) | 4:35 |
 | 94 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
 | 95 | [Waves \- Guitar Acoustic](https://open.spotify.com/track/6yiWXb7aSGTLtrh7oKj80S) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 4:08 |
 | 96 | [On the Frame \(Acoustic\)](https://open.spotify.com/track/2UyZLb4rxCgXaFI9wsxsGs) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of B\-Sides](https://open.spotify.com/album/4uENKN2umJ1TGfOZ4NIEVs) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 99 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 |
 | 100 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 |
 
-Snapshot ID: `MCxkMWVhMzYwZmRmODkzMWY0MzI2MzQ2ZTc3NjUxMzk2N2UyY2RhZjAx`
+Snapshot ID: `MCw5MzZmNmIyODAzMWFlZjExMGRlNGUyZTkyNGM5MDFiZDVjYTcwNzIx`

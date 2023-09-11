@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 191039,
+  "num_followers": 191148,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTYyYTE1MTVhYjQ5OTljZjQ3ZmMxZTc4OGNhMWM3ZWMyZTEyNzBh",
+  "snapshot_id": "MCw3MWZmYzVlMzZjZjc0MGY3N2U5MjAwYTMyNzJjZjY2ZjFjZmY3ZjFj",
   "tracks": [
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
+        "name": "Trap Lovers",
+        "url": "https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW"
+      },
+      "artists": [
+        {
+          "name": "Dark Polo Gang",
+          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
+        }
+      ],
+      "duration_ms": 228287,
+      "name": "Cambiare Adesso",
+      "url": "https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
         "name": "Allenamento #2",
         "url": "https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 151421,
       "name": "Allenamento #2",
       "url": "https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "Trap Lovers",
-        "url": "https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW"
-      },
-      "artists": [
-        {
-          "name": "Dark Polo Gang",
-          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
-        }
-      ],
-      "duration_ms": 228287,
-      "name": "Cambiare Adesso",
-      "url": "https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt"
     },
     {
       "added_at": "2023-07-18 09:14:25",

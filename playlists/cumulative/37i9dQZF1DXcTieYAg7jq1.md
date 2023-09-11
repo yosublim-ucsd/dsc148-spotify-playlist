@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-345 songs - 19 hr 57 min
+346 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,8 @@
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-04-22 | 2023-08-19 |
 | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA) | 3:12 | 2021-12-03 | 2023-01-28 |
 | [Waiting](https://open.spotify.com/track/1vzInuUvpmqKFwe289blUH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Waiting](https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt) | 3:11 | 2023-03-31 | 2023-04-29 |
-| [Waterfall](https://open.spotify.com/track/18dLNiaYuTkTJv75oE9RQc) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Waterfall](https://open.spotify.com/album/4M3EW2YEjaUKwDUyCXOWC6) | 2:59 | 2023-06-30 |  |
+| [Waterfall](https://open.spotify.com/track/0G2qT4WpiDJh32zgcdzGMF) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo) | 2:59 | 2023-06-30 |  |
+| [Waterfall](https://open.spotify.com/track/18dLNiaYuTkTJv75oE9RQc) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Waterfall](https://open.spotify.com/album/4M3EW2YEjaUKwDUyCXOWC6) | 2:59 | 2023-06-30 | 2023-09-11 |
 | [we all could use some help](https://open.spotify.com/track/6B7aGZA0Tfipg9ox1umX01) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [we all could use some help](https://open.spotify.com/album/7yCPSxaV1pRzXrdMKWuCYz) | 2:23 | 2023-07-21 |  |
 | [We're On Our Way Now](https://open.spotify.com/track/2ySHAi6CPwpGYdsomsezWg) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [We're On Our Way Now](https://open.spotify.com/album/6krwiE0F3PgGWJWI49WCJI) | 4:08 | 2021-12-03 | 2022-04-20 |
 | [We're On Our Way Now](https://open.spotify.com/track/3PwJ7f9g2BEmAfyuLfDZlk) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Back the Way We Came: Vol\. 1 \(2011 \- 2021\)](https://open.spotify.com/album/2aq32TQZkWO7wWGTWrINHr) | 4:08 | 2021-12-03 | 2023-01-28 |

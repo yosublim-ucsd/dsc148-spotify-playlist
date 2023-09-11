@@ -4,7 +4,7 @@
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-272 songs - 20 hr 33 min
+273 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Lorelei](https://open.spotify.com/track/1MwGbyzRmPXWABLIdW8tzG) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 3:43 | 2021-10-15 | 2022-07-29 |
 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 | 2021-10-15 |  |
 | [Lose My Breath](https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:38 | 2021-10-15 | 2022-07-29 |
+| [Love Like Blood](https://open.spotify.com/track/0SEfEDcVisRq8z4gU6r86b) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 6:48 | 2021-10-15 |  |
 | [Love Like Blood](https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 6:48 | 2021-10-15 | 2023-09-01 |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/4KIHjEYU1XLuS355XCKLvO) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/7z7Q623XMKn7w6K6BWzOtO) | 3:26 | 2021-10-15 | 2022-07-29 |
 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 | 2021-10-15 |  |
@@ -255,7 +256,7 @@
 | [Three](https://open.spotify.com/track/1jUReTRoKJfE56JtDeL5nQ) | [Frankie Rose](https://open.spotify.com/artist/44mVqYPHmFgrDJxv6CWrOo) | [Seventeen Seconds](https://open.spotify.com/album/1p4CfQtkm8mWmBBg53o2D9) | 3:08 | 2021-10-15 | 2022-04-20 |
 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 | 2023-01-24 |  |
 | [Time](https://open.spotify.com/track/73llFUlI8NWGtzrWgQakTV) | [Minny Pops](https://open.spotify.com/artist/64hGo0XLWbLrhPwAbW1VAR) | [Sparks In A Dark Room](https://open.spotify.com/album/2kgo5l52QGpXfH5zhBeYqe) | 3:44 | 2021-10-15 | 2022-04-20 |
-| [Tower Of Strength](https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Children](https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL) | 8:06 | 2021-10-15 |  |
+| [Tower Of Strength](https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Children](https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL) | 8:06 | 2021-10-15 | 2023-09-11 |
 | [Tupelo \- 2009 Remastered Version](https://open.spotify.com/track/60tOkZmqKwh8RlTMPhbKLd) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 7:18 | 2021-10-15 | 2022-07-27 |
 | [Twenty Four Hours \- 2007 Remaster](https://open.spotify.com/track/1bY2THKdMAu0YQ2YTfPQTz) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer](https://open.spotify.com/album/4kT3ewGWBRAOlocyVp03bm) | 4:28 | 2021-10-15 | 2022-07-29 |
 | [Twenty Four Hours \- 2007 Remaster](https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 4:28 | 2021-10-15 |  |

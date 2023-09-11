@@ -4,7 +4,7 @@
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 48 min
+58 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,10 @@
 | [El De Los Lentes Gucci](https://open.spotify.com/track/3TgelNfEK1DnYrsHOBxaVJ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El De Los Lentes Gucci](https://open.spotify.com/album/5mqw31hLMPNEyWN5FYMKGW) | 2:05 | 2023-08-08 |  |
 | [El Drip](https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 2:22 | 2023-08-08 |  |
 | [El F](https://open.spotify.com/track/04QX4SHRnYuMj5PffvG0dA) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 4:09 | 2023-08-08 |  |
-| [En Corto](https://open.spotify.com/track/1gCkdtayMomPBKi09qXs1C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:02 | 2023-08-08 |  |
-| [Eres](https://open.spotify.com/track/6GM5l4aJ9aOhGStxODvNBm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:52 | 2023-08-08 |  |
+| [En Corto](https://open.spotify.com/track/1gCkdtayMomPBKi09qXs1C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:02 | 2023-08-08 | 2023-09-11 |
+| [En Corto](https://open.spotify.com/track/6PlLiHoRcjCgK5som2T3ph) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:02 | 2023-09-10 |  |
+| [Eres](https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:52 | 2023-09-10 |  |
+| [Eres](https://open.spotify.com/track/6GM5l4aJ9aOhGStxODvNBm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:52 | 2023-08-08 | 2023-09-11 |
 | [Estrellas](https://open.spotify.com/track/3RJtmjTdfo1Tz1Ys122y5y) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:06 | 2023-08-22 |  |
 | [F1](https://open.spotify.com/track/6bf11IBgO6k84wRuTSbci2) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [F1](https://open.spotify.com/album/6DWBiI2xUByeqXbRYTu5EL) | 2:34 | 2023-08-08 |  |
 | [Gracias](https://open.spotify.com/track/4lkl1CC0Py1pLOuQ4h2KuV) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Gracias](https://open.spotify.com/album/1nT3wVcqO8lnYICj8jkLiY) | 2:28 | 2023-08-08 | 2023-08-23 |
@@ -47,7 +49,8 @@
 | [Ninguna Como Ella](https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:20 | 2023-08-08 |  |
 | [Pacas De Billetes](https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pacas De Billetes](https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG) | 3:08 | 2023-08-08 |  |
 | [Pacas Verdes](https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Pacas Verdes \(feat\. Ovi\)](https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb) | 2:50 | 2023-08-08 |  |
-| [Pancake](https://open.spotify.com/track/0jofzyjTFcgFIvkK5bXwo3) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:02 | 2023-08-08 |  |
+| [Pancake](https://open.spotify.com/track/0jofzyjTFcgFIvkK5bXwo3) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:02 | 2023-08-08 | 2023-09-11 |
+| [Pancake](https://open.spotify.com/track/7ctRhcAiTBQLsH64s93sN4) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:02 | 2023-09-10 |  |
 | [Paso En Culiacan](https://open.spotify.com/track/5McxmoutZI2oRpuTQdvH71) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Paso En Culiacan](https://open.spotify.com/album/03fkik4lkYThFBm6gMuWkO) | 4:35 | 2023-08-08 |  |
 | [Periquito](https://open.spotify.com/track/1rf9ED0kgnSWMpUxQj9XVX) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:20 | 2023-08-08 |  |
 | [Pienso en Ella](https://open.spotify.com/track/79fkYjEJlscHdgAtYWYfUO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 3:22 | 2023-08-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2010s. Cover: Keane",
-  "num_followers": 102417,
+  "num_followers": 102510,
   "original_name": "10s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDQwNjJhZTExNDU0MTg5YjQ5MmUxNjYxNTgwMGMyMTljZDI4MzM1",
+  "snapshot_id": "MCxkNzQ0NzAzYzU5MzJhNzU4NDBhZjY1OTMzYmY3MGM1NWM5MzA0YjRi",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 283528,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 204066,
       "name": "Summer Of Love",
       "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 283528,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 259252,
+      "name": "Zombie - Acoustic",
+      "url": "https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 226763,
       "name": "Song For Someone",
       "url": "https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 259252,
-      "name": "Zombie - Acoustic",
-      "url": "https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "We Stitch These Wounds",
-        "url": "https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 251706,
-      "name": "The Mortician's Daughter",
-      "url": "https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 283946,
       "name": "Sloom",
       "url": "https://open.spotify.com/track/6xFxmcebq5XphN0WoxNLgp"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "We Stitch These Wounds",
+        "url": "https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 251706,
+      "name": "The Mortician's Daughter",
+      "url": "https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Junk Of The Heart",
-        "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
       "artists": [
         {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 205026,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/3lcYh4YFzkeZf1ebWy8wPx"
+      "duration_ms": 241400,
+      "name": "Landlady",
+      "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
     }
   ],
   "unique_name": "10s Easy Rock",

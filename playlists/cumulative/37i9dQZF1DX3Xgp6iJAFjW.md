@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-148 songs - 10 hr 2 min
+149 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Navidad para el pueblo](https://open.spotify.com/track/0NMKMatww8aQFrGTI88QOa) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Toño en America](https://open.spotify.com/album/3vBuyDnFfXcMORQsi1yMJe) | 4:19 | 2022-12-18 |  |
 | [Navidad Sin Mi Madre](https://open.spotify.com/track/2TubL59m7DAX9X70BniG2y) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merenboom Navideño](https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2) | 4:52 | 2022-11-25 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/0j3lYn9mbOJ1L5iWrmu6pQ) | [Johnny Ventura y su Combo](https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR) | [Navidad Sin Ti](https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73) | 3:50 | 2022-12-18 |  |
-| [Navidad Sin Ti](https://open.spotify.com/track/54HYvUQmEmPa9KWBxolxkM) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti](https://open.spotify.com/album/5DP1DTvbB4ALeIvIsVL5qo) | 3:05 | 2022-11-25 |  |
+| [Navidad Sin Ti](https://open.spotify.com/track/54HYvUQmEmPa9KWBxolxkM) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti](https://open.spotify.com/album/5DP1DTvbB4ALeIvIsVL5qo) | 3:05 | 2022-11-25 | 2023-09-11 |
 | [Navidad Sin Ti](https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti](https://open.spotify.com/album/3I94U5CMxnGg4dtvKPKvlP) | 3:29 | 2022-11-25 | 2023-08-17 |
 | [Navidad, Navidad](https://open.spotify.com/track/3kwPNEPLH3jtE5Ug0YTpCz) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Navidad, Navidad](https://open.spotify.com/album/1H7UXvXitpoxQreWgZVXv2) | 3:00 | 2022-11-25 | 2022-12-19 |
 | [No Hay](https://open.spotify.com/track/1EKaKgdN9gHpKG0QoWe1eZ) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [De Trulla Con el Combo](https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq) | 4:19 | 2022-11-25 |  |
@@ -145,6 +145,7 @@
 | [Sorbito De Champagne](https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:31 | 2022-11-25 |  |
 | [Ta Encendio](https://open.spotify.com/track/2FI5ftUcHYCXv1NfCed6g6) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Poder de New York](https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji) | 4:45 | 2022-11-25 |  |
 | [Tan Pronto Llegan los Reyes](https://open.spotify.com/track/1DK8HS1wnJjMI4wLykcxfZ) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Tarjeta de Navidad III](https://open.spotify.com/album/3dRrWUIYklvUAByzs1mMvo) | 4:46 | 2022-11-25 | 2023-08-17 |
+| [Tarjeta de Navidad](https://open.spotify.com/track/2ROX1dn85u8PTvmdbwy4qL) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Victor Victor](https://open.spotify.com/artist/6cLqxNFHvt8cBfe6ZdvKIT), [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY), [Pupy Santiago](https://open.spotify.com/artist/1AwtkVab3KjuB4wHYVj28r), [Grupo Wao](https://open.spotify.com/artist/1uTlnWfKBuO8DKuuVOFWKa), [Jacinto](https://open.spotify.com/artist/0AE7HMciFJ9vrElOEkcCkF) | [Navidad en Borínquen](https://open.spotify.com/album/4aepF49pb9dljNnzXgisO0) | 8:33 | 2023-08-16 |  |
 | [Tarjeta de Navidad](https://open.spotify.com/track/72PomDaaCoJnjFN0woEqHq) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Lo Mejor De Gilberto En La Navidad](https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB) | 4:30 | 2022-12-18 |  |
 | [Traicionera](https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 3:34 | 2022-11-25 |  |
 | [Trulla Pa' Ti](https://open.spotify.com/track/5JYJ7UuEoLnTZBtKKXRVN8) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 3:19 | 2022-12-18 |  |

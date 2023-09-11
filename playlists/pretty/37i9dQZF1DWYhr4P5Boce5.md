@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,039 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,076 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 32 | [With Every Act of Love](https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Love Will Have the Final Word](https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr) | 3:36 |
 | 33 | [God Gave Me You](https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [What We Want, What We Get](https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6) | 3:48 |
 | 34 | [Commitment](https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Run](https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG) | 3:36 |
-| 35 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
-| 36 | [Your Love Is Strong](https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 5:09 |
-| 37 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 |
-| 38 | [Your Love](https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 2:38 |
+| 35 | [Your Love Is Strong](https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 5:09 |
+| 36 | [Your Love](https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 2:38 |
+| 37 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
+| 38 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 |
 | 39 | [Girl of My Dreams](https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [No Turning Back](https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh) | 3:29 |
 | 40 | [Amor De Telenovela](https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 4:10 |
 | 41 | [This Kind Of Love](https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [This Kind Of Love](https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI) | 3:04 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 92 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
 | 93 | [Band of Gold // Summer Sessions](https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Band of Gold // Summer Sessions](https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU) | 3:28 |
 | 94 | [Perfect Love](https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Perfect Love](https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd) | 3:21 |
-| 95 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
-| 96 | [Oh How I Love You \- R&B Version](https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Oh How I Love You](https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr) | 3:53 |
-| 97 | [What Will She Say](https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Here's to Second Chances](https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB) | 2:58 |
+| 95 | [What Will She Say](https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Here's to Second Chances](https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB) | 2:58 |
+| 96 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
+| 97 | [Oh How I Love You \- R&B Version](https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Oh How I Love You](https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr) | 3:53 |
 | 98 | [Dear Future Husband](https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Dear Future Husband](https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9) | 4:28 |
 | 99 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
 | 100 | [Love Somebody](https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [True Beauty](https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re) | 3:48 |
 
-Snapshot ID: `MCw4MDkyYmM2ODIxMjgzMTMxMjA1ZWE5ZmU0ZGMyN2NkZDQzOWQwZDdj`
+Snapshot ID: `MCw3NjE1NGRmNjllMWQwMWRkYjlmZTljZDE5MmViZWMyOTIzMWZmZDU2`

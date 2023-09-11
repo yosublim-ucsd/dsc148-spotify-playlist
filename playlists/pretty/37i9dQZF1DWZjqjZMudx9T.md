@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 > De la CALLE a la CIMA con Mora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,677,995 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,679,280 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 | 10 | [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 |
 | 11 | [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 |
 | 12 | [GATITA GANGSTER](https://open.spotify.com/track/7gUtEoYJcPnhF4bJAJ3O8q) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:50 |
-| 13 | [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 |
+| 13 | [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 |
 | 14 | [Hasta Que Dios Diga](https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:06 |
 | 15 | [Ojos Azules](https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojos Azules](https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0) | 3:08 |
 | 16 | [Escápate Conmigo \- Remix](https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Escápate Conmigo \(Remix\)](https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 | 49 | [Mas Rica Que Ayer](https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Mas Rica Que Ayer](https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu) | 3:19 |
 | 50 | [EL AMOR DE TU VIDA](https://open.spotify.com/track/3MBzcfMRsUvA97JDiB7zN0) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [EL AMOR DE TU VIDA](https://open.spotify.com/album/4xar1X3zTK8oN2eq5yfQKE) | 2:57 |
 
-Snapshot ID: `MCwyYTUyOGJlOGI4ZjdiNGM0ZTAzYzVjOTVjMjkwZmQ4MWM4NTFiNDQy`
+Snapshot ID: `MCwwMDgxZmRmYWJiNmQxNTBlZDIwMDYxMmNiNGZjMWE3OTAzNGRkOWY1`

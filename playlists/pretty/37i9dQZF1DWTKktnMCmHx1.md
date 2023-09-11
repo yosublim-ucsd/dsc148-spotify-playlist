@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,908 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,922 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 76 | [∞ LOVE \(feat\. Guè\)](https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:38 |
 | 77 | [YAMAMAY](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [YAMAMAY](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 |
 | 78 | [24 \(feat\. Lil Baby\)](https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [24 \(feat\. Lil Baby\)](https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5) | 3:02 |
-| 79 | [Coco \(feat\. DaBaby\)](https://open.spotify.com/track/6MGRweoLPBAaPcXTMpMWsA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:22 |
-| 80 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:21 |
+| 79 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:21 |
+| 80 | [Coco \(feat\. DaBaby\)](https://open.spotify.com/track/6MGRweoLPBAaPcXTMpMWsA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:22 |
 
-Snapshot ID: `MCwwN2RmNWQzMjZjMjYyZTI2MThhYjgxZDZjOTJiMDRkNjFhYWQ2YWIx`
+Snapshot ID: `MCwzNGYyMzJlMDg5YzUxNDA0NTg1NzY3Y2Q5ZDRiZjBjNDkxMmY4MGFm`

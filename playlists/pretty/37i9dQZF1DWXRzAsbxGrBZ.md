@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,910 likes - 50 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,996 likes - 50 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 12 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 |
 | 13 | [You've Been Missing Me](https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Good Vibes Only E.P](https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN) | 5:53 |
 | 14 | [Joker](https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE) | 5:23 |
-| 15 | [Monomotapa](https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL) | [Alexsir](https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Next Generation](https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb) | 5:42 |
-| 16 | [Never Thought](https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Thap Soul](https://open.spotify.com/artist/1CgzjfRs4cZjM58OJO1jPy), [NexVocals](https://open.spotify.com/artist/5vZfRSP0feCD65uUeThc4X), [Massive R](https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc) | [Never Thought](https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj) | 4:44 |
+| 15 | [Never Thought](https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Thap Soul](https://open.spotify.com/artist/1CgzjfRs4cZjM58OJO1jPy), [NexVocals](https://open.spotify.com/artist/5vZfRSP0feCD65uUeThc4X), [Massive R](https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc) | [Never Thought](https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj) | 4:44 |
+| 16 | [Monomotapa](https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL) | [Alexsir](https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Next Generation](https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb) | 5:42 |
 | 17 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 |
 | 18 | [Stay For The Night](https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS) | [Skies Showers EP](https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0) | 8:50 |
 | 19 | [My Heartbeat For You](https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs) | [RoneeDeep](https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [My Heartbeat For You](https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6) | 5:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [7 Steps \- Soulcalmic Mingle](https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [7 Steps \(Soulcalmic Mingle\)](https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8) | 5:33 |
 | 50 | [The Inglourious](https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Synth\-O\-Ven](https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn) | [The Inglourious](https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X) | 6:39 |
 
-Snapshot ID: `MCw0MGE2NjgzMDk3MjRhNjhlMTY2NTE2NDE1MDU5ZTg5YjJhZjQ5ZjU5`
+Snapshot ID: `MCw2YWVhMzQ5NTQ4YTBhNzM5MDgxOTE2YTZlZjBlZTAzYmQyM2E4ODlm`

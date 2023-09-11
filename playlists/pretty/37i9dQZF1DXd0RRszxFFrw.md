@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,283 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,344 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,20 +47,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 37 | [Train to Rishikesh](https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Luminosity](https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a) | 5:32 |
 | 38 | [Commitments](https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 3:14 |
 | 39 | [Ponte Veccio](https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [Ponte Vecchio](https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc) | 2:28 |
-| 40 | [Montalbán](https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [Muniesa](https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK) | 2:06 |
-| 41 | [The Little Island Bossa](https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [The Little Island Bossa](https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW) | 4:06 |
+| 40 | [The Little Island Bossa](https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [The Little Island Bossa](https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW) | 4:06 |
+| 41 | [Montalbán](https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [Muniesa](https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK) | 2:06 |
 | 42 | [Tierra Mestiza](https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l) | [Gerardo Tamez](https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF), [Terceto De Guitarras De La Ciudad De Mexico](https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV) | [Querencia](https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL) | 3:39 |
 | 43 | [Me Estas Haciendo Falta](https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:32 |
-| 44 | [My Foolish Heart](https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Paz](https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k) | 5:04 |
+| 44 | [Madera Negra](https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Niño Josele](https://open.spotify.com/album/79653plha39OpqECC3HCln) | 4:05 |
 | 45 | [30 De Marzo](https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Re\-Foc](https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G) | 4:14 |
 | 46 | [Cinque Terre](https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cinque Terre](https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM) | 3:52 |
 | 47 | [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 |
 | 48 | [Ilha Do Amor](https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi) | [Ailani Akoni](https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k) | [Ilha Do Amor](https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43) | 2:27 |
 | 49 | [Black Orpheus](https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 3:01 |
-| 50 | [Rumbita \(Guitar Version\)](https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ) | [Guitarras De Oro](https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M) | [Música De España](https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC) | 3:41 |
+| 50 | [Vivienne \- Rumba](https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv) | [Rafael Cortés](https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY) | [Asi lo siento](https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD) | 3:17 |
 | 51 | [Isla de los Bienaventurados \(Bulerías\)](https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt) | [Cañizares](https://open.spotify.com/artist/1PySKBegwK588WYnOnrsPP) | [El Mito de la Caverna](https://open.spotify.com/album/0SD94n8I6upvFQolNEblFl) | 3:48 |
-| 52 | [Madera Negra](https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Niño Josele](https://open.spotify.com/album/79653plha39OpqECC3HCln) | 4:05 |
-| 53 | [Vivienne \- Rumba](https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv) | [Rafael Cortés](https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY) | [Asi lo siento](https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD) | 3:17 |
+| 52 | [My Foolish Heart](https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Paz](https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k) | 5:04 |
+| 53 | [Rumbita \(Guitar Version\)](https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ) | [Guitarras De Oro](https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M) | [Música De España](https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC) | 3:41 |
 | 54 | [Noches de Bohemia \- Guitar Version](https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge) | [Paco Infante](https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht) | [Hablando Con Mi Guitarra](https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0) | 4:15 |
 | 55 | [Bossanova in My Heart](https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [Only In Paris](https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw) | 2:58 |
 | 56 | [Just Feeling Great](https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Just Feeling Great](https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S) | 2:01 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 65 | [La Fuente](https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [La Fuente](https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J) | 2:42 |
 | 66 | [Adelita Mazurka](https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Spanish Guitar EP](https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk) | 2:12 |
 | 67 | [When the Ocean Sleeps](https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Lost Tales of Catalonia](https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl) | 3:13 |
-| 68 | [Milonga](https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Santiago Lara](https://open.spotify.com/artist/1La6DecHiig1zpPFRHi5yQ) | [The Andalusian Guitar](https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ) | 3:56 |
-| 69 | [Dos Gardenias](https://open.spotify.com/track/1ssx7VfHSaWq2xtvQzp5mb) | [Paco Infante](https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht) | [Sol Naciente](https://open.spotify.com/album/5TGkBE8ag2FN8O95EfwOfQ) | 3:33 |
+| 68 | [Dos Gardenias](https://open.spotify.com/track/1ssx7VfHSaWq2xtvQzp5mb) | [Paco Infante](https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht) | [Sol Naciente](https://open.spotify.com/album/5TGkBE8ag2FN8O95EfwOfQ) | 3:33 |
+| 69 | [Milonga](https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Santiago Lara](https://open.spotify.com/artist/1La6DecHiig1zpPFRHi5yQ) | [The Andalusian Guitar](https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ) | 3:56 |
 | 70 | [Mexican Mood](https://open.spotify.com/track/1GlBh7jgGCrZOY1SrzvMkx) | [Gypsy Flamenco Masters](https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl) | [Romantic Carnival Chillout Music](https://open.spotify.com/album/4mbBeSPRVCfvaLLZ8YCdsL) | 1:37 |
 | 71 | [Libertango](https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Latin Style](https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu) | 4:06 |
 | 72 | [El Primero](https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [El Primero](https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV) | 2:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 74 | [Tristango](https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Tristango](https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC) | 3:19 |
 | 75 | [Dan\-Son](https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2) | [Enrico Chapela](https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K), [Cuarteto de Guitarras de la Ciudad de México](https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV) | [Sones y Danzones de Buena Madera](https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00) | 6:10 |
 
-Snapshot ID: `MCw5ZWVhMDk1NGM0OGUyZTE4Y2EwNDAzNThjMzI3NmU4NjgxZmEzYWM0`
+Snapshot ID: `MCw4NDYwNThjYjZiOTliM2Y4MWQ1N2EzNDRjMmY2ODBhY2FhMTdjMmVm`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,269 songs - 2 day 19 hr 59 min
+1,270 songs - 2 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Filaki](https://open.spotify.com/track/4QLernO4WGAbsKgzs8LPOl) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Evan Spikes](https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP) | [Amantes Amentes](https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF) | 2:58 | 2022-06-11 | 2022-06-19 |
 | [Fimi](https://open.spotify.com/track/1ObRO6vf0rLZJ57iT2Y3df) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Fimi](https://open.spotify.com/album/0BI7ftzriehdJ5tm1ftFze) | 3:22 | 2021-03-27 | 2021-10-20 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 | 2022-04-23 |
+| [Floga](https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Efhi](https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB) | 2:59 | 2023-09-10 |  |
 | [FLOGES STA GRAFEIA](https://open.spotify.com/track/3NIWeaub0MblBpqQdWP2oe) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX), [Dj The Boy](https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj) | [Epikindinoi Polites](https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn) | 3:38 | 2023-03-18 | 2023-04-02 |
 | [Flore Ti Koitas](https://open.spotify.com/track/3wLVDBR1tutfYEe8g9OG8V) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [Flore Ti Koitas](https://open.spotify.com/album/03NoFkATAIQVluIfOMCKEL) | 2:47 | 2022-03-20 | 2022-04-24 |
 | [Flow Neoyorkezou](https://open.spotify.com/track/6KOTodHeWVb858KPHrX7dP) | [Buzz](https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5), [Zoro&Buzz](https://open.spotify.com/artist/1lqh5puCZTMsGJalV8Rjbe), [Hrwas](https://open.spotify.com/artist/3Twks7X3LY2Dzjv8s3f49l) | [Leoforos Kavalas](https://open.spotify.com/album/2CCVbJTChTnS4B1oJpQ75X) | 3:42 | 2021-04-04 | 2021-04-05 |
@@ -683,7 +684,7 @@
 | [MADONNA](https://open.spotify.com/track/0squdRpQmoHv9z31xx8NYM) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Dj The Boy](https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj) | [Epikindinoi Polites](https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn) | 3:30 | 2023-03-18 | 2023-04-02 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-11 |
 | [Magic City](https://open.spotify.com/track/3WCNhnsjZvgRySLpsr4SCu) | [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Aliteia](https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY) | 3:08 | 2021-04-18 | 2021-04-20 |
-| [Mahalas](https://open.spotify.com/track/57eHxCRw03YM7xv5YLY0I6) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Fthina Tricks](https://open.spotify.com/album/7MqSq1YDxSsLL5vEvBPsAk) | 2:38 | 2023-05-20 |  |
+| [Mahalas](https://open.spotify.com/track/57eHxCRw03YM7xv5YLY0I6) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Fthina Tricks](https://open.spotify.com/album/7MqSq1YDxSsLL5vEvBPsAk) | 2:38 | 2023-05-20 | 2023-09-11 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-11-13 |
 | [Malagouzia](https://open.spotify.com/track/3EwR28JPLbbppYhjGajTcv) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [Kales Douleies](https://open.spotify.com/album/5uHT0lG46ofxqFdrDVIB7k) | 2:46 | 2022-07-08 | 2022-07-12 |
 | [Mama Dukes](https://open.spotify.com/track/05hQCNWONOgCc0VDxEgp5M) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 3:24 | 2022-04-29 | 2022-05-15 |

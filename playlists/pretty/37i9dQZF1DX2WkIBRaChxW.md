@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now – featuring JON VINYL.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,643 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,702 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 |
 | 75 | [calm & patient](https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [calm & patient](https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg) | 3:33 |
 
-Snapshot ID: `MCwwMjQyZTI1OTljNjhhOGMxZDY5ZTBjMzM0OTI4YmQwNDcxMDk1ZTM1`
+Snapshot ID: `MCw4MmU3YjdjYTdjNTk3ZjM2MDlkMDBkYTc1NGJiZGFiMzViZjNlY2Nh`

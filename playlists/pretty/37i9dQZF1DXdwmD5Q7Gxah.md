@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > you too have the opportunity to put Olivia Rodrigo and flyingfish in the same playlist\. Slow Pulp is on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,923 likes - 104 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,172 likes - 104 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 103 | [THE PEACH](https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [THE PEACH](https://open.spotify.com/album/6KUysdIaL4wtPiRXFAIYUI) | 2:26 |
 | 104 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 |
 
-Snapshot ID: `MCw5ZmU1ODA4YWNjN2NiMGY4MWFlZjkyYzcxYTNmNTI0ZGUyOGRiYzNl`
+Snapshot ID: `MCxlNWFiYWQwMWQzZmViOGRmNDU5ZDk4YTAyNjdjYTkzZDQ5YjUzYjM3`

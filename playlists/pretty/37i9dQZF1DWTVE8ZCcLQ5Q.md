@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Senndy e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,351 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,339 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Contrai](https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Martinnz](https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw) | [Contrai](https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm) | 3:00 |
 | 75 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 
-Snapshot ID: `MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj`
+Snapshot ID: `MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5`

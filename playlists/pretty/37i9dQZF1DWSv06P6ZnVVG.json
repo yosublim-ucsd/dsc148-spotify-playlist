@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 20171,
+  "num_followers": 20280,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjNmYTQ1YjNjZDcyZGQzNzc2NTIwNGZmYzhlNGM0ZmI1MTA1NTA1",
+  "snapshot_id": "MCxiM2RkZmQ0ZGE3MDYwNWY0YzAwMzg5ZjdlNGE4ZWMzM2RkYjhjZWM0",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
+      },
+      "artists": [
+        {
+          "name": "Banda Zirahuen",
+          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
+        }
+      ],
+      "duration_ms": 289691,
+      "name": "El Toro Pinto",
+      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Puras Carnavaleras, Vol. 2",
         "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
+        "name": "Nuestra Historia Musical (Volumen 1)",
+        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
       },
       "artists": [
         {
-          "name": "Banda Zirahuen",
-          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
+          "name": "Banda Ola Azul de Zirahuen",
+          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
         }
       ],
-      "duration_ms": 289691,
-      "name": "El Toro Pinto",
-      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
+      "duration_ms": 193053,
+      "name": "Un Angel No Debe Llorar",
+      "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -339,22 +355,6 @@
       "duration_ms": 134725,
       "name": "La Rabia",
       "url": "https://open.spotify.com/track/6vVdR7jAZVVCc4qx2JMLVz"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Nuestra Historia Musical (Volumen 1)",
-        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
-      },
-      "artists": [
-        {
-          "name": "Banda Ola Azul de Zirahuen",
-          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "Un Angel No Debe Llorar",
-      "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
+        "name": "Me Hac\u00edan Falta Huevos",
+        "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
       },
       "artists": [
         {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 156995,
-      "name": "Carnavalerita",
-      "url": "https://open.spotify.com/track/1uDoaYRjEPOsss80u8IKdF"
+      "duration_ms": 198133,
+      "name": "Qu\u00edtate El Zapato",
+      "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Me Hac\u00edan Falta Huevos",
-        "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Qu\u00edtate El Zapato",
-      "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
+      "duration_ms": 156995,
+      "name": "Carnavalerita",
+      "url": "https://open.spotify.com/track/1uDoaYRjEPOsss80u8IKdF"
     },
     {
       "added_at": "2022-08-02 22:31:47",

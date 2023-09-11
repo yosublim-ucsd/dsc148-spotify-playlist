@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,663 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,777 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 23 | [Sweet Tides](https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL) | 4:48 |
 | 24 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 |
 | 25 | [6 Underground](https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Becoming X](https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s) | 3:48 |
-| 26 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 |
-| 27 | [Yes Baby Yes](https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd) | 5:00 |
+| 26 | [Yes Baby Yes](https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd) | 5:00 |
+| 27 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 |
 | 28 | [Rose rouge](https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:56 |
 | 29 | [Underwater Love](https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F) | [Smoke City](https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF) | [Flying Away](https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1) | 6:46 |
 | 30 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 32 | [Until The Morning](https://open.spotify.com/track/7nNUSD1jkWC71zIOUWY03E) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [The Richest Man In Babylon](https://open.spotify.com/album/22Y3wMfU6Bm0rtnjaljDSn) | 3:56 |
 | 33 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
 | 34 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 6:39 |
-| 35 | [Sunny Road](https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq) | 3:04 |
+| 35 | [2 Wicky](https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [A New Stereophonic Sound Spectacular](https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq) | 4:44 |
 | 36 | [Numb](https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 3:55 |
-| 37 | [2 Wicky](https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [A New Stereophonic Sound Spectacular](https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq) | 4:44 |
+| 37 | [Sunny Road](https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq) | 3:04 |
 | 38 | [Just Chillin'](https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB1](https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh) | 2:14 |
 | 39 | [Flip Ya Lid](https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg) | 5:24 |
 | 40 | [Futures](https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [The Garden](https://open.spotify.com/album/5eqHucyy09GuijWam8RAja) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 99 | [Electric Lazyland](https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Electric Lazyland](https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9) | 5:52 |
 | 100 | [Part of the Process](https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 4:25 |
 
-Snapshot ID: `MCwwZGI4MGNmNThmYTYzOGQzNzViMGE2MTU0ODc2NzIxZmQ3NzQyNDc2`
+Snapshot ID: `MCxhZWM2ZmMxODM4YWQ3MWVhYzEyM2VlYjY5NDEzOTA0MjhmOTMxOWVl`

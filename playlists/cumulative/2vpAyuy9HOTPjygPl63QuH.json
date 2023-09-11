@@ -11875,6 +11875,24 @@
     },
     {
       "album": {
+        "name": "KILLERZ",
+        "url": "https://open.spotify.com/album/1GbJRZeL4FQctSkiViPhDD"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247735,
+      "name": "KILLERZ",
+      "url": "https://open.spotify.com/track/33h3N6ZCFMk25Zo0sG0syI"
+    },
+    {
+      "album": {
         "name": "KILO (Beltran Remix)",
         "url": "https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5"
       },

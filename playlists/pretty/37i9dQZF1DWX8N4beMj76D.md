@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,863 likes - 40 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,868 likes - 40 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 37 | [Story Of Isaac](https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 4:06 |
 | 38 | [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 |
 | 39 | [Who By Fire](https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Songs I Love Vol.1](https://open.spotify.com/album/7GE2PIbzksYbhVxtbSHuwF) | 3:00 |
-| 40 | [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 |
+| 40 | [A Thousand Kisses Deep \- New Recording](https://open.spotify.com/track/0DYMn3FBYloHiTqiCTDIB9) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judy Collins Sings Leonard Cohen: Democracy](https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ) | 5:42 |
 
-Snapshot ID: `MCw4YjdiYmNlNGY1YWZjMzg1NTg5OTRkZTgyNzkyZjRmYTA2ZDZlYmE3`
+Snapshot ID: `MCxkMDg5MWVlNmZhZTU1ZDE5MDdhMmM0ZGU3ODFiYjlhMDg2N2MwYzY2`

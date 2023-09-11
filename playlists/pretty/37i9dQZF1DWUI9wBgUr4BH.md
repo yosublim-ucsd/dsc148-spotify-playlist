@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Megan Thee Stallion x Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,122 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,156 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 49 | [Chérie](https://open.spotify.com/track/0GTO1m0ZbLNvsl6EAMXpj7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 3:08 |
 | 50 | [Used To Be](https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:52 |
 
-Snapshot ID: `MCxhZGM0MWE1ZGMzMWI1ZDc2MDBjZGFlYmU5NDdiMzlmYmU2ZTVjOTkw`
+Snapshot ID: `MCxlMjBmMmUzODcxYTRiYTBkMjJjZDZjZmI1NTNhMWVkYTViYThhOTcz`

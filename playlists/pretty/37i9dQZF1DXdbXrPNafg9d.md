@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Sparklehorse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,540 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,549 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
 | 150 | [highschool](https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [highschool](https://open.spotify.com/album/1xcg4HqXuNCPhconEP4E0F) | 3:27 |
 
-Snapshot ID: `MCw5ZjlmYmRiODU3YTE2NGM3NDMxY2RlYmExYjZhMWMwOTIxYTU4YjY0`
+Snapshot ID: `MCxhNmU5OTBmYzEwMWVkY2I1Zjc5ZDlkYmFhZTYwY2VmMjlhY2MxYzc1`

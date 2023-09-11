@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Una inyecci\u00f3n de alegr\u00eda para tus ma\u00f1anas!",
-  "num_followers": 456367,
+  "num_followers": 456431,
   "original_name": "Buen D\u00eda :)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzU4NzdhYmQ2MjNhY2FmMDFmOTBlNjMwZTgzNjdjOGIzODRiYWVk",
+  "snapshot_id": "MCw0ZGI3NzcyMDI0ZmYxZjZlODdiZTcwMzk4MWZmYjJiMzAzNTFmZjRm",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "lo que hay x aqu\u00ed",
-        "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 155031,
-      "name": "lo que hay x aqu\u00ed",
-      "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "lo que hay x aqu\u00ed",
+        "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 155031,
+      "name": "lo que hay x aqu\u00ed",
+      "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Clavaito",
         "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 162740,
       "name": "Clavaito",
       "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "69",
-        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 221935,
-      "name": "69",
-      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 187986,
       "name": "EL TONTO",
       "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "69",
+        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 221935,
+      "name": "69",
+      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Dije Que No Me Iba a Enamorar",
-        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "El Bolero",
-      "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Tu Turrito",
         "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 164701,
       "name": "Tu Turrito",
       "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Dije Que No Me Iba a Enamorar",
+        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "El Bolero",
+      "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 144686,
+      "name": "Que Se V\u00e1",
+      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 246061,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 144686,
-      "name": "Que Se V\u00e1",
-      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Sin Gato (MIAU!)",
-        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Sin Gato (MIAU!)",
-      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "ser humano",
         "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 199384,
       "name": "plan",
       "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Sin Gato (MIAU!)",
+        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Sin Gato (MIAU!)",
+      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "5 Estrellas",
-        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 191094,
-      "name": "5 Estrellas",
-      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
         "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 213480,
       "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
       "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "5 Estrellas",
+        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 191094,
+      "name": "5 Estrellas",
+      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
     }
   ],
   "unique_name": "Buen D\u00eda :)",

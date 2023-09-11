@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,489 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,493 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 29 | [12 Days of Christmas](https://open.spotify.com/track/02SAP5qoj5GWubcKJDgXX9) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 3:33 |
 | 30 | [I'm With You](https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [I'm With You](https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq) | 4:04 |
 | 31 | [His Favorite Christmas Story](https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr) | [Capital Lights](https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 3:32 |
-| 32 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
-| 33 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 |
+| 32 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 |
+| 33 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
 | 34 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs) | 3:07 |
 | 35 | [White Christmas](https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:49 |
 | 36 | [Fool's Holiday](https://open.spotify.com/track/3s44CRFEl7bbZcYoervR3L) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:43 |
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 43 | [12 Days Of A Pop\-Punk Christmas](https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9) | [Jarrod Alonge](https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht) | [Punk Goes Christmas \(Deluxe\)](https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF) | 3:27 |
 | 44 | [O Come, O Come Emmanuel](https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 2:07 |
 | 45 | [Carol of the Bells](https://open.spotify.com/track/5mGmOpL9PsVLVmSd9qSlnb) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Lost Messengers: The Outtakes](https://open.spotify.com/album/67STyBXAKtNyQsSIsVvPLC) | 2:44 |
-| 46 | [Christmas Song](https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Christmas Song](https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9) | 2:54 |
+| 46 | [Ex\-Miss](https://open.spotify.com/track/0GematrDvLx1cEh5tTZY4Y) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory \- 10th Anniversary Edition](https://open.spotify.com/album/485PPCvKNtmAJBfzpyw3wk) | 3:37 |
 | 47 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 2:12 |
-| 48 | [Alone This Holiday \- Recorded for KROQ](https://open.spotify.com/track/2JeHW3MNfFLHxmVjfJ40LN) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Maybe Memories](https://open.spotify.com/album/1jnsarG7BdXCoxvIAejkbJ) | 2:54 |
-| 49 | [Ex\-Miss](https://open.spotify.com/track/0GematrDvLx1cEh5tTZY4Y) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory \- 10th Anniversary Edition](https://open.spotify.com/album/485PPCvKNtmAJBfzpyw3wk) | 3:37 |
-| 50 | [You’re a Mean One, Mr\. Grinch](https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR) | 2:12 |
+| 48 | [You’re a Mean One, Mr\. Grinch](https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR) | 2:12 |
+| 49 | [Christmas Song](https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Christmas Song](https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9) | 2:54 |
+| 50 | [Alone This Holiday \- Recorded for KROQ](https://open.spotify.com/track/2JeHW3MNfFLHxmVjfJ40LN) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Maybe Memories](https://open.spotify.com/album/1jnsarG7BdXCoxvIAejkbJ) | 2:54 |
 | 51 | [Lieder und Lametta](https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Lieder und Lametta](https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY) | 3:05 |
 | 52 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:39 |
 | 53 | [O Come All Ye Faithful](https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 2:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Auld Lang Syne](https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:09 |
 | 75 | [Things I Want](https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Christmas Calling](https://open.spotify.com/album/3dxUAJGxReRRdWdDGze7EL) | 3:54 |
 
-Snapshot ID: `MCwyMzM0NWViN2EwNTdmY2JiZWNkZGMxYjQ0MTQ3NTQ3MmM1ZTM0NzRk`
+Snapshot ID: `MCw1MzU2Nzg3Y2E2ZmU2NjZiMDY2NWY1OGU4ZWE3ZWRkMzJmMzBlYjky`

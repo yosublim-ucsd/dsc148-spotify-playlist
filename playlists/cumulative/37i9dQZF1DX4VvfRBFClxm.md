@@ -4,7 +4,7 @@
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Ed Sheeran
 
-349 songs - 20 hr 55 min
+350 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Misery \- Acoustic Version](https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:46 | 2022-03-25 | 2022-04-21 |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-10-13 |  |
 | [Morning Breeze](https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [GREY](https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI) | 3:14 | 2021-10-13 | 2023-08-17 |
-| [Most Girls \- Acoustic](https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls \(Acoustic\)](https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0) | 3:20 | 2021-10-13 |  |
+| [Most Girls \- Acoustic](https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls \(Acoustic\)](https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0) | 3:20 | 2021-10-13 | 2023-09-11 |
 | [Moving Mountains](https://open.spotify.com/track/27bWSKIcEj1JyhHi6emu4j) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Moving Mountains](https://open.spotify.com/album/70pO7PJKW18cXax9pQDtZb) | 4:13 | 2022-03-25 | 2022-04-20 |
 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 | 2021-10-13 |  |
 | [My Ego Dies At The End](https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 4:02 | 2022-06-17 |  |
@@ -220,6 +220,7 @@
 | [Not Enough Drugs \(Acoustic\)](https://open.spotify.com/track/4JWgRSFQqIQFFase45s6Ho) | [Curtis Peoples](https://open.spotify.com/artist/7LfBHu0AWzbnRsqkMtypBG), [Marié Digby](https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k) | [Not Enough Drugs \(Acoustic\)](https://open.spotify.com/album/0XcgfWRJfCjo1OnVi2paW1) | 3:46 | 2021-10-13 | 2022-01-01 |
 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 | 2021-10-13 |  |
 | [O Me O My](https://open.spotify.com/track/1rTdlRuVou2Bb1SRPzIShJ) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [O Me O My](https://open.spotify.com/album/6CWVXl49SWXE5e2YKMgcy7) | 2:52 | 2022-03-25 | 2022-04-21 |
+| [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 | 2023-09-01 |  |
 | [Ocean \- Stripped Acoustic](https://open.spotify.com/track/77o0diCQA70xYZnOey5OeD) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Ocean](https://open.spotify.com/album/1iRpLcqQNCdKWN4zfqFn9L) | 2:37 | 2021-10-13 | 2022-06-18 |
 | [Ol' Sweet Day](https://open.spotify.com/track/5FJGb4bs2Y4BbiX59zXksH) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/24DUTosxSiZ6X1h1jMMmKX) | 2:58 | 2021-10-13 | 2022-06-25 |
 | [Old Friends](https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Old Friends](https://open.spotify.com/album/2zpHfAiut6wqmWNS3McrxI) | 3:33 | 2022-03-25 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,665 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,760 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 18 | [No Quit](https://open.spotify.com/track/3zGn3DuQSsh5g6o2r6IwJg) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [No Quit](https://open.spotify.com/album/1YhIJxRStr6P4klotOPv9N) | 3:13 |
 | 19 | [Windows](https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB) | 3:12 |
 | 20 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 |
-| 21 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
-| 22 | [Loading Zones](https://open.spotify.com/track/0Z6W8GqZLM7DmgKp2jY6Pd) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/1UVthTEgHP0WcZZxqHtkvL) | 3:23 |
+| 21 | [Loading Zones](https://open.spotify.com/track/0Z6W8GqZLM7DmgKp2jY6Pd) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/1UVthTEgHP0WcZZxqHtkvL) | 3:23 |
+| 22 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
 | 23 | [Some Sunsick Day](https://open.spotify.com/track/7kXJUbAAPx2Bc4tKASpV5T) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/2B3pV6PcT7nwqrWrheOqWP) | 5:11 |
 | 24 | [Lady Luck](https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Atlantic Ocean](https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO) | 4:18 |
-| 25 | [Apollo's Mood](https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 4:31 |
-| 26 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
+| 25 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
+| 26 | [Apollo's Mood](https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 4:31 |
 | 27 | [Rock Bottom](https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 2:44 |
 | 28 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 |
 | 29 | [250 Miles](https://open.spotify.com/track/0Wze0lWoUjs8TrfLySyzDg) | [Radio Moscow](https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y) | [Brain Cycles](https://open.spotify.com/album/3f4iLZtqLg1oNhLKNziNAi) | 4:52 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 55 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
 | 56 | [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 |
 | 57 | [Trust Me](https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq) | 3:41 |
-| 58 | [Juniper Arms](https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [Pearls to Swine](https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca) | 6:00 |
-| 59 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
+| 58 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
+| 59 | [Juniper Arms](https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [Pearls to Swine](https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca) | 6:00 |
 | 60 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 |
 
-Snapshot ID: `MCxjOTk3NWNjZmJlNWEwYmIyZTA5YzI2NDc1NzNlYmVkMDUyOWZkNWQx`
+Snapshot ID: `MCxlNTRmZTU0OTk5NGIyYThjN2NiNDlmZWNmYjM5M2I2NmU4MTIyMTI1`

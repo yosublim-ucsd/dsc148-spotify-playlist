@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:04HwAPYr2hTMLjDVrpewQZ">Izabela Zabielska</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,061 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,060 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 48 | [Spina](https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [Spina](https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd) | 3:33 |
 | 49 | [BSoD \(Bluescreen\)](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD \(Bluescreen\)](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
 | 50 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
-| 51 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
-| 52 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 |
-| 53 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
-| 54 | [Barbie](https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 2:21 |
+| 51 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 |
+| 52 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
+| 53 | [Barbie](https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 2:21 |
+| 54 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
 | 55 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
 | 56 | [SLAY](https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [SLAY](https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m) | 2:59 |
 | 57 | [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 59 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 |
 | 60 | [Dziewczyna z NASA](https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai), [Panilas](https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa) | [Dziewczyna z NASA](https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX) | 3:40 |
 
-Snapshot ID: `MCwyNjQ5Y2NiYTFmMWI0MjU1MzUwMWE5M2M0N2M5YzdmMmIyMWRjOTI2`
+Snapshot ID: `MCw1OThhNGY1ZWVkNTUxZDE2MjRmZGZkYWZmYTFlOTNhMWM4OTljMjIy`

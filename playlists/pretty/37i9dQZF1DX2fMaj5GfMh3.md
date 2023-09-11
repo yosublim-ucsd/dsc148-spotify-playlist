@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Duncan Laurence deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,155 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,197 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 57 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 |
 | 58 | [best friends with your girlfriend](https://open.spotify.com/track/0Qq11qgCAABtz7WNcnpOpK) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [best friends with your girlfriend](https://open.spotify.com/album/0xM2UtJHnHQAQoBab3e8Eb) | 2:03 |
 | 59 | [Show Me Off](https://open.spotify.com/track/4YGHPxZbzLFpFQTSFruLzW) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Show Me Off](https://open.spotify.com/album/4W3wJDaJ6eMMlhFu6IQiuz) | 2:55 |
-| 60 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 60 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 61 | [hell is a teenage girl](https://open.spotify.com/track/4FvcW8lzYpZ4bq9awSHZ1N) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [hell is a teenage girl](https://open.spotify.com/album/2xhb39yawrcKkdIPvL2VJ4) | 3:15 |
 | 62 | [Runaway](https://open.spotify.com/track/72RjHoPZPW3LZHgVS4akIy) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 2:42 |
 | 63 | [Jim Carrey](https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Jim Carrey](https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 |
 | 100 | [happy for you](https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [happy for you](https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL) | 2:54 |
 
-Snapshot ID: `MCw4MzEyMjRkY2NiYzc0NDFmZTAyNGMyNzEyYWQ2MmZmNGRiMDk4ZmU4`
+Snapshot ID: `MCxlMDIzMTkwZjJjYjQ3YjkwZDA0YTVkNDM0MWQyNWYzM2EyNGFkNjdl`

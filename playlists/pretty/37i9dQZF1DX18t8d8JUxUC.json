@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Sof\u00eda Campos",
-  "num_followers": 15800,
+  "num_followers": 15854,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODNmYjI1OGU0ZDA5NjJjZjg0Mzk2NDZhODRmNTdlZjkyZDJlOWE3",
+  "snapshot_id": "MCwzMmYzZjk0OTg1ZDcwODIwY2RkZjE5OTVlNzgyNWE4NzI5YmNlN2U1",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "My Best Self",
-        "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 185823,
-      "name": "My Best Self",
-      "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "My Best Self",
+        "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 185823,
+      "name": "My Best Self",
+      "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/5Z6YX9a3A3quKgM0naXEaL"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/378lux3KIGNYTyFnB1cEXy"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Nuez",
         "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Romancera",
-        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/5Z6YX9a3A3quKgM0naXEaL"
       },
       "artists": [
         {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 232493,
-      "name": "Romancera",
-      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/378lux3KIGNYTyFnB1cEXy"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -603,6 +587,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Romancera",
+        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Romancera",
+      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Violet",
         "url": "https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G"
       },
@@ -615,26 +615,6 @@
       "duration_ms": 196333,
       "name": "Found Love",
       "url": "https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "azul",
-        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "azul",
-      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -671,6 +651,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "azul",
+        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "azul",
+      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Nada Para Ti",
         "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
       },
@@ -703,26 +703,6 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Estas Canciones Me Recuerdan a Ti",
-        "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 203950,
-      "name": "La Ola",
-      "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -815,6 +795,42 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Estas Canciones Me Recuerdan a Ti",
+        "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "duration_ms": 203950,
+      "name": "La Ola",
+      "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Qu\u00e9 Tal",
         "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
       },
@@ -895,6 +911,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 200613,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "C\u00f3smosis",
         "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
       },
@@ -907,38 +939,6 @@
       "duration_ms": 246720,
       "name": "C\u00f3smosis",
       "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -959,6 +959,38 @@
       "duration_ms": 351413,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1043,38 +1075,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 200613,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Entra en m\u00ed",
-        "url": "https://open.spotify.com/album/4IikKsyr0YnGPtIAFaKFKC"
-      },
-      "artists": [
-        {
-          "name": "Mateo Falgas",
-          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
-        }
-      ],
-      "duration_ms": 266876,
-      "name": "Entra en m\u00ed",
-      "url": "https://open.spotify.com/track/1E6kJOr2ii4JcQxKhYDDwS"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/7rFobKKdxE3gRflCho8mUY"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 168125,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Sagitario",
         "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 201861,
       "name": "Sagitario",
       "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Entra en m\u00ed",
+        "url": "https://open.spotify.com/album/4IikKsyr0YnGPtIAFaKFKC"
+      },
+      "artists": [
+        {
+          "name": "Mateo Falgas",
+          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
+        }
+      ],
+      "duration_ms": 266876,
+      "name": "Entra en m\u00ed",
+      "url": "https://open.spotify.com/track/1E6kJOr2ii4JcQxKhYDDwS"
     },
     {
       "added_at": "2023-09-08 04:00:00",

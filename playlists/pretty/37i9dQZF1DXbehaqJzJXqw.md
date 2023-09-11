@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,909 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,263 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 20 | [Un jour comme un autre](https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 2:20 |
 | 21 | [Le Poisson Des Mers Du Sud](https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Hoping for Love](https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e) | 4:13 |
 | 22 | [Paris](https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Cajueiro](https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq) | 3:21 |
-| 23 | [Juste quelqu'un de bien](https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Deux](https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt) | 4:07 |
-| 24 | [Cette Nuit là](https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5) | [Les Chauds Lapins](https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ) | [Amourettes](https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co) | 2:30 |
+| 23 | [Cette Nuit là](https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5) | [Les Chauds Lapins](https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ) | [Amourettes](https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co) | 2:30 |
+| 24 | [Juste quelqu'un de bien](https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Deux](https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt) | 4:07 |
 | 25 | [Jazz Méditerranée](https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 3:23 |
 | 26 | [Samba Saravah](https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 2:50 |
 | 27 | [J'ai Deux Amours](https://open.spotify.com/track/4HcY6ds4TeEo9j4Aj3soFp) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 2:56 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 37 | [Le Temps Qui Passe](https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Rendez Vous](https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y) | 3:37 |
 | 38 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
 | 39 | [Plus Je T'embrasse](https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 2:29 |
-| 40 | [On N'a Pas Besoin](https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Paris Combo](https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb) | 4:07 |
-| 41 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 |
+| 40 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 |
+| 41 | [On N'a Pas Besoin](https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Paris Combo](https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb) | 4:07 |
 | 42 | [Les mots d'amour](https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Lovely Difficult](https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB) | 3:47 |
 | 43 | [À quoi ça sert l'amour](https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Um Rio](https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf) | 4:14 |
 | 44 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 48 | [La mer opale](https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA) | [Coralie Clement](https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4) | [Salle des pas perdus](https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY) | 2:47 |
 | 49 | [Vous Qui Passez Sans Me Voir](https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Soirée](https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy) | 3:09 |
 | 50 | [Le chien d'avant garde](https://open.spotify.com/track/3xNsHKqsBYt4aV90Bp4l5Y) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La disparition](https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd) | 3:58 |
-| 51 | [Baudelaire](https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:26 |
-| 52 | [Un Homme Et Une Femme](https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO) | [Nathalie Et Guillaume](https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i) | [Paris \- I Love You](https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN) | 2:45 |
+| 51 | [Un Homme Et Une Femme](https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO) | [Nathalie Et Guillaume](https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i) | [Paris \- I Love You](https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN) | 2:45 |
+| 52 | [Baudelaire](https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:26 |
 | 53 | [J’ai ta main](https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A), [Nicolas Fiszman](https://open.spotify.com/artist/4d0roMzc4feODS6OCmkJ5d), [Denis Benarrosh](https://open.spotify.com/artist/324sdO7LUc6DgR2tLLWoCa), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trenet](https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ) | 3:14 |
 | 54 | [Je voudrais me divertir](https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso) | [Nicola Són](https://open.spotify.com/artist/7bdsnZAVc7rztEpxfr7kCM), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Nord Destin](https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ) | 4:07 |
 | 55 | [Aimé](https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ) | [Loane](https://open.spotify.com/artist/1tuckVFkV6REMXZr5IQP19) | [Jamais Seule](https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 79 | [J'Suis Pas D'Ici](https://open.spotify.com/track/61FxaViELF86usDHyVQvvq) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Comme Un Manouche Sans Guitare](https://open.spotify.com/album/3LoBT4sO5ThbqUaD4fycUW) | 2:10 |
 | 80 | [C'est le printemps](https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 5:02 |
 
-Snapshot ID: `MCw4YWY2M2MzOWRhMjUzNzU3YmJiYTAzZTRkMjdiMzQ2ODcyNjhhYzE5`
+Snapshot ID: `MCwwNDMzNWFjZjM3YTViYzEzNzY1ZmE3Zjg5MGQyNDgxNzc4YWQ1NGVl`

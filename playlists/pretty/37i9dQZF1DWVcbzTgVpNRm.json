@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee, Marc Anthony",
-  "num_followers": 2094826,
+  "num_followers": 2094981,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmJmMTEwNDQ1Yzg5N2VhYzU4N2I3YWQxMDQ2NDFiNjI3N2VkMzA5",
+  "snapshot_id": "MCw5OWUwNTdmMDQxMjk1N2Q1Y2VmZGE1NGRmYjFjNmMxMTk5ZDcwOTcx",
   "tracks": [
     {
       "added_at": "2023-04-03 18:29:46",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-04-03 18:29:46",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 263306,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
+      "duration_ms": 207306,
+      "name": "Borro Cassette",
+      "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
     },
     {
       "added_at": "2023-04-03 18:29:46",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-04-03 18:29:46",
       "album": {
-        "name": "Pretty Boy, Dirty Boy",
-        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 207306,
-      "name": "Borro Cassette",
-      "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2023-04-03 18:29:46",
@@ -635,6 +635,42 @@
     {
       "added_at": "2023-04-03 18:29:46",
       "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+    },
+    {
+      "added_at": "2023-04-03 18:29:46",
+      "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "La Tortura (feat. Alejandro Sanz)",
+      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
+    },
+    {
+      "added_at": "2023-04-03 18:29:46",
+      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -663,42 +699,6 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
-    },
-    {
-      "added_at": "2023-04-03 18:29:46",
-      "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "La Tortura (feat. Alejandro Sanz)",
-      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
-    },
-    {
-      "added_at": "2023-04-03 18:29:46",
-      "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
       "added_at": "2023-04-03 18:29:46",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2023-04-03 18:29:46",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG"
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 190570,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2023-04-03 18:29:46",
@@ -1463,18 +1459,54 @@
     {
       "added_at": "2023-04-03 18:29:46",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
+      "duration_ms": 190570,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
+    },
+    {
+      "added_at": "2023-04-03 18:29:46",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
+    },
+    {
+      "added_at": "2023-04-03 18:29:46",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2023-04-03 18:29:46",
@@ -1499,22 +1531,6 @@
     {
       "added_at": "2023-04-03 18:29:46",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2023-04-03 18:29:46",
-      "album": {
         "name": "Revelaci\u00f3n - EP",
         "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 186087,
       "name": "Baila Conmigo (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
-    },
-    {
-      "added_at": "2023-04-03 18:29:46",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
     },
     {
       "added_at": "2023-04-03 18:29:46",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-04-03 18:29:46",
       "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 325642,
-      "name": "Oiga, Mire, Vea",
-      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
-    },
-    {
-      "added_at": "2023-04-03 18:29:46",
-      "album": {
         "name": "Ay Mi Dios",
         "url": "https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 252003,
       "name": "Ay Mi Dios",
       "url": "https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU"
+    },
+    {
+      "added_at": "2023-04-03 18:29:46",
+      "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 325642,
+      "name": "Oiga, Mire, Vea",
+      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
     }
   ],
   "unique_name": "Latin Party Anthems",

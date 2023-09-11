@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 
 > The best easy rock from the 1990s\. Cover: Bryan Adams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,509 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,823 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 | 63 | [Stay \(Faraway, So Close!\)](https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:58 |
 | 64 | [If I Had $1,000,000](https://open.spotify.com/track/0KeDuUqEX3P0cKzRD5pEom) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Gordon](https://open.spotify.com/album/42U1vGhrWUN6TeM5mwN691) | 4:26 |
 | 65 | [Can't Get You Off My Mind](https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:34 |
-| 66 | [One Of Us \- Short Version](https://open.spotify.com/track/39aRmixB9qNtCU2t8BmsC1) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [The Best Of Joan Osborne 20th Century Masters The Millennium Collection](https://open.spotify.com/album/2QXG7PMDNdAOangkVnV4Kc) | 5:02 |
-| 67 | [If I Ever Lose My Faith In You](https://open.spotify.com/track/05vL56xSoxthM0r7IfcQjo) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:30 |
+| 66 | [If I Ever Lose My Faith In You](https://open.spotify.com/track/05vL56xSoxthM0r7IfcQjo) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:30 |
+| 67 | [One Of Us \- Short Version](https://open.spotify.com/track/39aRmixB9qNtCU2t8BmsC1) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [The Best Of Joan Osborne 20th Century Masters The Millennium Collection](https://open.spotify.com/album/2QXG7PMDNdAOangkVnV4Kc) | 5:02 |
 | 68 | [Human Touch](https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Human Touch](https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF) | 6:28 |
 | 69 | [6th Avenue Heartache](https://open.spotify.com/track/1qEyqHR1xsj2MC4Qy0dsaI) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:37 |
 | 70 | [I'm The Only One](https://open.spotify.com/track/4veE1jrMbVSy9FRCiYDGkD) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Yes I Am](https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD) | 4:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 | 79 | [Come To My Window](https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Yes I Am](https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD) | 3:56 |
 | 80 | [Lucky Man](https://open.spotify.com/track/0bw1li9y32rw40HGodRShs) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 4:53 |
 
-Snapshot ID: `MCxhYmNkMDZkZTNlNjYwZDAzZGE5OGY2N2NkZTc1ZjdjYmQ5NmY4Nzlh`
+Snapshot ID: `MCxkNjhhMGRlMzUzMzdiZmEzYmRiYWNlOWFhODI1ZmU5NjUwYzcyNTEz`

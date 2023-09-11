@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,399 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,491 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 36 | [Supertones Strike Back](https://open.spotify.com/track/7aTrho0CMMab35UaanDEwu) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Supertones Strike Back, The](https://open.spotify.com/album/4m5KGlpqUtKNT4nrH1Wq8k) | 2:41 |
 | 37 | [Enough](https://open.spotify.com/track/60kuYvjy5UaEKELsHLxd2n) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:20 |
 | 38 | [You Found Me](https://open.spotify.com/track/6A87i6tLzox7U3D0EVTb2G) | [FFH](https://open.spotify.com/artist/4xvNx8d6ZMhOZXUGUBmJby) | [Ready To Fly](https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs) | 3:35 |
-| 39 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 |
-| 40 | [Breathe](https://open.spotify.com/track/0TbBIyH8RXlKV07wM8HAVh) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Worship God](https://open.spotify.com/album/70zjKqpAO7faWjYVbxLHdX) | 3:57 |
+| 39 | [Breathe](https://open.spotify.com/track/0TbBIyH8RXlKV07wM8HAVh) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Worship God](https://open.spotify.com/album/70zjKqpAO7faWjYVbxLHdX) | 3:57 |
+| 40 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 |
 | 41 | [Lord I Lift Your Name on High](https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [Sonicpraise](https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq) | 6:21 |
 | 42 | [Get This Party Started](https://open.spotify.com/track/2Lc71gh10nC31d24a1lYbU) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Momentum](https://open.spotify.com/album/730tFTLjk3HGaJSW2AMiBB) | 2:22 |
 | 43 | [Basic Instructions](https://open.spotify.com/track/1P2U3LMx2Rj3pVmnmT4LSd) | [Burlap To Cashmere](https://open.spotify.com/artist/4onLiJTk4yL72Yu7tc5ifw) | [Anybody Out There?](https://open.spotify.com/album/6conxG5LDeq8o4Jge5KSJe) | 3:59 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 59 | [Gravity](https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn) | 3:20 |
 | 60 | [Goodbye](https://open.spotify.com/track/4T2YM2TrhtxE9QvyptdBos) | [Plankeye](https://open.spotify.com/artist/1BEzx2txNgJpTDRcgP3ub4) | [Relocation](https://open.spotify.com/album/3HNhQynHgqCzawAk6PGIu9) | 4:20 |
 | 61 | [Free At Last \- Live](https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Free At Last \(Live\)](https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD) | 4:44 |
-| 62 | [Love Liberty Disco](https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:43 |
-| 63 | [Butterfly \- Seven Day Jesus Album Version](https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD) | [Seven Day Jesus](https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa) | [Seven Day Jesus](https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP) | 3:30 |
+| 62 | [Butterfly \- Seven Day Jesus Album Version](https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD) | [Seven Day Jesus](https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa) | [Seven Day Jesus](https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP) | 3:30 |
+| 63 | [Love Liberty Disco](https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:43 |
 | 64 | [Speechless](https://open.spotify.com/track/6GhzOYfrReyXf19U4YuGXm) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [\# 1's Vol\. 1](https://open.spotify.com/album/0bYtirzI9EXXCcu3gz8FRP) | 5:06 |
 | 65 | [Into You](https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4) | 3:04 |
 | 66 | [Revive Us](https://open.spotify.com/track/3C6jSw9wdYUEdgtSMjLsZn) | [Anointed](https://open.spotify.com/artist/6GrYT1CB2T0IxumY1MQpZJ) | [Anointed](https://open.spotify.com/album/2E9vqclDxqceNEMbYn6IxB) | 4:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 74 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 |
 | 75 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 
-Snapshot ID: `MCxhYzQ4MGE4YzAxNGI1ZGM4NzgyM2EwMmMyOGQ3NTdjNDMwYWI5MGVj`
+Snapshot ID: `MCxlNzBiYmVhOTg5YTQ5MTE4MWMxZTRiY2U4YTk5ZTE2MzA2MzE3YzI5`

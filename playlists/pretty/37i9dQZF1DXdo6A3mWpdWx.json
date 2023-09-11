@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 662288,
+  "num_followers": 663016,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWU4MGM2NDUyNGMyNmQxYmRiNzFmNzM5NGUyMzcxYzc4YmZhYTM2",
+  "snapshot_id": "MCxiZTNmNTE5ZTM1MjY4ZWJmZDI4ZTEwMmM5NjY1ZjMzOGJhYmQ2MTVi",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Children (Dance Vault Mixes)",
         "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 243266,
       "name": "Children",
       "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "Black or White",
-      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Ghetto Supastar",
         "url": "https://open.spotify.com/album/0bCx3zLZj4wezD07YFrLPM"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "Black or White",
+      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "The Party Album!",
         "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
-        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 170000,
       "name": "The Shoop Shoop Song (It's In His Kiss)",
       "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 221186,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Doctor Jones",
-      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "2 Times (Full Package)",
         "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 230933,
       "name": "2 Times - Original",
       "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Doctor Jones",
+      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "I Wish - Radio Edit",
-      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Homebase",
         "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 270973,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "I Wish - Radio Edit",
+      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
+      },
+      "artists": [
+        {
+          "name": "Real McCoy",
+          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Another Night",
-        "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
       },
       "artists": [
         {
-          "name": "Real McCoy",
-          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Another Night",
-      "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
+      "duration_ms": 204586,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1675,22 +1691,6 @@
       "duration_ms": 212693,
       "name": "Bailamos - From \"Wild Wild West\"",
       "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Lollipop (Candyman)",
-      "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Forever Faithless - The Greatest Hits",
         "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 208506,
       "name": "God Is a DJ",
       "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Lollipop (Candyman)",
+      "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2415,18 +2415,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+        "name": "The Commitments",
+        "url": "https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0"
       },
       "artists": [
         {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+          "name": "The Commitments",
+          "url": "https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX"
+        },
+        {
+          "name": "Andrew Strong",
+          "url": "https://open.spotify.com/artist/7MdthKITrvbzo6v1PG80Te"
         }
       ],
-      "duration_ms": 281613,
-      "name": "My Lovin' (You're Never Gonna Get It)",
-      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
+      "duration_ms": 241866,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2447,22 +2451,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "The Commitments",
-        "url": "https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0"
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
       "artists": [
         {
-          "name": "The Commitments",
-          "url": "https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX"
-        },
-        {
-          "name": "Andrew Strong",
-          "url": "https://open.spotify.com/artist/7MdthKITrvbzo6v1PG80Te"
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
         }
       ],
-      "duration_ms": 241866,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe"
+      "duration_ms": 281613,
+      "name": "My Lovin' (You're Never Gonna Get It)",
+      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
     },
     {
       "added_at": "2022-10-11 00:00:00",

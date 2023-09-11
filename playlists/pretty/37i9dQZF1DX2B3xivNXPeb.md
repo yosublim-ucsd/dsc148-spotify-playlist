@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,571 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,596 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 7 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 |
 | 8 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
 | 9 | [Hard to Handle](https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Dock of the Bay Sessions](https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1) | 2:21 |
-| 10 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
+| 10 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
 | 11 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 |
-| 12 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
+| 12 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
 | 13 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
 | 14 | [Grandma's Hands](https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:01 |
 | 15 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 86 | [Please Love Me Again](https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me Again](https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt) | 3:06 |
 | 87 | [The Love I Need](https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA), [Tiece](https://open.spotify.com/artist/0UbTE69ThKzx2DaD3M496P) | [Girlhood](https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M) | 3:23 |
 | 88 | [Defection](https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW) | 4:05 |
-| 89 | [Taurus](https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/65PxIf97kRctYT8rshapFc) | 3:06 |
-| 90 | [Courtyard Theatre](https://open.spotify.com/track/00eAyad4JN4CFGRdZPFdF9) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Courtyard Theatre](https://open.spotify.com/album/3QD3YNRDTSsYLI30dBYAHm) | 3:09 |
+| 89 | [Courtyard Theatre](https://open.spotify.com/track/00eAyad4JN4CFGRdZPFdF9) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Courtyard Theatre](https://open.spotify.com/album/3QD3YNRDTSsYLI30dBYAHm) | 3:09 |
+| 90 | [Taurus](https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/65PxIf97kRctYT8rshapFc) | 3:06 |
 | 91 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 |
 | 92 | [Scream \(Funk My Life Up\)](https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO) | 3:09 |
 | 93 | [Resting State](https://open.spotify.com/track/2PwJU6fEjoThOXal3axKEf) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Resting State](https://open.spotify.com/album/3RMcQ8d4hH9nK2hBNKx8Gy) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 99 | [King Midas](https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO) | [Martha Reeves & The Sweet Things](https://open.spotify.com/artist/1trYvrkVZhSKtxCVsWqBmN) | [Willie Dynamite \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6FLxZKLlbpS9OjdwhdRbGO) | 4:51 |
 | 100 | [East End Coast](https://open.spotify.com/track/1RSaRPRiGcBT3yK9qIJ68E) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:46 |
 
-Snapshot ID: `MCw2MmEyMmViZmZiOTdkNTQzZmM2MTYxOWU2NWZiMjFjNzE3YTVkNjUx`
+Snapshot ID: `MCw0MTc3MTkzZGM2NDY1MTJkYWY3M2IyZmZhMzczZDFiYTI0YTcwNTUx`

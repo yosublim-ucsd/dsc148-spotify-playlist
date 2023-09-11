@@ -1,12 +1,12 @@
 {
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
-  "num_followers": 519408,
+  "num_followers": 519559,
   "original_name": "Family Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGEyYjczYTgxYjhiZTg5MmRlYWVkZGU1ZTdjYzk3ODc5YmFmNjcx",
+  "snapshot_id": "MCw4MzQ4ZDFjMGE3M2EwNTlmZmQ4YjkxYmRiYjdlMDJiOWUwMThlMWVl",
   "tracks": [
     {
       "added_at": "2023-05-15 11:16:44",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-15 11:16:44",
       "album": {
-        "name": "Road Less Traveled",
-        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
-      },
-      "artists": [
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Road Less Traveled",
-      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
-    },
-    {
-      "added_at": "2023-05-15 11:16:44",
-      "album": {
         "name": "Hot Space",
         "url": "https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 241600,
       "name": "Karma Chameleon",
       "url": "https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a"
+    },
+    {
+      "added_at": "2023-05-15 11:16:44",
+      "album": {
+        "name": "Road Less Traveled",
+        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Road Less Traveled",
+      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
     },
     {
       "added_at": "2023-05-15 11:16:44",

@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 175300,
+  "num_followers": 175440,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjAzNWE5YzBiNzY0NWU3ZGM1NjUxYzBhNzk3ZDZhNjI3NGYyZGRl",
+  "snapshot_id": "MCw5MmU1N2RiN2E5NjMwOWQ1MmI0MjQ4MTc0YmQwNWU0MGI2MmMwNTU1",
   "tracks": [
     {
       "added_at": "2023-09-07 20:59:53",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Avenido",
-        "url": "https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM"
-      },
-      "artists": [
-        {
-          "name": "Aca Seca Trio",
-          "url": "https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA"
-        }
-      ],
-      "duration_ms": 118773,
-      "name": "Maric\u00f3n",
-      "url": "https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Desde Adentro",
         "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 221253,
       "name": "Anoche No Dormi",
       "url": "https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Avenido",
+        "url": "https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM"
+      },
+      "artists": [
+        {
+          "name": "Aca Seca Trio",
+          "url": "https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA"
+        }
+      ],
+      "duration_ms": 118773,
+      "name": "Maric\u00f3n",
+      "url": "https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Paisaje",
-        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
       },
       "artists": [
         {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
         }
       ],
-      "duration_ms": 255400,
-      "name": "Agitando Pa\u00f1uelos",
-      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
+      "duration_ms": 197933,
+      "name": "La Oma",
+      "url": "https://open.spotify.com/track/33m167IeZBbft2xQOuqjX3"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1035,6 +1035,22 @@
       "duration_ms": 416573,
       "name": "Candombe del Olvido",
       "url": "https://open.spotify.com/track/6fdZSdKd2ukOJ9rYH559ru"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Paisaje",
+        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Agitando Pa\u00f1uelos",
+      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
+        "name": "Viajes Por El Mundo",
+        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
       },
       "artists": [
         {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
         }
       ],
-      "duration_ms": 197933,
-      "name": "La Oma",
-      "url": "https://open.spotify.com/track/33m167IeZBbft2xQOuqjX3"
+      "duration_ms": 172800,
+      "name": "Los Ejes de Mi Carreta",
+      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Viajes Por El Mundo",
-        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Los Ejes de Mi Carreta",
-      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 272986,
       "name": "Sue\u00f1ero",
       "url": "https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Arde la Vida",
+        "url": "https://open.spotify.com/album/1EMQS6RLfRhAd5I7AByWRb"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "duration_ms": 147786,
+      "name": "Volver\u00e9 a Salavina",
+      "url": "https://open.spotify.com/track/6ARoKVfaWidfpGqau25soy"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1163,22 +1179,6 @@
       "duration_ms": 200106,
       "name": "Ay Vidita",
       "url": "https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
-        "name": "Arde la Vida",
-        "url": "https://open.spotify.com/album/1EMQS6RLfRhAd5I7AByWRb"
-      },
-      "artists": [
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
-        }
-      ],
-      "duration_ms": 147786,
-      "name": "Volver\u00e9 a Salavina",
-      "url": "https://open.spotify.com/track/6ARoKVfaWidfpGqau25soy"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Zamba para Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Por Siempre....",
         "url": "https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 185186,
       "name": "Jazm\u00edn de Luna",
       "url": "https://open.spotify.com/track/3ia4suHJXrpiNqP3KUCc3t"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Zamba para Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Por Siempre....",
-        "url": "https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Candombe para Jos\u00e9",
-      "url": "https://open.spotify.com/track/5EW32jbF3QnZWQHOQZaO4L"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Los 3 del R\u00edo",
         "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 148933,
       "name": "Serenata Oto\u00f1al",
       "url": "https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Por Siempre....",
+        "url": "https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Candombe para Jos\u00e9",
+      "url": "https://open.spotify.com/track/5EW32jbF3QnZWQHOQZaO4L"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
+        "name": "Los 3 del R\u00edo",
+        "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
+      },
+      "artists": [
+        {
+          "name": "Los 3 Del R\u00edo",
+          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
+        }
+      ],
+      "duration_ms": 218267,
+      "name": "Qu\u00e9 Te Ocurre Amigo M\u00edo",
+      "url": "https://open.spotify.com/track/1kFbnDteYOYeQB5eB1aWs6"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
         "name": "Eternamente Tucu",
         "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 200040,
       "name": "Luna Tucumana",
       "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
-        "name": "Mi Ultima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Altamirano",
-          "url": "https://open.spotify.com/artist/1aI3fe7Zgy101dUMankLRx"
-        }
-      ],
-      "duration_ms": 364226,
-      "name": "Dios a la Una",
-      "url": "https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE"
     }
   ],
   "unique_name": "Folklore de Siempre",

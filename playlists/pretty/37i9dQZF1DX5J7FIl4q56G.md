@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Kvelertak
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,399 likes - 61 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,536 likes - 61 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 16 | [KILLING ALCHEMY](https://open.spotify.com/track/6iBg24cfz07gnXYvHygmBo) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:44 |
 | 17 | [The Descent](https://open.spotify.com/track/7MXtLcQq2O6dXMHw9b2vBt) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [The Descent](https://open.spotify.com/album/0eQ8l8tozi5AKHeRWTlOPZ) | 3:22 |
 | 18 | [Obscurity](https://open.spotify.com/track/1w6mFTbavfCsTTfOWLEFAY) | [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Obscurity](https://open.spotify.com/album/7Il1ko1a6o93Mctrn1pCYP) | 3:17 |
-| 19 | [Wem die Stunde schlägt](https://open.spotify.com/track/7esychrebSF8UTqpzbHxuo) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Wem die Stunde schlägt](https://open.spotify.com/album/3sCa6jIm0xPUjmmKdgg79b) | 5:04 |
+| 19 | [Wem die Stunde schlägt](https://open.spotify.com/track/7JdAWnfRb284FuP9POGL6y) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Richter und Henker](https://open.spotify.com/album/7seaxkZn9NWPsn3jH4QkSk) | 5:04 |
 | 20 | [Undertow \(feat\. King Woman\)](https://open.spotify.com/track/60LTPp9VKjj6aE4oje3lWJ) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek), [King Woman](https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn) | [Undertow \(feat\. King Woman\)](https://open.spotify.com/album/11q5IRxOgpGbGCyY6BZN1W) | 3:41 |
 | 21 | [DEATH WISH](https://open.spotify.com/track/6gRsQUzaSrGT9nUXHdLNvt) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [DEATH WISH](https://open.spotify.com/album/7vtorRsoQsuM5fmM3EbrHa) | 2:51 |
 | 22 | [Desert of Doom](https://open.spotify.com/track/5TfJ1ZK9xHFPnswu595l05) | [Asinhell](https://open.spotify.com/artist/0LDCMz2as9KQgSlX3KJNYx) | [Desert of Doom](https://open.spotify.com/album/0TPzrkRAJec0xZkZxcDfiF) | 4:14 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 60 | [To the Sun](https://open.spotify.com/track/5vs8QzAN9krzgIm1FxVmtG) | [Damnation Plan](https://open.spotify.com/artist/3LhVTmnVEbbCqdpXOB16uX) | [The New Horizon](https://open.spotify.com/album/6GXdc5klfFVUjVOpzGeI6u) | 6:36 |
 | 61 | [Maleza](https://open.spotify.com/track/0FNTjXiR3I7dXqmyHeAGuW) | [Hoguera](https://open.spotify.com/artist/2RKZo5LF5w25L7FBtFJqc6) | [Maleza](https://open.spotify.com/album/4LbaVnE1fVtjAEujj8dU8k) | 3:03 |
 
-Snapshot ID: `MCxhNzg1MzdhMGNmZmQxY2Q5Zjk5MDNkNTE5ZWYxNjQ4NTJjZmFhMWU4`
+Snapshot ID: `MCwwMDE5YWUyNjkxMWQ2NzRjYWUyYzhkNmVkNzkxYzU0M2ViMzNhOTll`

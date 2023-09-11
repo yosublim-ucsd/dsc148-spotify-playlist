@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=prRrjUtGQxujNJuF3xT1rA\">Sarz </a> and <a href=\"https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb?si=QFltAuFqR8-u3XDwv85AeQ\"> Crayon </a>   ",
-  "num_followers": 70545,
+  "num_followers": 70653,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mzk2YTUzY2ZlNjA2Y2MxYTIyMTkzZjZmZDg0MTY2ZTk0MDkxNjY1",
+  "snapshot_id": "MCxhNzRmNGVjYTVhYzIwNTA0MWZkYjhkNTE3NGMyZjNjYjE0OTRkYzQ3",
   "tracks": [
     {
       "added_at": "2023-09-08 07:06:25",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-08 07:06:25",
       "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
-    },
-    {
-      "added_at": "2023-09-08 07:06:25",
-      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
+      "added_at": "2023-09-08 07:06:25",
+      "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2023-09-08 07:06:25",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-09-08 07:06:25",
       "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+    },
+    {
+      "added_at": "2023-09-08 07:06:25",
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-09-08 07:06:25",
       "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
-    },
-    {
-      "added_at": "2023-09-08 07:06:25",
-      "album": {
         "name": "Tequila Ever After",
         "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 162603,
       "name": "Soro",
       "url": "https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis"
-    },
-    {
-      "added_at": "2023-09-08 07:06:25",
-      "album": {
-        "name": "Who Is Your Guy?",
-        "url": "https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        }
-      ],
-      "duration_ms": 160407,
-      "name": "Who Is Your Guy?",
-      "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"
     },
     {
       "added_at": "2023-09-08 07:06:25",
@@ -1051,6 +1035,22 @@
       "duration_ms": 166153,
       "name": "Omo Ope (feat. Olamide)",
       "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
+    },
+    {
+      "added_at": "2023-09-08 07:06:25",
+      "album": {
+        "name": "Who Is Your Guy?",
+        "url": "https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "duration_ms": 160407,
+      "name": "Who Is Your Guy?",
+      "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"
     },
     {
       "added_at": "2023-09-08 07:06:25",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-09-08 07:06:25",
       "album": {
-        "name": "Colors (My Baby) / Loyal",
-        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 164240,
-      "name": "Colors (My Baby)",
-      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
-    },
-    {
-      "added_at": "2023-09-08 07:06:25",
-      "album": {
         "name": "Folake",
         "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 168979,
       "name": "Folake",
       "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
+    },
+    {
+      "added_at": "2023-09-08 07:06:25",
+      "album": {
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     }
   ],
   "unique_name": "Gbedu",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,795 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,827 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 23 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 24 | [STOR MAN](https://open.spotify.com/track/3Ogy0Sog7JmnXBn43Dmyv0) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [STOR MAN](https://open.spotify.com/album/2zkfMfrIQicYXK6tEDlavG) | 3:03 |
 | 25 | [Andas in andas ut](https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Andas in andas ut](https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen) | 2:36 |
-| 26 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 26 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 27 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 28 | [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 |
 | 29 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 |
 | 50 | [Under någon ny](https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Under någon ny](https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA) | 4:07 |
 
-Snapshot ID: `MCw1YzlmODBkY2NhZDA4ZjQ5ZWMwZDY5ZjYyM2Q4ZmFhOGIyZjE3ODk1`
+Snapshot ID: `MCxhOGU4NmZjYmJmM2FmNjMxMGI3MmFiZDkxYzdiOTA5ZDJkNTU4Y2U2`

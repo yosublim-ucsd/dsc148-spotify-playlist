@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > 2014 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,184 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,201 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 22 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 |
 | 23 | [Cold Cold Man](https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:50 |
 | 24 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
-| 25 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
-| 26 | [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 |
+| 25 | [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 |
+| 26 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
 | 27 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 |
 | 28 | [Shades Of Cool](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:42 |
 | 29 | [Someone New](https://open.spotify.com/track/2DNXgvkyv35vTWvdgjs7qn) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:42 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 62 | [Under The Pressure](https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 8:52 |
 | 63 | [Inside Out](https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [They Want My Soul](https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma) | 5:01 |
 | 64 | [A Dream of You and Me](https://open.spotify.com/track/44GeTdr7MktZDqNUkLaj5h) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc) | 3:59 |
-| 65 | [Adult Diversion](https://open.spotify.com/track/0otn0qLAM0yAXHNSiRsHwq) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:27 |
-| 66 | [Do You Feel It?](https://open.spotify.com/track/3lOok0REf4j3790abX26PR) | [Chaos Chaos](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E) | [Committed to the Crime](https://open.spotify.com/album/061IeHu2QcmToSRzRkzeqM) | 4:10 |
+| 65 | [Do You Feel It?](https://open.spotify.com/track/3lOok0REf4j3790abX26PR) | [Chaos Chaos](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E) | [Committed to the Crime](https://open.spotify.com/album/061IeHu2QcmToSRzRkzeqM) | 4:10 |
+| 66 | [Adult Diversion](https://open.spotify.com/track/0otn0qLAM0yAXHNSiRsHwq) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:27 |
 | 67 | [Step](https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 4:11 |
 | 68 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
 | 69 | [Fantasy](https://open.spotify.com/track/11OoUqXLghsFEEh47JeALh) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [Urban Flora](https://open.spotify.com/album/2VsXWsaXURPYoSjjDI2Cjz) | 3:38 |
 | 70 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 |
 | 71 | [I Forget Where We Were](https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 4:41 |
 | 72 | [Coming of Age](https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:40 |
-| 73 | [Never Catch Me](https://open.spotify.com/track/1KOqY0QTSadQFRgbNw1sLh) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [You're Dead!](https://open.spotify.com/album/7DFT5wc0jn6U7DqooS8y6l) | 3:54 |
-| 74 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
+| 73 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
+| 74 | [Never Catch Me](https://open.spotify.com/track/1KOqY0QTSadQFRgbNw1sLh) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [You're Dead!](https://open.spotify.com/album/7DFT5wc0jn6U7DqooS8y6l) | 3:54 |
 | 75 | [All the Rage Back Home](https://open.spotify.com/track/30rUH583B1TFoisTeBfuA2) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [El Pintor](https://open.spotify.com/album/0YAtJCLY8ogFUjdopdHsyS) | 4:22 |
 | 76 | [Peaches](https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:45 |
 | 77 | [Pools](https://open.spotify.com/track/7jO2B8Xgfu7D9vj60XiG7Y) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 99 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 |
 | 100 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 |
 
-Snapshot ID: `MCw2MjM5YmMxNGY5M2Q2MTcyODNjYWUyNzM0YWQwZjU2NmRmNzBiMDAx`
+Snapshot ID: `MCw2ZDUzZDM2ZWJkOWU3ZGQ4OWYxNzQzYjBlZmE1NWFhZDI0NzM1ODEw`

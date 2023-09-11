@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,922 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,979 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 47 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 |
 | 48 | [i wish you cheated](https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated](https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy) | 3:10 |
 | 49 | [Daddy’s a Psycho](https://open.spotify.com/track/6jYo2opycXJs1wj2jENEiq) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 4:19 |
-| 50 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 50 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 51 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
 | 52 | [Forget About Your Ex](https://open.spotify.com/track/4jGTVQukYNwAR1PiiEyFxH) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Forget About Your Ex](https://open.spotify.com/album/1fcNVmoVeZmOnXBSiU4NU5) | 2:27 |
 | 53 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 |
 | 80 | [4runner](https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7HI6B7UBPjpK0I4PoTfsVu) | 4:25 |
 
-Snapshot ID: `MCwyNzA2NzUyZDEwYTA2OWQwNjRiMmJhMjFhNGQ2NDYwZDk3ZWZjZDBl`
+Snapshot ID: `MCw2N2Y5NzY4MjMxOTQzNzEwMzU2YjkzMGQyZDAzNmVlZWUwODk0MjU1`

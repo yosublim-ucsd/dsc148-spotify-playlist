@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,107 likes - 125 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,170 likes - 125 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,16 +114,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 104 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
 | 105 | [It'll Work Itself Out](https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1) | 3:02 |
 | 106 | [Molly](https://open.spotify.com/track/3rbcS4sYF7L86YGajPqJwR) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Everything I Want](https://open.spotify.com/album/1t3j5GWx4XuMIxhVlbDAtZ) | 3:04 |
-| 107 | [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:31 |
-| 108 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
+| 107 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
+| 108 | [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:31 |
 | 109 | [Two of Us On the Run](https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez) | 4:35 |
 | 110 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
 | 111 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 |
 | 112 | [ROLLERCOASTER](https://open.spotify.com/track/6rEHgFrezCmpYhkckeXw10) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:48 |
-| 113 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
-| 114 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
-| 115 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
-| 116 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 |
+| 113 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
+| 114 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
+| 115 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 |
+| 116 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
 | 117 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 |
 | 118 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 |
 | 119 | [First Defeat](https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y) | 4:03 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 124 | [Breakers Roar](https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:32 |
 | 125 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 |
 
-Snapshot ID: `MCwwYzI1NjUwNmRhOGU2MTA1NGU0OGMwZmViMmVlMDgyZmRlYWFiY2Y4`
+Snapshot ID: `MCwzZWFkZmM4ZGE2ZDI4OWE5OGE0NTZiNDE2ZDg3ZDViODVhOGZiMzVi`

@@ -1626,10 +1626,28 @@
       ],
       "date_added": "2019-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 484293,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC"
+    },
+    {
+      "album": {
+        "name": "Jazz Volume: Herbie Hancock",
+        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484786,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/4sZAoJfCLnnoULnkcA8lwa"
     },
     {
       "album": {

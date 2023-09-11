@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,982 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,040 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 29 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
 | 30 | [Alguien Más](https://open.spotify.com/track/0Z2vb8bWllb0UCgnWV2YLV) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/6V0njdk0lZt3ea8AVdFTe5) | 2:12 |
 | 31 | [Si Nos Vamos](https://open.spotify.com/track/1PssPMY2c6vBIdfipUMR3X) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Si nos vamos](https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ) | 2:46 |
-| 32 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 |
-| 33 | [Los Mejores Años](https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Los Mejores Años](https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR) | 3:22 |
+| 32 | [Los Mejores Años](https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Los Mejores Años](https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR) | 3:22 |
+| 33 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 |
 | 34 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
 | 35 | [Me Gustas Un Chingo](https://open.spotify.com/track/1UE7zm8d5bhuM1vskPLOUy) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Me Gustas Un Chingo](https://open.spotify.com/album/3p95DVCmGDAUhU8tcux7kY) | 3:19 |
 | 36 | [SUFICIENTEPUNTOWAV](https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 4:00 |
 | 37 | [No Quiero Olvidarte](https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [No Quiero Olvidarte](https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb) | 3:50 |
 | 38 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
 | 39 | [Despierto](https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp) | 3:19 |
-| 40 | [de mi cabeza no te vas](https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [de mi cabeza no te vas](https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e) | 2:31 |
-| 41 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 40 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 41 | [de mi cabeza no te vas](https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [de mi cabeza no te vas](https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e) | 2:31 |
 | 42 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
 | 43 | [La Estrella del Show](https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [La Estrella del Show](https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf) | 2:57 |
 | 44 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 |
@@ -59,19 +59,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 49 | [Niña de Mis Ojos](https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Niña de Mis Ojos](https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6) | 3:13 |
 | 50 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 |
 | 51 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 |
-| 52 | [tensión](https://open.spotify.com/track/17POGo5ALqlJWhUhmH7Zbq) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 3:07 |
-| 53 | [superman](https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 1:33 |
-| 54 | [Si Volviera A Conocerte](https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Si Volviera A Conocerte](https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4) | 3:11 |
-| 55 | [qué tal te va??](https://open.spotify.com/track/5CoyINOf5MRUEOqLMuxtTc) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [qué tal te va??](https://open.spotify.com/album/5SRpkRTktR45a6LnckxzFU) | 3:30 |
+| 52 | [superman](https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 1:33 |
+| 53 | [tensión](https://open.spotify.com/track/17POGo5ALqlJWhUhmH7Zbq) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 3:07 |
+| 54 | [qué tal te va??](https://open.spotify.com/track/5CoyINOf5MRUEOqLMuxtTc) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [qué tal te va??](https://open.spotify.com/album/5SRpkRTktR45a6LnckxzFU) | 3:30 |
+| 55 | [Si Volviera A Conocerte](https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Si Volviera A Conocerte](https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4) | 3:11 |
 | 56 | [Casa](https://open.spotify.com/track/1JIfQxIYJbUf8RqCR4onIk) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Claro](https://open.spotify.com/album/6z4WRLPcQhk4LEYWKvbLAU) | 4:03 |
 | 57 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 |
 | 58 | [luna de miel](https://open.spotify.com/track/7GbwfqWyFodSvKZVxvgNyw) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 2:35 |
 | 59 | [La Mitad](https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que No Te Dije](https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315) | 2:56 |
 | 60 | [Solo Tu](https://open.spotify.com/track/2EXBHEndxcIlOF9H3QwARz) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:13 |
-| 61 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 |
-| 62 | [terco](https://open.spotify.com/track/5UIVNKCKEJpbNJlSTBJYk5) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:27 |
+| 61 | [terco](https://open.spotify.com/track/5UIVNKCKEJpbNJlSTBJYk5) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:27 |
+| 62 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 |
 | 63 | [Barbed Wire](https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 3:22 |
 | 64 | [Hero](https://open.spotify.com/track/3GcTV9SdhkhGwFZVZ14Kzc) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Hero](https://open.spotify.com/album/4BKSx1fa1slV2v0a8lBx3V) | 2:36 |
 | 65 | [Hate Being In Love](https://open.spotify.com/track/1lCOpGK9fuqFb7Obfxk6jn) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 3:00 |
 
-Snapshot ID: `MCwyNDgzYjFhZTAyNmE4OGNkOTUyZDNmNzM5NzhmN2Q5MTY2OWRiMDFh`
+Snapshot ID: `MCwyOTA4MzFlY2M1NjQ4NWZjZDgyM2M2MmVkMmU2YTdhMDZhNWI4YmM5`

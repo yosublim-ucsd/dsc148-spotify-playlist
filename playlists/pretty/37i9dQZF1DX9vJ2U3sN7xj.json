@@ -1,12 +1,12 @@
 {
   "description": "nos fuimos de fiesta con Alex Favela, Grupo Marca Registrada & Joaqin Medina\ud83c\udf89",
-  "num_followers": 951272,
+  "num_followers": 951361,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzQ3ZmM5NjMyMzdmZDI2NGRkMGQ2YWJlMWRjNGQ5MWNhMTljM2Jm",
+  "snapshot_id": "MCw4MDE1ZTY1ZTFmZTVjNDNjNWE3ZGNjYzE2ODZjODU4ZjhiNDJlMTY3",
   "tracks": [
     {
       "added_at": "2023-09-08 06:08:09",
@@ -1207,8 +1207,8 @@
     {
       "added_at": "2023-09-08 06:08:09",
       "album": {
-        "name": "C\u00d3MO SE SIENTE (Remix)",
-        "url": "https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI"
+        "name": "Ex-Special",
+        "url": "https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp"
       },
       "artists": [
         {
@@ -1216,13 +1216,13 @@
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 227520,
-      "name": "C\u00d3MO SE SIENTE - Remix",
-      "url": "https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC"
+      "duration_ms": 229626,
+      "name": "Ex-Special",
+      "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
     },
     {
       "added_at": "2023-09-08 06:08:09",
@@ -1419,8 +1419,8 @@
     {
       "added_at": "2023-09-08 06:08:09",
       "album": {
-        "name": "Ex-Special",
-        "url": "https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp"
+        "name": "C\u00d3MO SE SIENTE (Remix)",
+        "url": "https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI"
       },
       "artists": [
         {
@@ -1428,13 +1428,13 @@
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 229626,
-      "name": "Ex-Special",
-      "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
+      "duration_ms": 227520,
+      "name": "C\u00d3MO SE SIENTE - Remix",
+      "url": "https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC"
     },
     {
       "added_at": "2023-09-08 06:08:09",
@@ -1487,34 +1487,6 @@
     {
       "added_at": "2023-09-08 06:08:09",
       "album": {
-        "name": "LA BABY",
-        "url": "https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "LA BABY",
-      "url": "https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi"
-    },
-    {
-      "added_at": "2023-09-08 06:08:09",
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -1543,6 +1515,34 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2023-09-08 06:08:09",
+      "album": {
+        "name": "LA BABY",
+        "url": "https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "LA BABY",
+      "url": "https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi"
     },
     {
       "added_at": "2023-09-08 06:08:09",
@@ -1579,6 +1579,22 @@
       "duration_ms": 180672,
       "name": "VISTA AL MAR",
       "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
+    },
+    {
+      "added_at": "2023-09-08 06:08:09",
+      "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
     },
     {
       "added_at": "2023-09-08 06:08:09",
@@ -1647,26 +1663,6 @@
     {
       "added_at": "2023-09-08 06:08:09",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2023-09-08 06:08:09",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1707,18 +1703,22 @@
     {
       "added_at": "2023-09-08 06:08:09",
       "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2023-09-08 06:08:09",
@@ -2015,22 +2015,18 @@
     {
       "added_at": "2023-09-08 06:08:09",
       "album": {
-        "name": "MI EXXX",
-        "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 194470,
-      "name": "MI EXXX",
-      "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2023-09-08 06:08:09",
@@ -2063,18 +2059,22 @@
     {
       "added_at": "2023-09-08 06:08:09",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+        "name": "MI EXXX",
+        "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+      "duration_ms": 194470,
+      "name": "MI EXXX",
+      "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
     }
   ],
   "unique_name": "Fiesta",

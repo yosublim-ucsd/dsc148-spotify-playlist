@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 78763,
+  "num_followers": 78818,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Njg5ZjRhN2Q0ZWFhMzRiOWM4OWRhYzdiYWQ3OWZmMDE2ZmI3MWU3",
+  "snapshot_id": "MCw0YjQ4NGJmZWExYjUwYWNlMDFmYWY5ZjQ5NzkxZWMyNGNjMGY3Y2M1",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "At The Crossroads: The Blues Of Robert Johnson",
-        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
+        "name": "Nothin' But Blood (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5CHhtV2aaZ30s7LKKTO7OC"
       },
       "artists": [
         {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+          "name": "Scott H. Biram",
+          "url": "https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf"
         }
       ],
-      "duration_ms": 268133,
-      "name": "Sweet Home Chicago",
-      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
+      "duration_ms": 252640,
+      "name": "Jack Of Diamonds",
+      "url": "https://open.spotify.com/track/7zNPzW0wjmeZXtALBAwBM7"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Nothin' But Blood (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5CHhtV2aaZ30s7LKKTO7OC"
+        "name": "At The Crossroads: The Blues Of Robert Johnson",
+        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
       },
       "artists": [
         {
-          "name": "Scott H. Biram",
-          "url": "https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf"
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
         }
       ],
-      "duration_ms": 252640,
-      "name": "Jack Of Diamonds",
-      "url": "https://open.spotify.com/track/7zNPzW0wjmeZXtALBAwBM7"
+      "duration_ms": 268133,
+      "name": "Sweet Home Chicago",
+      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Bad Girl Blues - Remastered",
-      "url": "https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Don't Let The Bossman Get You Down!",
         "url": "https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 176933,
       "name": "Devil's Slide",
       "url": "https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Bad Girl Blues - Remastered",
+      "url": "https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx"
     }
   ],
   "unique_name": "Slide Guitar Heroes",

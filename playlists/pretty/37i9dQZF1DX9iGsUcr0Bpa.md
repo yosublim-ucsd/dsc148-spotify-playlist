@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Lil Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,977 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,083 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 20 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 |
 | 21 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
 | 22 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
-| 23 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
+| 23 | [Funkdafied](https://open.spotify.com/track/29VrHhpC5AS9b7XJYDPhqb) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Funkdafied](https://open.spotify.com/album/3wQuZdfDboB8bo5MPTUpgA) | 3:05 |
 | 24 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
 | 25 | [Supersonic](https://open.spotify.com/track/3G3lahQSMk4BHnap1i853u) | [J.J\. Fad](https://open.spotify.com/artist/2eynOGnZLqDuEJwbRHlHN1) | [Supersonic The Album](https://open.spotify.com/album/0iYRcCHvNapsAaN15ChZOH) | 3:52 |
 | 26 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 28 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 |
 | 29 | [Here We Go \(feat\. Kelly Rowland\)](https://open.spotify.com/track/6b3CWHNAKiJRqmgz6ZcWaB) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [The Glamorest Life](https://open.spotify.com/album/7lxPWM0F06HwejiYAroSha) | 3:50 |
 | 30 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
-| 31 | [Funkdafied](https://open.spotify.com/track/29VrHhpC5AS9b7XJYDPhqb) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Funkdafied](https://open.spotify.com/album/3wQuZdfDboB8bo5MPTUpgA) | 3:05 |
+| 31 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
 | 32 | [Oh Yeah](https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 4:20 |
 | 33 | [Satisfaction](https://open.spotify.com/track/0klzutEUO6IX3QSmtRDFrq) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Eve\-Olution](https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR) | 4:18 |
 | 34 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [Cha Cha Cha](https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [The Very Best Of MC Lyte](https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4) | 3:00 |
 | 50 | [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp) | 4:29 |
 
-Snapshot ID: `MCxkMDNjNTA0ZDE1ZmZiMzFiMGJjMGViYjhhZDkwMjMzYzY1ZmM5ZWUx`
+Snapshot ID: `MCw1MWI4YWMxODE0Y2RmZGI2NTA1NjBmY2RkNzkyZDFhMTY0MDU4Yjc2`

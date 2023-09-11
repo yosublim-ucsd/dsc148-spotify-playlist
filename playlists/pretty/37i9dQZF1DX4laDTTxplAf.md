@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4laDTTxplAf.md) - [plain]
 
 > All 00s, all ballads\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,658 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,764 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4laDTTxplAf.md) - [plain]
 | 14 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 |
 | 15 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
 | 16 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
-| 17 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
-| 18 | [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 |
+| 17 | [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 |
+| 18 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
 | 19 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
 | 20 | [With You](https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:12 |
 | 21 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:02 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4laDTTxplAf.md) - [plain]
 | 44 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
 | 45 | [Incomplete](https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Never Gone](https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV) | 3:59 |
 | 46 | [The Heart of Life](https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:18 |
-| 47 | [Collide](https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All The World Now](https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn) | 4:09 |
-| 48 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 |
+| 47 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 |
+| 48 | [Collide](https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All The World Now](https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn) | 4:09 |
 | 49 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 |
 | 50 | [Hurt](https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 4:03 |
 | 51 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4laDTTxplAf.md) - [plain]
 | 69 | [I Wanna Be With You](https://open.spotify.com/track/4du0TY3NTgvQGlelrBHfDL) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [I Wanna Be With You](https://open.spotify.com/album/4XbSwLzvznYCophbz8ElMV) | 4:12 |
 | 70 | [Gone](https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:52 |
 
-Snapshot ID: `MCw3ZTk0YTc3OTJkMTg5ZDI1MTkwMThhMTNlM2VhNGU5YThhMjQ4OTg2`
+Snapshot ID: `MCw4NmJhNDUzYjMyMTliMDg1NzAzN2U4MjAwZWUxYWU1YWY2Y2IzOTZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,597 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,596 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 49 | [Breathe](https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:36 |
 | 50 | [Pulse](https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Pulse](https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx) | 4:22 |
 
-Snapshot ID: `MCxjNmI1MmFjOTc3ZjIyMWQ1ZGE2N2RmYmVkYTFmM2RmZTU4ZjljZTRh`
+Snapshot ID: `MCxhODgzNTc5ZTVkYzQ2ZWY4YTY3MWY3NGUwNWViYTQ4MjZiZjhlNzVj`

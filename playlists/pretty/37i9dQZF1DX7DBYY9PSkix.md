@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 
 > Music to get your heart started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,319 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,349 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 74 | [Anywhere With You](https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 3:29 |
 | 75 | [Down To One](https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:41 |
 
-Snapshot ID: `MCw5ZTY0MDE1ZDU4NGNkNDRiMTQ4YTNiNDQ1NWMwMGQxMDE4ODQzZDBl`
+Snapshot ID: `MCw3YmU3NGIwYjY1YmZlY2E2M2VmMTA5YWU2ZTE0Njc2OGI5MDU5MDg3`

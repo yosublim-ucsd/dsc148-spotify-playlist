@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 43562,
+  "num_followers": 43682,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWYzOGY1NDA1OGQxOTE4YmJlYjg3NDFhNGIzMTQwMzU1MDNiMWY2",
+  "snapshot_id": "MCwyMWQzOWZmM2FjMDMwM2M3NjFiMzg4NWNmNWQyYjE0OGRhMTY2NWNi",
   "tracks": [
     {
       "added_at": "2023-09-08 00:01:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
+        "name": "I Will Pray",
+        "url": "https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 170631,
+      "name": "I Will Pray",
+      "url": "https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 402803,
       "name": "Old Church Basement (feat. Dante Bowe)",
       "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "I Will Pray",
-        "url": "https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 170631,
-      "name": "I Will Pray",
-      "url": "https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "Jesus Oh",
-        "url": "https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 255384,
-      "name": "Jesus Oh",
-      "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
         "name": "TOBECHUKWU",
         "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 237725,
       "name": "Everything (Amen)",
       "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
+        "name": "Alagbara (feat. Lyrical HI) [Live]",
+        "url": "https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk"
+      },
+      "artists": [
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "duration_ms": 734122,
+      "name": "Alagbara (feat. Lyrical HI) - Live",
+      "url": "https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
         "name": "No One Like You",
         "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
       },
@@ -879,8 +899,8 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "There's an Overflow",
-        "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
+        "name": "Shout It Loud (Live)",
+        "url": "https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG"
       },
       "artists": [
         {
@@ -888,29 +908,9 @@
           "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 490000,
-      "name": "There's an Overflow",
-      "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "Alagbara (feat. Lyrical HI) [Live]",
-        "url": "https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk"
-      },
-      "artists": [
-        {
-          "name": "Onos",
-          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
-        },
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
-        }
-      ],
-      "duration_ms": 734122,
-      "name": "Alagbara (feat. Lyrical HI) - Live",
-      "url": "https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4"
+      "duration_ms": 370000,
+      "name": "I Know Who I Am - Live",
+      "url": "https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -983,6 +983,26 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
+        "name": "Yhwh",
+        "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 583858,
+      "name": "Yhwh",
+      "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
         "name": "The Kadosh (Live)",
         "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
       },
@@ -1019,42 +1039,6 @@
       "duration_ms": 466666,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "Yhwh",
-        "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 583858,
-      "name": "Yhwh",
-      "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "Shout It Loud (Live)",
-        "url": "https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "I Know Who I Am - Live",
-      "url": "https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "There's an Overflow",
+        "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 490000,
+      "name": "There's an Overflow",
+      "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
     },
     {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "The Name of Jesus: Sinach Live in Concert",
-        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 626674,
-      "name": "Great Are You Lord (Live)",
-      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
-    },
-    {
       "added_at": "2023-06-16 07:12:46",
       "album": {
         "name": "Apostolos (Sounds of Transition)",
@@ -1279,6 +1263,22 @@
       "duration_ms": 382499,
       "name": "Prophetic Chant (Live)",
       "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "The Name of Jesus: Sinach Live in Concert",
+        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 626674,
+      "name": "Great Are You Lord (Live)",
+      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 360486,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
         "name": "Oil + Water",
         "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 190000,
       "name": "Watching All over Me",
       "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 360486,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
     },
     {
       "added_at": "2023-09-08 00:01:00",

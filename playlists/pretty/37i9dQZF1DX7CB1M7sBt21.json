@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 4765,
+  "num_followers": 4795,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzQ5ZjIwMDhkZDE1ZTU2YjA3YmNiMDAyNWFlMWY0YmQyZmFjNzhi",
+  "snapshot_id": "MCw4ZDkxMTYxZjQyMzhmZDliYWIxMGVlYjU3ZGUxMDk5MjQzNTExMDFi",
   "tracks": [
     {
       "added_at": "2023-09-08 22:45:15",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-09-08 22:45:15",
       "album": {
-        "name": "Off Of My Mind",
-        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
-    },
-    {
-      "added_at": "2023-09-08 22:45:15",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 198635,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
+    },
+    {
+      "added_at": "2023-09-08 22:45:15",
+      "album": {
+        "name": "Off Of My Mind",
+        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2023-09-08 22:45:15",
@@ -1127,30 +1127,6 @@
     {
       "added_at": "2023-09-08 22:45:15",
       "album": {
-        "name": "Don't Cry For Me (with Jason Derulo)",
-        "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 155769,
-      "name": "Don't Cry For Me (with Jason Derulo)",
-      "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
-    },
-    {
-      "added_at": "2023-09-08 22:45:15",
-      "album": {
         "name": "Sweet & Sour (feat. Lauv & Tyga)",
         "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 163228,
       "name": "Sweet & Sour (feat. Lauv & Tyga)",
       "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
+    },
+    {
+      "added_at": "2023-09-08 22:45:15",
+      "album": {
+        "name": "Don't Cry For Me (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 155769,
+      "name": "Don't Cry For Me (with Jason Derulo)",
+      "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
     },
     {
       "added_at": "2023-09-08 22:45:15",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-09-08 22:45:15",
       "album": {
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
+    },
+    {
+      "added_at": "2023-09-08 22:45:15",
+      "album": {
         "name": "I Miss Myself (with HRVY)",
         "url": "https://open.spotify.com/album/0G0ho2sdOWIRRAh1PDTVFd"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 191611,
       "name": "I Miss Myself (with HRVY)",
       "url": "https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l"
-    },
-    {
-      "added_at": "2023-09-08 22:45:15",
-      "album": {
-        "name": "Knockout",
-        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Knockout",
-      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
     },
     {
       "added_at": "2023-09-08 22:45:15",

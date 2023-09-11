@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 328913,
+  "num_followers": 328978,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWQ5OWM3MGFmYmI0NzI1ZTUzYWFjOWFlOTM2MmU0OGNlNGY1N2Uw",
+  "snapshot_id": "MCw5YWVjOWUxZGVjMjYwNWNjZDMxMjEyOGY1NmYxOTRjMWI2MTNjYjVl",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "O Tempo \u00c9 Agora",
+        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Ai, Amor",
+      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Esmeraldas (\u00c1lbum Comentado)",
         "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
       },
@@ -91,18 +107,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "O Tempo \u00c9 Agora",
-        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+        "name": "Mar\u00edlia Mendon\u00e7a - Ao Vivo",
+        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 220566,
-      "name": "Ai, Amor",
-      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
+      "duration_ms": 201904,
+      "name": "Infiel - Ao Vivo",
+      "url": "https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -123,22 +139,6 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Mar\u00edlia Mendon\u00e7a - Ao Vivo",
-        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Infiel - Ao Vivo",
-      "url": "https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Todo Caminho \u00c9 Sorte (\u00e1lbum Comentado)",
-        "url": "https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "50 Reais",
         "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 207104,
       "name": "50 Reais",
       "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Todo Caminho \u00c9 Sorte (\u00e1lbum Comentado)",
+        "url": "https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -523,6 +523,42 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Beijinho no Ombro",
+        "url": "https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE"
+      },
+      "artists": [
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        }
+      ],
+      "duration_ms": 164615,
+      "name": "Beijinho no Ombro",
+      "url": "https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/4Izu6KXDCXGOjSEFUjBvYq"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "Para Pensa e Volta (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2rRA0VNb8RcaUMAmgWFoCL"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Mariana Nolasco",
         "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
       },
@@ -555,42 +591,6 @@
       "duration_ms": 215116,
       "name": "Pra Me Refazer",
       "url": "https://open.spotify.com/track/1KIMRoLleFJCwABBrlAOPI"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/4Izu6KXDCXGOjSEFUjBvYq"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 174178,
-      "name": "Para Pensa e Volta (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2rRA0VNb8RcaUMAmgWFoCL"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Beijinho no Ombro",
-        "url": "https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE"
-      },
-      "artists": [
-        {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
-        }
-      ],
-      "duration_ms": 164615,
-      "name": "Beijinho no Ombro",
-      "url": "https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Elis Por Ela",
-        "url": "https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Maria, Maria",
-      "url": "https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Sempre a Cantar",
         "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 304866,
       "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
       "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Elis Por Ela",
+        "url": "https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Maria, Maria",
+      "url": "https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Rito de Pass\u00e1",
-        "url": "https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm"
-      },
-      "artists": [
-        {
-          "name": "Mc Tha",
-          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
-        }
-      ],
-      "duration_ms": 201235,
-      "name": "Rito de Pass\u00e1",
-      "url": "https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Rouff",
         "url": "https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 280756,
       "name": "As Mais Braba",
       "url": "https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Rito de Pass\u00e1",
+        "url": "https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm"
+      },
+      "artists": [
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+        }
+      ],
+      "duration_ms": 201235,
+      "name": "Rito de Pass\u00e1",
+      "url": "https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Little Electric Chicken Heart",
-        "url": "https://open.spotify.com/album/1oHUngg3flG4Zda1Ukp8vP"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 220451,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/0JCHY20eQD4FvXmoTPwCXz"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Assim Que Se Faz",
         "url": "https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 300626,
       "name": "Assim Que Se Faz",
       "url": "https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Little Electric Chicken Heart",
+        "url": "https://open.spotify.com/album/1oHUngg3flG4Zda1Ukp8vP"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 220451,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/0JCHY20eQD4FvXmoTPwCXz"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1383,6 +1383,26 @@
       "duration_ms": 206192,
       "name": "Preta de Quebrada",
       "url": "https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Boladona",
+        "url": "https://open.spotify.com/album/4xhz8Ge90YWgmDzxUtr5oB"
+      },
+      "artists": [
+        {
+          "name": "Tati Quebra Barraco",
+          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
+        },
+        {
+          "name": "DJ Marlboro",
+          "url": "https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY"
+        }
+      ],
+      "duration_ms": 126520,
+      "name": "Boladona",
+      "url": "https://open.spotify.com/track/19ETbp46uzm9GEoyE12toT"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1463,26 +1483,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Boladona",
-        "url": "https://open.spotify.com/album/4xhz8Ge90YWgmDzxUtr5oB"
-      },
-      "artists": [
-        {
-          "name": "Tati Quebra Barraco",
-          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
-        },
-        {
-          "name": "DJ Marlboro",
-          "url": "https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY"
-        }
-      ],
-      "duration_ms": 126520,
-      "name": "Boladona",
-      "url": "https://open.spotify.com/track/19ETbp46uzm9GEoyE12toT"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Jaguatirica Print",
         "url": "https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "TODXS",
-        "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Eu Amo Voc\u00ea",
-      "url": "https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ciranda Sem Fim",
         "url": "https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 200000,
       "name": "Meu S\u00e3o Jorge",
       "url": "https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "TODXS",
+        "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Eu Amo Voc\u00ea",
+      "url": "https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Nara (1964)",
+        "url": "https://open.spotify.com/album/0DrdA7FNioWPk1wRaRuHn7"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 129666,
+      "name": "Diz Que Fui Por Ai",
+      "url": "https://open.spotify.com/track/28BSCtSAR6HQmdrt823rg4"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Quer Ir no Meu Show ?",
         "url": "https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 280946,
       "name": "Quer Ir no Meu Show ?",
       "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Nara (1964)",
-        "url": "https://open.spotify.com/album/0DrdA7FNioWPk1wRaRuHn7"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 129666,
-      "name": "Diz Que Fui Por Ai",
-      "url": "https://open.spotify.com/track/28BSCtSAR6HQmdrt823rg4"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Rosa Amarela",
-        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 198603,
-      "name": "Rosa amarela",
-      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "\u00c9 o Que Temos",
         "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 178000,
       "name": "Suave Veneno",
       "url": "https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Rosa Amarela",
+        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 198603,
+      "name": "Rosa amarela",
+      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
     }
   ],
   "unique_name": "Escuta as Minas",

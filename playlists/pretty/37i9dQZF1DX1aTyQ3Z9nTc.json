@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 128042,
+  "num_followers": 128087,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjRiOWFhZGU1Y2M1NTU0MTM2Y2E3MTdlMTU2ZWQ1ZjIzZjcwY2Vj",
+  "snapshot_id": "MCxlZjk3ODY2M2YzZmIwNmZiOTRhMjgxOTVkMmRjM2FkM2JmNWI0NDI1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -23,38 +23,6 @@
       "duration_ms": 210372,
       "name": "COZY",
       "url": "https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
-    },
-    {
-      "added_at": "2023-08-25 17:07:43",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -75,6 +43,38 @@
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+    },
+    {
+      "added_at": "2023-08-25 17:07:43",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "added_at": "2023-08-04 15:55:51",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/2k3IJR9hf34ZfEnTdlcoSK"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "to hell with it",
-        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 138268,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "99.9%",
@@ -203,6 +187,22 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 138268,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI"
     },
     {
       "added_at": "2023-08-25 17:07:43",
@@ -405,26 +405,6 @@
       "url": "https://open.spotify.com/track/6NcwcM29hzGg6nmq6YOz42"
     },
     {
-      "added_at": "2023-04-07 21:25:17",
-      "album": {
-        "name": "Caught A Body (with Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 149110,
-      "name": "Caught A Body (with Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Don't Forget My Love",
@@ -443,6 +423,26 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+    },
+    {
+      "added_at": "2023-04-07 21:25:17",
+      "album": {
+        "name": "Caught A Body (with Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 149110,
+      "name": "Caught A Body (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     },
     {
       "added_at": "2023-04-21 04:00:15",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
     },
     {
-      "added_at": "2023-06-16 06:53:32",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "SATIN",
@@ -495,6 +479,22 @@
       "duration_ms": 173458,
       "name": "ON 10",
       "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
+    },
+    {
+      "added_at": "2023-06-16 06:53:32",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2023-04-07 21:25:17",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
+    },
+    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Remember Your North Star",
@@ -563,22 +579,6 @@
       "duration_ms": 125973,
       "name": "pour up",
       "url": "https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
       "added_at": "2023-04-28 04:00:51",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Been Thinking",
+        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187275,
+      "name": "Been Thinking",
+      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
+    },
+    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Intimidated",
@@ -859,22 +875,6 @@
       "duration_ms": 183773,
       "name": "$payforhaiti (feat. Mach-Hommy)",
       "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Been Thinking",
-        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187275,
-      "name": "Been Thinking",
-      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"
     },
     {
-      "added_at": "2023-06-30 04:31:23",
-      "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 225937,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "never worry",
@@ -1529,20 +1513,20 @@
       "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
     },
     {
-      "added_at": "2022-09-09 04:08:54",
+      "added_at": "2023-06-30 04:31:23",
       "album": {
-        "name": "Running In Waves",
-        "url": "https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN"
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY"
       },
       "artists": [
         {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
         }
       ],
-      "duration_ms": 108645,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ"
+      "duration_ms": 225937,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1559,6 +1543,22 @@
       "duration_ms": 158373,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2"
+    },
+    {
+      "added_at": "2022-09-09 04:08:54",
+      "album": {
+        "name": "Running In Waves",
+        "url": "https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 108645,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1673,6 +1673,22 @@
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 231987,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/00ncxi6KW6Ly1Ts0pOH8si"
+    },
+    {
       "added_at": "2022-08-26 04:23:37",
       "album": {
         "name": "Treat U Good",
@@ -1703,26 +1719,6 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Interstellar.",
-        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
-      },
-      "artists": [
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 235339,
-      "name": "Interstellar.",
-      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -1735,22 +1731,6 @@
       "duration_ms": 178200,
       "name": "Xtasy",
       "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 231987,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/00ncxi6KW6Ly1Ts0pOH8si"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1771,6 +1751,26 @@
       "duration_ms": 284606,
       "name": "All Along (Kaytranada Remix)",
       "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Interstellar.",
+        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
+      },
+      "artists": [
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 235339,
+      "name": "Interstellar.",
+      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
     },
     {
       "added_at": "2023-03-31 06:27:27",
@@ -1809,22 +1809,6 @@
       "url": "https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS"
     },
     {
-      "added_at": "2023-06-30 04:31:23",
-      "album": {
-        "name": "BURNA FONE",
-        "url": "https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg"
-      },
-      "artists": [
-        {
-          "name": "PANIA",
-          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "BURNA FONE",
-      "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "damnshestamil",
@@ -1839,6 +1823,22 @@
       "duration_ms": 174062,
       "name": "Good Love 2.0",
       "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
+    },
+    {
+      "added_at": "2023-06-30 04:31:23",
+      "album": {
+        "name": "BURNA FONE",
+        "url": "https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "BURNA FONE",
+      "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
     },
     {
       "added_at": "2022-11-11 05:00:00",

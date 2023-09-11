@@ -2366,10 +2366,32 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 172515,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/31b42JpcNCgM1AV3l7Ixje"
+    },
+    {
+      "album": {
+        "name": "Not Through Blood",
+        "url": "https://open.spotify.com/album/72qCyvqc1Spr8Vwx97NTTA"
+      },
+      "artists": [
+        {
+          "name": "Pain of Truth",
+          "url": "https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql"
+        },
+        {
+          "name": "Criminal Instinct",
+          "url": "https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172515,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/6ZnFZBuuLMTiBYx4Lx3gMU"
     },
     {
       "album": {

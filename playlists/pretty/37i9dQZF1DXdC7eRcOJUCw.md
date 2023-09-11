@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,937 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,060 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 75 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
 | 76 | [El Herradero](https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA) | [Angeles Ochoa](https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu) | [Divas Rancheras](https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM) | 3:26 |
 | 77 | [Te Solté La Rienda](https://open.spotify.com/track/6x6IUdWGMh5N3Is2WjmLcE) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Interpreta a José Alfredo Jimenez](https://open.spotify.com/album/1Weu2CZyvIIvuSZ9RAPJHF) | 2:53 |
-| 78 | [Ve Y Dile](https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Ti](https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn) | 3:00 |
-| 79 | [Vivir Sin Ti \( Version Acustica \)](https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf) | [Ana Emilia](https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Vivir Sin Ti \( Version Acustica \)](https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq) | 2:52 |
+| 78 | [Vivir Sin Ti \( Version Acustica \)](https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf) | [Ana Emilia](https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Vivir Sin Ti \( Version Acustica \)](https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq) | 2:52 |
+| 79 | [Ve Y Dile](https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Ti](https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn) | 3:00 |
 | 80 | [Con Mis Propias Manos](https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [Tú Sigues Siendo El Mismo](https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp) | 2:42 |
 | 81 | [Entiende Que Ya](https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Entiende Que Ya](https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ) | 2:47 |
 | 82 | [Por Si Me Olvidas](https://open.spotify.com/track/1io5WvDEVRlnPVJl7hYJZI) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Chelo Interpreta A José Alfredo Jiménez](https://open.spotify.com/album/5cXbDdjm9NeZDhpJ2xYxHo) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [Dejémoslo Así](https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Dejémoslo Así](https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1) | 3:29 |
 | 100 | [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 |
 
-Snapshot ID: `MCwxNjBiMDE0Y2MwNDY2MjA0YzMwM2I4MmU5ZDZmNzMyYmZkYTA4ZjQ3`
+Snapshot ID: `MCxkZmU2ODMyMmQ4NjI0MzUxMGZiZWNjOTcxMjRmZDJiZTY3NDNhN2E0`

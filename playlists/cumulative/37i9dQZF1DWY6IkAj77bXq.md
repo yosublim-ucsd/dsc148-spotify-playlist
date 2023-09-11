@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-159 songs - 7 hr 55 min
+160 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Love](https://open.spotify.com/track/1XZhYDzpkGogafOyTDhZtn) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Love](https://open.spotify.com/album/589ZsN7OR27RrA5q3ltkyv) | 2:06 | 2022-07-05 | 2022-07-29 |
 | [Loveliness](https://open.spotify.com/track/2743TnEHSd1VI9Dwrzut7k) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/3IZIg6JCUU2i9KTiRE5CYy) | 2:40 | 2022-07-19 | 2022-07-25 |
 | [Loveliness](https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP) | 2:40 | 2022-11-11 | 2023-06-22 |
+| [Midnight Thoughts](https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Wondrous](https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ) | 2:20 | 2023-08-25 |  |
 | [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 | 2022-12-30 |  |
 | [Monument](https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Cosmos](https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6) | 3:58 | 2023-08-25 |  |
 | [Moonchild's First Flight](https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011) | [Amos Stremann](https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV) | [Moonchild's First Flight](https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc) | 2:52 | 2022-07-05 |  |
@@ -99,7 +100,7 @@
 | [Oh so Quiet](https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Oh so Quiet](https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4) | 3:10 | 2022-07-05 |  |
 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 | 2022-09-13 |  |
 | [Paracosm](https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk) | [Silent Movement](https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw) | [Paracosm](https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv) | 3:13 | 2022-07-19 | 2022-07-28 |
-| [Parallels](https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Parallels](https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq) | 3:36 | 2022-07-05 |  |
+| [Parallels](https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Parallels](https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq) | 3:36 | 2022-07-05 | 2023-09-11 |
 | [Peace](https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Peace](https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9) | 2:23 | 2022-07-19 |  |
 | [Peace](https://open.spotify.com/track/6dmmjM7cgyjdb9vrWKabhV) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Peace](https://open.spotify.com/album/0nc4YQuexF3sAZqd5Pxksk) | 2:23 | 2022-07-05 | 2022-07-29 |
 | [Peace Of Mind](https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:58 | 2022-07-05 |  |

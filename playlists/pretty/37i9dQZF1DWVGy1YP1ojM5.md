@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,077,162 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,077,202 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 7 | [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 |
 | 8 | [Earned It \(Fifty Shades Of Grey\)](https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:37 |
 | 9 | [One Night Only](https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [One Night Only](https://open.spotify.com/album/4r2K4gqWp5VAgOvwtGDhYY) | 3:15 |
-| 10 | [Who Hurt You?](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) | 3:51 |
-| 11 | [B.E.D.](https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:56 |
+| 10 | [B.E.D.](https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:56 |
+| 11 | [Who Hurt You?](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) | 3:51 |
 | 12 | [Rehab \(Winter In Paris\)](https://open.spotify.com/track/0zWbYGQq5O1KQd0iqzgjP6) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 3:00 |
 | 13 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
 | 14 | [Fire & Desire](https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:58 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 68 | [Signs of Love Makin'](https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:05 |
 | 69 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
 | 70 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 |
-| 71 | [I Need You](https://open.spotify.com/track/5G39HqNTankm28Qo3JFWU8) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [I Need You](https://open.spotify.com/album/4YDxEOAH9hQjNMTPqWHcxk) | 3:02 |
+| 71 | [Say You Want Me \- Single Version](https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Say You Want Me](https://open.spotify.com/album/0jKDicrmgUCTSNGRYXffXm) | 3:16 |
 | 72 | [BPW](https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:22 |
-| 73 | [Say You Want Me \- Single Version](https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Say You Want Me](https://open.spotify.com/album/0jKDicrmgUCTSNGRYXffXm) | 3:16 |
-| 74 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 |
-| 75 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
+| 73 | [I Need You](https://open.spotify.com/track/5G39HqNTankm28Qo3JFWU8) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [I Need You](https://open.spotify.com/album/4YDxEOAH9hQjNMTPqWHcxk) | 3:02 |
+| 74 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
+| 75 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 |
 
-Snapshot ID: `MCxjODA2YzBhNmNhNzczZjkwZGE3YzhjZDMyMGNlOWYzZWY5ZTI0OTVk`
+Snapshot ID: `MCxlNThhYzRmYjMxYzgwODhiOWQ0NGVjNmY4MDBjZTY2ZTEwMjBhODI3`

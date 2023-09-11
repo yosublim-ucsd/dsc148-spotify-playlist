@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Manuel Turizo & Grupo Frontera",
-  "num_followers": 25667,
+  "num_followers": 25685,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjU0YjJhM2RhZmMyZWI2YjFlOGYzYzJhYmE3MzJjY2FjNDhjNDc5",
+  "snapshot_id": "MCw1YTFhODFhZWNhZTEwYzA3NGM1OWZlMzQyOWY5OWYwNDA3YWM5NDBm",
   "tracks": [
     {
       "added_at": "2023-09-08 03:39:23",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-09-08 03:39:23",
       "album": {
-        "name": "Por el Resto de Tu Vida",
-        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 197476,
-      "name": "Por el Resto de Tu Vida",
-      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
-    },
-    {
-      "added_at": "2023-09-08 03:39:23",
-      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
+    },
+    {
+      "added_at": "2023-09-08 03:39:23",
+      "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "added_at": "2023-09-08 03:39:23",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-09-08 03:39:23",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
+    },
+    {
+      "added_at": "2023-09-08 03:39:23",
+      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 227814,
       "name": "SI SUPIERAS",
       "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
-    },
-    {
-      "added_at": "2023-09-08 03:39:23",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
     },
     {
       "added_at": "2023-09-08 03:39:23",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-09-08 03:39:23",
       "album": {
-        "name": "Inseparables",
-        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "Inseparables",
-      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
-    },
-    {
-      "added_at": "2023-09-08 03:39:23",
-      "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 197781,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
+    },
+    {
+      "added_at": "2023-09-08 03:39:23",
+      "album": {
+        "name": "Inseparables",
+        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "Inseparables",
+      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
     },
     {
       "added_at": "2023-09-08 03:39:23",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-09-08 03:39:23",
       "album": {
-        "name": "Est\u00e1 Da\u00f1ada (Remix)",
-        "url": "https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 239840,
-      "name": "Est\u00e1 Da\u00f1ada - Remix",
-      "url": "https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb"
-    },
-    {
-      "added_at": "2023-09-08 03:39:23",
-      "album": {
         "name": "La Verdad",
         "url": "https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 141105,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ"
+    },
+    {
+      "added_at": "2023-09-08 03:39:23",
+      "album": {
+        "name": "Est\u00e1 Da\u00f1ada (Remix)",
+        "url": "https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 239840,
+      "name": "Est\u00e1 Da\u00f1ada - Remix",
+      "url": "https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb"
     },
     {
       "added_at": "2023-09-08 03:39:23",

@@ -1,12 +1,12 @@
 {
   "description": "The quintessential list of songs to celebrate commencement. Congrats to the Class of 2023!",
-  "num_followers": 247291,
+  "num_followers": 247294,
   "original_name": "Graduation Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDU0ZDY3NmM2Y2E1MGJhN2ZkYTBkM2E3Y2I2ZGQzNGMxMDRhZGRl",
+  "snapshot_id": "MCxiNjIyYWZjMWYyNmExNGRlNzQxYWU0OGQ3OWM2MmY1MjE0YmFmMjky",
   "tracks": [
     {
       "added_at": "2023-07-28 17:22:24",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-07-28 17:22:24",
       "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Time of Our Lives",
+      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
+    },
+    {
+      "added_at": "2023-07-28 17:22:24",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
-    },
-    {
-      "added_at": "2023-07-28 17:22:24",
-      "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Time of Our Lives",
-      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
     },
     {
       "added_at": "2023-07-28 17:22:24",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-07-28 17:22:24",
       "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "added_at": "2023-07-28 17:22:24",
+      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 254560,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
-    },
-    {
-      "added_at": "2023-07-28 17:22:24",
-      "album": {
-        "name": "September (sped up + slowed)",
-        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 216022,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     },
     {
       "added_at": "2023-07-28 17:22:24",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-07-28 17:22:24",
       "album": {
-        "name": "Red (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "We Are Never Ever Getting Back Together",
-      "url": "https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND"
-    },
-    {
-      "added_at": "2023-07-28 17:22:24",
-      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+    },
+    {
+      "added_at": "2023-07-28 17:22:24",
+      "album": {
+        "name": "Red (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "We Are Never Ever Getting Back Together",
+      "url": "https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND"
     },
     {
       "added_at": "2023-07-28 17:22:24",

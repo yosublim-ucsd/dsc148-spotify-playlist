@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 635467,
+  "num_followers": 635512,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTRhMTJjZWIwZTljOTIyNWQwMDY1N2MxOTU4OTk3NWY1NTM4Yzgy",
+  "snapshot_id": "MCxjZDMxZjdjYTg3MDU3YzMxYzFiNDMxMzA5ODM2OTZhZjVkZWUwYjJh",
   "tracks": [
     {
       "added_at": "2023-09-08 14:41:48",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-09-08 14:41:48",
       "album": {
-        "name": "My Halo Orbit",
-        "url": "https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA"
-      },
-      "artists": [
-        {
-          "name": "DEX 1200",
-          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
-        }
-      ],
-      "duration_ms": 199923,
-      "name": "My Halo Orbit",
-      "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
-    },
-    {
-      "added_at": "2023-09-08 14:41:48",
-      "album": {
         "name": "You're Filled With Courage",
         "url": "https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 157200,
       "name": "You're Filled With Courage",
       "url": "https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0"
+    },
+    {
+      "added_at": "2023-09-08 14:41:48",
+      "album": {
+        "name": "My Halo Orbit",
+        "url": "https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "duration_ms": 199923,
+      "name": "My Halo Orbit",
+      "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
     },
     {
       "added_at": "2023-09-08 14:41:48",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-08 14:41:48",
       "album": {
-        "name": "Morgong\u00e5va",
-        "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
-      },
-      "artists": [
-        {
-          "name": "Juni Ros",
-          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Morgong\u00e5va",
-      "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
-    },
-    {
-      "added_at": "2023-09-08 14:41:48",
-      "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2023-09-08 14:41:48",
       "album": {
+        "name": "Morgong\u00e5va",
+        "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
+      },
+      "artists": [
+        {
+          "name": "Juni Ros",
+          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Morgong\u00e5va",
+      "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
+    },
+    {
+      "added_at": "2023-09-08 14:41:48",
+      "album": {
         "name": "Beautiful Morning",
         "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
       },
@@ -519,6 +519,26 @@
       "duration_ms": 252000,
       "name": "First Day",
       "url": "https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt"
+    },
+    {
+      "added_at": "2023-09-08 14:41:48",
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        },
+        {
+          "name": "Amor Omnia",
+          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
     },
     {
       "added_at": "2023-09-08 14:41:48",
@@ -555,22 +575,18 @@
     {
       "added_at": "2023-09-08 14:41:48",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
+        "name": "Nebulae",
+        "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
       },
       "artists": [
         {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        },
-        {
-          "name": "Amor Omnia",
-          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
+          "name": "Bayesian",
+          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
+      "duration_ms": 162857,
+      "name": "Nebulae",
+      "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
     },
     {
       "added_at": "2023-09-08 14:41:48",
@@ -587,22 +603,6 @@
       "duration_ms": 190000,
       "name": "Upwards",
       "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
-    },
-    {
-      "added_at": "2023-09-08 14:41:48",
-      "album": {
-        "name": "Nebulae",
-        "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
-      },
-      "artists": [
-        {
-          "name": "Bayesian",
-          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Nebulae",
-      "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
     },
     {
       "added_at": "2023-09-08 14:41:48",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-09-08 14:41:48",
       "album": {
-        "name": "The Unforgetting Heart",
-        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
-      },
-      "artists": [
-        {
-          "name": "Michael Hopp\u00e9",
-          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Eventide",
-      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
-    },
-    {
-      "added_at": "2023-09-08 14:41:48",
-      "album": {
         "name": "432 hz Frequency of Universe",
         "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 160345,
       "name": "Precious 432 hz",
       "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
+    },
+    {
+      "added_at": "2023-09-08 14:41:48",
+      "album": {
+        "name": "The Unforgetting Heart",
+        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
+      },
+      "artists": [
+        {
+          "name": "Michael Hopp\u00e9",
+          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
     },
     {
       "added_at": "2023-09-08 14:41:48",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-08 14:41:48",
       "album": {
-        "name": "Time Capsule",
-        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
-      },
-      "artists": [
-        {
-          "name": "Moments Of Divinity",
-          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
-        }
-      ],
-      "duration_ms": 129274,
-      "name": "Time Capsule",
-      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
-    },
-    {
-      "added_at": "2023-09-08 14:41:48",
-      "album": {
         "name": "Myriads",
         "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 175250,
       "name": "Myriads",
       "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
+    },
+    {
+      "added_at": "2023-09-08 14:41:48",
+      "album": {
+        "name": "Time Capsule",
+        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
+      },
+      "artists": [
+        {
+          "name": "Moments Of Divinity",
+          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
+        }
+      ],
+      "duration_ms": 129274,
+      "name": "Time Capsule",
+      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
     },
     {
       "added_at": "2023-09-08 14:41:48",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-08 14:41:48",
       "album": {
-        "name": "Distant Voices",
-        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
-      },
-      "artists": [
-        {
-          "name": "Billie Mercedez",
-          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Distant Voices",
-      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
-    },
-    {
-      "added_at": "2023-09-08 14:41:48",
-      "album": {
         "name": "Elementaries",
         "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 182783,
       "name": "Raising Life",
       "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
+    },
+    {
+      "added_at": "2023-09-08 14:41:48",
+      "album": {
+        "name": "Distant Voices",
+        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
+      },
+      "artists": [
+        {
+          "name": "Billie Mercedez",
+          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Distant Voices",
+      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
     },
     {
       "added_at": "2023-09-08 14:41:48",

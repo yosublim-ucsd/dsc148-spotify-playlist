@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,479 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,626 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 34 | [Long Live the \(D\)Evil](https://open.spotify.com/track/7LSQYhyOhooiBpDva8AJaC) | [Moriarty](https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa) | [Epitaph](https://open.spotify.com/album/6Dx95qiRnig7JG4UoZtyFA) | 3:56 |
 | 35 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 |
 | 36 | [Ain't Nobody \(Loves Me Better\) \- Acoustic](https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\) \[Acoustic\] \[Acoustic Version\]](https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m) | 2:58 |
-| 37 | [Too Much](https://open.spotify.com/track/1Bb8NUOSX6jEdjLtR5TEuQ) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Take A Rest](https://open.spotify.com/album/3Zvzi22zGjr2oql67k8TgK) | 2:34 |
-| 38 | [Laissez\-moi danser](https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Laissez\-moi danser](https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK) | 2:52 |
+| 37 | [Laissez\-moi danser](https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Laissez\-moi danser](https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK) | 2:52 |
+| 38 | [Too Much](https://open.spotify.com/track/1Bb8NUOSX6jEdjLtR5TEuQ) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Take A Rest](https://open.spotify.com/album/3Zvzi22zGjr2oql67k8TgK) | 2:34 |
 | 39 | [The Scientist](https://open.spotify.com/track/7tn1tcxenMwDXrYTOjS3z1) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:16 |
 | 40 | [All We Do](https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:34 |
 | 41 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 59 | [Talk to Me \- Live](https://open.spotify.com/track/07XDzVJcwPqKoDqUjUNJ6V) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Like A Million Dreams \(Live\)](https://open.spotify.com/album/5QRgGWs8fZvzqvcHbIQqey) | 3:49 |
 | 60 | [Double Shifts](https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Double Shifts](https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb) | 3:28 |
 
-Snapshot ID: `MCwwNWNjZjQ1MTk5MzY3MGE5N2MwNjA2MTE5MTViYjM0MzhiYmZkMzJm`
+Snapshot ID: `MCxhNGFiOWMyNzZiMTZjZTkyMTM1YTBjZjc3OWI5MWI4NmE4YmUwZGQ0`

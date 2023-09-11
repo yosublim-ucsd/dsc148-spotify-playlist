@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Ana Macho
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,576 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,590 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 48 | [Amuleto](https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 3:45 |
 | 49 | [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 |
 | 50 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
-| 51 | [NO ERA MÍA](https://open.spotify.com/track/2TzShbXQsmzGbAwa56WcEN) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [NO ERA MÍA](https://open.spotify.com/album/5cJ8XKtyyYo6lOeSc0UTIT) | 3:13 |
-| 52 | [Los Caminos Del Amor](https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Los Caminos Del Amor](https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH) | 3:52 |
-| 53 | [happy](https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 3:20 |
+| 51 | [Los Caminos Del Amor](https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Los Caminos Del Amor](https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH) | 3:52 |
+| 52 | [happy](https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 3:20 |
+| 53 | [NO ERA MÍA](https://open.spotify.com/track/2TzShbXQsmzGbAwa56WcEN) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [NO ERA MÍA](https://open.spotify.com/album/5cJ8XKtyyYo6lOeSc0UTIT) | 3:13 |
 | 54 | [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 |
 | 55 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
 | 56 | [Unx de nosotrxs \(feat\. Javiera Mena\)](https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Uno de nosotros \(feat\. Javiera Mena\)](https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3) | 4:09 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 58 | [Tírame al fondo del mar](https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:27 |
 | 59 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 |
 | 60 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 |
-| 61 | [Cuidaré De Ti](https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Cuidaré De Ti](https://open.spotify.com/album/66t7uYODEltF75JDOSgroj) | 2:28 |
-| 62 | [Fue](https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:51 |
+| 61 | [Fue](https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:51 |
+| 62 | [Cuidaré De Ti](https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Cuidaré De Ti](https://open.spotify.com/album/66t7uYODEltF75JDOSgroj) | 2:28 |
 | 63 | [La Noche](https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn) | [La Divaza](https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM) | [La Noche](https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU) | 2:43 |
 | 64 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
 | 65 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 74 | [Como Cantan Las Aves](https://open.spotify.com/track/2zMSofXM1VvN7UMxhTkGrA) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Como Cantan Las Aves](https://open.spotify.com/album/12uRIWcRGrO7iNwQfRFWLP) | 4:07 |
 | 75 | [Que Sí Que No](https://open.spotify.com/track/4kQkOwwaJWWbLB83doQdlg) | [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Que Sí Que No](https://open.spotify.com/album/0MDs2fahUHeddRisz4l0dF) | 2:43 |
 
-Snapshot ID: `MCxmNzcwZGRmZTg2MjRmYzc1YzU2YmM0Zjk1YWQyNGVhMDNmOWIyM2Ri`
+Snapshot ID: `MCw1MmEwNmY1MTY4Yzk1OGEzYjA1YmZmZDdhYWRlNjg4MmJiYTZjMjNh`

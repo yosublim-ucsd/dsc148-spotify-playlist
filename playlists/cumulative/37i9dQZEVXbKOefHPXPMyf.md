@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-1,528 songs - 3 day 12 hr 44 min
+1,529 songs - 3 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,7 +650,7 @@
 | [JS4E](https://open.spotify.com/track/68e9XUS28xQRV9jghSx0NX) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:57 | 2022-12-13 | 2022-12-24 |
 | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/track/6Uzmod8XYgpEFdCVjYywCI) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/album/3xZKHxoSd1t3QL9wRv1JRa) | 3:06 | 2022-11-03 | 2022-11-17 |
 | [Jugo De Piña](https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi) | [El Super Show De Los Vaskez](https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio) | [3 En 1 Super Show De Los Vaskez](https://open.spotify.com/album/5sFWeLEilmm41a93FXouql) | 4:26 | 2023-01-01 | 2023-01-10 |
-| [Julieta](https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julieta](https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE) | 3:30 | 2023-02-12 |  |
+| [Julieta](https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julieta](https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE) | 3:30 | 2023-02-12 | 2023-09-11 |
 | [Jungle](https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Vs Head Vs Heart](https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8) | 3:22 | 2022-02-18 | 2022-02-21 |
 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 | 2022-03-29 | 2022-04-05 |
 | [Just H\-eaven](https://open.spotify.com/track/2xO8pPZT6R6XAsRAxaqB8q) | [B4SAX](https://open.spotify.com/artist/0b9lA7tWwM7Gycc7GRNpYq) | [Just H\-eaven](https://open.spotify.com/album/2MA9bD8EoPjl2SqT3Q8V3W) | 3:17 | 2023-04-10 | 2023-04-15 |
@@ -1448,6 +1448,7 @@
 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 | 2022-01-09 | 2022-03-05 |
 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 | 2022-05-31 | 2022-06-11 |
 | [VOID](https://open.spotify.com/track/6wmKvtSmyTqHNo44OBXVN1) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 4:07 | 2023-04-25 | 2023-04-27 |
+| [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-10 |  |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-08-02 | 2022-08-17 |
 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 | 2022-01-29 | 2022-02-07 |
 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 | 2022-02-04 | 2022-02-06 |

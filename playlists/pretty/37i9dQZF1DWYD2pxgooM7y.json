@@ -1,12 +1,12 @@
 {
   "description": "Summertime sadness everyday",
-  "num_followers": 16748,
+  "num_followers": 16824,
   "original_name": "Sun Kissed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDcxOTYwMDBlZDc0NWM5ZmU3YWUyY2I3MmFkYWFkZWI1OGY0MGE3",
+  "snapshot_id": "MCxlZTczNjRmMDFhNzg2OTZlMmIxMDMyMzQ5OTNjYzM1NjI0MjY5NjM5",
   "tracks": [
     {
       "added_at": "2022-09-15 16:22:52",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-09-15 16:22:52",
       "album": {
-        "name": "Don't Kill the Magic",
-        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
-    },
-    {
-      "added_at": "2022-09-15 16:22:52",
-      "album": {
         "name": "Chase Atlantic",
         "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
+    },
+    {
+      "added_at": "2022-09-15 16:22:52",
+      "album": {
+        "name": "Don't Kill the Magic",
+        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
     },
     {
       "added_at": "2022-09-15 16:22:52",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-15 16:22:52",
       "album": {
-        "name": "Sundress",
-        "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 158205,
-      "name": "Sundress",
-      "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
-    },
-    {
-      "added_at": "2022-09-15 16:22:52",
-      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 212640,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
+    },
+    {
+      "added_at": "2022-09-15 16:22:52",
+      "album": {
+        "name": "Sundress",
+        "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 158205,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
     },
     {
       "added_at": "2022-09-15 16:22:52",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-15 16:22:52",
       "album": {
-        "name": "everything means nothing",
-        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 188343,
-      "name": "hot girl bummer",
-      "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
-    },
-    {
-      "added_at": "2022-09-15 16:22:52",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2022-09-15 16:22:52",
+      "album": {
+        "name": "everything means nothing",
+        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 188343,
+      "name": "hot girl bummer",
+      "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
     },
     {
       "added_at": "2022-09-15 16:22:52",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-09-15 16:22:52",
       "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2022-09-15 16:22:52",
+      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
-    },
-    {
-      "added_at": "2022-09-15 16:22:52",
-      "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 339320,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2022-09-15 16:22:52",

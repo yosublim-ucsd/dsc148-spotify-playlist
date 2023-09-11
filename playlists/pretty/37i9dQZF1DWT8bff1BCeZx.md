@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,053 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,129 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 12 | [Wonderful Wonder](https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Love Song](https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy) | [God of Love](https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H) | 5:37 |
 | 13 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 |
 | 14 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
-| 15 | [Omo Baba](https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4) | 3:15 |
-| 16 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |
+| 15 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |
+| 16 | [Omo Baba](https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4) | 3:15 |
 | 17 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 |
 | 18 | [Who Is on the Lord's Side](https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 10:29 |
 | 19 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 |
 | 50 | [Ese Oluwa / Papa](https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 6:48 |
 
-Snapshot ID: `MCw3ODQxOTFjYzBjYzc1NGE5ZWI0NTYzZmFmMmM3ZWE3MjBhZWYzNjFm`
+Snapshot ID: `MCw4MTBjNWY1MzUyMzZmYThhMmM1NWI2OTdkNDdjNmIzOTY5MzM4Y2Iw`

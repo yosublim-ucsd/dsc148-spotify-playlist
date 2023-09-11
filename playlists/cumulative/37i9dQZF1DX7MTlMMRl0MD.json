@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq"
+      },
+      "artists": [
+        {
+          "name": "Lil Eddie",
+          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203751,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe"
+    },
+    {
+      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -5528,7 +5546,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 231080,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF"

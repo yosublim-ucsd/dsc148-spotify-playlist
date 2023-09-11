@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,082 likes - 51 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,115 likes - 51 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 41 | [Diente de Oro](https://open.spotify.com/track/6c1zmxybUPc2l9YMekf68P) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [Merengues Tipicos Que Hicieron Historia, Vol\. 1](https://open.spotify.com/album/1L0MlXDMU2SiPb91mNjq0Z) | 4:36 |
 | 42 | [Comiendo Gallina](https://open.spotify.com/track/45B4Uym3KHBziu4olVZHNe) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Ídolo Del Pueblo](https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK) | 2:47 |
 | 43 | [Consejo a las Mujeres](https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK) | [Blas Duran & Los Peluches](https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG) | [El Consejo a Las Mujeres](https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7) | 3:33 |
-| 44 | [La Batata](https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 4:10 |
-| 45 | [El Diente de Oro](https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO) | [El Cieguito De Nagua](https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:38 |
+| 44 | [El Diente de Oro](https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO) | [El Cieguito De Nagua](https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:38 |
+| 45 | [La Batata](https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 4:10 |
 | 46 | [Abrete](https://open.spotify.com/track/18uSijEt6xcpnRnd6mnzGd) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt), [Martin Elias](https://open.spotify.com/artist/4w6suuqH0FKKYAwFK2GfkP) | [Abrete](https://open.spotify.com/album/5C3lLZkbzYvUOFj6LQl6O7) | 4:54 |
 | 47 | [Tipico Caliente](https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [La Reina del Soberano](https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv) | 5:05 |
-| 48 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
-| 49 | [Juanita Morel](https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH) | [Trio Reynoso](https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Miguel Santana](https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ) | [Merengues Con el Alma](https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f) | 2:31 |
+| 48 | [Juanita Morel](https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH) | [Trio Reynoso](https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Miguel Santana](https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ) | [Merengues Con el Alma](https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f) | 2:31 |
+| 49 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
 | 50 | [La Correa](https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [60 Éxitos](https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX) | 2:49 |
 | 51 | [Ya No Te Quiero](https://open.spotify.com/track/65BnKBgzomEwHIFeZTI5CT) | [Yiki Lee](https://open.spotify.com/artist/288FjEmxkMZJKZjYfDkd1A) | [Muy Loco](https://open.spotify.com/album/1qJGNCdWQH7U8Wueh2ojCl) | 5:58 |
 
-Snapshot ID: `MCwwYWRiNTY1NDIwZmUxM2RkNTg3NmMyZjEwM2IyMjk1Yjk2OTY4ZDll`
+Snapshot ID: `MCwzMzljYTE5ODFiOTdmZDc5MDY3ZDUwMmE3MDU3YjQ4MGY0ZjFmYzc2`

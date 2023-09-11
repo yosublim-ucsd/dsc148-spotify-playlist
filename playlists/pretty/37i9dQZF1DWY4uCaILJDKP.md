@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,925 likes - 107 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,928 likes - 107 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 58 | [絶唱!なにわで生まれた少女たち](https://open.spotify.com/track/2nAeK63zz8YGcufGW16Y58) | [TACOYAKI RAINBOW](https://open.spotify.com/artist/3Gy9YFDrhJbxoGPm05v3rq) | [絶唱!なにわで生まれた少女たち \(Special Edition\)](https://open.spotify.com/album/1RfkKGbNIT3yhqkkDLyuwi) | 4:34 |
 | 59 | [ジユーダム \- ヒャダインのリリリリ☆リミックス](https://open.spotify.com/track/1fbKHkXE8yHoHyUET6j7yB) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [Kenichi Maeyamada](https://open.spotify.com/artist/0UvCDg9eIE2Su3N3BB0xnT) | [ジユーダム](https://open.spotify.com/album/1SuImeSqFIDjBv1N303Qpa) | 2:28 |
 | 60 | [It's all Love!](https://open.spotify.com/track/2rpEG49FJiRMww5p4sKUWd) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC), [misono](https://open.spotify.com/artist/6kvN5e0vPFKf6Ra4BrINU4) | [It's all Love!](https://open.spotify.com/album/3FD5Xa17HLn8w680UWzNwj) | 4:51 |
-| 61 | [LinQuest 〜やがて伝説へ・・・](https://open.spotify.com/track/1xz7gYwUTADRKhJc6UjGSo) | [LinQ](https://open.spotify.com/artist/05I84aat6qTGKBQM9P4Ynz) | [FRONTIER〜LinQ 第三楽章〜](https://open.spotify.com/album/4Ucb8SJJIfwQIvHX05k4H0) | 4:32 |
+| 61 | [LinQuest 〜やがて伝説へ・・・](https://open.spotify.com/track/3FTnhwwtX4nXEx64a86VoI) | [LinQ](https://open.spotify.com/artist/05I84aat6qTGKBQM9P4Ynz) | [LinQuest 〜やがて伝説へ・・・](https://open.spotify.com/album/1A79qI9M8W1nHxBgCl24AL) | 4:32 |
 | 62 | [パフィピポ山](https://open.spotify.com/track/5qvXB9miZW3TCzaLp1cs3M) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [THE PUFFY](https://open.spotify.com/album/5AJ84yKqqzGMqP6wXEYsor) | 3:43 |
 | 63 | [瞳・華](https://open.spotify.com/track/4mvDffXLnYoQwoqVcaeBin) | [jealkb](https://open.spotify.com/artist/5MOVmd7yqmg2notivSL4Vr) | [V?](https://open.spotify.com/album/0AD9T3Jw2flh4Lul5nn4KB) | 3:37 |
 | 64 | [TOP SECRET](https://open.spotify.com/track/0WXqtcLh7Q6V1587YcQiZ0) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [10th Anniversary ALL TIME BEST / Yellow \[2010\-2020\]](https://open.spotify.com/album/717Bk7GgGixXrprqK5CtWZ) | 3:47 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 106 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 107 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MCxmNjRjNzUwNTU4YTY5YWU1M2Y3ZDEyNjExZDRjNzE5Mzg2Mjg1MGQ4`
+Snapshot ID: `MCw3YzQ2YzFmYzM4YTJlYTRlNmFjNTM1NzdkMmJlOGRmMTkwOWUzZmEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,343 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,488 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 47 | [The Beach Episode](https://open.spotify.com/track/3RndwYA9WJBU66zcqbO0nn) | [GHOST DATA](https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf) | [The Beach Episode](https://open.spotify.com/album/3BdhPzfJtbh21UgnEyFZd9) | 4:01 |
 | 48 | [Emotions](https://open.spotify.com/track/1vxCTGgZMs4LFCAlswRiS2) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Best Before 1998](https://open.spotify.com/album/4MeikwvA8AgiIEPqIaGBxC) | 2:58 |
 | 49 | [Magic City](https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh) | [Lordsun](https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL) | [Magic City](https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ) | 3:37 |
-| 50 | [Sweet Baby!](https://open.spotify.com/track/2qHasYWuyXCwoJ8FYai22K) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Now That I Have You](https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4) | 2:33 |
-| 51 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 |
+| 50 | [FIGHT! 2](https://open.spotify.com/track/45DdNOqLCNfdgOCUJEsypo) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [SUGAR RUSH](https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe) | 2:12 |
+| 51 | [Sweet Baby!](https://open.spotify.com/track/2qHasYWuyXCwoJ8FYai22K) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Now That I Have You](https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4) | 2:33 |
 | 52 | [Crazy Nights](https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N) | [Future Girlfriend Music](https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB) | [Pink Dance EP](https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV) | 2:33 |
 | 53 | [Right on Time](https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [J\-Funk City : Vantage's Edits Collection](https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf) | 3:29 |
-| 54 | [FIGHT! 2](https://open.spotify.com/track/45DdNOqLCNfdgOCUJEsypo) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [SUGAR RUSH](https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe) | 2:12 |
+| 54 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 |
 | 55 | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3) | 2:22 |
 | 56 | [Bounce Is Back](https://open.spotify.com/track/3Vw8ibvQbEfmUCwXpPeC6X) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7) | 3:30 |
 | 57 | [Niito na Gogosanji \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Night Tempo Presents the Showa Groove](https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR) | 3:58 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 84 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
 | 85 | [Flashback](https://open.spotify.com/track/62jdesXaWtAVtMK75zJn4h) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Flashback](https://open.spotify.com/album/4cJIQxksyH35ZHHZuWRkQd) | 3:50 |
 | 86 | [Unlimited](https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Now That I Have You](https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4) | 2:54 |
-| 87 | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt) | 4:00 |
-| 88 | [Shall We Dance?](https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Summer 99](https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM) | 2:31 |
+| 87 | [Shall We Dance?](https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Summer 99](https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM) | 2:31 |
+| 88 | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt) | 4:00 |
 | 89 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
 | 90 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
 | 91 | [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 95 | [What You Need](https://open.spotify.com/track/29ZQPtWGbifq9z4O8nJqfv) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Bae 5](https://open.spotify.com/album/08bVHdOFE6ulzWZf3qbeiN) | 2:41 |
 | 96 | [Virtual World](https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Virtual World](https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm) | 4:05 |
 | 97 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
-| 98 | [La Musique](https://open.spotify.com/track/1kT2lldHeWUXUzCWRql3ey) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [ERA](https://open.spotify.com/album/2Kcqp44sybZLCjNxIgD322) | 3:11 |
-| 99 | [Monstruo Japonés](https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP) | 4:10 |
-| 100 | [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 |
+| 98 | [Monstruo Japonés](https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP) | 4:10 |
+| 99 | [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 |
+| 100 | [La Musique](https://open.spotify.com/track/1kT2lldHeWUXUzCWRql3ey) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [ERA](https://open.spotify.com/album/2Kcqp44sybZLCjNxIgD322) | 3:11 |
 
-Snapshot ID: `MCxjOWE4YWMzMWViZGZiMWVkOGFhMmM4ZDk2YTllMTk0MWY4ZjBlMGY0`
+Snapshot ID: `MCwzNzVlN2I5ZmY5NDBlMDEyNjFiN2Y2NzAxY2M3NDY0YzNjYTk2MTRi`

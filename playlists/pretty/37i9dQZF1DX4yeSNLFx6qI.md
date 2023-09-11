@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,763,028 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,763,172 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,13 +94,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 84 | [Cómo Decirle](https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Limonada](https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA) | 4:01 |
 | 85 | [Por Tu Bien](https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:53 |
 | 86 | [Nunca Voy a Olvidarte \- Primera Fila \- Live Version](https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:57 |
-| 87 | [Regresa](https://open.spotify.com/track/1z9mOl4yaivulHoUBxuQvQ) | [Madison](https://open.spotify.com/artist/0NwGBRhszOv045HeCRAW7n), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Regresa](https://open.spotify.com/album/3Uxs7bly961sChdGGBbfbL) | 3:20 |
-| 88 | [Déjame Llorarte](https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Déjame Llorarte](https://open.spotify.com/album/1fjpRVL4FeqSEH4fcW9dxf) | 3:09 |
+| 87 | [Déjame Llorarte](https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Déjame Llorarte](https://open.spotify.com/album/1fjpRVL4FeqSEH4fcW9dxf) | 3:09 |
+| 88 | [Regresa](https://open.spotify.com/track/1z9mOl4yaivulHoUBxuQvQ) | [Madison](https://open.spotify.com/artist/0NwGBRhszOv045HeCRAW7n), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Regresa](https://open.spotify.com/album/3Uxs7bly961sChdGGBbfbL) | 3:20 |
 | 89 | [Aún me amas](https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Aún me amas](https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw) | 3:40 |
-| 90 | [Corazón descalzo](https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Corazón descalzo](https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj) | 4:14 |
-| 91 | [De la Ilusión Al Miedo](https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [De la Ilusión Al Miedo](https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx) | 4:05 |
-| 92 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
-| 93 | [Rabia](https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Rabia](https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf) | 3:37 |
+| 90 | [Rabia](https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Rabia](https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf) | 3:37 |
+| 91 | [Corazón descalzo](https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Corazón descalzo](https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj) | 4:14 |
+| 92 | [De la Ilusión Al Miedo](https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [De la Ilusión Al Miedo](https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx) | 4:05 |
+| 93 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
 | 94 | [Devuelveme la Vida \(with Antonio Orozco\)](https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Otra Piel](https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ) | 4:06 |
 | 95 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 |
 | 96 | [Amarte y Perderte](https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Amarte y Perderte](https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH) | 3:15 |
 | 100 | [Tomar Distancia](https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Tomar Distancia](https://open.spotify.com/album/6jJ1AQcqFL1Dz9P6t3QIgT) | 2:30 |
 
-Snapshot ID: `MCw0NDg0NjljNWIwNGFlMjI3Yzg1NGZmMGFmMzZjMzNiMTBjZTU5YWU4`
+Snapshot ID: `MCw2NmFhMGExZTExODM0ZTAzOWY1ZGQ2OTJlMDFlZWRkNjVmMjllZGQy`

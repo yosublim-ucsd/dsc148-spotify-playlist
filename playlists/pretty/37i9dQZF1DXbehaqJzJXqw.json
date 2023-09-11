@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 337909,
+  "num_followers": 338263,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWY2M2MzOWRhMjUzNzU3YmJiYTAzZTRkMjdiMzQ2ODcyNjhhYzE5",
+  "snapshot_id": "MCwwNDMzNWFjZjM3YTViYzEzNzY1ZmE3Zjg5MGQyNDgxNzc4YWQ1NGVl",
   "tracks": [
     {
       "added_at": "2023-08-29 11:36:57",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-08-29 11:36:57",
       "album": {
-        "name": "Deux",
-        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
-      },
-      "artists": [
-        {
-          "name": "Enzo Enzo",
-          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Juste quelqu'un de bien",
-      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
-    },
-    {
-      "added_at": "2023-08-29 11:36:57",
-      "album": {
         "name": "Amourettes",
         "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 150973,
       "name": "Cette Nuit l\u00e0",
       "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
+    },
+    {
+      "added_at": "2023-08-29 11:36:57",
+      "album": {
+        "name": "Deux",
+        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
+      },
+      "artists": [
+        {
+          "name": "Enzo Enzo",
+          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Juste quelqu'un de bien",
+      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
     },
     {
       "added_at": "2023-08-29 11:36:57",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-29 11:36:57",
       "album": {
-        "name": "Paris Combo",
-        "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "On N'a Pas Besoin",
-      "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
-    },
-    {
-      "added_at": "2023-08-29 11:36:57",
-      "album": {
         "name": "De La Chanson Et Puis C'Est Tout...",
         "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 150760,
       "name": "Il Faut Du Temps Au Temps",
       "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
+    },
+    {
+      "added_at": "2023-08-29 11:36:57",
+      "album": {
+        "name": "Paris Combo",
+        "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "On N'a Pas Besoin",
+      "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
     },
     {
       "added_at": "2023-08-29 11:36:57",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-29 11:36:57",
       "album": {
-        "name": "N\u00b04",
-        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 146306,
-      "name": "Baudelaire",
-      "url": "https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT"
-    },
-    {
-      "added_at": "2023-08-29 11:36:57",
-      "album": {
         "name": "Paris - I Love You",
         "url": "https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 165466,
       "name": "Un Homme Et Une Femme",
       "url": "https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO"
+    },
+    {
+      "added_at": "2023-08-29 11:36:57",
+      "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 146306,
+      "name": "Baudelaire",
+      "url": "https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT"
     },
     {
       "added_at": "2023-08-29 11:36:57",

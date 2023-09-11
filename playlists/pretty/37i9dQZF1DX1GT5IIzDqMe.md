@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,450 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,478 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [A.M\. Track](https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Protein Valve EP](https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp) | 5:30 |
 | 50 | [SoundwaveZ](https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [ZebrA OctobrA](https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 3:08 |
 
-Snapshot ID: `MCxkMzQxMDJlYjk4NmJjZTAxZmRhYTBiMDk1MDJhNzZhNGM0NzkwZDlk`
+Snapshot ID: `MCxhNTJhNGIxMzRiMmM5OWE5NGExYTNlZjc3MTEwNzdkZWM0ZGVmOTky`

@@ -4,7 +4,7 @@
 
 > Duncan Laurence deze week op de cover van Fresh Pop.
 
-325 songs - 16 hr 18 min
+326 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,8 @@
 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2023-05-18 | 2023-08-18 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 |  |
 | [Used to love you](https://open.spotify.com/track/4laljsUqeYkQLWoI9dh3D0) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Used to love you](https://open.spotify.com/album/7z9sYVzzWxTKJZjW5kC2Jq) | 2:58 | 2023-05-25 | 2023-08-26 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-07 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2023-08-31 |  |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-03-30 | 2023-07-14 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-06 | 2023-07-22 |

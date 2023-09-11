@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 120938,
+  "num_followers": 121079,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2ZhNjE3ZDlhOGVjNTcyYzQyNzdjN2JlMWI4YjU4MTc1ODhiNTJk",
+  "snapshot_id": "MCw2YmIxYTE3NzVlNzAwMGNiNzU5ZjhmMGQ4ZmY2ZDE0YTk4YWVhNzc3",
   "tracks": [
     {
       "added_at": "2023-09-01 05:58:33",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
-        "name": "Aben\u00e7oada",
-        "url": "https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 189919,
-      "name": "Aben\u00e7oada",
-      "url": "https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
         "name": "Dear God (Acoustic)",
         "url": "https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 217373,
       "name": "Dear God - Acoustic",
       "url": "https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "Aben\u00e7oada",
+        "url": "https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 189919,
+      "name": "Aben\u00e7oada",
+      "url": "https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2"
     },
     {
       "added_at": "2023-09-01 05:58:33",

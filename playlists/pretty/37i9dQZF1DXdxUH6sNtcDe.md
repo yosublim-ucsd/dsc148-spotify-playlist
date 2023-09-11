@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > We're celebrating the 20th anniversary of Sara Evan's hit album "Restless" on 2000s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,293 likes - 125 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,675 likes - 125 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 75 | [Nothin' To Lose](https://open.spotify.com/track/7oiCqfE8Wjk8wf0pFTgL2H) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [Josh Gracin](https://open.spotify.com/album/1V4qP0BJJBZsY2LOkcfwE0) | 2:36 |
 | 76 | [Pickin' Wildflowers](https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj) | [Keith Anderson](https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz) | [Three Chord Country and American Rock & Roll](https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y) | 3:05 |
 | 77 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 |
-| 78 | [I Wanna Talk About Me](https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 3:03 |
-| 79 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
+| 78 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
+| 79 | [I Wanna Talk About Me](https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 3:03 |
 | 80 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 |
 | 81 | [Something to Be Proud Of](https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [You Do Your Thing](https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG) | 4:16 |
 | 82 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
@@ -109,17 +109,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 99 | [Hicktown](https://open.spotify.com/track/0WYbR2GSfl4ehvmLmcpAqi) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Jason Aldean](https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA) | 5:06 |
 | 100 | [These Are My People](https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:33 |
 | 101 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
-| 102 | [There Goes My Life](https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 5:02 |
-| 103 | [We Danced](https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 3:46 |
+| 102 | [We Danced](https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 3:46 |
+| 103 | [There Goes My Life](https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 5:02 |
 | 104 | [Chicks Dig It \- Single Edit](https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o) | [Chris Cagle](https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl) | [Chris Cagle](https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c) | 3:30 |
 | 105 | [Last Name](https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:01 |
-| 106 | [Just Another Day In Paradise](https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Phil Vassar](https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC) | 3:53 |
-| 107 | [Gimmie That Girl](https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Old Things New](https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0) | 3:05 |
-| 108 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
-| 109 | [Play Something Country](https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:15 |
-| 110 | [Why](https://open.spotify.com/track/65Jn2gZWMren03Rz0fCMqs) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Jason Aldean](https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA) | 3:33 |
-| 111 | [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 |
-| 112 | [Mud On the Tires](https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 3:26 |
+| 106 | [Gimmie That Girl](https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Old Things New](https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0) | 3:05 |
+| 107 | [Just Another Day In Paradise](https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Phil Vassar](https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC) | 3:53 |
+| 108 | [Mud On the Tires](https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 3:26 |
+| 109 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
+| 110 | [Play Something Country](https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:15 |
+| 111 | [Why](https://open.spotify.com/track/65Jn2gZWMren03Rz0fCMqs) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Jason Aldean](https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA) | 3:33 |
+| 112 | [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 |
 | 113 | [Find out Who Your Friends Are](https://open.spotify.com/track/73njvNJmgXA180vTPkA16C) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [For the Love](https://open.spotify.com/album/6DsSd8fEi5UscgNOHoZrSz) | 3:47 |
 | 114 | [Lucky Man](https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Some People Change](https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m) | 3:16 |
 | 115 | [Honky Tonk Badonkadonk](https://open.spotify.com/track/1VdHooAMVaGXPSty8pifv9) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dangerous Man](https://open.spotify.com/album/2ZdBjpNzKeluVjBdZ4x12j) | 4:00 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 124 | [One More Day](https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [One More Day](https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF) | 3:36 |
 | 125 | [Brand New Girlfriend](https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4) | [Steve Holy](https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII) | [Brand New Girlfriend](https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo) | 3:40 |
 
-Snapshot ID: `MCw5YzA4NTNhNzRmZDkxMGExYmI1NTVjMDYwMzVlMzFlMGVmYmI1YzZh`
+Snapshot ID: `MCw2MzAxM2NkMDIxOGFkZTU2ODMwNDg1MTA1NmM5OTVhOTAxMjNkNDkx`

@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 573236,
+  "num_followers": 573367,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmUyODhiZTFkNGJhZDYxYmVkOTk3NDc1ZDRjNTE1YzFlZTAyM2U5",
+  "snapshot_id": "MCw0NmQzNzA1ZDllODVjMGQ1NGNkNTZiOWE0ZTVlYzI2YTQyZmJmMzA1",
   "tracks": [
     {
       "added_at": "2023-08-29 08:42:33",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
         "name": "Diving (feat. Holly Humberstone)",
         "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 215986,
       "name": "Diving (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Mister Burns",
-        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mister Burns",
-      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "minuit",
         "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 225013,
       "name": "minuit",
       "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Mister Burns",
+        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mister Burns",
+      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Adult Movies",
-        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
-      },
-      "artists": [
-        {
-          "name": "Litany",
-          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
-        }
-      ],
-      "duration_ms": 195982,
-      "name": "Adult Movies",
-      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 209960,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Adult Movies",
+        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
+      },
+      "artists": [
+        {
+          "name": "Litany",
+          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
+        }
+      ],
+      "duration_ms": 195982,
+      "name": "Adult Movies",
+      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Kalif Onya",
-        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
-      },
-      "artists": [
-        {
-          "name": "Al Pride",
-          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
-        }
-      ],
-      "duration_ms": 238936,
-      "name": "Kalif Onya",
-      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "More Than Happiness",
         "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 238186,
       "name": "More Than Happiness",
       "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Kalif Onya",
+        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
+      },
+      "artists": [
+        {
+          "name": "Al Pride",
+          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
+        }
+      ],
+      "duration_ms": 238936,
+      "name": "Kalif Onya",
+      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "I Swear It's True",
-        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
+        "name": "Waste My Life",
+        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
       },
       "artists": [
         {
-          "name": "Mani Orrason",
-          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
         }
       ],
-      "duration_ms": 235784,
-      "name": "I Swear It's True",
-      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
+      "duration_ms": 160853,
+      "name": "Waste My Life",
+      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Waste My Life",
-        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
+        "name": "I Swear It's True",
+        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
       },
       "artists": [
         {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+          "name": "Mani Orrason",
+          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
         }
       ],
-      "duration_ms": 160853,
-      "name": "Waste My Life",
-      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+      "duration_ms": 235784,
+      "name": "I Swear It's True",
+      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
     },
     {
       "added_at": "2023-08-29 08:42:33",

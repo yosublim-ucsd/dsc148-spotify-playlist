@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: GUMX
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,403 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,448 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 46 | [こいのうた](https://open.spotify.com/track/2KPBIjQLE3tOGYQi6dyJEk) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 5:56 |
 | 47 | [夢で逢えたら](https://open.spotify.com/track/5rvaDukztuWN4S82JoGd7R) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [DOOR](https://open.spotify.com/album/01i1QV1gvVcfirJNFLQa3a) | 5:01 |
 | 48 | [虹](https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [RIOT ON THE GRILL](https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD) | 3:26 |
-| 49 | [ロックンロール イズ ノットデッド](https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ロックンロール イズ ノットデッド](https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p) | 5:00 |
-| 50 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
+| 49 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
+| 50 | [ロックンロール イズ ノットデッド](https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ロックンロール イズ ノットデッド](https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p) | 5:00 |
 | 51 | [愛彌々](https://open.spotify.com/track/4BQR7j2Wg0lkwfPq9O14gZ) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [愛彌々](https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv) | 5:08 |
 | 52 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 53 | [銀河鉄道の夜](https://open.spotify.com/track/3gjTlJclAZCTa2IP2tn6wW) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 5:41 |
@@ -72,17 +72,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 62 | [Get Up](https://open.spotify.com/track/1gJsVvWkcLnMLcZBa6FtGw) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Dim The Lights](https://open.spotify.com/album/6IaqeynN8Mgi5RprUaWbIU) | 4:05 |
 | 63 | [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 |
 | 64 | [YAKITORI](https://open.spotify.com/track/3tRHvzDjzaiiNpnlYya95O) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:44 |
-| 65 | [PEAK'D YELLOW](https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [THE BAND STAR](https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS) | 2:59 |
-| 66 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
+| 65 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
+| 66 | [PEAK'D YELLOW](https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [THE BAND STAR](https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS) | 2:59 |
 | 67 | [C7](https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 4:15 |
 | 68 | [DEEP](https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [A FORLORN HOPE](https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr) | 2:02 |
 | 69 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 |
 | 70 | [Silent spear](https://open.spotify.com/track/5l5O5zu4Vnmse6SHbxORDM) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/1mCJDxhi1kXBQcrz4wv18J) | 3:55 |
 | 71 | [ハッピーライフ](https://open.spotify.com/track/3IKUuAJghlmAkjBKbXaGjS) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 3:29 |
-| 72 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 |
+| 72 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 |
 | 73 | [SMOKIN' BILLY](https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [GEAR BLUES](https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ) | 3:27 |
-| 74 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 |
-| 75 | [Open Up My Heart](https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:41 |
+| 74 | [Open Up My Heart](https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:41 |
+| 75 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 |
 | 76 | [The Gift](https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD) | 2:22 |
 | 77 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
 | 78 | [PARTY PARTY](https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Wicked and Naked](https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH) | 3:39 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 86 | [情熱たましい](https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ビッグ ブラック ストア\(連絡しろ\)](https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU) | 3:07 |
 | 87 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 |
 | 88 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 |
-| 89 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 |
-| 90 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 |
+| 89 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 |
+| 90 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 |
 | 91 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
 | 92 | [フルアイビール](https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 1:27 |
 | 93 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 |
 | 94 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 |
 | 95 | [愛するPOW](https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:20 |
 | 96 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 |
-| 97 | [夏の日の午後](https://open.spotify.com/track/0EjdWwzbKRIb3xoyVyzLXP) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [旅路ニ季節ガ燃エ落チル](https://open.spotify.com/album/3c2QAlEKyYSei9beAMgOnB) | 5:46 |
+| 97 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 |
 | 98 | [BOYSISM](https://open.spotify.com/track/1MHMtAXsUytkrFc2b5gb2K) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [Symbol 2](https://open.spotify.com/album/6ZzQ4FjzxCTXZCZtZqnxOe) | 1:30 |
-| 99 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 |
-| 100 | [PLAYBACK](https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:14 |
+| 99 | [Voice](https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W) | 8:05 |
+| 100 | [夏の日の午後](https://open.spotify.com/track/0EjdWwzbKRIb3xoyVyzLXP) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [旅路ニ季節ガ燃エ落チル](https://open.spotify.com/album/3c2QAlEKyYSei9beAMgOnB) | 5:46 |
 
-Snapshot ID: `MCw4MDA5ZmExYjVjNWU2ZTczNjQ0YzJjZDY1NThkZTQwODdkZDAwZWEw`
+Snapshot ID: `MCw4OWFjYmU1MzZjMDc0M2RlNWUzYmQ1MjAzMDJhN2I0ZWM5NGE1NjIx`

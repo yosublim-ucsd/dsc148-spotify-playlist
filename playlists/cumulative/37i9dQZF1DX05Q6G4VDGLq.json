@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 174500,
       "name": "Birds Down South",
       "url": "https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6"
@@ -9774,6 +9774,24 @@
       "duration_ms": 207586,
       "name": "Slippers and Cocoa",
       "url": "https://open.spotify.com/track/2TctbR1zGHbhjFgvnoXcl1"
+    },
+    {
+      "album": {
+        "name": "Slow Dance",
+        "url": "https://open.spotify.com/album/6UqEbtOPsQfr9dgxNJjSLy"
+      },
+      "artists": [
+        {
+          "name": "Jonah Anderson",
+          "url": "https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233786,
+      "name": "Slow Dance",
+      "url": "https://open.spotify.com/track/5AbIjlheQPOLLgGanARp5h"
     },
     {
       "album": {

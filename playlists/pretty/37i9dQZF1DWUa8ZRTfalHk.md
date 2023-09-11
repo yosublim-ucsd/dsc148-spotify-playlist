@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,078,460 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,079,553 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 84 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 |
 | 85 | [Angel Pt\. 2 \(feat\. Jimin of BTS, Charlie Puth and Muni Long\)](https://open.spotify.com/track/2yjeXq5ahx6UUg2rHaUe6X) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \(FAST X Soundtrack\)](https://open.spotify.com/album/2H5nzViLpbX8JzY1cQMVza) | 2:56 |
 
-Snapshot ID: `MCw5ZGEyZWQwYTdmMDU3MzQ4NzRkMzY0Y2JjMTRiZGVhNTU3MzVkZDNk`
+Snapshot ID: `MCwwMWU3ZDFiYzNlZTkxMjNkNWYwZDg1MGQ5YTAzYWRiY2EyN2FiN2Qy`

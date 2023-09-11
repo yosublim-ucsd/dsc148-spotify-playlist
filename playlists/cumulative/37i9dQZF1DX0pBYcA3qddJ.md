@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-526 songs - 1 day 11 hr 50 min
+527 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Anna \- Piano Version](https://open.spotify.com/track/38DYHnTRQ4HgYmP32sS3vu) | [Yomiuri Nippon Symphony Orchestra](https://open.spotify.com/artist/15FC47aoLjTKgv0otgmXLN) | [When Marnie Was There Soundtrack Music Collection](https://open.spotify.com/album/00odo2OS2nQ1j15oeG53g2) | 3:53 | 2023-06-13 |  |
 | [Another Universe](https://open.spotify.com/track/0Fnu1zx9glEOuEwegQlJ7x) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Another Universe](https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz) | 2:42 | 2023-05-04 | 2023-05-24 |
 | [Antar \(After N\. Rimsky\-Korsakov\): No\. 7\. Ravel: Allegretto](https://open.spotify.com/track/0Ee9oam0N0ZzxZSN9nogTQ) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Andre Dussollier](https://open.spotify.com/artist/4V1N8TlOwHVIw7INEEQnT3), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: Orchestral Works, Vol\. 5](https://open.spotify.com/album/1YyXhW5uqF7aloforW4aQr) | 1:05 | 2022-10-20 | 2023-01-27 |
-| [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 | 2023-03-02 |  |
+| [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 | 2023-03-02 | 2023-09-11 |
 | [aqua](https://open.spotify.com/track/2Txp8hmiT3aqzD7CBjILo2) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:30 | 2023-06-06 |  |
 | [As When You Find \(upstream\)](https://open.spotify.com/track/4SFnSmwr42rfstdMepschC) | [Daisuke Tanabe](https://open.spotify.com/artist/2xQI5A9WmqrOPYdfl23MCM), [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [A TROUT IN THE MILK Original Motion Picture SoundTrack](https://open.spotify.com/album/1tCnWKu5857VtLmf5JfkrT) | 4:16 | 2023-09-05 |  |
 | [Asamoya](https://open.spotify.com/track/2mZNBSaa3bssYRAXYzlDMU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:18 | 2022-11-29 | 2023-01-27 |
@@ -318,7 +318,7 @@
 | [Poulenc: 愛の小径](https://open.spotify.com/track/72nhak9DZ2egStp68ji0x7) | [フランシス・プーランク](https://open.spotify.com/artist/6STj8m2UOKPkUE3YkXEh1u), [Tomoharu Ushida](https://open.spotify.com/artist/6FQJl3uqOIuXjrpFv7QclR) | [牛田智大BEST \~ピアノ名曲集](https://open.spotify.com/album/2UojxP4ugI3Uwiv6Ki6Wnr) | 2:07 | 2023-02-28 | 2023-05-17 |
 | [prayer](https://open.spotify.com/track/6OsvEWimF3N0u9DaYcp8s7) | [永井 秀和](https://open.spotify.com/artist/4c8uLFCDBJCYOfqWodvCGE), [N nulls](https://open.spotify.com/artist/6w7driOaO7unWQ2b2FaZcS) | [prayer](https://open.spotify.com/album/3xLdp5jUCFruYUCrjMBBaN) | 3:50 | 2023-05-23 | 2023-07-12 |
 | [Pretty](https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Pretty](https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp) | 3:25 | 2023-04-18 | 2023-09-06 |
-| [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-06-15 | 2023-09-10 |
+| [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-06-15 |  |
 | [Préludes / Book 1, L.117: 8\. La Fille aux Cheveux de Lin \(Arr\. Marshall\)](https://open.spotify.com/track/65IMlsHgCj36oLhdi9ugpv) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [Music Gift to](https://open.spotify.com/album/6Kad3lsqZ5Sp9hdNfj5kGj) | 3:11 | 2023-02-28 | 2023-09-06 |
 | [Purple](https://open.spotify.com/track/10Ipr7AR8CGspcIERaSTNO) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [THINK WISELY](https://open.spotify.com/album/6WdMLccynx5EqCuI8elJZ5) | 4:15 | 2022-10-20 | 2022-10-26 |
 | [Pマママ](https://open.spotify.com/track/3z12jfqeERWLOG05Vw3fa3) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Pマママ](https://open.spotify.com/album/5DMA7aDkyDhtUarSEf8AfL) | 5:36 | 2023-09-05 |  |
@@ -365,7 +365,8 @@
 | [She Wanted To Leave](https://open.spotify.com/track/2ZROHPJCBkwxMSldcfADsk) | [Jared Mattson](https://open.spotify.com/artist/1NjJTKQVaLKMTIia96FKaV) | [She Wanted To Leave](https://open.spotify.com/album/5FphcRiH2iATr7vHPBwFOj) | 3:10 | 2023-02-15 | 2023-03-01 |
 | [Shroud of Night](https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Shroud of Night](https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp) | 3:19 | 2023-02-09 |  |
 | [Snow](https://open.spotify.com/track/7dr3ZhQmk9hZZTz5svschC) | [Tomoya Naka](https://open.spotify.com/artist/16swNvdMD5sQAXlVaHc8Hx) | [Luna e Sole](https://open.spotify.com/album/2fvASnd0fRoJeGxxVVgQmM) | 3:08 | 2022-12-01 | 2023-02-24 |
-| [Snowblind \- Lo\-Fi Version](https://open.spotify.com/track/3ZtYSknLXx0T3cJrpi7GRj) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Snowblind \(Lo\-Fi Version\)](https://open.spotify.com/album/2mHNAFuim8XN9UowSF0eDc) | 3:28 | 2023-07-27 |  |
+| [Snowblind \- Lo\-Fi Version](https://open.spotify.com/track/10NjKdC6aS670R6HnkJO03) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Time On My Hands \(Lo\-Fi Version\)](https://open.spotify.com/album/0OCulu0g32zpyGrP9woaY1) | 3:28 | 2023-09-07 |  |
+| [Snowblind \- Lo\-Fi Version](https://open.spotify.com/track/3ZtYSknLXx0T3cJrpi7GRj) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Snowblind \(Lo\-Fi Version\)](https://open.spotify.com/album/2mHNAFuim8XN9UowSF0eDc) | 3:28 | 2023-07-27 | 2023-09-11 |
 | [Snowdrop](https://open.spotify.com/track/41DBJWgVyP9wglNdpaVRju) | [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [Rhapsody Japan](https://open.spotify.com/album/6E2R7APiAqAoavvvX9monK) | 2:18 | 2022-12-01 | 2023-03-22 |
 | [So Low](https://open.spotify.com/track/0oC0HRFeASEgbeoXLH8O6B) | [Synthia](https://open.spotify.com/artist/55GAehISTHTHMesi0iILAF) | [So Low](https://open.spotify.com/album/1mjeCiGzT1UGoZHqKMr1Wc) | 2:44 | 2023-04-18 | 2023-06-16 |
 | [So Many Plans](https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Many Plans](https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R) | 3:47 | 2023-08-31 |  |

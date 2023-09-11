@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 98100,
+  "num_followers": 98352,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2QyMmYzZWI3MTUyZDVhMTI0ZDM1OTA1ZDFhMzdkOWRiZDdkMzcz",
+  "snapshot_id": "MCxjOTQyZjBkN2NiMjVhM2Y3ODYxODFhZDEwZTY3ZTc0YWViYzZhZDE2",
   "tracks": [
     {
       "added_at": "2023-09-08 16:41:17",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-09-08 16:41:17",
       "album": {
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+    },
+    {
+      "added_at": "2023-09-08 16:41:17",
+      "album": {
         "name": "Cheat (feat. JoJo)",
         "url": "https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 202009,
       "name": "Cheat (feat. JoJo)",
       "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
-    },
-    {
-      "added_at": "2023-09-08 16:41:17",
-      "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2023-09-08 16:41:17",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-09-08 16:41:17",
       "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
+    },
+    {
+      "added_at": "2023-09-08 16:41:17",
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
@@ -403,26 +419,6 @@
       "duration_ms": 186339,
       "name": "SPLIT DECISION",
       "url": "https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt"
-    },
-    {
-      "added_at": "2023-09-08 16:41:17",
-      "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
     },
     {
       "added_at": "2023-09-08 16:41:17",
@@ -479,18 +475,22 @@
     {
       "added_at": "2023-09-08 16:41:17",
       "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 182278,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
+      "duration_ms": 205000,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
     },
     {
       "added_at": "2023-09-08 16:41:17",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-08 16:41:17",
       "album": {
-        "name": "Scene 1 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 180100,
-      "name": "Scene 1 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/10BWEQ0WDTc9JlG1kfNZI5"
-    },
-    {
-      "added_at": "2023-09-08 16:41:17",
-      "album": {
         "name": "PHO EP",
         "url": "https://open.spotify.com/album/1x6E0JYj6wKFHfZQFQCpnU"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 147106,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/1MVpa4w2TsjgUoJxMRAP0Z"
+    },
+    {
+      "added_at": "2023-09-08 16:41:17",
+      "album": {
+        "name": "Scene 1 - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 180100,
+      "name": "Scene 1 - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/10BWEQ0WDTc9JlG1kfNZI5"
     },
     {
       "added_at": "2023-09-08 16:41:17",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-08 16:41:17",
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 206304,
-      "name": "GLA",
-      "url": "https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y"
-    },
-    {
-      "added_at": "2023-09-08 16:41:17",
-      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 212973,
       "name": "Me x 7 (feat. Tierra Whack)",
       "url": "https://open.spotify.com/track/4HWhqsHKli9ujBAFVabKuJ"
+    },
+    {
+      "added_at": "2023-09-08 16:41:17",
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 206304,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y"
     },
     {
       "added_at": "2023-09-08 16:41:17",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-08 16:41:17",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        }
-      ],
-      "duration_ms": 186294,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
-    },
-    {
-      "added_at": "2023-09-08 16:41:17",
-      "album": {
         "name": "Juslisen (Special Edition)",
         "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 237240,
       "name": "Previouscats",
       "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
+    },
+    {
+      "added_at": "2023-09-08 16:41:17",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "duration_ms": 186294,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
     },
     {
       "added_at": "2023-09-08 16:41:17",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-09-08 16:41:17",
       "album": {
+        "name": "Body Music (Deluxe)",
+        "url": "https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd"
+      },
+      "artists": [
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "Friends To Lovers",
+      "url": "https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF"
+    },
+    {
+      "added_at": "2023-09-08 16:41:17",
+      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 110640,
       "name": "Arz Interlude",
       "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
-    },
-    {
-      "added_at": "2023-09-08 16:41:17",
-      "album": {
-        "name": "Body Music (Deluxe)",
-        "url": "https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd"
-      },
-      "artists": [
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "Friends To Lovers",
-      "url": "https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF"
     },
     {
       "added_at": "2023-09-08 16:41:17",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-09-08 16:41:17",
       "album": {
-        "name": "Hidden Beach presents: The Original Jill Scott: from the vault vol. 1",
-        "url": "https://open.spotify.com/album/2gxhBK34gxGZHMCWBztdGq"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Wake Up Baby",
-      "url": "https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME"
-    },
-    {
-      "added_at": "2023-09-08 16:41:17",
-      "album": {
         "name": "Look At You",
         "url": "https://open.spotify.com/album/2dZvOTKtZXs9v8AzdnO9pZ"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 165962,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO"
+    },
+    {
+      "added_at": "2023-09-08 16:41:17",
+      "album": {
+        "name": "Hidden Beach presents: The Original Jill Scott: from the vault vol. 1",
+        "url": "https://open.spotify.com/album/2gxhBK34gxGZHMCWBztdGq"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Wake Up Baby",
+      "url": "https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME"
     },
     {
       "added_at": "2023-09-08 16:41:17",

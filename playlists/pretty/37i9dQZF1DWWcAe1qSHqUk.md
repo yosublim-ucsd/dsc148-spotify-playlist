@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,907 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,932 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 36 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 |
 | 37 | [Why Try to Change Me Now](https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Best Is Yet to Come \- The Songs of Cy Coleman](https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p) | 5:16 |
 | 38 | [It Was You](https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 5:30 |
-| 39 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Bossa Lounge en Español](https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A) | 3:29 |
+| 39 | [A Sunday Kind Of Love](https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 4:52 |
 | 40 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 |
-| 41 | [A Sunday Kind Of Love](https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 4:52 |
+| 41 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Bossa Lounge en Español](https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A) | 3:29 |
 | 42 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
 | 43 | [A Kiss to Build a Dream On](https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [A Wonderful World](https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY) | 3:23 |
 | 44 | [Full Moon](https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304), [chrln](https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg) | [Full Moon](https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM) | 2:01 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 50 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
 | 51 | [There You Are \(Second Chance\)](https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:33 |
 | 52 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 |
-| 53 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 |
-| 54 | [If I See You Tomorrow](https://open.spotify.com/track/2B5mptUTfxrq1JTEUd4kTH) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Vira Talisa](https://open.spotify.com/album/1QlGWCclW1wtmodp1pD9OO) | 2:38 |
-| 55 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 |
+| 53 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 |
+| 54 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 |
+| 55 | [If I See You Tomorrow](https://open.spotify.com/track/2B5mptUTfxrq1JTEUd4kTH) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Vira Talisa](https://open.spotify.com/album/1QlGWCclW1wtmodp1pD9OO) | 2:38 |
 | 56 | [Moonlight Dancer](https://open.spotify.com/track/7qnGOq6WC4rxe7tdYqTbUC) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Easy Does It](https://open.spotify.com/album/0htWsoC4ORq9URJmrBEiCI) | 2:53 |
 | 57 | [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 |
 | 58 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 62 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
 | 63 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 |
 | 64 | [I Wish You Love](https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [Voices Of Love](https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9) | 4:18 |
-| 65 | [To Have & To Hold](https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV) | [Heather Rigdon](https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT) | [Young & Naïve](https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa) | 3:51 |
-| 66 | [Ay Ay Ay](https://open.spotify.com/track/0qScOEiQOLaucPMy6W9jDL) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [RawayanaLand](https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD) | 4:29 |
+| 65 | [Ay Ay Ay](https://open.spotify.com/track/0qScOEiQOLaucPMy6W9jDL) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [RawayanaLand](https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD) | 4:29 |
+| 66 | [To Have & To Hold](https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV) | [Heather Rigdon](https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT) | [Young & Naïve](https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa) | 3:51 |
 | 67 | [All the Way](https://open.spotify.com/track/5y31Qh5BW8csQMtdQY6Tob) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 3:07 |
 | 68 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 |
 | 69 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 74 | [Bewitched](https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [For You](https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL) | 3:49 |
 | 75 | [In the Air Tonight](https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ) | [James Farrelli](https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg) | [In the Air](https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k) | 4:45 |
 
-Snapshot ID: `MCw2NTQ1NGI2NTllNmI0OTU5NjU0YjY3YzM1OGViNTBjZjY1ZDRhYzVi`
+Snapshot ID: `MCxkZWE5MWM3OGU0NzdlODU0YjYyMGE1MmM5OTIzZDMyODk2NTEzYjQ1`

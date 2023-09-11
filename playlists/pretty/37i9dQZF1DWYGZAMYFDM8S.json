@@ -1,12 +1,12 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 296107,
+  "num_followers": 296170,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzI1NjUwNmRhOGU2MTA1NGU0OGMwZmViMmVlMDgyZmRlYWFiY2Y4",
+  "snapshot_id": "MCwzZWFkZmM4ZGE2ZDI4OWE5OGE0NTZiNDE2ZDg3ZDViODVhOGZiMzVi",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 211688,
-      "name": "Echo (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 211688,
+      "name": "Echo (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1907,18 +1891,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
         }
       ],
-      "duration_ms": 211794,
-      "name": "The Rains",
-      "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1935,6 +1919,22 @@
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 211794,
+      "name": "The Rains",
+      "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
     },
     {
       "added_at": "2023-08-18 04:01:00",

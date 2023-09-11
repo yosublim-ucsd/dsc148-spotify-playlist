@@ -4,7 +4,7 @@
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Residente y WOS
 
-5,423 songs - 12 day 4 hr 35 min
+5,424 songs - 12 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,7 +1027,8 @@
 | [coRaZÓn fRíO](https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [coRaZÓn fRíO](https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn) | 3:24 | 2022-08-19 | 2022-08-27 |
 | [Corazón Maleante](https://open.spotify.com/track/5RY2D7x6vmREBPQa3uq0sd) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Corazón Maleante](https://open.spotify.com/album/6f0gQlCUlMQqPOdlWfOwqS) | 2:27 | 2023-02-17 | 2023-02-25 |
 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-04-07 | 2023-04-15 |
-| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 | 2023-09-11 |
 | [Corazón Sin Cara \- 2.0](https://open.spotify.com/track/2KYJkrhsEOmyUgeFPCHvkD) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Corazón Sin Cara \(2.0\)](https://open.spotify.com/album/5HDywuzxDTbHC3FyKsv4bK) | 3:30 | 2022-12-02 | 2022-12-10 |
 | [Corazón Usado](https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Isabel Aladro](https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607) | [Corazón Usado](https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz) | 3:52 | 2022-09-30 | 2022-10-08 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-23 | 2023-07-01 |

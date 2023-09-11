@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 182550,
       "name": "Ad Libitum",
       "url": "https://open.spotify.com/track/7m5OILw45b30QyaqG8zhic"
@@ -7286,6 +7286,24 @@
       "duration_ms": 144000,
       "name": "Waltz in F minor",
       "url": "https://open.spotify.com/track/20DUpGAFEPRFEBD3FbxUHK"
+    },
+    {
+      "album": {
+        "name": "Garden of Eternal Spring",
+        "url": "https://open.spotify.com/album/15zG56ZwGXAjLPktRRTfzb"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Haidu",
+          "url": "https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173963,
+      "name": "Waltz Of The Swallow",
+      "url": "https://open.spotify.com/track/1b4TVciUAU6bAXMNgpgxbf"
     },
     {
       "album": {

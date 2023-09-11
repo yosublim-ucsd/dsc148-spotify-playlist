@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,344 songs - 3 day 1 hr 5 min
+1,345 songs - 3 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Again](https://open.spotify.com/track/7xlChsaEfCjtgzfMHcxN3p) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Come With Me](https://open.spotify.com/album/0sr9WYfWFkBNiNgtU2e1tf) | 6:02 | 2023-08-30 |  |
 | [Agosto](https://open.spotify.com/track/0wihfILRNOwE2156Shezc8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:19 | 2022-08-02 | 2022-08-10 |
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-31 | 2022-06-16 |
+| [Ahogándome en Alcohol](https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ahogándome en Alcohol](https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS) | 4:17 | 2023-09-10 |  |
 | [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-02-17 | 2022-04-06 |
 | [Ahí Estaré Yo](https://open.spotify.com/track/54gaPLcsCWmPUmrgpib9mS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Camino del Amor](https://open.spotify.com/album/1fvaT1qOl0H0gAHk5RHbts) | 3:20 | 2022-08-10 | 2022-09-09 |
 | [Aka Entre el Humo](https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Aka Entre el Humo](https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K) | 3:19 | 2022-10-11 | 2022-10-14 |
@@ -851,7 +852,7 @@
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-24 | 2023-03-11 |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-28 | 2023-04-01 |
 | [One More Shot](https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM) | 2:21 | 2023-01-23 | 2023-01-26 |
-| [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2023-07-04 |  |
+| [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2023-07-04 | 2023-09-11 |
 | [Only Girl](https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Only Girl](https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl) | 2:39 | 2023-05-24 | 2023-05-27 |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2022-05-18 | 2022-08-03 |
 | [Orgullo Moreno](https://open.spotify.com/track/4x9nnQQTZZbLAptcKdMwAa) | [Elmer y Diano](https://open.spotify.com/artist/5NxQeIebpgWlmphZHXtsHs) | [Orgullo Moreno](https://open.spotify.com/album/0w3wRmm17KQSnRwby3fRQf) | 2:48 | 2022-09-14 | 2022-09-25 |

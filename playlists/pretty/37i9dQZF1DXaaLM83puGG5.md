@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with Dankie Sounds!
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,017 likes - 80 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,102 likes - 80 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 79 | [EVERYDAY iParty Waya Waya \(feat\. Dr Peppa, Lady Du, ShaunMusiQ, Ftears & Mellow & Sleazy\)](https://open.spotify.com/track/7wbmqIBInLWmuDJGnKVU1i) | [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Dr Peppa](https://open.spotify.com/artist/3w44OLzEUGSqxVXHOvEACM), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7) | [EVERYDAY iParty Waya Waya \(feat\. Dr Peppa, Lady Du, ShaunMusiQ, Ftears & Mellow & Sleazy\)](https://open.spotify.com/album/5mkeyx4NlHKJck5CoaxuFk) | 5:19 |
 | 80 | [Kaos](https://open.spotify.com/track/0WWchzLoCKh53q5I05vZfb) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt) | [Pyramids](https://open.spotify.com/album/4Imc9qg3fBn0KuusJYydSb) | 6:52 |
 
-Snapshot ID: `MCxiMGQyNWMzNDE0NmQ2NmJkNmI0MTJlYTUzZjNiZWZhM2Q0Y2QxZmIz`
+Snapshot ID: `MCw2OWRmYmZhNTE3MzFlYjkyZjFhODg5NDc3NmIyNjRmMjlhZmNmYTNk`

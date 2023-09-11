@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,382 likes - 82 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,577 likes - 82 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 12 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
 | 13 | [The Great Pretender](https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters Golden Hits](https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B) | 2:37 |
 | 14 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
-| 15 | [True Love Ways](https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:48 |
-| 16 | [Donna \- Single Version](https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:30 |
+| 15 | [Donna \- Single Version](https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:30 |
+| 16 | [True Love Ways](https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:48 |
 | 17 | [Let It Be Me](https://open.spotify.com/track/0Tjdbd83LEAWrA0atsXMDJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Best Of The Everly Brothers \- Rare Solo Classics](https://open.spotify.com/album/4rnq9VLTICIlomeKZ1N3mB) | 2:26 |
 | 18 | [The Theme from "A Summer Place"](https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:22 |
 | 19 | [Teach Me Tonight](https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:47 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 46 | [Just Walkin' in the Rain](https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:37 |
 | 47 | [Pretend](https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 2:44 |
 | 48 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
-| 49 | [To Be Loved](https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:34 |
-| 50 | [It's All In The Game](https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game](https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d) | 2:38 |
+| 49 | [It's All In The Game](https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game](https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d) | 2:38 |
+| 50 | [To Be Loved](https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:34 |
 | 51 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 |
 | 52 | [You're Gonna Miss Me](https://open.spotify.com/track/1yLsZ8fuQJqk2cm1VDWTGb) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:44 |
 | 53 | [Don't](https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:48 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 81 | [Red Sails In The Sunset](https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:17 |
 | 82 | [Prisoner Of Love](https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 3:04 |
 
-Snapshot ID: `MCw4MmJkOTMyZmMwYTQ0OTYzZmZmNGRlMmIxZmJiMTc4ZjE0MjI2ODdi`
+Snapshot ID: `MCw3NzE2M2RmNzlmYjA2ZjZjNWE3YjNlZThjNzJkMDgyODQ0YzdmODk3`

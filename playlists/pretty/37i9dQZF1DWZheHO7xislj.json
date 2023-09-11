@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 137387,
+  "num_followers": 137397,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWJlZjQ2ZjJiMmZjOTRjZmZiN2ViMjgyYjFkNzkxZWQ0M2VlOGVk",
+  "snapshot_id": "MCwxZGQ4OTVhNjY1MTM0Mjg5MjI4YWRiMjM2YjU2MWFkNWUxNTc2ZWU0",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Ain't No Love In The Heart Of The City - Single Version",
-      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Make Way for Dionne Warwick",
         "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 178333,
       "name": "Walk on By",
       "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Ain't No Love In The Heart Of The City - Single Version",
+      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Shake You Down (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
-      },
-      "artists": [
-        {
-          "name": "Gregory Abbott",
-          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Shake You Down",
-      "url": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "I Love The Way You Love",
         "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Shake You Down (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
+      },
+      "artists": [
+        {
+          "name": "Gregory Abbott",
+          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Shake You Down",
+      "url": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "How Do You Do",
-        "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 431506,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "How Do You Do",
+        "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Dreamin' Wild",
-        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
-      },
-      "artists": [
-        {
-          "name": "Donnie & Joe Emerson",
-          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "It's A Long Road",
         "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/6UuMxlYqfGzN0PhFO4PqCo"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Dreamin' Wild",
+        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
+      },
+      "artists": [
+        {
+          "name": "Donnie & Joe Emerson",
+          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Essentials: Ruth Brown",
-        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 239906,
       "name": "Gun",
       "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Essentials: Ruth Brown",
+        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2123,6 +2123,26 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Soul Messin'",
+        "url": "https://open.spotify.com/album/5WPhlzl38yomyOqn5MNnMe"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kylie Auldist",
+          "url": "https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "This Girl",
+      "url": "https://open.spotify.com/track/5TJD3o52h1wMDoU0cYGwTv"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -2151,26 +2171,6 @@
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Soul Messin'",
-        "url": "https://open.spotify.com/album/5WPhlzl38yomyOqn5MNnMe"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kylie Auldist",
-          "url": "https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "This Girl",
-      "url": "https://open.spotify.com/track/5TJD3o52h1wMDoU0cYGwTv"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2255,18 +2255,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
       },
       "artists": [
         {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
         }
       ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
+      "duration_ms": 211426,
+      "name": "I Think I'll Call It Morning",
+      "url": "https://open.spotify.com/track/4ZquhgZ58o26fg9jC4npy2"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2283,22 +2283,6 @@
       "duration_ms": 200626,
       "name": "Try A Little Tenderness",
       "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
-      },
-      "artists": [
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "I Think I'll Call It Morning",
-      "url": "https://open.spotify.com/track/4ZquhgZ58o26fg9jC4npy2"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2327,6 +2311,22 @@
       "duration_ms": 264866,
       "name": "Wake up Everybody (feat. Common & Melanie Fiona)",
       "url": "https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Art Of Tea",
-        "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
-      },
-      "artists": [
-        {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Monkey See-Monkey Do",
-      "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Liquid Spirit (Deluxe Version)",
         "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj"
       },
@@ -2759,6 +2743,22 @@
       "duration_ms": 235573,
       "name": "No Love Dying",
       "url": "https://open.spotify.com/track/03BN4IvMyiT9OEDJv2fH5n"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Art Of Tea",
+        "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
+      },
+      "artists": [
+        {
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Monkey See-Monkey Do",
+      "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Another Side",
-        "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocentelli",
-          "url": "https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "You've Become a Habit",
-      "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "I'm Back! Family & Friends",
         "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 199426,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Another Side",
+        "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocentelli",
+          "url": "https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "You've Become a Habit",
+      "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2943,26 +2943,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Playlist: The ATCO Singles",
-        "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
-      },
-      "artists": [
-        {
-          "name": "Al Hudson",
-          "url": "https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS"
-        },
-        {
-          "name": "Soul Partners",
-          "url": "https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "I'm About Loving You",
-      "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Family Dinner - Vol. 1",
         "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
       },
@@ -2983,6 +2963,26 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Playlist: The ATCO Singles",
+        "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
+      },
+      "artists": [
+        {
+          "name": "Al Hudson",
+          "url": "https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS"
+        },
+        {
+          "name": "Soul Partners",
+          "url": "https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "I'm About Loving You",
+      "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Can't Stop Dancing, Vol. 6",
         "url": "https://open.spotify.com/album/67Za0D5XluGk4Bm1WlQrIc"
       },
@@ -2999,22 +2999,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Lovestreet 55",
-        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
-      },
-      "artists": [
-        {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "Lovestreet 55",
-      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Best Of Joss Stone 2003 - 2009",
         "url": "https://open.spotify.com/album/6Z8HL0drVRDIGrqIrSM1Ad"
       },
@@ -3027,6 +3011,22 @@
       "duration_ms": 219506,
       "name": "Fell In Love With A Boy",
       "url": "https://open.spotify.com/track/4FEAmHZ3UXRAzP5354CErS"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Lovestreet 55",
+        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "Lovestreet 55",
+      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3243,22 +3243,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Funky Entertainment",
-        "url": "https://open.spotify.com/album/4tLBJzaV71qm3TyepiEIBy"
-      },
-      "artists": [
-        {
-          "name": "Brainstorm",
-          "url": "https://open.spotify.com/artist/6JPBUFrfF5w5whOPk2w0kp"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "You Put A Charge In My Life",
-      "url": "https://open.spotify.com/track/1r69KR1iUoLfoN4Z44Okca"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Second to None",
         "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
       },
@@ -3275,18 +3259,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Boss Man",
-        "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
+        "name": "Funky Entertainment",
+        "url": "https://open.spotify.com/album/4tLBJzaV71qm3TyepiEIBy"
       },
       "artists": [
         {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+          "name": "Brainstorm",
+          "url": "https://open.spotify.com/artist/6JPBUFrfF5w5whOPk2w0kp"
         }
       ],
-      "duration_ms": 190680,
-      "name": "Have A Heart",
-      "url": "https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2"
+      "duration_ms": 251733,
+      "name": "You Put A Charge In My Life",
+      "url": "https://open.spotify.com/track/1r69KR1iUoLfoN4Z44Okca"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3303,6 +3287,22 @@
       "duration_ms": 170066,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Boss Man",
+        "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Have A Heart",
+      "url": "https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2"
     }
   ],
   "unique_name": "Soulful Dinner",

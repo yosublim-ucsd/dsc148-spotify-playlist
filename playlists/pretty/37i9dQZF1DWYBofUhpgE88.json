@@ -1,12 +1,12 @@
 {
   "description": "La carica giusta per i tuoi allenamenti.",
-  "num_followers": 319758,
+  "num_followers": 319835,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmY1NDA2ZGIwNDE1YTlkNDkwODc4Y2IwYjcwZjEzYjRkNDIzOWEy",
+  "snapshot_id": "MCxkYjk4Y2U1MzY3MWIwM2ZhM2NjM2ZhYTUwN2ZkNzE4ZDJhYmMwZWVm",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "Bongos (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 175099,
+      "name": "Bongos (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Body Head Bangerz, Vol. 1",
         "url": "https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe"
       },
@@ -1007,6 +1027,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "...And Then There Was X",
+        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Party Up",
+      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
@@ -1043,42 +1079,6 @@
       "duration_ms": 156800,
       "name": "HUMBLE. - SKRILLEX REMIX",
       "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "...And Then There Was X",
-        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Party Up",
-      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Bongos (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 175099,
-      "name": "Bongos (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1155,70 +1155,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "WE THE SQUAD Vol. 1",
-        "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
-      },
-      "artists": [
-        {
-          "name": "SLF",
-          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
-        },
-        {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "CADILLAC (feat. MV Killa, Geolier, Tony Effe)",
-      "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Salvatore Vive",
-        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "La Bellavita (feat. Jul)",
-      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Sfera Ebbasta",
-        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Visiera A Becco",
-      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Grand Champ",
         "url": "https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd"
       },
@@ -1231,22 +1167,6 @@
       "duration_ms": 286266,
       "name": "Where The Hood At",
       "url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Loyalty Over Royalty",
-        "url": "https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G"
-      },
-      "artists": [
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        }
-      ],
-      "duration_ms": 123262,
-      "name": "Whoopty",
-      "url": "https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1275,6 +1195,86 @@
       "duration_ms": 272506,
       "name": "No Church In The Wild",
       "url": "https://open.spotify.com/track/7r6PigmGzlB3YPB7wvBBbi"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "WE THE SQUAD Vol. 1",
+        "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "CADILLAC (feat. MV Killa, Geolier, Tony Effe)",
+      "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Sfera Ebbasta",
+        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Visiera A Becco",
+      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Salvatore Vive",
+        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "La Bellavita (feat. Jul)",
+      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Loyalty Over Royalty",
+        "url": "https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G"
+      },
+      "artists": [
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        }
+      ],
+      "duration_ms": 123262,
+      "name": "Whoopty",
+      "url": "https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO"
     },
     {
       "added_at": "2023-09-08 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Shae Universe
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,033 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,172 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 32 | [Got To Be Good](https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Got To Be Good](https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e) | 2:39 |
 | 33 | [Wickedest](https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr) | 3:12 |
 | 34 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
-| 35 | [Silence](https://open.spotify.com/track/0nczSj6as1uJ8fZ91xsOLr) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Silence](https://open.spotify.com/album/2jQgJAsAIzvc0hGQVbqboI) | 3:27 |
+| 35 | [It Only Cost Everything](https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [It Only Cost Everything](https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl) | 2:28 |
 | 36 | [November \(feat\. Stormzy\)](https://open.spotify.com/track/7xkHbITyunC0rn47Gs8hS4) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:34 |
-| 37 | [It Only Cost Everything](https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [It Only Cost Everything](https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl) | 2:28 |
+| 37 | [Silence](https://open.spotify.com/track/0nczSj6as1uJ8fZ91xsOLr) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Silence](https://open.spotify.com/album/2jQgJAsAIzvc0hGQVbqboI) | 3:27 |
 | 38 | [Our Song](https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:19 |
 | 39 | [Forever](https://open.spotify.com/track/64CKrUSNUMzFHziTnJJzNG) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Forever](https://open.spotify.com/album/1NYpfhFgpcoMmADUQsaYQm) | 2:39 |
 | 40 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 59 | [Strawberry Skies](https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Strawberry Skies](https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09) | 3:06 |
 | 60 | [You Comfort Me](https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Songs That Made Me Feel](https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR) | 3:22 |
 
-Snapshot ID: `MCwzZDJhMzJkZmM5YzkzMWRmNTcxMjA4OGNhOGIxM2I4ODcyZWQwZjZl`
+Snapshot ID: `MCxkOWI4NGRjNjk5YTRhZWJjMDllNDhiNjUxN2RlZDU0NWI2NzcyMWM3`

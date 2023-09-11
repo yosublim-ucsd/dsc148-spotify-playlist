@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Ilsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,449 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,557 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 18 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 |
 | 19 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
 | 20 | [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 |
-| 21 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
+| 21 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
 | 22 | [Last Man On Earth](https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Last Man On Earth](https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY) | 3:08 |
-| 23 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
+| 23 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
 | 24 | [Something to Someone](https://open.spotify.com/track/4AQXIIhoKpkn7gMMS4StAY) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:18 |
 | 25 | [Movie Star](https://open.spotify.com/track/3OGJBbKejetygGZhCP1A64) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Movie Star](https://open.spotify.com/album/7wGfsEAgeDFizEjwEYOKvt) | 3:40 |
 | 26 | [Butterflies](https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Butterflies](https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U) | 3:03 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 55 | [Horses](https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 5:05 |
 | 56 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 |
 | 57 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
-| 58 | [Green Eyes](https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Green Eyes](https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz) | 2:30 |
-| 59 | [A Concert Six Months From Now](https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:25 |
+| 58 | [A Concert Six Months From Now](https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:25 |
+| 59 | [Green Eyes](https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Green Eyes](https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz) | 2:30 |
 | 60 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
 | 61 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
 | 62 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 89 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
 | 90 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 |
 | 91 | [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 |
-| 92 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |
-| 93 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
-| 94 | [Cue](https://open.spotify.com/track/3fIMNQaY7AuZRtP18zWhtb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:34 |
-| 95 | [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 |
-| 96 | [Head Start](https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:23 |
+| 92 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
+| 93 | [Head Start](https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:23 |
+| 94 | [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 |
+| 95 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |
+| 96 | [Cue](https://open.spotify.com/track/3fIMNQaY7AuZRtP18zWhtb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:34 |
 | 97 | [Any Day Now](https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:21 |
 | 98 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
-| 99 | [Denim](https://open.spotify.com/track/0NtwNkRKhDAeo5qqx1Z3gY) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [Denim](https://open.spotify.com/album/5nUQ0QEGyACWKmsHGgWAex) | 3:43 |
-| 100 | [am i not enough for now?](https://open.spotify.com/track/04xC7XwAsCqF3HOEFemLcz) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:52 |
+| 99 | [am i not enough for now?](https://open.spotify.com/track/04xC7XwAsCqF3HOEFemLcz) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:52 |
+| 100 | [Catch Your Eye](https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:42 |
 
-Snapshot ID: `MCxjNzU5OWM2NzUwNWIyOTgzYzEzMmNmZDc1NjA1NjJiMjUzODgzYTE4`
+Snapshot ID: `MCwxZDhkMjJjZWMyNThkZWQyNzczYmI1MTM1ZWFiY2Q1YzE3OTg2NDky`

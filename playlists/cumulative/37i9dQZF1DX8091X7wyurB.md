@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-205 songs - 18 hr 31 min
+206 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Blessed](https://open.spotify.com/track/2jPpjqNgpYiOfarRH5A1p2) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt), [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ) | [Blessed](https://open.spotify.com/album/43a4ZtP3TRzwWQiF3nU1Yr) | 5:09 | 2023-03-03 | 2023-04-15 |
 | [Blessings](https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Blessings](https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW) | 2:41 | 2022-06-30 | 2023-05-16 |
 | [Blessings Follow Me](https://open.spotify.com/track/6K2Pm2e6qTqb1vC8qT3INV) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4), [KS Bloom](https://open.spotify.com/artist/5tjO5VGPByZF90lhuAQc6A) | [Blessings Follow Me](https://open.spotify.com/album/2x7GuHDER800C7nHwUTZrm) | 2:45 | 2022-09-30 | 2023-05-08 |
-| [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2022-06-30 |  |
+| [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2022-06-30 | 2023-09-11 |
 | [Clarity](https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:34 | 2022-06-30 | 2023-01-20 |
 | [Cock & Bull](https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Cock & Bull](https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi) | 10:02 | 2023-04-14 | 2023-07-25 |
 | [Come & See](https://open.spotify.com/track/6u15MnjmTHU0eeSn5ulhYZ) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Come & See \(Creative Version\)](https://open.spotify.com/album/6DIEcOqCnFOmwMw9TAxInT) | 7:13 | 2022-11-25 | 2023-06-07 |
@@ -140,6 +140,7 @@
 | [Ogo](https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Ogo](https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS) | 5:36 | 2022-06-30 | 2023-04-15 |
 | [Oh My Soul](https://open.spotify.com/track/0uQfatIe71HRJHJrBdtlNc) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Voice of Truth](https://open.spotify.com/album/5g3V6zzN6xNcdPzJOaak14) | 4:23 | 2023-09-01 |  |
 | [Okaka](https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okaka](https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz) | 12:20 | 2023-08-25 |  |
+| [Oke Mmiri](https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oke Mmiri](https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp) | 10:13 | 2023-09-08 |  |
 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 | 2023-06-23 |  |
 | [OMG \(feat\. JJ Hairston\)](https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Already Won](https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3) | 4:16 | 2022-06-30 | 2023-05-05 |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-07-13 | 2023-06-23 |

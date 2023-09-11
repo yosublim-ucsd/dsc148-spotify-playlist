@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:6UIpxj5ggLdOebFVCOxVax">Loe Shimmy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,829 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,918 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [HNL](https://open.spotify.com/track/0zxpRRpS5SZQyiTW3sP2Tk) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [HNL](https://open.spotify.com/album/7vsrshJJAAW5AQJDcRo6Jx) | 2:22 |
 | 75 | [Love Language](https://open.spotify.com/track/5fNgz0GbFBXhz4RoBNTnQB) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Love Language](https://open.spotify.com/album/0YYIIcjmHW3mtiVaLStpOD) | 2:07 |
 
-Snapshot ID: `MCxlOTI1MmFiNmM2Nzk5N2U4MGEyMzc2MTllN2RiZGZjZTA2YjIxMzdk`
+Snapshot ID: `MCxlZDA0OTU1ZjhkNGQ4NDBmN2M4ZTE3NTliNDAzYzY2NzU3YzQ1MDNj`

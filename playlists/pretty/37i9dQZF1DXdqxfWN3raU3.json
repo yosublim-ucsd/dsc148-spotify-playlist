@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Jona Camacho y Fntxy en portada.",
-  "num_followers": 103756,
+  "num_followers": 103790,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzExNmM0ZDY2Y2MyYjlkNzllOWRiZWIyMjQyNDBhNDlhODcwNDgx",
+  "snapshot_id": "MCw4YTU4Nzk4ODIzMzQ1YjRlZjVlY2E1OTYyMjJhZDY0MGY3YzNkZTFi",
   "tracks": [
     {
       "added_at": "2023-09-08 23:21:44",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-08 23:21:44",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 145413,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
-    },
-    {
-      "added_at": "2023-09-08 23:21:44",
-      "album": {
         "name": "1UNAMORSUPREMO",
         "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2023-09-08 23:21:44",
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 145413,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
     },
     {
       "added_at": "2023-09-08 23:21:44",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-09-08 23:21:44",
       "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
-    },
-    {
-      "added_at": "2023-09-08 23:21:44",
-      "album": {
         "name": "9:15",
         "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 124800,
       "name": "9:15",
       "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
+    },
+    {
+      "added_at": "2023-09-08 23:21:44",
+      "album": {
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
     },
     {
       "added_at": "2023-09-08 23:21:44",
@@ -1195,22 +1195,6 @@
       "duration_ms": 182000,
       "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
       "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
-    },
-    {
-      "added_at": "2023-09-08 23:21:44",
-      "album": {
-        "name": "No Le Llames Amor",
-        "url": "https://open.spotify.com/album/1ubOrTTzo085mnwEU0P7iE"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "No Le Llames Amor",
-      "url": "https://open.spotify.com/track/4UGBuJ6rKndVjaPtzs3knZ"
     },
     {
       "added_at": "2023-09-08 23:21:44",
@@ -1311,6 +1295,22 @@
       "duration_ms": 201290,
       "name": "Tus Ojos Me Hablaron",
       "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+    },
+    {
+      "added_at": "2023-09-08 23:21:44",
+      "album": {
+        "name": "No Le Llames Amor",
+        "url": "https://open.spotify.com/album/1ubOrTTzo085mnwEU0P7iE"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "No Le Llames Amor",
+      "url": "https://open.spotify.com/track/4UGBuJ6rKndVjaPtzs3knZ"
     },
     {
       "added_at": "2023-09-08 23:21:44",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-09-08 23:21:44",
       "album": {
-        "name": "Mi Fantasma",
-        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 162391,
-      "name": "Mi Fantasma",
-      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
-    },
-    {
-      "added_at": "2023-09-08 23:21:44",
-      "album": {
         "name": "Modelo",
         "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 160243,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+    },
+    {
+      "added_at": "2023-09-08 23:21:44",
+      "album": {
+        "name": "Mi Fantasma",
+        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 162391,
+      "name": "Mi Fantasma",
+      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
     },
     {
       "added_at": "2023-09-08 23:21:44",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-09-08 23:21:44",
       "album": {
+        "name": "No Fui Solo Yo",
+        "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
+      },
+      "artists": [
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 202942,
+      "name": "No Fui Solo Yo",
+      "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
+    },
+    {
+      "added_at": "2023-09-08 23:21:44",
+      "album": {
         "name": "EST\u00c1 CABR\u00d3N",
         "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 184585,
       "name": "EST\u00c1 CABR\u00d3N",
       "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
-    },
-    {
-      "added_at": "2023-09-08 23:21:44",
-      "album": {
-        "name": "No Fui Solo Yo",
-        "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
-      },
-      "artists": [
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 202942,
-      "name": "No Fui Solo Yo",
-      "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
     },
     {
       "added_at": "2023-09-08 23:21:44",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-09-08 23:21:44",
       "album": {
-        "name": "As\u00ed De Simple",
-        "url": "https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT"
-      },
-      "artists": [
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "As\u00ed De Simple",
-      "url": "https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo"
-    },
-    {
-      "added_at": "2023-09-08 23:21:44",
-      "album": {
         "name": "ASMR",
         "url": "https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 182278,
       "name": "Quiere Volar",
       "url": "https://open.spotify.com/track/21xHCMIUcG2ZYkgobStWjA"
+    },
+    {
+      "added_at": "2023-09-08 23:21:44",
+      "album": {
+        "name": "As\u00ed De Simple",
+        "url": "https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "As\u00ed De Simple",
+      "url": "https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo"
     },
     {
       "added_at": "2023-09-08 23:21:44",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-09-08 23:21:44",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 157267,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
-    },
-    {
-      "added_at": "2023-09-08 23:21:44",
-      "album": {
         "name": "Girasol",
         "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 204327,
       "name": "Girasol",
       "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
+    },
+    {
+      "added_at": "2023-09-08 23:21:44",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
     }
   ],
   "unique_name": "R&B Latino",

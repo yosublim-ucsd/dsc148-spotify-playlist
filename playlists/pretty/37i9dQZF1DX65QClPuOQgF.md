@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 
 > Find your study focus with high pitched azure noise \- perfect for masking disruptive noises.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,760 likes - 78 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,794 likes - 78 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 | 77 | [Blue Noise For ADHD \(Loopable No Fade\)](https://open.spotify.com/track/5zHseiNJMitditpUoQmpEC) | [Dream Supplier](https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp), [Baby Sleeps](https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ), [Background White Noise](https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh) | [Best Blue Noise For Sleep Or Focus \(Loopable\)](https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct) | 2:22 |
 | 78 | [Blue Noise Spread](https://open.spotify.com/track/6W4rMj9qOUKPh7ESX2K3lS) | [White Noise Workshop](https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI) | [The Colors of Noise: Audio Soundscapes for Sleep and Relaxation](https://open.spotify.com/album/6KrbrW7gX8cntKAakbK5Ij) | 2:12 |
 
-Snapshot ID: `MCxmZDQ0YmEyNjQ5MmUxMmI3ZjMwZTU0NTljN2UwOWQ1NWQyZDRiY2Jm`
+Snapshot ID: `MCw5ODA4ZTk5ZTE4MDgxM2E4ODg0YTVjYTBiOWUwOWExMmMyNGFhZWU3`

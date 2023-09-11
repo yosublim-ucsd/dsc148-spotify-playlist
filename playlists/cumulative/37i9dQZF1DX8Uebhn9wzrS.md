@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,547 songs - 2 day 10 hr 42 min
+1,548 songs - 2 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,7 +542,7 @@
 | [Ghosting](https://open.spotify.com/track/5vrt91IhW5lQW6fUUFV2hW) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Ghosting](https://open.spotify.com/album/7uqNftaPHWWHpsuikVidsS) | 2:17 | 2022-09-16 | 2023-01-07 |
 | [Giant Emoji](https://open.spotify.com/track/2bbujVEjRsJFvKnzlzhbpQ) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [In Due Time](https://open.spotify.com/album/13sb8AYLDP6VK75wwvpPEm) | 3:18 | 2022-04-15 | 2022-05-27 |
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2022-04-15 | 2022-12-17 |
-| [give it a whirl](https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [give it a whirl](https://open.spotify.com/album/2rOg9WuVoeNoZhvFLewXv3) | 2:09 | 2022-10-28 |  |
+| [give it a whirl](https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [give it a whirl](https://open.spotify.com/album/2rOg9WuVoeNoZhvFLewXv3) | 2:09 | 2022-10-28 | 2023-09-11 |
 | [Glad There's You](https://open.spotify.com/track/5Fj4UPQQOD09Vs1mge4yzs) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Glad There's You](https://open.spotify.com/album/4ohIQlFEFXHdY3LLrt1lAK) | 2:03 | 2022-08-05 | 2022-12-03 |
 | [Glass Walls](https://open.spotify.com/track/4pBuxxACkmrNGuqtKr2OcS) | [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF) | [Glass Walls](https://open.spotify.com/album/1PIImq3VEynt2xVPOUETkW) | 2:16 | 2022-11-25 |  |
 | [Glitter](https://open.spotify.com/track/0DpGahj6aqqMZqo82kefOX) | [Thin Wire](https://open.spotify.com/artist/6XsmusNMQByvF8YoSjokGJ) | [Glitter](https://open.spotify.com/album/0wSRICqBdqiXKSmzRaH6nS) | 2:05 | 2023-03-24 |  |
@@ -1321,6 +1321,7 @@
 | [Sunrays](https://open.spotify.com/track/0uJWwpRKgHFmFDIyXQtsji) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Sunrays](https://open.spotify.com/album/30sK54lSHYBcB95sRJn0QF) | 2:30 | 2022-11-18 | 2023-02-07 |
 | [Sunrise](https://open.spotify.com/track/7Kg3YSa4bilbvyFRSWScG0) | [Clipsheet](https://open.spotify.com/artist/2aGZ09xbqrkGKqDLMFl9r2) | [Sunrise](https://open.spotify.com/album/2MYdmyaARWA73eRLaD0PWi) | 1:43 | 2022-11-25 |  |
 | [sunset](https://open.spotify.com/track/5NO2HocQGechq8BaHmvbIa) | [Aran Brôg](https://open.spotify.com/artist/7ba3vzhS4RU7esRdjexxwA) | [sunset](https://open.spotify.com/album/6hBdzlZdJVZZmDyT1fHMnT) | 2:20 | 2022-11-25 | 2023-02-07 |
+| [sunset](https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sunset](https://open.spotify.com/album/0wCBbw4ksyMQ5TwzfmY85u) | 2:44 | 2023-09-08 |  |
 | [Sunset](https://open.spotify.com/track/25E3oiuIVUsjow8jWW7GAf) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Coastal](https://open.spotify.com/album/5Vl92yFBmLGcr5bJ8p2vQ6) | 2:33 | 2022-10-07 | 2023-01-13 |
 | [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 | 2022-04-15 | 2022-08-12 |
 | [Sunset](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Sunset](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 2:17 | 2022-12-16 |  |

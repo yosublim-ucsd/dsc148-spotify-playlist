@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,058 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,069 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 13 | [Mr\. BigYellowSun](https://open.spotify.com/track/27YpSQcKYFC2BDKXPba4D7) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Sunflower](https://open.spotify.com/album/7yaDbs8UuwGoYqzgmGt3lu) | 3:09 |
 | 14 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 |
 | 15 | [Paradis](https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Paradis](https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9) | 2:21 |
-| 16 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 |
-| 17 | [Sentimental Animal](https://open.spotify.com/track/7DwjBCEf4SjGzy8Bgaz3EX) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Superior State](https://open.spotify.com/album/0GYH4HMvMgmsRCqN224mO8) | 4:35 |
+| 16 | [Sentimental Animal](https://open.spotify.com/track/7DwjBCEf4SjGzy8Bgaz3EX) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Superior State](https://open.spotify.com/album/0GYH4HMvMgmsRCqN224mO8) | 4:35 |
+| 17 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 |
 | 18 | [What Does Moon Think](https://open.spotify.com/track/7L25MDmLQynJSzLm8hlj16) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [What Does Moon Think](https://open.spotify.com/album/1xuR0TZ9uoVRPIWHqj7hu8) | 3:00 |
 | 19 | [Feeling](https://open.spotify.com/track/6CFMwf7AVVyh6i30NlcVwG) | [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Pas d'Accord !](https://open.spotify.com/album/3FmbPQ4RQOQOz2dZfLAw10) | 3:38 |
 | 20 | [Brother](https://open.spotify.com/track/7AorDFAFIecmBhx6ujIhZX) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Factory](https://open.spotify.com/album/7wjxLYyRqGzKjjXiaTs9WH) | 3:18 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 47 | [Lonesome Terror](https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS) | [Kamggarn](https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2) | [Kamggarn](https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc) | 3:56 |
 | 48 | [Reach](https://open.spotify.com/track/2t3c50Dgc0CvZmYOf40Yq2) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Reach](https://open.spotify.com/album/6VhainGyu98wzHYIzRvsf9) | 5:12 |
 | 49 | [Badroom](https://open.spotify.com/track/3F0NHuzzFsv1JVQjvTibj1) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Badroom](https://open.spotify.com/album/1kpgGMobD4sNTy2KGGlVDd) | 3:25 |
-| 50 | [My time](https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [Garage Is Dead](https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH) | 3:44 |
-| 51 | [Hope](https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Afterparty \- All We Have Is Now](https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU) | 3:01 |
+| 50 | [Hope](https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Afterparty \- All We Have Is Now](https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU) | 3:01 |
+| 51 | [My time](https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [Garage Is Dead](https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH) | 3:44 |
 | 52 | [Model](https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [...About Going Home](https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI) | 4:09 |
 | 53 | [Hypersects](https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl) | [Bison Bisou](https://open.spotify.com/artist/5WMurQLtfM6V3t7Gbh1ix1) | [Bodysick](https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM) | 2:47 |
 | 54 | [Léon](https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/469XU2UjBypsJUKNCARczN) | 4:31 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 70 | [Toxin](https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F) | [The One You Loved](https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY) | [Bitter Memory](https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE) | 3:53 |
 | 71 | [Eleven the Fair](https://open.spotify.com/track/1LffL6iYYSPCwKzbX9tRId) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [HLA\-11TF](https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj) | 4:16 |
 | 72 | [Liquor Liquor](https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ) | [Ponta Preta](https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e) | [Liquor Liquor](https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd) | 3:42 |
-| 73 | [Stick It Out](https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Hara](https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU) | 3:24 |
-| 74 | [Heedless](https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr) | [Howard](https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm) | [Event Horizon](https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY) | 3:00 |
+| 73 | [Heedless](https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr) | [Howard](https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm) | [Event Horizon](https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY) | 3:00 |
+| 74 | [Stick It Out](https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Hara](https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU) | 3:24 |
 | 75 | [NYE](https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY) | [Unschooling](https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs) | [Random Acts of Total Control](https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C) | 3:52 |
 | 76 | [The Password](https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx) | [Merge](https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m) | [Ineffable](https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz) | 4:14 |
 | 77 | [Echo Street](https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [The West Is the Best](https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA) | 3:41 |
@@ -89,19 +89,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 79 | [Hangover](https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV) | [Nobody's Cult](https://open.spotify.com/artist/2u9TRDPmCOUfSsP0WTFp7R) | [Mood Disorders](https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt) | 3:21 |
 | 80 | [HORIZON](https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU) | 3:48 |
 | 81 | [Killing God](https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r) | [HEADKEYZ](https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea) | [The Cage & The Crown : Chapter I](https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK) | 3:35 |
-| 82 | [Tant d'années](https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF) | 3:02 |
-| 83 | [I Don't Give A Shit](https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Teenage Ends](https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt) | 2:15 |
+| 82 | [I Don't Give A Shit](https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Teenage Ends](https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt) | 2:15 |
+| 83 | [Tant d'années](https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF) | 3:02 |
 | 84 | [Crystal Glass](https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Ashamed](https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo) | 2:59 |
-| 85 | [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 |
-| 86 | [R.I.P\. In Peace](https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi) | [Jessica93](https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg) | [Guilty Species](https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau) | 4:38 |
-| 87 | [Excuses](https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Vacuum Sealed](https://open.spotify.com/album/1h6Mngi160e472DTepN8qD) | 4:00 |
+| 85 | [R.I.P\. In Peace](https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi) | [Jessica93](https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg) | [Guilty Species](https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau) | 4:38 |
+| 86 | [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 |
+| 87 | [Humans](https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n) | [Rank\-O](https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF) | [De Novo](https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6) | 3:12 |
 | 88 | [Daddy Issues](https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Daddy Issues](https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8) | 4:49 |
-| 89 | [Humans](https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n) | [Rank\-O](https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF) | [De Novo](https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6) | 3:12 |
+| 89 | [Excuses](https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Vacuum Sealed](https://open.spotify.com/album/1h6Mngi160e472DTepN8qD) | 4:00 |
 | 90 | [Welcome Newcomers](https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj) | [Cosse](https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH) | [Nothing Belongs to Anything](https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3) | 5:08 |
 | 91 | [Gold Rush](https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam) | [CATHEDRALE](https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F) | [Houses Are Built The Same](https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh) | 3:10 |
 | 92 | [So Quarrelsome](https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh) | 3:17 |
-| 93 | [Didn’t Know](https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Future Me](https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ) | 3:07 |
-| 94 | [Vegan Porn Food](https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Billy Believe](https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR) | 4:46 |
+| 93 | [Vegan Porn Food](https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Billy Believe](https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR) | 4:46 |
+| 94 | [Didn’t Know](https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Future Me](https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ) | 3:07 |
 | 95 | [Fireworks](https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Chantal](https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W) | 4:13 |
 | 96 | [Get Out](https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl) | [PALES](https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX) | [Get Out](https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN) | 3:45 |
 | 97 | [Can't Wait to Be Fine](https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Can't Wait to Be Fine](https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD) | 5:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [Scopaesthesia](https://open.spotify.com/track/6l22R1ZDXBmPXXXdgCX8sQ) | [Moonball](https://open.spotify.com/artist/1zssGmXcSwzfO2eVRrHOUj) | [Scopaesthesia](https://open.spotify.com/album/1BHXHfRwyX7JK46KQHKclo) | 3:08 |
 | 100 | [REQUIN MAKO](https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [DEUXIÈME ÉTOILE](https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl) | 2:44 |
 
-Snapshot ID: `MCw4Y2ExODE1OWU0NDUzYjg4MTU3OTYzZDMzZjdiOWY2MDU0MTIzOWE0`
+Snapshot ID: `MCxjZmRkNDdmY2E3ZTBmNDQ1YzI2NDQxZDU0MWE5ZjYzZWM0NTIzYjQx`

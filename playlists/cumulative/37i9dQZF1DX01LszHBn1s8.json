@@ -9489,6 +9489,24 @@
     },
     {
       "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208106,
+      "name": "If It's Lovin' That You Want",
+      "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
+    },
+    {
+      "album": {
         "name": "If We Ever Broke Up",
         "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
       },
@@ -21205,6 +21223,24 @@
     },
     {
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+    },
+    {
+      "album": {
         "name": "vampire",
         "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
       },
@@ -21216,7 +21252,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
@@ -21496,6 +21532,24 @@
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/2ntMdOsTvndzY4vQzkSigb"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "album": {

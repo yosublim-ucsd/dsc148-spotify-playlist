@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Una selezione speciale a cura di <a href="spotify:artist:6nPFcBOpXLW2vzvor5xo6E">Marco Bardoscia</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,335 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,369 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 49 | [Coco](https://open.spotify.com/track/7g515Mz8SRffzZSFwNvixS) | [Sade Mangiaracina](https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb), [Greg Osby](https://open.spotify.com/artist/1O62I5mxJcYBXcIzY6IMYT) | [Le mie donne](https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY) | 4:37 |
 | 50 | [Wood](https://open.spotify.com/track/3Fp1Vbc2aFtZJJQXj5hVy8) | [Francesco Ciniglio](https://open.spotify.com/artist/75zzu0VU3laESlh6KrqvNj), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Joe Sanders](https://open.spotify.com/artist/37FavLKAfuARIuUxBOyyY7) | [Wood](https://open.spotify.com/album/0OJOvZLRv40GWrE49yVic4) | 6:22 |
 
-Snapshot ID: `MCw5N2VhYTMzNDJjMzg1NTlkMDVkMWU0OGEyMjY1YmQ5NjA5ZWRiYjY0`
+Snapshot ID: `MCwzYjYyNzk3Zjg0NmJiNjkzMzdhMWU1MDFmZDY3YTRmZDAyMDY0MzA5`

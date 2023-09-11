@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Let\u00f3n P\u00e9",
-  "num_followers": 514713,
+  "num_followers": 514718,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTVlZDc5Y2ExNDRjMmIyZmEzNDkwNTVkNmI2YmYwNTRlYzVjMDc5",
+  "snapshot_id": "MCxmNGZkZjY4YTc3MTFiNDhkZTc1OTFmMDlhNDE3YjU3ZjU1N2JkM2Rk",
   "tracks": [
     {
       "added_at": "2023-09-08 08:00:00",
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
+        "name": "Hasta Que Llegue El Verano",
+        "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 227375,
+      "name": "Hasta Que Llegue El Verano",
+      "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
+    },
+    {
+      "added_at": "2023-09-08 08:00:00",
+      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2023-09-08 08:00:00",
-      "album": {
-        "name": "Hasta Que Llegue El Verano",
-        "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 227375,
-      "name": "Hasta Que Llegue El Verano",
-      "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
     },
     {
       "added_at": "2023-09-08 08:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
-        "name": "Un d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 202126,
-      "name": "Un d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
-    },
-    {
-      "added_at": "2023-09-08 08:00:00",
-      "album": {
         "name": "555",
         "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 176335,
       "name": "LALALAND",
       "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
+    },
+    {
+      "added_at": "2023-09-08 08:00:00",
+      "album": {
+        "name": "Un d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 202126,
+      "name": "Un d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
     },
     {
       "added_at": "2023-09-08 08:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS"
+    },
+    {
+      "added_at": "2023-09-08 08:00:00",
+      "album": {
         "name": "80's",
         "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
       },
@@ -767,26 +783,6 @@
       "duration_ms": 213088,
       "name": "80's",
       "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
-    },
-    {
-      "added_at": "2023-09-08 08:00:00",
-      "album": {
-        "name": "Mi Droga Favorita",
-        "url": "https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Mi Droga Favorita",
-      "url": "https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX"
     },
     {
       "added_at": "2023-09-08 08:00:00",
@@ -811,18 +807,22 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
-        "name": "Quien Tengo Que Ser",
-        "url": "https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn"
+        "name": "Mi Droga Favorita",
+        "url": "https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL"
       },
       "artists": [
         {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 267640,
-      "name": "Quien Tengo Que Ser",
-      "url": "https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS"
+      "duration_ms": 175813,
+      "name": "Mi Droga Favorita",
+      "url": "https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX"
     },
     {
       "added_at": "2023-09-08 08:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
-        "name": "Todo lo que es Bueno",
-        "url": "https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Todo lo que es Bueno",
-      "url": "https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh"
-    },
-    {
-      "added_at": "2023-09-08 08:00:00",
-      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 210763,
       "name": "NO TE ALEJES",
       "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
+    },
+    {
+      "added_at": "2023-09-08 08:00:00",
+      "album": {
+        "name": "Todo lo que es Bueno",
+        "url": "https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "Todo lo que es Bueno",
+      "url": "https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh"
     },
     {
       "added_at": "2023-09-08 08:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
-        "name": "Agua Caliente",
-        "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200339,
-      "name": "Agua Caliente",
-      "url": "https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf"
-    },
-    {
-      "added_at": "2023-09-08 08:00:00",
-      "album": {
         "name": "MAKIA",
         "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
-        "name": "Back To U",
-        "url": "https://open.spotify.com/album/4rRwEmIEgyqL70Omv2IWW3"
+        "name": "Agua Caliente",
+        "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
       },
       "artists": [
         {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Back To U",
-      "url": "https://open.spotify.com/track/4kWzYqOsoT2uzn42ueE4jX"
+      "duration_ms": 200339,
+      "name": "Agua Caliente",
+      "url": "https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf"
     },
     {
       "added_at": "2023-09-08 08:00:00",
@@ -1047,6 +1031,22 @@
       "duration_ms": 190000,
       "name": "odiarte",
       "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
+    },
+    {
+      "added_at": "2023-09-08 08:00:00",
+      "album": {
+        "name": "Back To U",
+        "url": "https://open.spotify.com/album/4rRwEmIEgyqL70Omv2IWW3"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Back To U",
+      "url": "https://open.spotify.com/track/4kWzYqOsoT2uzn42ueE4jX"
     },
     {
       "added_at": "2023-09-08 08:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
-        "name": "hot wheels",
-        "url": "https://open.spotify.com/album/3bRecRHl4ngDmRJZ1SQVN2"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        },
-        {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
-        }
-      ],
-      "duration_ms": 169539,
-      "name": "hot wheels",
-      "url": "https://open.spotify.com/track/3Luh6sz1FHuGEv1HFhIR0m"
-    },
-    {
-      "added_at": "2023-09-08 08:00:00",
-      "album": {
         "name": "Me Haces Bien",
         "url": "https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 212701,
       "name": "Porcelana china",
       "url": "https://open.spotify.com/track/3flLyuvTJUeF0UieIfaMi7"
+    },
+    {
+      "added_at": "2023-09-08 08:00:00",
+      "album": {
+        "name": "hot wheels",
+        "url": "https://open.spotify.com/album/3bRecRHl4ngDmRJZ1SQVN2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        },
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 169539,
+      "name": "hot wheels",
+      "url": "https://open.spotify.com/track/3Luh6sz1FHuGEv1HFhIR0m"
     },
     {
       "added_at": "2023-09-08 08:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
+    },
+    {
+      "added_at": "2023-09-08 08:00:00",
+      "album": {
         "name": "TUYO",
         "url": "https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ"
       },
@@ -1475,38 +1491,6 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
-        "name": "poco a poquito",
-        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "poco a poquito",
-      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
-    },
-    {
-      "added_at": "2023-09-08 08:00:00",
-      "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
-    },
-    {
-      "added_at": "2023-09-08 08:00:00",
-      "album": {
         "name": "Inhabitable",
         "url": "https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 167240,
       "name": "Inhabitable",
       "url": "https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb"
+    },
+    {
+      "added_at": "2023-09-08 08:00:00",
+      "album": {
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
     },
     {
       "added_at": "2023-09-08 08:00:00",
@@ -1555,22 +1555,26 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/7KgYdNJpqOGhtZMCWLHwgz"
+        "name": "Migajas",
+        "url": "https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0"
       },
       "artists": [
         {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+          "name": "Jorge Franco",
+          "url": "https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB"
         },
         {
-          "name": "The Citie",
-          "url": "https://open.spotify.com/artist/2c7bLl7KC3V1C2YCUYaiHb"
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        },
+        {
+          "name": "Carlos Neda",
+          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/0lDFMgOWHOBziopIEPUEX2"
+      "duration_ms": 161147,
+      "name": "Migajas",
+      "url": "https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M"
     },
     {
       "added_at": "2023-09-08 08:00:00",
@@ -1607,26 +1611,22 @@
     {
       "added_at": "2023-09-08 08:00:00",
       "album": {
-        "name": "Migajas",
-        "url": "https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/7KgYdNJpqOGhtZMCWLHwgz"
       },
       "artists": [
         {
-          "name": "Jorge Franco",
-          "url": "https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB"
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
         },
         {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        },
-        {
-          "name": "Carlos Neda",
-          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
+          "name": "The Citie",
+          "url": "https://open.spotify.com/artist/2c7bLl7KC3V1C2YCUYaiHb"
         }
       ],
-      "duration_ms": 161147,
-      "name": "Migajas",
-      "url": "https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M"
+      "duration_ms": 215000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/0lDFMgOWHOBziopIEPUEX2"
     },
     {
       "added_at": "2023-09-08 08:00:00",

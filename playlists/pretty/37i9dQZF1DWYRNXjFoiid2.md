@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Today's best pop to fuel your gaming\. Cover: BoyWithUke
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,561 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,956 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 44 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 |
 | 45 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 |
 | 46 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
-| 47 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
-| 48 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 |
+| 47 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 |
+| 48 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
 | 49 | [this is what falling in love feels like](https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:00 |
 | 50 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 |
 | 51 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 87 | [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 |
 | 88 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 |
 | 89 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 |
-| 90 | [Party Girl](https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ) | [Party Girl](https://open.spotify.com/album/4NPX54YtocHqTOq6yXDEFM) | 2:27 |
-| 91 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 |
+| 90 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 |
+| 91 | [Party Girl](https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ) | [Party Girl](https://open.spotify.com/album/4NPX54YtocHqTOq6yXDEFM) | 2:27 |
 | 92 | [Understand](https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:51 |
 | 93 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
 | 94 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
 | 95 | [Bang!](https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 2:50 |
 | 96 | [Spicy \(feat\. Post Malone\)](https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:23 |
 | 97 | [Dancing in My Room](https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Dancing in My Room](https://open.spotify.com/album/3t1MvGhT6LU3fOIp3KMrta) | 3:00 |
-| 98 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
-| 99 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 |
+| 98 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 |
+| 99 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
 | 100 | [NO BAD DAYS \(feat\. Collett\)](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Collett](https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 2:53 |
 
-Snapshot ID: `MCxiYzRhMjEwOTRiZDljMWU1Y2U3ODMwMDA0YmQyOGRmOWQ2OGVmM2Y1`
+Snapshot ID: `MCw1Y2RkYTUxYmU1NmM4Nzg3MTVhMDY0MTI0NjI2M2UzMTQ1ZjBhNDRm`

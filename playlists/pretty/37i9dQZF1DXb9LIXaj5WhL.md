@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,351,040 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,351,219 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 38 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 |
 | 39 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 |
 | 40 | [You Were Meant For Me](https://open.spotify.com/track/7y7aSSTiQfO0Ace4F7yxzE) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr) | 4:14 |
-| 41 | [Stay \(I Missed You\)](https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Stay \(I Missed You\)](https://open.spotify.com/album/0candONErDvN9wWFhOWXrS) | 3:04 |
-| 42 | [The World I Know](https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE) | 4:15 |
+| 41 | [The World I Know](https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE) | 4:15 |
+| 42 | [Stay \(I Missed You\)](https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Stay \(I Missed You\)](https://open.spotify.com/album/0candONErDvN9wWFhOWXrS) | 3:04 |
 | 43 | [Coffee & TV](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 5:58 |
 | 44 | [Zombie \- Acoustic Version](https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r) | 4:01 |
 | 45 | [Touch, Peel And Stand](https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:57 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 51 | [California Stars](https://open.spotify.com/track/5B2mJIk8yso3ugyvfHR62A) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue](https://open.spotify.com/album/22rLwPW3QCaLB8UgWDY9bM) | 4:58 |
 | 52 | [Because the Night \- Live Unplugged](https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 3:43 |
 | 53 | [A Long December](https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Recovering The Satellites](https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP) | 4:55 |
-| 54 | [Who Will Save Your Soul](https://open.spotify.com/track/0OH8dSQmKm2zjhqRPYsk1h) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr) | 3:59 |
-| 55 | [Under the Bridge](https://open.spotify.com/track/23NPGXlSaIqWzvxIRhM2oG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Greatest Hits](https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC) | 4:25 |
+| 54 | [Under the Bridge](https://open.spotify.com/track/23NPGXlSaIqWzvxIRhM2oG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Greatest Hits](https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC) | 4:25 |
+| 55 | [Who Will Save Your Soul](https://open.spotify.com/track/0OH8dSQmKm2zjhqRPYsk1h) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr) | 3:59 |
 | 56 | [Torn \- Acoustic MTV Unplugged](https://open.spotify.com/track/1iPvdHIQQSNJ4iRm92Bcbx) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Torn/Wishing I Was There](https://open.spotify.com/album/3wtn5Xqs97Vrj2u3SSykE1) | 3:06 |
 | 57 | [Say Yes](https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:19 |
 | 58 | [Last Day of Our Acquaintance](https://open.spotify.com/track/3EYW4bmuPLRo74rf3Yrsw9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 74 | [The Pusher](https://open.spotify.com/track/0QXxJofIuWHLQafnTzFAwV) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Nico](https://open.spotify.com/album/7ikXCPzEM6uTEugCzqG4cT) | 3:06 |
 | 75 | [Kiss from a Rose \- Acoustic](https://open.spotify.com/track/3YfiGjwBzBsDrYPqAJsD4z) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Best 1991 \- 2004](https://open.spotify.com/album/3NehJpD5x3MUtpl8jDTHaa) | 5:24 |
 
-Snapshot ID: `MCxiZDk0NTkyZDYwNDFhNDJhMGNmNjRmMTc5NTU5MmM4YWFmZmJiOWFi`
+Snapshot ID: `MCxlNmQ2ZWIzNmUwNGNlZjViMTRhYjI2MTUzOTMzZmZiN2U2ZDcxNzMz`

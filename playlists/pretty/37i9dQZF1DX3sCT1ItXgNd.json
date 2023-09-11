@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Sebasti\u00e1n Yatra, Abraham Mateo",
-  "num_followers": 992191,
+  "num_followers": 992433,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjMxZGUyOWNjZDhiMWMyOTZiN2M5ZGE0OWI5NzZmZjRjZDYwZjI5",
+  "snapshot_id": "MCw5NzFkNTFjNDExMWVhODBjNGIxNTZlY2YxNWM1ZTEzMWEzMDc4OTMy",
   "tracks": [
     {
       "added_at": "2023-09-07 22:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Pasa_je_ro",
-        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 247280,
-      "name": "Pasa_je_ro",
-      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 200769,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Pasa_je_ro",
+        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Pasa_je_ro",
+      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
+        "name": "COSTA RICA",
+        "url": "https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "DOS PRIMAVERAS",
+      "url": "https://open.spotify.com/track/4OpzznhpDY6UfXbapDEAJF"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7"
       },
@@ -895,18 +911,18 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "COSTA RICA",
-        "url": "https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L"
+        "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
+        "url": "https://open.spotify.com/album/0bM0pHTfKHh5BcNpxcvuFw"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 175748,
-      "name": "DOS PRIMAVERAS",
-      "url": "https://open.spotify.com/track/4OpzznhpDY6UfXbapDEAJF"
+      "duration_ms": 170600,
+      "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
+      "url": "https://open.spotify.com/track/64jJKitRKjCCKKCuShfpSl"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -927,22 +943,6 @@
       "duration_ms": 159272,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/1iNJJ72vb58cVLX5Wkbpwv"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
-        "url": "https://open.spotify.com/album/0bM0pHTfKHh5BcNpxcvuFw"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
-      "url": "https://open.spotify.com/track/64jJKitRKjCCKKCuShfpSl"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
+        "name": "Tengo Roto El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 193326,
+      "name": "Tengo Roto El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
         "name": "Espinita Clav\u00e1",
         "url": "https://open.spotify.com/album/6TNvmYm1VvIgk7VkKiyiUw"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 139876,
       "name": "Canci\u00f3n de pop",
       "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Tengo Roto El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 193326,
-      "name": "Tengo Roto El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
+        "name": "COSTA RICA",
+        "url": "https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/2FofLDb6Agbl5pgpjC3WSc"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
         "name": "Un Rato pa Siempre",
         "url": "https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 163505,
       "name": "Un Rato pa Siempre",
       "url": "https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "COSTA RICA",
-        "url": "https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 201206,
-      "name": "MI BANDERA",
-      "url": "https://open.spotify.com/track/2FofLDb6Agbl5pgpjC3WSc"
     },
     {
       "added_at": "2023-09-07 22:01:00",

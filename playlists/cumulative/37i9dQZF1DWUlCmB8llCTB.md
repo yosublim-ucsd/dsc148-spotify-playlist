@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con Alejo & Yandel.
 
-594 songs - 1 day 8 hr 26 min
+595 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Corazón Egoísta](https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Cerrando Capítulo](https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR) | 2:52 | 2021-12-24 | 2022-04-16 |
 | [Corazón Roto](https://open.spotify.com/track/4x2cAn3IIBBMpXsU8UHS9k) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Corazón Roto](https://open.spotify.com/album/1Tet5B9nNy0B5pfVPRRfNQ) | 2:31 | 2023-01-20 | 2023-07-01 |
 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-04-07 |  |
-| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 | 2023-09-11 |
 | [Cosas Malas](https://open.spotify.com/track/2MaYHbpwybBOm9CrDBfChl) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Dopamina](https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f) | 3:48 | 2021-12-24 | 2022-04-09 |
 | [COSITAS](https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:15 | 2022-11-04 | 2023-03-04 |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-01-28 | 2022-08-13 |

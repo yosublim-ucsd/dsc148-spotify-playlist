@@ -1,12 +1,12 @@
 {
   "description": "R&B sensual para una apasionada noche en excelente compa\u00f1\u00eda.",
-  "num_followers": 142804,
+  "num_followers": 142837,
   "original_name": "Texteo de Medianoche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWRiYjQ3ZDdiM2RiMjI2ODQyMGMyN2VlOTQ3ZjAxNDVjODk5ODIy",
+  "snapshot_id": "MCxmOTc5NmNlZWY5MzJjYTU2YTUwNTkzYjgyZjQxMjA5NTM0MDY0YWZm",
   "tracks": [
     {
       "added_at": "2023-09-08 23:16:15",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Feel No Ways",
-      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 252746,
       "name": "Could've Been (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Feel No Ways",
+      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 169590,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 183750,
       "name": "Between Us (feat. Snoh Aalegra)",
       "url": "https://open.spotify.com/track/759KqKQyDmTWJape4odo21"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
-        "name": "Only",
-        "url": "https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 169590,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "Mi Fantasma",
-        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 162391,
-      "name": "Mi Fantasma",
-      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/6faJS4UNFHTcJ1LkPPuGbL"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 166704,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/1aIJvWbKGJYzGqE1Y2Q1N6"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
+        "name": "Mi Fantasma",
+        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 162391,
+      "name": "Mi Fantasma",
+      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "Not The One",
-        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
+        "name": "Aypap\u00e1",
+        "url": "https://open.spotify.com/album/1bnFGoxUB85AP9sGeiyPk8"
       },
       "artists": [
         {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+          "name": "Canina",
+          "url": "https://open.spotify.com/artist/2qUVhNtHcm4EPbQe2VzrOz"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
+      "duration_ms": 161854,
+      "name": "Aypap\u00e1",
+      "url": "https://open.spotify.com/track/55mcZdBqxt6FAwbQ5QsuWI"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1515,6 +1515,22 @@
       "duration_ms": 201846,
       "name": "For You",
       "url": "https://open.spotify.com/track/72cvnnG6vGhSbYMQDDfc26"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
+        "name": "Not The One",
+        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1575,22 +1591,6 @@
       "duration_ms": 265186,
       "name": "NOTHING TO ME",
       "url": "https://open.spotify.com/track/6QTxtk3ZO30mI8gHj8aGTP"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
-        "name": "Aypap\u00e1",
-        "url": "https://open.spotify.com/album/1bnFGoxUB85AP9sGeiyPk8"
-      },
-      "artists": [
-        {
-          "name": "Canina",
-          "url": "https://open.spotify.com/artist/2qUVhNtHcm4EPbQe2VzrOz"
-        }
-      ],
-      "duration_ms": 161854,
-      "name": "Aypap\u00e1",
-      "url": "https://open.spotify.com/track/55mcZdBqxt6FAwbQ5QsuWI"
     },
     {
       "added_at": "2023-09-08 23:16:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Cardi B + Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,795 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,807 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Vino Bandit](https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Vino Bandit](https://open.spotify.com/album/5wmkCBglZqdYFKjudx75JG) | 2:30 |
 | 80 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
 
-Snapshot ID: `MCwxNDMyOGQxYTk3YzM1ZDJlMGE3ODgwMDEyZjA4YjA1MWUwMmM4YTc4`
+Snapshot ID: `MCxjMDY0OGY4ZWU2MTQ1MDVmZjBkNjQzMGZmOGE0NWY3MTYyNjU2MTgw`

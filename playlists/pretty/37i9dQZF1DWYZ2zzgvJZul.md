@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Él Mató a un Policía Motorizado
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,376 likes - 85 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,395 likes - 85 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 14 | [Luces](https://open.spotify.com/track/6bX7kiZsHjERDyiQReVxtT) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Tiempo Futuro](https://open.spotify.com/album/3GNwfsYXxTJgz5hKlpR6Hn) | 3:08 |
 | 15 | [Pulso](https://open.spotify.com/track/1OqoF7ANdhrrN1gvWI3gN5) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:26 |
 | 16 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
-| 17 | [Vengo Por Ti](https://open.spotify.com/track/7fY3hMKsiUSCAoCqdeL6N7) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Vengo Por Ti](https://open.spotify.com/album/0apH6KwCYJ1P2ep78TSBtM) | 2:45 |
+| 17 | [VENGO POR TI \- Bonus Track](https://open.spotify.com/track/7fY3hMKsiUSCAoCqdeL6N7) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [VENGO POR TI \(Bonus Track\)](https://open.spotify.com/album/0apH6KwCYJ1P2ep78TSBtM) | 2:45 |
 | 18 | [Perdón\-amé](https://open.spotify.com/track/2Unv2jkpb7YtD928RGABBq) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Perdón\-amé](https://open.spotify.com/album/5NOp0mO4WPqsVG6uCEunSn) | 2:53 |
 | 19 | [Cahuín](https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cahuín](https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6) | 3:01 |
 | 20 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 84 | [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 2:25 |
 | 85 | [Corazón](https://open.spotify.com/track/5ubEpPWx9IDf75pmbOfHP8) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP) | [Respirar una Vez Mas](https://open.spotify.com/album/32qXAp0uwu8UOysuzdqlmD) | 4:34 |
 
-Snapshot ID: `MCw4NTY3MDUzYTUzOGY5MDU1MGY1NzQ4NmZhN2FhNzM3ZTg1Y2QyMmI1`
+Snapshot ID: `MCwxYWUzZmEyZDc0ZDdhOTk5YTM0OGFhMDAxNGJmYjEwMjBkZjU5YzIz`

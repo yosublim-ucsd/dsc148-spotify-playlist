@@ -1,12 +1,12 @@
 {
   "description": "Gettin' figgy with it, bana-na-na-nanana",
-  "num_followers": 988761,
+  "num_followers": 989095,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjFiNWQ2Y2ExNjc3Yzg4ZDlmM2UxZDdkM2Y1MDA3NmVmYTFlNGM4",
+  "snapshot_id": "MCwwM2M1ZmYxOWE0MDdhZTA1ZjE4NTE0NDAzMTBlMGJlZGNhNWI4NmMw",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 233733,
       "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
       "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2023-04-19 18:10:42",
@@ -2371,8 +2387,8 @@
     {
       "added_at": "2023-04-19 18:10:42",
       "album": {
-        "name": "If You Don't Want My Love",
-        "url": "https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6"
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
       "artists": [
         {
@@ -2382,7 +2398,7 @@
       ],
       "duration_ms": 146813,
       "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
+      "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG"
     },
     {
       "added_at": "2023-04-19 18:10:42",

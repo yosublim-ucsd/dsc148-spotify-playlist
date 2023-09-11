@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Miley Cyrus
 
-1,003 songs - 2 day 3 hr 49 min
+1,004 songs - 2 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -932,7 +932,8 @@
 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1) | 3:22 | 2023-04-14 | 2023-07-22 |
 | [Use Your Love \(feat\. Goldford\)](https://open.spotify.com/track/5W05N4aETUauCVzddI8L66) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Use Your Love \(feat\. Goldford\)](https://open.spotify.com/album/3uvtlLCF4HKbxG8jxxqfYr) | 2:54 | 2020-10-13\* | 2020-11-20 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 |  |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Vibez](https://open.spotify.com/track/709F3MwiVvLD0LQXeKs5Cz) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Vibez](https://open.spotify.com/album/18VcdfV5jJVjn10mh0vOYt) | 2:43 | 2021-01-08 | 2021-03-06 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-21 | 2021-12-04 |
 | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe) | 3:08 | 2023-01-27 | 2023-03-08 |

@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 150665,
+  "num_followers": 150760,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTk3NWNjZmJlNWEwYmIyZTA5YzI2NDc1NzNlYmVkMDUyOWZkNWQx",
+  "snapshot_id": "MCxlNTRmZTU0OTk5NGIyYThjN2NiNDlmZWNmYjM5M2I2NmU4MTIyMTI1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "LONER",
-        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 248791,
-      "name": "More Of The Same",
-      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Bottle It In",
         "url": "https://open.spotify.com/album/1UVthTEgHP0WcZZxqHtkvL"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 203133,
       "name": "Loading Zones",
       "url": "https://open.spotify.com/track/0Z6W8GqZLM7DmgKp2jY6Pd"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "LONER",
+        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 248791,
+      "name": "More Of The Same",
+      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Olympians",
-        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
-      },
-      "artists": [
-        {
-          "name": "The Olympians",
-          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
-        }
-      ],
-      "duration_ms": 271466,
-      "name": "Apollo's Mood",
-      "url": "https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "The Party",
         "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 205525,
       "name": "Quite Like You",
       "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Olympians",
+        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
+      },
+      "artists": [
+        {
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+        }
+      ],
+      "duration_ms": 271466,
+      "name": "Apollo's Mood",
+      "url": "https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Pearls to Swine",
-        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
-      },
-      "artists": [
-        {
-          "name": "Adam Torres",
-          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
-        }
-      ],
-      "duration_ms": 360946,
-      "name": "Juniper Arms",
-      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Sneaker Waves",
         "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 245880,
       "name": "Glass Jar",
       "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Pearls to Swine",
+        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
+      },
+      "artists": [
+        {
+          "name": "Adam Torres",
+          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
+        }
+      ],
+      "duration_ms": 360946,
+      "name": "Juniper Arms",
+      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
     },
     {
       "added_at": "2023-08-18 04:01:00",

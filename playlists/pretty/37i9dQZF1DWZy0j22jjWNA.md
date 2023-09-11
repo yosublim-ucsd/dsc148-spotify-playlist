@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,836 likes - 65 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,901 likes - 65 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 12 | [Dreaming in Electric Blue](https://open.spotify.com/track/680DQctfdFDsuO0Dt1QV3a) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Dreaming in Electric Blue](https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U) | 3:12 |
 | 13 | [Lie](https://open.spotify.com/track/3O1uhWkr42NesFnVloLq2a) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:35 |
 | 14 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 |
-| 15 | [Beautiful Anyway](https://open.spotify.com/track/7dLyLufQvh84ghKQ0qiWTb) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Beautiful Anyway](https://open.spotify.com/album/1DBj9YNMRkONwSVBLr5jRD) | 4:58 |
-| 16 | [Bridges](https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5) | 3:36 |
+| 15 | [Bridges](https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5) | 3:36 |
+| 16 | [Beautiful Anyway](https://open.spotify.com/track/7dLyLufQvh84ghKQ0qiWTb) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Beautiful Anyway](https://open.spotify.com/album/1DBj9YNMRkONwSVBLr5jRD) | 4:58 |
 | 17 | [Survival \(feat\. Drew Holcomb & Ellie Holcomb\)](https://open.spotify.com/track/4os91DjSzBTVk2GaPtkrMp) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:27 |
 | 18 | [End of the World](https://open.spotify.com/track/01yPhHRM0V95CenZmFQKjw) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Dragons](https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31) | 3:24 |
 | 19 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 22 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 |
 | 23 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 24 | [Kin](https://open.spotify.com/track/2bLR9LPyrBiT0F4KohEbop) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 3:24 |
-| 25 | [Harmony Hall](https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Covers](https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF) | 4:57 |
-| 26 | [Backwards](https://open.spotify.com/track/07ii8FiGFeAf6ZoW8TbggA) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Zeal](https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37) | 3:48 |
+| 25 | [Backwards](https://open.spotify.com/track/07ii8FiGFeAf6ZoW8TbggA) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Zeal](https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37) | 3:48 |
+| 26 | [Harmony Hall](https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Covers](https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF) | 4:57 |
 | 27 | [Time's Always Leaving](https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk into a Storm](https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ) | 3:17 |
 | 28 | [Citizens](https://open.spotify.com/track/216VrH1pVtArk8lilJJQih) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 4:22 |
 | 29 | [Not Afraid Of The Dark](https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz) | [Carrollton](https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs) | [Carrollton](https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf) | 3:52 |
-| 30 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
-| 31 | [Like Myself](https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Like Myself](https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv) | 2:28 |
+| 30 | [Like Myself](https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Like Myself](https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv) | 2:28 |
+| 31 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
 | 32 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
 | 33 | [Holy Rain](https://open.spotify.com/track/6CFj3yJ1i8U91Cn7jN0fSI) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Pilot of My Own Life](https://open.spotify.com/album/6AsU7R0g9THoQ7f4NKK2AJ) | 4:04 |
 | 34 | [Morning Song](https://open.spotify.com/track/0TITOVVpWkNT5H3JKVdoXq) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Morning Song](https://open.spotify.com/album/2MB2SNajHrRGLcnEGFgns2) | 4:21 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 52 | [Oh Dreamer](https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Oh Dreamer](https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei) | 3:24 |
 | 53 | [Free](https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [One Wild Life](https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp) | 3:28 |
 | 54 | [Glow](https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:03 |
-| 55 | [Autumn Love](https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Autumn Love](https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4) | 4:55 |
-| 56 | [New Day](https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Under Fire](https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m) | 4:18 |
+| 55 | [New Day](https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Under Fire](https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m) | 4:18 |
+| 56 | [Autumn Love](https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Autumn Love](https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4) | 4:55 |
 | 57 | [God Who Sees Me](https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL) | [The Hedgerow Folk](https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6) | [God Who Sees Me](https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE) | 4:00 |
 | 58 | [Losing the Lonely](https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Versions](https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa) | 3:51 |
 | 59 | [Roses](https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Roses](https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs) | 3:08 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 |
 | 65 | [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 |
 
-Snapshot ID: `MCxkMDFmOTNkYWFlZDBhM2M0OGI1NmM2YmU4OWE0YmNiMjcyNDc3ZmMz`
+Snapshot ID: `MCw3ZDE5MjAxNTY1YmRmMGM4MDQwYzE4ZjVjYmVjMGIwMGNkNjQxMjJh`

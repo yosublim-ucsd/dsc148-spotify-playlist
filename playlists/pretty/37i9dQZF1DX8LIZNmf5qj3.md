@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,213 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,291 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Need Somebody](https://open.spotify.com/track/458BEIp4800wqETir63KMC) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Need Somebody](https://open.spotify.com/album/1Erp7I20B2ZUbG2nhSAv2p) | 3:29 |
 | 50 | [Keep Me In Love](https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Keep Me In Love](https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt) | 2:36 |
 
-Snapshot ID: `MCxmNzBmYjdmMzQxYzVmZjIyMjllOTExNGEwZGNjZjZkOTNkZTE1ZDc4`
+Snapshot ID: `MCw0YWQ2NWJjMDFlMzgyMjFjOTRhNGEyOWFmN2QyNjFhOTc4MDM2ODg5`

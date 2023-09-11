@@ -2809,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "STILL ON MY WAY",
+        "url": "https://open.spotify.com/album/6aR92xjZNT47PxQDhQb4wC"
+      },
+      "artists": [
+        {
+          "name": "TRENDZ",
+          "url": "https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "MY WAY",
+      "url": "https://open.spotify.com/track/6w4QiIpOwtNKDMQBXBkBCS"
+    },
+    {
+      "album": {
         "name": "Keep Drinking",
         "url": "https://open.spotify.com/album/5weZL40Nw4VmHCAAJtBzKv"
       },
@@ -4022,7 +4040,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 199240,
       "name": "TNT (Truth&Trust)",
       "url": "https://open.spotify.com/track/4T30WW01s7L6kVDjJcIjST"

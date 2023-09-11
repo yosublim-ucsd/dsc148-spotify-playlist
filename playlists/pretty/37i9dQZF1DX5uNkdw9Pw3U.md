@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,998 likes - 94 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,244 likes - 94 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 22 | [Leftovers](https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Leftovers](https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0) | 3:12 |
 | 23 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 |
 | 24 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 |
-| 25 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 |
-| 26 | [Jungle](https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle](https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY) | 5:15 |
+| 25 | [Jungle](https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle](https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY) | 5:15 |
+| 26 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 |
 | 27 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
 | 28 | [Heart Don't Stand a Chance](https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 5:12 |
 | 29 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 53 | [You](https://open.spotify.com/track/0LWo1USV7wlguM1Y3RePOM) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:24 |
 | 54 | [Thank You](https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb) | 3:24 |
 | 55 | [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 |
-| 56 | [I Don't Think We Should Wait](https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 5:00 |
-| 57 | [Care for You](https://open.spotify.com/track/3cW7ETAXGDAM2aNN45DuNq) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Dancing Shadows](https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI) | 3:32 |
+| 56 | [Care for You](https://open.spotify.com/track/3cW7ETAXGDAM2aNN45DuNq) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Dancing Shadows](https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI) | 3:32 |
+| 57 | [I Don't Think We Should Wait](https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 5:00 |
 | 58 | [Queen Tings \- Santi Remix](https://open.spotify.com/track/4EOVChDG9c5HX5jrNdBDd6) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Queen Tings \(Santi Remix\)](https://open.spotify.com/album/3ywbciCdfP9GZ1inddiz6a) | 3:31 |
 | 59 | [Don't Pretend](https://open.spotify.com/track/78P2cNBhbdjXWIRYuEXkV6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Don't Pretend](https://open.spotify.com/album/5eKt7MxCNDB7XFqdJBPaJS) | 2:45 |
 | 60 | [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 67 | [Time](https://open.spotify.com/track/5ZZwWo5tBpa1IxEuASX5CL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Time](https://open.spotify.com/album/4AQ8M9UhgOSRTT0OjEU3Ik) | 3:04 |
 | 68 | [Coco Blood](https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Coco Blood](https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k) | 3:35 |
 | 69 | [Avenue](https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Avenue](https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM) | 3:16 |
-| 70 | [Orbit \- Live from Air Studios](https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Orbit \(Live from Air Studios\)](https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV) | 3:54 |
-| 71 | [gangster romanse \(feat\. Magdi\)](https://open.spotify.com/track/1ftdrKxNslW2b60trc2inw) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Magdi](https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J) | [sukkerspinn & hodepine \(Del 2\)](https://open.spotify.com/album/1liGHJczFXltMS2R4kqV8R) | 2:43 |
+| 70 | [gangster romanse \(feat\. Magdi\)](https://open.spotify.com/track/1ftdrKxNslW2b60trc2inw) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Magdi](https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J) | [sukkerspinn & hodepine \(Del 2\)](https://open.spotify.com/album/1liGHJczFXltMS2R4kqV8R) | 2:43 |
+| 71 | [Orbit \- Live from Air Studios](https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Orbit \(Live from Air Studios\)](https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV) | 3:54 |
 | 72 | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/track/4Fv2Yzpm9q7r6DJujUeUiP) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/album/7lI5od7f6ljgPBZLEQbjmG) | 4:49 |
 | 73 | [Hopeful](https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [How Is Your Soul?](https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X) | 2:46 |
 | 74 | [Seasons \(with Khalid\)](https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Seasons \(with Khalid\)](https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f) | 4:10 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
 | 94 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
 
-Snapshot ID: `MCw0ODVlMTM3MTc4NzExMWYyOWY5YTRkYmUzNmVmNTg2ODU4MDBkMTNj`
+Snapshot ID: `MCw0MzZjMDEwZWY5ZTRjZDdlNWYxMzI0NzBjM2I1ZWRmOTA0MzdjODgy`

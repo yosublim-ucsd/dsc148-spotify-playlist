@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Blxst, Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,434 likes - 78 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,459 likes - 78 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 77 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 |
 | 78 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
 
-Snapshot ID: `MCwxOTczNWU5MDRmMGJhNjFhZTE0OWY0NThmZWZiOTQ2ZDkxNjQ4YzUz`
+Snapshot ID: `MCwwY2I3YTlkOWJlMmQzNzk1YmY5NGJmZTZiZGFjOWZiNmU5NWM1Njcw`

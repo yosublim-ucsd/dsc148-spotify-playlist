@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDafB3skWPN.md) - [plain]
 
 > Celebrate yourself with a fun pop & hip hop mix
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,006 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,180 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDafB3skWPN.md) - [plain]
 | 42 | [Sorry Not Sorry](https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 3:23 |
 | 43 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 |
 | 44 | [Like That \(feat\. Gucci Mane\)](https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 2:43 |
-| 45 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 |
-| 46 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
+| 45 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
+| 46 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 |
 | 47 | [Disco Inferno](https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:34 |
 | 48 | [OMG \(feat\. will.i.am\)](https://open.spotify.com/track/1bM50INir8voAkVoKuvEUI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 4:29 |
 | 49 | [Bartender \(feat\. Akon\)](https://open.spotify.com/track/1RGIjMFMgJxkZHMDXVYzOJ) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Epiphany \(Expanded Edition\)](https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h) | 3:58 |
 | 50 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
 
-Snapshot ID: `MCxiZTA4YmU5ZjAwNWFiZWZhYTkxNmEwZThiYjczMmM0MTVkMzJjZmNk`
+Snapshot ID: `MCxhYzQ4MDg3NzIxYzcyY2I1M2E2ZmVjZmNiMjUxZTIyYmQ5MmQxNzlh`

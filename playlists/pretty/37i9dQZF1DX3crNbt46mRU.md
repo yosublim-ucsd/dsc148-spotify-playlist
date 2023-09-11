@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,885 likes - 107 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,891 likes - 107 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 106 | [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 |
 | 107 | [Reissverschluss klemmt](https://open.spotify.com/track/69QaprpLNh6j4u1joWqqbl) | [Alexander Marcus](https://open.spotify.com/artist/4WmEJkzJ7Z3yeIa98QS93Y) | [Robotus](https://open.spotify.com/album/3SCGBkGu8gHwE3VCsuq0UY) | 2:24 |
 
-Snapshot ID: `MCxjZGI1YTI3ZjljYWNkYWViN2NkM2JhYTZlNmFmMDg4YjNkZTJmOWE2`
+Snapshot ID: `MCw3ZTI0YTBkOGM3YjhkMTBjNGVmNDQ4YTMwNDY4YjUzM2M5MGNiZDE2`

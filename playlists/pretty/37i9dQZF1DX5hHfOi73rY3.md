@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,726 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,775 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 16 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 |
 | 17 | [Panic Room](https://open.spotify.com/track/3MkuFR7t25mu7Iscp6GGiV) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Panic Room](https://open.spotify.com/album/0I1FZLxw8XWEwQMLMAlTkp) | 3:34 |
 | 18 | [Watercolour \- Full Version; Single](https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Immersion](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS) | 5:04 |
-| 19 | [Tidal Wave](https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 3:48 |
-| 20 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 |
+| 19 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 |
+| 20 | [Tidal Wave](https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 3:48 |
 | 21 | [Benediction](https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3) | [Different Sides Of The Sun](https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6) | 6:39 |
 | 22 | [The Groovy Cat](https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [The Groovy Cat](https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz) | 4:32 |
 | 23 | [No Problem](https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Control](https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Mystery Machine](https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj) | 3:48 |
 | 50 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 |
 
-Snapshot ID: `MCw4ZjA0NTc4ZmM0MDMwMmU0Njk4M2FmZjFhMDgyNTU1ZTVmYjA2NThi`
+Snapshot ID: `MCwyMjc5MWZmMzdkMzdlMTExNWM2NDA4ZjI4NWVmOTBlYjFmYTg1NDYz`

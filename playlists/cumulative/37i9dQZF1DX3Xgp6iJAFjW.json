@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 185538,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/54HYvUQmEmPa9KWBxolxkM"
@@ -2672,6 +2672,68 @@
       "duration_ms": 286226,
       "name": "Tan Pronto Llegan los Reyes",
       "url": "https://open.spotify.com/track/1DK8HS1wnJjMI4wLykcxfZ"
+    },
+    {
+      "album": {
+        "name": "Navidad en Bor\u00ednquen",
+        "url": "https://open.spotify.com/album/4aepF49pb9dljNnzXgisO0"
+      },
+      "artists": [
+        {
+          "name": "Danny Rivera",
+          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        },
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        },
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        },
+        {
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+        },
+        {
+          "name": "Victor Victor",
+          "url": "https://open.spotify.com/artist/6cLqxNFHvt8cBfe6ZdvKIT"
+        },
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        },
+        {
+          "name": "Pupy Santiago",
+          "url": "https://open.spotify.com/artist/1AwtkVab3KjuB4wHYVj28r"
+        },
+        {
+          "name": "Grupo Wao",
+          "url": "https://open.spotify.com/artist/1uTlnWfKBuO8DKuuVOFWKa"
+        },
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/0AE7HMciFJ9vrElOEkcCkF"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513613,
+      "name": "Tarjeta de Navidad",
+      "url": "https://open.spotify.com/track/2ROX1dn85u8PTvmdbwy4qL"
     },
     {
       "album": {

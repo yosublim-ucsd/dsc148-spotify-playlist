@@ -1,12 +1,12 @@
 {
   "description": "The most romantic tracks of all time, featuring today's hits and all the classics.",
-  "num_followers": 570819,
+  "num_followers": 570875,
   "original_name": "Valentine's Day Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmU5ODkzYzkxMTY2NTlhMTEwMWM4NDg3MjFlNDM0NzdmZDM1ZDcy",
+  "snapshot_id": "MCxlNWQwYjgxNmQ0NzAyYjUwMWNiY2ZkNThhNjBjN2JjODVjNTJiODRi",
   "tracks": [
     {
       "added_at": "2023-02-14 15:24:25",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Let's Fall in Love for the Night",
-      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 290573,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Let's Fall in Love for the Night",
+      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "Greetings From...Jake",
         "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 238400,
       "name": "Made For You",
       "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW"
     },
     {
       "added_at": "2023-02-14 15:24:25",

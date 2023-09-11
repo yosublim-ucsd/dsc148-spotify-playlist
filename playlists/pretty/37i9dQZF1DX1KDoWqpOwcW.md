@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > El soundtrack oficial de la Liga Mexicana de Beisbol ⚾️🏟🧢
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,557 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,582 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 57 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 |
 | 58 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
 | 59 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 |
-| 60 | [Vida de Rico](https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:04 |
-| 61 | [Gente De Accionar](https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Si Lo Digo Es Porque Puedo](https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR) | 2:52 |
+| 60 | [Gente De Accionar](https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Si Lo Digo Es Porque Puedo](https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR) | 2:52 |
+| 61 | [Vida de Rico](https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:04 |
 | 62 | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI) | 3:33 |
 | 63 | [Party Rock Anthem](https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq) | 4:22 |
 | 64 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 70 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 |
 | 71 | [Tiburon](https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:03 |
 | 72 | [A Través del Vaso](https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw) | [Grupo Arranke](https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu) | [A Través del Vaso](https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn) | 3:08 |
-| 73 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
-| 74 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 |
+| 73 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 |
+| 74 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
 | 75 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
 | 76 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 |
 | 77 | [Sangoloteadito](https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido de Amores](https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST) | 3:02 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 87 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 88 | [La Ventanita](https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h) | [Garibaldi](https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX) | [Caribe](https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd) | 4:11 |
 | 89 | [Qué Nivel De Mujer](https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:28 |
-| 90 | [Rock Lobster](https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 6:49 |
-| 91 | [Payaso de rodeo](https://open.spotify.com/track/0EVcfyLGhkvm2RMXMWI456) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Payaso de rodeo](https://open.spotify.com/album/1NMqmkX9KhLoy5fXxtiS5S) | 4:14 |
+| 90 | [Payaso de rodeo](https://open.spotify.com/track/0EVcfyLGhkvm2RMXMWI456) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Payaso de rodeo](https://open.spotify.com/album/1NMqmkX9KhLoy5fXxtiS5S) | 4:14 |
+| 91 | [Rock Lobster](https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 6:49 |
 | 92 | [La Mushasha Shula](https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:46 |
 | 93 | [Play Ball](https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:47 |
 | 94 | [Laurita Garza](https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:12 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 110 | [El Caballito de Palo](https://open.spotify.com/track/2YedEu7sfD4HcmmLhjecNI) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [El Caballito de Palo](https://open.spotify.com/album/1Vd88MWsLVH2BSjwDztRgB) | 3:45 |
 | 111 | [Provócame](https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO) | 3:00 |
 | 112 | [El Serrucho](https://open.spotify.com/track/2ZR50pvQ1lpMWyQAMO4Y5b) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [El Presidente de la Champeta](https://open.spotify.com/album/5jLW2hl3FsoXtVqWl6bDLc) | 3:23 |
-| 113 | [El Ausente](https://open.spotify.com/track/7vRdymNF6rv9oIIZJcgrAL) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 2:42 |
-| 114 | [Jinetes en el Cielo](https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Desquítate Conmigo](https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S) | 3:30 |
+| 113 | [Jinetes en el Cielo](https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Desquítate Conmigo](https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S) | 3:30 |
+| 114 | [El Ausente](https://open.spotify.com/track/7vRdymNF6rv9oIIZJcgrAL) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 2:42 |
 | 115 | [Se Menea](https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Se Menea Se Menea](https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D) | 2:31 |
 | 116 | [Me Gusta Vivir De Noche](https://open.spotify.com/track/1G4d3ydn30mwZzTbBdA4mK) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Para Tucancillos y Tucancillas](https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb) | 3:35 |
 | 117 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 124 | [Oye](https://open.spotify.com/track/04JEvxmdGP93VzXekCxoJZ) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 2:35 |
 | 125 | [La Sacamos Del Estadio](https://open.spotify.com/track/4UMEfSlU8YwRDHfXQWDYxc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:25 |
 
-Snapshot ID: `MCwyNjQ0ZTY5MmQxZTc1MjFlYTUzMWI2YWJmMGI0MmNhNThkZDc1Yzcz`
+Snapshot ID: `MCwyM2Q5ZmJlNjVjZWY2MjhiY2ZkYzkzMmUzOGU4ODVkMDFjYmRkMGFj`

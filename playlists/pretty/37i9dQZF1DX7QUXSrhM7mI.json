@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 53812,
+  "num_followers": 53933,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjY3NzJmYzBkMDM2MzRmZmZkMzcxNzI0M2IyZWM4NDc1ODEyYTlk",
+  "snapshot_id": "MCxlM2MwMTRjZTQyYWEzNTI1YjFkOTZmNzdhYmJhN2MxNmIzZDgzNWQ5",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Thinking 'Bout Love",
-        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Thinking 'Bout Love",
+        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
     },
     {
       "added_at": "2023-09-08 04:00:00",

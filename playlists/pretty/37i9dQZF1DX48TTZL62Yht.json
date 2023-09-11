@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Lil Durk",
-  "num_followers": 446568,
+  "num_followers": 446834,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDNiNTdlMjU0MmEwNDg4NGQyYzA1YWIwZmFmMDFjYjNlNTFlYjhj",
+  "snapshot_id": "MCxlY2RkMTU1NmRkYjkyMzQwZTRiYjhiM2E3OGM0OTE2YTA0MzQ2OGU3",
   "tracks": [
     {
       "added_at": "2023-09-08 13:44:03",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-09-08 13:44:03",
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
-    },
-    {
-      "added_at": "2023-09-08 13:44:03",
-      "album": {
         "name": "Ball If I Want To",
         "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 112546,
       "name": "Ball If I Want To",
       "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
+    },
+    {
+      "added_at": "2023-09-08 13:44:03",
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
     },
     {
       "added_at": "2023-09-08 13:44:03",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2023-09-08 13:44:03",
       "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 236186,
+      "name": "I'M ON ONE (feat. Drake)",
+      "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
+    },
+    {
+      "added_at": "2023-09-08 13:44:03",
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 224466,
       "name": "Savior",
       "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
-    },
-    {
-      "added_at": "2023-09-08 13:44:03",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 236186,
-      "name": "I'M ON ONE (feat. Drake)",
-      "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
     },
     {
       "added_at": "2023-09-08 13:44:03",

@@ -1,12 +1,12 @@
 {
   "description": "Bandas legendarias y canciones que hicieron historia. Foto: Los Prisioneros.",
-  "num_followers": 109828,
+  "num_followers": 109902,
   "original_name": "Cl\u00e1sicos del Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmM4MDFkYTkwZDEwZTY4YTc2ZDRjMWFjZWRlYjU0ZGI4ZDBlODQy",
+  "snapshot_id": "MCwyMzNkYjZkZjA0MzZjN2M0YTVkNWZhOWEzNmRkNTk3ZTM4NGQ2NmY4",
   "tracks": [
     {
       "added_at": "2023-07-14 03:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "La Grange - 2005 Remaster",
-      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "La Grange - 2005 Remaster",
+      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "La Vida Gacha",
         "url": "https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 245826,
       "name": "La Planta",
       "url": "https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+        "name": "El Le\u00f3n",
+        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
       },
       "artists": [
         {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 288066,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+      "duration_ms": 291973,
+      "name": "Siguiendo la Luna - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/1orgfjGJoycODSItcGVatE"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Rock",

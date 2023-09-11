@@ -4,7 +4,7 @@
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 11 min
+56 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Fuck Love](https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:26 | 2023-06-07 |  |
 | [FUXK \(feat\. Ski Mask the Slump God\)](https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:40 | 2023-06-07 |  |
 | [Guardian angel](https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:48 | 2023-06-07 |  |
-| [hate will never win](https://open.spotify.com/track/3TzgIJC8U7o57nx8xnWvnt) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 1:43 | 2023-06-07 |  |
+| [hate will never win](https://open.spotify.com/track/3TzgIJC8U7o57nx8xnWvnt) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 1:43 | 2023-06-07 | 2023-09-11 |
 | [HEARTEATER](https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:16 | 2023-06-07 |  |
 | [Hope](https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:50 | 2023-06-07 |  |
 | [I don't let go](https://open.spotify.com/track/4axYWgXASdsCBHuwInAubT) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:01 | 2023-06-07 |  |
@@ -53,6 +53,7 @@
 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 | 2023-06-07 |  |
 | [Sauce!](https://open.spotify.com/track/3jq1RpStaB1YGyN3rRZGca) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [XXXTENTACION Presents: Members Only, Vol\. 4](https://open.spotify.com/album/4EeDFhIVRxOg4dx7ozSNXa) | 2:24 | 2023-06-07 |  |
 | [Scared of the Dark \(feat\. XXXTENTACION\)](https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:53 | 2023-06-07 |  |
+| [Snow \(feat\. Killstation\)](https://open.spotify.com/track/1TAEtwlUr2yawioB2T9neG) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [ItWasntEnough](https://open.spotify.com/album/6WJROqk9sHdhBaaQcpOGk7) | 1:48 | 2023-09-10 |  |
 | [Take A Step Back](https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h) | 3:30 | 2023-06-07 |  |
 | [the remedy for a broken heart \(why am I so in love\)](https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:40 | 2023-06-07 |  |
 | [Triumph](https://open.spotify.com/track/3arQDLbkZnujJVfhoyEDlM) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:46 | 2023-06-07 |  |

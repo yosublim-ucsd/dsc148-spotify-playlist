@@ -1,12 +1,12 @@
 {
   "description": "De la cuna pa'l mundo. Celebrando la cultura y m\u00fasica de Puerto Rico con los sonidos de la Casa.",
-  "num_followers": 4788,
+  "num_followers": 4813,
   "original_name": "Casa Spotify Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDE5M2FkZmZiNzkwMWE3YTYxYmY0YzM1ZWExMGUxMWI3NmI5ZmVm",
+  "snapshot_id": "MCw4NDQ3ZGM3NDc2N2FkNjhlOGRmZTQ2ZWJkOTcwY2FiMWNjYWI1N2Nk",
   "tracks": [
     {
       "added_at": "2023-06-27 18:03:27",
@@ -727,26 +727,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "LA HORA Y EL D\u00cdA",
-        "url": "https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK"
+        "name": "Trending Remix (with Myke Towers)",
+        "url": "https://open.spotify.com/album/0I0LtVW3UJjJtXkCJ7RPLO"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 217254,
-      "name": "LA HORA Y EL D\u00cdA",
-      "url": "https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq"
+      "duration_ms": 225154,
+      "name": "Trending Remix (with Myke Towers)",
+      "url": "https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -783,22 +779,26 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Trending Remix (with Myke Towers)",
-        "url": "https://open.spotify.com/album/0I0LtVW3UJjJtXkCJ7RPLO"
+        "name": "LA HORA Y EL D\u00cdA",
+        "url": "https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK"
       },
       "artists": [
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         }
       ],
-      "duration_ms": 225154,
-      "name": "Trending Remix (with Myke Towers)",
-      "url": "https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC"
+      "duration_ms": 217254,
+      "name": "LA HORA Y EL D\u00cdA",
+      "url": "https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "En Su Nota",
         "url": "https://open.spotify.com/album/48GYgcbW6eNW8us6VsWluS"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 285117,
       "name": "Solo Un Eco",
       "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
       "added_at": "2023-06-27 18:03:27",

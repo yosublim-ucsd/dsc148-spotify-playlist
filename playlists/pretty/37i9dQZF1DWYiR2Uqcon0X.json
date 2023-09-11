@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 722340,
+  "num_followers": 722400,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjA5YmI5ZTE2YjAxZGYzZGRmN2MwMjViYzQ5NGMxMzIyYjUyMzM1",
+  "snapshot_id": "MCwyNjIxN2NjODEwOWYyYzk4ZTdjYzFhZjFhMjhmMjUxYjk0MDM0N2I1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "Leave Me Again",
-      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Girl Going Nowhere",
         "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 225146,
-      "name": "Wait Up For Me",
-      "url": "https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX"
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -347,6 +331,22 @@
       "duration_ms": 163294,
       "name": "The Only Boy Awake",
       "url": "https://open.spotify.com/track/4tRt91OQSbE9eFA3RwgqSd"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Wait Up For Me",
+      "url": "https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Pack My Hometown",
         "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 191615,
       "name": "Pack My Hometown",
       "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Carry on, San Vicente",
-        "url": "https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "Nothing Like You",
-      "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Johnny Cash: Forever Words Expanded",
         "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 297746,
       "name": "The Captain's Daughter",
       "url": "https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Carry on, San Vicente",
+        "url": "https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Nothing Like You",
+      "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 158960,
       "name": "Cheap Suit",
       "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "The Dream: Living The Dream (Deluxe)",
+        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 140493,
       "name": "Pretty Hands",
       "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "The Dream: Living The Dream (Deluxe)",
-        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
     },
     {
       "added_at": "2023-08-18 04:01:00",

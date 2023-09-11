@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Rulo y la contrabanda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,601 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,685 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 94 | [Maneras de vivir \- Rosendo, Barricada y Aurora Beltrán directo 2008](https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Otra noche sin dormir](https://open.spotify.com/album/753WFdgyz5M1h3ZQnSSQDL) | 4:42 |
 | 95 | [Del Tiempo Perdido](https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Destrozares, Canciones para el Final de los Tiempos](https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS) | 7:09 |
 | 96 | [Como Camarón](https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Esencial Estopa](https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK) | 3:23 |
-| 97 | [Por las noches](https://open.spotify.com/track/7BtkQSPamCwesQN1mBBUFd) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:26 |
-| 98 | [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 |
-| 99 | [Buena muerte](https://open.spotify.com/track/3ukdHzLqj0G4ZaeOFW9lVf) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Buena muerte](https://open.spotify.com/album/65I0m92pou1tBZedRi4F0g) | 3:38 |
+| 97 | [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 |
+| 98 | [Por las noches](https://open.spotify.com/track/7BtkQSPamCwesQN1mBBUFd) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:26 |
+| 99 | [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Madrid Nuclear \- En Directo](https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9) | 4:43 |
 | 100 | [Pacto Entre Caballeros](https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:56 |
 
-Snapshot ID: `MCwzNjAyYmFhZmYyZDQxNTA3ZTI4Zjk3NTRlZGQ1MmU4ZWVhMDgyNjA2`
+Snapshot ID: `MCxiODQyOTY2YzE5NGM3ZGMzMjhmZmIwYzIxNWY2Mjg0YmE4MGY0MDc1`

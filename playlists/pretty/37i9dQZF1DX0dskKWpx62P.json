@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 34931,
+  "num_followers": 34991,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDA2MjFjNzNmOWU5MTMwODk1Yjg5MjVlZTY3ODgxM2QwYzVkOGNk",
+  "snapshot_id": "MCwyODk4MzEwYTg5MzRmZjE1ZGFiOTczNDRmNDIzMTYwNTg1Y2U4MDk3",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Puro Sentimiento",
+        "url": "https://open.spotify.com/album/4OmbN40zd86thCciHF3PR9"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Curi",
+          "url": "https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9"
+        }
+      ],
+      "duration_ms": 266831,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/1FJMpwSVvvRAUs4e9J8cSr"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Caminando Y Cantando",
         "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Puro Sentimiento",
-        "url": "https://open.spotify.com/album/4OmbN40zd86thCciHF3PR9"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Curi",
-          "url": "https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9"
-        }
-      ],
-      "duration_ms": 266831,
-      "name": "Tu Recuerdo",
-      "url": "https://open.spotify.com/track/1FJMpwSVvvRAUs4e9J8cSr"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Nuestra Promesa",
         "url": "https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huayno, Vol. 1",
-        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE"
       },
       "artists": [
         {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+          "name": "Los Campesinos",
+          "url": "https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ"
         }
       ],
-      "duration_ms": 159520,
-      "name": "Chall Huaschallay",
-      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
+      "duration_ms": 171866,
+      "name": "Profesorita",
+      "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -719,22 +719,6 @@
       "duration_ms": 254733,
       "name": "Linda Warmisitay",
       "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE"
-      },
-      "artists": [
-        {
-          "name": "Los Campesinos",
-          "url": "https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Profesorita",
-      "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -767,6 +751,22 @@
       "duration_ms": 377280,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Huayno, Vol. 1",
+        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "Chall Huaschallay",
+      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Calaveras Serranas",
-        "url": "https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2"
+        "name": "La Nueva Expresi\u00f3n del Folklore de Bolivia",
+        "url": "https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU"
       },
       "artists": [
         {
-          "name": "Luis Mendoza",
-          "url": "https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2"
+          "name": "Proyecci\u00f3n",
+          "url": "https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8"
         }
       ],
-      "duration_ms": 171415,
-      "name": "Dejame Asi",
-      "url": "https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z"
+      "duration_ms": 240293,
+      "name": "Un Pasajero en T\u00fa Camino",
+      "url": "https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

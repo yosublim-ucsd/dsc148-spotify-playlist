@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,919 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,079 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Inge 2](https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Almal Gly](https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX) | 3:41 |
 | 50 | [LELE](https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh) | [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [Lufasa](https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J) | [LELE](https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu) | 3:04 |
 
-Snapshot ID: `MCwyODNiM2Y5YTEyZTAzZDJlNDQ3OGNkMWZiMzk5OWM2NzExMDg3ODRl`
+Snapshot ID: `MCw5MmRiNmM4MTI5ZmExZDNjN2E3YWZhMmJjNzU5ZWRmNTBjYTc1MmQ3`

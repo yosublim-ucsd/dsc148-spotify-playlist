@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-260 songs - 16 hr 49 min
+261 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [My Father](https://open.spotify.com/track/7h9DPxZTg2SYa7p5CXR5H7) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [30th Yoo Jae Ha Music Contest](https://open.spotify.com/album/5skmOItX1dPpVxAjH5tvMt) | 5:15 | 2022-09-27 | 2023-07-13 |
 | [My Ocean](https://open.spotify.com/track/1x1dsKXn4vzzMWli3PaXe4) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [My Ocean](https://open.spotify.com/album/1GYc2ZVmStW924LtEIL0jd) | 4:18 | 2022-09-27 | 2022-12-03 |
 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 | 2023-08-21 |  |
+| [MY WAY](https://open.spotify.com/track/6w4QiIpOwtNKDMQBXBkBCS) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [STILL ON MY WAY](https://open.spotify.com/album/6aR92xjZNT47PxQDhQb4wC) | 3:27 | 2023-09-11 |  |
 | [National Police Shit](https://open.spotify.com/track/6kcHBBYyMPRtniP1hRvBjb) | [Drinking Boys and Girls Choir](https://open.spotify.com/artist/1ZBsXLFV4kdFa0yqqNy9kx) | [Keep Drinking](https://open.spotify.com/album/5weZL40Nw4VmHCAAJtBzKv) | 1:33 | 2023-07-12 |  |
 | [necessary girl](https://open.spotify.com/track/4DgHeH6J9Zt4Sy9T3guUaY) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [b\-side: 90s kids never get old](https://open.spotify.com/album/3LSB4lngs6O4VrYR4uagos) | 2:12 | 2022-09-27 | 2023-07-13 |
 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 | 2022-10-17 | 2023-07-13 |
@@ -223,7 +224,7 @@
 | [Thelma & Louise](https://open.spotify.com/track/6OJmaq8tvZt0DR0wndogQF) | [Harrybigbutton](https://open.spotify.com/artist/0ePqNOsEhh6mPuKWLhggld) | [Big Fish](https://open.spotify.com/album/5NoT8emADav2mtgS8GNvid) | 3:32 | 2023-07-12 |  |
 | [Tinder \(feat\. JUSTHIS\)](https://open.spotify.com/track/2MCEpDQ0218J4XWSMPRtmO) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Tinder \(feat\. JUSTHIS\)](https://open.spotify.com/album/3whR4qZhVJ3lPQv0dUzpr6) | 3:19 | 2023-07-12 | 2023-09-03 |
 | [Tinder \(feat\. JUSTHIS\)](https://open.spotify.com/track/5JbTqYJV965rDgmwKwnKLa) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Tinder \(feat\. JUSTHIS\)](https://open.spotify.com/album/7bVl5pBFOKzrhDOiDvqIvy) | 3:19 | 2023-08-28 |  |
-| [TNT \(Truth&Trust\)](https://open.spotify.com/track/4T30WW01s7L6kVDjJcIjST) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter 1\. TRACKS](https://open.spotify.com/album/2ZgUNU6gmCxWtEdHNWjtDw) | 3:19 | 2023-07-12 |  |
+| [TNT \(Truth&Trust\)](https://open.spotify.com/track/4T30WW01s7L6kVDjJcIjST) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter 1\. TRACKS](https://open.spotify.com/album/2ZgUNU6gmCxWtEdHNWjtDw) | 3:19 | 2023-07-12 | 2023-09-11 |
 | [Today is the day \(Good Day\)](https://open.spotify.com/track/2Iio7YzWcoCLLWConHTfIc) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Cheer Up \(Original Soundtrack Part.5\)](https://open.spotify.com/album/7pJZcHrJnIMNnb1QF7zvE7) | 3:51 | 2023-07-12 |  |
 | [Too Old to Die Young](https://open.spotify.com/track/5eNHy4Amzm9Y6JR9lNOb7i) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Too Old to Die Young](https://open.spotify.com/album/5Kq5vJogXqkMmwxkdgwxM8) | 4:12 | 2022-09-27 | 2023-07-13 |
 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 | 2023-08-21 |  |

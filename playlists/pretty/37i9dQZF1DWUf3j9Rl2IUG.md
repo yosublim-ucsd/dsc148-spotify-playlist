@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=prRrjUtGQxujNJuF3xT1rA">Sarz </a> and <a href="https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb?si=QFltAuFqR8\-u3XDwv85AeQ"> Crayon </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,545 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,653 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,18 +53,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 43 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 |
 | 44 | [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 |
 | 45 | [Kolomental](https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 3:17 |
-| 46 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
-| 47 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 |
+| 46 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 |
+| 47 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 | 48 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R) | 3:31 |
 | 49 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 | 50 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 |
 | 51 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 |
 | 52 | [Loju \(feat\. Wizkid\)](https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Loju \(feat\. Wizkid\)](https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8) | 2:54 |
-| 53 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |
-| 54 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
+| 53 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
+| 54 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |
 | 55 | [Soro](https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:42 |
-| 56 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 |
-| 57 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 |
+| 56 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 |
+| 57 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 |
 | 58 | [If You Leave](https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Love Is Not Enough, Vol\. 2](https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG) | 2:29 |
 | 59 | [Loaded](https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Loaded](https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g) | 2:35 |
 | 60 | [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 76 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 |
 | 77 | [Dog Eat Dog](https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dog Eat Dog](https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH) | 2:29 |
 | 78 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 |
-| 79 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 |
-| 80 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 |
+| 79 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 |
+| 80 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 |
 
-Snapshot ID: `MCw5Mzk2YTUzY2ZlNjA2Y2MxYTIyMTkzZjZmZDg0MTY2ZTk0MDkxNjY1`
+Snapshot ID: `MCxhNzRmNGVjYTVhYzIwNTA0MWZkYjhkNTE3NGMyZjNjYjE0OTRkYzQ3`

@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 35731,
+  "num_followers": 35753,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTgyOWNhMmMzMTc1MGUzZDgzYzg3MmViYmQxZTk4ZTQ3NTgyYTdh",
+  "snapshot_id": "MCxhYmE0NDY5NTYxODUzMWJhYjVhMDAwYzlmOTY3NThiZTM1YTg3NTQ5",
   "tracks": [
     {
       "added_at": "2023-08-08 00:22:26",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-08-08 00:22:26",
       "album": {
+        "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
+        "url": "https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Ph\u01b0\u01a1ng Th\u1ea3o",
+          "url": "https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v"
+        }
+      ],
+      "duration_ms": 356671,
+      "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
+      "url": "https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ"
+    },
+    {
+      "added_at": "2023-08-08 00:22:26",
+      "album": {
         "name": "Nh\u1eadt K\u00fd \u0110\u1eddi T\u00f4i",
         "url": "https://open.spotify.com/album/6VNm9Szdku6nagVbX6ADtR"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 247780,
       "name": "N\u00f3i V\u1edbi Ng\u01b0\u1eddi T\u00ecnh",
       "url": "https://open.spotify.com/track/09gYyhwSGWH5agBqRGPYsG"
-    },
-    {
-      "added_at": "2023-08-08 00:22:26",
-      "album": {
-        "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
-        "url": "https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng Ph\u01b0\u01a1ng Th\u1ea3o",
-          "url": "https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v"
-        }
-      ],
-      "duration_ms": 356671,
-      "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
-      "url": "https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ"
     },
     {
       "added_at": "2023-08-08 00:22:26",
@@ -347,18 +347,26 @@
     {
       "added_at": "2023-08-08 00:22:26",
       "album": {
-        "name": "Ph\u1eadn t\u01a1 t\u1eb1m",
-        "url": "https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig"
+        "name": "Best of Tr\u01b0\u1eddng V\u0169",
+        "url": "https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU"
       },
       "artists": [
         {
-          "name": "H\u00e0 Thanh Xu\u00e2n",
-          "url": "https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH"
+          "name": "Tr\u01b0\u1eddng V\u0169",
+          "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
+        },
+        {
+          "name": "M\u1ea1nh \u0110\u00ecnh",
+          "url": "https://open.spotify.com/artist/3EwJyciUZbuZc8gZTKKdAM"
+        },
+        {
+          "name": "M\u1ea1nh Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
         }
       ],
-      "duration_ms": 251480,
-      "name": "Qua c\u01a1n m\u00ea",
-      "url": "https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH"
+      "duration_ms": 356240,
+      "name": "Lk Ngh\u00e8o",
+      "url": "https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX"
     },
     {
       "added_at": "2023-08-08 00:22:26",
@@ -419,26 +427,18 @@
     {
       "added_at": "2023-08-08 00:22:26",
       "album": {
-        "name": "Best of Tr\u01b0\u1eddng V\u0169",
-        "url": "https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU"
+        "name": "Ph\u1eadn t\u01a1 t\u1eb1m",
+        "url": "https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig"
       },
       "artists": [
         {
-          "name": "Tr\u01b0\u1eddng V\u0169",
-          "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
-        },
-        {
-          "name": "M\u1ea1nh \u0110\u00ecnh",
-          "url": "https://open.spotify.com/artist/3EwJyciUZbuZc8gZTKKdAM"
-        },
-        {
-          "name": "M\u1ea1nh Qu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
+          "name": "H\u00e0 Thanh Xu\u00e2n",
+          "url": "https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH"
         }
       ],
-      "duration_ms": 356240,
-      "name": "Lk Ngh\u00e8o",
-      "url": "https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX"
+      "duration_ms": 251480,
+      "name": "Qua c\u01a1n m\u00ea",
+      "url": "https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH"
     },
     {
       "added_at": "2023-08-08 00:22:26",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-08-08 00:22:26",
       "album": {
-        "name": "Ti\u1ebfng Ca U Ho\u00e0i",
-        "url": "https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi"
-      },
-      "artists": [
-        {
-          "name": "Thanh Th\u00fay",
-          "url": "https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Ph\u1ed1 Bu\u1ed3n",
-      "url": "https://open.spotify.com/track/4u8YoKzPsETMPeF9NmWmRk"
-    },
-    {
-      "added_at": "2023-08-08 00:22:26",
-      "album": {
         "name": "Bolero Edition",
         "url": "https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 359039,
       "name": "Hoa Trinh N\u1eef",
       "url": "https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk"
+    },
+    {
+      "added_at": "2023-08-08 00:22:26",
+      "album": {
+        "name": "Ti\u1ebfng Ca U Ho\u00e0i",
+        "url": "https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi"
+      },
+      "artists": [
+        {
+          "name": "Thanh Th\u00fay",
+          "url": "https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Ph\u1ed1 Bu\u1ed3n",
+      "url": "https://open.spotify.com/track/4u8YoKzPsETMPeF9NmWmRk"
     },
     {
       "added_at": "2023-08-08 00:22:26",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-08-08 00:22:26",
       "album": {
-        "name": "Li\u00ean Kh\u00fac \u0110\u00eam Bu\u1ed3n T\u1ec9nh L\u1ebb, Nh\u1eefng \u0110\u1ed3i Hoa Sim (Asia 283)",
-        "url": "https://open.spotify.com/album/3dA8DbhPvOiIIgKgGDZXVP"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng H\u1ed3ng Qu\u1ebf",
-          "url": "https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap"
-        },
-        {
-          "name": "Giang T\u1eed",
-          "url": "https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "Gi\u1ecdt bu\u1ed3n kh\u00f4ng t\u00ean",
-      "url": "https://open.spotify.com/track/6fvfC6QXhLput4cLYtxz6n"
-    },
-    {
-      "added_at": "2023-08-08 00:22:26",
-      "album": {
         "name": "\u0110am m\u00ea - Tuy\u1ec7t Ph\u1ea9m song ca - Phi Nhung M\u1ea1nh Qu\u1ef3nh",
         "url": "https://open.spotify.com/album/4t5fjzVYhATmyirOztHScw"
       },
@@ -891,18 +871,38 @@
     {
       "added_at": "2023-08-08 00:22:26",
       "album": {
-        "name": "Ti\u1ebfng Ca U Ho\u00e0i",
-        "url": "https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi"
+        "name": "Li\u00ean Kh\u00fac \u0110\u00eam Bu\u1ed3n T\u1ec9nh L\u1ebb, Nh\u1eefng \u0110\u1ed3i Hoa Sim (Asia 283)",
+        "url": "https://open.spotify.com/album/3dA8DbhPvOiIIgKgGDZXVP"
       },
       "artists": [
         {
-          "name": "Thanh Th\u00fay",
-          "url": "https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS"
+          "name": "Ph\u01b0\u01a1ng H\u1ed3ng Qu\u1ebf",
+          "url": "https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap"
+        },
+        {
+          "name": "Giang T\u1eed",
+          "url": "https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW"
         }
       ],
-      "duration_ms": 230960,
-      "name": "S\u00e0i G\u00f2n Ni\u1ec1m Nh\u1edb Kh\u00f4ng T\u00ean",
-      "url": "https://open.spotify.com/track/2dpdXnhU0eFshwdNc9gxYv"
+      "duration_ms": 286440,
+      "name": "Gi\u1ecdt bu\u1ed3n kh\u00f4ng t\u00ean",
+      "url": "https://open.spotify.com/track/6fvfC6QXhLput4cLYtxz6n"
+    },
+    {
+      "added_at": "2023-08-08 00:22:26",
+      "album": {
+        "name": "Xu\u00e2n \u0110i L\u1ec5 Ch\u00f9a",
+        "url": "https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc"
+      },
+      "artists": [
+        {
+          "name": "Duy Khanh",
+          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
+        }
+      ],
+      "duration_ms": 305920,
+      "name": "Xu\u00e2n N\u00e0y Con Kh\u00f4ng V\u1ec1",
+      "url": "https://open.spotify.com/track/7rQUKFLXPOIYpvFKNddRcS"
     }
   ],
   "unique_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",

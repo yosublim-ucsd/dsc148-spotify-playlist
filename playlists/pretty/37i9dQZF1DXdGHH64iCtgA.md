@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut down Etro's SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Marco De Vincenzo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,287 likes - 61 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,438 likes - 61 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 27 | [Me in 20 Years](https://open.spotify.com/track/3LuaxVf1C3jAJO6kzQgbIg) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 3:40 |
 | 28 | [Eyes Without a Face](https://open.spotify.com/track/04YObtYkElo3sNcr9hUe1w) | [Marsheaux](https://open.spotify.com/artist/71kSWeYFioviuty6e3aj5k) | [E\-Bay Queen Is Dead](https://open.spotify.com/album/78xdXx85GxYUezK9kGO3yd) | 4:46 |
 | 29 | [Open Eye Signal \- Remaster 2023](https://open.spotify.com/track/0c9MTfnssGoNXUgmsaE5XU) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ) | 7:48 |
-| 30 | [I'm on Top](https://open.spotify.com/track/42xl5HtTPAiHNGzUAYC6of) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [I'm on Top](https://open.spotify.com/album/3L1JG5XGlYjZp0IN7y8pMu) | 3:22 |
-| 31 | [Of My Mind](https://open.spotify.com/track/5PRdzrncmga9ieUFVrlE41) | [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [When Love Hurts](https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP) | 4:12 |
+| 30 | [Of My Mind](https://open.spotify.com/track/5PRdzrncmga9ieUFVrlE41) | [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [When Love Hurts](https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP) | 4:12 |
+| 31 | [I'm on Top](https://open.spotify.com/track/42xl5HtTPAiHNGzUAYC6of) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [I'm on Top](https://open.spotify.com/album/3L1JG5XGlYjZp0IN7y8pMu) | 3:22 |
 | 32 | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/album/5aCUZAQz1bDC3txTnqDm5N) | 4:04 |
 | 33 | [Doesn't matter](https://open.spotify.com/track/4UH4lWuTEs9r8W0ZkJ5heS) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chris](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh) | 4:23 |
 | 34 | [Tell Me \(Feat\. Saoirse Ronan\)](https://open.spotify.com/track/0NSSZTpUoEtA8b0j1WtuvY) | [Johnny Jewel](https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR) | [Lost River Original Motion Picture Score](https://open.spotify.com/album/0u5okKZvztQ0ciPxcJ2zLa) | 2:42 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 37 | [Electric Lines](https://open.spotify.com/track/2WLaRlaBmBHL6dqaovdO0m) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 5:57 |
 | 38 | [Modafinil Blues](https://open.spotify.com/track/4No4T12hxjiPsOqUtN5HVU) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [Bunny](https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo) | 5:00 |
 | 39 | [Butterfly \- Malik Djoudi Remix](https://open.spotify.com/track/1KQtHHc9UQ5qcouSGd8l2i) | [Leonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC), [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Butterfly \(Remixes\)](https://open.spotify.com/album/3TAsLhBSwjq9iZWvp49jAG) | 3:28 |
-| 40 | [Épouser la nuit](https://open.spotify.com/track/58CYcQHLke4WHv6usQplh0) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Tempéraments](https://open.spotify.com/album/07oac8ZypPw4d1VtOmxknA) | 3:37 |
-| 41 | [Casualty](https://open.spotify.com/track/7eKebagU8RXRnPitSnd3hT) | [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [When Love Hurts](https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP) | 5:07 |
-| 42 | [Shades of Blue](https://open.spotify.com/track/47JVgLUOFUp4iZ60wR5nv2) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Shades of Blue](https://open.spotify.com/album/0IISH2eLnsPMmjjNwZEElq) | 3:54 |
+| 40 | [Casualty](https://open.spotify.com/track/7eKebagU8RXRnPitSnd3hT) | [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [When Love Hurts](https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP) | 5:07 |
+| 41 | [Shades of Blue](https://open.spotify.com/track/47JVgLUOFUp4iZ60wR5nv2) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Shades of Blue](https://open.spotify.com/album/0IISH2eLnsPMmjjNwZEElq) | 3:54 |
+| 42 | [Épouser la nuit](https://open.spotify.com/track/58CYcQHLke4WHv6usQplh0) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Tempéraments](https://open.spotify.com/album/07oac8ZypPw4d1VtOmxknA) | 3:37 |
 | 43 | [Salt](https://open.spotify.com/track/3jks0Wb2Pnq981bSX3X44x) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 5:24 |
 | 44 | [Esperanto](https://open.spotify.com/track/6cQKCdlyFHGQkvXLnBx7g2) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 3:34 |
 | 45 | [Ninna Nanna per adulteri \- Remastered](https://open.spotify.com/track/0p6pIexL8DXGPy5qxfc8jF) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Cuore di Mamma \- Mother's Heart \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/354OTWPlr0SbFKnZJsNu8K) | 3:04 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 60 | [Utopia \- Sunroof Mix](https://open.spotify.com/track/5Pirg3m910jqAZOHIcAiVn) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS), [Sunroof](https://open.spotify.com/artist/0xQXMzZ4TFP23eJjBWdR9w) | [Utopia](https://open.spotify.com/album/0b7kSCIX3vzGQSekOQKpOC) | 7:37 |
 | 61 | [Cu cu rru cu cu' paloma](https://open.spotify.com/track/08xzqLZV31VvaixcqZxzZa) | [Patrizia Laquidara](https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9) | [Indirizzo portoghese \(15TH anniversary edition\)](https://open.spotify.com/album/278MQ4EIMVpnB2QlmQrFEX) | 3:45 |
 
-Snapshot ID: `MCw3OWIzN2M3MDhiODA0NmE3YzEwYTg2MmJhMmRiYWU2ODAzYTBkYzYx`
+Snapshot ID: `MCw0Y2Q1MTJjZmM2ZTgzN2Y1ZjAwY2E5NzcwNjg0Y2FjMTRmODBhNjBj`

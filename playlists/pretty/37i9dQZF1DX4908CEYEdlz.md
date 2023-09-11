@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Guns n' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,475 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,461 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 22 | [Life Is Beautiful](https://open.spotify.com/track/5QrIzPcWxuCD6v5TPue6PX) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Life Is Beautiful](https://open.spotify.com/album/2fnf4Gc7k5iUp8dbQuhLIo) | 3:19 |
 | 23 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:17 |
 | 24 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 |
-| 25 | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/track/0mtGnMCDl70UkOi3VRnzY2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/album/69u1Q1ds3YWF8VDM8rhJu6) | 2:42 |
-| 26 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 |
-| 27 | [High on Me](https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [High on Me](https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv) | 3:02 |
+| 25 | [High on Me](https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [High on Me](https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv) | 3:02 |
+| 26 | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/track/0mtGnMCDl70UkOi3VRnzY2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/album/69u1Q1ds3YWF8VDM8rhJu6) | 2:42 |
+| 27 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 |
 | 28 | [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 |
 | 29 | [No More Tears To Cry](https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:41 |
 | 30 | [City Of The Dead](https://open.spotify.com/track/4CPlagY81Aa98saLVpwj2O) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s) | 2:53 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 32 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
 | 33 | [Bad Friend](https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Bad Friend](https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m) | 3:31 |
 | 34 | [The Saints Of Violence And Innuendo](https://open.spotify.com/track/62JTJvMA8yd5r8r788hK2Q) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:41 |
-| 35 | [Sacred The Thread](https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Sacred The Thread](https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN) | 5:21 |
-| 36 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 |
-| 37 | [Echo](https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 3:19 |
+| 35 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 |
+| 36 | [Echo](https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 3:19 |
+| 37 | [Sacred The Thread](https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Sacred The Thread](https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN) | 5:21 |
 | 38 | [Heavy Is The Crown](https://open.spotify.com/track/4P5cw8rpwDAQdzIy5nltzj) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Heavy Is The Crown](https://open.spotify.com/album/3PZhCt0gqzjDJLC8yKUohe) | 3:54 |
 | 39 | [Take the Ride](https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:58 |
 | 40 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 64 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
 | 65 | [Enter Sandman](https://open.spotify.com/track/494G3Mjgv0bLEQ3DGzG9t4) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Violet Orlandi](https://open.spotify.com/artist/3amoyQla9uUhiJhhMS7CLz) | [Enter Sandman](https://open.spotify.com/album/1DDaQfNe1xrphcpezscTf7) | 5:22 |
 | 66 | [Kingdom](https://open.spotify.com/track/4UyoswHCt1WgJhPCrfX330) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Kingdom](https://open.spotify.com/album/2Chidgv4qlo6nTFczR85NB) | 4:32 |
-| 67 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 |
-| 68 | [Fortunate Son \- Nowhere Sessions](https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Sessions](https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD) | 1:54 |
+| 67 | [Fortunate Son \- Nowhere Sessions](https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Sessions](https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD) | 1:54 |
+| 68 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 |
 | 69 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
 | 70 | [Worst Is On It's Way \- Requiem Mass / Live](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
 | 71 | [Bum\-Rush \- Instrumental](https://open.spotify.com/track/3JjX1mqAyczMoGeP68pYIh) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Bum\-Rush \(Instrumental\)](https://open.spotify.com/album/6b5BS7J8ZDT1ei4vtmQkQl) | 3:23 |
 | 72 | [Bitter](https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Bitter](https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI) | 3:05 |
-| 73 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
-| 74 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 |
+| 73 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 |
+| 74 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 | 75 | [Carnivore](https://open.spotify.com/track/52SJvRrUXfGTyJJkFlwTuY) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore \(Instrumental\)](https://open.spotify.com/album/2RFDWSAOmutyKwFTvpQ4hH) | 3:11 |
 
-Snapshot ID: `MCxkZGI3YjdhNTI4YTlmNjM4ODFmMmI5YjI1YTliMzc3ODBjOGI0OGUz`
+Snapshot ID: `MCxkYTRiYzM3NmVjOWYxMTMwZGYwMWUzZGQ3NTljZDUxNzlhNDE4ZDY0`

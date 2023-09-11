@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,940 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,219 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 49 | [Give Me Everything \(feat\. Ne\-Yo, Afrojack & Nayer\)](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Nayer](https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 4:12 |
 | 50 | [If You Had My Love](https://open.spotify.com/track/3jIsgPCOlgYgdnzKNe0k6w) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Andrea Zelletta](https://open.spotify.com/artist/2sSVegHvvHIOT1gVsqw8EW) | [If You Had My Love](https://open.spotify.com/album/1e60dWlyQ6YSzezPC9pS1R) | 2:38 |
 
-Snapshot ID: `MCw1MDA0N2IwYzU3ZWYwZmVhMTkxMDg2ZTUyNzA2NTgyMDIxMmIxYjZi`
+Snapshot ID: `MCw2YTI5NGZiMGU5NTFhOGVlM2Y3ZjY5MWE4OGJmMDllNWY1ZmNjNDVj`

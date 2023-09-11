@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1811562,
+  "num_followers": 1811596,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjM0NzNmM2YxOGFjN2IxZTczZTQxNjA3YzVjYzBiMThmNzA2ZjVl",
+  "snapshot_id": "MCxiYjg1MDE3M2M3ZWIyMzdiOTE4MjRhMThiNzMzYjA2NDM1MWU4Yjc2",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Only Time",
-        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
-      },
-      "artists": [
-        {
-          "name": "Aaron Espe",
-          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 162106,
       "name": "Grow into Love",
       "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Only Time",
+        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
+      },
+      "artists": [
+        {
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "The Last Exit",
         "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 266756,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "Go In Light (feat. Monica Martin)",
-      "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "Go In Light (feat. Monica Martin)",
+      "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "American Bollywood",
-        "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
+        "name": "Up Granville",
+        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
       "artists": [
         {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 216547,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/50y1QOSX24WKHXWDRwFLtL"
+      "duration_ms": 230747,
+      "name": "Up Granville",
+      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Up Granville",
-        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+        "name": "American Bollywood",
+        "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
         }
       ],
-      "duration_ms": 230747,
-      "name": "Up Granville",
-      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+      "duration_ms": 216547,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/50y1QOSX24WKHXWDRwFLtL"
     },
     {
       "added_at": "2023-08-25 04:00:00",

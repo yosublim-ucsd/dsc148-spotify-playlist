@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,410 likes - 56 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,472 likes - 56 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [X&G](https://open.spotify.com/artist/0J8vnuLl37meRjZttkpCBP) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
+| 1 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 2 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
 | 3 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 4 | [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/6GVW9TSNhzllTEWMJ4HneI) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 2:46 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 55 | [Night Dream](https://open.spotify.com/track/4Avgz7RfIvrincMvVw8bIx) | [chao chao](https://open.spotify.com/artist/4MT9OmyrjZzGG7TZTd9yQ0) | [Night Dream](https://open.spotify.com/album/64LmWlIKafNXIdvYW4D46Z) | 1:58 |
 | 56 | [りんどう](https://open.spotify.com/track/3jAjSQXOTgQDHjRtlvW6P6) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 5:29 |
 
-Snapshot ID: `MCw4YjE5NTcyYmMzNTI1YTdkYTE2NjI2ZDkzYzY3NjRmNGJkZWY2MWQ5`
+Snapshot ID: `MCw1N2UyYWQ0NWUxMmJhOTdhY2M5ZjY1ZDAyNDk0NTFlNjg3NWQ1NzJj`

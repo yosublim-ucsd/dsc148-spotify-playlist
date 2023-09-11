@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,373 likes - 125 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,851 likes - 125 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 69 | [Cosas Bonitas](https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [De Reventon](https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU) | 4:14 |
 | 70 | [Dejame Pensar](https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Dejame Pensar](https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF) | 4:37 |
 | 71 | [El Fantasma del Amor](https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ) | [Grupo Ternura Dinastia Toxqui](https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ) | [Cumbias y Bachatas Vol.2](https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ) | 4:13 |
-| 72 | [Me Enamoré de una Sonidera](https://open.spotify.com/track/6lApNS6zB7kkMd7MwuX6eO) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:52 |
+| 72 | [Tú Eres La Razón \- Electrocumbia Remake](https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Tú Eres La Razón \(Electrocumbia Remake\)](https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w) | 3:15 |
 | 73 | [No Puedo Olvidarte](https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [No Puedo Olvidarte](https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS) | 5:31 |
-| 74 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
-| 75 | [Tú Eres La Razón \- Electrocumbia Remake](https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Tú Eres La Razón \(Electrocumbia Remake\)](https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w) | 3:15 |
+| 74 | [Me Enamoré de una Sonidera](https://open.spotify.com/track/6lApNS6zB7kkMd7MwuX6eO) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:52 |
+| 75 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 76 | [Dile](https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 4:04 |
 | 77 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 |
 | 78 | [La Inconforme](https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:13 |
@@ -97,13 +97,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 87 | [La Princesa Talibana](https://open.spotify.com/track/7B7WVfPyjkowmWCvb1SXxd) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:18 |
 | 88 | [Por Un Rato](https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Enamoradas](https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA) | 2:57 |
 | 89 | [Todo Lo Encuentro En Ti](https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe) | [Lo Más Escuchado De](https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR) | 4:13 |
-| 90 | [Acariciame](https://open.spotify.com/track/5whpGnP7FAdfodcbZ2oqe5) | [Del Recuerdo](https://open.spotify.com/artist/4IO8qUf0r0GJh9K7fxmVPb) | [Acariciame](https://open.spotify.com/album/21J5hwCVwPqhVw5FchorkD) | 3:21 |
-| 91 | [Me Vas A Recordar](https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Serie Diamante \- 15 Súper Exitos](https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq) | 3:00 |
+| 90 | [Me Vas A Recordar](https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Serie Diamante \- 15 Súper Exitos](https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq) | 3:00 |
+| 91 | [Acariciame](https://open.spotify.com/track/5whpGnP7FAdfodcbZ2oqe5) | [Del Recuerdo](https://open.spotify.com/artist/4IO8qUf0r0GJh9K7fxmVPb) | [Acariciame](https://open.spotify.com/album/21J5hwCVwPqhVw5FchorkD) | 3:21 |
 | 92 | [El Viejo Panzón](https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Triste y Vacía](https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV) | 3:14 |
 | 93 | [Lucerito](https://open.spotify.com/track/3xJaqmggvkerhccRZC4Yyg) | [Chucho Ponce Los Daddys de Chinantla](https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im) | [Solo Exitos](https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg) | 5:22 |
 | 94 | [Negrita](https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 4:07 |
-| 95 | [Rumba Frenesi](https://open.spotify.com/track/5jvfvwBAiW0LBm0I7ou4G2) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Video Cumbias Pa' Bailar 2](https://open.spotify.com/album/5UvXruYgho8IhZr3W7h1Ie) | 5:09 |
-| 96 | [Traicion Y Olvido](https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 4:00 |
+| 95 | [Traicion Y Olvido](https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 4:00 |
+| 96 | [Rumba Frenesi](https://open.spotify.com/track/5jvfvwBAiW0LBm0I7ou4G2) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Video Cumbias Pa' Bailar 2](https://open.spotify.com/album/5UvXruYgho8IhZr3W7h1Ie) | 5:09 |
 | 97 | [Ven a Mi](https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl) | [Grupo Kachimba](https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS) | [Que Te Vaya Mal](https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6) | 5:27 |
 | 98 | [¡Ay! El Amor](https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Grandes Éxitos Remezclados Y Masterizados](https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS) | 3:31 |
 | 99 | [Noches Oscuras](https://open.spotify.com/track/2Yr4K1V5LXpSMjWpQ6FGt9) | [Grupo Yeah!](https://open.spotify.com/artist/4kssNc4REeCjtcorA7rxt7) | [Noches Oscuras](https://open.spotify.com/album/5TJ4Loi2pZaTEfIqFpRh4B) | 5:50 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 124 | [Un Poblano En Nueva York](https://open.spotify.com/track/0atpapzPqDHfYRWeOlgDQf) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Las Clasicas Con Los Yes Yes](https://open.spotify.com/album/0n8IqXoFifn6WsBu9OGLiv) | 3:06 |
 | 125 | [Soñe Contigo](https://open.spotify.com/track/4TODthHaTIikA7zyVMBaEk) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Cumbias de Colección](https://open.spotify.com/album/3vUBhhUFYjEC84W5cUpBhw) | 4:03 |
 
-Snapshot ID: `MCxkNzA4NmJiZDg1MDhlMzliOWQ5ZmVhNTc0NWNlOGFiYWY0MTI2ZGNi`
+Snapshot ID: `MCw1NmE2MGEzMDUxZjkzMjZmMGM5ZTE5ZTYyN2EzNjc4MTY3ZDQ0Y2Nm`

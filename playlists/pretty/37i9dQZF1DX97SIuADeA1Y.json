@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 318325,
+  "num_followers": 318480,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmJhNTAwM2ZhMjA4NGVjYjM5MDMwMWU2ZWEwMjlkYjNjYTU0Yjdj",
+  "snapshot_id": "MCxkNDBmODcyYWE5Y2U0NDE4ZDI0ZWNjM2ViY2JhODU3MjhlNzAzNjU2",
   "tracks": [
     {
       "added_at": "2023-09-08 11:07:56",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "One In A Million",
-        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
-      },
-      "artists": [
-        {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
-        }
-      ],
-      "duration_ms": 128951,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Ring of Ice (Stereoact Remix)",
         "url": "https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 216344,
       "name": "Ring of Ice - Stereoact Remix",
       "url": "https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        }
+      ],
+      "duration_ms": 128951,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
+        "name": "Slap House Party",
+        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Drunk in Love",
+      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
         "name": "Darkroom",
         "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 156674,
       "name": "Darkroom",
       "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
-        "name": "Slap House Party",
-        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Drunk in Love",
-      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -867,30 +867,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Cups (Drunk in Love Pt. 2)",
-        "url": "https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        },
-        {
-          "name": "Wasback",
-          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
-        },
-        {
-          "name": "Edward V",
-          "url": "https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY"
-        }
-      ],
-      "duration_ms": 163617,
-      "name": "Cups (Drunk in Love Pt. 2)",
-      "url": "https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Wasting Youth",
         "url": "https://open.spotify.com/album/4X4Tu5rgFpKwk89wkSdCbZ"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 135310,
       "name": "Wasting Youth",
       "url": "https://open.spotify.com/track/5SL2J25JUoQZHJVbR2biXm"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Cups (Drunk in Love Pt. 2)",
+        "url": "https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Wasback",
+          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
+        },
+        {
+          "name": "Edward V",
+          "url": "https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY"
+        }
+      ],
+      "duration_ms": 163617,
+      "name": "Cups (Drunk in Love Pt. 2)",
+      "url": "https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Under the Influence",
-        "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
-      },
-      "artists": [
-        {
-          "name": "Krmoni",
-          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
-        },
-        {
-          "name": "Coffeeshop",
-          "url": "https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC"
-        },
-        {
-          "name": "Tommy Rage",
-          "url": "https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Under the Influence",
-      "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/43cG9azowZhe7oSA5plrtU"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 123711,
       "name": "Changes",
       "url": "https://open.spotify.com/track/42ab6M2Xm2Jkuo3nMUVgj3"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Under the Influence",
+        "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
+      },
+      "artists": [
+        {
+          "name": "Krmoni",
+          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
+        },
+        {
+          "name": "Coffeeshop",
+          "url": "https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC"
+        },
+        {
+          "name": "Tommy Rage",
+          "url": "https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Under the Influence",
+      "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
     },
     {
       "added_at": "2023-09-08 11:07:56",

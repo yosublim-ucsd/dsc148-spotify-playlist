@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Simba La Rue, Paky
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,833 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,097 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Scappa da Milano](https://open.spotify.com/track/1AJ3ncdtj5leTKdgHkyVEn) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Scappa da Milano](https://open.spotify.com/album/1IFSeuBowZAGUsjVyHMAgG) | 2:59 |
 | 50 | [ATM \(feat\. MV Killa\)](https://open.spotify.com/track/6jV1tdQXiQ87WPO5uqjSyq) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 2:34 |
 
-Snapshot ID: `MCwzOTMyOWM3ZGU3OGJjMGM5ZTc3YjAyOTlhZjA2MzJlMTQ5OTgzZDU4`
+Snapshot ID: `MCxkNmM2Nzc4OTFkNjA3NzBmMzE0OTIwY2RlZDRiNGUwNWQ4ODk5ZDg1`

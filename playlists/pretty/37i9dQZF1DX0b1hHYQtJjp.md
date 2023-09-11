@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,794 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,898 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 46 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
 | 47 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
 | 48 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
-| 49 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 49 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 50 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
 | 51 | [Hideaway](https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Hideaway](https://open.spotify.com/album/0UNq2Rh80UIYuaXHwgMMQM) | 4:13 |
 | 52 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 69 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 |
 | 70 | [Girls](https://open.spotify.com/track/7EjL6DoRMa601VXjoyyBSE) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Girls](https://open.spotify.com/album/7y0Rp3VEX8Ix9g9uZp2LAG) | 2:51 |
 
-Snapshot ID: `MCw4MWJjZDY5NWQ3MzljM2MyZDBlNTU5YzFlMDVhYzRjOTNlMzMyNzNl`
+Snapshot ID: `MCw0ZmUxMjcwZWFjZWZlNWQxMmY3NDJiYTRmYTMyNDY2YWEyZDQ3NzE3`

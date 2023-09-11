@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,268 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,327 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 24 | [Go Daddy O](https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 3:12 |
 | 25 | [Come On\-A\-My House](https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Hawaiian Swing](https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj) | 2:10 |
 | 26 | [Planet Jive](https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Planet Jive](https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7) | 3:52 |
-| 27 | [Swing Baby!](https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC) | [Big Rude Jake](https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA) | [Blue Pariah](https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS) | 3:22 |
-| 28 | [Swing Let's Swing](https://open.spotify.com/track/7dSQJiQTr8WPJWxaplRSEg) | [The Lucky Strikes](https://open.spotify.com/artist/0kZKKhAXEKjfOOMJTiWwyC) | [Song and Dance](https://open.spotify.com/album/1StimveT7gL5I8Rq7bMlSa) | 2:19 |
+| 27 | [Swing Let's Swing](https://open.spotify.com/track/7dSQJiQTr8WPJWxaplRSEg) | [The Lucky Strikes](https://open.spotify.com/artist/0kZKKhAXEKjfOOMJTiWwyC) | [Song and Dance](https://open.spotify.com/album/1StimveT7gL5I8Rq7bMlSa) | 2:19 |
+| 28 | [Swing Baby!](https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC) | [Big Rude Jake](https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA) | [Blue Pariah](https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS) | 3:22 |
 | 29 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
 | 30 | [Whadaya Want](https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ) | [Casey MacGill & the Spirits of Rhythm](https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj) | [Jump](https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC) | 3:17 |
 | 31 | [Simple Things](https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Spread a Little Happiness](https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7) | 2:44 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 42 | [Pink Elephant](https://open.spotify.com/track/09ixyQNF20bjWpzg4zytga) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [Rapid City Muscle Car](https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR) | 3:44 |
 | 43 | [Dirty Dog](https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [The Romper Room](https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4) | 3:28 |
 | 44 | [Swingin' At The Savoy](https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Jump For Joy](https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7) | 3:37 |
-| 45 | [Do The Pup](https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:10 |
-| 46 | [Yama Yama Pretty Mama](https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:42 |
+| 45 | [Yama Yama Pretty Mama](https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:42 |
+| 46 | [Do The Pup](https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:10 |
 | 47 | [prozac](https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 4:45 |
 | 48 | [Sausage Rock](https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I) | [Four Charms](https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs) | [Flatland Boogie](https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV) | 2:28 |
 | 49 | [Ladies Man](https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a) | [The New Morty Show](https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r), [Brian Fishler](https://open.spotify.com/artist/5fxyIuzJ5vK7Zx81wjdMcL), [Cynthia Lewis](https://open.spotify.com/artist/0FJZBCtDYUDl0mYzgmWgYh), [Jeff Whipp](https://open.spotify.com/artist/66RFLzdKcDlXlSxmff7BvA), [John Quam](https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E), [Morty Okin](https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6), [Robert Castillo](https://open.spotify.com/artist/1KurYRB7eBuZFscPXhW3df), [Trevor Kinsel](https://open.spotify.com/artist/3zNfLl2dwYGK9AgeFEeaPL), [Van Hughes](https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3), [Matt Cowan](https://open.spotify.com/artist/5oGRwSzCJN3v7DghqpKcj7), [David Murotake](https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0) | [Rigormorty](https://open.spotify.com/album/3nqKqVYdRaQyB2qd1kWTAk) | 3:19 |
 | 50 | [Sugar High](https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [Superhero Swinger Undercover](https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN) | 3:58 |
 
-Snapshot ID: `MCw5MzEwNWYwYTZjYzFlZjVhZjJlYjhlZDY5N2QyMDkxNGQwZDExMzEz`
+Snapshot ID: `MCw5YmE1NzFiNTE1YzAwOGQ0MjlkZjc0YzI2YjJlNmZlZmY5NWI3ZTlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > The best indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,387 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,570 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 51 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
 | 52 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 |
 | 53 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 |
-| 54 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 |
-| 55 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
+| 54 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
+| 55 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 |
 | 56 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
 | 57 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 |
 | 58 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 60 | [Rolled Up](https://open.spotify.com/track/4DWyAq9ExNPogDaduac3Ym) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 3:03 |
 | 61 | [Hope](https://open.spotify.com/track/35UO6dWrEPLmeSVXtAysS4) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 2:36 |
 | 62 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 |
-| 63 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 |
-| 64 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 |
+| 63 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 |
+| 64 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 |
 | 65 | [Dog Years](https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 4:37 |
 | 66 | [Looking For Something](https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:09 |
 | 67 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 76 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 |
 | 77 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 |
 | 78 | [Miami Baby](https://open.spotify.com/track/0BhMGTZ32kho286pz0mJxq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Miami Baby](https://open.spotify.com/album/7xCHhK4CCxyT70MaKqIMsF) | 4:53 |
-| 79 | [Estrangers](https://open.spotify.com/track/6ZyJiCgtPz0gJrhubGLkud) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Estrangers](https://open.spotify.com/album/1mB8gNDaDUgY97MgmeMOQI) | 3:19 |
-| 80 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
+| 79 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
+| 80 | [Estrangers](https://open.spotify.com/track/6ZyJiCgtPz0gJrhubGLkud) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Estrangers](https://open.spotify.com/album/1mB8gNDaDUgY97MgmeMOQI) | 3:19 |
 | 81 | [Come Meh Way](https://open.spotify.com/track/62wAc90VNxtcNJQJrPaeJQ) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Sudan Archives](https://open.spotify.com/album/14te3urxuBTRzhJciMLK0V) | 2:26 |
 | 82 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 |
 | 83 | [No Quit](https://open.spotify.com/track/3zGn3DuQSsh5g6o2r6IwJg) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [No Quit](https://open.spotify.com/album/1YhIJxRStr6P4klotOPv9N) | 3:13 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 90 | [Drag](https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Headcase](https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT) | 3:09 |
 | 91 | [Like the Sun](https://open.spotify.com/track/7LItXkhy2jee3EU8Nx7XPU) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Sundays](https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP) | 2:49 |
 | 92 | [keep going](https://open.spotify.com/track/7FDHPkkA4jQYBMtbpe2UzR) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Ritual](https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w) | 2:52 |
-| 93 | [Blood And Butter](https://open.spotify.com/track/5KE5Inz4uZKGb2EzETaOEe) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:27 |
-| 94 | [Bound](https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 3:40 |
-| 95 | [To the Moon](https://open.spotify.com/track/7KTeCmYOof8NML28Lc9dWo) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [To the Moon](https://open.spotify.com/album/3y8er1lVrR5Y9i6AwXNRcT) | 2:50 |
-| 96 | [Someone I Could Love](https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:05 |
+| 93 | [Bound](https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 3:40 |
+| 94 | [Blood And Butter](https://open.spotify.com/track/5KE5Inz4uZKGb2EzETaOEe) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:27 |
+| 95 | [Someone I Could Love](https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:05 |
+| 96 | [To the Moon](https://open.spotify.com/track/7KTeCmYOof8NML28Lc9dWo) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [To the Moon](https://open.spotify.com/album/3y8er1lVrR5Y9i6AwXNRcT) | 2:50 |
 | 97 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 |
 | 98 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 |
 | 99 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 |
 | 100 | [Another Lover](https://open.spotify.com/track/5duZe3kHUqNENd97WYqmYL) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 4:26 |
 
-Snapshot ID: `MCwwMzkzNGZiMjMzN2RhOGIwYmI3ZjQ3MDFhYmYxZDNjZWQzZDVhZTU3`
+Snapshot ID: `MCxiYWMyOWM3OGViNDNkOGJiMmMyYjU4MDRkZjA4Y2I4MjZkMmQwOTRm`

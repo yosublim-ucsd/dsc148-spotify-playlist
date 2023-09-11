@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,661 likes - 120 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,944 likes - 120 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 29 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/77FULy278MulVvGWS8BfK7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:11 |
 | 30 | [Take Me Away \(Into The Night\) \- Vocal Radio Mix](https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w) | 3:10 |
 | 31 | [Castles In The Sky \- Radio Mix](https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ), [Marsha](https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y) | [Castles In The Sky](https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL) | 3:47 |
-| 32 | [Destination Calabria \- UK Radio Edit](https://open.spotify.com/track/7pGboneNRAZ5zwT7M3WayC) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:01 |
-| 33 | [Blue \(Da Ba Dee\) \- Gabry Ponte Video Edit](https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 3:39 |
+| 32 | [Blue \(Da Ba Dee\) \- Gabry Ponte Video Edit](https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 3:39 |
+| 33 | [Destination Calabria \- UK Radio Edit](https://open.spotify.com/track/7pGboneNRAZ5zwT7M3WayC) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:01 |
 | 34 | [Traffic \- Radio Edit](https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5) | 2:57 |
 | 35 | [Day 'N' Nite \- Crookers Remix](https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Day 'N' Nite \(Crookers Remix\)](https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F) | 4:41 |
 | 36 | [Rapture \(feat.Nadia Ali\)](https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Poetica \(feat\. Nadia Ali\)](https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD) | 4:13 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Chemistry \- Radio Edit](https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Chemistry](https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q) | 3:44 |
 | 120 | [Awaken \- Ron Reeser & Dan Saenz Radio Edit](https://open.spotify.com/track/6XWIwu69Yu7BwQJzDajYRY) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Ron Reeser](https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY), [Dan Saenz](https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8) | [Awaken \(Part 2\)](https://open.spotify.com/album/00CaQlX78h86BkRvuUnAnT) | 3:44 |
 
-Snapshot ID: `MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx`
+Snapshot ID: `MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz`

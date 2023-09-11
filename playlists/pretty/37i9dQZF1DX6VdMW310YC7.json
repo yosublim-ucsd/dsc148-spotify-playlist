@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3670684,
+  "num_followers": 3671238,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTlkNGFjYzJiMjI4MGU5ZjQyMmIyMDVhYjBhYzg4N2E1MDM1MmU0",
+  "snapshot_id": "MCw0OTBlODRlMzZjZjQzMWVmYjhmZGZkN2ZiYmI2ODAzYTc3Y2Q0Njcy",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Something, Everything",
-        "url": "https://open.spotify.com/album/5o3crBnx8Z0JyXQ0rI8OE3"
+        "name": "Tears In Paradise",
+        "url": "https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
         }
       ],
-      "duration_ms": 222250,
-      "name": "Salta",
-      "url": "https://open.spotify.com/track/5L8R2cyft2HfQ1IlfVAbcz"
+      "duration_ms": 169180,
+      "name": "Another You",
+      "url": "https://open.spotify.com/track/0GZ6PpNaMiViu3J0MDZztp"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Tears In Paradise",
-        "url": "https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE"
+        "name": "Something, Everything",
+        "url": "https://open.spotify.com/album/5o3crBnx8Z0JyXQ0rI8OE3"
       },
       "artists": [
         {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         }
       ],
-      "duration_ms": 169180,
-      "name": "Another You",
-      "url": "https://open.spotify.com/track/0GZ6PpNaMiViu3J0MDZztp"
+      "duration_ms": 222250,
+      "name": "Salta",
+      "url": "https://open.spotify.com/track/5L8R2cyft2HfQ1IlfVAbcz"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -767,6 +767,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "MNRT",
+          "url": "https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99"
+        },
+        {
+          "name": "S:NE",
+          "url": "https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3"
+        }
+      ],
+      "duration_ms": 152298,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "All I've Ever Known",
         "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
       },
@@ -795,30 +819,6 @@
       "duration_ms": 212500,
       "name": "Where I Find My Mind",
       "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin"
-      },
-      "artists": [
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        },
-        {
-          "name": "MNRT",
-          "url": "https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99"
-        },
-        {
-          "name": "S:NE",
-          "url": "https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3"
-        }
-      ],
-      "duration_ms": 152298,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "I Can Make It",
-        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 249012,
-      "name": "I Can Make It",
-      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 411147,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "I Can Make It",
+        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Assassin",
-        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Starchaser",
         "url": "https://open.spotify.com/album/5hWKdvx2iIO3qOeQiWiehL"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 254274,
       "name": "Starchaser",
       "url": "https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Assassin",
+        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Breaking Apart",
-        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
-      },
-      "artists": [
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 275958,
-      "name": "Breaking Apart",
-      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 212906,
       "name": "IOU",
       "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Breaking Apart",
+        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 275958,
+      "name": "Breaking Apart",
+      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/5MdzjsRffjKUicXibIu9dl"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 237628,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/2sHGfbeO6mKILlgOnBzkru"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Disappear",
         "url": "https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 235859,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/5MdzjsRffjKUicXibIu9dl"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 237628,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/2sHGfbeO6mKILlgOnBzkru"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1611,38 +1611,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Anywhere (Road Trippin')",
-        "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
-      },
-      "artists": [
-        {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "Anywhere (Road Trippin')",
-      "url": "https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 627096,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "These Things Will Come To Be",
         "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
       },
@@ -1659,18 +1627,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Tal",
-        "url": "https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
       },
       "artists": [
         {
-          "name": "p\u00f8laroit",
-          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 291125,
-      "name": "Tal",
-      "url": "https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH"
+      "duration_ms": 627096,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1695,22 +1663,34 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Carry On (EarthLife Remix)",
-        "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
+        "name": "Tal",
+        "url": "https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I"
       },
       "artists": [
         {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "EarthLife",
-          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
         }
       ],
-      "duration_ms": 218789,
-      "name": "Carry On - EarthLife Remix",
-      "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
+      "duration_ms": 291125,
+      "name": "Tal",
+      "url": "https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Anywhere (Road Trippin')",
+        "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "Anywhere (Road Trippin')",
+      "url": "https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1731,6 +1711,50 @@
       "duration_ms": 271025,
       "name": "Making Time",
       "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Carry On (EarthLife Remix)",
+        "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "duration_ms": 218789,
+      "name": "Carry On - EarthLife Remix",
+      "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Loving Blind",
+        "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
+      },
+      "artists": [
+        {
+          "name": "Sam Wiseman",
+          "url": "https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        },
+        {
+          "name": "ANDREWBATES",
+          "url": "https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv"
+        }
+      ],
+      "duration_ms": 216926,
+      "name": "Loving Blind",
+      "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1787,26 +1811,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Loving Blind",
-        "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
       },
       "artists": [
         {
-          "name": "Sam Wiseman",
-          "url": "https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
         {
-          "name": "Idun Nicoline",
-          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
-        },
-        {
-          "name": "ANDREWBATES",
-          "url": "https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv"
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
         }
       ],
-      "duration_ms": 216926,
-      "name": "Loving Blind",
-      "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1875,26 +1895,6 @@
       "duration_ms": 233644,
       "name": "Must Be Dreaming",
       "url": "https://open.spotify.com/track/16ux7RA90OUcVqhgrad44r"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     }
   ],
   "unique_name": "Chill Tracks",

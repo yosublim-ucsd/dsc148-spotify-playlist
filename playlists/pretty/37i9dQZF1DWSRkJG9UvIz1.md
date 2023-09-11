@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,869 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,971 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 34 | [For No One](https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 5:02 |
 | 35 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 | 36 | [Sonho Bossa Nova](https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Dança Entre Casais](https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA) | 3:52 |
-| 37 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
-| 38 | [Alegria](https://open.spotify.com/track/1SYDXvP1rahganh8t5plez) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:28 |
+| 37 | [Alegria](https://open.spotify.com/track/1SYDXvP1rahganh8t5plez) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:28 |
+| 38 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
 | 39 | [Ameixa](https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Fejuca](https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj) | [Ameixa](https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz) | 4:06 |
 | 40 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
 | 41 | [Esqueço das Horas \(Always On Replay\)](https://open.spotify.com/track/2kFXNHDvTSFwm5d7vsCV1p) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Esqueço das Horas \(Always On Replay\)](https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
 | 60 | [Rio de Janeiro](https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt) | [josefe](https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX) | [Rio de Janeiro](https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu) | 2:23 |
 
-Snapshot ID: `MCxmZjQzYzJiMjk0MzhmM2Q5MWU4MTA2ZjllNTY2Y2ZlZDk3YTY0Mjli`
+Snapshot ID: `MCw3N2U1ZjU4NmRlNWRmOThmNmE3ZGExYThhYzk2YWRkYzJiNTUzMTll`

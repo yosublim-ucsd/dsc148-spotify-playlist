@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Outkast",
-  "num_followers": 491525,
+  "num_followers": 491782,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmJlOTAwN2MyMjQ3YTk4NjRlMWMwN2JhZGIwMTQxZGEzMDcyNzc3",
+  "snapshot_id": "MCw2NTNkMDZlZjdiNWYyYWM1MTEzMGMwZWYwNjMxZjA4NzBjM2ZjNGI3",
   "tracks": [
     {
       "added_at": "2023-09-01 16:45:25",
@@ -839,30 +839,6 @@
     {
       "added_at": "2023-09-01 16:45:25",
       "album": {
-        "name": "When the Smoke Clears: Sixty 6, Sixty 1",
-        "url": "https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI"
-      },
-      "artists": [
-        {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        },
-        {
-          "name": "UGK",
-          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 261972,
-      "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
-      "url": "https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH"
-    },
-    {
-      "added_at": "2023-09-01 16:45:25",
-      "album": {
         "name": "On Top Of Our Game",
         "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 229813,
       "name": "Lean Wit It, Rock Wit It",
       "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
+    },
+    {
+      "added_at": "2023-09-01 16:45:25",
+      "album": {
+        "name": "When the Smoke Clears: Sixty 6, Sixty 1",
+        "url": "https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 261972,
+      "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
+      "url": "https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH"
     },
     {
       "added_at": "2023-09-01 16:45:25",

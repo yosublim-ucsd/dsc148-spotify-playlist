@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaiDZ16BA15.md) - [plain]
 
 > Italian duo <a href="spotify:artist:6mM9a86Nrw0y7f9MaJGbpU">Giolì & Assia</a> deliver a mix featuring tracks from their most recent album and deep, melodic selections.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,380 likes - 18 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,429 likes - 18 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaiDZ16BA15.md) - [plain]
 | 17 | [Hela \- Mixed](https://open.spotify.com/track/7JJ6NykhLd1aYbYKTfVg4F) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Hela \(Mixed\)](https://open.spotify.com/album/6ygiIWvvJmTSUeqnzveu5s) | 4:05 |
 | 18 | [Fire Hell and Holy Water \- Mixed](https://open.spotify.com/track/745qUk66s5pDjIgdqRMO8Y) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water \(Mixed\)](https://open.spotify.com/album/5oIrhfrHjMRvPwpC0u3CyO) | 3:29 |
 
-Snapshot ID: `MCxlMTE5M2U1NWUzMGE4MTM1ZjcyZmFjNDVjN2Y4MzIxNzg3N2I5NmU0`
+Snapshot ID: `MCxkODRhNzRkMmFkNjMwZDE3NTc5MWJjOTA3MGU5NmIzMDEwYzlmNWU5`

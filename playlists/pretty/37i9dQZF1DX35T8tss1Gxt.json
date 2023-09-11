@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147\">Dante Bowe</a>",
-  "num_followers": 211655,
+  "num_followers": 211770,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2U5MjJlYjMxOTZhY2FlNWMyZmRmOWUwMmY5Zjg0ZmZhZmNiZTk1",
+  "snapshot_id": "MCxkMzY5NDNjYmZiMGJiMGZjZjZkMWY1NWFlYzIzYTEzNTM3NTJlOGIy",
   "tracks": [
     {
       "added_at": "2023-07-21 11:58:05",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Get to Me",
-        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Get to Me",
-      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Get to Me",
+        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Get to Me",
+      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "Hands",
         "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
       },
@@ -483,42 +483,6 @@
       "duration_ms": 223639,
       "name": "Hands - Radio Version",
       "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Edwards",
-          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
-        },
-        {
-          "name": "Rushawn",
-          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
-        }
-      ],
-      "duration_ms": 154218,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "GO BACK",
-        "url": "https://open.spotify.com/album/0IpCBFsEPn1CO9Fxkfauo1"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 157531,
-      "name": "GO BACK",
-      "url": "https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -539,18 +503,38 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "My Worship",
-        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+        "name": "GO BACK",
+        "url": "https://open.spotify.com/album/0IpCBFsEPn1CO9Fxkfauo1"
       },
       "artists": [
         {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 201938,
-      "name": "My Worship",
-      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
+      "duration_ms": 157531,
+      "name": "GO BACK",
+      "url": "https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
+        },
+        {
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
+        }
+      ],
+      "duration_ms": 154218,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -587,6 +571,22 @@
       "duration_ms": 181776,
       "name": "New Day",
       "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 263791,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
-      },
-      "artists": [
-        {
-          "name": "Pauline Zoe Park",
-          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
-        }
-      ],
-      "duration_ms": 211209,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
       },
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
       },
       "artists": [
         {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+          "name": "Pauline Zoe Park",
+          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
         }
       ],
-      "duration_ms": 263791,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd"
+      "duration_ms": 211209,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "I'll Praise",
+        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 160405,
+      "name": "I'll Praise",
+      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "VANILLA",
         "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
       },
@@ -1475,30 +1491,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        },
-        {
-          "name": "Moflo Music",
-          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
-        },
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "The Fallen Movie Soundtrack",
         "url": "https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO"
       },
@@ -1527,18 +1519,26 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "I'll Praise",
-        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn"
       },
       "artists": [
         {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        },
+        {
+          "name": "Moflo Music",
+          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
+        },
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
         }
       ],
-      "duration_ms": 160405,
-      "name": "I'll Praise",
-      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
+      "duration_ms": 184973,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1567,26 +1567,6 @@
       "duration_ms": 153083,
       "name": "HOMIE",
       "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "Amidst",
-        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Erica Bostick",
-          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1635,18 +1615,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Tale of a Free Man",
-        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
+        "name": "Amidst",
+        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
       },
       "artists": [
         {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Erica Bostick",
+          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
         }
       ],
-      "duration_ms": 222157,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
+      "duration_ms": 240500,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1663,6 +1647,22 @@
       "duration_ms": 210000,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Tale of a Free Man",
+        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 222157,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Not Ready",
-        "url": "https://open.spotify.com/album/5fxIWLwV8ugU5hvPkOJHcf"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 236850,
-      "name": "Not Ready",
-      "url": "https://open.spotify.com/track/6D048RKHsytV9beHsE0A5S"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Perfect Love",
         "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
@@ -1799,22 +1783,18 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Unguilty Pleasure",
-        "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
+        "name": "Not Ready",
+        "url": "https://open.spotify.com/album/5fxIWLwV8ugU5hvPkOJHcf"
       },
       "artists": [
         {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 193398,
-      "name": "Unguilty Pleasure",
-      "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+      "duration_ms": 236850,
+      "name": "Not Ready",
+      "url": "https://open.spotify.com/track/6D048RKHsytV9beHsE0A5S"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1831,6 +1811,26 @@
       "duration_ms": 158000,
       "name": "God of Dreams",
       "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Unguilty Pleasure",
+        "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
+      },
+      "artists": [
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 193398,
+      "name": "Unguilty Pleasure",
+      "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
     },
     {
       "added_at": "2023-07-21 11:58:05",

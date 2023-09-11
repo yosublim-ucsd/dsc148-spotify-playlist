@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1039479,
+  "num_followers": 1039642,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjJkMGFhZDIyYzM0MjM2NDZhNDRlZTFjMDFkNWQ4ODY1OGVlODBi",
+  "snapshot_id": "MCwzODQwNTBmOWM5MDNiYzU2OTc3NTM0MGJjODNkNDFmNGMyNTA2YzEz",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Los Tragos",
-        "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Los Tragos",
-      "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Los Tragos",
+        "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Los Tragos",
+      "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "KESI (Remix)",
         "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Junio",
         "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 168601,
       "name": "Junio",
       "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1331,22 +1347,6 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1651,22 +1651,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Correcaminos",
-        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 182106,
-      "name": "Correcaminos",
-      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+      "duration_ms": 164727,
+      "name": "DIME QUI\u00c9N????",
+      "url": "https://open.spotify.com/track/1ImWmtI7DM2uFPNJHHbD8g"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1687,18 +1683,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+        "name": "Correcaminos",
+        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 164727,
-      "name": "DIME QUI\u00c9N????",
-      "url": "https://open.spotify.com/track/1ImWmtI7DM2uFPNJHHbD8g"
+      "duration_ms": 182106,
+      "name": "Correcaminos",
+      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 155380,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
     },
     {
       "added_at": "2023-09-01 04:00:00",

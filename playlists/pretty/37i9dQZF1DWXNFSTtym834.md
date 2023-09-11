@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170,429 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,429 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 34 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
 | 35 | [Laid to Rest](https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:50 |
 | 36 | [Unholy Confessions](https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 4:43 |
-| 37 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
+| 37 | [Stillborn](https://open.spotify.com/track/3tS1VMpxp9bLn46Cyh09el) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [The Blessed Hellride](https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo) | 3:16 |
 | 38 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 |
-| 39 | [Stillborn](https://open.spotify.com/track/3tS1VMpxp9bLn46Cyh09el) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [The Blessed Hellride](https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo) | 3:16 |
+| 39 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 40 | [Y'all Want a Single](https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:17 |
-| 41 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
-| 42 | [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 |
-| 43 | [Bad Company](https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 4:22 |
+| 41 | [Bad Company](https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 4:22 |
+| 42 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
+| 43 | [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 |
 | 44 | [Only for the Weak](https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Clayman](https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd) | 4:54 |
 | 45 | [Redneck](https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 3:40 |
 | 46 | [Feel So Numb](https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:53 |
@@ -72,15 +72,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 62 | [The End of Heartache](https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [The End of Heartache \(Special Edition\)](https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V) | 4:58 |
 | 63 | [Ghost Division](https://open.spotify.com/track/1MoEyYsa9Y0FvApwLskO1l) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Art of War \(Re\-Armed\)](https://open.spotify.com/album/0ByHC8GAef76h66JrvigzE) | 3:51 |
 | 64 | [Right Now](https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:09 |
-| 65 | [Eat You Alive](https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 3:56 |
-| 66 | [Lateralus](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 9:22 |
-| 67 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
-| 68 | [Crazy Bitch](https://open.spotify.com/track/3Lc65aYhtNRO19Fnq2oMb8) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/2KhDo0Er6dNxcK8zL6252l) | 3:24 |
+| 65 | [Crazy Bitch](https://open.spotify.com/track/3Lc65aYhtNRO19Fnq2oMb8) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/2KhDo0Er6dNxcK8zL6252l) | 3:24 |
+| 66 | [Eat You Alive](https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 3:56 |
+| 67 | [Lateralus](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 9:22 |
+| 68 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
 | 69 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
 | 70 | [I Only Wanna Be With You](https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Strength / The Sound / The Songs](https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5) | 2:44 |
 | 71 | [Bleed](https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen](https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa) | 7:22 |
-| 72 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
-| 73 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 |
+| 72 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 |
+| 73 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
 | 74 | [Are You Dead Yet?](https://open.spotify.com/track/52s05aBQd2LVc6EWIQCQI1) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Are You Dead Yet?](https://open.spotify.com/album/79DzJ47LPkstBgi1Hu5Opm) | 3:54 |
 | 75 | [Amerika](https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ) | 3:46 |
 | 76 | [Omerta](https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:45 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 97 | [Distortion Sleep](https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Figure Number Five](https://open.spotify.com/album/6n86brHTe54lipUckY9InO) | 3:45 |
 | 98 | [Nothing Left](https://open.spotify.com/track/2zy79BntQ1kumEUeqM5O84) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 3:43 |
 | 99 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
-| 100 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
+| 100 | [Ich tu dir weh](https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da](https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z) | 5:01 |
 
-Snapshot ID: `MCxmZjNmMTk3MGUyNDY4MjBlZDI2NzNhMDFmYThhYjdmNmNiMDliMTUx`
+Snapshot ID: `MCxjMzQ1YjlhOGI5ZTc5NTQwYTJmOTdlM2EyM2JlODZmNjQ0ODI2Yzgw`

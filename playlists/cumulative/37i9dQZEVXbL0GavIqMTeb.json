@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 348400,
       "name": "Coraz\u00f3n Roto pt. 3",
       "url": "https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP"
@@ -2874,6 +2874,28 @@
       "duration_ms": 195769,
       "name": "COSITAS",
       "url": "https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH"
+    },
+    {
+      "album": {
+        "name": "Costumbres (Vivo)",
+        "url": "https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133077,
+      "name": "Costumbres - Vivo",
+      "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
     },
     {
       "album": {
@@ -4302,7 +4324,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
@@ -11986,7 +12008,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 123434,
       "name": "Ram",
       "url": "https://open.spotify.com/track/3KE79Zt2aM32NwURw5FCjr"
@@ -15728,7 +15750,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 133865,
       "name": "Ya No Pienso en Ti",
       "url": "https://open.spotify.com/track/447CO62bX92cmh13R0DAnk"
@@ -15754,7 +15776,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"

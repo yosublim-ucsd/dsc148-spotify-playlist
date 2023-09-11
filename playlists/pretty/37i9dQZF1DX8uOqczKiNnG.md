@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 
 > Los más grandes éxitos de los 70 en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,121 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,169 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 | 49 | [Muchacha \(Ojos de Papel\)](https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:07 |
 | 50 | [Las Habladurias del Mundo](https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 4:03 |
 
-Snapshot ID: `MCxhMDNkOTQzMjhlNTg1YWYwNjI3MDI3MjQ3Mzg2NmZkNWYxMTFiNzU0`
+Snapshot ID: `MCw1NTRkNzFkZWY5NTNkZjdmNzYyMmNhY2RiM2JiOWFiZWVhYjU4NGRh`

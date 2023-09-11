@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,265 likes - 80 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,299 likes - 80 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,25 +51,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 41 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 |
 | 42 | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP) | 4:47 |
 | 43 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
-| 44 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
-| 45 | [サーカスナイト](https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [サーカスナイト](https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR) | 5:27 |
+| 44 | [サーカスナイト](https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [サーカスナイト](https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR) | 5:27 |
+| 45 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
 | 46 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 |
-| 47 | [Night Time](https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Days With Uncertainty](https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM) | 3:59 |
-| 48 | [深呼吸](https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [SHINJITERU](https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU) | 3:33 |
+| 47 | [深呼吸](https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [SHINJITERU](https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU) | 3:33 |
+| 48 | [Night Time](https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Days With Uncertainty](https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM) | 3:59 |
 | 49 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 |
 | 50 | [手紙](https://open.spotify.com/track/7jptw3DENO2pWmrfzE1TZs) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [MONSTER](https://open.spotify.com/album/0yWVWwqwms3GuJTfnWWIhO) | 7:15 |
 | 51 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
-| 52 | [涙は星屑のように](https://open.spotify.com/track/2nYHBQmM8Wp3d6UB4Bbe5l) | [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [星屑たち](https://open.spotify.com/album/5dGmv1ySk8MBfoYIBHciMH) | 5:33 |
+| 52 | [サンサーラ](https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [リョウメンシダ/サンサーラ](https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J) | 5:31 |
 | 53 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 |
-| 54 | [サンサーラ](https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [リョウメンシダ/サンサーラ](https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J) | 5:31 |
+| 54 | [涙は星屑のように](https://open.spotify.com/track/2nYHBQmM8Wp3d6UB4Bbe5l) | [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [星屑たち](https://open.spotify.com/album/5dGmv1ySk8MBfoYIBHciMH) | 5:33 |
 | 55 | [Last Peace](https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH), [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [27](https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj) | 3:43 |
 | 56 | [猫村さんのうた](https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t) | [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50), [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [猫村さんのうた](https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0) | 2:46 |
 | 57 | [さもありなん](https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [さもありなん](https://open.spotify.com/album/6B8yGpKG4hIATtbS3ibsHA) | 5:50 |
 | 58 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 |
 | 59 | [サラ・ジェーン](https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 4:04 |
 | 60 | [おあいこ](https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [What are you looking for](https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh) | 6:41 |
-| 61 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 |
-| 62 | [虹とカイト](https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio best Too](https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM) | 5:37 |
+| 61 | [虹とカイト](https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio best Too](https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM) | 5:37 |
+| 62 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 |
 | 63 | [Karakai](https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ), [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Karakai](https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w) | 4:02 |
 | 64 | [希望のうた](https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [沈黙の恋人](https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo) | 4:05 |
 | 65 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 67 | [Beautiful Sleep](https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム～beautiful sleep～](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 4:02 |
 | 68 | [ねむるのまち\~Tidur Tidur\~](https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [帰ってから、歌いたくなってもいいようにと思ったのだ。](https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG) | 5:10 |
 | 69 | [パレード](https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [Ninh Binh Brother's Homestay](https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra) | 3:48 |
-| 70 | [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 |
-| 71 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 |
+| 70 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 |
+| 71 | [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 |
 | 72 | [ロマンチック2017](https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0) | [KENTA MAENO](https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043) | [ロマンチック2017](https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH) | 1:07 |
 | 73 | [苺](https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Prescribing The...](https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat) | 4:47 |
 | 74 | [Arrows](https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Arrows](https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3) | 4:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 79 | [Lady \- 2020](https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 5:56 |
 | 80 | [Soil](https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD) | [naomi paris tokyo](https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8) | [Soil](https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X) | 5:57 |
 
-Snapshot ID: `MCw2N2Y1Y2NkMjQxNWY1MmQzZDFmZTUyZmIxNTBkYjc4YWU5OTM3MGY4`
+Snapshot ID: `MCwyZmU3Njg0MTFhNzk2NWYxY2YyZTY5MDkxZWNjMWQ1NGQyMzRhYjky`

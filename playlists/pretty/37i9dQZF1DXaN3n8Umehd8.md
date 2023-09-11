@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > this is my meal: gurrll dinnerrrrr ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,961 likes - 45 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,985 likes - 45 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 6 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 7 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
 | 8 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 |
-| 9 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
-| 10 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 |
+| 9 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 |
+| 10 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
 | 11 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
 | 12 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 |
 | 13 | [Sabor a Chocolate](https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Lo Que Andábamos Buscando \(Special Para CEV\)](https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h) | 3:51 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 21 | [Mayonesa](https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM) | [Chocolate](https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn) | [2000 Grandes Exitos](https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw) | 3:51 |
 | 22 | [Cherry](https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:16 |
 | 23 | [Café Con Leche](https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mujer Eléctrica](https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59) | 1:53 |
-| 24 | [Lady Marmalade \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/7GQqj9jRtDkMp8zByehXQI) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Moulin Rouge](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) | 4:24 |
-| 25 | [Cake By The Ocean](https://open.spotify.com/track/3R4jodloIlJ3GQffZtxlDI) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/7HEzL22b7GlNsNosb9Mb1g) | 3:39 |
+| 24 | [Cake By The Ocean](https://open.spotify.com/track/3R4jodloIlJ3GQffZtxlDI) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/7HEzL22b7GlNsNosb9Mb1g) | 3:39 |
+| 25 | [Lady Marmalade \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/7GQqj9jRtDkMp8zByehXQI) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Moulin Rouge](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) | 4:24 |
 | 26 | [Fruta y Té](https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 2:54 |
 | 27 | [Milkshake \- Radio Mix](https://open.spotify.com/track/2s0ouHqJebHfiQ6C1GUFJd) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:02 |
 | 28 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/1ZrpvgLUBHozH2PLbc4SrO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 3:18 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 31 | [Sugar](https://open.spotify.com/track/78Yxsdi1JiwLDsU7TWHezw) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V \(Deluxe\)](https://open.spotify.com/album/0lHJwrDEFxrJhpB1gQoeMp) | 3:55 |
 | 32 | [Media Naranja](https://open.spotify.com/track/5qOOJibHjeGx0rhzL20JSc) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Originales \- 20 Exitos](https://open.spotify.com/album/3XJ5zeV7FVsvZQl0SNPBhy) | 3:41 |
 | 33 | [Horchata](https://open.spotify.com/track/76BIj06DoRIuJLtchonDcd) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ) | 3:26 |
-| 34 | [Naranjita sí carnal](https://open.spotify.com/track/38GUNizDnH3F6eBqZceONk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 3:14 |
-| 35 | [Chicle de Menta](https://open.spotify.com/track/73VqJSXXWF3pV5uqnuO92N) | [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [Mdyssl](https://open.spotify.com/album/3FechyjHr69GRejwbQY6AK) | 3:05 |
+| 34 | [Chicle de Menta](https://open.spotify.com/track/73VqJSXXWF3pV5uqnuO92N) | [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [Mdyssl](https://open.spotify.com/album/3FechyjHr69GRejwbQY6AK) | 3:05 |
+| 35 | [Naranjita sí carnal](https://open.spotify.com/track/38GUNizDnH3F6eBqZceONk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 3:14 |
 | 36 | [Guacamole](https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [The Nada](https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX) | 5:00 |
 | 37 | [Love Colada](https://open.spotify.com/track/1HwLTE2NLqP9HN097dzl2g) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 3:02 |
 | 38 | [Coca\-Cola](https://open.spotify.com/track/7pSAPCaLEPpKlIOHiJxTSb) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Faisan](https://open.spotify.com/artist/0x560lMC7W8ZtIneaKCmIz) | [Coca\-Cola](https://open.spotify.com/album/4ahz5GUHjLRqVL4lUcCdRi) | 3:00 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 44 | [Maruchan](https://open.spotify.com/track/6wbH6RUoIDZy0ftFo5gO1j) | [San Coyote](https://open.spotify.com/artist/3augwZaU3wAHhqN49Y7ONe) | [San Coyote \(Studio\)](https://open.spotify.com/album/5YA35LedmE007POV6XWj1u) | 3:39 |
 | 45 | [No Coke \- 2004 Original](https://open.spotify.com/track/0MmQL6ISNfwIErYvnVmcaQ) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [WOF](https://open.spotify.com/album/0Rs1l7shLhP8WokRmI7HXQ) | 2:51 |
 
-Snapshot ID: `MCw0MjdkZDBlZGRiMzI4ZTlmMjRhOTg2M2Y0MDg4YzAyZTkzNGNlMjhj`
+Snapshot ID: `MCwxNGM1NzQyMzc1YTEwOTM0ZWIwMjc0YjkyNzk1YjI0MDgwNmY5YzEz`

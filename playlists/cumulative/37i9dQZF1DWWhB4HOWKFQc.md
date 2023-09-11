@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Devano
 
-229 songs - 13 hr 56 min
+230 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [UNDERSTAND](https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:30 | 2023-04-13 | 2023-06-16 |
 | [Uneasy](https://open.spotify.com/track/4o31OUbP1WMjtpJeECtL7n) | [Andrea Tanzil](https://open.spotify.com/artist/3YJZTp3m6z2jgFUwe3krO7) | [Uneasy](https://open.spotify.com/album/7vxxmD7359SlJD2ir4harB) | 4:09 | 2023-03-23 | 2023-04-21 |
 | [Usai](https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Usai](https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8) | 3:37 | 2023-03-23 | 2023-07-26 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-25 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-25 | 2023-09-11 |
 | [Violet](https://open.spotify.com/track/7IezwtVIJIPC36LpKMR9d7) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Spin The Globe](https://open.spotify.com/album/1HkGRJtlIFAMDKpEgGxF0M) | 2:02 | 2023-03-23 | 2023-04-21 |
 | [Walking Back Home](https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Walking Back Home](https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3) | 2:12 | 2023-07-13 |  |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-09-01 |  |

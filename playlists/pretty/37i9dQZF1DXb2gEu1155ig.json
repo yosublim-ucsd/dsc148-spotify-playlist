@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 70473,
+  "num_followers": 70548,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjJhZTEyYWM4M2E0MDg4NWYzMmI2ZGRmOTI2NzNhNjQ1MGFkN2Nl",
+  "snapshot_id": "MCxiYWJiMjk3YTIzNjlhMDkyYTNiYTIxNDc5NWE2ZWFlYTc0NzJkNGJh",
   "tracks": [
     {
       "added_at": "2023-06-16 16:50:57",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Amor Y Cumbia",
-        "url": "https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 236760,
-      "name": "La Sirenita",
-      "url": "https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Mi Fantasia",
         "url": "https://open.spotify.com/album/1adsPQiPWD6KU41u114eii"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 226160,
       "name": "Viva El Amor",
       "url": "https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Amor Y Cumbia",
+        "url": "https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 236760,
+      "name": "La Sirenita",
+      "url": "https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1019,22 +1019,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Disco De Oro - Cumbia",
-        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
+        "name": "Ni Juana la Cubana",
+        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
       "artists": [
         {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        },
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
         }
       ],
-      "duration_ms": 180012,
-      "name": "Cumbia Barulera",
-      "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
+      "duration_ms": 171746,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Ni Juana la Cubana",
-        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
+        "name": "Disco De Oro - Cumbia",
+        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
       "artists": [
         {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        },
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
         }
       ],
-      "duration_ms": 171746,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+      "duration_ms": 180012,
+      "name": "Cumbia Barulera",
+      "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "El Ritmo De Chico Che Y La Crisis",
+        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Donde Te Agarro el Temblor",
+      "url": "https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "17 Aniversario",
         "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 201813,
       "name": "La Coloreteada",
       "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "El Ritmo De Chico Che Y La Crisis",
-        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Donde Te Agarro el Temblor",
-      "url": "https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 163921,
-      "name": "Tibur\u00f3n A La Vista",
-      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "La Coloreteada",
         "url": "https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 196066,
       "name": "D\u00e9jala Que Se Divierta",
       "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 163921,
+      "name": "Tibur\u00f3n A La Vista",
+      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
     },
     {
       "added_at": "2023-06-16 16:50:57",

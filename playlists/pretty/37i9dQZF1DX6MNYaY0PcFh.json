@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 65760,
+  "num_followers": 65855,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzA3ZDY0NGMyMDQwMmJjOWMyNjAxNTc4ZjA3ZmMwY2I5ZjZlZmYw",
+  "snapshot_id": "MCwzMGRkOGE3NjZiN2IwZTJiMzI5MmM4ODNlNTM4NTMyYmE1MjZkYzA1",
   "tracks": [
     {
       "added_at": "2023-06-08 23:00:00",
@@ -527,6 +527,26 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
+        "name": "Alright (feat. Lucy Virji)",
+        "url": "https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Lucy Virji",
+          "url": "https://open.spotify.com/artist/21r2Bc1mCeYM6f8F5xzJ8E"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Alright (feat. Lucy Virji)",
+      "url": "https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
         "name": "words",
         "url": "https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 189960,
       "name": "words",
       "url": "https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "Alright (feat. Lucy Virji)",
-        "url": "https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        },
-        {
-          "name": "Lucy Virji",
-          "url": "https://open.spotify.com/artist/21r2Bc1mCeYM6f8F5xzJ8E"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Alright (feat. Lucy Virji)",
-      "url": "https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Num\u00e9ro LDN",
-        "url": "https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f"
-      },
-      "artists": [
-        {
-          "name": "Sensu",
-          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
-        }
-      ],
-      "duration_ms": 142763,
-      "name": "Hypnotize Me Baby",
-      "url": "https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "With Me",
         "url": "https://open.spotify.com/album/76CVi2dGMcEgtoDcxeQWlH"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 228750,
       "name": "With Me (feat. S\u00e2lo)",
       "url": "https://open.spotify.com/track/7qERcHhtCTltMIGZl4nmYp"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Num\u00e9ro LDN",
+        "url": "https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        }
+      ],
+      "duration_ms": 142763,
+      "name": "Hypnotize Me Baby",
+      "url": "https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3"
     },
     {
       "added_at": "2023-06-08 23:00:00",

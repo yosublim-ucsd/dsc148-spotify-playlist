@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Cardi B & Megan Thee Stallion, Gucci Mane, City Girls, Lil Durk, Doja Cat and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,752 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,925 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 |
 | 50 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 |
 
-Snapshot ID: `MCwwOWY1ZjU1MWIwNTkwMjQwYTI5Y2IzZGUxZjUzNmNjNjlmNmE2MWFk`
+Snapshot ID: `MCxhNjM1MTYzMDFlMDZhMDY2MmJlM2M5ZDUyNGQwNjkwNWM4NWNjNzVh`

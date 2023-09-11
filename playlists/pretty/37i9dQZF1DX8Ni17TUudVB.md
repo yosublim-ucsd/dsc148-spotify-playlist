@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,326 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,337 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [Dished \(Male Stripper\)](https://open.spotify.com/track/4DIspILFDWAlU7bViTMqhS) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Dished \(Male Stripper\)](https://open.spotify.com/album/6RzHkehHgF4kgwFrZJX5D4) | 4:13 |
 | 90 | [CHROME](https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [CHROME](https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG) | 2:40 |
 
-Snapshot ID: `MCw5Y2ZkN2UzMWI5NzU1NWQ3ZmEzYzlhYzg3N2JhYjMwNGJhZTMwYjIx`
+Snapshot ID: `MCxjYjU4MmE0MDUxZWZmMTE5OGFjY2RkM2UzYTlkYTljMTY4OTc2NDA3`

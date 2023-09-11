@@ -744,7 +744,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 156784,
       "name": "Anywhere Else",
       "url": "https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY"
@@ -6048,7 +6048,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
@@ -6963,6 +6963,24 @@
     },
     {
       "album": {
+        "name": "Time On My Hands (Lo-Fi Version)",
+        "url": "https://open.spotify.com/album/0OCulu0g32zpyGrP9woaY1"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208598,
+      "name": "Snowblind - Lo-Fi Version",
+      "url": "https://open.spotify.com/track/10NjKdC6aS670R6HnkJO03"
+    },
+    {
+      "album": {
         "name": "Snowblind (Lo-Fi Version)",
         "url": "https://open.spotify.com/album/2mHNAFuim8XN9UowSF0eDc"
       },
@@ -6974,7 +6992,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 208598,
       "name": "Snowblind - Lo-Fi Version",
       "url": "https://open.spotify.com/track/3ZtYSknLXx0T3cJrpi7GRj"

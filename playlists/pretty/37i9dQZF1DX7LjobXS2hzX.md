@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,059 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,081 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 40 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 |
 | 41 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
 | 42 | [PARANO](https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 4:44 |
-| 43 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 43 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 44 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 45 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 |
 | 46 | [Le blanc des yeux](https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Le blanc des yeux](https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 74 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 |
 | 75 | [As de coeur](https://open.spotify.com/track/33IzNAqfPmXzc53qEofYKa) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [As de coeur](https://open.spotify.com/album/5x2p9Sk5OzgOIWfJB9rjyI) | 2:31 |
 
-Snapshot ID: `MCxlMzA5ZWRhODJhNzA2N2UzNjgwMTUyMjViMGRmMjA3NzVlODE3OWUz`
+Snapshot ID: `MCw4ZmM5OTZjNTNjMzQ5YjgwYWMxNDA5ZGUzYjUxMGUxMWUzZmExZDZi`

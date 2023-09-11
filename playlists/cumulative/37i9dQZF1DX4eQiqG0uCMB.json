@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177318,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
+    },
+    {
+      "album": {
         "name": "Back In Office",
         "url": "https://open.spotify.com/album/1gfcxREIzWiCKzAw71PxHp"
       },
@@ -2436,7 +2458,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 221399,
       "name": "Live Life",
       "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"

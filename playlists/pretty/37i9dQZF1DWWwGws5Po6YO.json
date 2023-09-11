@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 30653,
+  "num_followers": 30673,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjdhMzIwNzg1YWI4ODZiZDJiNTYwMzdiNTk3MDVhZDQ5YjY4YTU5",
+  "snapshot_id": "MCw5MjIwNzkxZDIwZjU4MjhkY2Q4ZTYzN2I5ZjAxNTFjYWE0MjI3YzY1",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Rising Fog",
+        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
+      },
+      "artists": [
+        {
+          "name": "Lucette Bourdin",
+          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
+        }
+      ],
+      "duration_ms": 508613,
+      "name": "Russian Snow",
+      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Comme Un Seul Narcisse",
         "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 261565,
       "name": "ME",
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Rising Fog",
-        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
-      },
-      "artists": [
-        {
-          "name": "Lucette Bourdin",
-          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
-        }
-      ],
-      "duration_ms": 508613,
-      "name": "Russian Snow",
-      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Maquishti",
         "url": "https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 343594,
       "name": "Sonnet",
       "url": "https://open.spotify.com/track/19829GO0Ckd7czgPIoSoVb"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -887,6 +887,22 @@
       "duration_ms": 342000,
       "name": "a path between the clouds",
       "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Selected Works II",
+        "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 335402,
+      "name": "A Woman Escapes Cue 4",
+      "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Becoming Ferromagnetic",
-        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 328275,
-      "name": "Becoming Ferromagnetic",
-      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Micro Macro",
         "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 144500,
       "name": "Absolution",
       "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Becoming Ferromagnetic",
+        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 328275,
+      "name": "Becoming Ferromagnetic",
+      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1023,22 +1039,6 @@
       "duration_ms": 299666,
       "name": "Satnam Waheguru",
       "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Selected Works II",
-        "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 335402,
-      "name": "A Woman Escapes Cue 4",
-      "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Possessed (Original Score)",
-        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 387268,
-      "name": "Hyphae",
-      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
         "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Possessed (Original Score)",
+        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 387268,
+      "name": "Hyphae",
+      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "a journey...",
         "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
       },
@@ -1263,38 +1263,6 @@
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "@0",
-        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
-      },
-      "artists": [
-        {
-          "name": "Mira Calix",
-          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "dana\u00efdes",
-      "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "World Breathes",
-        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "The Centre of Everything",
-      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1347,6 +1315,38 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "World Breathes",
+        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 194025,
+      "name": "The Centre of Everything",
+      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "@0",
+        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
+      },
+      "artists": [
+        {
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "dana\u00efdes",
+      "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Island Alchemy",
         "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Fountainhead",
-        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
-      },
-      "artists": [
-        {
-          "name": "Courtney Swain",
-          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
-        }
-      ],
-      "duration_ms": 405570,
-      "name": "fountainhead",
-      "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "I'll Look For You In Others",
         "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 393479,
       "name": "I'll Look for You in Others",
       "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Fountainhead",
+        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
+      },
+      "artists": [
+        {
+          "name": "Courtney Swain",
+          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
+        }
+      ],
+      "duration_ms": 405570,
+      "name": "fountainhead",
+      "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
     },
     {
       "added_at": "2023-09-08 14:04:07",

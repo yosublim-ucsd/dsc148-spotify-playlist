@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 
 > The best and finest '90s Funk\. Cover: The Brand New Heavies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,487 likes - 102 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,513 likes - 102 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 | 101 | [Throw Your Hands Up \- Treach Version](https://open.spotify.com/track/7kOxq4oyCZuJeIAhUr21tk) | [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [I Am L.V.](https://open.spotify.com/album/2TbeM4a7g36U11EDZve5D8) | 3:50 |
 | 102 | [Short but Funky](https://open.spotify.com/track/6wgHXUrJziEmONrs4kioJe) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Short Dog's In The House](https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt) | 4:13 |
 
-Snapshot ID: `MCw4ZGU3ZGNhZWYxM2FhMTk0MTA0NjQ4YTQxNDAzNWI5YzU2M2I4MDVl`
+Snapshot ID: `MCwwMDJmZWQ4OGM4Y2QwYjljNDM4MTJkNmUyZmUyYmZiZjdkMDA2MTA4`

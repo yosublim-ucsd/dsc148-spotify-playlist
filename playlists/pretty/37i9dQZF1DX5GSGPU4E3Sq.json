@@ -1,12 +1,12 @@
 {
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
-  "num_followers": 188255,
+  "num_followers": 188280,
   "original_name": "Terapia de Bosque",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTU2NTMxYzcyYTZhZjViZTg4NmQ1MjNlODM4ZmYzMmJhMjRhMjRk",
+  "snapshot_id": "MCxkZjIwYmMzZmI0MDM4YjVkYzNjNjIyYWJhNmNmZmFkOWZmNDk4YzRk",
   "tracks": [
     {
       "added_at": "2023-08-24 16:17:28",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "All Behind Us",
-        "url": "https://open.spotify.com/album/2ti9WM4q1Qst0BcTs4Q8A3"
-      },
-      "artists": [
-        {
-          "name": "Alan Ellis",
-          "url": "https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN"
-        }
-      ],
-      "duration_ms": 159588,
-      "name": "Myth",
-      "url": "https://open.spotify.com/track/5KZVYoYeck4Hq0wzc7ugZ2"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Silver Ladders",
         "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 226876,
       "name": "Sometimes He's In My Dreams",
       "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "All Behind Us",
+        "url": "https://open.spotify.com/album/2ti9WM4q1Qst0BcTs4Q8A3"
+      },
+      "artists": [
+        {
+          "name": "Alan Ellis",
+          "url": "https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN"
+        }
+      ],
+      "duration_ms": 159588,
+      "name": "Myth",
+      "url": "https://open.spotify.com/track/5KZVYoYeck4Hq0wzc7ugZ2"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "Spa Lounge",
-        "url": "https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 435426,
-      "name": "Silent Wave",
-      "url": "https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Lion's Breath",
         "url": "https://open.spotify.com/album/3ckIgZZx3CZ6ItmoB6ETGd"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 191938,
       "name": "Lion's Breath",
       "url": "https://open.spotify.com/track/0ifTzLcsRUIqaYH8DfiLbx"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "Spa Lounge",
+        "url": "https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 435426,
+      "name": "Silent Wave",
+      "url": "https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "Finding Calmness",
-        "url": "https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu"
-      },
-      "artists": [
-        {
-          "name": "Naturally Recurring",
-          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
-        }
-      ],
-      "duration_ms": 241212,
-      "name": "Breathing Deeper",
-      "url": "https://open.spotify.com/track/6uK4LUxyKlWf2vKQE1Fv3I"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Celtic Chillout",
         "url": "https://open.spotify.com/album/3dUxLZPlSWVYHgJ8HVmtZH"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 300791,
       "name": "Call Of The Sea",
       "url": "https://open.spotify.com/track/19eQWCG7R2ue0tdkXoW1zN"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "Finding Calmness",
+        "url": "https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu"
+      },
+      "artists": [
+        {
+          "name": "Naturally Recurring",
+          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
+        }
+      ],
+      "duration_ms": 241212,
+      "name": "Breathing Deeper",
+      "url": "https://open.spotify.com/track/6uK4LUxyKlWf2vKQE1Fv3I"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 398120,
-      "name": "Overture (For Other Halfs)",
-      "url": "https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Catalogue of Emotions",
         "url": "https://open.spotify.com/album/6tzjxQtM9gj0aZy6WsYu4i"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 224272,
       "name": "Inner Destination",
       "url": "https://open.spotify.com/track/380cFd0oU93qGwnQRyJtnl"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 398120,
+      "name": "Overture (For Other Halfs)",
+      "url": "https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "Meadows",
-        "url": "https://open.spotify.com/album/6aONCC6C4QBho2avzwF7L9"
-      },
-      "artists": [
-        {
-          "name": "Yorokobi",
-          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
-        }
-      ],
-      "duration_ms": 142771,
-      "name": "Meadows",
-      "url": "https://open.spotify.com/track/2Hmku0SrIgnEUrgZUi1nt8"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Wake Up Calls",
         "url": "https://open.spotify.com/album/74ExKX0TXhIQE30UrTiPlD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 145226,
       "name": "Cuckoo",
       "url": "https://open.spotify.com/track/1Dryf1pXEIEsKC2Q8Z2FAT"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "Meadows",
+        "url": "https://open.spotify.com/album/6aONCC6C4QBho2avzwF7L9"
+      },
+      "artists": [
+        {
+          "name": "Yorokobi",
+          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
+        }
+      ],
+      "duration_ms": 142771,
+      "name": "Meadows",
+      "url": "https://open.spotify.com/track/2Hmku0SrIgnEUrgZUi1nt8"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "Sinharaja Rain Forest",
-        "url": "https://open.spotify.com/album/0cW23AQ5uuPAdP5B7RycMY"
-      },
-      "artists": [
-        {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Sinharaja Rain Forest",
-      "url": "https://open.spotify.com/track/0Mw0pFOPi8bl3XfyifwUvw"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/6fg80AhUt2EltjNlo2kMZa"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 166900,
       "name": "Skylines",
       "url": "https://open.spotify.com/track/3WeYjOyamokKdl3cvQysZq"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "Sinharaja Rain Forest",
+        "url": "https://open.spotify.com/album/0cW23AQ5uuPAdP5B7RycMY"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Sinharaja Rain Forest",
+      "url": "https://open.spotify.com/track/0Mw0pFOPi8bl3XfyifwUvw"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/7aAIykm8uOZg51FkNKMUNS"
-      },
-      "artists": [
-        {
-          "name": "Eternal Ocean",
-          "url": "https://open.spotify.com/artist/4o9SdUqz20DIjiXmxKbE3f"
-        }
-      ],
-      "duration_ms": 173999,
-      "name": "Senseful",
-      "url": "https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Winter Garden",
         "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 293626,
       "name": "Don't Go Where I Can't Find You",
       "url": "https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7aAIykm8uOZg51FkNKMUNS"
+      },
+      "artists": [
+        {
+          "name": "Eternal Ocean",
+          "url": "https://open.spotify.com/artist/4o9SdUqz20DIjiXmxKbE3f"
+        }
+      ],
+      "duration_ms": 173999,
+      "name": "Senseful",
+      "url": "https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "Mutaciones",
-        "url": "https://open.spotify.com/album/5Dhc2E7m1T2e7gRzBtdRTg"
-      },
-      "artists": [
-        {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/5z8GDA5pxCUPLtNY7ykAqw"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Summertime Bird Songs & Bird Calls",
         "url": "https://open.spotify.com/album/4LQaTjIvbPuccgIVqxCHme"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 166677,
       "name": "pensamiento positivo",
       "url": "https://open.spotify.com/track/0RaaeawAa794NzQ8vezHIp"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "Mutaciones",
+        "url": "https://open.spotify.com/album/5Dhc2E7m1T2e7gRzBtdRTg"
+      },
+      "artists": [
+        {
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/5z8GDA5pxCUPLtNY7ykAqw"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "Loveliness",
-        "url": "https://open.spotify.com/album/77Q17UO85JPsTkUebuLUnm"
-      },
-      "artists": [
-        {
-          "name": "Rubycon Sunset",
-          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
-        }
-      ],
-      "duration_ms": 170281,
-      "name": "Loveliness",
-      "url": "https://open.spotify.com/track/5pJvcUYWJoA12oNJsgU8CS"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Fiction",
         "url": "https://open.spotify.com/album/5DdCboBXyuP9VJDaiJ3Y61"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 211034,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/2cQJCXUhGKilLJT7OE40w0"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "Loveliness",
+        "url": "https://open.spotify.com/album/77Q17UO85JPsTkUebuLUnm"
+      },
+      "artists": [
+        {
+          "name": "Rubycon Sunset",
+          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
+        }
+      ],
+      "duration_ms": 170281,
+      "name": "Loveliness",
+      "url": "https://open.spotify.com/track/5pJvcUYWJoA12oNJsgU8CS"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "Pulsating Ice Sheet.",
-        "url": "https://open.spotify.com/album/3TnANB0VHxNh0O74gypVLN"
-      },
-      "artists": [
-        {
-          "name": "LFO Waves",
-          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
-        }
-      ],
-      "duration_ms": 210681,
-      "name": "Pulsating Ice Sheet.",
-      "url": "https://open.spotify.com/track/0GT3SzJQdmsu2FfyrmcKu7"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Relajar",
         "url": "https://open.spotify.com/album/283nJ3zv17KPWNpzGetwvS"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 164449,
       "name": "gay\u0101",
       "url": "https://open.spotify.com/track/0qh1hvvSPTchiWltyuKG94"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "Pulsating Ice Sheet.",
+        "url": "https://open.spotify.com/album/3TnANB0VHxNh0O74gypVLN"
+      },
+      "artists": [
+        {
+          "name": "LFO Waves",
+          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
+        }
+      ],
+      "duration_ms": 210681,
+      "name": "Pulsating Ice Sheet.",
+      "url": "https://open.spotify.com/track/0GT3SzJQdmsu2FfyrmcKu7"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "Closed Captions",
-        "url": "https://open.spotify.com/album/7yxynO2PaBolNG90xpL0W6"
-      },
-      "artists": [
-        {
-          "name": "Broken Legacy",
-          "url": "https://open.spotify.com/artist/3hG7itMdTJT8vc0JYh771M"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Closed Captions",
-      "url": "https://open.spotify.com/track/3K3mUDPEx0sbqBWDMPmaWM"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Kiruna",
         "url": "https://open.spotify.com/album/5Ikr47faNKpgGamSgALtwk"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 170446,
       "name": "Kiruna",
       "url": "https://open.spotify.com/track/4u9xOtRiPhUhOnBtVuE8MA"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "Closed Captions",
+        "url": "https://open.spotify.com/album/7yxynO2PaBolNG90xpL0W6"
+      },
+      "artists": [
+        {
+          "name": "Broken Legacy",
+          "url": "https://open.spotify.com/artist/3hG7itMdTJT8vc0JYh771M"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "Closed Captions",
+      "url": "https://open.spotify.com/track/3K3mUDPEx0sbqBWDMPmaWM"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "Seabed",
-        "url": "https://open.spotify.com/album/3Dy9SrqQmXpPqZUGOnhfEm"
-      },
-      "artists": [
-        {
-          "name": "Mallias",
-          "url": "https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk"
-        }
-      ],
-      "duration_ms": 283874,
-      "name": "Siren's Whisper",
-      "url": "https://open.spotify.com/track/2TduwqKH9OdGIGLNFGm9fG"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Ambient Worlds",
         "url": "https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 169436,
       "name": "Hace",
       "url": "https://open.spotify.com/track/4LQZvoUJwDfKSuQn48fkVC"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "Seabed",
+        "url": "https://open.spotify.com/album/3Dy9SrqQmXpPqZUGOnhfEm"
+      },
+      "artists": [
+        {
+          "name": "Mallias",
+          "url": "https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk"
+        }
+      ],
+      "duration_ms": 283874,
+      "name": "Siren's Whisper",
+      "url": "https://open.spotify.com/track/2TduwqKH9OdGIGLNFGm9fG"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "All of my Love",
-        "url": "https://open.spotify.com/album/7HMhA5ZAbP1Lizu8zc9ieJ"
-      },
-      "artists": [
-        {
-          "name": "Dexter Mars",
-          "url": "https://open.spotify.com/artist/11r9LS6eetjB3U4WZauIDR"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "All of my Love",
-      "url": "https://open.spotify.com/track/6njFhFU1tSIY897jUc16HL"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/2Kot6ahBfFBvdWy58CZiXU"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 193000,
       "name": "Aura",
       "url": "https://open.spotify.com/track/04zmw3VLwbZjsICoFGEjmv"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
+        "name": "All of my Love",
+        "url": "https://open.spotify.com/album/7HMhA5ZAbP1Lizu8zc9ieJ"
+      },
+      "artists": [
+        {
+          "name": "Dexter Mars",
+          "url": "https://open.spotify.com/artist/11r9LS6eetjB3U4WZauIDR"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "All of my Love",
+      "url": "https://open.spotify.com/track/6njFhFU1tSIY897jUc16HL"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
+        "name": "Peace and Balance",
+        "url": "https://open.spotify.com/album/7EMmU20lXqzyELFOsjP34Z"
+      },
+      "artists": [
+        {
+          "name": "Source of Peace",
+          "url": "https://open.spotify.com/artist/2QHHpNVs763albcUDkhCwt"
+        }
+      ],
+      "duration_ms": 171713,
+      "name": "The Ground Beneath",
+      "url": "https://open.spotify.com/track/6izmMmLV1kyZp16F4gsHnS"
+    },
+    {
+      "added_at": "2023-08-24 16:17:28",
+      "album": {
         "name": "Nature's Cradle",
         "url": "https://open.spotify.com/album/3ANL08Lrbqey32BoLpeTjW"
       },
@@ -2295,18 +2311,18 @@
     {
       "added_at": "2023-08-24 16:17:28",
       "album": {
-        "name": "Peace and Balance",
-        "url": "https://open.spotify.com/album/7EMmU20lXqzyELFOsjP34Z"
+        "name": "Rivers of Rain",
+        "url": "https://open.spotify.com/album/2N6ptDOlAGH8qMB5FCYQ9h"
       },
       "artists": [
         {
-          "name": "Source of Peace",
-          "url": "https://open.spotify.com/artist/2QHHpNVs763albcUDkhCwt"
+          "name": "Story Dancer",
+          "url": "https://open.spotify.com/artist/3JtIuaPG9kYHalFVXZkFsv"
         }
       ],
-      "duration_ms": 171713,
-      "name": "The Ground Beneath",
-      "url": "https://open.spotify.com/track/6izmMmLV1kyZp16F4gsHnS"
+      "duration_ms": 237374,
+      "name": "Ambient Cave",
+      "url": "https://open.spotify.com/track/1UceKtnkOPzcBCv6qo11OT"
     },
     {
       "added_at": "2023-08-24 16:17:28",
@@ -2343,22 +2359,6 @@
       "duration_ms": 300734,
       "name": "Om mani palme hum",
       "url": "https://open.spotify.com/track/0FtC15WLzcESeYps3uDcpP"
-    },
-    {
-      "added_at": "2023-08-24 16:17:28",
-      "album": {
-        "name": "Rivers of Rain",
-        "url": "https://open.spotify.com/album/2N6ptDOlAGH8qMB5FCYQ9h"
-      },
-      "artists": [
-        {
-          "name": "Story Dancer",
-          "url": "https://open.spotify.com/artist/3JtIuaPG9kYHalFVXZkFsv"
-        }
-      ],
-      "duration_ms": 237374,
-      "name": "Ambient Cave",
-      "url": "https://open.spotify.com/track/1UceKtnkOPzcBCv6qo11OT"
     },
     {
       "added_at": "2023-08-24 16:17:28",

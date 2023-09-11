@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-712 songs - 1 day 18 hr 49 min
+713 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Beneath The Pale Moonlight](https://open.spotify.com/track/0Cw4AgG0dPKJKO0oT6xOr9) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Beneath The Pale Moonlight](https://open.spotify.com/album/1I3u82aRiglXALaR2FmcGP) | 4:11 | 2022-06-28 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-06-28 |  |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-24 |  |
-| [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-06-28 |  |
+| [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-06-28 | 2023-09-11 |
 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 | 2023-04-27 |  |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-29 |  |
 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 | 2022-06-28 | 2023-09-10 |
@@ -550,6 +550,7 @@
 | [Sleep, My Child](https://open.spotify.com/track/31HUwIYISANIQX4zxVMu4M) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:36 | 2023-06-15 |  |
 | [Sleeper](https://open.spotify.com/track/4r6hgUhZEHGcIRYwiO9e7R) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Sleeper](https://open.spotify.com/album/3WHZKHzLNI6pq7Iej94OCN) | 3:45 | 2022-06-28 | 2023-09-03 |
 | [Slippers and Cocoa](https://open.spotify.com/track/2TctbR1zGHbhjFgvnoXcl1) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Slippers and Cocoa](https://open.spotify.com/album/138Z3arXLR0XS5kgSh8yAF) | 3:27 | 2022-06-28 |  |
+| [Slow Dance](https://open.spotify.com/track/5AbIjlheQPOLLgGanARp5h) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Slow Dance](https://open.spotify.com/album/6UqEbtOPsQfr9dgxNJjSLy) | 3:53 | 2023-09-08 |  |
 | [Small Steps](https://open.spotify.com/track/4OpfAngpSybDsNk7TTaO1B) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Small Steps](https://open.spotify.com/album/1GI9Bz7hFaoAn9Ugy9D0hA) | 3:32 | 2022-11-10 | 2023-09-02 |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5fBpjh6BGlsKG8n328kcF4) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/2AFoG96YrQjDuCwIxJCGj1) | 4:26 | 2022-06-28 | 2023-08-13 |
 | [Smooth Sailing](https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Smooth Sailing](https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ) | 2:05 | 2023-08-10 |  |

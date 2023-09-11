@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,070 likes - 94 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,087 likes - 94 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 15 | [De Antes](https://open.spotify.com/track/6EzgVrNIlbA2lUni9jQ913) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [De Antes](https://open.spotify.com/album/2AKkV1ilSMfchUx4e1Wknl) | 3:28 |
 | 16 | [Funky Magazine](https://open.spotify.com/track/7FTyR0xZtVCXgjYYrGtvlj) | [Militantes del Climax](https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv) | [Funky Magazine](https://open.spotify.com/album/0dpvI4sK6dte5X32dELM95) | 2:44 |
 | 17 | [Back to Life](https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD) | [Eco \(feat\. Funky Torinos\)](https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH) | 4:46 |
-| 18 | [Zoom Out](https://open.spotify.com/track/1WrMYp7UbkzClUkqd3grc2) | [Grace & Badlove](https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE) | [Sticky Nostalgia](https://open.spotify.com/album/4u5QlJAmFtzmgGfQufbt8D) | 4:42 |
-| 19 | [Eternamente](https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Fe](https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym) | 3:14 |
+| 18 | [Eternamente](https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Fe](https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym) | 3:14 |
+| 19 | [Zoom Out](https://open.spotify.com/track/1WrMYp7UbkzClUkqd3grc2) | [Grace & Badlove](https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE) | [Sticky Nostalgia](https://open.spotify.com/album/4u5QlJAmFtzmgGfQufbt8D) | 4:42 |
 | 20 | [Cortentrete](https://open.spotify.com/track/76feuT8zpM7EA0C6l8ZEVp) | [Papanegro](https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm) | [SuperActivo](https://open.spotify.com/album/5svWSbY01Vl1THBqEIeJu8) | 3:15 |
 | 21 | [Entrégate](https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Entrégate](https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV) | 3:43 |
 | 22 | [Rebelión](https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Mesa Dulce](https://open.spotify.com/album/4pURI2UciLMYnod643ypjC) | 3:39 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 76 | [Resistencia](https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Under](https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n) | 3:38 |
 | 77 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
 | 78 | [Droga](https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:11 |
-| 79 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 |
-| 80 | [El despertar de Kumbhakarna](https://open.spotify.com/track/3BEietAwUm9LOF0xmG57JC) | [Simbio](https://open.spotify.com/artist/0614awxhkDp9HWbseNlNOy) | [Wu Wei](https://open.spotify.com/album/6AnYc5mP9BqEpM7OQEHhF8) | 2:09 |
+| 79 | [El despertar de Kumbhakarna](https://open.spotify.com/track/3BEietAwUm9LOF0xmG57JC) | [Simbio](https://open.spotify.com/artist/0614awxhkDp9HWbseNlNOy) | [Wu Wei](https://open.spotify.com/album/6AnYc5mP9BqEpM7OQEHhF8) | 2:09 |
+| 80 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 |
 | 81 | [Asterisco](https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 4:19 |
 | 82 | [Monte Fuji](https://open.spotify.com/track/2rUOSo8ttuETxWH1CqulhS) | [Santos de Madera](https://open.spotify.com/artist/3AMbKAJi3R8sEQFJkscCEO) | [Monte Fuji](https://open.spotify.com/album/6jkOVQCi7HQYf6ZnW7Zkrw) | 3:53 |
 | 83 | [Twice](https://open.spotify.com/track/3VKdesoESiJOCohefJctj3) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Twice](https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527) | 3:36 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 88 | [Aire](https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR) | 3:10 |
 | 89 | [Beast in You](https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 5:15 |
 | 90 | [Best Of Us](https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t) | [Ale Zurita](https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq), [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Best Of Us](https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH) | 3:05 |
-| 91 | [Therapy](https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Therapy](https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn) | 3:50 |
-| 92 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |
+| 91 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |
+| 92 | [Therapy](https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Therapy](https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn) | 3:50 |
 | 93 | [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 |
-| 94 | [Para Ernesto](https://open.spotify.com/track/5EpbaJs8fHwiVHag4ZHX8K) | [Marcelo Soler](https://open.spotify.com/artist/6RyrFvHJPFymCOzrfIyPdR), [Miguel Narvaez](https://open.spotify.com/artist/09lMweiqZ7U5McT0VqnLnO), [Nico Vera](https://open.spotify.com/artist/4P2ggHnAJsFCmzph1XpAL7) | [Para Ernesto](https://open.spotify.com/album/4tZc2ALthrdQKbO09arrs1) | 3:33 |
+| 94 | [Silver Mule](https://open.spotify.com/track/3PJmsTebOq650PohvoAOny) | [Reiband](https://open.spotify.com/artist/10JfXtdWDeKZKjP0LJkpiM) | [Disconnected](https://open.spotify.com/album/19SYYIX0zzZvm3zZjuncT3) | 3:50 |
 
-Snapshot ID: `MCw4MzBiZjM2ZmY0ZWM2Y2IwMGY2NWM1OWMwY2Q5NGNlNDRhNjQxODkz`
+Snapshot ID: `MCw3NjAxNjNjNTg5ZmZkZTdiYzVjZmNjNTc3NWIzMzhmYzNiMjA0NDk3`

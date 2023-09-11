@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Maya Randle
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,112 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,154 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 74 | [Challenger](https://open.spotify.com/track/06ZbjaNJQtCyd5nues7Hgr) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Challenger](https://open.spotify.com/album/5uOK9IXnfbgPnivh7fFf8x) | 3:46 |
 | 75 | [With U](https://open.spotify.com/track/7EnwSEceUcWFCEstHjAaXO) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [With U](https://open.spotify.com/album/2efHZKxHn5CVuLltB5g1PU) | 4:24 |
 
-Snapshot ID: `MCwzODJkNzBlOTNmMGMzZjczZWFiZWIzOGIyM2JlNDYzOGE2NmJkNzVk`
+Snapshot ID: `MCw2NDU0NmJmMTM0ZjM0OTFjY2NhOTFmYThkMmQ4YmM0MzdlODAxMjcw`

@@ -1,12 +1,12 @@
 {
   "description": "you are that b.... \ud83e\udd75",
-  "num_followers": 2930,
+  "num_followers": 2993,
   "original_name": "brb, at the gym being a hot latina baddie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmM2ZmQzYWEwNzY2MzAwMmIzNWYxMDk0YTYzZmRhOTg2M2E4Mjli",
+  "snapshot_id": "MCw0MzJlODQ0NWFkMjA4OTNkZDUyNmI4ZmMzYWM2OGEzZmNmODBlYzAw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -87,26 +87,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "El Merengue",
-        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 189668,
-      "name": "El Merengue",
-      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "El Merengue",
+        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 158483,
       "name": "Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "R\u00e1pido",
-        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
-      },
-      "artists": [
-        {
-          "name": "MJ Nebreda",
-          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
-        },
-        {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
-        }
-      ],
-      "duration_ms": 178252,
-      "name": "R\u00e1pido",
-      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Subliminal",
         "url": "https://open.spotify.com/album/78S20bvtAt6N8vPO3Mnl50"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 202956,
       "name": "Subliminal",
       "url": "https://open.spotify.com/track/3WoxM5hRv3lkLDoowGCJKu"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        },
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        }
+      ],
+      "duration_ms": 178252,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
     }
   ],
   "unique_name": "brb, at the gym being a hot latina baddie",

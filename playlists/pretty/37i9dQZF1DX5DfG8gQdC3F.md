@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Olivia Rodrigo, Cardi B & Megan Thee Stallion, 347aidan and WHIPPED CREAM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,569 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,563 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Run Wild](https://open.spotify.com/track/4XbYw0AQeTsjWHkyfqN2ce) | [POSTDATA](https://open.spotify.com/artist/05mMvlRkzuup4xMEKV8619) | [Run Wild](https://open.spotify.com/album/7KDhMhjaSnuRPyki0YLdbU) | 3:42 |
 | 100 | [Long Distance Love](https://open.spotify.com/track/0aCeypYDMckLOOwg1yuQgO) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Late Night Walking](https://open.spotify.com/album/4sYkiA0DbzxmYtGt9SEMWK) | 5:28 |
 
-Snapshot ID: `MCxkNmE4YzlkOTBiY2FlMjY3MjRlM2UwMTJmOTMxMDkzYThmZTZlZGYy`
+Snapshot ID: `MCw2MDAyMDBiOTY0MjQwZTU3YmVmYzg0ZWU5ZThlYjc1MzhkYWZlNDg1`

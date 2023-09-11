@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 53429,
+  "num_followers": 53458,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTJiYmMyMGE0MTA1NWNiYWJmNDMxYjA1MDM4ZjgyYzFhZmViNzNh",
+  "snapshot_id": "MCw2ZmVlM2Y4MWIzMDdmNDI5YTk0MWY4YmU5ODVmOGM3MzVkY2I1NjM0",
   "tracks": [
     {
       "added_at": "2023-07-21 16:32:57",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Ni Una Mas",
-        "url": "https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Ni Una Mas",
-      "url": "https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Piba Cumbia",
         "url": "https://open.spotify.com/album/28sPoHadwfwkZF7ZTBBAVp"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 214505,
       "name": "Piba Cumbia",
       "url": "https://open.spotify.com/track/34LVUwRGzvYLqsNnD5nhFx"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "Ni Una Mas",
+        "url": "https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Ni Una Mas",
+      "url": "https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8"
     },
     {
       "added_at": "2023-07-21 16:32:57",

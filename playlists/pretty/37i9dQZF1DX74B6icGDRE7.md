@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 
 > my intrusive thoughts 🤝 this playlist\. para esas horas nostálgicas & melancólicas de la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,841 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,888 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 44 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
 | 45 | [Eternamente](https://open.spotify.com/track/3fC9kIUdPidr4gaedvNwDp) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:30 |
 | 46 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 |
-| 47 | [No Me Dejes Así](https://open.spotify.com/track/6W05VQuFPVdU07SFmAQML3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [No Me Dejes Así](https://open.spotify.com/album/5IDQ5SebTTV9zL32FEsjxB) | 3:04 |
-| 48 | [lo que pasó](https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa) | 2:30 |
+| 47 | [lo que pasó](https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa) | 2:30 |
+| 48 | [No Me Dejes Así](https://open.spotify.com/track/6W05VQuFPVdU07SFmAQML3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [No Me Dejes Así](https://open.spotify.com/album/5IDQ5SebTTV9zL32FEsjxB) | 3:04 |
 | 49 | [Sin Excusa](https://open.spotify.com/track/0oP80plNZMBvjwAtpt1GfF) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 2:16 |
 | 50 | [Bad Habits](https://open.spotify.com/track/64uKfB3sXD1PSRZ9R9djTM) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [Bad Habits](https://open.spotify.com/album/5jbQD8hGieC5nMF3fbgBZT) | 3:19 |
 | 51 | [tonada de la luz • madrugada](https://open.spotify.com/track/5TCDHkTwR072lFEO64syoC) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [de la luz](https://open.spotify.com/album/378yGSuUhqGyPCsI3eWzFK) | 1:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 59 | [Amanita](https://open.spotify.com/track/44eetRXpHJvr6gziGWtx8J) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 2:31 |
 | 60 | [Que Hago Si Se Cae Todo?](https://open.spotify.com/track/55CweWwujSeAIHh8WTl7XF) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [SAFEPLACE \(Safer Edition\)](https://open.spotify.com/album/4K32T8piHzWlyfdRE4yXPK) | 1:32 |
 
-Snapshot ID: `MCxjYzZkZGQ1NDRlZjc0NDU0ZWU1ZDIxODk3OGUxNDljNzU5NTZjZjRh`
+Snapshot ID: `MCw4NmFkY2ZlMTEwMGMzNDk2MGFhYzQ4YjUwOTkyMmI3MmI5ODgxN2Rl`

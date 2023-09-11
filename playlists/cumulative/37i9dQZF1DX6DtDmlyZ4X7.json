@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 164500,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7"
@@ -7776,6 +7776,24 @@
       "duration_ms": 148985,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW"
+    },
+    {
+      "album": {
+        "name": "Harmonism I",
+        "url": "https://open.spotify.com/album/2XOeI9TVCRZL28H4F5CYSm"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Respectfully",
+      "url": "https://open.spotify.com/track/3GNy9aZAn5ZTdBm6Ha0XCt"
     },
     {
       "album": {

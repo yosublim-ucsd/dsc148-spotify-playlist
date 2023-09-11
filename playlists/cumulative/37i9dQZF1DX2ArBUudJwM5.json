@@ -2470,6 +2470,24 @@
     {
       "album": {
         "name": "Ella Es Como Vos",
+        "url": "https://open.spotify.com/album/1LfYBvw5tUsR0o4pVVRJWN"
+      },
+      "artists": [
+        {
+          "name": "Antho Mattei",
+          "url": "https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269773,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/4NiyWU5iTYOm95h2zHOFsk"
+    },
+    {
+      "album": {
+        "name": "Ella Es Como Vos",
         "url": "https://open.spotify.com/album/4C2lbsiWvZAVxNB9tN4bOn"
       },
       "artists": [
@@ -9094,7 +9112,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 233591,
       "name": "Mi Nombre",
       "url": "https://open.spotify.com/track/0HyUOz2Xp4d61ew3TCMkKC"

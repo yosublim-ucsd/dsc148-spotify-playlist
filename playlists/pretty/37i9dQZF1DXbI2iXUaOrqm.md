@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 
 > Una mezcla de rock y punk para motivarte\. Get pumped!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,487 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,606 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 30 | [Corazon Espinado \(feat\. Mana\)](https://open.spotify.com/track/59uqWPaagd0khPaauWM2lU) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Supernatural \(Legacy Edition\)](https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH) | 4:34 |
 | 31 | [Devuélveme a mi chica](https://open.spotify.com/track/6pYbhX5gYix4ESpbSUArnA) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Lo Mejor De Los Hombres G](https://open.spotify.com/album/0luVrYnp61bSbpScEHXyt0) | 3:14 |
 | 32 | [Perdí Mi Ojo de Venado](https://open.spotify.com/track/4YKBYzHTtBZA2P12N5VomO) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 4:31 |
-| 33 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 |
-| 34 | [Amateur \(Rock Me Amadeus\)](https://open.spotify.com/track/0cOXDRG1giESc1QVrHpbGE) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Con Todo Respeto](https://open.spotify.com/album/2GNihtEdqoByWHoFK7bTAt) | 4:19 |
+| 33 | [Amateur \(Rock Me Amadeus\)](https://open.spotify.com/track/0cOXDRG1giESc1QVrHpbGE) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Con Todo Respeto](https://open.spotify.com/album/2GNihtEdqoByWHoFK7bTAt) | 4:19 |
+| 34 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 |
 | 35 | [Memorama](https://open.spotify.com/track/7iXKhg6krcRdWs4S7wbO3x) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Memorama](https://open.spotify.com/album/3zUYkrazJypLRvUkVJXxML) | 3:08 |
 | 36 | [Pervert Pop Song \(Castigame\)](https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 4:04 |
 | 37 | [De Música Ligera](https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:32 |
-| 38 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
-| 39 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 |
-| 40 | [No Hay Mal Que Dure](https://open.spotify.com/track/5YExs1OO0ol2fIaRm7WmLN) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Aztlán](https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT) | 4:52 |
-| 41 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 |
-| 42 | [Gimme Tha Power](https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 4:10 |
-| 43 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
-| 44 | [Florecita Rockera](https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 2:57 |
+| 38 | [Gimme Tha Power](https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 4:10 |
+| 39 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
+| 40 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 |
+| 41 | [No Hay Mal Que Dure](https://open.spotify.com/track/5YExs1OO0ol2fIaRm7WmLN) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Aztlán](https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT) | 4:52 |
+| 42 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 |
+| 43 | [Florecita Rockera](https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 2:57 |
+| 44 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
 | 45 | [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 |
 | 46 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:57 |
-| 47 | [Entre Tus Jardines](https://open.spotify.com/track/1Ij7mdEnt87PqwyrLbfCp8) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [45](https://open.spotify.com/album/0ll3efsKqHlKVoh4SG0ALC) | 3:09 |
-| 48 | [Puto](https://open.spotify.com/track/5OWF7n0zX8kyTJvv1jTvZX) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 2:07 |
+| 47 | [Puto](https://open.spotify.com/track/5OWF7n0zX8kyTJvv1jTvZX) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 2:07 |
+| 48 | [Entre Tus Jardines](https://open.spotify.com/track/1Ij7mdEnt87PqwyrLbfCp8) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [45](https://open.spotify.com/album/0ll3efsKqHlKVoh4SG0ALC) | 3:09 |
 | 49 | [Nada Personal](https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:52 |
 | 50 | [Eso Es Todo Lo Que Soy](https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Historias De La Calle](https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w) | 3:30 |
 
-Snapshot ID: `MCxiYTAzZDg1YTJmZjAyYTdjOTZlYzk0ZGI2MGZiNzVjODQxNmM0ZmYw`
+Snapshot ID: `MCwwZTY3Yjc5NjM2NTkxZGJhNDg4ZDUwYWM1MWI4MTE1ZTg0MTg0MTRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,145 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,503 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 49 | [It's You](https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [It's You](https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI) | 4:11 |
 | 50 | [Happy w u](https://open.spotify.com/track/0EA8jl8Wje9ALRKC8Qlzyt) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Happy w u](https://open.spotify.com/album/3wGtsGy8caFXddQMJau2kb) | 4:40 |
 | 51 | [Don't Leave Yet](https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Don't Leave Yet](https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj) | 2:45 |
-| 52 | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI) | 1:59 |
-| 53 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 |
+| 52 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 |
+| 53 | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI) | 1:59 |
 | 54 | [I WANT YOU](https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:43 |
 | 55 | [The Way You Look At Me](https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Way You Look At Me](https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng) | 4:11 |
 | 56 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 80 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 |
 | 81 | [feelings are fatal](https://open.spotify.com/track/6GGdkwYk4NXuiIcQD16AZg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 2:04 |
 | 82 | [MAKING MY WAY](https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [MAKING MY WAY](https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal) | 4:18 |
-| 83 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
-| 84 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
+| 83 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
+| 84 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 85 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
 | 86 | [Unlearn You](https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Phases](https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3) | 2:48 |
 | 87 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 99 | [Beautiful Day](https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Beautiful Day](https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV) | 2:55 |
 | 100 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
 
-Snapshot ID: `MCw0NzRjMzIwMDE1OTdjNTA3MGQ0ZGViZjYwY2I0YmNjYTg4YWY5MTQy`
+Snapshot ID: `MCw5NmUwMGJmYmUxNDE4ZWFmZGNhNTVhZDk5YWU0MzU3YmQxMTA0Njll`

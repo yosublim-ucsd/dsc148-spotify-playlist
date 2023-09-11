@@ -1,12 +1,12 @@
 {
   "description": "celebre seu dia no maior astral! ",
-  "num_followers": 1479217,
+  "num_followers": 1479354,
   "original_name": "Tenha um \u00d3timo Dia!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGNkZjVhMzViNTNmNzBjOTQ2ZjljZmZlODM4MmJlNzI1YWY5OTJj",
+  "snapshot_id": "MCxhYzhiMGUxMDhhMjNjNjU1YmMxY2JiZTUwMGIyNzgyYmM3NGI2OWNi",
   "tracks": [
     {
       "added_at": "2023-07-21 03:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-07-21 03:00:00",
       "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
+    },
+    {
+      "added_at": "2023-07-21 03:00:00",
+      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-    },
-    {
-      "added_at": "2023-07-21 03:00:00",
-      "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
     },
     {
       "added_at": "2023-07-21 03:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-07-21 03:00:00",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Music For a Sushi Restaurant",
-      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
-    },
-    {
-      "added_at": "2023-07-21 03:00:00",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2023-07-21 03:00:00",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Music For a Sushi Restaurant",
+      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
     },
     {
       "added_at": "2023-07-21 03:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-07-21 03:00:00",
       "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Charm",
-      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
-    },
-    {
-      "added_at": "2023-07-21 03:00:00",
-      "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 155226,
       "name": "Twist And Shout - Remastered 2009",
       "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+    },
+    {
+      "added_at": "2023-07-21 03:00:00",
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
     },
     {
       "added_at": "2023-07-21 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Mochakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,359 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,391 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 |
 | 50 | [Don't Wake Me Up](https://open.spotify.com/track/3edsNcYEr1eufTkadK09MF) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1) | [Don't Wake Me Up](https://open.spotify.com/album/07UqcOSS4JQ1Si9TwomEHw) | 3:32 |
 
-Snapshot ID: `MCxiMjE4MTk1NDQ0ZTE5YmYxNTZlMTQwOGY1OWZmNjI2YWFmNGJiMzY0`
+Snapshot ID: `MCwxZWM2MjhiZjlhNjcwZTU3N2EyYjNlOGNlZjI5OWY5NmY0NzkyNDE3`

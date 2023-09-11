@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,186 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,233 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 16 | [De Viaje](https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 4:14 |
 | 17 | [Púrpura](https://open.spotify.com/track/3jtaAUbFSzfoKv6bVVo563) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/0zEZh5PgV10xk2VM0GJ3Lm) | 2:54 |
 | 18 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
-| 19 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
-| 20 | [Hazy Youth](https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:02 |
+| 19 | [Hazy Youth](https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:02 |
+| 20 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
 | 21 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 |
 | 22 | [Hasta Que el Tiempo No Nos Separe](https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cielos Desconocidos](https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt) | 5:28 |
 | 23 | [Santos Que Yo Te Pinte](https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Unidad De Desplazamiento](https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz) | 4:39 |
 | 24 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
 | 25 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
 | 26 | [Wow](https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Wow](https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH) | 5:16 |
-| 27 | [Mapas](https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Jungla](https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC) | 3:03 |
-| 28 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
+| 27 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
+| 28 | [Mapas](https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Jungla](https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC) | 3:03 |
 | 29 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 |
 | 30 | [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 |
 | 31 | [Sigo](https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ) | 3:19 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 35 | [Efervecencia](https://open.spotify.com/track/2YYyNYvGBlobj2UjpWGcNo) | [Adelaida](https://open.spotify.com/artist/5ugKDsPNjtGyV7WxD7nTYS) | [Animita](https://open.spotify.com/album/2gz1tfqRhfFjD4noTtqKUs) | 4:25 |
 | 36 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
 | 37 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
-| 38 | [Morning Sun](https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [Z.A.M.P.A](https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2) | [Morning Sun](https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh) | 4:27 |
-| 39 | [Amor de Furgoneta](https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Amor de Furgoneta](https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy) | 3:12 |
+| 38 | [Amor de Furgoneta](https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Amor de Furgoneta](https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy) | 3:12 |
+| 39 | [Morning Sun](https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [Z.A.M.P.A](https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2) | [Morning Sun](https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh) | 4:27 |
 | 40 | [Estrella Fugaz](https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Estrella Fugaz](https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D) | 4:22 |
 | 41 | [Fukushima](https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Triángulo de Amor Bizarro](https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m) | 6:01 |
 | 42 | [What’s holding you?](https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Chambers](https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 49 | [Aterrizar](https://open.spotify.com/track/4b6k0q2chMQGuAvwCxBYNn) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 3:34 |
 | 50 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
 
-Snapshot ID: `MCw2MGE3YTZkZGU2YTU5NWY1ZTZjNDFlNWM4YTdhYmFhMWM5ODQ2ZWVh`
+Snapshot ID: `MCxlOGU2YmMzZjIzZWUwNjVhYjJkMzg4Y2Q1ODk4MTIwYWIzOTM5M2Vl`

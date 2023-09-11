@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,608 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,748 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 22 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 |
 | 23 | [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 |
 | 24 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 |
-| 25 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:22 |
-| 26 | [Summer Lovin' \- Edit](https://open.spotify.com/track/7q0vM8woumdTUt30GasolR) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Summer Lovin'](https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg) | 3:09 |
+| 25 | [Summer Lovin' \- Edit](https://open.spotify.com/track/7q0vM8woumdTUt30GasolR) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Summer Lovin'](https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg) | 3:09 |
+| 26 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:22 |
 | 27 | [Everything’s Gonna Be Alright](https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 3:33 |
 | 28 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 |
 | 29 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 |
 | 50 | [End Of Time \- Kungs Remix](https://open.spotify.com/track/5CPguc1HJ26dhFkKxQFxYU) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [End Of Time \(Kungs Remix\)](https://open.spotify.com/album/5mgXK6W6VVKSk5b1qAEUfd) | 2:34 |
 
-Snapshot ID: `MCxmYTFmMDdjZGYzNjQ2MGNkMjVkYWNjNmQzMTZkYjMwZTFlY2IwNDll`
+Snapshot ID: `MCw5NDMyNDgzNjkyNGIwN2JhZGJmMDA2YTJmODk5NDU2Mzg2MGQxMWY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,518 likes - 70 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,683 likes - 70 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 56 | [Mãe Presente \- Ao Vivo em São Paulo](https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou, Vol\. 2 \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m) | 6:24 |
 | 57 | [Maria de Minha Infância](https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Suely Façanha](https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5) | [Gba Stage, Vol\. 11](https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG) | 5:02 |
 | 58 | [Irresistivelmente](https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2022](https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv) | 5:49 |
-| 59 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 |
-| 60 | [Bom É Estarmos Aqui](https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j) | [Leo Mantovani](https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Eduardo Cruz](https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Keciane Lima](https://open.spotify.com/artist/4kBDadVgAVG0jcEJGMvFT3) | [Bom É Estarmos Aqui](https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb) | 3:44 |
+| 59 | [Bom É Estarmos Aqui](https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j) | [Leo Mantovani](https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Eduardo Cruz](https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Keciane Lima](https://open.spotify.com/artist/4kBDadVgAVG0jcEJGMvFT3) | [Bom É Estarmos Aqui](https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb) | 3:44 |
+| 60 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 |
 | 61 | [Dá\-Me de Beber](https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ) | [Talita Garcia](https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Dá\-Me de Beber](https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx) | 4:16 |
 | 62 | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi) | 4:45 |
 | 63 | [Em Tua Presença](https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Em Tua Presença](https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK) | 5:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Paciência](https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Paciência](https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL) | 4:28 |
 | 70 | [Exaltado \- Ao Vivo](https://open.spotify.com/track/3jARfDXmV195P6y1NWHa82) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Exaltado](https://open.spotify.com/album/6rBDRwqE7alteM5SMANcOO) | 4:40 |
 
-Snapshot ID: `MCw5MmUxNWJlNjBmYWE1MWE2ZTZhOTM2M2U4MTRlYmU1YzNmYWMwNzVm`
+Snapshot ID: `MCw1NjgxMDcwOTE2ZjcwMWM3MWZmNzA5ODRhNDk4NWE0YWU1M2IxZDY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 
 > Canciones tropicales que te transportan a Caleta y Caletilla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,473 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,548 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 | 40 | [Culpable O No](https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Cumbias Con Amor](https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN) | 3:28 |
 | 41 | [Amor Añejo](https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Las Viejas Mas Bailadas](https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET) | 3:05 |
 | 42 | [La del Vestido Rojo](https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [La Del Vestido Rojo](https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS) | 3:41 |
-| 43 | [La Sirenita](https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Amor Y Cumbia](https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ) | 3:56 |
-| 44 | [Viva El Amor](https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:46 |
+| 43 | [Viva El Amor](https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:46 |
+| 44 | [La Sirenita](https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Amor Y Cumbia](https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ) | 3:56 |
 | 45 | [Príncipe Azul](https://open.spotify.com/track/5WdQyJKSSw7591St3jSKS2) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Tu Principe Azul](https://open.spotify.com/album/3Rx03l8gqAhv3NAciC3gh5) | 2:56 |
 | 46 | [Pero Tu No Estas](https://open.spotify.com/track/00c81raDwIJa803nmAgcU3) | [Grupo Flash](https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK) | [20 Joyas de la Historia Musical](https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B) | 2:34 |
 | 47 | [Mentirosa \(Eres Mentirosa\)](https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss) | [Chicos de Barrio](https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X) | [Puros Vatos...Choca Y Rebota](https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe) | 4:33 |
@@ -71,18 +71,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 | 61 | [Donde Estas](https://open.spotify.com/track/2zfeUz2xzgrtM2kF5bprCY) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:25 |
 | 62 | [Dejenla Que Baile](https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9) | [Impacto De Montemorelos](https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm) | [Impacto de Montemorelos Sus Mejores 25 Canciones](https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf) | 2:57 |
 | 63 | [Adolescente y Bonita](https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [17 Aniversario](https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77) | 3:08 |
-| 64 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 |
+| 64 | [Fiesta](https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Ni Juana la Cubana](https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw) | 2:51 |
 | 65 | [Sorbito De Champana](https://open.spotify.com/track/1Oqe4XCDKIRS2eK4g5BQIj) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Cumbias Cumbias Cumbias](https://open.spotify.com/album/6pJYj1JmkoLlDFNkF5WpN4) | 3:46 |
-| 66 | [Fiesta](https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Ni Juana la Cubana](https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw) | 2:51 |
+| 66 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 |
 | 67 | [Cozumel](https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [Antología...Los Sonor's](https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6) | 2:47 |
 | 68 | [Chilito Piquín](https://open.spotify.com/track/3I91CJg3J9pA8POpm9pv9i) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [21 Años 21 Éxitos](https://open.spotify.com/album/29uOa1MdlrwUt3yA0vECcd) | 2:59 |
 | 69 | [La Colaless](https://open.spotify.com/track/4Ck9o9UueluPLXnLlasm4k) | [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [La Colaless](https://open.spotify.com/album/2c133xBiAUt1arwfpl50ov) | 3:22 |
 | 70 | [Leticia](https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1) | [Tommy Ramirez y Sus Sonorritmicos](https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH) | [15 Exitos](https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0) | 2:45 |
 | 71 | [La Banda Borracha](https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 3:15 |
 | 72 | [Tongoneaito](https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey) | [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [Tongoneaito](https://open.spotify.com/album/1lzVhmM626QsRoXoR7uipM) | 3:14 |
-| 73 | [Tambalea](https://open.spotify.com/track/2Wd53oIqGVC5Vyd5R96l4J) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [17 Aniversario](https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77) | 2:26 |
-| 74 | [La Coloreteada](https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Serie 32](https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u) | 3:21 |
-| 75 | [Donde Te Agarro el Temblor](https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [El Ritmo De Chico Che Y La Crisis](https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU) | 2:30 |
+| 73 | [Donde Te Agarro el Temblor](https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [El Ritmo De Chico Che Y La Crisis](https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU) | 2:30 |
+| 74 | [Tambalea](https://open.spotify.com/track/2Wd53oIqGVC5Vyd5R96l4J) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [17 Aniversario](https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77) | 2:26 |
+| 75 | [La Coloreteada](https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Serie 32](https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u) | 3:21 |
 | 76 | [Macumba](https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Macumba](https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5) | 2:44 |
 | 77 | [Ron Y Coca Cola](https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV) | [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [Ron Y Coca Cola](https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx) | 3:14 |
 | 78 | [La Hierba Se Movía](https://open.spotify.com/track/3gFAXop87ZB2sZZI6B59Vy) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Mis 14 Exitos De Oro](https://open.spotify.com/album/0AzKda2rKGMlbWvwSBt1ln) | 3:06 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 | 80 | [Por Unas Monedas](https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD) | [Los Abelardos](https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX) | [Poquito a Poquito](https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E) | 3:11 |
 | 81 | [Se Le Ve](https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ) | [Impacto De Montemorelos](https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm) | [Impacto de Montemorelos Sus Mejores 25 Canciones](https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf) | 3:10 |
 | 82 | [De Quen Chon](https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [De Quen Chon](https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q) | 2:48 |
-| 83 | [Tiburón A La Vista](https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:43 |
-| 84 | [Déjala Que Se Divierta](https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [La Coloreteada](https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y) | 3:16 |
+| 83 | [Déjala Que Se Divierta](https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [La Coloreteada](https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y) | 3:16 |
+| 84 | [Tiburón A La Vista](https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:43 |
 | 85 | [Cumbia De Los Patos](https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb) | [Danny Y Su Grupo](https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji) | [Lo Maximo De Los Sonideros, Vol\. 1](https://open.spotify.com/album/3Cdt3zjueq3lkq5dXNDFBX) | 3:41 |
 | 86 | [El Cable](https://open.spotify.com/track/3QwrlXr3N7FWhQwZEAR8q8) | [Mario y sus Diamantes](https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo) | [50 Años de Éxitos](https://open.spotify.com/album/3SWZLaAfmaA9OkmzbntsrS) | 3:01 |
 | 87 | [La Brujita](https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [15 Anos De Exitos](https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 | 99 | [Los Nenes Con los Nenes](https://open.spotify.com/track/6naFSjDQESFuw9Hv7v2ZOd) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [Los Nenes con Los Nenes](https://open.spotify.com/album/3N8uklKicclGP85lgxYmDw) | 2:41 |
 | 100 | [Retrato Hablado](https://open.spotify.com/track/2sizo5xV3vWF9oDaZbwJ9s) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Cancioneros](https://open.spotify.com/album/7HANWrwLu6jfqJJsPWKimY) | 2:53 |
 
-Snapshot ID: `MCxjYjJhZTEyYWM4M2E0MDg4NWYzMmI2ZGRmOTI2NzNhNjQ1MGFkN2Nl`
+Snapshot ID: `MCxiYWJiMjk3YTIzNjlhMDkyYTNiYTIxNDc5NWE2ZWFlYTc0NzJkNGJh`

@@ -4,7 +4,7 @@
 
 > Wait\. Is this GUTS album about us?
 
-987 songs - 2 day 3 hr 42 min
+988 songs - 2 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,7 +614,7 @@
 | [Never Grow Up](https://open.spotify.com/track/4EK3I8YpESBMEKeyc05JRS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:29 | 2023-06-09 | 2023-07-15 |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-04-29 | 2022-05-07 |
 | [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 | 2022-03-25 | 2022-06-04 |
-| [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [X&G](https://open.spotify.com/artist/0J8vnuLl37meRjZttkpCBP) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-25 |  |
+| [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-25 |  |
 | [New Romantics](https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe Edition\)](https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR) | 3:50 | 2023-08-10 |  |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2022-06-13 | 2023-03-15 |
 | [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2022-07-29 | 2022-10-04 |
@@ -916,7 +916,8 @@
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-01-21 | 2022-03-18 |
 | [ur not delilah](https://open.spotify.com/track/2npGF2T4MHbn2YEDlOaPQg) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [of note](https://open.spotify.com/album/3WOdAvguXdCeZE0P1G2UlV) | 2:27 | 2022-04-15 | 2022-07-06 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 |  |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2023-09-01 |  |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-13 | 2023-02-18 |
 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 | 2022-07-01 | 2022-07-30 |

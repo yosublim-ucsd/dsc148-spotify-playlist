@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring seye\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,261 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,275 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 40 | [Te Gusta, Me Gusta](https://open.spotify.com/track/1BZZhlU3Mdab6jIMgM6gu8) | [Neysa Blay](https://open.spotify.com/artist/221r7E6QASURKauguQwGWw) | [Te Gusta, Me Gusta](https://open.spotify.com/album/6NzxWW8X0f5Eye27bOMBWB) | 3:02 |
 | 41 | [Llevo un Vino](https://open.spotify.com/track/7yGKZQrS0WYTyjhKGJnxnE) | [Pels](https://open.spotify.com/artist/2ILYFO9yLlXG5SgjtWxMXZ) | [Un Perro Verde](https://open.spotify.com/album/6zYM7YzVGfLZoQMupKMvys) | 3:41 |
 | 42 | [Surrounds Me](https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [Surrounds Me](https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD) | 2:49 |
-| 43 | [Todo lo que fuimos](https://open.spotify.com/track/3tGInrZripAkRKj8KgruHz) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq) | [0\-800 HOY \(Deluxe\)](https://open.spotify.com/album/17zcfndRvY3EBMYRfqXwED) | 3:08 |
-| 44 | [Pulso](https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm) | [Laila Farinola](https://open.spotify.com/artist/7nWb2WA5wQLANBcbqGodwW), [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [Pulso](https://open.spotify.com/album/1h6yv9q7OlvXW62MDGEJLS) | 4:21 |
+| 43 | [Pulso](https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm) | [Laila Farinola](https://open.spotify.com/artist/7nWb2WA5wQLANBcbqGodwW), [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [Pulso](https://open.spotify.com/album/1h6yv9q7OlvXW62MDGEJLS) | 4:21 |
+| 44 | [Todo lo que fuimos](https://open.spotify.com/track/3tGInrZripAkRKj8KgruHz) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq) | [0\-800 HOY \(Deluxe\)](https://open.spotify.com/album/17zcfndRvY3EBMYRfqXwED) | 3:08 |
 | 45 | [Exhalarte](https://open.spotify.com/track/0Q4PtIhtlS5lsFuP7qAyqQ) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Exhalarte](https://open.spotify.com/album/2p1JDY337Px8ZRDSxtEWV9) | 3:13 |
 | 46 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 |
 | 47 | [Maldigo a Cupido](https://open.spotify.com/track/2DRxYM1jIA39kOzOdqLTF0) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py) | [Maldigo a Cupido](https://open.spotify.com/album/4ceWJq8vlUTdrJTlMdNJuI) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Conmigo](https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Conmigo](https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV) | 3:35 |
 | 50 | [R4M3N](https://open.spotify.com/track/30Vs827iqq9MEURBgExhH8) | [RedLivah](https://open.spotify.com/artist/5xIJUBPCV72HC9aUjiNZX8) | [R4M3N](https://open.spotify.com/album/6RxZDazJaN5OdMBxnqZUFp) | 2:01 |
 
-Snapshot ID: `MCwyNDFmYjAwYmY3OGExYjA2MzI2NTFjOGVkMmYwZTUzMWEzNTlkZWUy`
+Snapshot ID: `MCw2YzMxZmQyMzc3MjAzYTMzODcyZjhlOTljM2U2N2QwOGQ0YTg4N2Uw`

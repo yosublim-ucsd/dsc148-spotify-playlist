@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2310876,
+  "num_followers": 2310847,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWVhMzYwZmRmODkzMWY0MzI2MzQ2ZTc3NjUxMzk2N2UyY2RhZjAx",
+  "snapshot_id": "MCw5MzZmNmIyODAzMWFlZjExMGRlNGUyZTkyNGM5MDFiZDVjYTcwNzIx",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "A Book Like This",
-        "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Mango Tree",
-      "url": "https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Into the Depths of Hell",
         "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 216252,
-      "name": "Top to Toe",
-      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+      "duration_ms": 225666,
+      "name": "Mango Tree",
+      "url": "https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -751,6 +735,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 216252,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "All This Time Running",
         "url": "https://open.spotify.com/album/71FWp5uo78GM4C7ZseK2O9"
       },
@@ -763,38 +763,6 @@
       "duration_ms": 185933,
       "name": "All This Time Running",
       "url": "https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "On The Road Again",
-        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 173969,
-      "name": "On The Road Again",
-      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -815,18 +783,34 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "On The Road Again",
+        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 173969,
+      "name": "On The Road Again",
+      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 193671,
       "name": "Amsterdam (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Oh Brother",
-        "url": "https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 275506,
-      "name": "Its A Winding Road",
-      "url": "https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Saint Monica (Undone)",
         "url": "https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 146884,
       "name": "Saint Monica - Undone",
       "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Oh Brother",
+        "url": "https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 275506,
+      "name": "Its A Winding Road",
+      "url": "https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy"
     },
     {
       "added_at": "2023-06-30 04:00:00",

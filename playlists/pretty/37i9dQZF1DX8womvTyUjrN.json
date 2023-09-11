@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: ELENA ROSE",
-  "num_followers": 284491,
+  "num_followers": 284568,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmRjMjk3ZDc2YTZlZTE3MzUxODBkNjZhYTM5Y2I3ZGUyOGY3MmNl",
+  "snapshot_id": "MCw5ZWI2ZWQxMTM1M2ZhNmYxNGJmNWU0MzAxMWJhZTIxOTQwNzMxODNj",
   "tracks": [
     {
       "added_at": "2023-09-08 18:36:12",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-09-08 18:36:12",
       "album": {
+        "name": "Palpita",
+        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Palpita",
+      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
+    },
+    {
+      "added_at": "2023-09-08 18:36:12",
+      "album": {
         "name": "1Trago",
         "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 207946,
       "name": "Weeknd<3",
       "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
-    },
-    {
-      "added_at": "2023-09-08 18:36:12",
-      "album": {
-        "name": "Palpita",
-        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Palpita",
-      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
     },
     {
       "added_at": "2023-09-08 18:36:12",
@@ -807,22 +807,22 @@
     {
       "added_at": "2023-09-08 18:36:12",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
+        "name": "Besos Ricos",
+        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
       },
       "artists": [
         {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         }
       ],
-      "duration_ms": 172373,
-      "name": "Pa Quererte",
-      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
+      "duration_ms": 187715,
+      "name": "Besos Ricos",
+      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
     },
     {
       "added_at": "2023-09-08 18:36:12",
@@ -847,22 +847,22 @@
     {
       "added_at": "2023-09-08 18:36:12",
       "album": {
-        "name": "Besos Ricos",
-        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
         },
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         }
       ],
-      "duration_ms": 187715,
-      "name": "Besos Ricos",
-      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
+      "duration_ms": 172373,
+      "name": "Pa Quererte",
+      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
     },
     {
       "added_at": "2023-09-08 18:36:12",

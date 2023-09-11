@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 44463,
+  "num_followers": 44516,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjllOTRhMTNmNWM1NmJlMGYyOGNiNzYzYTQ3NjEzZjNiYzJjYWZm",
+  "snapshot_id": "MCw2YTFkMzAzMGU3MWViNzI2Njc4NzY2ODEzYzhhODU2MmQ2MWQ5ZDYy",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:44",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Blue Hills",
-        "url": "https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8"
-      },
-      "artists": [
-        {
-          "name": "Jonnine",
-          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "The Tides Do That with Me",
-      "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/4dgEPvuxoOfoyciOzTiQQj"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Blue Hills",
+        "url": "https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8"
+      },
+      "artists": [
+        {
+          "name": "Jonnine",
+          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "The Tides Do That with Me",
+      "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "See-Through",
         "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
@@ -511,42 +511,6 @@
       "duration_ms": 161000,
       "name": "A Conversation With My Innocence",
       "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 193988,
-      "name": "I Could Be Your Dog",
-      "url": "https://open.spotify.com/track/2jSBYuzIyy7B2RqZNWEFlZ"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "Revival Renaissance Rebirth (Act 1)",
-        "url": "https://open.spotify.com/album/6jh3oBLsscOI7bXBXfqSSW"
-      },
-      "artists": [
-        {
-          "name": "SymphoCat",
-          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
-        }
-      ],
-      "duration_ms": 304934,
-      "name": "999 Renaissance",
-      "url": "https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -571,6 +535,42 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Revival Renaissance Rebirth (Act 1)",
+        "url": "https://open.spotify.com/album/6jh3oBLsscOI7bXBXfqSSW"
+      },
+      "artists": [
+        {
+          "name": "SymphoCat",
+          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+        }
+      ],
+      "duration_ms": 304934,
+      "name": "999 Renaissance",
+      "url": "https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 193988,
+      "name": "I Could Be Your Dog",
+      "url": "https://open.spotify.com/track/2jSBYuzIyy7B2RqZNWEFlZ"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Anomi",
         "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 173798,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "Fragmente",
+        "url": "https://open.spotify.com/album/5RHqv8G1C59xAEGVl1z5fK"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 145926,
+      "name": "Elegy for Peace",
+      "url": "https://open.spotify.com/track/0OMZyApsIr7O9RIPNizyQV"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -639,22 +655,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Remission",
-        "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
+        "name": "Time Is Local",
+        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
       },
       "artists": [
         {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+          "name": "We like We",
+          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
         },
         {
-          "name": "anth\u00e9ne",
-          "url": "https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR"
+          "name": "Jacob Kirkegaard",
+          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Remission",
-      "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
+      "duration_ms": 96450,
+      "name": "Clotho",
+      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -675,22 +691,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Time Is Local",
-        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
+        "name": "Northwest & Southeast",
+        "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
       },
       "artists": [
         {
-          "name": "We like We",
-          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
         },
         {
-          "name": "Jacob Kirkegaard",
-          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
+          "name": "Party Store",
+          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
         }
       ],
-      "duration_ms": 96450,
-      "name": "Clotho",
-      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
+      "duration_ms": 406000,
+      "name": "Thursday Night, Friday Morning",
+      "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -803,6 +819,26 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Remission",
+        "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
+      },
+      "artists": [
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        },
+        {
+          "name": "anth\u00e9ne",
+          "url": "https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Remission",
+      "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Hilja",
         "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
       },
@@ -819,38 +855,18 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Northwest & Southeast",
-        "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
       "artists": [
         {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        },
-        {
-          "name": "Party Store",
-          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
         }
       ],
-      "duration_ms": 406000,
-      "name": "Thursday Night, Friday Morning",
-      "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "Fragmente",
-        "url": "https://open.spotify.com/album/5RHqv8G1C59xAEGVl1z5fK"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 145926,
-      "name": "Elegy for Peace",
-      "url": "https://open.spotify.com/track/0OMZyApsIr7O9RIPNizyQV"
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -875,38 +891,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "Shifting Winds",
-        "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Shifting Winds",
-      "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "Honest Labour",
         "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 112980,
       "name": "Indigo Grit (feat. guest)",
       "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "Shifting Winds",
+        "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Shifting Winds",
+      "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 460892,
       "name": "Fantas Variation for Voices",
       "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Ode to the blue",
+        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Orbits",
         "url": "https://open.spotify.com/album/5yX9DKolmT1yaFht5vQPlL"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Ode to the blue",
-        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173625,
-      "name": "Ode to the blue",
-      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "plastichoir",
         "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
       },
@@ -1311,38 +1311,6 @@
       "duration_ms": 190860,
       "name": "melting cups",
       "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "Meditations Mixtape Vol.1",
-        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
-      },
-      "artists": [
-        {
-          "name": "Ami Dang",
-          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
-        }
-      ],
-      "duration_ms": 299666,
-      "name": "Satnam Waheguru",
-      "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "Ithaca",
-        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Across The Ocean, But Not Yet",
-      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1375,6 +1343,38 @@
       "duration_ms": 338834,
       "name": "Horoathea Mass of Aegorath",
       "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "Meditations Mixtape Vol.1",
+        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
+      },
+      "artists": [
+        {
+          "name": "Ami Dang",
+          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
+        }
+      ],
+      "duration_ms": 299666,
+      "name": "Satnam Waheguru",
+      "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "Ithaca",
+        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Across The Ocean, But Not Yet",
+      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Shimmer in the Sky (Yoko Komatsu Rework)",
+        "url": "https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Yoko Komatsu",
+          "url": "https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Shimmer in the Sky - Yoko Komatsu Rework",
+      "url": "https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Respite",
         "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
       },
@@ -1607,22 +1627,18 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Shimmer in the Sky (Yoko Komatsu Rework)",
-        "url": "https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw"
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
       "artists": [
         {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        },
-        {
-          "name": "Yoko Komatsu",
-          "url": "https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E"
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Shimmer in the Sky - Yoko Komatsu Rework",
-      "url": "https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY"
+      "duration_ms": 1001299,
+      "name": "After its own death: Side A",
+      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1651,22 +1667,6 @@
       "duration_ms": 744162,
       "name": "Abiogenesis",
       "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 1001299,
-      "name": "After its own death: Side A",
-      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "a mother's daughter",
+        "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "a mother's daughter",
+      "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Lumino Pleco",
         "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
       },
@@ -1743,18 +1759,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Hills Have Eyes",
-        "url": "https://open.spotify.com/album/6iyqB1HfTm68FESZYWb91F"
+        "name": "Immersed in Black Water (Linn Elisabet You Will Version)",
+        "url": "https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx"
       },
       "artists": [
         {
-          "name": "TWEAKS",
-          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
+          "name": "Adna",
+          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
+        },
+        {
+          "name": "Linn Elisabet",
+          "url": "https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP"
         }
       ],
-      "duration_ms": 168263,
-      "name": "Hills Have Eyes",
-      "url": "https://open.spotify.com/track/6Vk4vbFSdMNlJzs2NRtpVq"
+      "duration_ms": 212444,
+      "name": "Immersed in Black Water - Linn Elisabet You Will Version",
+      "url": "https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1795,22 +1815,18 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Immersed in Black Water (Linn Elisabet You Will Version)",
-        "url": "https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx"
+        "name": "Hills Have Eyes",
+        "url": "https://open.spotify.com/album/6iyqB1HfTm68FESZYWb91F"
       },
       "artists": [
         {
-          "name": "Adna",
-          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
-        },
-        {
-          "name": "Linn Elisabet",
-          "url": "https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP"
+          "name": "TWEAKS",
+          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
         }
       ],
-      "duration_ms": 212444,
-      "name": "Immersed in Black Water - Linn Elisabet You Will Version",
-      "url": "https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX"
+      "duration_ms": 168263,
+      "name": "Hills Have Eyes",
+      "url": "https://open.spotify.com/track/6Vk4vbFSdMNlJzs2NRtpVq"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1827,26 +1843,6 @@
       "duration_ms": 360000,
       "name": "An Open Door",
       "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "The 90s Was A Feeling",
-        "url": "https://open.spotify.com/album/6MayzDqtZa39VVtdR6yHxw"
-      },
-      "artists": [
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        },
-        {
-          "name": "Party Store",
-          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "The 90s Was A Feeling",
-      "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"
     }
   ],
   "unique_name": "ethereal voices",

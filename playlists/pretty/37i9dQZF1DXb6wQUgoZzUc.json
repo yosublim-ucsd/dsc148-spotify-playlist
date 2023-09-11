@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 876179,
+  "num_followers": 876264,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2NjOWMwYzYzYTNhYTk1NWI3ODJlMjc5MTRjY2ZiZjMxMTIwMzVk",
+  "snapshot_id": "MCwyYmNiNzE1NmMzZDRkNTYxNmM2MThjY2Y2ZDVkN2Y5MTljYTcxM2Mw",
   "tracks": [
     {
       "added_at": "2023-09-08 06:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
         "name": "Me Reclama",
         "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 187492,
       "name": "Me Reclama",
       "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
+        "name": "Cuerpecito",
+        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Cuerpecito",
+      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 203529,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/5kvMHWJfoIgKTpP5HzpG25"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
-        "name": "Cuerpecito",
-        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Cuerpecito",
-      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1379,50 +1379,6 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
-        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
-      },
-      "artists": [
-        {
-          "name": "BANDIDO",
-          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 280274,
-      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
-      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
-        "name": "Para Mi Ex",
-        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Expl\u00edcito",
-      "url": "https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
         "name": "G Low Kitty",
         "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
       },
@@ -1447,6 +1403,50 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
+        "name": "Para Mi Ex",
+        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Expl\u00edcito",
+      "url": "https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
+        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
+        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
+      },
+      "artists": [
+        {
+          "name": "BANDIDO",
+          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 280274,
+      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
+      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1571,18 +1571,26 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "Piedritas En Los Dientes",
-        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
+        "name": "Poblado",
+        "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
         }
       ],
-      "duration_ms": 156544,
-      "name": "Piedritas En Los Dientes",
-      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
+      "duration_ms": 201596,
+      "name": "Poblado",
+      "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1639,26 +1647,18 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "Poblado",
-        "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
+        "name": "Piedritas En Los Dientes",
+        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
       },
       "artists": [
         {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        },
-        {
-          "name": "Natan & Shander",
-          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 201596,
-      "name": "Poblado",
-      "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
+      "duration_ms": 156544,
+      "name": "Piedritas En Los Dientes",
+      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
         "name": "S\u00fabelo",
         "url": "https://open.spotify.com/album/2l929YaQMj0eFvPMMB4xyq"
       },
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s"
       },
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "Traductor",
-        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
         "name": "L-Gante: RKT SESSIONS #1",
         "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 181928,
       "name": "L-Gante: RKT SESSIONS #1",
       "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
+        "name": "Traductor",
+        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
     },
     {
       "added_at": "2023-09-08 06:00:00",

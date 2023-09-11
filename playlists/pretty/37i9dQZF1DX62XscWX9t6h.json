@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 154607,
+  "num_followers": 154754,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjc0NTEzM2IwOTI3ZWRkYzMyMmQxOGY5MmExMjU0MzcyNmUwN2Qw",
+  "snapshot_id": "MCw1NTFhOWIwODQ0ZTQ4MzI0ZDQxZDVmM2ZjYjZkNGQ1OWY3Mjc3NmYw",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
     },
     {
-      "added_at": "2023-06-07 04:01:30",
-      "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "K.G.",
@@ -619,6 +603,22 @@
       "duration_ms": 252630,
       "name": "Intrasport",
       "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+    },
+    {
+      "added_at": "2023-06-07 04:01:30",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "added_at": "2023-07-19 02:50:55",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 273058,
-      "name": "Parev' Ajere",
-      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 273058,
+      "name": "Parev' Ajere",
+      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -703,42 +703,6 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 209803,
-      "name": "Automation",
-      "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Yeti Season (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Piya Malik",
-          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
-        }
-      ],
-      "duration_ms": 192404,
-      "name": "Murkit Gem",
-      "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -761,6 +725,26 @@
       "url": "https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Yeti Season (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Piya Malik",
+          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+        }
+      ],
+      "duration_ms": 192404,
+      "name": "Murkit Gem",
+      "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
+    },
+    {
       "added_at": "2022-04-17 20:09:31",
       "album": {
         "name": "Inspiration Information 3",
@@ -779,6 +763,22 @@
       "duration_ms": 275373,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 209803,
+      "name": "Automation",
+      "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
     },
     {
       "added_at": "2022-09-15 12:52:37",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "TANDEM",
+        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 174882,
+      "name": "PERLA",
+      "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
+    },
+    {
       "added_at": "2023-05-25 23:48:57",
       "album": {
         "name": "Amatssou",
@@ -835,22 +851,6 @@
       "duration_ms": 211533,
       "name": "Kek Alghalm",
       "url": "https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "TANDEM",
-        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 174882,
-      "name": "PERLA",
-      "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -933,20 +933,20 @@
       "url": "https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj"
     },
     {
-      "added_at": "2022-02-03 23:38:31",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Aboogi",
-        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
       },
       "artists": [
         {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 256320,
-      "name": "Achinkad",
-      "url": "https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx"
+      "duration_ms": 290448,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU"
     },
     {
       "added_at": "2022-08-31 03:53:27",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 290448,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Aman Iman: Water Is Life",
         "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 267533,
       "name": "Cler Achel",
       "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
+    },
+    {
+      "added_at": "2022-02-03 23:38:31",
+      "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Achinkad",
+      "url": "https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Ilana (The Creator)",
-        "url": "https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 447083,
-      "name": "Tarhatazed",
-      "url": "https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Safe Passage",
         "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 206684,
       "name": "Nosotros Tambi\u00e9n",
       "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Ilana (The Creator)",
+        "url": "https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 447083,
+      "name": "Tarhatazed",
+      "url": "https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1429,6 +1429,38 @@
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
     },
     {
+      "added_at": "2023-04-13 23:05:11",
+      "album": {
+        "name": "Sue\u00f1o EP",
+        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Octopus",
+      "url": "https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "The Trip",
+        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
+      },
+      "artists": [
+        {
+          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "The Trip",
+      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
       "added_at": "2022-03-28 18:17:41",
       "album": {
         "name": "Udhero Na",
@@ -1451,34 +1483,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "The Trip",
-        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
+        "name": "Zan",
+        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
       },
       "artists": [
         {
-          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
+          "name": "Liraz",
+          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
         }
       ],
-      "duration_ms": 257972,
-      "name": "The Trip",
-      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
-    },
-    {
-      "added_at": "2023-04-13 23:05:11",
-      "album": {
-        "name": "Sue\u00f1o EP",
-        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
-      },
-      "artists": [
-        {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Octopus",
-      "url": "https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o"
+      "duration_ms": 216640,
+      "name": "Bia Bia",
+      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Zan",
-        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
-      },
-      "artists": [
-        {
-          "name": "Liraz",
-          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
-        }
-      ],
-      "duration_ms": 216640,
-      "name": "Bia Bia",
-      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Optimisme",
-        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Calling England Home",
         "url": "https://open.spotify.com/album/4qO6OhmdEda5cfBjDOTduz"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 373893,
       "name": "Calling England Home",
       "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Optimisme",
+        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
     },
     {
       "added_at": "2023-03-29 18:06:57",
@@ -1685,10 +1685,10 @@
       "url": "https://open.spotify.com/track/0lfCoE7BfCZaaLiKSxSYXL"
     },
     {
-      "added_at": "2023-03-31 19:02:24",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "A\u015fk",
-        "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
+        "name": "Yol",
+        "url": "https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k"
       },
       "artists": [
         {
@@ -1696,9 +1696,9 @@
           "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
         }
       ],
-      "duration_ms": 220142,
-      "name": "Rak\u0131ya Su Katamam",
-      "url": "https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv"
+      "duration_ms": 258315,
+      "name": "Y\u00fcce Dag Basinda",
+      "url": "https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH"
     },
     {
       "added_at": "2021-10-20 20:05:06",

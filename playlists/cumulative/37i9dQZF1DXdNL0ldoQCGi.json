@@ -4365,6 +4365,24 @@
     },
     {
       "album": {
+        "name": "Lets Go 4",
+        "url": "https://open.spotify.com/album/38zYNwOTfIWOT5FKmWnEBu"
+      },
+      "artists": [
+        {
+          "name": "leo caneta de ouro",
+          "url": "https://open.spotify.com/artist/38MPWRSmaPNCLmbr1RH73n"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271384,
+      "name": "Lets Go 4",
+      "url": "https://open.spotify.com/track/1sZERP8lxfWxjyzPGl2MvA"
+    },
+    {
+      "album": {
         "name": "Let\u00b4s Go 4",
         "url": "https://open.spotify.com/album/4OvtSRAQWxnLMxgD2o3KOq"
       },
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 271266,
       "name": "Let\u00b4s Go 4",
       "url": "https://open.spotify.com/track/3NU9HlJzAGxs3S7oE2QyF2"

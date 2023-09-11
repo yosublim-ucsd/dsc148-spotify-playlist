@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov: the playlist to the bat mitzvah you were so NOT invited to, curated by Sammi Cohen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,482 likes - 52 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,595 likes - 52 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hang the Moon \(from the Netflix Film "You Are So Not Invited To My Bat Mitzvah"\)](https://open.spotify.com/track/0Pxm4E8rNg65Z2G5I9W7TQ) | [Sadie](https://open.spotify.com/artist/2PfSnNh32J94ADXP7o2NTR) | [Hang the Moon \(from the Netflix Film "You Are So Not Invited To My Bat Mitzvah"\)](https://open.spotify.com/album/4G7wLx9pM4g8F3ScbueQpb) | 3:37 |
-| 2 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 2 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 3 | [Crush](https://open.spotify.com/track/6MYJv37Mpj5njLLbxKWNun) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:36 |
 | 4 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 |
 | 5 | [Valley of the Dolls](https://open.spotify.com/track/5gmRgeec1UtQJ9MYxVhDxC) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/4GbH15Qw21Mwgj5YHyuAu8) | 4:16 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 51 | [Hold Me Down](https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:43 |
 | 52 | [Over You](https://open.spotify.com/track/29YWkTKunqjKhTD9nB0yBA) | [HOLYCHILD](https://open.spotify.com/artist/4itksv8jgpEcvRvZ7lDalQ) | [The Theatrical Death of Julie Delicious](https://open.spotify.com/album/019KS476KEobO6Ca7Cq9IG) | 4:00 |
 
-Snapshot ID: `MCwyZTBhZGU0NTIwYmM1ZDM0ZDkxYTFlNjkxZDU2OWY4YTcyM2MwZWQw`
+Snapshot ID: `MCxhZjYyNTIzNDAxOTNjYzU5NDA3NzVlNTI2YzUxM2RhZTkyODExZThh`

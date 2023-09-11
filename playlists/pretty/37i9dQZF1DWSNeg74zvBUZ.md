@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,042 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,052 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 |
 | 50 | [Dwellberry](https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m) | 4:43 |
 
-Snapshot ID: `MCw1MWQ2YmIxYWVmNzBlMWZiYjFkNTFkOTdiMDcxNmE3MzFkYWExZmIw`
+Snapshot ID: `MCw2NzU1MTU4NDJjOTBkNGVmNjUwODc3NjJiYzE5MzM4YWFkN2M2ZmY2`

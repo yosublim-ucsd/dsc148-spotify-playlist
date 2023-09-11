@@ -3291,6 +3291,28 @@
     },
     {
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/54Mbf6ILKw9KPSapGeMZeD"
+      },
+      "artists": [
+        {
+          "name": "Gianni",
+          "url": "https://open.spotify.com/artist/1qOhp9sUeynPwEfyY6kX6c"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129662,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/7uV520fZT3OfyqxDhr69ie"
+    },
+    {
+      "album": {
         "name": "Bossa Beats (Vol. 1)",
         "url": "https://open.spotify.com/album/1DWgbBULmBzoYVKEb4uqHs"
       },
@@ -30940,7 +30962,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 97547,
       "name": "Episodes",
       "url": "https://open.spotify.com/track/0GNjeGXFr9gUTKG8Jj4lhU"
@@ -51785,6 +51807,24 @@
     },
     {
       "album": {
+        "name": "Kale-In",
+        "url": "https://open.spotify.com/album/4iZT75u7LBXI5q4PYEa0Dx"
+      },
+      "artists": [
+        {
+          "name": "Idepen",
+          "url": "https://open.spotify.com/artist/52kTvSXed7Y3NB4X6MyXGf"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111068,
+      "name": "Kale-In",
+      "url": "https://open.spotify.com/track/5Dx8GeQLH8C3Krf0iYAXue"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/1YMt5wDkvJonSe6wZddPgk"
       },
@@ -58066,7 +58106,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 122000,
       "name": "Looking At You",
       "url": "https://open.spotify.com/track/2JyCCjIX6yP38NMckgXG5u"
@@ -80993,6 +81033,28 @@
     },
     {
       "album": {
+        "name": "realize",
+        "url": "https://open.spotify.com/album/2zhXsMOO0aSj6i7oUZNZ1I"
+      },
+      "artists": [
+        {
+          "name": "farewell",
+          "url": "https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc"
+        },
+        {
+          "name": "b.wub",
+          "url": "https://open.spotify.com/artist/1pCEnT5PUnUjcdIU0v1LZX"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80266,
+      "name": "realize",
+      "url": "https://open.spotify.com/track/4OGumMcIIWWXBLfuw7epwi"
+    },
+    {
+      "album": {
         "name": "realluv",
         "url": "https://open.spotify.com/album/3Na8szxGY31AxArOkkDwam"
       },
@@ -81766,7 +81828,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 154933,
       "name": "remember",
       "url": "https://open.spotify.com/track/7rq0nUasILVx92yHEzRr4E"

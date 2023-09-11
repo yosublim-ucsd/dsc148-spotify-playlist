@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2?si=UhHlCfaQTmeXGi\-XvTkm7w">Dayo Bello</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,868 likes - 188 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,982 likes - 188 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 101 | [LOST IN YOU \(feat\. Sun\)](https://open.spotify.com/track/2RPI6fPjqaSPIFllpVzmok) | [KEVIN DAVE](https://open.spotify.com/artist/16Qu3P3jA0IIlZoKvY51q4), [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [LOST IN YOU \(feat\. Sun\)](https://open.spotify.com/album/2lTLB7ycN5uURBbRqf2pJs) | 3:15 |
 | 102 | [Golden Highs](https://open.spotify.com/track/0jJZZit9EZdmbuG8lHPV4u) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Golden Highs](https://open.spotify.com/album/2qxq7n2YzyVwRBskiPFYn4) | 3:51 |
 | 103 | [Moonlight](https://open.spotify.com/track/3hIpTc5IwchQUWJkzLXDfK) | [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK) | [Moonlight](https://open.spotify.com/album/33Eg1v4Pw6xVs7IaZz9qWZ) | 3:06 |
-| 104 | [A Little More \(feat\. Dana Williams\)](https://open.spotify.com/track/5gCoZzvyiiEY5uEuhQL48V) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [A Little More \(feat\. Dana Williams\)](https://open.spotify.com/album/4e3yi5az6mFH69vAriHViK) | 3:25 |
+| 104 | [A Little More \(feat\. Dana Williams\)](https://open.spotify.com/track/5gCoZzvyiiEY5uEuhQL48V) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [A Little More](https://open.spotify.com/album/4e3yi5az6mFH69vAriHViK) | 3:25 |
 | 105 | [MSB](https://open.spotify.com/track/5VeLU35wHRQrh8wzv6IuQh) | [Simi Liadi](https://open.spotify.com/artist/2PAsfFu061QMOIssyfdgRg) | [MSB](https://open.spotify.com/album/5NCosHfNVyZSiYIGmQtEL2) | 2:31 |
 | 106 | [Runaway](https://open.spotify.com/track/0agVesxTRMBILK1I1LosM1) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Runaway](https://open.spotify.com/album/5cTmXTvq9gPQlF4kSnam24) | 2:18 |
 | 107 | [6AM](https://open.spotify.com/track/4fOi6nj43ew8n8PXsHY8Yt) | [Maya Law](https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6) | [6AM](https://open.spotify.com/album/7uMxOYu5sBvapPzpnR79fw) | 3:04 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 187 | [Love so Sweet](https://open.spotify.com/track/507ZRCsU0kTlDIy6yhud0k) | [Gen Bello](https://open.spotify.com/artist/4ZbEWjblNsCE61flvcbOMs) | [This Again](https://open.spotify.com/album/47Qk48pSUoIIYQNZswyMk8) | 3:48 |
 | 188 | [complicated](https://open.spotify.com/track/4yU9YWG5rNLTfSfGlXMmoO) | [THANKQ](https://open.spotify.com/artist/18V0w2L9TopQYP73r34tE6) | [complicated](https://open.spotify.com/album/144acRFPtkJHcYq8plsV4f) | 2:00 |
 
-Snapshot ID: `MCxhNWY2YTQ3MWFkM2Y1YWU5ZTBmYjZlNmIwZWYwYTU4ODYwMTc1YWE2`
+Snapshot ID: `MCxkNTU3NGY1MjlmMDJlNDIyZmEwYWM4ZTNiZDc1NDg0YTA4Y2Y4ZDQ3`

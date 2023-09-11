@@ -4,7 +4,7 @@
 
 > All the indie disco platters that matter.
 
-283 songs - 18 hr 1 min
+284 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Blue Monday](https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 7:29 | 2022-11-27 |  |
 | [Bodys](https://open.spotify.com/track/1Pbs2eCcX9p2onaAvMYvhk) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM) | 6:46 | 2022-11-27 |  |
 | [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 | 2022-11-27 | 2023-09-07 |
+| [Bohemian Like You](https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak) | 3:31 | 2023-07-21 |  |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2022-11-27 |  |
 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 | 2022-11-27 | 2023-07-03 |
 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-07-21 | 2023-08-20 |
@@ -102,7 +103,7 @@
 | [Gospel For A New Century](https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 3:18 | 2022-11-27 | 2023-07-22 |
 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 | 2022-11-27 |  |
 | [Gronlandic Edit](https://open.spotify.com/track/5boY1VZLXBJojafFINgnJF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/15Fb7HPHdy42No0l9KnXAZ) | 3:24 | 2022-11-27 | 2023-07-19 |
-| [Gutter Girl](https://open.spotify.com/track/1sEzuZNasuG8s1OOHwYfN2) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Neapolitan](https://open.spotify.com/album/4TZEULhM6BI1UrR1z3ejqx) | 3:44 | 2022-11-27 |  |
+| [Gutter Girl](https://open.spotify.com/track/1sEzuZNasuG8s1OOHwYfN2) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Neapolitan](https://open.spotify.com/album/4TZEULhM6BI1UrR1z3ejqx) | 3:44 | 2022-11-27 | 2023-09-11 |
 | [Happiness \(Dance Floor Edit\)](https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 3:55 | 2022-11-27 |  |
 | [Happiness In Liquid Form](https://open.spotify.com/track/6PftSaJIUfDKLoxCHpBvqs) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:32 | 2022-11-27 |  |
 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 | 2022-11-27 |  |

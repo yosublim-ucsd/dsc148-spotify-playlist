@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 31 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 |
 | 32 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
 | 33 | [Te Fuiste](https://open.spotify.com/track/4mPabBTkgdM0vi6fq5RLIV) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Incompleto](https://open.spotify.com/album/3WgZY6pINHPX4T5FCwO1Hf) | 2:26 |
-| 34 | [La Que Me Mata](https://open.spotify.com/track/7c7PfGpkGUetuZEvrbVQEo) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE) | [La Que Me Mata](https://open.spotify.com/album/5qAUiz7awTr9wX9AaJd2Lb) | 4:39 |
-| 35 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
+| 34 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
+| 35 | [La Que Me Mata](https://open.spotify.com/track/7c7PfGpkGUetuZEvrbVQEo) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE) | [La Que Me Mata](https://open.spotify.com/album/5qAUiz7awTr9wX9AaJd2Lb) | 4:39 |
 | 36 | [Bad Habits](https://open.spotify.com/track/64uKfB3sXD1PSRZ9R9djTM) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [Bad Habits](https://open.spotify.com/album/5jbQD8hGieC5nMF3fbgBZT) | 3:19 |
 | 37 | [kiss u better](https://open.spotify.com/track/7ghyfzs27FAYNaP7sO8FnS) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [kiss u better](https://open.spotify.com/album/0hF3HodPikSBNy4dMGVSOf) | 3:07 |
 | 38 | [Mi Estilo](https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Mi Estilo](https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq) | 4:45 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 46 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
 | 47 | [two eyes](https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [two eyes](https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV) | 3:30 |
 | 48 | [tú y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [Ariel & The Culture](https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 |
-| 49 | [Aunque No Estas](https://open.spotify.com/track/76MiTdO7DQj3rhsTquorrr) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Lágrimas](https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT) | 3:31 |
-| 50 | [ATEA AL AMOR](https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [ATEA AL AMOR](https://open.spotify.com/album/1gwc6YNpzD9BfC1uiCoudQ) | 2:52 |
+| 49 | [ATEA AL AMOR](https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [ATEA AL AMOR](https://open.spotify.com/album/1gwc6YNpzD9BfC1uiCoudQ) | 2:52 |
+| 50 | [Aunque No Estas](https://open.spotify.com/track/76MiTdO7DQj3rhsTquorrr) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Lágrimas](https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT) | 3:31 |
 
-Snapshot ID: `MCw5NTVhNDU4NzdlYTNlZjNiMGU1NDcwNWIxOWY0NDIzNmUxMWMyYWMz`
+Snapshot ID: `MCwyYjAzOGYyYWVkY2M3NTJlMmE0MDM5YmRlZjliOWYwODdiZjU5YjQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 
 > The best dance songs of 2022\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,636 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,645 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 | 74 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 75 | [Need U \- Spotify Singles](https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Need U \- Spotify Singles](https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF) | 2:34 |
 
-Snapshot ID: `MCxlNTQ4Y2I1ZDk4NmM0NjJhMGEyOTA2NThmMTkwYjZmMWQ5MjZjOThi`
+Snapshot ID: `MCw0OTY2NmI4NGQyNWM2NGRiMjdmOTI2YTI2YjBjYzJjMzU2MmMxOWRi`

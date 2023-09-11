@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,683 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,811 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,19 +87,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 77 | [Losing My Religion](https://open.spotify.com/track/6wLbbFtRtoWoVXB3PEOHwW) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Losing My Religion](https://open.spotify.com/album/5DrlVXdnx3j7ZL6ZEuvbW2) | 4:28 |
 | 78 | [Substitute](https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 2:45 |
 | 79 | [Welcome to the Black Parade](https://open.spotify.com/track/36CYOzebYcdwKFI0hVQoGV) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Welcome to the Black Parade](https://open.spotify.com/album/35Kb6h06xzxyzDFsPro6zQ) | 5:03 |
-| 80 | [Peace Signs](https://open.spotify.com/track/7LlDiLN477LKJ5XbCt61LE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Peace Signs](https://open.spotify.com/album/33oM16jRGfm4QzDalm6kFi) | 3:08 |
-| 81 | [Treat You Better](https://open.spotify.com/track/18af6i5FTYmaA4hZIgHcxU) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Treat You Better](https://open.spotify.com/album/54FrEL61hWG3qKQK07lnbR) | 3:07 |
-| 82 | [What Went Wrong](https://open.spotify.com/track/6b6GTsdxRM7vm1f61LDO6r) | [Feelbacks](https://open.spotify.com/artist/1LkmMVZtvEUHKqWTcPgn3I) | [What Went Wrong](https://open.spotify.com/album/64Xl98jaXY2UwGAl5pj8tu) | 3:17 |
+| 80 | [What Went Wrong](https://open.spotify.com/track/6b6GTsdxRM7vm1f61LDO6r) | [Feelbacks](https://open.spotify.com/artist/1LkmMVZtvEUHKqWTcPgn3I) | [What Went Wrong](https://open.spotify.com/album/64Xl98jaXY2UwGAl5pj8tu) | 3:17 |
+| 81 | [Peace Signs](https://open.spotify.com/track/7LlDiLN477LKJ5XbCt61LE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Peace Signs](https://open.spotify.com/album/33oM16jRGfm4QzDalm6kFi) | 3:08 |
+| 82 | [Treat You Better](https://open.spotify.com/track/18af6i5FTYmaA4hZIgHcxU) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Treat You Better](https://open.spotify.com/album/54FrEL61hWG3qKQK07lnbR) | 3:07 |
 | 83 | [Better Now](https://open.spotify.com/track/6FKo9Wvp9XPLlicjMmGjjf) | [The Animal In Me](https://open.spotify.com/artist/6hyAYqBdxyramm4W9TB7R0) | [Better Now](https://open.spotify.com/album/340cO1YuhIGhjDznigJyDM) | 4:05 |
 | 84 | [Sometimes I Don't Mind](https://open.spotify.com/track/6PcnP3NO63AjInHBT7ahSi) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:05 |
 | 85 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
 | 86 | [Gives You Hell](https://open.spotify.com/track/14jFxgA3tyHWwG3x5n3dkZ) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:30 |
 | 87 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 |
-| 88 | [A.M\. 180](https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [A.M\. 180](https://open.spotify.com/album/2rP57VRk7u0JDiLKW9TbNz) | 3:03 |
-| 89 | [Wake Me Up When September Ends](https://open.spotify.com/track/1Rr4FlKdImwLx8AKvjwdyi) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Not Your American Idiots](https://open.spotify.com/album/3PoOM4CglYzNmpLxVFvePx) | 3:16 |
+| 88 | [Wake Me Up When September Ends](https://open.spotify.com/track/1Rr4FlKdImwLx8AKvjwdyi) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Not Your American Idiots](https://open.spotify.com/album/3PoOM4CglYzNmpLxVFvePx) | 3:16 |
+| 89 | [A.M\. 180](https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [A.M\. 180](https://open.spotify.com/album/2rP57VRk7u0JDiLKW9TbNz) | 3:03 |
 | 90 | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 |
-| 91 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
-| 92 | [Young and Beautiful](https://open.spotify.com/track/7IY3xV7UeMbFl80onv3O9J) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Young and Beautiful](https://open.spotify.com/album/1e5OLy9DPv7iKd6wOMY9G7) | 3:48 |
+| 91 | [Young and Beautiful](https://open.spotify.com/track/7IY3xV7UeMbFl80onv3O9J) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Young and Beautiful](https://open.spotify.com/album/1e5OLy9DPv7iKd6wOMY9G7) | 3:48 |
+| 92 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
 | 93 | [Hand in My Pocket](https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:28 |
 | 94 | [How's It Gonna Be](https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533) | [I Call Fives](https://open.spotify.com/artist/3vsi8vM5Xs8p1NEQuZWP70) | [Someone That's Not You](https://open.spotify.com/album/1dMfFikNXq1cjw1nSv0JQj) | 3:13 |
 | 95 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [I Won't Back Down](https://open.spotify.com/track/1r72N7UrcmJIVsib0F7vsV) | [Alone I Walk](https://open.spotify.com/artist/15KhAhIzQCzIDNDq1QXAGc) | [I Won't Back Down](https://open.spotify.com/album/2PnX4AnA5v2WyzUHmJ7ZpR) | 2:38 |
 | 100 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
 
-Snapshot ID: `MCxkNzQ1YzYxMzc1YWY4OTYzNGU2Yzk1ZGYzM2QxYmEwYjUzOGY5Yzhk`
+Snapshot ID: `MCw1YWQxMWM3ZmE3YTlmMjMxNzc3NTk5NWE5MzczMmY2ZWYwNTgxOTBm`

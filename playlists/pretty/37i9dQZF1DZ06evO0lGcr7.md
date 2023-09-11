@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 
 > This is mxmtoon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,185 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,182 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,31 +32,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 22 | [plastic pony](https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 2:22 |
 | 23 | [sad disco](https://open.spotify.com/track/4L9CJKKoqJO2ryiVDnJiiQ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 3:03 |
 | 24 | [ok on your own](https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:28 |
-| 25 | [temporary nothing](https://open.spotify.com/track/4gaClLIzaWE3ORDYnsX14p) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 3:07 |
-| 26 | [unspoken words](https://open.spotify.com/track/0XUU1fzICK7484jpGnfGvd) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 4:06 |
+| 25 | [unspoken words](https://open.spotify.com/track/0XUU1fzICK7484jpGnfGvd) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 4:06 |
+| 26 | [temporary nothing](https://open.spotify.com/track/4gaClLIzaWE3ORDYnsX14p) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 3:07 |
 | 27 | [dance \(end of the world\)](https://open.spotify.com/track/4gyCjsvbbt3PBICIiYlTG4) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:38 |
 | 28 | [blister in the sun](https://open.spotify.com/track/0gb3mgIlYlG3KcZZLMaVow) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 2:24 |
-| 29 | [porcelain](https://open.spotify.com/track/5v2S0IqMixb6x1fDL93Szr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 4:31 |
-| 30 | [blame game](https://open.spotify.com/track/4s79MjBAL0LxmhrPM47G8F) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:29 |
-| 31 | [no faker](https://open.spotify.com/track/0RyLL5AEo53smpSW9bENAt) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:49 |
-| 32 | [victim of nostalgia](https://open.spotify.com/track/4h9jqsfXr9UJtWwlqvvvux) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:36 |
-| 33 | [i feel like chet](https://open.spotify.com/track/1JFCxETWjhVCQU0HxNGpdg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 3:03 |
-| 34 | [in the darkness](https://open.spotify.com/track/4wU7ZkSkK3nMJpzZBRxtv9) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:29 |
-| 35 | [quiet motions](https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:38 |
-| 36 | [growing pains](https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:42 |
+| 29 | [blame game](https://open.spotify.com/track/4s79MjBAL0LxmhrPM47G8F) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:29 |
+| 30 | [porcelain](https://open.spotify.com/track/5v2S0IqMixb6x1fDL93Szr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 4:31 |
+| 31 | [victim of nostalgia](https://open.spotify.com/track/4h9jqsfXr9UJtWwlqvvvux) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:36 |
+| 32 | [no faker](https://open.spotify.com/track/0RyLL5AEo53smpSW9bENAt) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:49 |
+| 33 | [in the darkness](https://open.spotify.com/track/4wU7ZkSkK3nMJpzZBRxtv9) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:29 |
+| 34 | [i feel like chet](https://open.spotify.com/track/1JFCxETWjhVCQU0HxNGpdg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 3:03 |
+| 35 | [growing pains](https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:42 |
+| 36 | [quiet motions](https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:38 |
 | 37 | [please don't](https://open.spotify.com/track/13udwRO2lxuI5CQCgQKs0i) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [please don't](https://open.spotify.com/album/0FML2Vg1z5EvafxbbY1PVR) | 4:16 |
 | 38 | [every wave](https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 2:49 |
-| 39 | [1, 2](https://open.spotify.com/track/7vpBAYLRWsyoXRKBkEn6IK) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:03 |
-| 40 | [myrtle ave.](https://open.spotify.com/track/5bmpuI2QKQm9TQgc4ObqJL) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 2:48 |
+| 39 | [myrtle ave.](https://open.spotify.com/track/5bmpuI2QKQm9TQgc4ObqJL) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 2:48 |
+| 40 | [1, 2](https://open.spotify.com/track/7vpBAYLRWsyoXRKBkEn6IK) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:03 |
 | 41 | [dream of you](https://open.spotify.com/track/5Ie9fSJ7KYZnauSWBxpdVZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:54 |
 | 42 | [So Mean](https://open.spotify.com/track/67LVRpGwukS1vEO8nNzT37) | [afternoon](https://open.spotify.com/artist/7i95A726HxGqwlaEVDxtNM), [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Samsa](https://open.spotify.com/artist/5FN9kuAUamAd4IadVnH4jH) | [So Mean](https://open.spotify.com/album/24sVYdbUT74K1lO3lTnbOe) | 4:30 |
-| 43 | [don't play your card](https://open.spotify.com/track/5wPqSe2jbb9z50bSccR8Vo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [don't play your card](https://open.spotify.com/album/1TYzvjRwqBNQIy48CDnWRi) | 3:41 |
-| 44 | [asking for a friend](https://open.spotify.com/track/40z4JrjH1eR4ALR90tnZv1) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:18 |
+| 43 | [asking for a friend](https://open.spotify.com/track/40z4JrjH1eR4ALR90tnZv1) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:18 |
+| 44 | [don't play your card](https://open.spotify.com/track/5wPqSe2jbb9z50bSccR8Vo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [don't play your card](https://open.spotify.com/album/1TYzvjRwqBNQIy48CDnWRi) | 3:41 |
 | 45 | [suffice](https://open.spotify.com/track/7IOUPahVDnSYA12s6t8NsQ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 |
 | 46 | [stuck](https://open.spotify.com/track/6ge4qsUuMkcMVTSjToFTxJ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [stuck](https://open.spotify.com/album/1HwNpS0NEep33gE2QFHmXk) | 4:09 |
-| 47 | [my way](https://open.spotify.com/track/5U4KVGcM2dbE0woyVXJs5e) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [my way](https://open.spotify.com/album/1n1QiCPqKFdap6YvAYcDPk) | 3:28 |
-| 48 | [first](https://open.spotify.com/track/26evQTTVOSgM8yuPm3clND) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 2:26 |
+| 47 | [first](https://open.spotify.com/track/26evQTTVOSgM8yuPm3clND) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 2:26 |
+| 48 | [my way](https://open.spotify.com/track/5U4KVGcM2dbE0woyVXJs5e) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [my way](https://open.spotify.com/album/1n1QiCPqKFdap6YvAYcDPk) | 3:28 |
 | 49 | [1\-800\-DATEME](https://open.spotify.com/track/2iClCG0J0gQhDHJxxknTGg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [1\-800\-DATEME](https://open.spotify.com/album/1WML7GXWm5N53g9LA8vXCO) | 1:54 |
 | 50 | [show and tell](https://open.spotify.com/track/1t78MrAlx8fVcxHgwZEBYS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 4:08 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDBlNTdkYzBiZGQwZTk1ODAzMmFiNjdjNWExNDRlOTc0ZQ==`
+Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDAyYjBhYmQyNzI5YjQ5OTJiYTA2NzdhNTU4MjMxMzM2Zg==`

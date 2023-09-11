@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,323 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,599 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 49 | [ひこうき雲](https://open.spotify.com/track/2YyxBmzk2l7NzyBakN3TdM) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ひこうき雲](https://open.spotify.com/album/2Apn7plsxGOwwD7anbcAOS) | 3:26 |
 | 50 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
 
-Snapshot ID: `MCxlYTQ5OGMyNzAxMGUwZWYxYmY4NGQ2MWZkMzdlMGMzOGNkNzIxMmU3`
+Snapshot ID: `MCwxZmEzZDMyZTkwZDI0NjgyMTgzMjU0MTFlZTk3MTM1ZTE5YmY4Njhk`

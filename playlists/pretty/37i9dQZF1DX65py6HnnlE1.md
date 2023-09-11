@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,097 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,373 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 24 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 |
 | 25 | [Promise \(feat\. Usher\)](https://open.spotify.com/track/0jr6tT2vc4cIFPHb6wufG3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:12 |
 | 26 | [Dos Locos](https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:06 |
-| 27 | [De Rodillas Te Pido](https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [De Rodillas Te Pido](https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM) | 3:53 |
-| 28 | [Medicina De Amor](https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:00 |
+| 27 | [Medicina De Amor](https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:00 |
+| 28 | [De Rodillas Te Pido](https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [De Rodillas Te Pido](https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM) | 3:53 |
 | 29 | [Quién Eres Tu](https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Cuando Se Quiere Se Puede](https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe) | 4:22 |
 | 30 | [Estrellitas y Duendes](https://open.spotify.com/track/0H6hDn1jaralA0JtSsW5DU) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:26 |
 | 31 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 |
@@ -53,25 +53,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 43 | [Esta Noche](https://open.spotify.com/track/5aKtF99Easewgyk5JDuJAd) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Escenas De Amor](https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco) | 4:42 |
 | 44 | [Bailando Con El](https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Directo Al Corazon](https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh) | 3:41 |
 | 45 | [Donde Estará](https://open.spotify.com/track/7oJ5gMtXIjVyx9plzoFkHU) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 4:59 |
-| 46 | [No Ha Sido Facil](https://open.spotify.com/track/5Xg9feC7RNaUO5x3Ns0yyE) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 4:43 |
-| 47 | [Me Puedo Matar \- Remastered](https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [The First \(Remastered\)](https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR) | 4:23 |
+| 46 | [Me Puedo Matar \- Remastered](https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [The First \(Remastered\)](https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR) | 4:23 |
+| 47 | [No Ha Sido Facil](https://open.spotify.com/track/5Xg9feC7RNaUO5x3Ns0yyE) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 4:43 |
 | 48 | [Mi Niña \- Bachata Version](https://open.spotify.com/track/3Ed337L8k9XN4Cje0mr7p6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Toromania](https://open.spotify.com/album/6W5cK4U5pzMMorZjI6pWgK) | 4:00 |
 | 49 | [Llora Alma Mía](https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Llora Alma Mia](https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so) | 4:21 |
 | 50 | [Loco de Amor](https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Canciones Inmortales Bachatas](https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA) | 7:52 |
 | 51 | [El Hombre de Tu Vida](https://open.spotify.com/track/3f9d4UXihDnTq9X6SNEG1j) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB) | 4:53 |
 | 52 | [Nereyda](https://open.spotify.com/track/4GqF1OeM18jaUiCs56JR5s) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Regresa Amor](https://open.spotify.com/album/64PLhfXkELD6htYvIBb4gv) | 4:55 |
 | 53 | [Antología De Caricias](https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 3:57 |
-| 54 | [Los Pobres Tambien LLoran](https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:36 |
-| 55 | [El Profesor](https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Soga](https://open.spotify.com/album/1gP8J1yTruazTsPOGozAG0) | 3:39 |
+| 54 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
+| 55 | [Los Pobres Tambien LLoran](https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:36 |
 | 56 | [Perdido](https://open.spotify.com/track/18tS6OYnEJfHWokX62T322) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 4:05 |
-| 57 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
+| 57 | [El Profesor](https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Soga](https://open.spotify.com/album/1gP8J1yTruazTsPOGozAG0) | 3:39 |
 | 58 | [Por Mi Timidez](https://open.spotify.com/track/5GYDLehClDE0qcEc9nxxVi) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 4:41 |
 | 59 | [Que Vuelva](https://open.spotify.com/track/4NfwBgmzmzx8WpyIy9C6p7) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:31 |
 | 60 | [El Alchohol](https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 4:16 |
 | 61 | [Vocales de amor](https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx) | 5:10 |
 | 62 | [Me Voy de Ti](https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa) | 5:45 |
-| 63 | [Ahora Vete](https://open.spotify.com/track/3yqgzXWZrRFQOqwDQJ7z3b) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:47 |
-| 64 | [Tu Eres Mi Hembra](https://open.spotify.com/track/6VG22s0gnTLHXsE3b0tTcY) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:13 |
+| 63 | [Tu Eres Mi Hembra](https://open.spotify.com/track/6VG22s0gnTLHXsE3b0tTcY) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:13 |
+| 64 | [Ahora Vete](https://open.spotify.com/track/3yqgzXWZrRFQOqwDQJ7z3b) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:47 |
 | 65 | [Quizas Si, Quizas No \- Bachata Remix](https://open.spotify.com/track/1ehvUn5ei1Ef4XiK7Q32rs) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Bacha \- Rengue: Lo Mejor De Los Toros Band](https://open.spotify.com/album/4r5C6cEDcSziyc2K48izZe) | 4:32 |
 | 66 | [Sentimiento de Amor](https://open.spotify.com/track/34FUq3P5k5vc49MfO9kYGP) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Triste](https://open.spotify.com/album/6dK8zx6goVQQp4ajR5Xe5a) | 3:24 |
 | 67 | [Cuando El Amor Se Va](https://open.spotify.com/track/3hCzPmdh5AhxFYBZMfFOgP) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Recuentos De Éxitos](https://open.spotify.com/album/1XvALZGX2W9POnEoKmbEHq) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 99 | [Voy Pa 'lla](https://open.spotify.com/track/7ziYzhR5nL81mx1dEUmXEW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Chupadera](https://open.spotify.com/album/3L8jghUhYnZX453oDWD0cW) | 3:41 |
 | 100 | [Si Tu Cariño No Esta](https://open.spotify.com/track/5xZPOd1s09Kr5VUXRwRKuI) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 4:12 |
 
-Snapshot ID: `MCxlOTg5NDc2NjJkZTZmMTgwZjZiNTM2MGUxNzMyN2JiMTNkNDZmMDA4`
+Snapshot ID: `MCwzZjQyMjE0YzNlOTIyYjQ3Y2NlNDM4OWUwMWE1N2M4MTI0ZGU4OTQw`

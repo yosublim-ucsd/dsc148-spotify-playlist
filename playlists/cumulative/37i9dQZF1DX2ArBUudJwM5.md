@@ -4,7 +4,7 @@
 
 > Estamos listas para un festival único\. <br/>\#FestivalEQUAL • 16 de septiembre • Hipódromo de Palermo
 
-802 songs - 1 day 19 hr 8 min
+803 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Clandestina](https://open.spotify.com/track/0fCrqtpSqqTy7050sztKNh) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Biankush](https://open.spotify.com/artist/58H70Vb8CfnBalr7QotqeM) | [Modus Operandi](https://open.spotify.com/album/0p6iaSoFQH1n0GbHA0Lute) | 2:47 | 2023-04-05 | 2023-05-04 |
 | [Clavícula](https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 2:49 | 2023-06-05 | 2023-07-06 |
 | [Closer](https://open.spotify.com/track/0ATTkdyvn9m5Ov7nMVjF73) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Suck This Tangerine](https://open.spotify.com/album/4Gd97oKm5sEC3iG5IZ9RbN) | 3:55 | 2022-02-02 | 2022-03-09 |
+| [Cobarde](https://open.spotify.com/track/4NiyWU5iTYOm95h2zHOFsk) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Ella Es Como Vos](https://open.spotify.com/album/1LfYBvw5tUsR0o4pVVRJWN) | 4:29 | 2023-09-07 |  |
 | [Cobarde](https://open.spotify.com/track/0Eb0IgyKJF7llW3UxG6gVV) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Ella Es Como Vos](https://open.spotify.com/album/4C2lbsiWvZAVxNB9tN4bOn) | 4:31 | 2022-11-07 | 2022-12-01 |
 | [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Membrillo](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 | 2022-05-04 | 2022-07-07 |
 | [Colchón](https://open.spotify.com/track/50DbH3a3NuD6imG7imC1Bt) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [2020](https://open.spotify.com/album/5PiGqB14PQ9GWPeVWC2tC0) | 3:15 | 2022-06-01 | 2022-07-07 |
@@ -481,7 +482,7 @@
 | [Mi Cultura La Copla](https://open.spotify.com/track/2OuN858EC6856a16wvEIzP) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/3u5xsefVehP9h9sKzxmHbk) | 2:33 | 2022-09-07 | 2022-10-06 |
 | [Mi Delito](https://open.spotify.com/track/3uZw29gpuA36zZAEqheKVi) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Mi Delito](https://open.spotify.com/album/14AvZT7RpOOXcskfZjZ2jq) | 2:53 | 2022-04-06 | 2022-05-05 |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-07 | 2023-01-05 |
-| [Mi Nombre](https://open.spotify.com/track/0HyUOz2Xp4d61ew3TCMkKC) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7) | 3:53 | 2023-08-18 |  |
+| [Mi Nombre](https://open.spotify.com/track/0HyUOz2Xp4d61ew3TCMkKC) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7) | 3:53 | 2023-08-18 | 2023-09-11 |
 | [mi otra mitad](https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:46 | 2023-02-01 | 2023-03-02 |
 | [Mi Poder](https://open.spotify.com/track/5u6vrXSwaWevC7udvjdGnD) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Mi Poder](https://open.spotify.com/album/4liTpNtI16hNlia7Sa841E) | 3:42 | 2022-06-01 | 2022-07-07 |
 | [Mi Propia Marca](https://open.spotify.com/track/27yjMCLWNXR4GwDnS2VA4P) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy), [manza / Mariano Esain](https://open.spotify.com/artist/0XkmUhX2g7S8uPV4DJs0V7), [Luciano Esain](https://open.spotify.com/artist/0a54l9yhecDOrqtZ62eNOe), [Federico Ghazarossian](https://open.spotify.com/artist/1WB0iSuTZzpDsMywtwK8kg) | [5 Finales para el Mismo Cuento](https://open.spotify.com/album/4LpYb5KwwGtMfFq5hlUVhU) | 4:26 | 2022-07-06 | 2022-08-04 |

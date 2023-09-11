@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 6601,
+  "num_followers": 6876,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzJiN2ZmYzFhNjY1ZTYxMjEzNjgwNDk0OWQ3MjZlZmU3MjAwNTcx",
+  "snapshot_id": "MCw3MzI5MDY2YmIwZDE4M2FkNzJkZThhOGM2NmUzOWEzYzVmNjgzYjhk",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -651,18 +651,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Say You Will",
-        "url": "https://open.spotify.com/album/1gBgLMEQraFgv7KrMQqxYV"
+        "name": "Dark Water",
+        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
       },
       "artists": [
         {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "JESSCA",
+          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
         }
       ],
-      "duration_ms": 132187,
-      "name": "Say You Will",
-      "url": "https://open.spotify.com/track/63IsPNecHLiwqMMxzeVG12"
+      "duration_ms": 206733,
+      "name": "Dark Water",
+      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -683,22 +687,42 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Dark Water",
-        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/1gBgLMEQraFgv7KrMQqxYV"
       },
       "artists": [
         {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "JESSCA",
-          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
         }
       ],
-      "duration_ms": 206733,
-      "name": "Dark Water",
-      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
+      "duration_ms": 132187,
+      "name": "Say You Will",
+      "url": "https://open.spotify.com/track/63IsPNecHLiwqMMxzeVG12"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Can't Get You out of My Head",
+        "url": "https://open.spotify.com/album/6JGdqchvfbGFc2cMnLdZBn"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "LAUWEND",
+          "url": "https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM"
+        },
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "duration_ms": 148849,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/5M5KUXnWP2pB3NugBHcER9"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -743,30 +767,6 @@
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Can't Get You out of My Head",
-        "url": "https://open.spotify.com/album/6JGdqchvfbGFc2cMnLdZBn"
-      },
-      "artists": [
-        {
-          "name": "Mondello'G",
-          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
-        },
-        {
-          "name": "LAUWEND",
-          "url": "https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM"
-        },
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        }
-      ],
-      "duration_ms": 148849,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/5M5KUXnWP2pB3NugBHcER9"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -847,50 +847,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Industria",
-        "url": "https://open.spotify.com/album/4UsNAuPjCA5HQsGUYvgZr0"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 211384,
-      "name": "Industria",
-      "url": "https://open.spotify.com/track/6Kv4u43WIqxp6eBTXaaCiM"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/2uDgmgef8WIKFJuzR1RnDg"
-      },
-      "artists": [
-        {
-          "name": "Patrick Scuro",
-          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
-        },
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/20QjNItuQEZvwXnIy5Va37"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Komodo",
         "url": "https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c"
       },
@@ -915,6 +871,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2uDgmgef8WIKFJuzR1RnDg"
+      },
+      "artists": [
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        },
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/20QjNItuQEZvwXnIy5Va37"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "In My Hands (with Camden Cox)",
         "url": "https://open.spotify.com/album/0dVvNRierRGIDIJcLabobW"
       },
@@ -927,6 +903,46 @@
       "duration_ms": 220472,
       "name": "In My Hands (with Camden Cox)",
       "url": "https://open.spotify.com/track/5tQBXtnSjBN6ohQYLCxBlX"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Industria",
+        "url": "https://open.spotify.com/album/4UsNAuPjCA5HQsGUYvgZr0"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 211384,
+      "name": "Industria",
+      "url": "https://open.spotify.com/track/6Kv4u43WIqxp6eBTXaaCiM"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "The Parade (Techno Remix)",
+        "url": "https://open.spotify.com/album/7phtUgPQObPbFNrWOMyyiK"
+      },
+      "artists": [
+        {
+          "name": "GYMBRO",
+          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+        }
+      ],
+      "duration_ms": 115714,
+      "name": "The Parade (Techno Remix)",
+      "url": "https://open.spotify.com/track/3j9RucX8VImndwic630g9w"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -951,38 +967,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "The Parade (Techno Remix)",
-        "url": "https://open.spotify.com/album/7phtUgPQObPbFNrWOMyyiK"
+        "name": "The Stutter",
+        "url": "https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4"
       },
       "artists": [
         {
-          "name": "GYMBRO",
-          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
         }
       ],
-      "duration_ms": 115714,
-      "name": "The Parade (Techno Remix)",
-      "url": "https://open.spotify.com/track/3j9RucX8VImndwic630g9w"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Simulator",
-        "url": "https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ"
-      },
-      "artists": [
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        }
-      ],
-      "duration_ms": 220375,
-      "name": "Simulator",
-      "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
+      "duration_ms": 207187,
+      "name": "The Stutter",
+      "url": "https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS"
     }
   ],
   "unique_name": "techno party",

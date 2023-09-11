@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Nacee
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,856 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,927 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 8 | [Agbebolo](https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [NHYIRABA GIDEON](https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl) | [Agbebolo](https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh) | 5:32 |
 | 9 | [Guide Me](https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Guide Me](https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y) | 3:47 |
 | 10 | [W'asem](https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 3:39 |
-| 11 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 |
-| 12 | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/track/2vPxKFymTxOgHhYszvBtJ8) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ) | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/album/1dFyQ59czNRy78NVZnXcN4) | 9:44 |
+| 11 | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/track/2vPxKFymTxOgHhYszvBtJ8) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ) | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/album/1dFyQ59czNRy78NVZnXcN4) | 9:44 |
+| 12 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 |
 | 13 | [Gye Wo Nkoaa](https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD) | [Lordina The Soprano](https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Gye Wo Nkoaa](https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv) | 5:00 |
 | 14 | [Turning Around\(Live\)](https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 4:48 |
 | 15 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 46 | [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 |
 | 47 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
 | 48 | [Prayer for deliverance](https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t) | [Prayer for deliverance](https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth) | 1:34 |
-| 49 | [My Alabaster](https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y) | [DenniS](https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ) | [My Alabaster](https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl) | 8:34 |
-| 50 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
+| 49 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
+| 50 | [My Alabaster](https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y) | [DenniS](https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ) | [My Alabaster](https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl) | 8:34 |
 
-Snapshot ID: `MCw3MGRkN2I4OGRhZjhlMDgzMWQ2ZTM0N2YyYzg4ZWFlOWJiNzY0YmMw`
+Snapshot ID: `MCwwZDlhMDUxNTVlYThjMTUyMGRkYTlkZTc1MGE1MWU3YjE4OWVkNWI2`

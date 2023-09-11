@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Zach Bryan
 
-362 songs - 22 hr 13 min
+363 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Snakes and Ladders](https://open.spotify.com/track/7mnN6NVO9SdNtZhByoazrA) | [Jessica Rhaye](https://open.spotify.com/artist/0JI6j7EohGdNldcfMxq9By), [The Ramshackle Parade](https://open.spotify.com/artist/0TxRZtz5eUT5Vx3wkFQrZB) | [Snakes and Ladders](https://open.spotify.com/album/2QsIOMeDYFGLhWzIAellDK) | 3:42 | 2023-04-07 | 2023-04-22 |
 | [Snakes and Waterfalls](https://open.spotify.com/track/684tjAMxT8Bdm7RSv6vgzC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/7yeUolKNVVSu3jpK5JuK3b) | 4:02 | 2023-04-21 | 2023-04-30 |
 | [Snakes and Waterfalls](https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf) | 4:02 | 2023-04-28 |  |
+| [So Easy](https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 3:33 | 2023-09-08 |  |
 | [Somebody Just Like Me](https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC) | 2:33 | 2023-07-14 |  |
 | [Somebody Like You](https://open.spotify.com/track/3wlO7uuhoREZLDQtbnXjqu) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Somebody Like You](https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ) | 3:21 | 2022-05-13 | 2022-08-06 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-11-11 |  |
@@ -350,7 +351,7 @@
 | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/track/2t9ALXxbk3N6jwSgpUqehE) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/album/4T39qyzsn7ZeFcq6SqmPoT) | 3:35 | 2022-07-15 | 2022-10-29 |
 | [What I Had in Mind](https://open.spotify.com/track/5saojvKcj1644C6Fi7BY3j) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [What I Had in Mind](https://open.spotify.com/album/1qi7P89eVlmAzdDd4Wv1Kp) | 3:13 | 2022-09-30 | 2022-11-19 |
 | [What Is a Broken Heart For](https://open.spotify.com/track/0aCm3Et01TEjfKeG2bABUK) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:00 | 2023-03-24 | 2023-05-13 |
-| [Whatever Got Lost](https://open.spotify.com/track/4JMCCet7BRLwThMx6ifEUX) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [For Jimmy](https://open.spotify.com/album/1odIO8SXRLhIFPphlEGJjY) | 3:31 | 2023-07-21 |  |
+| [Whatever Got Lost](https://open.spotify.com/track/4JMCCet7BRLwThMx6ifEUX) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [For Jimmy](https://open.spotify.com/album/1odIO8SXRLhIFPphlEGJjY) | 3:31 | 2023-07-21 | 2023-09-11 |
 | [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 | 2023-02-03 | 2023-08-23 |
 | [When You're Gone](https://open.spotify.com/track/6o4WL0W4PqWI4K9csGt2Eq) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [When You're Gone](https://open.spotify.com/album/3CRYeWlC7Hu66h2ypeB6qX) | 2:45 | 2022-12-09 | 2023-08-21 |
 | [Where My Wild Things Are](https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Where My Wild Things Are](https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N) | 3:57 | 2023-06-23 |  |

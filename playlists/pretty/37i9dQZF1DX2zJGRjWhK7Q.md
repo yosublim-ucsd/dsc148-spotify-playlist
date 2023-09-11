@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,969 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,104 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 29 | [Quitate La Máscara](https://open.spotify.com/track/7AhoOwG8qWE5RK7GS1XA6w) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 4:30 |
 | 30 | [Sonido Bestial](https://open.spotify.com/track/3ouNYFFQeYMJXjqGK0S1hM) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 9:58 |
 | 31 | [Señor Sereno \- Live](https://open.spotify.com/track/4tzLQ79qkaQj9nQexQilon) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/4YnL0cm0xt3zoqqsLi9lVv) | 5:31 |
-| 32 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
-| 33 | [El Negro Bembón](https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Baile Con Cortijo](https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o) | 3:00 |
+| 32 | [El Negro Bembón](https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Baile Con Cortijo](https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o) | 3:00 |
+| 33 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
 | 34 | [Richie's Jala Jala](https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 5:07 |
 | 35 | [El Pito \(I'll Never Go Back To Georgia\)](https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 5:33 |
 | 36 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 49 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |
 | 50 | [Popurrí Navideño / Estrella De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen María / La Tierra Mía](https://open.spotify.com/track/4b6c7ugOlWaVBUmCElgImW) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 3:36 |
 
-Snapshot ID: `MCw1YjJkNzQ0YjI3YWQzZWZhYTc2MjNmZWIwY2UyMmFhNDM5ZmZmN2Q5`
+Snapshot ID: `MCwzZWYwOGRiMmFiY2RhMTEwZjgyMjZkM2Q3OGNlMGE0YjBlMTdkZTI4`

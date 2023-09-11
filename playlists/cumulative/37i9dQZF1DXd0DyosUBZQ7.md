@@ -2,7 +2,7 @@
 
 ### [00s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DXd0DyosUBZQ7)
 
-> Las canciones de amor más bonitas de la década del 2000.
+> The most beautiful love songs of the 2000s
 
 148 songs - 9 hr 30 min
 

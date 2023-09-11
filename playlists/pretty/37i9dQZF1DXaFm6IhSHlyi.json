@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142139,
+  "num_followers": 142153,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjU3MzVmNjU2ODhhZTU5OTg0YTkzNjYzOTUyNGNjYTc2ZTY3OGIx",
+  "snapshot_id": "MCwwYWRhMDYzNjQ5YjNmNmRkMjk5NTc2ZDRiNTY2Y2ZkZTU3YzFjMWQ5",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Piccola Stella",
+      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "My Only One (No Hay Nadie M\u00e1s)",
         "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 198280,
       "name": "My Only One (No Hay Nadie M\u00e1s)",
       "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Piccola Stella",
-      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "FANTAS\u00cdA",
-        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "En Guerra",
-      "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "VersuS",
         "url": "https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 191280,
       "name": "Is That Alright?",
       "url": "https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "En Guerra",
+      "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Kidnap for Romance (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "duration_ms": 303937,
+      "name": "Hindi Tayo Pwede",
+      "url": "https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 7",
         "url": "https://open.spotify.com/album/11mioDjgfPQDIAXUV47ZJl"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 240971,
       "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
       "url": "https://open.spotify.com/track/5Un71eDlbiGDEzZJzACuNp"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Kidnap for Romance (Original Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ"
-      },
-      "artists": [
-        {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
-        }
-      ],
-      "duration_ms": 303937,
-      "name": "Hindi Tayo Pwede",
-      "url": "https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Kezbi Wara Kezbi",
+        "url": "https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 236697,
+      "name": "Wassellik Khabar",
+      "url": "https://open.spotify.com/track/46Q88zCtao0J39Z2dr1ynN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
         "url": "https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 232083,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/0TqWyaKViqPTz31qew5OZ2"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Kezbi Wara Kezbi",
-        "url": "https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 236697,
-      "name": "Wassellik Khabar",
-      "url": "https://open.spotify.com/track/46Q88zCtao0J39Z2dr1ynN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
-      },
-      "artists": [
-        {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 218501,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+      },
+      "artists": [
+        {
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Bla Bik",
-        "url": "https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3"
-      },
-      "artists": [
-        {
-          "name": "Nada",
-          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Bla Bik",
-      "url": "https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Sikasih",
         "url": "https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 186915,
       "name": "Sikasih",
       "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Bla Bik",
+        "url": "https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3"
+      },
+      "artists": [
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Bla Bik",
+      "url": "https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2423,6 +2423,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Madhaniyan (Live)",
+        "url": "https://open.spotify.com/album/1JQBJ5I4LF77Q6XHSvuPN1"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "duration_ms": 261592,
+      "name": "Madhaniyan (Live)",
+      "url": "https://open.spotify.com/track/6xuGNFWVVz2VKn56MSkT3D"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
       },
@@ -2435,6 +2451,42 @@
       "duration_ms": 187535,
       "name": "The Everyday Bit",
       "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\uc5b4\uca4c\uba74 \uc774\uc720\uac00 \ud544\uc694\ud55c \ubc24 Night Within You",
+        "url": "https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "\uc5b4\uca4c\uba74 \uc774\uc720\uac00 \ud544\uc694\ud55c \ubc24 Night Within You",
+      "url": "https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+        }
+      ],
+      "duration_ms": 170156,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2467,58 +2519,6 @@
       "duration_ms": 228541,
       "name": "You Are",
       "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Lead Major",
-          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
-        }
-      ],
-      "duration_ms": 170156,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Madhaniyan (Live)",
-        "url": "https://open.spotify.com/album/1JQBJ5I4LF77Q6XHSvuPN1"
-      },
-      "artists": [
-        {
-          "name": "Neha Bhasin",
-          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
-        }
-      ],
-      "duration_ms": 261592,
-      "name": "Madhaniyan (Live)",
-      "url": "https://open.spotify.com/track/6xuGNFWVVz2VKn56MSkT3D"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "\uc5b4\uca4c\uba74 \uc774\uc720\uac00 \ud544\uc694\ud55c \ubc24 Night Within You",
-        "url": "https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "\uc5b4\uca4c\uba74 \uc774\uc720\uac00 \ud544\uc694\ud55c \ubc24 Night Within You",
-      "url": "https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84"
     },
     {
       "added_at": "2022-10-17 15:00:00",

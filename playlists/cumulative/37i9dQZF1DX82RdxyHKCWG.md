@@ -4,7 +4,7 @@
 
 > Tudo de novo que tá rolando no pop! Atualizada toda semana ✨ Foto: Olivia Rodrigo
 
-739 songs - 1 day 14 hr 11 min
+740 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,7 +693,8 @@
 | [Used To Be](https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:52 | 2023-08-18 |  |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 |  |
 | [Vai Sentando](https://open.spotify.com/track/4UlkRoC6xPCDXehTyW21BF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Vai Sentando \(FAST X Soundtrack\)](https://open.spotify.com/album/08rwl7AoPbs22LGky7hgdu) | 2:14 | 2023-05-19 | 2023-06-10 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [vc é uma bagunça](https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [vc é uma bagunça](https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB) | 2:51 | 2022-11-12 | 2022-11-26 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-23 | 2023-01-28 |
 | [Verdadeira Brasileira](https://open.spotify.com/track/4xl8d5clE0KYIzd0IiRcgF) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [Verdadeira Brasileira](https://open.spotify.com/album/32Ez4Ve0SYE8OX3QBmIurC) | 2:28 | 2022-12-02 | 2022-12-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 
 > Game time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,327 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,704 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 | 49 | [Invincible](https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:07 |
 | 50 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 |
 
-Snapshot ID: `MCwwZmI3M2NmODk0Y2EyNTM5MWJlZDNhOGJkMjYxMDhkYjNkMmZlZmRi`
+Snapshot ID: `MCxkMDFkZWUxZTZlMmNiYWYwM2Q5MGNiOWQyZjlhMGM3YTViNTM0ZjFj`

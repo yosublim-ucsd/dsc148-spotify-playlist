@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Curated by Bun B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,216 likes - 94 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,254 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 41 | [Like A Pimp](https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Mississippi: The Album](https://open.spotify.com/album/6wTmI6YwP14KXnDC35VTT7) | 4:14 |
 | 42 | [Around The Way Girl](https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb) | 4:08 |
 | 43 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/550JPXXPgjr1xqxtKIaX6b) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:08 |
-| 44 | [Shoulder Lean \(feat\. T.I.\)](https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Best Thang Smokin' \(Explicit Version\)](https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r) | 4:18 |
-| 45 | [Throw Some D's](https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu) | [Rich Boy](https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut), [Polow Da Don](https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR) | [Rich Boy](https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9) | 4:23 |
+| 44 | [Throw Some D's](https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu) | [Rich Boy](https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut), [Polow Da Don](https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR) | [Rich Boy](https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9) | 4:23 |
+| 45 | [Shoulder Lean \(feat\. T.I.\)](https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Best Thang Smokin' \(Explicit Version\)](https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r) | 4:18 |
 | 46 | [Texas Flood](https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 5:20 |
 | 47 | [Never Scared \(feat\. Killer Mike & T.I.\) \- Club Mix](https://open.spotify.com/track/4kmIO0yPq92dXtKCL28RfC) | [Bone Crusher](https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [AttenCHUN!](https://open.spotify.com/album/1tHNA1zsv6EKLHAR1idmAi) | 5:16 |
 | 48 | [Shorty Wanna Ride](https://open.spotify.com/track/6Y9kdB2O0h9gq9y2vclsWT) | [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Straight Outta Cashville](https://open.spotify.com/album/1E5TJXITJtczbSYmYR9LuQ) | 4:21 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 93 | [Top Billin'](https://open.spotify.com/track/0ctyMxVlNs8oE7k0ZMcrKn) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [Old School Hip Hop Beats](https://open.spotify.com/album/2KDLQ8ypKKudHoO49Ttpi0) | 2:55 |
 | 94 | [Could This Be Love](https://open.spotify.com/track/0W9DTUYHHGLl62f4ETnTWI) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love \(Deluxe\)](https://open.spotify.com/album/2kw3VjK47np2HYq8IkvgXk) | 5:13 |
 
-Snapshot ID: `MCwwY2IzMjliODBkOGQ5MTIzOWU3NjM1Njc3Y2ZjZmQxNDU3ZGNmZWFk`
+Snapshot ID: `MCwzN2U5MGZiYzA5OTU0ZGU0NzVjODllYjFhNzg3OTRiNmRjNTY0Nzk3`

@@ -1,12 +1,12 @@
 {
   "description": "El t\u00edtulo lo dice todo! Twerk out work out! ",
-  "num_followers": 1607078,
+  "num_followers": 1607108,
   "original_name": "Perreo Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2QzNmQ2MDNlZTdhMTRjNDJjMGI5ZGI3Yzg5NzI0NTYxZWQ1ZGM3",
+  "snapshot_id": "MCwxMWUyNjY1OTNmNzg1ZmJmZmVmOTMwYWYxNzJkMTc3YWUxMDhmZjBm",
   "tracks": [
     {
       "added_at": "2023-08-14 07:32:30",
@@ -519,8 +519,8 @@
     {
       "added_at": "2023-08-14 07:32:30",
       "album": {
-        "name": "Mas Rica Que Ayer",
-        "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
       "artists": [
         {
@@ -528,17 +528,13 @@
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 199148,
-      "name": "Mas Rica Que Ayer",
-      "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
+      "duration_ms": 246000,
+      "name": "Hasta Que Dios Diga",
+      "url": "https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1"
     },
     {
       "added_at": "2023-08-14 07:32:30",
@@ -651,8 +647,8 @@
     {
       "added_at": "2023-08-14 07:32:30",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+        "name": "Mas Rica Que Ayer",
+        "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
       },
       "artists": [
         {
@@ -660,13 +656,17 @@
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Hasta Que Dios Diga",
-      "url": "https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1"
+      "duration_ms": 199148,
+      "name": "Mas Rica Que Ayer",
+      "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
     },
     {
       "added_at": "2023-08-14 07:32:30",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-08-14 07:32:30",
       "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
+    },
+    {
+      "added_at": "2023-08-14 07:32:30",
+      "album": {
         "name": "Ven Bailalo (Reggaeton Mix)",
         "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 141340,
       "name": "Caile",
       "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
-    },
-    {
-      "added_at": "2023-08-14 07:32:30",
-      "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
     },
     {
       "added_at": "2023-08-14 07:32:30",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2023-08-14 07:32:30",
       "album": {
-        "name": "Showtime",
-        "url": "https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw"
-      },
-      "artists": [
-        {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
-        },
-        {
-          "name": "Gocho \"El L\u00e1piz De Platino\"",
-          "url": "https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA"
-        },
-        {
-          "name": "John Eric",
-          "url": "https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Na De Na",
-      "url": "https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp"
-    },
-    {
-      "added_at": "2023-08-14 07:32:30",
-      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+    },
+    {
+      "added_at": "2023-08-14 07:32:30",
+      "album": {
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        },
+        {
+          "name": "Gocho \"El L\u00e1piz De Platino\"",
+          "url": "https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA"
+        },
+        {
+          "name": "John Eric",
+          "url": "https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Na De Na",
+      "url": "https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp"
     },
     {
       "added_at": "2023-08-14 07:32:30",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-08-14 07:32:30",
       "album": {
-        "name": "MI EXXX",
-        "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 194470,
-      "name": "MI EXXX",
-      "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
-    },
-    {
-      "added_at": "2023-08-14 07:32:30",
-      "album": {
         "name": "Pa'l Mundo",
         "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
       },
@@ -1351,6 +1331,22 @@
       "duration_ms": 172680,
       "name": "Rakata",
       "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
+    },
+    {
+      "added_at": "2023-08-14 07:32:30",
+      "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2023-08-14 07:32:30",
@@ -1375,18 +1371,22 @@
     {
       "added_at": "2023-08-14 07:32:30",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+        "name": "MI EXXX",
+        "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+      "duration_ms": 194470,
+      "name": "MI EXXX",
+      "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
     },
     {
       "added_at": "2023-08-14 07:32:30",
@@ -1463,30 +1463,6 @@
     {
       "added_at": "2023-08-14 07:32:30",
       "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        },
-        {
-          "name": "Dalmata",
-          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
-        }
-      ],
-      "duration_ms": 221607,
-      "name": "NO ME LA MOLESTE",
-      "url": "https://open.spotify.com/track/2BuCjLttbLSiPx8sJKBt9b"
-    },
-    {
-      "added_at": "2023-08-14 07:32:30",
-      "album": {
         "name": "Cuerpecito",
         "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
       },
@@ -1503,18 +1479,22 @@
     {
       "added_at": "2023-08-14 07:32:30",
       "album": {
-        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
-        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
+        "name": "PANTIES Y BRASIERES",
+        "url": "https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 206946,
-      "name": "Ahora Es",
-      "url": "https://open.spotify.com/track/15wPtgg6jsyMLhIkjcSpl4"
+      "duration_ms": 197383,
+      "name": "PANTIES Y BRASIERES",
+      "url": "https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY"
     },
     {
       "added_at": "2023-08-14 07:32:30",
@@ -1531,6 +1511,22 @@
       "duration_ms": 175317,
       "name": "AUTOM\u00c1TICO",
       "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
+    },
+    {
+      "added_at": "2023-08-14 07:32:30",
+      "album": {
+        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
+        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Ahora Es",
+      "url": "https://open.spotify.com/track/15wPtgg6jsyMLhIkjcSpl4"
     },
     {
       "added_at": "2023-08-14 07:32:30",

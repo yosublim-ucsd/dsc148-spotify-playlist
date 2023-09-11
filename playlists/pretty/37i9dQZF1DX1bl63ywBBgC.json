@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 246696,
+  "num_followers": 246831,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGRkYzQ2MzIxOWQ2YWJhNmE0MTc5NzE2ZjhiNDExZTYyY2I3OTk2",
+  "snapshot_id": "MCxjNGFkMWY1YzgyZGMyOTAzMDBhOTc0ZGVlZWQzZmMzMzNiNjg1ZDZl",
   "tracks": [
     {
       "added_at": "2023-08-29 12:57:27",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 217560,
       "name": "Volverte A Ver",
       "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Millenium Hits",
-        "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 281260,
-      "name": "Persona Ideal",
-      "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+        "name": "Millenium Hits",
+        "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 190480,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
+      "duration_ms": 281260,
+      "name": "Persona Ideal",
+      "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -863,6 +847,22 @@
       "duration_ms": 293106,
       "name": "Tu Eres Ajena",
       "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -899,18 +899,22 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
       },
       "artists": [
         {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 246640,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi"
+      "duration_ms": 328786,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -931,22 +935,18 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Lo Mato",
-        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 328786,
-      "name": "El D\u00eda De Mi Suerte",
-      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
+      "duration_ms": 246640,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Caminar de Tu Mano (feat. Fonseca)",
-      "url": "https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "M\u00e1s + Coraz\u00f3n Profundo",
         "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 278626,
       "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 206253,
+      "name": "Caminar de Tu Mano (feat. Fonseca)",
+      "url": "https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "No Podras Escapar De Mi",
-      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Am\u00e9rica Sin Queja",
         "url": "https://open.spotify.com/album/5iHMlPownkV9K9VBR2GCoo"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 267706,
       "name": "Te Compro Tu Novia",
       "url": "https://open.spotify.com/track/5DrdMZSiRKOVQszXln9VMO"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "No Podras Escapar De Mi",
+      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
     },
     {
       "added_at": "2023-08-29 12:57:27",

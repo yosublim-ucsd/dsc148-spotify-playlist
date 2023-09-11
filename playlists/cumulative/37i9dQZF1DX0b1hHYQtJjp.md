@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: Lauren Daigle
 
-1,254 songs - 2 day 21 hr 14 min
+1,255 songs - 2 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1155,7 +1155,8 @@
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 |  |
 | [Used To Like \- Acoustic](https://open.spotify.com/track/6dhTEmRUOm6F6ZOLTKeL4X) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Used To Like \(Acoustic\)](https://open.spotify.com/album/6Y9fdWfA7ZjlhgPeXwoAgl) | 4:25 | 2020-02-14 | 2020-03-06 |
 | [Used to Love You](https://open.spotify.com/track/6T4uabGkWUegfv3O2QiwyZ) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Used to Love You](https://open.spotify.com/album/3UJ3kelJ5onDDfiz8Mbu2j) | 3:00 | 2023-01-06 | 2023-01-28 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-08-12 | 2023-02-04 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-21 | 2021-10-30 |
 | [Voyager](https://open.spotify.com/track/0lwkrmwOsx8jswdqi8SEDA) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Voyager](https://open.spotify.com/album/4oW79uwZX037zy4Z7h8YYf) | 3:02 | 2021-11-06 | 2021-12-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,740 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,886 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 13 | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1) | [Sista Prod](https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61), [Subvrbs](https://open.spotify.com/artist/0NVy1xEsz4i8pX33Scv75n) | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/album/5UYjxc4HIYeesKS0WJlhEI) | 2:34 |
 | 14 | [worldstar money \(interlude\)](https://open.spotify.com/track/435yU2MvEGfDdmbH0noWZ0) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [In Tongues](https://open.spotify.com/album/3dtSst4EXjGeZVQ5Sco315) | 2:06 |
 | 15 | [Can't Take My Eyes off You](https://open.spotify.com/track/2InH5NvwoEymOEeUhpUq48) | [Craymer](https://open.spotify.com/artist/14FalyPBwXYg2XLauocHaU), [AIIVAWN](https://open.spotify.com/artist/7qYVVP9RdHRKzElE6EZQsn) | [Can't Take My Eyes off You](https://open.spotify.com/album/76GPbP7KEgSGqDsyJ2FN1T) | 4:00 |
-| 16 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 |
-| 17 | [Running Away](https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR) | 1:51 |
+| 16 | [Running Away](https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR) | 1:51 |
+| 17 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 |
 | 18 | [I'll Bite Your Soul](https://open.spotify.com/track/71qKWIBggc7poNXclWN53M) | [SHRK](https://open.spotify.com/artist/3bDsGKWVVP8NdrqpiB0rEp), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Love](https://open.spotify.com/album/4zjCyRjagCO2YX65OBCQKK) | 2:03 |
 | 19 | [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 |
 | 20 | [Affection](https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY) | 1:57 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 30 | [Cut My Hair](https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [How Are You](https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly) | 2:07 |
 | 31 | [Sorry, I Like You](https://open.spotify.com/track/34MqDD3411uJQvXsqpZv3D) | [Burbank](https://open.spotify.com/artist/4iHB5bp1wwN5qTbVPaBykO) | [Sorry, I Like You](https://open.spotify.com/album/7EZ0zxMKXkJZGZBESFJZGA) | 2:02 |
 | 32 | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e](https://open.spotify.com/track/1p80DshsPD0zgGt2CPVBSm) | [DJ BYmoment](https://open.spotify.com/artist/3rhFSNJH1jYyJpV7oEJiuC) | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e](https://open.spotify.com/album/1X78wB7bRT0uj1Yf9sFFuR) | 2:01 |
-| 33 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
-| 34 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 |
+| 33 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 |
+| 34 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
 | 35 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 |
 | 36 | [Gravity Falls](https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gravity Falls](https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG) | 1:54 |
 | 37 | [Redbone](https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Redbone](https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g) | 1:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 49 | [Aesthetic Girl](https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Aesthetic Girl](https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX) | 4:18 |
 | 50 | [fountain](https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [recreation](https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg) | 1:52 |
 
-Snapshot ID: `MCw4NjQ3NDliZjk0NmQ4MWJmYWE1Mzg0ODczNTg3YWFjYjEyODU2MzU4`
+Snapshot ID: `MCxmMDg4NGE4MGY2ZWQwNTM0MDg5YzVhZDdhYTgzMTBkN2NiNzk3OGFj`

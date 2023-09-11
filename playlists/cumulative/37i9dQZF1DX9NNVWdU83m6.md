@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-154 songs - 14 hr 10 min
+155 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,8 +71,9 @@
 | [Illuminate](https://open.spotify.com/track/5KJqZNbSanOpymduTRXdAK) | [Animal Society](https://open.spotify.com/artist/1a727xBDJilvH2RUjU6hwd) | [Rise](https://open.spotify.com/album/7ysrGWtEz7mL0WNBKMFxCu) | 12:38 | 2021-01-27 |  |
 | [Immersion](https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL) | [Lilly Legit](https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO) | [Rubicon](https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR) | 3:01 | 2021-01-29 |  |
 | [Impetu](https://open.spotify.com/track/1q05Sv46RtdjOhLME49EKW) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Impetu](https://open.spotify.com/album/5YxPMp28WpuaUx05fzK4F1) | 5:16 | 2021-04-09 |  |
-| [Inner Babylon](https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/7Mzsu0oVInnu9zOzVSBgK2) | 5:20 | 2021-01-27 |  |
+| [Inner Babylon](https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/7Mzsu0oVInnu9zOzVSBgK2) | 5:20 | 2021-01-27 | 2023-09-11 |
 | [Inner Babylon](https://open.spotify.com/track/3OQ3kWHotovS0RE3ZMgeNY) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/55Xi3WIyXMIUYPRRVboNQK) | 5:20 | 2021-01-27 | 2022-05-05 |
+| [Inner Babylon \- 10th Anniversary Remaster](https://open.spotify.com/track/4v9nCwprto0WudPm7Sugaz) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn \(10th Anniversary Remaster\)](https://open.spotify.com/album/6KPAS8bKufxqev7XFgg8ss) | 5:22 | 2021-01-27 |  |
 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 | 2021-01-27 |  |
 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 | 2021-01-27 |  |
 | [Just Call Me Nige](https://open.spotify.com/track/1acyO8D2JMAxZtxUohyFZy) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Mehliana: Taming the Dragon](https://open.spotify.com/album/7veyvtvK49ca1UMEEmZ00q) | 5:41 | 2021-01-27 |  |

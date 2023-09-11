@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sen Morimoto Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,033 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,086 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Catch the Rabbit](https://open.spotify.com/track/0kXdUHF4bnmJkrDvabbibq) | [Matt Rollings](https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu) | [Catch the Rabbit](https://open.spotify.com/album/2qGlkwyXv7fzkMnxEUx7xn) | 3:27 |
 | 75 | [Sweet Jasmine](https://open.spotify.com/track/1UJElgaArW1jL1dWX726z3) | [Zoe Rahman](https://open.spotify.com/artist/3OTQOoagPkd3Jst4VGeXKK) | [Colour of Sound](https://open.spotify.com/album/6UzXKdRElh4oQivnqEFS1P) | 4:49 |
 
-Snapshot ID: `MCwwMDUxYmMzZmVhNzFlYjdhYTI4NTZlNjMzMzZlOWEyNjg0ODJkZWNh`
+Snapshot ID: `MCw2MTE2ZjQxYWI4Y2E2ZDQ5MDNjYjhmODVkN2I4NzYzODkzOGFjOWNh`

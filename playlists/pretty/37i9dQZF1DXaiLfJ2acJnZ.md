@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,227 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,290 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 33 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 | 34 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 |
 | 35 | [I Could Be A Florist](https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 1:21 |
-| 36 | [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 |
-| 37 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
+| 36 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
+| 37 | [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 |
 | 38 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 |
 | 39 | [Here](https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Here](https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ) | 3:15 |
 | 40 | [live more & love more](https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [live more & love more](https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4) | 2:38 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 44 | [Want You Back](https://open.spotify.com/track/4ZGC3yb7ObpkN2rj3t7l9N) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:24 |
 | 45 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 |
 | 46 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
-| 47 | [Mama's Eyes](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [Mama's Eyes](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
+| 47 | [MAMA'S EYES](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MAMA'S EYES](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
 | 48 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
 | 49 | [Two Weeks Ago](https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:59 |
 | 50 | [Paradise Calling](https://open.spotify.com/track/2whqLIu4VLqZLfzfqs3AZa) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:06 |
@@ -65,23 +65,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 55 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 |
 | 56 | [Room Service](https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:46 |
 | 57 | [Are You Awake?](https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Are You Awake?](https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4) | 3:44 |
-| 58 | [MTJL \(Maybe That’s Just Life\)](https://open.spotify.com/track/0CS4oLIBzAwmR11rELQMXv) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [MTJL \(Maybe That’s Just Life\)](https://open.spotify.com/album/10I7V2DrdIx51MNlkgWj90) | 1:57 |
-| 59 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 |
+| 58 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 |
+| 59 | [MTJL \(Maybe That’s Just Life\)](https://open.spotify.com/track/0CS4oLIBzAwmR11rELQMXv) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [MTJL \(Maybe That’s Just Life\)](https://open.spotify.com/album/10I7V2DrdIx51MNlkgWj90) | 1:57 |
 | 60 | [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 |
 | 61 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 |
 | 62 | [Balance](https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Balance](https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn) | 3:34 |
 | 63 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
 | 64 | [Have Fun!](https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Have Fun!](https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq) | 4:30 |
-| 65 | [Sleep Tight](https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:38 |
-| 66 | [Hope](https://open.spotify.com/track/0cfq3yjm24XfxqcWzRjlQd) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [A Little Lost, A Little Found](https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg) | 3:02 |
+| 65 | [Hope](https://open.spotify.com/track/0cfq3yjm24XfxqcWzRjlQd) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [A Little Lost, A Little Found](https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg) | 3:02 |
+| 66 | [Sleep Tight](https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:38 |
 | 67 | [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 |
 | 68 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 |
 | 69 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
 | 70 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 |
 | 71 | [East End Coast](https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:46 |
 | 72 | [Amelia](https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:11 |
-| 73 | [Crash](https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Crash](https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt) | 2:39 |
-| 74 | [Popcorn and a Smoothie](https://open.spotify.com/track/217lMAhuyxm8Smz7OeSiJ7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Popcorn and a Smoothie](https://open.spotify.com/album/7FUQUeda9RYXI5invOQS5i) | 3:23 |
+| 73 | [Popcorn and a Smoothie](https://open.spotify.com/track/217lMAhuyxm8Smz7OeSiJ7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Popcorn and a Smoothie](https://open.spotify.com/album/7FUQUeda9RYXI5invOQS5i) | 3:23 |
+| 74 | [Crash](https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Crash](https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt) | 2:39 |
 | 75 | [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 |
 | 76 | [Forgiving Myself](https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Forgiving Myself](https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj) | 2:55 |
 | 77 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 |
 | 80 | [Grow](https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Grow](https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3) | 2:51 |
 
-Snapshot ID: `MCw1MjIxOGNhZTgyNWRjZWI2OWIzMWE0ZjVmNzc0MDNjYzI1ZDU3MWY3`
+Snapshot ID: `MCxiMjY4ODgxNWY3OGIzZjU5NDc1Mzg0MmI4ZTVjYjk5ZGQ4MGY2OWJj`

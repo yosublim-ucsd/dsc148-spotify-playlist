@@ -4,12 +4,13 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-715 songs - 1 day 18 hr 44 min
+716 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Steps to Heaven \- Recorded At RAK Studios, London](https://open.spotify.com/track/3njlvveQ6IQpqht2noJ6EF) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Things I'll Tell You Tomorrow \(Recorded At RAK Studios, London\)](https://open.spotify.com/album/0BFInXJKynLkiKugn15Cgt) | 4:00 | 2022-01-24 | 2022-04-20 |
 | [18th Floor \- Acoustic](https://open.spotify.com/track/1hMmSSLc6RWgm2ITJBAmFj) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [18th Floor \(Acoustic\)](https://open.spotify.com/album/1NXMg6b10tQDzcs7ZYhvim) | 3:36 | 2021-12-17 | 2022-07-29 |
+| [21 Days](https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:20 | 2023-09-08 |  |
 | [29 \#Strafford APTS](https://open.spotify.com/track/7wAEw2zU5ls6NvXdisz5DJ) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [95](https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Picture This](https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu) | 3:54 | 2022-01-24 | 2022-04-21 |
 | [A Little Bit Sorry](https://open.spotify.com/track/4bbUrvoJSfgg5MfbxOKzmp) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Little Bit Sorry](https://open.spotify.com/album/62CCZYIiLmNdlvGzc1BrxV) | 2:46 | 2021-12-17 | 2022-06-12 |
@@ -545,7 +546,7 @@
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2021-12-17 |  |
 | [She's Not Like That](https://open.spotify.com/track/3wsddzf4BEH997R6eX7YhD) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [12 Views Of Beatenberg](https://open.spotify.com/album/5qcY0XOZ3hk9iLOvACULpi) | 3:12 | 2021-12-17 | 2022-07-29 |
 | [Shower With My Clothes On](https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Shower With My Clothes On](https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA) | 3:04 | 2022-07-29 | 2022-11-14 |
-| [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2021-12-17 |  |
+| [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2021-12-17 | 2023-09-11 |
 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 | 2022-07-22 | 2023-08-06 |
 | [Silence \- Acoustic](https://open.spotify.com/track/55284O777DNiEDa9X1B6Tb) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/2JAEZaBeklU4xM4FqEFb00) | 3:41 | 2022-01-24 | 2022-04-21 |
 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 | 2022-01-24 | 2023-03-29 |

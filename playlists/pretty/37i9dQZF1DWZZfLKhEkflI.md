@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,415 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,438 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 40 | [Camouflage \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 4:25 |
 | 41 | [Decision \- Remastered 1999](https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Rollins](https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO) | 7:58 |
 | 42 | [Soulville \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 6:16 |
-| 43 | [Back To The Tracks](https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Back To The Tracks](https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE) | 8:03 |
-| 44 | [Soul Sister \- Rudy Van Gelder Edition/2004 Remaster](https://open.spotify.com/track/5haDMziNpWpocusp2aLR82) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Calling \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P) | 7:45 |
+| 43 | [Soul Sister \- Rudy Van Gelder Edition/2004 Remaster](https://open.spotify.com/track/5haDMziNpWpocusp2aLR82) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Calling \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P) | 7:45 |
+| 44 | [Back To The Tracks](https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Back To The Tracks](https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE) | 8:03 |
 | 45 | [Johnny's Blue](https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Like Someone In Love](https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9) | 9:12 |
 | 46 | [The Rake](https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Star Bright](https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9) | 6:07 |
 | 47 | [Here I Am \- Rudy Van Gelder Edition/Remastered 2003](https://open.spotify.com/track/7iu2Oae1eI295Ay086GNFt) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd In Hand](https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a) | 8:25 |
 | 48 | [Blues Up And Down](https://open.spotify.com/track/22IK0azgagib3S51e9AIOF) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 8:50 |
-| 49 | [Devilette](https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Clubhouse](https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo) | 7:05 |
-| 50 | [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 |
+| 49 | [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 |
+| 50 | [Devilette](https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Clubhouse](https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo) | 7:05 |
 | 51 | [East Of The Village \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 6:44 |
 | 52 | [These Are Soulful Days](https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 9:25 |
 | 53 | [The Champ](https://open.spotify.com/track/2LabSli3Hawqd8hq4N7IHp) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [A New Sound \- A New Star, Vol\. 2](https://open.spotify.com/album/0YbnuLEO8V39shvuHTDI5k) | 8:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [Preach Brother](https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 5:45 |
 | 75 | [Minor On Top \- Remastered 1997](https://open.spotify.com/track/5SQuscOp1pmVmd2TlYADpH) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [Motor City Scene](https://open.spotify.com/album/6LQkQG9nSDBZmRRDEdxKms) | 8:43 |
 
-Snapshot ID: `MCwzNDliZTM4NGVkODZhMGM0NGFhZWQxMDNhMTFhNGJmNTlmYzczNGY2`
+Snapshot ID: `MCxjODk1N2IzNDExMzYxYWI1ZWM1YmU2YWY0NmE5NjMwZjc2YzVkYTg5`

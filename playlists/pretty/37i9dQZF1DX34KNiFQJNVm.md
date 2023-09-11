@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Raí Saia Rodada e João Gomes, Iguinho e Lulinha, Sidoka, Olivia Rodrigo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915,619 likes - 96 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916,180 likes - 96 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [Infinito](https://open.spotify.com/track/20OG9zYTP6fIF7nVIYf2nP) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx) | [Infinito](https://open.spotify.com/album/7rouN2ggOFbB4cQCcOFA8j) | 2:33 |
 | 96 | [Quem vai apagar a luz](https://open.spotify.com/track/17o3WyVnuZB0YtvQ6zjNMG) | [Sophia Chablau e Uma Enorme Perda de Tempo](https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj), [Negro Leo](https://open.spotify.com/artist/6UKn12Sg5H3SyiFX5GalB6) | [Música do Esquecimento](https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb) | 2:39 |
 
-Snapshot ID: `MCw1ZDg5N2RiY2YzMTczMjkxNDM0NzYzNjYwMmE2YzY1YjBjNzgzMmZj`
+Snapshot ID: `MCw0YjM4NDA5MTRjOWYyZjQyN2JlNzQ2NWNlMjA1NGRkMTEyMzFmYjRj`

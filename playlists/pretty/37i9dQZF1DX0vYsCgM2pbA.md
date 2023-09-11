@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,450 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,613 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 47 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 |
 | 48 | [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [Good Life](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 |
 | 49 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
-| 50 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 |
-| 51 | [Love Language](https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:18 |
-| 52 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 |
-| 53 | [Perfect World](https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:38 |
-| 54 | [Sirena Deep](https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sirena Deep](https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl) | 5:41 |
-| 55 | [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 |
-| 56 | [Get To Know \(feat\. Winston Surfshirt\)](https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 4:03 |
-| 57 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 |
-| 58 | [OoooH](https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [OoooH](https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa) | 3:22 |
-| 59 | [Reflex \- from Le Palace, Paris](https://open.spotify.com/track/0TzACnLtCopbsE7A8cSq3O) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Reflex \- from Le Palace, Paris](https://open.spotify.com/album/4OLmlFr1RLVRDWBVB9hu4H) | 5:34 |
+| 50 | [Reflex \- from Le Palace, Paris](https://open.spotify.com/track/0TzACnLtCopbsE7A8cSq3O) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Reflex \- from Le Palace, Paris](https://open.spotify.com/album/4OLmlFr1RLVRDWBVB9hu4H) | 5:34 |
+| 51 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 |
+| 52 | [Love Language](https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:18 |
+| 53 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 |
+| 54 | [Perfect World](https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:38 |
+| 55 | [Sirena Deep](https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sirena Deep](https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl) | 5:41 |
+| 56 | [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 |
+| 57 | [Get To Know \(feat\. Winston Surfshirt\)](https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 4:03 |
+| 58 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 |
+| 59 | [OoooH](https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [OoooH](https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa) | 3:22 |
 | 60 | [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 |
 
-Snapshot ID: `MCwzNzZkMmE1MTExMjJmOTRkOTUyZTg0YWQ5NTUyNGZiNmNhZDE2N2Vm`
+Snapshot ID: `MCwxM2UxNmUyZTk3NDUyMmRmNGU2MTk0YjJjNzkzN2ViMmNhYzc2NjRj`

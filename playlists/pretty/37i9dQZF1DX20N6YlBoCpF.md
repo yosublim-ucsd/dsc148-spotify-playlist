@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR?si=xhqsEMvkSOGLmiT6ebA5gw">Marno van der Merwe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,004 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,050 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Net 'N Bietjie Tyd](https://open.spotify.com/track/2Edk4u9DDvSGpHo18sZtgx) | [Lila Swift](https://open.spotify.com/artist/3lDhZhZ9p1kjMRqzCpnMCo) | [Net 'N Bietjie Tyd](https://open.spotify.com/album/56vCY9k5aZrNhX8JrQIARF) | 3:51 |
 | 50 | [Die Bokmasjien](https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK) | [Leon Schuster](https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs) | [Die Bokmasjien](https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm) | 3:46 |
 
-Snapshot ID: `MCxjNDdhMDlkYzMxMWExNDYxNWU4NTk4OGMzODEyNjMyZTFiZGI5YWMw`
+Snapshot ID: `MCw0NTVlMmQ4OTE4NTExY2VkY2NkNTc0NTBlZTE5MTQ5NTMyNTExNmNj`

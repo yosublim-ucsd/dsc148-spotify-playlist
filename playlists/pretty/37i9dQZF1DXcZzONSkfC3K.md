@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,791 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,859 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 22 | [Tu Vida en la Mía](https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 6:14 |
 | 23 | [Esta Vida \(Salsa Version\)](https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Marlon](https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ) | [Esta Vida \(Salsa Version\)](https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY) | 3:43 |
 | 24 | [Casi un Hechizo](https://open.spotify.com/track/4hw32LMr5RoeKQl0Kvh20e) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis Favoritas](https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA) | 3:42 |
-| 25 | [El Rey De La Puntualidad](https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Qué Pide La Gente](https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0) | 6:42 |
-| 26 | [Señora De Madrugada](https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [A Mi Estilo...](https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf) | 5:49 |
+| 25 | [Señora De Madrugada](https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [A Mi Estilo...](https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf) | 5:49 |
+| 26 | [El Rey De La Puntualidad](https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Qué Pide La Gente](https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0) | 6:42 |
 | 27 | [El Menú](https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:12 |
 | 28 | [Cambio de Piel](https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:39 |
 | 29 | [Conciencia](https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 5:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 49 | [25 Rosas](https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 4:39 |
 | 50 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1OIfhmTXZWuKLibFKe5RFd) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz Gold](https://open.spotify.com/album/4I0GURNIly2aPl4KIqKDvU) | 4:55 |
 
-Snapshot ID: `MCw5ZmVhNzJiOTM2YjQzNjMwYjJkNzc4OWJlZGQ1ZTc2Njc4MjA1YWMw`
+Snapshot ID: `MCwzMDAyMTgzYzM5OTgyMmY4MzRjZTUyMDZiNjEyMjU4OTJmNTM1MjBi`

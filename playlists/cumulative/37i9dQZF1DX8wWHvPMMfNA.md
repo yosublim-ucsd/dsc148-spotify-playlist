@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-622 songs - 1 day 15 hr 58 min
+624 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [All The Things We Were](https://open.spotify.com/track/6052pnXvRCf5U70YC0XLF6) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [All The Things We Were](https://open.spotify.com/album/0noiiJAIqjOk9Yp1wcS155) | 4:31 | 2023-06-01 |  |
 | [All The Things You Are](https://open.spotify.com/track/3DEZOaXvDvRw8ESZE4RaHF) | [Upstage Trio](https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L) | [All The Things You Are](https://open.spotify.com/album/4mmZ3MBSlGakqDOhJspWEp) | 2:48 | 2023-06-01 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:31 | 2021-12-16 |  |
+| [Answer Me](https://open.spotify.com/track/2fTGteXpvwsNG8K83YyhRb) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [A Promise](https://open.spotify.com/album/1XgXxxdonnIbTNWF4SZ5nz) | 5:53 | 2023-09-08 |  |
 | [Anything Valuable](https://open.spotify.com/track/3CQ1gEocVfoT1qCm6jRs66) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Anything Valuable](https://open.spotify.com/album/5WmYl5Ty01xWXOGBFndMcu) | 3:00 | 2023-08-10 |  |
 | [April's Fooling No One](https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [April's Fooling No One](https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS) | 4:15 | 2023-06-01 |  |
 | [Arbitrary Love](https://open.spotify.com/track/4vhr8jvSyLmzWJxjjBvPRv) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Arbitrary Love](https://open.spotify.com/album/14cKYBGrd72kX0cxVceOAV) | 3:08 | 2023-08-10 | 2023-08-27 |
@@ -219,7 +220,7 @@
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-11-11 |  |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-06-01 |  |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 |  |
-| [I Cover The Waterfront](https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Gettin' Together!](https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB) | 4:05 | 2022-01-26 |  |
+| [I Cover The Waterfront](https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Gettin' Together!](https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB) | 4:05 | 2022-01-26 | 2023-09-11 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/5VQ5ZDPKpaqIcrgjgYkk8g) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Andrea Rea Trio](https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG), [Joe Rehmer](https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa), [Marcello Di Leonardo](https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU) | [Quiet Nights of Quiet Songs](https://open.spotify.com/album/371VzyXWti506VTodQfkf8) | 6:15 | 2022-09-08 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/1wnbi9NzQPBCobZ6OYCpqH) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 2:42 | 2021-12-16 | 2022-09-09 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:43 | 2021-12-16 | 2022-11-11 |
@@ -338,7 +339,7 @@
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-11-11 |  |
 | [Maia Oh Maia](https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Maia Oh Maia](https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ) | 3:55 | 2022-11-24 |  |
 | [Maid of the Mist](https://open.spotify.com/track/1VzGuLqOVD04gpXZxCDPiM) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Maid of the Mist](https://open.spotify.com/album/7ywB5P1IATCRF2oTqsWedW) | 2:24 | 2023-06-01 |  |
-| [Mama's Fish House](https://open.spotify.com/track/7Lg4ezQ23LtLQCF8ONnolW) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mama's Fish House](https://open.spotify.com/album/5dZVsBbztZsz7aydXjDHve) | 3:51 | 2023-08-10 |  |
+| [Mama's Fish House](https://open.spotify.com/track/7Lg4ezQ23LtLQCF8ONnolW) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mama's Fish House](https://open.spotify.com/album/5dZVsBbztZsz7aydXjDHve) | 3:51 | 2023-08-10 | 2023-09-11 |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-11-11 | 2023-02-24 |
 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 | 2023-04-27 |  |
 | [Maywood In My Heart](https://open.spotify.com/track/4nmm4RBqwy3rOwMELRrl5p) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Maywood In My Heart](https://open.spotify.com/album/6tROLpe9FmmzMgVdOIhocn) | 3:44 | 2023-06-01 |  |
@@ -560,6 +561,7 @@
 | [Think of refusing](https://open.spotify.com/track/0xczcAK509NavYmwkard4Q) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Think of refusing](https://open.spotify.com/album/2hy3Rx2lNsnIR3YL4csFFZ) | 3:51 | 2023-06-01 |  |
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-23 |  |
 | [This tape is good](https://open.spotify.com/track/07TfDT1EBdvlZ0yBwdiLkI) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This tape is good](https://open.spotify.com/album/7H56DNh2zsZbm0UR1Y2ODw) | 3:41 | 2023-06-01 |  |
+| [Thoughts Of You](https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Thoughts Of You](https://open.spotify.com/album/1qwTOSaVVrRVW4vBjjzbza) | 2:56 | 2023-09-08 |  |
 | [Three to Get Ready](https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:23 | 2021-12-16 | 2022-11-11 |
 | [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-06-01 |  |
 | [Till There Was You](https://open.spotify.com/track/2MTvxuqnAEzUctNDGGEIuu) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Gene Ammons Story: Gentle Jug](https://open.spotify.com/album/0CCKExA36huR4N871Qkszm) | 7:10 | 2022-06-29 | 2022-11-11 |

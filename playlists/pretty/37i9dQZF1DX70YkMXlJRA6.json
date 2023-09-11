@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 45777,
+  "num_followers": 45822,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5",
+  "snapshot_id": "MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -545,26 +545,6 @@
       "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
     },
     {
-      "added_at": "2022-11-12 17:24:45",
-      "album": {
-        "name": "Piedras del Sol",
-        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Piedras del Sol",
-      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
-    },
-    {
       "added_at": "2022-06-07 16:47:23",
       "album": {
         "name": "M\u00e9tele (Cesare Remix)",
@@ -583,6 +563,26 @@
       "duration_ms": 284023,
       "name": "M\u00e9tele - Cesare Remix",
       "url": "https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S"
+    },
+    {
+      "added_at": "2022-11-12 17:24:45",
+      "album": {
+        "name": "Piedras del Sol",
+        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Piedras del Sol",
+      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
+      },
+      "artists": [
+        {
+          "name": "Aceros del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Costa Para\u00edso",
+      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 183829,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
-      },
-      "artists": [
-        {
-          "name": "Aceros del Pac\u00edfico",
-          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Costa Para\u00edso",
-      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -759,6 +759,26 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Levante la Mano (Remixes)",
+        "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Levante la Mano (Tonga Conga Remix)",
+      "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "La Tercera Vision",
         "url": "https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 332142,
       "name": "Beat Cari",
       "url": "https://open.spotify.com/track/4m4rGSD65TJeFqeA4CGcCT"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Levante la Mano (Remixes)",
-        "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        },
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Levante la Mano (Tonga Conga Remix)",
-      "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
     },
     {
       "added_at": "2023-03-24 19:41:45",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Tamburo Infinito",
+        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Poso",
+          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "Futurista",
+      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Tamburo Infinito",
-        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
-      },
-      "artists": [
-        {
-          "name": "Gabriele Poso",
-          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "Futurista",
-      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
     },
     {
       "added_at": "2022-06-07 16:47:23",

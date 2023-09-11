@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-537 songs - 1 day 2 hr 50 min
+538 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,8 @@
 | [Ut med allt](https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ut med allt](https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE) | 2:21 | 2022-04-11 | 2022-07-08 |
 | [Vackert slut](https://open.spotify.com/track/63LXrDqdPVs0WfY6WzGF8r) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Vackert slut](https://open.spotify.com/album/6Fe2Kiuyiq9VgD9y9m96P5) | 2:52 | 2023-01-26 | 2023-02-10 |
 | [VAD E DE HÄR?](https://open.spotify.com/track/30wWZkgDfUCugZlBiaDCax) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [VAD E DE HÄR?](https://open.spotify.com/album/7c5UGlBUaND72lQ8lMesHv) | 2:41 | 2022-07-14 | 2022-08-17 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Vandraren](https://open.spotify.com/track/208L6npsyAKCgydKH9IX3k) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Vandraren](https://open.spotify.com/album/6gNxWsQvqHR1M98lOdRMqz) | 3:29 | 2022-12-09 | 2023-01-25 |
 | [Vandraren](https://open.spotify.com/track/6RM3nkmx7A6BRUpNkA6SCM) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Så mycket bättre 2022 \- Tolkningarna](https://open.spotify.com/album/20TlyZgpi1xGo3C4ECtG7h) | 3:29 | 2023-01-19 | 2023-02-25 |
 | [Varsomhelst/Närsomhelst \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/6CodyRtMuUIe8F7OvV7US9) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Varsomhelst/Närsomhelst \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/0ROZR11tK42lCB4dByJwU5) | 2:59 | 2021-12-16 | 2022-01-08 |

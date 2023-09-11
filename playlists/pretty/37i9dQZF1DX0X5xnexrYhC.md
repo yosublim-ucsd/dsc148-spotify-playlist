@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,379 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,494 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 79 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 |
 | 80 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
 
-Snapshot ID: `MCw2ZWQ1ZWNmNGUzMWE3OGFkY2FjMWQ3OTdkYzcwMzVjOWQ1OGUwZjc0`
+Snapshot ID: `MCwwYmY1ZTIyNzc5YWZlYmIzYjhjZjc0NzA4YmZkYjU2NTUxYjllNWYx`

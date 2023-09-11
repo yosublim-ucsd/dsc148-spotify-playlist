@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,880 likes - 80 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,007 likes - 80 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 36 | [She Puts Me In The Mood](https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Big Fun](https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV) | 3:34 |
 | 37 | [Kind Hearted Woman Blues](https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh) | 4:06 |
 | 38 | [The Moon is Rising](https://open.spotify.com/track/736frSQjibzIkMg2byvPoW) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:13 |
-| 39 | [Night Time Is the Right Time](https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:50 |
-| 40 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
+| 39 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
+| 40 | [Night Time Is the Right Time](https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:50 |
 | 41 | [Reap What You Sow](https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 4:55 |
 | 42 | [Lord I Just Can't Keep from Crying](https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx) | [Bror Gunnar Jansson](https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q) | [For Blind Willie](https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB) | 6:01 |
 | 43 | [Personal Manager](https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 4:28 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 64 | [Sweet Little Angel](https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 5:30 |
 | 65 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
 | 66 | [Here in the Delta](https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi) | [Jose Ramirez](https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm) | [Major League Blues](https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN) | 5:20 |
-| 67 | [Hoodoo Man](https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [Packing My Bags](https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb) | 4:54 |
-| 68 | [Empty Bed Blues \- Mono](https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:52 |
+| 67 | [Empty Bed Blues \- Mono](https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:52 |
+| 68 | [Hoodoo Man](https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [Packing My Bags](https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb) | 4:54 |
 | 69 | [Another Night to Cry](https://open.spotify.com/track/49awu7g0tzOjAL2dygxYbC) | [Blue Moon Marquee](https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1), [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Scream, Holler & Howl](https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ) | 5:53 |
 | 70 | [Last Night](https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw) | [Jantso Jokelin](https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA) | [Silver Lining](https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC) | 3:39 |
 | 71 | [Wish Her Well](https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB) | [Emma Wilson](https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2) | [Wish Her Well](https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c) | 4:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 79 | [Blues For Lonnie Johnson](https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Pure](https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB) | 4:53 |
 | 80 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 
-Snapshot ID: `MCxkYzFjZTc2ZGYzZjc2NzlkZTkxODZjNDc3ZGI5MzY5MzExMTNjYjMz`
+Snapshot ID: `MCxkYjE3MzMwOWU5YjY1ZmUyN2Y4ZWE5NDM3YzM1NGNmNjVhNDljY2Zl`

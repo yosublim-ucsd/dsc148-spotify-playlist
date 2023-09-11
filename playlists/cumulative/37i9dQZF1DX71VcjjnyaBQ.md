@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-182 songs - 15 hr 46 min
+183 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Abiyoyo](https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 3:24 | 2021-12-21 |  |
 | [Alfie](https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Alfie](https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o) | 6:37 | 2022-02-10 |  |
 | [Amelia](https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Amelia](https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3) | 7:02 | 2023-08-08 |  |
+| [An Ever Changing View](https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [An Ever Changing View](https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0) | 6:32 | 2023-09-08 |  |
 | [Anthem](https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:16 | 2022-04-28 |  |
 | [Arise](https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L) | [John Helliwell](https://open.spotify.com/artist/6mE9On5hMGVW1j369RtRYZ), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Hans Vroomans](https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb), [Marcel Serierse](https://open.spotify.com/artist/6MUwndQ1ENPiNY2I5XfAmX) | [Don't Ever Leave Me](https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb) | 7:17 | 2022-11-17 |  |
 | [As if We Were Just Friends](https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Reflections](https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF) | 6:54 | 2022-02-10 |  |
@@ -55,7 +56,7 @@
 | [End Of Summer](https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 3:55 | 2022-01-07 |  |
 | [Expansions](https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [The Shakedown](https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q) | 6:54 | 2022-06-30 | 2023-08-08 |
 | [Expansions](https://open.spotify.com/track/4kXTfxvuCkyV2f0IyCwCFP) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [The Shakedown](https://open.spotify.com/album/7MreUClNVIul1cGQNPipYU) | 6:54 | 2021-12-21 | 2022-07-28 |
-| [Fanølyng](https://open.spotify.com/track/6Brlcuqm8bgTTo5oongQqT) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:18 | 2022-06-30 |  |
+| [Fanølyng](https://open.spotify.com/track/6Brlcuqm8bgTTo5oongQqT) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:18 | 2022-06-30 | 2023-09-11 |
 | [Fanølyng](https://open.spotify.com/track/738PEBfX2XWfUG0ceTKQvT) | [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Fanølyng](https://open.spotify.com/album/1L6SNp76cpF2Ldkvje0Ldj) | 5:18 | 2022-03-10 | 2022-07-29 |
 | [First Day](https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s) | [James Kitchman](https://open.spotify.com/artist/53tiP49hLQv8D4a47sNLhW), [Bruno Heinen](https://open.spotify.com/artist/3ho0Fv00t64fgBVDl9Zgi7), [Tom McCredie](https://open.spotify.com/artist/5w5Nkr21IYe3eIaaIUcO2s), [Shane Forbes](https://open.spotify.com/artist/72uaHN9nH6VQvVaKoN62KB) | [First Quartet](https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ) | 4:50 | 2022-04-07 |  |
 | [Flotten](https://open.spotify.com/track/0Cni65EmkblPcDDM6f1Nwd) | [Tingvall Trio](https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M) | [Flotten](https://open.spotify.com/album/3OxWm6cNSa63awGmVV9WwU) | 4:48 | 2021-12-21 |  |

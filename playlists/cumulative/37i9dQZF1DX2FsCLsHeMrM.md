@@ -4,7 +4,7 @@
 
 > Gettin' figgy with it, bana\-na\-na\-nanana
 
-366 songs - 1 day 0 hr 5 min
+367 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [I'm In Love](https://open.spotify.com/track/5dJncwuLBGs1yun4yG3mIC) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Mary](https://open.spotify.com/album/4ypknDZM85vplzeVwQoxra) | 4:50 | 2023-02-10 |  |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-04-19 |  |
 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 | 2023-07-19 |  |
-| [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 | 2023-04-19 |  |
+| [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 | 2023-04-19 | 2023-09-11 |
+| [If You Don't Want My Love](https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 2:26 | 2023-04-19 |  |
 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 | 2021-11-10 | 2023-04-20 |
 | [In Heaven](https://open.spotify.com/track/0aLx2oyqTSgqeLGEoTIFP9) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Inside Voice](https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof) | 3:39 | 2023-04-19 |  |
 | [In Love \(Don't Mess Things Up\)](https://open.spotify.com/track/4SgWwPLqJ08Y1HuoIpFJX4) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 2:17 | 2023-04-19 |  |
@@ -216,7 +217,7 @@
 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 | 2021-11-10 | 2023-04-20 |
 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 | 2023-04-19 |  |
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2021-11-10 | 2022-08-03 |
-| [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2021-11-10 | 2023-09-10 |
+| [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2021-11-10 |  |
 | [Lowdown](https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 5:15 | 2021-11-10 |  |
 | [M.P.B.](https://open.spotify.com/track/0w4QlIOtXEJEPvftQo9VSe) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Conscience](https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W) | 3:58 | 2021-11-10 | 2023-04-20 |
 | [Madiba Riddim](https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:25 | 2021-11-10 |  |

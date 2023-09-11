@@ -1,12 +1,12 @@
 {
   "description": "Enjoy fantastic gameplay with k-pop music! (Cover: Blackpink)",
-  "num_followers": 60330,
+  "num_followers": 60616,
   "original_name": "K-Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWIzOTAyN2RhNjljNDFiNzFkYzFhNWViZjQ1ZGRhNjZhNjhiMzA2",
+  "snapshot_id": "MCxhNTMwZTA3NDkxOTdkZDk5ODExNDllYzFkOWJlMmViMWU3OWNmNjFj",
   "tracks": [
     {
       "added_at": "2023-08-25 05:08:37",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-25 05:08:37",
       "album": {
-        "name": "YOUTH IN THE SHADE",
-        "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 180988,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs"
-    },
-    {
-      "added_at": "2023-08-25 05:08:37",
-      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "added_at": "2023-08-25 05:08:37",
+      "album": {
+        "name": "YOUTH IN THE SHADE",
+        "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 180988,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs"
     },
     {
       "added_at": "2023-08-25 05:08:37",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-08-25 05:08:37",
       "album": {
-        "name": "BSS 1st Single Album 'SECOND WIND'",
-        "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
-      },
-      "artists": [
-        {
-          "name": "BSS",
-          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Fighting (Feat. Lee Young Ji)",
-      "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
-    },
-    {
-      "added_at": "2023-08-25 05:08:37",
-      "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
@@ -775,6 +755,22 @@
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+    },
+    {
+      "added_at": "2023-08-25 05:08:37",
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 202203,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+      "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
     },
     {
       "added_at": "2023-08-25 05:08:37",
@@ -795,18 +791,22 @@
     {
       "added_at": "2023-08-25 05:08:37",
       "album": {
-        "name": "The Chaos Chapter: FREEZE",
-        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+        "name": "BSS 1st Single Album 'SECOND WIND'",
+        "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "BSS",
+          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         }
       ],
-      "duration_ms": 202203,
-      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
-      "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
+      "duration_ms": 204466,
+      "name": "Fighting (Feat. Lee Young Ji)",
+      "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
     },
     {
       "added_at": "2023-08-25 05:08:37",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-08-25 05:08:37",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "LALISA",
-      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
-    },
-    {
-      "added_at": "2023-08-25 05:08:37",
-      "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 238143,
       "name": "Savage",
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
+    },
+    {
+      "added_at": "2023-08-25 05:08:37",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
     },
     {
       "added_at": "2023-08-25 05:08:37",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-25 05:08:37",
       "album": {
-        "name": "BORDER : DAY ONE",
-        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 183090,
-      "name": "Given-Taken",
-      "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
-    },
-    {
-      "added_at": "2023-08-25 05:08:37",
-      "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 221573,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+    },
+    {
+      "added_at": "2023-08-25 05:08:37",
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 183090,
+      "name": "Given-Taken",
+      "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
     },
     {
       "added_at": "2023-08-25 05:08:37",
@@ -1095,6 +1095,22 @@
       "duration_ms": 191038,
       "name": "Good Boy Gone Bad",
       "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+    },
+    {
+      "added_at": "2023-08-25 05:08:37",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
     },
     {
       "added_at": "2023-08-25 05:08:37",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-08-25 05:08:37",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
       },
       "artists": [
         {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
         }
       ],
-      "duration_ms": 178013,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
+      "duration_ms": 174840,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
     },
     {
       "added_at": "2023-08-25 05:08:37",
@@ -1191,22 +1207,6 @@
       "duration_ms": 180750,
       "name": "Future Perfect (Pass the MIC)",
       "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
-    },
-    {
-      "added_at": "2023-08-25 05:08:37",
-      "album": {
-        "name": "ZOOM",
-        "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "ZOOM",
-      "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
     },
     {
       "added_at": "2023-08-25 05:08:37",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-08-25 05:08:37",
       "album": {
+        "name": "Paint Me Naked - SM STATION",
+        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Paint Me Naked",
+      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
+    },
+    {
+      "added_at": "2023-08-25 05:08:37",
+      "album": {
         "name": "Not Shy",
         "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
-    },
-    {
-      "added_at": "2023-08-25 05:08:37",
-      "album": {
-        "name": "Paint Me Naked - SM STATION",
-        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
-      },
-      "artists": [
-        {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Paint Me Naked",
-      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
     },
     {
       "added_at": "2023-08-25 05:08:37",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-08-25 05:08:37",
       "album": {
-        "name": "GUESS WHO",
-        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+        "name": "Sour & Sweet",
+        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
         }
       ],
-      "duration_ms": 172373,
-      "name": "In the morning",
-      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
+      "duration_ms": 147680,
+      "name": "Sour & Sweet",
+      "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
     },
     {
       "added_at": "2023-08-25 05:08:37",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-25 05:08:37",
       "album": {
-        "name": "Sour & Sweet",
-        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
-      },
-      "artists": [
-        {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
-        }
-      ],
-      "duration_ms": 147680,
-      "name": "Sour & Sweet",
-      "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
-    },
-    {
-      "added_at": "2023-08-25 05:08:37",
-      "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+    },
+    {
+      "added_at": "2023-08-25 05:08:37",
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
     },
     {
       "added_at": "2023-08-25 05:08:37",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-08-25 05:08:37",
       "album": {
+        "name": "IT'z Different",
+        "url": "https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 199873,
+      "name": "DALLA DALLA",
+      "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
+    },
+    {
+      "added_at": "2023-08-25 05:08:37",
+      "album": {
         "name": "THE BADDEST",
         "url": "https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 162600,
       "name": "THE BADDEST",
       "url": "https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f"
-    },
-    {
-      "added_at": "2023-08-25 05:08:37",
-      "album": {
-        "name": "IT'z Different",
-        "url": "https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 199873,
-      "name": "DALLA DALLA",
-      "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
     },
     {
       "added_at": "2023-08-25 05:08:37",

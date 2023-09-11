@@ -4,7 +4,7 @@
 
 > Olivia Rodrigo is on top of the Hottest 50!
 
-968 songs - 2 day 3 hr 51 min
+969 songs - 2 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -897,7 +897,8 @@
 | [Up All Night](https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Up All Night](https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2) | 2:37 | 2019-11-17 | 2020-01-16 |
 | [Used To Be Young](https://open.spotify.com/track/0Nfh4u0J4bajcyp5pzaWCx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Used To Be Young](https://open.spotify.com/album/1Ev3d9zcHORaPdzCQnWFrA) | 3:11 | 2023-08-25 |  |
 | [Used To Love \(with Dean Lewis\)](https://open.spotify.com/track/7pWK1kMgHy5lNNiIfuRbkP) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Used To Love \(with Dean Lewis\)](https://open.spotify.com/album/3YD1qyD9KPFzzTK1UC1Gvo) | 3:56 | 2019-11-08 | 2019-12-13 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-06-10 | 2023-03-11 |
 | [Vete](https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vete](https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN) | 3:12 | 2019-11-29 | 2020-01-05 |
 | [Vibez](https://open.spotify.com/track/709F3MwiVvLD0LQXeKs5Cz) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Vibez](https://open.spotify.com/album/18VcdfV5jJVjn10mh0vOYt) | 2:43 | 2021-01-15 | 2021-02-06 |

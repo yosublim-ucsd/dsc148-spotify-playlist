@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Oladapo",
-  "num_followers": 213656,
+  "num_followers": 213741,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTkzMDBjMzNjYzNkODVhYmZlNjBiODcxOGM5MDA2OGE0YjU3MDYz",
+  "snapshot_id": "MCwyNWU1MTBlMmY0OTE4MWMxMzk1YWFlMzQ4MWU4MTRlMTA2NTZlNTg4",
   "tracks": [
     {
       "added_at": "2023-09-08 06:05:57",
@@ -811,18 +811,22 @@
     {
       "added_at": "2023-09-08 06:05:57",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+        "name": "Carry Me Go",
+        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
         }
       ],
-      "duration_ms": 183349,
-      "name": "All Of Us (Ashawo)",
-      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+      "duration_ms": 136464,
+      "name": "Carry Me Go",
+      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
       "added_at": "2023-09-08 06:05:57",
@@ -843,22 +847,18 @@
     {
       "added_at": "2023-09-08 06:05:57",
       "album": {
-        "name": "Carry Me Go",
-        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 136464,
-      "name": "Carry Me Go",
-      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+      "duration_ms": 183349,
+      "name": "All Of Us (Ashawo)",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
     },
     {
       "added_at": "2023-09-08 06:05:57",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-09-08 06:05:57",
       "album": {
-        "name": "Ogaranya",
-        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 168610,
-      "name": "Ogaranya",
-      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2023-09-08 06:05:57",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-09-08 06:05:57",
       "album": {
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+    },
+    {
+      "added_at": "2023-09-08 06:05:57",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -991,38 +1007,6 @@
       "duration_ms": 262973,
       "name": "Blessed (feat. Damian Marley)",
       "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
-    },
-    {
-      "added_at": "2023-09-08 06:05:57",
-      "album": {
-        "name": "AWAY",
-        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "AWAY",
-      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
-    },
-    {
-      "added_at": "2023-09-08 06:05:57",
-      "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2023-09-08 06:05:57",
@@ -1063,6 +1047,38 @@
     {
       "added_at": "2023-09-08 06:05:57",
       "album": {
+        "name": "AWAY",
+        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "AWAY",
+      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
+    },
+    {
+      "added_at": "2023-09-08 06:05:57",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Coming Back For You",
+      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
+    },
+    {
+      "added_at": "2023-09-08 06:05:57",
+      "album": {
         "name": "I Wish (feat. Libianca)",
         "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 163813,
       "name": "I Wish (feat. Libianca)",
       "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
-    },
-    {
-      "added_at": "2023-09-08 06:05:57",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Coming Back For You",
-      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
     },
     {
       "added_at": "2023-09-08 06:05:57",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-09-08 06:05:57",
       "album": {
-        "name": "Colors (My Baby) / Loyal",
-        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 164240,
-      "name": "Colors (My Baby)",
-      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
-    },
-    {
-      "added_at": "2023-09-08 06:05:57",
-      "album": {
         "name": "Folake",
         "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 168979,
       "name": "Folake",
       "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
+    },
+    {
+      "added_at": "2023-09-08 06:05:57",
+      "album": {
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     },
     {
       "added_at": "2023-09-08 06:05:57",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-09-08 06:05:57",
       "album": {
-        "name": "Someone",
-        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 157722,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
-    },
-    {
-      "added_at": "2023-09-08 06:05:57",
-      "album": {
         "name": "Bad Since '97",
         "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 170097,
       "name": "Pheelz Like Summer",
       "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
+    },
+    {
+      "added_at": "2023-09-08 06:05:57",
+      "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 157722,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
     },
     {
       "added_at": "2023-09-08 06:05:57",

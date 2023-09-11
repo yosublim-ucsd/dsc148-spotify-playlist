@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,453 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,595 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 56 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 | 57 | [Diggin A Grave](https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Micah P\. Hinson and the Opera Circuit](https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z) | 2:05 |
 | 58 | [Gallows Pole](https://open.spotify.com/track/5L1BHZ2uApRTpP95yGykjv) | [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Folksinger Vol\. 2](https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb) | 4:06 |
-| 59 | [Too Dry To Cry](https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL) | [Willis Earl Beal](https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC) | [Nobody knows.](https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2) | 4:39 |
-| 60 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
-| 61 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
+| 59 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
+| 60 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
+| 61 | [Too Dry To Cry](https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL) | [Willis Earl Beal](https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC) | [Nobody knows.](https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2) | 4:39 |
 | 62 | [Herd](https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe) | [O'Death](https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O) | [Out Of Hands We Go](https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr) | 3:53 |
 | 63 | [Canary](https://open.spotify.com/track/0CTwMHxWBYOcuA2K02qcOf) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 64 | [Trouble](https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr) | [Bellstop](https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o) | [Karma](https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90) | 3:43 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 82 | [Fire in the Empire](https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Empire](https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d) | 3:37 |
 | 83 | [Long Time Travelin'](https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ) | 1:28 |
 | 84 | [Get What You Give](https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [By The Rule](https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T) | 3:10 |
-| 85 | [Filthy Dirty South](https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ) | 5:46 |
-| 86 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
+| 85 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
+| 86 | [Filthy Dirty South](https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ) | 5:46 |
 | 87 | [Sister Death](https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH) | [Look Homeward](https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH) | [Look Homeward](https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt) | 2:53 |
 | 88 | [Bless Your Soul](https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bless Your Soul](https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB) | 3:32 |
 | 89 | [Boy Got It Bad](https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Heatstroke/The Wind and the War](https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 99 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 |
 | 100 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
 
-Snapshot ID: `MCwwNGZhODU3YzhjY2Q1Mzc1ZTM2YWZiNWIzYmVmNTBlMTg0ZjU2OTg2`
+Snapshot ID: `MCwxNmM2MmU3MzY0OTI5NmRmZWM5MWVhYzQwOGMwZGUyNzNlNDExOTI0`

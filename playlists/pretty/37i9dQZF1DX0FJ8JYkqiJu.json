@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 381252,
+  "num_followers": 381348,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2E5ZWQxY2FkNjg0YjY4NjI3Mjg4MGUyZmNkOGNhMWNlYTJhZTcx",
+  "snapshot_id": "MCwyZmQxYmQ4ODQ5NTg3MzkyZGVkNzA1ZDQ2MTY4NTliYWQ5NTRkZmNm",
   "tracks": [
     {
       "added_at": "2023-09-07 14:00:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
@@ -423,6 +403,26 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
         "name": "All I've Ever Known",
         "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
       },
@@ -435,38 +435,6 @@
       "duration_ms": 218000,
       "name": "All I've Ever Known",
       "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "TRAVELIN'",
-        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
-      },
-      "artists": [
-        {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "TRAVELIN'",
-      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -495,18 +463,34 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+        "name": "TRAVELIN'",
+        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
         }
       ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
+      "duration_ms": 217846,
+      "name": "TRAVELIN'",
+      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -523,6 +507,22 @@
       "duration_ms": 198813,
       "name": "Flipside",
       "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
       },
@@ -635,26 +651,6 @@
       "duration_ms": 248432,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "If Love Is A Skill & Georgia",
-        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 217708,
-      "name": "If Love Is A Skill",
-      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -675,22 +671,6 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "If Love Is A Skill & Georgia",
+        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 217708,
+      "name": "If Love Is A Skill",
+      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -783,42 +783,6 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "Back In Love",
-        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Back In Love",
-      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
         "name": "Light Of Day",
         "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
       },
@@ -839,18 +803,58 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
+        "name": "Back In Love",
+        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
       },
       "artists": [
         {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 172319,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
+      "duration_ms": 281253,
+      "name": "Back In Love",
+      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "Kahan (last year)",
+        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Kahan (last year)",
+      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -879,22 +883,18 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Kahan (last year)",
-        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Kahan (last year)",
-      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+      "duration_ms": 172319,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "can you see me?",
-        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 197994,
-      "name": "can you see me?",
-      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 251694,
       "name": "Healing",
       "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "can you see me?",
+        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 197994,
+      "name": "can you see me?",
+      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 197150,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
         "name": "A Different Path",
         "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 135600,
       "name": "A Different Path",
       "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 197150,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
         "name": "Shapes",
         "url": "https://open.spotify.com/album/1YLn7DOkqIlDBbszOhPgA3"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 140963,
       "name": "Shapes",
       "url": "https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
         "name": "All the Good Times Never Die",
         "url": "https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL"
       },
@@ -1227,6 +1211,26 @@
       "duration_ms": 188800,
       "name": "All the Good Times Never Die",
       "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "Making Time",
+        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 271025,
+      "name": "Making Time",
+      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Making Time",
-        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 271025,
-      "name": "Making Time",
-      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
+      "duration_ms": 207627,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
     },
     {
       "added_at": "2023-09-07 14:00:00",

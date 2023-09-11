@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Soul Glo
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,304 likes - 102 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,382 likes - 102 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 20 | [Knife in the Dirt](https://open.spotify.com/track/4rY2Go6E34ZI09LX21Ko3v) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Knife in the Dirt](https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj) | 3:32 |
 | 21 | [Silent Wolf](https://open.spotify.com/track/6gl6fnNnVnf8tenvR8OHqh) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Silent Wolf](https://open.spotify.com/album/6jkHJnpzgsw7oqHVqDA5zY) | 2:45 |
 | 22 | [Vie](https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w) | [Fury](https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0) | [Vie](https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO) | 3:48 |
-| 23 | [Under My Skin](https://open.spotify.com/track/31b42JpcNCgM1AV3l7Ixje) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/3YjB0HnU6qIJIvyxxGovGo) | 2:52 |
+| 23 | [Under My Skin](https://open.spotify.com/track/6ZnFZBuuLMTiBYx4Lx3gMU) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Not Through Blood](https://open.spotify.com/album/72qCyvqc1Spr8Vwx97NTTA) | 2:52 |
 | 24 | [Grave Dive](https://open.spotify.com/track/0NAF4ywlrLdqUZMJRT23od) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:31 |
 | 25 | [Relic of Damnation](https://open.spotify.com/track/0etLulfmYxPOTyznvesnt6) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 2:27 |
 | 26 | [Sink In](https://open.spotify.com/track/3gtyrM3EjX5zly1EfFg2FA) | [Playytime](https://open.spotify.com/artist/37YG1k18DuWDs5fvr7oeH4) | [The Fun Never Ends](https://open.spotify.com/album/53KgNl5d5ff9Md1lfzj6gz) | 2:13 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 101 | [In the Moment](https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/4pXxLjtlUMzHYYw7axn5Ez) | 2:40 |
 | 102 | [One Shot](https://open.spotify.com/track/0IRL0HGFCkMR253ZTRuYjd) | [Bitterwood](https://open.spotify.com/artist/3s3MeH5JMG6o4ofQD1RMdS) | [One Shot](https://open.spotify.com/album/7zjQLinDFBxVITU5Y2XWfm) | 2:01 |
 
-Snapshot ID: `MCxjZjU0MjhkNDFkNmNjMWNjMDU1NGE4MzhmMjQ5ZTk2Zjg1ZDViMjBh`
+Snapshot ID: `MCw2MjRlMmNjMDVlMWZhN2I4NWMwMWRhZGZjZDQ4ZWY4MTRhYjFhYjc5`

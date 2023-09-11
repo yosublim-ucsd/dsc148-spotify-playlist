@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-641 songs - 1 day 8 hr 40 min
+642 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Are You Mine](https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn) | [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7), [Rakan](https://open.spotify.com/artist/5lzSBbiehAGDkNqhH3Ishd) | [Are You Mine](https://open.spotify.com/album/3qBbXUvA3V4814pbJh08sF) | 3:29 | 2022-01-14 | 2022-07-30 |
 | [Are You With Me](https://open.spotify.com/track/39QlSLkqq5shnpAXchT9sI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me](https://open.spotify.com/album/63zsZVaIMUW10wP6QanS42) | 2:18 | 2022-01-14 | 2022-04-19 |
 | [Awa Ni](https://open.spotify.com/track/4ob71GMH7PAokRzPhejagR) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Awa Ni](https://open.spotify.com/album/0JcasIRv6rbQG0Bb98o7In) | 3:39 | 2022-01-14 | 2022-05-07 |
+| [Away](https://open.spotify.com/track/2bPP8qC8YUkvTxloHEttEw) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Away](https://open.spotify.com/album/19ElrpjyvrjR7J3fefSZkt) | 2:14 | 2023-08-25 |  |
 | [Away](https://open.spotify.com/track/3oNycDho9rJAMHma0XC6kT) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Away](https://open.spotify.com/album/7aGnO45kEvux1ShpP7Lh76) | 2:14 | 2022-11-18 | 2023-07-27 |
 | [Baby](https://open.spotify.com/track/1bA2ZK7CFxEMnyn1dWP2jp) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baby](https://open.spotify.com/album/73S00PIhiseZOiQpgol0fK) | 2:40 | 2022-01-14 | 2022-04-21 |
 | [Backyard Stories](https://open.spotify.com/track/1CbkCuHtCVfLSdvztsQVVJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Backyard Stories — Summer Forever](https://open.spotify.com/album/2H4326zTOaXXdJ5h61biES) | 3:06 | 2022-04-01 | 2022-07-29 |
@@ -645,7 +646,7 @@
 | [You Are A Traveler](https://open.spotify.com/track/0WYyQGmQy979roTvrVwlTb) | [Tidal Waves](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Luca Aprile](https://open.spotify.com/artist/149gSkst4bm3PyT2CR7lht) | [You Are A Traveler](https://open.spotify.com/album/4PUk9aHXSLwTdxKjICqBxj) | 3:02 | 2022-01-14 |  |
 | [You Got Me](https://open.spotify.com/track/6qyyrqYMmouTVr1p8jDLM1) | [Lonely Night](https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx), [Nody](https://open.spotify.com/artist/2SntfW96QEEwMEGO2Ns61z), [Ellou](https://open.spotify.com/artist/5DtAmwUDq3xbaWecjPBeSy), [Ari](https://open.spotify.com/artist/0V1Q4k9X1xSKiF9JVzRof1) | [You Got Me](https://open.spotify.com/album/0g3YrJPE80q2FMB2EGyHTY) | 2:45 | 2022-11-11 | 2023-05-28 |
 | [You Got The Love](https://open.spotify.com/track/5lcJJ2GAzXeci2r2xMY8A8) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Coral Reef](https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr) | [You Got The Love](https://open.spotify.com/album/3UKKGVYi4CzMejmkHNs9tx) | 3:39 | 2022-06-03 |  |
-| [You'll Be Fine](https://open.spotify.com/track/6XakZY8dpvFsecV1qJ4DLL) | [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa), [ELSKA](https://open.spotify.com/artist/19GrDxe2EKSgGiYmztcHha) | [You’ll Be Fine](https://open.spotify.com/album/6AU7mNhHoYRY1zUZA6qDHe) | 2:10 | 2023-02-10 |  |
+| [You'll Be Fine](https://open.spotify.com/track/6XakZY8dpvFsecV1qJ4DLL) | [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa), [ELSKA](https://open.spotify.com/artist/19GrDxe2EKSgGiYmztcHha) | [You’ll Be Fine](https://open.spotify.com/album/6AU7mNhHoYRY1zUZA6qDHe) | 2:10 | 2023-02-10 | 2023-09-11 |
 | [Young Folks](https://open.spotify.com/track/1ZbnlbHcFW9UQLOEsem7cW) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [BNHM](https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N), [Levka Rey](https://open.spotify.com/artist/6jaX71Jjhu6nfYVdaPTJYi) | [Young Folks](https://open.spotify.com/album/2Bkg3j2UVTek8CephLWRfL) | 2:41 | 2022-05-27 |  |
 | [Younger \- Kygo Remix](https://open.spotify.com/track/7vHshinTU8161w69EPbabY) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 5:51 | 2022-01-14 | 2022-04-21 |
 | [Your Way](https://open.spotify.com/track/4xhaSm2xWAebv2TuJ79uk7) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Tropical Fairytale](https://open.spotify.com/artist/0viQiu9whoGSMkX0fF0kob) | [Beach House](https://open.spotify.com/album/4HVVC70ITUZGyvGEs8XGDd) | 2:28 | 2023-01-20 | 2023-08-07 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: AI
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,110 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,113 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Life Goes On](https://open.spotify.com/track/1HDS0yf0VtFpMhS0qEyP4H) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [RESPECT ALL](https://open.spotify.com/album/2yEGTWb8SrvhEopxI5vwpy) | 5:30 |
 | 2 | [Bad Bitch Bigaku Remix](https://open.spotify.com/track/7HBhfTW2zcldEs0qsXuvT2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [United Queens](https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr) | 6:09 |
 | 3 | [WORLD DANCE](https://open.spotify.com/track/165pjCVXQTcjL6lQKXPBje) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [RESPECT ALL](https://open.spotify.com/album/2yEGTWb8SrvhEopxI5vwpy) | 3:41 |
-| 4 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [X&G](https://open.spotify.com/artist/0J8vnuLl37meRjZttkpCBP) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
+| 4 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 5 | [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 |
 | 6 | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [Remi Matsuo](https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7) | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2) | 4:59 |
 | 7 | [楽しい蹴伸び](https://open.spotify.com/track/4tWlxWsrnxmeBLjxQaPflR) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp), [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [echo](https://open.spotify.com/album/2nb3EJIfouOFj5gQ624sAf) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Wonder Woman](https://open.spotify.com/track/3irp6WdpBLseu6ENO00XEi) | [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [Anna Tsuchiya](https://open.spotify.com/artist/1XTqQwcJw9D1bo0cuO8Oq2) | [Checkmate!](https://open.spotify.com/album/4NTDsMDwgwjJ8mRLVkpPpk) | 3:09 |
 | 50 | [Fighter](https://open.spotify.com/track/5IfISpdRTvRFKf8mGTJ0Z7) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F), [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [Fighter](https://open.spotify.com/album/2RXBuuFIINhwrOOkBQCaFJ) | 4:59 |
 
-Snapshot ID: `MCw1ZTM5ODJlNDQ5NTU0NGJiMTMxNjQ2NTNlNGE2NTNhMjgwZWU0MzFm`
+Snapshot ID: `MCxkYTAzMTVmOTNhMGQwMzMzYmZjZDE1MDc4MjU3NmE3ZWYxMmEyMDE1`

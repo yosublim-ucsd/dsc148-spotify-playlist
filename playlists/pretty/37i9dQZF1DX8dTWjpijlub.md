@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 
 > The champs are here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,957 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,354 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 | 30 | [Count Me Out](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:43 |
 | 31 | [BOP](https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:39 |
 | 32 | [Go Stupid](https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:45 |
-| 33 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |
-| 34 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 |
+| 33 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 |
+| 34 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |
 | 35 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 |
 | 36 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
 | 37 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 | 49 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 50 | [Man Of The Year](https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 3:36 |
 
-Snapshot ID: `MCw3NGU3YzY0MTc1MjY4YWIzOGVmOThjYmViZGMwOTJlMTYxNTc2ZTNm`
+Snapshot ID: `MCxmZGYwOWVkOGZkNDg0MjAxMzBjYzgwZGJkY2ViODRkOTQ0OWMxZmFm`

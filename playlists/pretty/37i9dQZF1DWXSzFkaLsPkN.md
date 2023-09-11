@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- The Yellow Diary
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,326 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,366 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 43 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 |
 | 44 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 |
 | 45 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 |
-| 46 | [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Kashi Kashyap](https://open.spotify.com/artist/0QbL0Gj9Jbt9UrLUdhPDP9) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 |
-| 47 | [KTMBK](https://open.spotify.com/track/1XmoGNf6OVs6N251UejkbN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [KTMBK](https://open.spotify.com/album/2KH6uB4BxcBqcBfZ5Rh7Pr) | 2:34 |
+| 46 | [KTMBK](https://open.spotify.com/track/1XmoGNf6OVs6N251UejkbN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [KTMBK](https://open.spotify.com/album/2KH6uB4BxcBqcBfZ5Rh7Pr) | 2:34 |
+| 47 | [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Kashi Kashyap](https://open.spotify.com/artist/0QbL0Gj9Jbt9UrLUdhPDP9) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 |
 | 48 | [Tinka](https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Tinka](https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP) | 3:19 |
 | 49 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 |
 | 50 | [Saara Jahaan](https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saara Jahaan](https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV) | 2:37 |
 | 51 | [Kaisi Jadugari](https://open.spotify.com/track/6gkf7KZtpXHSRDuAyIkEMA) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kaisi Jadugari](https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL) | 4:27 |
 | 52 | [Parda](https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6) | 3:12 |
 | 53 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
-| 54 | [Enna Sona](https://open.spotify.com/track/3FZBGD1Dosgw8hsTtrDmTn) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Enna Sona](https://open.spotify.com/album/3EScBmh7oNVeBFJwgc3QBp) | 2:36 |
-| 55 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 |
+| 54 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 |
+| 55 | [Enna Sona](https://open.spotify.com/track/3FZBGD1Dosgw8hsTtrDmTn) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Enna Sona](https://open.spotify.com/album/3EScBmh7oNVeBFJwgc3QBp) | 2:36 |
 | 56 | [Ghoome](https://open.spotify.com/track/2S8g6nlwCih4u4GAn14GqE) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Ghoome](https://open.spotify.com/album/4u73oMykwBdkhBuJ9ufJjT) | 2:49 |
 | 57 | [Doobay](https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:15 |
 | 58 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 74 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
 | 75 | [Shehron Ke Raaz](https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As) | 2:32 |
 
-Snapshot ID: `MCwyMjI1MzdmY2Q0YmMxNDUxOWJlYzhhN2YwMDRmNWQ5MTU3ZDRjOTkz`
+Snapshot ID: `MCw4NDAyNDM4N2VkOGJiYzI4OTg2NzhmNjEyZDBjMTE1YTM0ZWYyNjM0`

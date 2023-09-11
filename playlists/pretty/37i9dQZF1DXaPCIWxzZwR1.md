@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,278,451 likes - 103 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,787 likes - 103 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 31 | [over my ex](https://open.spotify.com/track/2JWC7a6oGu7OHDVpOaRrLW) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [over my ex](https://open.spotify.com/album/2UtEAEUx3RaKL1TRKe5asi) | 2:26 |
 | 32 | [Quarter Life Crisis](https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis](https://open.spotify.com/album/5bTGBed0FKungdHiISflgl) | 3:03 |
 | 33 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 |
-| 34 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [X&G](https://open.spotify.com/artist/0J8vnuLl37meRjZttkpCBP) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
+| 34 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 35 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 |
 | 36 | [VVVIP](https://open.spotify.com/track/26agBJcbp1YO4vdPSFGNTm) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [VVVIP](https://open.spotify.com/album/67CI179Y7YKuk8UbITBTKi) | 1:23 |
-| 37 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 37 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 38 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 39 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 |
 | 40 | [Love Like This](https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Love Like This](https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7) | 2:53 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 102 | [Pretty In The Dark](https://open.spotify.com/track/3iuk1CB6yWPZDQ08WVOUjB) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Pretty In The Dark](https://open.spotify.com/album/3rH35zsxg2ppSufxr57UPw) | 2:56 |
 | 103 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 |
 
-Snapshot ID: `MCxjODNjMmI4OTRjMjQ4YTkyNzRjNGI3NDgxM2I2YWRlMmY4NGE2MDRl`
+Snapshot ID: `MCxhOWIxOWVmZTI1YmM1MDI5ZDYyN2Y4OTk5ZmRhZWMwNTY5YjgwMjJi`

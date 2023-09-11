@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 261957,
+  "num_followers": 261986,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGQyMmNhMzNjZjdiZTc0NzBhOGI4MmVjZjA4ODI0OWM0ZmIwZWYx",
+  "snapshot_id": "MCxhNDVmOWQ4OTk0ZGQ4YTViY2Q0NzdlOGNlNDUxZmJkZTg0ZDMwZGI0",
   "tracks": [
     {
       "added_at": "2023-09-08 12:08:03",
@@ -615,22 +615,18 @@
     {
       "added_at": "2023-09-08 12:08:03",
       "album": {
-        "name": "Dije Que No Me Iba a Enamorar",
-        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
+        "name": "23",
+        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 206146,
-      "name": "El Bolero",
-      "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
+      "duration_ms": 187605,
+      "name": "23",
+      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
     },
     {
       "added_at": "2023-09-08 12:08:03",
@@ -675,18 +671,22 @@
     {
       "added_at": "2023-09-08 12:08:03",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
+        "name": "Dije Que No Me Iba a Enamorar",
+        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 187605,
-      "name": "23",
-      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
+      "duration_ms": 206146,
+      "name": "El Bolero",
+      "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
     },
     {
       "added_at": "2023-09-08 12:08:03",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-08 12:08:03",
       "album": {
-        "name": "Sin Gato (MIAU!)",
-        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Sin Gato (MIAU!)",
-      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
-    },
-    {
-      "added_at": "2023-09-08 12:08:03",
-      "album": {
         "name": "ser humano",
         "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 199384,
       "name": "plan",
       "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
+    },
+    {
+      "added_at": "2023-09-08 12:08:03",
+      "album": {
+        "name": "Sin Gato (MIAU!)",
+        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Sin Gato (MIAU!)",
+      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2023-09-08 12:08:03",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-08 12:08:03",
       "album": {
-        "name": "The Loveliest Time",
-        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 256528,
-      "name": "Kollage",
-      "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
-    },
-    {
-      "added_at": "2023-09-08 12:08:03",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "added_at": "2023-09-08 12:08:03",
+      "album": {
+        "name": "The Loveliest Time",
+        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 256528,
+      "name": "Kollage",
+      "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
     },
     {
       "added_at": "2023-09-08 12:08:03",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-09-08 12:08:03",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
+    },
+    {
+      "added_at": "2023-09-08 12:08:03",
+      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
-    },
-    {
-      "added_at": "2023-09-08 12:08:03",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "Yegua",
-      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
     },
     {
       "added_at": "2023-09-08 12:08:03",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-08 12:08:03",
       "album": {
-        "name": "ANTAGONISTA",
-        "url": "https://open.spotify.com/album/7ofQ6GsdNL01Kki0GVaNrZ"
-      },
-      "artists": [
-        {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "ANTAGONISTA",
-      "url": "https://open.spotify.com/track/25MXhQD6t6jkWhYcuGBcjt"
-    },
-    {
-      "added_at": "2023-09-08 12:08:03",
-      "album": {
         "name": "Ojos Noche (feat. Carla Morrison)",
         "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 254929,
       "name": "Ojos Noche (feat. Carla Morrison)",
       "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
+    },
+    {
+      "added_at": "2023-09-08 12:08:03",
+      "album": {
+        "name": "ANTAGONISTA",
+        "url": "https://open.spotify.com/album/7ofQ6GsdNL01Kki0GVaNrZ"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        }
+      ],
+      "duration_ms": 132600,
+      "name": "ANTAGONISTA",
+      "url": "https://open.spotify.com/track/25MXhQD6t6jkWhYcuGBcjt"
     },
     {
       "added_at": "2023-09-08 12:08:03",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-09-08 12:08:03",
       "album": {
-        "name": "INTENSIDAD",
-        "url": "https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "INTENSIDAD",
-      "url": "https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ"
-    },
-    {
-      "added_at": "2023-09-08 12:08:03",
-      "album": {
         "name": "Yo No Te Pido la Luna",
         "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 171153,
       "name": "Yo No Te Pido la Luna",
       "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
+    },
+    {
+      "added_at": "2023-09-08 12:08:03",
+      "album": {
+        "name": "INTENSIDAD",
+        "url": "https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "INTENSIDAD",
+      "url": "https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ"
     },
     {
       "added_at": "2023-09-08 12:08:03",

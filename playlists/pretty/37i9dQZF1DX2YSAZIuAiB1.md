@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Bringt dir good vibes + Sonne 😎😎😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,755 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,810 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
 | 75 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 
-Snapshot ID: `MCw4ZTQxMDdjZThlMmI0NjUyYWI5NmI5NmUzYTkyZTdmYWQwZWQ4M2Iy`
+Snapshot ID: `MCw2YTUzZDU1NDg1NTIwN2Y1MGY3OGY1YmZkNDRmYjgwMmFlZTBiNThm`

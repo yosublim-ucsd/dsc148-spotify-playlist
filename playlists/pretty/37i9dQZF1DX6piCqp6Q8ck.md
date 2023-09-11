@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,111 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,109 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 28 | [All I Want For Christmas Is You](https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Song Society Playlist](https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX) | 4:13 |
 | 29 | [Mary's Boy Child](https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Jazzy Christmas Celebration](https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP) | 2:06 |
 | 30 | [\(It Must've Been Ol'\) Santa Claus](https://open.spotify.com/track/54G7kjF8wbQAwG3WGmP6Ji) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 4:36 |
-| 31 | [Silver Bells](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 |
+| 31 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 |
 | 32 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/4QFV8KtVhzDsDvNcH4sUkr) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:18 |
 | 33 | [Christmas Night In Harlem \- Single Version](https://open.spotify.com/track/7vev9Pk7OHfsrhn4eH6BWF) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:39 |
-| 34 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 |
+| 34 | [Silver Bells](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 |
 | 35 | [Here We Come A\-Caroling](https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Here We Come A\-Caroling](https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t) | 1:08 |
 | 36 | [Diddly Squat](https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:05 |
 | 37 | [Show Me The Magic](https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Show Me The Magic](https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq) | 2:30 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 60 | [Christmas Waltz \- Live](https://open.spotify.com/track/0EtRMZ87ocVPNElTsigWtJ) | [David Benoit Trio](https://open.spotify.com/artist/5NxxiI9sRWMIQlDDrnxhvJ), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Believe](https://open.spotify.com/album/3in4JMLDU4UAflQrIpyt16) | 3:56 |
 | 61 | [Hang Your Lights](https://open.spotify.com/track/4JIxFcV0CSFRNjwSe1SyLG) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 4:56 |
 | 62 | [O Tannenbaum](https://open.spotify.com/track/2uNFJN1qsfvZ3xepAGNoca) | [Vanguard Jazz Sextet](https://open.spotify.com/artist/5vAzmGwvrItLXbcCquKOQz) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 4:54 |
-| 63 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 |
-| 64 | [Christmas Blues](https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Yule Be Miserable](https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY) | 4:11 |
+| 63 | [Christmas Blues](https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Yule Be Miserable](https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY) | 4:11 |
+| 64 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 |
 | 65 | [Christmas Time All Over the World](https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Christmas Jazz With The Stars](https://open.spotify.com/album/4sfq7INKFIAYi8NEigZ7RY) | 2:34 |
 | 66 | [Man With The Bag](https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV) | 2:54 |
 | 67 | [Christmas Never Gets Old](https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 2:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 3:11 |
 | 70 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 
-Snapshot ID: `MCxhM2I1ZjI4MDUzNzk5YTg0NWI2NzBlYzNkODkwN2VkMThmZjAyNDVh`
+Snapshot ID: `MCw4NzhiZmE3NWI2NmJlMGI4YTg3MzEyODlkNTVhZmU0NTc5YTY0ZGZl`

@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 200847,
+  "num_followers": 200973,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWI1Zjc3ZjE1NTU5ODc1ZmFiZTJmNjU2Mzk2Mzk0ZjNlYjBmMTRi",
+  "snapshot_id": "MCw0OWEyNDAzZTdhMWZhNmYxYjI3ODdhOTY5YWRmM2M3MzZjYzVmNmQz",
   "tracks": [
     {
       "added_at": "2023-08-15 09:52:41",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Young, Gifted and Black",
-        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Day Dreaming",
-      "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Breezin'",
         "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 341733,
       "name": "Breezin'",
       "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Day Dreaming",
+      "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 262266,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 277400,
-      "name": "Let's Wait Awhile",
-      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 277400,
+      "name": "Let's Wait Awhile",
+      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
+        "name": "Let's Get It On",
+        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/4Yu2vdSKkFrBM5agrx5XRN"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Let's Get It On",
-        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/4Yu2vdSKkFrBM5agrx5XRN"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 206053,
       "name": "When She Was My Girl",
       "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "All Rise (Deluxe)",
+        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 363240,
+      "name": "Everything You Touch Is Gold",
+      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "All Rise (Deluxe)",
-        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+        "name": "Lunch Money",
+        "url": "https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Stefan Sands",
+          "url": "https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv"
         }
       ],
-      "duration_ms": 363240,
-      "name": "Everything You Touch Is Gold",
-      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+      "duration_ms": 172826,
+      "name": "Lunch Money",
+      "url": "https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Lunch Money",
-        "url": "https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH"
-      },
-      "artists": [
-        {
-          "name": "Stefan Sands",
-          "url": "https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Lunch Money",
-      "url": "https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Let Me Touch You",
         "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Hurry Up This Way Again",
-        "url": "https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 353680,
-      "name": "Hurry Up This Way Again",
-      "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 229440,
       "name": "Turn Your Love Around - 2015 GH Version",
       "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Hurry Up This Way Again",
+        "url": "https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 353680,
+      "name": "Hurry Up This Way Again",
+      "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "A Quiet Storm",
-        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 468653,
-      "name": "Quiet Storm",
-      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Golden Time Of Day (Remastered)",
         "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 333666,
       "name": "Golden Time Of Day - Remastered",
       "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "A Quiet Storm",
+        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 468653,
+      "name": "Quiet Storm",
+      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
     },
     {
       "added_at": "2023-08-15 09:52:41",

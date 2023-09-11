@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,683 likes - 48 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,698 likes - 48 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 47 | [Beast of Man \- 2009 Version](https://open.spotify.com/track/65MwtwKP0YlnmLf4R5nhf0) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [The Root of All Evil](https://open.spotify.com/album/3lPgwuzDBUYL5eDb4n0w41) | 3:46 |
 | 48 | [The Last Enemy](https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:15 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDAzMzlmNDdmMzU2YTM0ZGU1MWRlMTMwNmE0NjA3NDUzMQ==`
+Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDA4ZWIyZmYzMTYzYWI0ZWRiYzlhMDJhYTFlNDY5NmU4MQ==`

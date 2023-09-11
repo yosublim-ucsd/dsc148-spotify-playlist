@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Tyler Hubbard, Ashley McBryde, Tyler Childers and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,878 likes - 78 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,064 likes - 78 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 77 | [Don't Sit Right](https://open.spotify.com/track/1QfmAWoMdCxEKDINcoo39m) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Don't Sit Right](https://open.spotify.com/album/3jc2NUdhVwDlMIb8kfiTlG) | 3:21 |
 | 78 | [Always Barely Getting By](https://open.spotify.com/track/6L5ok3yX6pTgzRStVXeQRo) | [Clayton Smalley](https://open.spotify.com/artist/2RtlR6GBuvXVzDgAOS0qmK) | [Always Barely Getting By](https://open.spotify.com/album/1MQtxamJ4xjUh5ZwZqHrik) | 3:05 |
 
-Snapshot ID: `MCxlNmY5MjFlNWRkZDA1NTRiOWU4ODdkMjQzMzgwZDg4YmRhZmRhODE3`
+Snapshot ID: `MCxjNzdiOWFmZDA4ZTY4ZDkxZjliZTFkN2FkM2M4MjY4NTYyMTg4YWRj`

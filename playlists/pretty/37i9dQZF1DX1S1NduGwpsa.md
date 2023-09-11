@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,169 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,645 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 21 | [Good Morning](https://open.spotify.com/track/5l4hVrAgRkZHNQMx59hmk4) | [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe), [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw), [Fabrice Martinez](https://open.spotify.com/artist/5Y5DWaaIaPXwKWTGJlK41D), [Drôles de Dames](https://open.spotify.com/artist/2RqB2FUoiFLQF7vEsE9FCM) | [Good Morning](https://open.spotify.com/album/7Hbv1mHKgpwFux04jIqiAi) | 4:56 |
 | 22 | [Ascenseur pour l'échafaud](https://open.spotify.com/track/5TH6yctu7ZT6ns97mXrBH5) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [Rollin'](https://open.spotify.com/album/4vay9WmJyXHGkr6ayYUmRC) | 3:21 |
 | 23 | [Have A Talk With God](https://open.spotify.com/track/4wGhj2z3EHOKr3BsIjFgNa) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Have A Talk With God](https://open.spotify.com/album/46GEMh4lyKE3Y3XKKDH4Qf) | 5:41 |
-| 24 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 |
+| 24 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/1mkzHA0suincRybCyk5fis) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 5:40 |
 | 25 | [Baby](https://open.spotify.com/track/7Lo9xvnSEyh1dodL2QS79u) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Gabi Hartmann](https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv) | 3:37 |
 | 26 | [How Did You Get In My Dreams?](https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [How Did You Get In My Dreams?](https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7) | 3:37 |
 | 27 | [Madrid](https://open.spotify.com/track/7sn2vY1Uh0jLQNiFuMETSo) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Madrid](https://open.spotify.com/album/7nPajU253ClFSt0PVMbBs1) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Money](https://open.spotify.com/track/0KD6pNagSVwjpNaSjnuE7o) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Greg Hutchinson](https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o), [Matt Penmann](https://open.spotify.com/artist/11XVTuKY8lRxcrbbysWYLr) | [Money](https://open.spotify.com/album/4walVbFcfH4QiqOJiZZ3Rx) | 4:04 |
 | 50 | [Peach Velvet Sky](https://open.spotify.com/track/1r9Xoxz09kMbcIEm7WfjkF) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Peach Velvet Sky](https://open.spotify.com/album/4kaMFxOjrLmf2jEQWJkNW9) | 5:50 |
 
-Snapshot ID: `MCxmOWY2YjdhNjEzMmEyM2JkOTMwNzVmMWZkM2IzZTUzZDQ2NjJiYjY1`
+Snapshot ID: `MCxhNGNlODAzYTAxZGJjYmRhYTgzYWNhMjFlODU5ZDc2OGZiNjI1OGI4`

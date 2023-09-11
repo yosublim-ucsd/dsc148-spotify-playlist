@@ -1,12 +1,12 @@
 {
   "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: Travis Scott",
-  "num_followers": 206350,
+  "num_followers": 206416,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWZlZmY4MDVjYTA4MjE3MzFiMTQ5ODdlMzRlMzZjYTU0ZjliMTkw",
+  "snapshot_id": "MCxmOWY1MzgxZjc0MDU1ZmEyNDI2ZDEzNjNiYzg0OWZhZDExNjBhYmI2",
   "tracks": [
     {
       "added_at": "2023-09-07 22:01:00",
@@ -683,18 +683,22 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+        "name": "Meridian",
+        "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 165925,
-      "name": "RAPSTAR",
-      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -719,22 +723,18 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Meridian",
-        "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
+      "duration_ms": 165925,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "UK Rap",
+      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
         "name": "JEALOUSY (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "UK Rap",
-      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 113292,
-      "name": "They Don't Love It",
-      "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "Rien 100 Rien",
         "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 160893,
       "name": "La bandite",
       "url": "https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 113292,
+      "name": "They Don't Love It",
+      "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1547,6 +1547,30 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
+        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 178950,
+      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -1575,26 +1599,18 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
-        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
+        "name": "Kat Food",
+        "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 178950,
-      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
-      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
+      "duration_ms": 286579,
+      "name": "Kat Food",
+      "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1619,26 +1635,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Project Walls (feat. YoungBoy Never Broke Again)",
-        "url": "https://open.spotify.com/album/0516F8Xh0qRlX1TaiIABzR"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 151142,
-      "name": "Project Walls (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "Night Away (Dance) (feat. Tion Wayne)",
         "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
       },
@@ -1659,18 +1655,22 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Kat Food",
-        "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
+        "name": "Project Walls (feat. YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/0516F8Xh0qRlX1TaiIABzR"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 286579,
-      "name": "Kat Food",
-      "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
+      "duration_ms": 151142,
+      "name": "Project Walls (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1935,22 +1935,22 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "PARTy T1M3",
-        "url": "https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA"
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         },
         {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
         }
       ],
-      "duration_ms": 155912,
-      "name": "PARTy T1M3",
-      "url": "https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L"
+      "duration_ms": 159183,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/2Gic1IIcgCJYErTssSWmL2"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1975,22 +1975,38 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV"
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
       },
       "artists": [
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Nines",
-          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 159183,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/2Gic1IIcgCJYErTssSWmL2"
+      "duration_ms": 154800,
+      "name": "Her Birthday",
+      "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "PARTy T1M3",
+        "url": "https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 155912,
+      "name": "PARTy T1M3",
+      "url": "https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -2047,22 +2063,6 @@
       "duration_ms": 138591,
       "name": "Don\u2019t Lie (feat. Nemzzz)",
       "url": "https://open.spotify.com/track/6tgfPk01WoB2cK78rDEq2m"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "B4 BOA",
-        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Her Birthday",
-      "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -2135,6 +2135,22 @@
       "duration_ms": 253157,
       "name": "Now It\u2019s Real",
       "url": "https://open.spotify.com/track/6LkUoldwZphq2VaNRHUq5N"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "College Girls",
+        "url": "https://open.spotify.com/album/2MnezDg8Uik1lpRFDkCB3G"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 251698,
+      "name": "College Girls",
+      "url": "https://open.spotify.com/track/5997LrlUOfmL0WmiP2lti4"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -2263,26 +2279,6 @@
       "duration_ms": 229339,
       "name": "Hallelujah (feat. Lojay)",
       "url": "https://open.spotify.com/track/0Zb004lei42rERugapZaSt"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "MON LOVE OHO (feat. Icy Subzero) [Italian Remix]",
-        "url": "https://open.spotify.com/album/05l8KatG6SlZrnFXM67Ma4"
-      },
-      "artists": [
-        {
-          "name": "Liamsi",
-          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
-        },
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 145839,
-      "name": "MON LOVE OHO (feat. Icy Subzero) [Italian Remix]",
-      "url": "https://open.spotify.com/track/66uvBUDAVJM2RcJDS0Z4XE"
     }
   ],
   "unique_name": "Rap Internazionale",

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 16680,
+  "num_followers": 16705,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2ZhMDI2ZWIxMmE5MDQ2MjMwZDBiNTUyMzQxMGQyNDhmNmFmYzhl",
+  "snapshot_id": "MCxjMTAxMDQ5NjRiNGFiOWE5ZTQ2YzlhNDc4MWRlYjQxNTY3Zjc2ODE2",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:17",
@@ -63,18 +63,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Rom\u00e1ntica Milonguera",
-        "url": "https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf"
+        "name": "Viajera",
+        "url": "https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6"
       },
       "artists": [
         {
-          "name": "Rom\u00e1ntica Milonguera",
-          "url": "https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY"
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
         }
       ],
-      "duration_ms": 197026,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu"
+      "duration_ms": 323066,
+      "name": "Pasos",
+      "url": "https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -95,18 +95,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Viajera",
-        "url": "https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6"
+        "name": "Rom\u00e1ntica Milonguera",
+        "url": "https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf"
       },
       "artists": [
         {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+          "name": "Rom\u00e1ntica Milonguera",
+          "url": "https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY"
         }
       ],
-      "duration_ms": 323066,
-      "name": "Pasos",
-      "url": "https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb"
+      "duration_ms": 197026,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -323,22 +323,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Con las Alas del Alma",
+        "url": "https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+          "name": "Eladia Blazquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Fruta Amarga",
-      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+      "duration_ms": 181120,
+      "name": "Siempre Se Vuelve a Bs. As.",
+      "url": "https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -415,18 +411,22 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Con las Alas del Alma",
-        "url": "https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Eladia Blazquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
         }
       ],
-      "duration_ms": 181120,
-      "name": "Siempre Se Vuelve a Bs. As.",
-      "url": "https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ"
+      "duration_ms": 209866,
+      "name": "Fruta Amarga",
+      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -447,8 +447,8 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8"
+        "name": "Morir de Amor",
+        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
         }
       ],
-      "duration_ms": 130720,
-      "name": "Baldosa Floja",
-      "url": "https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR"
+      "duration_ms": 197973,
+      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
+      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -563,8 +563,8 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Morir de Amor",
-        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
         }
       ],
-      "duration_ms": 197973,
-      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
-      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
+      "duration_ms": 130720,
+      "name": "Baldosa Floja",
+      "url": "https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
-        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
-      },
-      "artists": [
-        {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
-        }
-      ],
-      "duration_ms": 156155,
-      "name": "El d\u00eda que me quieras - Remastered",
-      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Soledad",
         "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 286093,
       "name": "Adios Nonino",
       "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
+        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+      },
+      "artists": [
+        {
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "El d\u00eda que me quieras - Remastered",
+      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
+        "name": "Ofrenda Gaucha: Valsecito Amigo",
+        "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
+      },
+      "artists": [
+        {
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
+        },
+        {
+          "name": "Francisco Canaro Y Su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
+        }
+      ],
+      "duration_ms": 165637,
+      "name": "Rosas de Oto\u00f1o",
+      "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
         "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
         "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 165982,
       "name": "La canci\u00f3n de Buenos Aires",
       "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Ofrenda Gaucha: Valsecito Amigo",
-        "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
-      },
-      "artists": [
-        {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
-        },
-        {
-          "name": "Francisco Canaro Y Su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
-        }
-      ],
-      "duration_ms": 165637,
-      "name": "Rosas de Oto\u00f1o",
-      "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
     },
     {
       "added_at": "2023-08-11 14:55:17",

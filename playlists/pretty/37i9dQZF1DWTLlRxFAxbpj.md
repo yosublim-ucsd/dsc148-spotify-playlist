@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLlRxFAxbpj.md) - [plain]
 
 > Get ready to soak up the sun with some carefree jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,978 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,980 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLlRxFAxbpj.md) - [plain]
 | 47 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 |
 | 48 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 |
 | 49 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
-| 50 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
+| 50 | [PUFFIN ON ZOOTIEZ](https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:52 |
 
-Snapshot ID: `MCw4Y2QzMWVhMDAyZWY2YWU0OGM3NTkxNzQxNWUyMzI2YWMyNWQ2NGUy`
+Snapshot ID: `MCwxNDdlYTExNjk2ZDY5ZTk0YzMyMGY3NzJiNTU3YjAxZmRhYWM0MjI2`

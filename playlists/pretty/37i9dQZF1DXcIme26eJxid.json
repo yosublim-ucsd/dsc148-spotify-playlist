@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 94876,
+  "num_followers": 94908,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTZiMzVjZjA1MmU0Njk1YTVhY2RiNTc3OGIyY2M4ZTNkYjI3YjYy",
+  "snapshot_id": "MCxkMDQyNWU4ZWI4NGY5ZDA2YzM0Njc3YmNjMjMyYjNlYzg5YjA1OTg1",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 289493,
-      "name": "Agolo",
-      "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Memeza",
@@ -279,6 +263,22 @@
       "duration_ms": 265773,
       "name": "Vuli Ndlela",
       "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 289493,
+      "name": "Agolo",
+      "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
-        "url": "https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm"
-      },
-      "artists": [
-        {
-          "name": "The Funkees",
-          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
-        }
-      ],
-      "duration_ms": 448914,
-      "name": "Akula Owu Onyeara",
-      "url": "https://open.spotify.com/track/5ww9r75Y8JPRgAAc3qJPms"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "It's About Time",
@@ -423,6 +407,22 @@
       "duration_ms": 339000,
       "name": "It's About Time",
       "url": "https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+        "url": "https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/5ww9r75Y8JPRgAAc3qJPms"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Juju Music",
-        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 428800,
-      "name": "Ja Funmi",
-      "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Weekend Special (USA Remixes)",
@@ -659,6 +643,22 @@
       "duration_ms": 288109,
       "name": "Weekend Special (with Brenda Fassie) - USA Remix",
       "url": "https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 428800,
+      "name": "Ja Funmi",
+      "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
     },
     {
       "added_at": "2019-06-28 16:54:51",

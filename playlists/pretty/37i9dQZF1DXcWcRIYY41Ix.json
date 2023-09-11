@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Gato e\u2019 Monte.",
-  "num_followers": 116099,
+  "num_followers": 116130,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDZiZDk1ZmI5MDMwZDJkZTU0ZjZmYTgxYTMyMjA1NzM5ODlhOTgz",
+  "snapshot_id": "MCxhZjc2OTAzNzdmODljY2YxMmZlOGY2NDNmYzIyYTE5OTYxNjE2ODhl",
   "tracks": [
     {
       "added_at": "2023-08-18 12:43:48",
@@ -47,18 +47,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "A Mi Manera",
-        "url": "https://open.spotify.com/album/2LCxdI17sy3zG5FG7RwXHs"
+        "name": "Otras Alas",
+        "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
       },
       "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
         {
           "name": "Guitarricadelafuente",
           "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 240531,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/5tFCHPbtz4plGwDnH2b1QV"
+      "duration_ms": 187016,
+      "name": "nana triste",
+      "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -119,22 +123,18 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Lisboa-Madrid",
-        "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
+        "name": "A Mi Manera",
+        "url": "https://open.spotify.com/album/2LCxdI17sy3zG5FG7RwXHs"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 220031,
-      "name": "Lisboa-Madrid",
-      "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
+      "duration_ms": 240531,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/5tFCHPbtz4plGwDnH2b1QV"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -159,22 +159,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "La Danza de las Lib\u00e9lulas",
-        "url": "https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f"
+        "name": "Lisboa-Madrid",
+        "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
       },
       "artists": [
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 220867,
-      "name": "La Danza de las Lib\u00e9lulas",
-      "url": "https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn"
+      "duration_ms": 220031,
+      "name": "Lisboa-Madrid",
+      "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -191,6 +191,26 @@
       "duration_ms": 182256,
       "name": "TRIGAL",
       "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "La Danza de las Lib\u00e9lulas",
+        "url": "https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 220867,
+      "name": "La Danza de las Lib\u00e9lulas",
+      "url": "https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -215,22 +235,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "Comando Antivand\u00e1lico, Pero Violento",
         "url": "https://open.spotify.com/album/19FKHlGrl68xlfNDuo9k8x"
       },
@@ -247,18 +251,18 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Perot\u00e1 Ching\u00f3",
-        "url": "https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 309044,
-      "name": "Rie Chinito",
-      "url": "https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd"
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -275,6 +279,22 @@
       "duration_ms": 200238,
       "name": "Peque\u00f1as Esperanzas",
       "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Perot\u00e1 Ching\u00f3",
+        "url": "https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 309044,
+      "name": "Rie Chinito",
+      "url": "https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -319,30 +339,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Civilizado Como Los Animales",
-        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 301935,
-      "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
-      "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "Vulnerables",
         "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
       },
@@ -379,6 +375,30 @@
       "duration_ms": 175642,
       "name": "la corriente",
       "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Civilizado Como Los Animales",
+        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 301935,
+      "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
+      "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -431,22 +451,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Sof\u00e1",
-        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 264053,
-      "name": "Cu\u00eddame",
-      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/0Nj1yrg9caXF6wqF8E4sog"
       },
@@ -463,6 +467,22 @@
       "duration_ms": 233983,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/0NkMsSLnIF4UowF4rLhMHg"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Sof\u00e1",
+        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 264053,
+      "name": "Cu\u00eddame",
+      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -543,26 +563,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "El Perd\u00f3n (feat. Mon Laferte)",
-        "url": "https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 169145,
-      "name": "El Perd\u00f3n (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
       },
@@ -579,6 +579,26 @@
       "duration_ms": 181798,
       "name": "El Tiempo Est\u00e1 Despu\u00e9s",
       "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "El Perd\u00f3n (feat. Mon Laferte)",
+        "url": "https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 169145,
+      "name": "El Perd\u00f3n (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -615,26 +635,6 @@
       "duration_ms": 194050,
       "name": "Alitas de mar (feat. Juanito Makand\u00e9)",
       "url": "https://open.spotify.com/track/4YKIrD8XK51XIsqJEpB1Q0"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "El Siglo del Loro",
-        "url": "https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115"
-      },
-      "artists": [
-        {
-          "name": "Pala",
-          "url": "https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 100253,
-      "name": "Ponme",
-      "url": "https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -703,22 +703,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Mensajes en el Mar",
-        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
+        "name": "El Siglo del Loro",
+        "url": "https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115"
       },
       "artists": [
         {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+          "name": "Pala",
+          "url": "https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j"
         },
         {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 247614,
-      "name": "Mensajes en el Mar",
-      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
+      "duration_ms": 100253,
+      "name": "Ponme",
+      "url": "https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -743,18 +743,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+        "name": "Mensajes en el Mar",
+        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
         }
       ],
-      "duration_ms": 240904,
-      "name": "Como Viene Se Va",
-      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
+      "duration_ms": 247614,
+      "name": "Mensajes en el Mar",
+      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -771,6 +775,22 @@
       "duration_ms": 355062,
       "name": "La balada de G. Clark",
       "url": "https://open.spotify.com/track/1Apug92E2TzlucGYwC04yq"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Como Viene Se Va",
+      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1091,22 +1111,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "Tu Casa",
         "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
       },
@@ -1135,6 +1139,22 @@
       "duration_ms": 219967,
       "name": "Inmensamente Fr\u00e1gil",
       "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1439,18 +1459,18 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0ZZW0cNuUB7zAh4sIPTzUR"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 185379,
-      "name": "Despierta",
-      "url": "https://open.spotify.com/track/4fNuz1LcISE4tAFIJgJkTT"
+      "duration_ms": 290250,
+      "name": "Tratar\u00e9",
+      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1471,18 +1491,18 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0ZZW0cNuUB7zAh4sIPTzUR"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 290250,
-      "name": "Tratar\u00e9",
-      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
+      "duration_ms": 185379,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/4fNuz1LcISE4tAFIJgJkTT"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1667,22 +1687,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 229901,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "Me Voy a Valpara\u00edso",
         "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
       },
@@ -1703,6 +1707,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 229901,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
         "name": "Tabaibas",
         "url": "https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3"
       },
@@ -1715,6 +1735,22 @@
       "duration_ms": 232357,
       "name": "Tabaibas",
       "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "El Perro Feroz",
+        "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
+      },
+      "artists": [
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+        }
+      ],
+      "duration_ms": 140928,
+      "name": "Diente de Le\u00f3n",
+      "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1735,22 +1771,6 @@
       "duration_ms": 225287,
       "name": "Para la pena no",
       "url": "https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "El Perro Feroz",
-        "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
-      },
-      "artists": [
-        {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
-        }
-      ],
-      "duration_ms": 140928,
-      "name": "Diente de Le\u00f3n",
-      "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1787,22 +1807,6 @@
       "duration_ms": 329062,
       "name": "No Pasar\u00e1n",
       "url": "https://open.spotify.com/track/6qoi71vyo13PQeM1jPhMBv"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     }
   ],
   "unique_name": "Cancionistas",

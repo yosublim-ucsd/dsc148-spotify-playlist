@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 2617,
+  "num_followers": 2630,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDkxMDFkN2FjODM3ZDRlMDA2MmUzZTcyMDAyYTRlYTNiM2UwYzVj",
+  "snapshot_id": "MCxmNWNhZDYyZjgyYjAzNjgxYmNhYjJmNTViNjJiNWE0Y2IwZTQyZDli",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Zona de Bomba",
-        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
+        "name": "Ra\u00edces Borincanas",
+        "url": "https://open.spotify.com/album/6mZIvynRc62S8WicBG4xiS"
       },
       "artists": [
         {
-          "name": "Zona de Bomba",
-          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
+          "name": "Ramito",
+          "url": "https://open.spotify.com/artist/4tiyu0r3ArpCssOu1rJtvN"
         }
       ],
-      "duration_ms": 163120,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv"
+      "duration_ms": 202933,
+      "name": "Que Bonita Bandera",
+      "url": "https://open.spotify.com/track/3nCwDELepkxtmUIGAqdsZg"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Ra\u00edces Borincanas",
-        "url": "https://open.spotify.com/album/6mZIvynRc62S8WicBG4xiS"
+        "name": "Zona de Bomba",
+        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
       },
       "artists": [
         {
-          "name": "Ramito",
-          "url": "https://open.spotify.com/artist/4tiyu0r3ArpCssOu1rJtvN"
+          "name": "Zona de Bomba",
+          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
         }
       ],
-      "duration_ms": 202933,
-      "name": "Que Bonita Bandera",
-      "url": "https://open.spotify.com/track/3nCwDELepkxtmUIGAqdsZg"
+      "duration_ms": 163120,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Zona de Bomba",
-        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
-      },
-      "artists": [
-        {
-          "name": "Zona de Bomba",
-          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Bomba y Plena",
-      "url": "https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Plena Combativa",
         "url": "https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD"
       },
@@ -323,22 +307,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Distinto Y Diferente",
-        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
-      },
-      "artists": [
-        {
-          "name": "Plenealo",
-          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
-        }
-      ],
-      "duration_ms": 451500,
-      "name": "Plenazo Callejero 2",
-      "url": "https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Puerto Rico, Puerto Rico Mi Tierra Natal",
         "url": "https://open.spotify.com/album/28nERzqmaa2n4hve9UxlnQ"
       },
@@ -355,6 +323,38 @@
       "duration_ms": 298226,
       "name": "Campo",
       "url": "https://open.spotify.com/track/15HmdlLczXj5jlqUlmUNS8"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Distinto Y Diferente",
+        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
+      },
+      "artists": [
+        {
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
+        }
+      ],
+      "duration_ms": 451500,
+      "name": "Plenazo Callejero 2",
+      "url": "https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Zona de Bomba",
+        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
+      },
+      "artists": [
+        {
+          "name": "Zona de Bomba",
+          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Bomba y Plena",
+      "url": "https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "\u00a1Ya est\u00e1! \u00a1Se form\u00f3!",
-        "url": "https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR"
+        "name": "Para Todos Ustedes",
+        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
       },
       "artists": [
         {
-          "name": "Yuba Ire",
-          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
         }
       ],
-      "duration_ms": 189080,
-      "name": "Inyere",
-      "url": "https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe"
+      "duration_ms": 454466,
+      "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
+      "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Para Todos Ustedes",
-        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
+        "name": "\u00a1Ya est\u00e1! \u00a1Se form\u00f3!",
+        "url": "https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR"
       },
       "artists": [
         {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
         }
       ],
-      "duration_ms": 454466,
-      "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
-      "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
+      "duration_ms": 189080,
+      "name": "Inyere",
+      "url": "https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe"
     },
     {
       "added_at": "2023-06-13 22:15:19",

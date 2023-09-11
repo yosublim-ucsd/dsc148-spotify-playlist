@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,563 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,526 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 98 | [The Suburbs](https://open.spotify.com/track/2M33H5HtCUuXKxVX7jxMQ6) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [The Suburbs](https://open.spotify.com/album/659h0ktcFI9MKCjtTkNUp4) | 2:47 |
 | 99 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 
-Snapshot ID: `MCxmNjUzYmEyMGJhM2MxZTU0ZTQ3YWZhYWQ1Y2ZhN2YwNjFjMjBiMWQz`
+Snapshot ID: `MCwyNTY4NGFjNjBhMDgxNjI1NTE1ZjY0OTQzYjRiMWQyNWE0YWJiNTI5`

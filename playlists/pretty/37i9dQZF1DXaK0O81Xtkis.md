@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Oliver Tree
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,095 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,115 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 47 | [So Far So Good](https://open.spotify.com/track/2I4u1DU7rCijbtR2F3dgx6) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Great Good Five Ok](https://open.spotify.com/album/7wSrwRAZqvDKESkUFwqdFG) | 2:51 |
 | 48 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 |
 | 49 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 |
-| 50 | [You Need Jesus](https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do) | [You Need Jesus](https://open.spotify.com/album/2JhiffKjGgJ1DcjNPE0WHG) | 2:14 |
+| 50 | [You Need Jesus](https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [You Need Jesus](https://open.spotify.com/album/2JhiffKjGgJ1DcjNPE0WHG) | 2:14 |
 | 51 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 |
 | 52 | [Hello My Name Is](https://open.spotify.com/track/3ekyM2RKssRCbqVhrVt2R0) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Hello My Name Is](https://open.spotify.com/album/2J1sl3AmTdeaDKIR0SWlUa) | 2:26 |
 | 53 | [No Longer Bound](https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 79 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 80 | [Good Not Great](https://open.spotify.com/track/5K6VtWfjGkk1ahcVmPKbL9) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:12 |
 
-Snapshot ID: `MCwzYmVlNmQ4YWYxNzMxZGY3MDIxZGEzZGUyYWNlMjNiNWJiM2UyM2Mw`
+Snapshot ID: `MCwxMGI4OTBkNzk4ZjcwN2I4ZWRhMzA1ZWEyMDE1OTBmMWI4NWNjNjIw`

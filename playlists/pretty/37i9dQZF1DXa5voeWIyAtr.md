@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 
 > pongámonos de acuerdo: nos vamos a querer o ahí la vamos a dejar o de nuevo aparentar que aquí no ha pasado nada 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,588 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,810 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 | 74 | [Vuela Tú](https://open.spotify.com/track/6D6Xbp26jVuVdrebUAoRVY) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Vuela Tú](https://open.spotify.com/album/6HNlpNS9D207IT2vMafv4V) | 2:35 |
 | 75 | [Palabra de Hombre](https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 3:16 |
 
-Snapshot ID: `MCw1ZjJmYmYyYzVjM2FlMmVkOWFiNDIxMjk2YTI4MTZmYTM5MjI5MTcx`
+Snapshot ID: `MCwwYmQ2ZTkxM2MwZDM3ZDJhYzRiYTI2MDk0NTE0YTFkMTBlM2QyYzY4`

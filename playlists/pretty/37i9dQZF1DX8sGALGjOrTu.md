@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Thrice
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,760 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,980 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 33 | [Do It Now Remember It Later](https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 3:23 |
 | 34 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
 | 35 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 |
-| 36 | [Such Small Hands](https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 1:35 |
-| 37 | [Honey, This Mirror Isn't Big Enough for the Two of Us](https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 |
+| 36 | [Honey, This Mirror Isn't Big Enough for the Two of Us](https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 |
+| 37 | [Such Small Hands](https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 1:35 |
 | 38 | [Yeah Boy and Doll Face](https://open.spotify.com/track/51rIDh0FOCNCFkdbtIOyU0) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 4:24 |
 | 39 | [Baby, You Wouldn't Last A Minute On The Creek](https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 4:40 |
 | 40 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 62 | [Act Appalled](https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Juturna](https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP) | 3:20 |
 | 63 | [The Thespian](https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [The Emptiness](https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg) | 3:57 |
 | 64 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
-| 65 | [Guys Like You Make Us Look Bad](https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 3:55 |
-| 66 | [Tree Village](https://open.spotify.com/track/0C9d07g8OTaJeZVVmjN0pS) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Happiness](https://open.spotify.com/album/2uEHtF7phOSbrXdKUes5GL) | 3:21 |
+| 65 | [Tree Village](https://open.spotify.com/track/0C9d07g8OTaJeZVVmjN0pS) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Happiness](https://open.spotify.com/album/2uEHtF7phOSbrXdKUes5GL) | 3:21 |
+| 66 | [Guys Like You Make Us Look Bad](https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 3:55 |
 | 67 | [Ready To Fall](https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:47 |
 | 68 | [Holding On](https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [Scary Kids Scaring Kids](https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar) | 4:21 |
 | 69 | [Bulls Make Money, Bears Make Money, Pigs Get Slaughtered](https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [Bone Palace Ballet: Grand Coda](https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 74 | [Walls](https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Weak's End](https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a) | 3:23 |
 | 75 | [Ambrosia](https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [On Frail Wings Of Vanity And Wax](https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa) | 3:05 |
 
-Snapshot ID: `MCw0Y2NmMjY5NzI5YjhkZWM5ZjI4YTdiMTAyZmIyMGFhNWZkYzQxY2Jm`
+Snapshot ID: `MCwxYjg2OTBiMzY3MDAxNTk0MmNhZjBkNTJjNmE4ODUxMWFlYWVmMmI4`

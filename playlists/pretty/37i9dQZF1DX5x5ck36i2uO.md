@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,662 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,679 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 17 | [Too Far](https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 4:07 |
 | 18 | [a fence](https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [af](https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8) | 3:27 |
 | 19 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 |
-| 20 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 |
-| 21 | [In The Morning \(Feat\. Bryn\)](https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [In The Morning](https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu) | 3:15 |
+| 20 | [In The Morning \(Feat\. Bryn\)](https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [In The Morning](https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu) | 3:15 |
+| 21 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 |
 | 22 | [010](https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:02 |
 | 23 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
 | 24 | [Color \(Feat\. youra\)](https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:39 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 30 | [gucci girl](https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:20 |
 | 31 | [Mannequin \(Feat\. Beenzino & SURAN\)](https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [2](https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA) | 3:53 |
 | 32 | [Flower Cafe \(feat.Sam Ock, I.M\)](https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Flower Cafe](https://open.spotify.com/album/6MKWAKWXXO3hF7JK3KoVWd) | 3:07 |
-| 33 | [Journey](https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:53 |
-| 34 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
+| 33 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
+| 34 | [Journey](https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:53 |
 | 35 | [SOAP](https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:11 |
 | 36 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
 | 37 | [변하지 않아 \(Feat\. HAON, CHANGMO\)](https://open.spotify.com/track/02gmOrzbDgLmxo2gNlux6x) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [김하온\(HAON\)](https://open.spotify.com/artist/4LglziYr7z4b0eBuPqpOtu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Noble Game \(Feat\. ILLINIT\) \(Prod\. ILLUID HALLER\)](https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Illinit](https://open.spotify.com/artist/5N9rfcaITVgayz1OzCqu4h) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 3:27 |
 | 50 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
 
-Snapshot ID: `MCw1YjljNmRjYjg0OTQ0YzdlNTJjYWFjN2MyYWU0YjIzZmRmYjk3N2Rl`
+Snapshot ID: `MCxiZmUwOGZmMmM1NThkMTM2YTk5MzFkMTYzMDg5ZWRiMjcyNmJiZGJl`

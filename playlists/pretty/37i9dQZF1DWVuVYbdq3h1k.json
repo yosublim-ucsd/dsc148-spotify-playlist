@@ -1,12 +1,12 @@
 {
   "description": "S\u00ed, \u00a1ya estamos viejos!",
-  "num_followers": 1182087,
+  "num_followers": 1182515,
   "original_name": "Los 2000 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWU3M2MzYmZkYWRmYjA1ZjRmZjIwZDViMzBjZTRkYWIzMzhlY2Jk",
+  "snapshot_id": "MCw1MzZmNDNhZmZjMTIzOTcyNTU1MWM5ZmZjNTA4MWMwZWJhYTQ0OWYw",
   "tracks": [
     {
       "added_at": "2023-01-23 18:49:38",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "La Vida Gacha",
         "url": "https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 245826,
       "name": "La Planta",
       "url": "https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -871,22 +871,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Mientras T\u00fa Dorm\u00edas",
-        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 257091,
-      "name": "Compartir",
-      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "El Primer Instinto",
         "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 206133,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 257091,
+      "name": "Compartir",
+      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 225706,
       "name": "Putita",
       "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Esta Es Mi Vida",
-        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Llegaste t\u00fa",
-      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "HA-ASH",
         "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Esta Es Mi Vida",
+        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Llegaste t\u00fa",
+      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "SINO",
         "url": "https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 205573,
       "name": "Quiero Ver",
       "url": "https://open.spotify.com/track/7s41ZGjQB5Ur8T0fQlk5uM"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Lu",
-        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
-      },
-      "artists": [
-        {
-          "name": "LU",
-          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Por Besarte",
-      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1479,6 +1463,22 @@
       "duration_ms": 226800,
       "name": "Paris",
       "url": "https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Lu",
+        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
+      },
+      "artists": [
+        {
+          "name": "LU",
+          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Por Besarte",
+      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "\u00a1GRRRR!",
+        "url": "https://open.spotify.com/album/0WSuErzdxX65H9orqjc7C3"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Sentimettal",
+      "url": "https://open.spotify.com/track/3bR6JvYSnJlzNlyUZbFMWJ"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Monitor",
         "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
       },
@@ -1703,26 +1719,6 @@
       "duration_ms": 237760,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Detector De Metal",
-        "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Muriendo Lento (feat. Belinda)",
-      "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
     },
     {
       "added_at": "2020-11-17 04:03:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: The Lumineers
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,003 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,098 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 31 | [Changes](https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 2:41 |
 | 32 | [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 |
 | 33 | [S.O.B.](https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 4:07 |
-| 34 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
+| 34 | [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 |
 | 35 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
-| 36 | [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 |
+| 36 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
 | 37 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 38 | [Turtles All the Way Down](https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 3:08 |
 | 39 | [Gloria](https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:36 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 72 | [I Was Born To Love You](https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 4:11 |
 | 73 | [Wildfire](https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 5:29 |
 | 74 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 |
-| 75 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 |
-| 76 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
+| 75 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
+| 76 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 |
 | 77 | [Stolen Love](https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0) | 3:43 |
 | 78 | [Shake](https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:01 |
 | 79 | [40 Day Dream \- 2019 \- Remaster](https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 3:52 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 96 | [The Weary Kind](https://open.spotify.com/track/5uqQQtXsY2HJLbPVPwcz6C) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Junky Star](https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x) | 4:18 |
 | 97 | [When My Time Comes](https://open.spotify.com/track/2bit43ZeiBbbiHUtyWuthM) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/2s8TW0yZCpVQkfMP9ceR7Z) | 5:08 |
 | 98 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
-| 99 | [Bright Star](https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6) | 3:10 |
-| 100 | [Emmylou](https://open.spotify.com/track/2bU3gg0M8GGBs7ItBKsJX9) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/2ClpsMzeeVVoevHkK2N1vs) | 4:18 |
+| 99 | [Emmylou](https://open.spotify.com/track/2bU3gg0M8GGBs7ItBKsJX9) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/2ClpsMzeeVVoevHkK2N1vs) | 4:18 |
+| 100 | [House of Stone](https://open.spotify.com/track/7cpYEWqP3ayUzP8VNdMhtm) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side of Jordan](https://open.spotify.com/album/7qvtiRY9SJJaLhAOsghPhr) | 3:16 |
 
-Snapshot ID: `MCw0NzFiMjYzMjI3YWZjNWE3NzhkOTVjNzIwM2M2MDdhNDRlMDkzMWYz`
+Snapshot ID: `MCxmZTAyOTY5N2RlYTA4MGVjNDBlY2MzZTJmMzFmYTAxMzRiMzVmYmIw`

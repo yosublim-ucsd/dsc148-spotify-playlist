@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2642764,
+  "num_followers": 2643132,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmJiNzc4ODc1OGIwN2JhNWM5NDhjZTAzNThkMmQxNGVmMzg5ODM2",
+  "snapshot_id": "MCwyYjAwMmNmZWI5ZDFjOTgxMzQ1MDNhM2Q5Y2M0YWEzZDFkOWFiN2Zi",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Guitar Man",
-      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 192053,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Guitar Man",
+      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Uh-HUH!",
-        "url": "https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 283666,
-      "name": "Pink Houses",
-      "url": "https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 170759,
       "name": "Walkin' Back to Georgia",
       "url": "https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Uh-HUH!",
+        "url": "https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 283666,
+      "name": "Pink Houses",
+      "url": "https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Between The Buttons",
-        "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "Ruby Tuesday",
-      "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 220400,
       "name": "Girl from the North Country",
       "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Between The Buttons",
+        "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "Ruby Tuesday",
+      "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
     },
     {
       "added_at": "2023-03-31 04:00:00",

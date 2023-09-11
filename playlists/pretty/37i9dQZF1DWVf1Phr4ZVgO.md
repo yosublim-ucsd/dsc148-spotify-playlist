@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,169 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,468 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 61 | [I've Got You Under My Skin](https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Fly Me To The Moon...The Great American Songbook Volume V](https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV) | 3:50 |
 | 62 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
 | 63 | [Blue Moon](https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 3:05 |
-| 64 | [Lay Lady Lay](https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD) | [Magnet](https://open.spotify.com/artist/0aPh6hUf7HfSVXtyxQs9AR) | [On Your Side](https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq) | 4:37 |
-| 65 | [All The Things You Are](https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Moonlight Serenade](https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO) | 3:49 |
+| 64 | [All The Things You Are](https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Moonlight Serenade](https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO) | 3:49 |
+| 65 | [Lay Lady Lay](https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD) | [Magnet](https://open.spotify.com/artist/0aPh6hUf7HfSVXtyxQs9AR) | [On Your Side](https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq) | 4:37 |
 | 66 | [I Belong to You](https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a) | [Emilia Mitiku](https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2) | [I Belong To You](https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d) | 3:16 |
 | 67 | [My Kind Of Girl](https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K) | [Buddy Greco](https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ) | [16 Most Requested Songs](https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb) | 2:40 |
 | 68 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 79 | [Jim](https://open.spotify.com/track/1cxBehMLI8smC0EAx0I0Ut) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:54 |
 | 80 | [You Make Me Feel So Young](https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:59 |
 
-Snapshot ID: `MCwxNjYyYjEzZjQ0MWYxNGMzY2E5NTJlOThkNDViZGExMWU5MGJlZWM3`
+Snapshot ID: `MCwwYmU2ODMxYTkzMjU4MDRlODdkYzVkN2U1ZWE2ZjZlNjU0Y2I3ZWJk`

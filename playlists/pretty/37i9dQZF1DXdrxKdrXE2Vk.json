@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3?si=5912d4229e324b1e\">Pat Barrett</a> ",
-  "num_followers": 883537,
+  "num_followers": 883683,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWU4ZTE1MzIxZjU4YWM0YWVhNWQ2ODE5MDlmOTllMWQ1YjQ0ZTI1",
+  "snapshot_id": "MCw1YzUwOWZjMjYyNDNjNDg0OWNlZmYyNmRjMmJhZWE0OTkzYzBmODlm",
   "tracks": [
     {
       "added_at": "2023-08-11 11:00:34",
@@ -363,22 +363,18 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "I've Witnessed It (Live)",
-        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+        "name": "Show Me Your Glory (Live)",
+        "url": "https://open.spotify.com/album/0Dp06bINJHV3dxk3VW7gp0"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
         }
       ],
-      "duration_ms": 269000,
-      "name": "I've Witnessed It - Single Version",
-      "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
+      "duration_ms": 361568,
+      "name": "We Lift Up Jesus - Live",
+      "url": "https://open.spotify.com/track/6AKnezQRLF3jDF69Dg1nDe"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -403,18 +399,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Show Me Your Glory (Live)",
-        "url": "https://open.spotify.com/album/0Dp06bINJHV3dxk3VW7gp0"
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
       },
       "artists": [
         {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
         }
       ],
-      "duration_ms": 361568,
-      "name": "We Lift Up Jesus - Live",
-      "url": "https://open.spotify.com/track/6AKnezQRLF3jDF69Dg1nDe"
+      "duration_ms": 269000,
+      "name": "I've Witnessed It - Single Version",
+      "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Moments: 010 (Live)",
+        "url": "https://open.spotify.com/album/0rvYyeQ716LDAsj5GU2grl"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Joel Figueroa",
+          "url": "https://open.spotify.com/artist/3TuURLCO7Vv4QTUtCTkwCl"
+        }
+      ],
+      "duration_ms": 455294,
+      "name": "Tend - Live",
+      "url": "https://open.spotify.com/track/6OilLftko3AbJBzedstJOA"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Put Your Name On Me",
         "url": "https://open.spotify.com/album/4EuK3B2jKAGy532tuDimhM"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 507068,
       "name": "Put Your Name On Me (feat. Tony Fresh)",
       "url": "https://open.spotify.com/track/7IHrsJBzCTSsmzbXgPgy8A"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Moments: 010 (Live)",
-        "url": "https://open.spotify.com/album/0rvYyeQ716LDAsj5GU2grl"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Joel Figueroa",
-          "url": "https://open.spotify.com/artist/3TuURLCO7Vv4QTUtCTkwCl"
-        }
-      ],
-      "duration_ms": 455294,
-      "name": "Tend - Live",
-      "url": "https://open.spotify.com/track/6OilLftko3AbJBzedstJOA"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1175,62 +1175,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 251612,
-      "name": "King of Calvary - Live",
-      "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Our God Will See Us Through (Live)",
-        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        }
-      ],
-      "duration_ms": 253652,
-      "name": "This Is My Song - Live",
-      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "I Saw The Lord (Live)",
-        "url": "https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw"
-      },
-      "artists": [
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
-        },
-        {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 394075,
-      "name": "Christ And Christ Crucified - Live",
-      "url": "https://open.spotify.com/track/32adupKO13M1j6hWpysy0U"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "To The One Who Is Seated On The Throne (Live)",
         "url": "https://open.spotify.com/album/2ByngD9J0kQSo9tUgiPiZh"
       },
@@ -1259,6 +1203,62 @@
       "duration_ms": 668013,
       "name": "To The One Who Is Seated On The Throne - Live",
       "url": "https://open.spotify.com/track/3zc8HnAS2WJ7VNsV1OEt13"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 251612,
+      "name": "King of Calvary - Live",
+      "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "I Saw The Lord (Live)",
+        "url": "https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw"
+      },
+      "artists": [
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 394075,
+      "name": "Christ And Christ Crucified - Live",
+      "url": "https://open.spotify.com/track/32adupKO13M1j6hWpysy0U"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Our God Will See Us Through (Live)",
+        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        }
+      ],
+      "duration_ms": 253652,
+      "name": "This Is My Song - Live",
+      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Behold Our God (Live at WorshipGod)",
-        "url": "https://open.spotify.com/album/008jbLWJxgzDKQ6Aq74QDa"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 340533,
-      "name": "Behold Our God - Live at WorshipGod",
-      "url": "https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Forever & Amen",
         "url": "https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 590208,
       "name": "Forever & Amen (with Kari Jobe) - Live",
       "url": "https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Behold Our God (Live at WorshipGod)",
+        "url": "https://open.spotify.com/album/008jbLWJxgzDKQ6Aq74QDa"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 340533,
+      "name": "Behold Our God - Live at WorshipGod",
+      "url": "https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Who Is This Man (Live)",
+        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 599374,
+      "name": "Who Is This Man - Live",
+      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Because Of You (Live)",
         "url": "https://open.spotify.com/album/6AY30EqlFxWj7s3vpXKfP5"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 361027,
       "name": "Because Of You - Live",
       "url": "https://open.spotify.com/track/3BQWQdgTzKSnnsLSFlntQB"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Who Is This Man (Live)",
-        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 599374,
-      "name": "Who Is This Man - Live",
-      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Heal My Heart (Live)",
-        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+        "name": "Take Me to the River (I Will Swim) [Live]",
+        "url": "https://open.spotify.com/album/7zl8PxnU19yAmbYuy5FvYr"
       },
       "artists": [
         {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+          "name": "Alex Yurkiv",
+          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
+        },
+        {
+          "name": "Thelma Costolo",
+          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
         }
       ],
-      "duration_ms": 458797,
-      "name": "Heal My Heart - Live",
-      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+      "duration_ms": 264000,
+      "name": "Take Me to the River (I Will Swim) - Live",
+      "url": "https://open.spotify.com/track/1HvOPVcjiikDVfNzHyYgsh"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1667,22 +1671,18 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Take Me to the River (I Will Swim) [Live]",
-        "url": "https://open.spotify.com/album/7zl8PxnU19yAmbYuy5FvYr"
+        "name": "Heal My Heart (Live)",
+        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
       },
       "artists": [
         {
-          "name": "Alex Yurkiv",
-          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
-        },
-        {
-          "name": "Thelma Costolo",
-          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Take Me to the River (I Will Swim) - Live",
-      "url": "https://open.spotify.com/track/1HvOPVcjiikDVfNzHyYgsh"
+      "duration_ms": 458797,
+      "name": "Heal My Heart - Live",
+      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Revival Nights (Pt. 2) [Live]",
-        "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Hurry - Live",
-      "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/1JJslYNSkyMUSm05DA548D"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 200733,
       "name": "The Sweetest Sound",
       "url": "https://open.spotify.com/track/4TyYqM4EoFG7KtEGmUgH2r"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Revival Nights (Pt. 2) [Live]",
+        "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Hurry - Live",
+      "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
     }
   ],
   "unique_name": "Best of Live Worship",

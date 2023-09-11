@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Raz Fresco
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,349 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,395 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Majimbo](https://open.spotify.com/track/0QLtUjzYUL2LWNHT5GwqBw) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Majimbo](https://open.spotify.com/album/4WpQXGqzAVXImrPQHDC5Xh) | 2:37 |
 | 100 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 |
 
-Snapshot ID: `MCw5YzU2ZjllY2UxYzIwNGU2YmVkNzk5ZDQwY2RkNzZlYTVhNTQ1ZmY3`
+Snapshot ID: `MCwyODU4YmY0ZGNlMjJiZGIzYmUyZTQwOTdjMGExZDZmM2ZkNzBiOWM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The best indie rock right now\. Featuring new music by JAWNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,984 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,000 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Lookin' Out](https://open.spotify.com/track/21xQGFDvSeCi2deid5YtaJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Lookin' Out](https://open.spotify.com/album/6sAuAVVo9Wi7K9eecv4txq) | 3:47 |
 | 100 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |
 
-Snapshot ID: `MCxkNzZlNjE3Nzg3M2U1N2IxMGU5YzE1OTRlZjIzOWY0NGFkN2RhZGJm`
+Snapshot ID: `MCwyMGRmNGY1ZDY3MWI3OTQ3MjdkMzg3ODRiMTE5ZTgyYjUxYzM3YjJj`

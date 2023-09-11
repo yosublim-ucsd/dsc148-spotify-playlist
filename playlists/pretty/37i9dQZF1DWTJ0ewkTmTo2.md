@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 
 > Get ready to sing your hearts out with these family friendly road trip classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,408 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,559 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 | 68 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
 | 69 | [King Of The Road](https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Golden Hits](https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM) | 2:27 |
 | 70 | [The Lion Sleeps Tonight \(Wimoweh\)](https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [Wimoweh!!! \- The Best Of The Tokens](https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0) | 2:42 |
-| 71 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 |
-| 72 | [Under Pressure](https://open.spotify.com/track/1mSClObliRtgPVT399COQH) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space](https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE) | 4:05 |
-| 73 | [Karma Chameleon](https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 4:01 |
+| 71 | [Under Pressure](https://open.spotify.com/track/1mSClObliRtgPVT399COQH) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space](https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE) | 4:05 |
+| 72 | [Karma Chameleon](https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 4:01 |
+| 73 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 |
 | 74 | [I'd Do Anything For Love \(But I Won't Do That\) \- Single Edit](https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell II: Back Into Hell](https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z) | 5:16 |
 | 75 | [Greased Lightnin' \- From “Grease”](https://open.spotify.com/track/1XNE0QfNjdroSdosMIk8F6) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Jeff Conaway](https://open.spotify.com/artist/34NoGpkDKIwSQG1V6gdhRL) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:14 |
 | 76 | [I've Been Everywhere](https://open.spotify.com/track/59J3FhCGYl18G3ouDReUge) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American II: Unchained](https://open.spotify.com/album/59RjxVKpH3c80E4a86yP7b) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 | 79 | [The Safety Dance](https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rock Of The 80's](https://open.spotify.com/album/2avyCubWluhpGqAbYYbmph) | 2:45 |
 | 80 | [Wouldn't It Be Nice \- Remastered 1999](https://open.spotify.com/track/0cx32rX0uZvcJUP92Wkj2y) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys Love Songs](https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq) | 2:25 |
 
-Snapshot ID: `MCw2NGEyYjczYTgxYjhiZTg5MmRlYWVkZGU1ZTdjYzk3ODc5YmFmNjcx`
+Snapshot ID: `MCw4MzQ4ZDFjMGE3M2EwNTlmZmQ4YjkxYmRiYjdlMDJiOWUwMThlMWVl`

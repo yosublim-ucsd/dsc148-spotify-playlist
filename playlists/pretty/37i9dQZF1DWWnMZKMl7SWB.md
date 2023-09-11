@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,333 likes - 279 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,353 likes - 279 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 278 | [Samba de orla](https://open.spotify.com/track/69OKsm8bcjSqRcVr2QAvW9) | [O F F](https://open.spotify.com/artist/5IjGvQKE2nsaL2RkqnqYfG) | [Samba de orla](https://open.spotify.com/album/6E7R0nN7PBwQkCf54aQbeM) | 1:47 |
 | 279 | [winter balloon](https://open.spotify.com/track/6qKhsRKyfUbeqeIEArP2d8) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [winter balloon](https://open.spotify.com/album/69793ppyxJHCz149lVQHIt) | 2:11 |
 
-Snapshot ID: `MCxlMDg2ZTQ1YzIyZGE1MzkzMWU2Y2MyNGY3NTU3MzdlOTA2Y2FkNmRm`
+Snapshot ID: `MCxmMTlkNDM4MTljODM3ZjkxYTAxNTJhMDBkMTIzYjJlMGRhYzA2ZDUy`

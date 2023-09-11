@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 516914,
+  "num_followers": 517049,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjQ1YTRkODM4YzgzM2ZkYjdiNWJhZTg0NzdlNmZhZTNjZmY2Y2Q0",
+  "snapshot_id": "MCwxNGIzNmNlMGIxNDE3OGYxOWFlNWJhYmJlNDU2N2JkY2RiODJhZTUw",
   "tracks": [
     {
       "added_at": "2023-09-08 23:42:45",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
         "name": "Lo Que Siempre So\u00f1amos Ser",
         "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 229760,
       "name": "A quien t\u00fa decidiste amar",
       "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/2FQeikDvH8PH7JhunCQ6j1"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "La Mujer Que No So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/2rgH6C08H3J2AWlckoG9Vm"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
         "name": "No Se Acaba Hasta Que Acabe",
         "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 186832,
       "name": "No Se Acaba Hasta Que Acabe",
       "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/2FQeikDvH8PH7JhunCQ6j1"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "La Mujer Que No So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/2rgH6C08H3J2AWlckoG9Vm"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
         "name": "Si Me Dejas Ahora",
         "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
-        "name": "Mas Turbada Que Nunca",
-        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
         "name": "Que Triste",
         "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 226339,
       "name": "Que Triste",
       "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
     },
     {
       "added_at": "2023-09-08 23:42:45",

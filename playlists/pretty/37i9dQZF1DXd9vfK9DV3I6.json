@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 279821,
+  "num_followers": 280027,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzVjZWE0OTM4MDBjMTNmMzU4OTU4NTYzZDJjZTIyZjgyNGRmZjZh",
+  "snapshot_id": "MCxmODI0NmQwMTZiODI1ODA0MTQ2ZGI5YWRmMGI4NDYzNDlhZmE4Nzdi",
   "tracks": [
     {
       "added_at": "2023-08-29 06:11:23",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "Isla Bonita",
         "url": "https://open.spotify.com/album/1zpMJrknblXdoE5PW9xmr2"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
       },
       "artists": [
         {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
         }
       ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -711,6 +695,22 @@
       "duration_ms": 193149,
       "name": "Nu Vreau",
       "url": "https://open.spotify.com/track/2R5TjEso8PJ9TcSoGjVfwH"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Arabian Magic",
-        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Arabian Magic",
-      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "Ederlezi (feat. Dikanda)",
         "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
       },
@@ -871,26 +855,54 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+        "name": "Arabian Magic",
+        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
       },
       "artists": [
         {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
-        },
-        {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
-        },
-        {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
         }
       ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+      "duration_ms": 188000,
+      "name": "Arabian Magic",
+      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 219202,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "Escuro",
+        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
+      },
+      "artists": [
+        {
+          "name": "Cut Off",
+          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+        }
+      ],
+      "duration_ms": 285913,
+      "name": "Escuro",
+      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -915,38 +927,26 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Escuro",
-        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
       },
       "artists": [
         {
-          "name": "Cut Off",
-          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
-        }
-      ],
-      "duration_ms": 285913,
-      "name": "Escuro",
-      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
         },
         {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
         }
       ],
-      "duration_ms": 219202,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2"
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Che Danestam (Seventh Soul Remix)",
+        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
+      },
+      "artists": [
+        {
+          "name": "Homayoun Shajarian",
+          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
+        },
+        {
+          "name": "Seventh Soul",
+          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
+        }
+      ],
+      "duration_ms": 506666,
+      "name": "Che Danestam - Seventh Soul Remix",
+      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 435121,
       "name": "Tawada - Saint Evo Remix",
       "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Che Danestam (Seventh Soul Remix)",
-        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
-      },
-      "artists": [
-        {
-          "name": "Homayoun Shajarian",
-          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
-        },
-        {
-          "name": "Seventh Soul",
-          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
-        }
-      ],
-      "duration_ms": 506666,
-      "name": "Che Danestam - Seventh Soul Remix",
-      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
-      },
-      "artists": [
-        {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
-        },
-        {
-          "name": "omar",
-          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "Sakaratou Achiqin",
         "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 139415,
       "name": "Sakaratou Achiqin",
       "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
+      },
+      "artists": [
+        {
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+        },
+        {
+          "name": "omar",
+          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1547,6 +1547,34 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
+      },
+      "artists": [
+        {
+          "name": "Billy Esteban",
+          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
+        },
+        {
+          "name": "Ghenwa Nemnom",
+          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Yohan & David",
+          "url": "https://open.spotify.com/artist/2qeOIsxc6nlKxjjAHVJvik"
+        }
+      ],
+      "duration_ms": 452950,
+      "name": "Mosaic - Yohan & David Remix",
+      "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
@@ -1563,34 +1591,6 @@
       "duration_ms": 334889,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Ilios",
-        "url": "https://open.spotify.com/album/0dn8zaFhDYjDuqOKGhr0Kw"
-      },
-      "artists": [
-        {
-          "name": "Elias Fassos",
-          "url": "https://open.spotify.com/artist/5glRRiw6NgCIzj66ZHM1Uu"
-        },
-        {
-          "name": "RisK (Gr)",
-          "url": "https://open.spotify.com/artist/0ZfmG4J0veKfdBCeUyIA9H"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Ghenwa Nemnom",
-          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
-        }
-      ],
-      "duration_ms": 374857,
-      "name": "Ilios",
-      "url": "https://open.spotify.com/track/2IUWM1lWpUQU6zCxlHx8Kw"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1627,30 +1627,30 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
+        "name": "Ilios",
+        "url": "https://open.spotify.com/album/0dn8zaFhDYjDuqOKGhr0Kw"
       },
       "artists": [
         {
-          "name": "Billy Esteban",
-          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
+          "name": "Elias Fassos",
+          "url": "https://open.spotify.com/artist/5glRRiw6NgCIzj66ZHM1Uu"
         },
         {
-          "name": "Ghenwa Nemnom",
-          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
+          "name": "RisK (Gr)",
+          "url": "https://open.spotify.com/artist/0ZfmG4J0veKfdBCeUyIA9H"
         },
         {
           "name": "Cafe De Anatolia",
           "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         },
         {
-          "name": "Yohan & David",
-          "url": "https://open.spotify.com/artist/2qeOIsxc6nlKxjjAHVJvik"
+          "name": "Ghenwa Nemnom",
+          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
         }
       ],
-      "duration_ms": 452950,
-      "name": "Mosaic - Yohan & David Remix",
-      "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
+      "duration_ms": 374857,
+      "name": "Ilios",
+      "url": "https://open.spotify.com/track/2IUWM1lWpUQU6zCxlHx8Kw"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1675,30 +1675,6 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "El Hawa",
-        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        },
-        {
-          "name": "Hayam Mansour",
-          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
-        }
-      ],
-      "duration_ms": 347855,
-      "name": "El Hawa",
-      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1739,6 +1715,30 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "El Hawa",
+        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        },
+        {
+          "name": "Hayam Mansour",
+          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
+        }
+      ],
+      "duration_ms": 347855,
+      "name": "El Hawa",
+      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "Yasameen",
         "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
       },
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
         "url": "https://open.spotify.com/album/7lwzhzgV4j0WKksieLPrAs"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 276299,
       "name": "Shibren - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/0EyVOeAJ3kjfcVkFv2AxxB"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Lane Moje",
+        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Lane Moje - Radio Edit",
+      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "Arab Money",
         "url": "https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 136800,
       "name": "Arab Money",
       "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Lane Moje",
-        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
-      },
-      "artists": [
-        {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Lane Moje - Radio Edit",
-      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
     },
     {
       "added_at": "2023-08-29 06:11:23",

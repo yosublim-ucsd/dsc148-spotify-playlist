@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-647 songs - 1 day 18 hr 43 min
+648 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Colorful Raindrop](https://open.spotify.com/track/3dVcGtf7hg1Ma0jmt03P9q) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Colorful Raindrop](https://open.spotify.com/album/6Xr7K3xKDAxS1nUwyRDvOW) | 3:08 | 2022-11-01 | 2022-11-03 |
 | [Colorful Raindrop](https://open.spotify.com/track/3mdEo8YTPXlcZlvpVhFEgY) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Colorful Raindrop](https://open.spotify.com/album/52eAKerLBLJvoP6eXtKhNB) | 3:08 | 2022-11-01 | 2022-11-09 |
 | [conversation \- Prod\. by DPR CREAM](https://open.spotify.com/track/3KYoEkpQ0P35PC3l2UYNdz) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [conversation \(Prod\. by DPR CREAM\)](https://open.spotify.com/album/7B9jkm5VB5RW3EF3qS0ngG) | 3:24 | 2023-08-29 | 2023-09-09 |
+| [conversation \- Prod\. by DPR CREAM](https://open.spotify.com/track/5X07yV5IC4LYs9rnshOABJ) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [RUNWAY](https://open.spotify.com/album/78Q2Qyf2Yyxp4cFSHluJxj) | 3:24 | 2023-09-08 |  |
 | [Cosmic Love \(2021 Remix\)](https://open.spotify.com/track/0aXtD6yVzjYAdHcHVo16hU) | [1986 OMEGA TRIBE](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [The Reverb 2022 OMEGA TRIBE \-VAP Edition\-](https://open.spotify.com/album/0YmD6k6pMLxnb9E3R1DdsY) | 4:12 | 2022-06-14 | 2023-07-26 |
 | [countdown \- prod\. Shin Sakiura & ZIN](https://open.spotify.com/track/7kg73PDeip6tT32vZHJ2hh) | [GaRDeN](https://open.spotify.com/artist/6blpRxldFfjqsSOm3s5DZi) | [countdown \(prod\. Shin Sakiura & ZIN\)](https://open.spotify.com/album/39cmHGqTMKDUo0tyUSKu7T) | 4:18 | 2022-10-06 | 2022-10-12 |
 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 | 2023-04-18 | 2023-04-26 |
@@ -124,7 +125,7 @@
 | [Falling](https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Falling](https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf) | 5:13 | 2023-02-28 | 2023-08-16 |
 | [FANCITY](https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [Soulflex](https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS) | [FANCITY](https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj) | 4:02 | 2023-03-14 | 2023-08-15 |
 | [FANTASY](https://open.spotify.com/track/0ODFwt700hdQ8oLqvJYHT6) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [swing in the dark](https://open.spotify.com/album/5CTADoSfMQnu66awJEeqgl) | 3:28 | 2022-07-26 | 2022-07-28 |
-| [FANTASY](https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [PRISMATICS](https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt) | 3:30 | 2022-09-13 |  |
+| [FANTASY](https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [PRISMATICS](https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt) | 3:30 | 2022-09-13 | 2023-09-11 |
 | [Far Away](https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Far Away](https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q) | 3:27 | 2022-05-24 | 2022-12-13 |
 | [Favorite](https://open.spotify.com/track/1lTzaT129glHTIpSNg6rUW) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [MUSIC, DANCE & LOVE](https://open.spotify.com/album/4KAOXSADegSXNIkGkHoQJq) | 5:06 | 2022-11-15 | 2022-12-07 |
 | [feel my hush \- English ver](https://open.spotify.com/track/6qrE61VzlfJMPGbu8xNdo7) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [feel my hush \(English ver.\)](https://open.spotify.com/album/439p5AHGxgLyC8uSH7W0SO) | 3:28 | 2022-06-21 | 2022-06-29 |

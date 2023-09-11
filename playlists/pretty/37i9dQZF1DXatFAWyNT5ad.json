@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Nightly",
-  "num_followers": 121736,
+  "num_followers": 121826,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDdhOWRmYzUxNTYwMzIwODZlYTdlYjAzNDM2NjdhYmRiODJhMTgw",
+  "snapshot_id": "MCxmNTI5NjQ4ZjVlNmJlZWMwZTY1ZDdiNDYyZDI2MjAzNzZhYTBiYTM1",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "POS",
-        "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 133882,
-      "name": "POS",
-      "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Seventeen Going Under",
         "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 302360,
       "name": "Seventeen Going Under",
       "url": "https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "POS",
+        "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 133882,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "How Do You Love Somebody",
-        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "How Do You Love Somebody",
-      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Blood Bunny",
         "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "How Do You Love Somebody",
+        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "How Do You Love Somebody",
+      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "I Hope I'm Not Sick",
-        "url": "https://open.spotify.com/album/6bCQByW20neZO3EAjsTU1D"
-      },
-      "artists": [
-        {
-          "name": "Loveless",
-          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
-        }
-      ],
-      "duration_ms": 151502,
-      "name": "I Hope I'm Not Sick",
-      "url": "https://open.spotify.com/track/6VhW4SEd95xRlRKZbkQRGh"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "California Girl",
         "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Where The Light Goes",
-        "url": "https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV"
+        "name": "I Hope I'm Not Sick",
+        "url": "https://open.spotify.com/album/6bCQByW20neZO3EAjsTU1D"
       },
       "artists": [
         {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
         }
       ],
-      "duration_ms": 212649,
-      "name": "Queen of New York City",
-      "url": "https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D"
+      "duration_ms": 151502,
+      "name": "I Hope I'm Not Sick",
+      "url": "https://open.spotify.com/track/6VhW4SEd95xRlRKZbkQRGh"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1503,6 +1487,22 @@
       "duration_ms": 118759,
       "name": "One of the Guys",
       "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Where The Light Goes",
+        "url": "https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 212649,
+      "name": "Queen of New York City",
+      "url": "https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
-      },
-      "artists": [
-        {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Piggie",
         "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 178789,
       "name": "Piggie",
       "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
+      },
+      "artists": [
+        {
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2123,18 +2123,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Don't Get Me Wrong",
-        "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ"
       },
       "artists": [
         {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
         }
       ],
-      "duration_ms": 173132,
-      "name": "Don't Get Me Wrong",
-      "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
+      "duration_ms": 113494,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K"
     }
   ],
   "unique_name": "Pop Rock",

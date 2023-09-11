@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 54426,
+  "num_followers": 54484,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzVjNjQ4MjUxOTk5MDE4NTI5YmQyMWZiODYyMmU2Y2MzOTJiNDkz",
+  "snapshot_id": "MCxkMGI5ZDI2NTUwZjAyNTE4NWI3ZDJhOWJjNjVkMGVhNWRlZDAyYTVl",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Player's Club",
-        "url": "https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Suede",
-      "url": "https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 325093,
       "name": "La Dolce Vita",
       "url": "https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Player's Club",
+        "url": "https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Suede",
+      "url": "https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "My Inspiration",
-        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 307506,
-      "name": "All Jazzed Up (And Nowhere To Go)",
-      "url": "https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Keepin' It Cool",
         "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 214986,
       "name": "Keepin' It Cool",
       "url": "https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "My Inspiration",
+        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 307506,
+      "name": "All Jazzed Up (And Nowhere To Go)",
+      "url": "https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Talk of the Town",
-        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "Tale of Two Cities",
-      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "110 Degrees and Rising",
         "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 279653,
       "name": "Just Like The First Time",
       "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
+      },
+      "artists": [
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Tale of Two Cities",
+      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
     },
     {
       "added_at": "2020-08-19 19:15:51",

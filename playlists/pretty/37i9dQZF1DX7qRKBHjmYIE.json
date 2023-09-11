@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked just for you. \u2728 Cover: Cuco & Aleman",
-  "num_followers": 764188,
+  "num_followers": 764167,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGYwNDkzZGIwYzVhYWE1N2ZiYTQwN2U4MzM0MjRiNzdmN2ExMDE0",
+  "snapshot_id": "MCxhYTBlYWVkZGU5NjBhZjcwZGUxOTVmYjI4ZDkyNDhmOWM5ZmNkZDc5",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -587,18 +587,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "El Rio",
-        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
       },
       "artists": [
         {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        },
+        {
+          "name": "Tetra Collective",
+          "url": "https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k"
         }
       ],
-      "duration_ms": 134884,
-      "name": "El Rio",
-      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
+      "duration_ms": 253747,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -623,22 +627,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
+        "name": "El Rio",
+        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
       },
       "artists": [
         {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        },
-        {
-          "name": "Tetra Collective",
-          "url": "https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 253747,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
+      "duration_ms": 134884,
+      "name": "El Rio",
+      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
     },
     {
       "added_at": "2023-09-08 04:00:00",

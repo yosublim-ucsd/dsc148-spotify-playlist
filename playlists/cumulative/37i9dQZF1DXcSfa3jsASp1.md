@@ -4,7 +4,7 @@
 
 > Rock that was on repeat during the summers of the 2010s.
 
-163 songs - 10 hr 23 min
+164 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 | 2020-05-15 |  |
 | [Fever](https://open.spotify.com/track/4MzGM692jKGkNSQ7qzeTaJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Fever](https://open.spotify.com/album/1zhu7OpZFp2wJrPbyQHA37) | 4:06 | 2020-05-15 | 2022-07-29 |
 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 | 2020-05-15 |  |
-| [Hallelujah](https://open.spotify.com/track/6TzJLISIitIzn1WtjDY0Op) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:00 | 2020-05-15 |  |
+| [Hallelujah](https://open.spotify.com/track/6TzJLISIitIzn1WtjDY0Op) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:00 | 2020-05-15 | 2023-09-11 |
 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 | 2020-05-15 |  |
 | [HARD LOVE \(feat\. Lauren Daigle\)](https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:37 | 2020-05-15 | 2022-07-29 |
 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 | 2020-05-15 |  |
@@ -69,6 +69,7 @@
 | [Help Is On The Way](https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:57 | 2020-05-15 |  |
 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 | 2020-05-15 | 2023-09-03 |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2020-05-15 |  |
+| [House of the Rising Sun](https://open.spotify.com/track/0KxKNPHZpOLvJaT8ATekoT) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK) | 4:07 | 2020-05-15 |  |
 | [House of the Rising Sun](https://open.spotify.com/track/2SgQsZIWs0UC01ibNOBu7q) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 4:07 | 2020-05-15 | 2023-08-20 |
 | [House of The Rising Sun](https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 4:07 | 2020-05-15 | 2022-07-29 |
 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 | 2020-05-15 |  |

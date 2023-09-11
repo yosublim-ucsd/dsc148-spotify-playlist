@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6604\)
+## Playlists \(6606\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -336,6 +336,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [AMPLIFIKA](/playlists/pretty/37i9dQZF1DX95vhptNy3YE.md)
 - [AMY](/playlists/pretty/3QAT1vJA7CAIHIRP9Gkyqj.md)
 - [AMÉMÉ DJ Mix](/playlists/pretty/37i9dQZF1DX7Wo3VLsu4cA.md)
+- [ANGRY ANGRY](/playlists/pretty/37i9dQZF1DX9GmeT1z7ciw.md)
 - [ANNA's DJ Mix](/playlists/pretty/37i9dQZF1DWSXhGIsh9lqr.md)
 - [ANTS Guest List](/playlists/pretty/37i9dQZF1DX3FNkD0kDpDV.md)
 - [API Pride](/playlists/pretty/37i9dQZF1DX7eWGbr5dV3X.md)
@@ -2079,6 +2080,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Gentle Pilates](/playlists/pretty/37i9dQZF1DX0cwElyqFJT8.md)
 - [Gentle Rains](/playlists/pretty/37i9dQZF1DX2mFmJUZg4Mp.md)
 - [Gentle Waves](/playlists/pretty/37i9dQZF1DX3f9U3gq0DBT.md)
+- [George FitzGerald DJ Mix](/playlists/pretty/37i9dQZF1DWZitQcAqBlfq.md)
 - [Get Chores Done](/playlists/pretty/37i9dQZF1DXdVbxH0H5oTi.md)
 - [Get Happy!](/playlists/pretty/4Buj61XKuhfVLsW8rPX8YQ.md)
 - [Get Lifted](/playlists/pretty/6jbGdICAmvGjlURC1gcgRe.md)

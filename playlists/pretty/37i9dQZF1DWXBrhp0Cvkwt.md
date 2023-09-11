@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,848 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,859 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 70 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
 | 71 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 |
 | 72 | [affection](https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG) | 3:55 |
-| 73 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 |
-| 74 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
+| 73 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
+| 74 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 |
 | 75 | [Been Like This](https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:57 |
 | 76 | [ghostin](https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:31 |
-| 77 | [Sleep Thru Ur Alarms](https://open.spotify.com/track/3Mmt4wAMtWRmObAxbejpPe) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Surrender \(2014 \- 2017\)](https://open.spotify.com/album/78RlalVILUrWdkRSHiNT2z) | 1:52 |
-| 78 | [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 |
+| 77 | [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 |
+| 78 | [Sleep Thru Ur Alarms](https://open.spotify.com/track/3Mmt4wAMtWRmObAxbejpPe) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Surrender \(2014 \- 2017\)](https://open.spotify.com/album/78RlalVILUrWdkRSHiNT2z) | 1:52 |
 | 79 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 |
 | 80 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 |
 
-Snapshot ID: `MCxjYzBiMDgyNGE2MTQwMWRmNjVmYWNkMDUzYjU3MjJiYjMwM2VjMmMy`
+Snapshot ID: `MCwyMzFhYTQ2MmU5YjMwZGQ3OTY0MDg3ZTFkNTY4OTRmMmI4MTBmOTdj`

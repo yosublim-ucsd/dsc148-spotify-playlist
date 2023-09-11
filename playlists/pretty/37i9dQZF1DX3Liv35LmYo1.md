@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,368 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,411 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 13 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 |
 | 14 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 |
 | 15 | [Skulled](https://open.spotify.com/track/74zH3oGg6qcrm58X7Q1cjw) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 5:12 |
-| 16 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
-| 17 | [TIOLI](https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/0LHWXE2N0oByFLjTqcfrkb) | 4:38 |
+| 16 | [TIOLI](https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/0LHWXE2N0oByFLjTqcfrkb) | 4:38 |
+| 17 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
 | 18 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 |
 | 19 | [Moving Still \- Reprise](https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf) | [Oliver Henry](https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD) | [From The Ashes EP](https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856) | 2:18 |
 | 20 | [Keep Shimmering](https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM) | 4:23 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 44 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
 | 45 | [SFC \- Hommage Mix](https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Basic Instinct](https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q) | 4:44 |
 | 46 | [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Kendl](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 |
-| 47 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 |
-| 48 | [Higher Elevation](https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04) | 6:13 |
+| 47 | [Higher Elevation](https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04) | 6:13 |
+| 48 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 |
 | 49 | [CIRCLES](https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [CIRCLES](https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD) | 4:34 |
 | 50 | [Halcyon & On \- Logic1000 Mix](https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Halcyon \(30 Something\) \[Remixes\]](https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W) | 4:52 |
 
-Snapshot ID: `MCxkZDJkOTRkOTMyMzRjNzk3YTdhZTY2MzM5OTljOWZjZWNiMDdhMGRl`
+Snapshot ID: `MCwyYjE4ODMzNDhhN2ZmYzczNTZlY2VmMWMwYjg1YjMwMjA1MDBjZDQ0`

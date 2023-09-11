@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 230960,
       "name": "S\u00e0i G\u00f2n Ni\u1ec1m Nh\u1edb Kh\u00f4ng T\u00ean",
       "url": "https://open.spotify.com/track/2dpdXnhU0eFshwdNc9gxYv"
@@ -3540,6 +3540,24 @@
       "duration_ms": 309466,
       "name": "Xin Th\u1eddi Gian Qua Mau",
       "url": "https://open.spotify.com/track/1cFQ97xPMbOqlH8V7B9Ytn"
+    },
+    {
+      "album": {
+        "name": "Xu\u00e2n \u0110i L\u1ec5 Ch\u00f9a",
+        "url": "https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc"
+      },
+      "artists": [
+        {
+          "name": "Duy Khanh",
+          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305920,
+      "name": "Xu\u00e2n N\u00e0y Con Kh\u00f4ng V\u1ec1",
+      "url": "https://open.spotify.com/track/7rQUKFLXPOIYpvFKNddRcS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 populairste hits van Nederland\. Cover: Anne\-Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,083 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,190 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 10 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
 | 11 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
 | 12 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 |
-| 13 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 13 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 14 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 |
 | 15 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 16 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 49 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
 | 50 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 |
 
-Snapshot ID: `MCwzNTUyODMwY2U2YzI2MDJkNmFhNjJlNzY3YzRlNjJjMmNiNDU5MmFm`
+Snapshot ID: `MCw3YTgyYTAyYzIxOTJiOGFiMjA4MzgzZTE5YzU3MWU2YzBhOTdjZTA3`

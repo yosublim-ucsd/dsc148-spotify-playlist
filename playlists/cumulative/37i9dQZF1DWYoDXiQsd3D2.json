@@ -270,6 +270,24 @@
     {
       "album": {
         "name": "An Incoherent Meditation On A Fucked Up Year",
+        "url": "https://open.spotify.com/album/6at6VquluJUiU6jti8aJTE"
+      },
+      "artists": [
+        {
+          "name": "What After This?",
+          "url": "https://open.spotify.com/artist/2EOmCCwdMcNXiYOzQ4GtmM"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193571,
+      "name": "An Incoherent Meditation On A Fucked Up Year",
+      "url": "https://open.spotify.com/track/0M1VZ7yHjwg4SGn7SvVOHG"
+    },
+    {
+      "album": {
+        "name": "An Incoherent Meditation On A Fucked Up Year",
         "url": "https://open.spotify.com/album/2tuwvX2N0wkBI41wx1BYHB"
       },
       "artists": [
@@ -280,7 +298,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 193571,
       "name": "An Incoherent Meditation On A Fucked Up Year",
       "url": "https://open.spotify.com/track/364cCr4sxAmNHTLp31Pnfn"

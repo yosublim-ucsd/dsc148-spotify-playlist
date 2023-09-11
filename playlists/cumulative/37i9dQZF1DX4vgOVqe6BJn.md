@@ -4,7 +4,7 @@
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-126 songs - 7 hr 1 min
+127 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [High Level](https://open.spotify.com/track/7kdDzuTex0Z84GMcH98l4E) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/221gN8YGCd9AvgolHsd2eC) | 2:39 | 2022-09-22 |  |
 | [Hurt Me](https://open.spotify.com/track/2u2nlJGXbc4cFCOSaSB0rL) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [Icarus](https://open.spotify.com/album/3hyDsN7pD5tXtNTFDatTQp) | 3:23 | 2022-09-22 | 2022-10-13 |
 | [Hurt Me](https://open.spotify.com/track/4o4iusqhnZGGBruQ8cp8ZA) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [Icarus](https://open.spotify.com/album/2VNYTjbqZ3rc3AZ4TrKFJw) | 3:23 | 2022-09-22 |  |
-| [I'm Gon' Get You](https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s) | [Tassia Zappia](https://open.spotify.com/artist/7bXqujdpOq3rBiEmUF6M5k) | [I'm Gon' Get You](https://open.spotify.com/album/4gGhnFi58lYP7rJyomWx1p) | 2:47 | 2022-09-30 |  |
+| [I'm Gon' Get You](https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s) | [Tassia Zappia](https://open.spotify.com/artist/7bXqujdpOq3rBiEmUF6M5k) | [I'm Gon' Get You](https://open.spotify.com/album/4gGhnFi58lYP7rJyomWx1p) | 2:47 | 2022-09-30 | 2023-09-11 |
 | [i'm not okay](https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:35 | 2022-09-22 |  |
 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 | 2022-09-22 |  |
 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 | 2022-09-22 |  |
@@ -101,6 +101,7 @@
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-09-22 |  |
 | [Quiet On Set](https://open.spotify.com/track/1MayFYhQQvVD4IzD7dqBBj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:15 | 2022-09-22 |  |
 | [READY4DEM](https://open.spotify.com/track/6vFjgISjK4fwJYPnMt8zAX) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [READY4DEM](https://open.spotify.com/album/5vdRPZLNiSdQbZKAkmRiEE) | 4:22 | 2022-09-22 | 2023-09-08 |
+| [READY4DEM](https://open.spotify.com/track/7CHVm8NeCxvPuCXyAGAx3v) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [READY4DEM](https://open.spotify.com/album/6tCi26oMJXUAQHMGntdxvL) | 4:22 | 2023-01-25 |  |
 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 | 2023-01-25 |  |
 | [Rips in Jeans](https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Rips in Jeans](https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0) | 2:43 | 2022-09-30 |  |
 | [Rollout \(feat\. Jay Prince, Scrufizzer & Close Counters\)](https://open.spotify.com/track/16Y3IuWraX46DMtrATcIaY) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY) | [Rollout](https://open.spotify.com/album/3freFdGNjhuPplhWe9m6Gn) | 3:04 | 2022-09-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,167 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,197 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 15 | [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 |
 | 16 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 |
 | 17 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 |
-| 18 | [Barrio](https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc) | [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Barrio](https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS) | 2:05 |
-| 19 | [Floripa](https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Floripa](https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce) | 1:59 |
+| 18 | [Floripa](https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Floripa](https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce) | 1:59 |
+| 19 | [Barrio](https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc) | [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Barrio](https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS) | 2:05 |
 | 20 | [Aves del Sur](https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Aves del Sur](https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe) | 3:09 |
 | 21 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 |
 | 22 | [Tudo Bem](https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [Nova](https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin) | 1:56 |
 | 23 | [Parque de Bugambilias](https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Parque de Bugambilias](https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9) | 2:33 |
 | 24 | [Cumbiero](https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Cumbiero](https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3) | 1:39 |
 | 25 | [Ukelele At Night](https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF), [Bryan Pelayo](https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK) | [Canciones para Escuchar Frente a la Ventana](https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy) | 1:33 |
-| 26 | [Like Coconut From The Tree](https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Like Coconut From The Tree](https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC) | 2:02 |
-| 27 | [Happiness](https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Sosiego](https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV) | 1:48 |
+| 26 | [Happiness](https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Sosiego](https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV) | 1:48 |
+| 27 | [Like Coconut From The Tree](https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Like Coconut From The Tree](https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC) | 2:02 |
 | 28 | [Mi Pueblo](https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Mi Pueblo](https://open.spotify.com/album/02WfhEBpCed81725wg1lsx) | 1:54 |
 | 29 | [Areca](https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Areca](https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR) | 1:59 |
 | 30 | [Te Adoro](https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [9T7](https://open.spotify.com/artist/6FUrvlop2OuQ4v0NLgkaKD), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Te Adoro](https://open.spotify.com/album/6YpkDFutK6pQfAdSQiwwp5) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 49 | [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 |
 | 50 | [are you kidding?](https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [are you kidding?](https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v) | 2:11 |
 
-Snapshot ID: `MCw3OTNlODBlOGQ0YzAwMTYyNDIyNjE1Y2FmM2MwODQ1ZjIwYTg4MmMx`
+Snapshot ID: `MCxlNWQzZDhlYTk5ZTM0Mzc0M2JlYTdkYTIxZDgyMzEyOGNkZGVmYTUx`

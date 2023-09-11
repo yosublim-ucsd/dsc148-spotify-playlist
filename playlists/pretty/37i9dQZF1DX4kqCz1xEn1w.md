@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,318 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,314 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 62 | [Zeal \- Live](https://open.spotify.com/track/4JXSzNLxnP1xuvHtzuYUN9) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Henry Seeley](https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 4:02 |
 | 63 | [O Lord, My Rock and My Redeemer \- Live](https://open.spotify.com/track/5EweZzmxnku4xK98c07Fqc) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [Prayers of the Saints \(Live\)](https://open.spotify.com/album/6vx3WJiAST38dlm8NiRXQR) | 4:06 |
 | 64 | [Look To The Lamb](https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Look To The Lamb](https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi) | 6:54 |
-| 65 | [Already Done](https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z) | 5:24 |
-| 66 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 5:32 |
+| 65 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 5:32 |
+| 66 | [Already Done](https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z) | 5:24 |
 | 67 | [In Christ Alone](https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Hymns For The Christian Life](https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz) | 4:17 |
 | 68 | [To The One \- Live](https://open.spotify.com/track/2IyccYJpcoIkl0Bps1JdFS) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y) | [To The One \(Live\)](https://open.spotify.com/album/2VzCv3uGlbmxPj3WYvXYHX) | 7:28 |
 | 69 | [Christ Is Risen](https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 4:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 100 | [You Are The Lord](https://open.spotify.com/track/5XYBrwScp68y8LGo08Na8x) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:10 |
 
-Snapshot ID: `MCxjMTBlOWUxY2Y0NjE5NzlhZGNkODI4NmY5NDUyYWJkZmEzYWQ1YzJl`
+Snapshot ID: `MCxlZTEzNzBjOGI3ZDg2Mjc3OWQ5MzgyMjdkNWY2MjdiNmM2NjNiYjky`

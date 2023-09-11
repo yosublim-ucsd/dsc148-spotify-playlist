@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 134916,
+  "num_followers": 134990,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjNmZjc4ZGE4ODAxNTRmZmM2ZjM2NWRjOGYyMmUxNzRkZDgwYWRk",
+  "snapshot_id": "MCxkOWU3ZDg1ODU1OGVlMDViNWNmNTNiOTMyM2I5NDI2ODhiZTQ0OGQz",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "All I Need Is You (Piano Version)",
-        "url": "https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N"
+        "name": "God Gave Me A Girl (Acoustic)",
+        "url": "https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI"
       },
       "artists": [
         {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 195806,
-      "name": "All I Need Is You - Piano Version",
-      "url": "https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS"
+      "duration_ms": 201020,
+      "name": "God Gave Me A Girl - Acoustic",
+      "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "All I Need Is You (Piano Version)",
+        "url": "https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 195806,
+      "name": "All I Need Is You - Piano Version",
+      "url": "https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "I Hate Cowboys & All Dogs Go To Hell",
         "url": "https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "What He Didn't Do (Acoustic)",
         "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 189555,
       "name": "What He Didn't Do - Acoustic",
       "url": "https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Best Shot (Acoustic)",
-        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Best Shot - Acoustic",
-      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Steady Heart (Wedding Version)",
         "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
       },
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "All I Know About Girls",
-        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
+        "name": "Best Shot (Acoustic)",
+        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 162920,
-      "name": "All I Know About Girls",
-      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
+      "duration_ms": 193293,
+      "name": "Best Shot - Acoustic",
+      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "All I Know About Girls",
+        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "All I Know About Girls",
+      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Somebody Like That (Acoustic)",
         "url": "https://open.spotify.com/album/1v9UST961rkk1uoMRUAgdV"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 194303,
       "name": "Somebody Like That - Acoustic",
       "url": "https://open.spotify.com/track/3gsnrXfYHjBM7dcUrz0UwK"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Breakups (Acoustic)",
-        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Breakups - Acoustic",
-      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "God Gave Me A Girl (Acoustic)",
-        "url": "https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI"
+        "name": "Breakups (Acoustic)",
+        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
         }
       ],
-      "duration_ms": 201020,
-      "name": "God Gave Me A Girl - Acoustic",
-      "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
+      "duration_ms": 227693,
+      "name": "Breakups - Acoustic",
+      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 211662,
       "name": "All On Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Hate Me More (Stripped)",
-        "url": "https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C"
-      },
-      "artists": [
-        {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
-        }
-      ],
-      "duration_ms": 160434,
-      "name": "Hate Me More (Stripped)",
-      "url": "https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "St. Louis",
         "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 274964,
       "name": "St. Louis",
       "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Hate Me More (Stripped)",
+        "url": "https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "Hate Me More (Stripped)",
+      "url": "https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Studio 900 Sessions",
-        "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 185847,
-      "name": "Waiting For You - Acoustic",
-      "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 195701,
       "name": "End of the Rain",
       "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Studio 900 Sessions",
+        "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 185847,
+      "name": "Waiting For You - Acoustic",
+      "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
     },
     {
       "added_at": "2023-09-08 04:00:00",

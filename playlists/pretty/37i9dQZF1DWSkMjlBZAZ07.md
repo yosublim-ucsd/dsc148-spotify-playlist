@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,974,331 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,974,443 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 26 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh) | 3:12 |
 | 27 | [Empress](https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [A Little Lift](https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2) | 3:19 |
 | 28 | [Wildfire](https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:13 |
-| 29 | [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 |
-| 30 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
+| 29 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
+| 30 | [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 |
 | 31 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 |
 | 32 | [Brazil](https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil](https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4) | 4:12 |
 | 33 | [1957](https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Milo Greene](https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w) | 3:24 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 86 | [Mountain To Move](https://open.spotify.com/track/3sdpasrIhFH4gWuoi0iWym) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mountain To Move](https://open.spotify.com/album/6Vcszn67is0yDZGxNOjvBP) | 3:56 |
 | 87 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
 | 88 | [Graveclothes](https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Graveclothes](https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH) | 3:47 |
-| 89 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 |
-| 90 | [Alive](https://open.spotify.com/track/3VEEWjzviZp6MIWpywkLRq) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [News from Nowhere](https://open.spotify.com/album/5HFjkWLcHmVHIwkMEgBltz) | 4:02 |
+| 89 | [Alive](https://open.spotify.com/track/3VEEWjzviZp6MIWpywkLRq) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [News from Nowhere](https://open.spotify.com/album/5HFjkWLcHmVHIwkMEgBltz) | 4:02 |
+| 90 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 |
 | 91 | [I Just Love You](https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 3:15 |
 | 92 | [Put It Together](https://open.spotify.com/track/0qau061S9oIy7S5xHruwHA) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 3:15 |
 | 93 | [Passengers](https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:32 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 96 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 |
 | 97 | [Borrow Trouble](https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 4:05 |
 | 98 | [Lay by Me](https://open.spotify.com/track/5HUynLdprJzINndFXcidfu) | [firekid](https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3) | [firekid](https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw) | 3:12 |
-| 99 | [Postcards](https://open.spotify.com/track/0pqLCQ7tArc5qAH3BnQ9EE) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Pure Serotonin](https://open.spotify.com/album/7ue0HaSAeeyfcpTBYutsk5) | 4:31 |
-| 100 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
+| 99 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
+| 100 | [Postcards](https://open.spotify.com/track/0pqLCQ7tArc5qAH3BnQ9EE) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Pure Serotonin](https://open.spotify.com/album/7ue0HaSAeeyfcpTBYutsk5) | 4:31 |
 
-Snapshot ID: `MCxlNzZkN2U3M2Q5ZTUwNDU0OTU5YzgwZjc2YzU2MjNhNTlhNzkyNzFi`
+Snapshot ID: `MCxmNTBiYWQ4YjUzZTMyOTI3ZGM5MzA3ZDU1YzNmOWQzMzQ1MzE4M2M1`

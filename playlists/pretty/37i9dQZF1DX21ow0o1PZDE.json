@@ -1,12 +1,12 @@
 {
   "description": "Todos los grandes \u00e9xitos del a\u00f1o, reunidos en un solo lugar. Fuerza Regida en portada.",
-  "num_followers": 830657,
+  "num_followers": 831203,
   "original_name": "Mega \u00c9xitos 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWYyMGYwODBiMGY2N2ZiNWE4ODc3ZDQwOTIzNWE2YTVkOGUyZDM5",
+  "snapshot_id": "MCw5NTUwZWJjMDY4ZWFmNmEwOTIwODllOGExYTM2ZmE3MmUzY2U2NzEx",
   "tracks": [
     {
       "added_at": "2023-08-31 21:54:53",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-07-28 16:25:12",
       "album": {
-        "name": "Die For You (Remix)",
-        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 232857,
-      "name": "Die For You - Remix",
-      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
-    },
-    {
-      "added_at": "2023-07-28 16:25:12",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2023-07-28 16:25:12",
+      "album": {
+        "name": "Die For You (Remix)",
+        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 232857,
+      "name": "Die For You - Remix",
+      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
     },
     {
       "added_at": "2023-07-28 16:25:12",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-28 16:25:12",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
-    },
-    {
-      "added_at": "2023-07-28 16:25:12",
-      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "added_at": "2023-07-28 16:25:12",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
       "added_at": "2023-07-28 16:25:12",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-07-28 16:25:12",
       "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "I WANNA BE YOUR SLAVE",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "added_at": "2023-07-28 16:25:12",
+      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
-    },
-    {
-      "added_at": "2023-07-28 16:25:12",
-      "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
     },
     {
       "added_at": "2023-07-28 16:25:12",
@@ -1131,26 +1131,6 @@
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2023-07-28 16:25:12",
-      "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": "2023-07-28 16:25:12",
@@ -1247,6 +1227,26 @@
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
+    },
+    {
+      "added_at": "2023-07-28 16:25:12",
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": "2023-07-28 16:25:12",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-07-28 16:25:12",
       "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "No Es Por Ac\u00e1",
+      "url": "https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF"
+    },
+    {
+      "added_at": "2023-07-28 16:25:12",
+      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2023-07-28 16:25:12",
       "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 167692,
-      "name": "No Es Por Ac\u00e1",
-      "url": "https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF"
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
       "added_at": "2023-07-28 16:25:12",
@@ -1479,22 +1495,6 @@
       "duration_ms": 158093,
       "name": "JGL",
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
-    },
-    {
-      "added_at": "2023-07-28 16:25:12",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
       "added_at": "2023-07-28 16:25:12",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2023-07-28 16:25:12",
       "album": {
-        "name": "LPM",
-        "url": "https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76"
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 223992,
-      "name": "La Bebe",
-      "url": "https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6"
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     }
   ],
   "unique_name": "Mega \u00c9xitos 2023",

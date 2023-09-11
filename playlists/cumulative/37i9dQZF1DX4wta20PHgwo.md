@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-397 songs - 1 day 12 hr 41 min
+398 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Avec le temps](https://open.spotify.com/track/5uBpbSDljWMFtKxMYHsmpY) | [Giovanni Guidi](https://open.spotify.com/artist/0VAje6P3IhEGip401fqMAY) | [Avec le temps](https://open.spotify.com/album/5fdgxokqyJvryTNsva6nwr) | 6:33 | 2020-05-02\* |  |
 | [Average](https://open.spotify.com/track/229ZWFvNqnE1dEgVbBLCVB) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Rainbow Sign](https://open.spotify.com/album/38R6cFBDMpVGvwx7Vuz4D5) | 11:12 | 2022-03-10 | 2022-11-16 |
 | [Azalea](https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7) | [Playing The Room](https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US) | 3:41 | 2020-05-02\* |  |
-| [Balance of Time](https://open.spotify.com/track/5ZHOaD5V7dd54rfo7gomqR) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [In Real Time](https://open.spotify.com/album/2zkgkyuC0eyxS2d73xTc2o) | 6:18 | 2023-08-03 |  |
+| [Balance of Time](https://open.spotify.com/track/5ZHOaD5V7dd54rfo7gomqR) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [In Real Time](https://open.spotify.com/album/2zkgkyuC0eyxS2d73xTc2o) | 6:18 | 2023-08-03 | 2023-09-11 |
 | [Balanced](https://open.spotify.com/track/3mFKpIwPki7CWYrt66vxD6) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Balanced](https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ) | 8:32 | 2023-03-16 |  |
 | [Ballad Of The Sad Young Men](https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4) | [Marcin Wasilewski](https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF), [Slawomir Kurkiewicz](https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR), [Michal Miskiewicz](https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT) | [Faithful](https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2) | 5:29 | 2021-02-17 |  |
 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv) | 4:13 | 2023-06-20 |  |
@@ -181,6 +181,7 @@
 | [It Never Entered My Mind](https://open.spotify.com/track/1vawGyH0kTmE8SCADEI5k2) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [It Never Entered My Mind](https://open.spotify.com/album/5lorPM42rAyHXCrnMecPmP) | 8:45 | 2023-08-03 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/6zGHpPBJFxudCfvrCmo6EF) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Hans Andersson](https://open.spotify.com/artist/0u7AFb2NdypFhoLJ8tYH8I), [Johan Lofcrantz Ramsay](https://open.spotify.com/artist/3yV0vWr0YdP5rPERtUL775), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS) | [It Never Entered My Mind](https://open.spotify.com/album/3nqEfqV0hlxvOegVjThfKq) | 6:15 | 2021-12-04 |  |
 | [It's Always You](https://open.spotify.com/track/6w4GCn9Tg8iJLUZlN3fxB7) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker My Ideal](https://open.spotify.com/album/2rdeJjByPHjFzKgMXg3JwC) | 3:31 | 2020-05-02\* | 2021-09-01 |
+| [Ithaka](https://open.spotify.com/track/3LT3gw0kVnRDM54FORz7av) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Ithaka](https://open.spotify.com/album/1Jo5HqiGeDbxi7IF6JIvD6) | 3:29 | 2023-09-08 |  |
 | [January](https://open.spotify.com/track/3bPNIOqP9KeWX0Z6SpM4qC) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 8:38 | 2020-05-02\* | 2022-07-26 |
 | [January](https://open.spotify.com/track/6O84d53YeV1buAGecAxoRA) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 8:38 | 2022-09-08 |  |
 | [Just Go Ahead](https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA) | [Federica Lorusso](https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ) | [Outside Introspections](https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf) | 5:09 | 2023-01-05 |  |

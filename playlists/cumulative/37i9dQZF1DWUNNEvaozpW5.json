@@ -770,7 +770,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 218742,
       "name": "Buena muerte",
       "url": "https://open.spotify.com/track/3ukdHzLqj0G4ZaeOFW9lVf"
@@ -1164,6 +1164,24 @@
       "duration_ms": 283373,
       "name": "Como Si Fueras a Morir Ma\u00f1ana - Madrid Nuclear - En Directo",
       "url": "https://open.spotify.com/track/0KlA1SYsu8sPIFR2oi6iLw"
+    },
+    {
+      "album": {
+        "name": "Madrid Nuclear - En Directo",
+        "url": "https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283373,
+      "name": "Como Si Fueras a Morir Ma\u00f1ana - Madrid Nuclear - En Directo",
+      "url": "https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa"
     },
     {
       "album": {

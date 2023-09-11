@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Karkwa
 
-2,028 songs - 4 day 12 hr 23 min
+2,029 songs - 4 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,6 +979,7 @@
 | [La nuit](https://open.spotify.com/track/3QNCQAYQqhEdv3zwWmBMX6) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [La nuit](https://open.spotify.com/album/1CaTDmBmiYtRJVvfVv0GT9) | 2:39 | 2022-06-10 | 2022-06-25 |
 | [La nuit nous laisse les étoiles](https://open.spotify.com/track/7eDJnQDTDWYu7mMCc0azhN) | [David Thibault](https://open.spotify.com/artist/19x0G0gV8vPa6l6kYNzKPT) | [Désormais](https://open.spotify.com/album/1U4Ano5gL9nyv7ujehVfLP) | 3:01 | 2023-01-27 | 2023-02-11 |
 | [La Nuit règne](https://open.spotify.com/track/781hUmNWjtcKD7Gz0nVAMR) | [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [Au cœur du royaume](https://open.spotify.com/album/58ZYHXWMuvOLy0GfRUMDdc) | 3:33 | 2022-06-10 | 2022-06-25 |
+| [La Peuf 6](https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [La Peuf 6](https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp) | 2:48 | 2023-09-08 |  |
 | [LA PLUME OU L’ARME](https://open.spotify.com/track/2r0KFnfmPqWSOUSm5m2Pob) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr) | [LA PLUME OU L’ARME](https://open.spotify.com/album/73hFazxCeNZmYRrWyqJQGc) | 3:02 | 2022-05-06 | 2022-05-14 |
 | [La recette](https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [La recette](https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v) | 3:17 | 2022-05-20 | 2022-05-28 |
 | [La Ronde](https://open.spotify.com/track/5mxvBhTdtp8bVxUOg1qjBe) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [La Ronde](https://open.spotify.com/album/44zJbRgjUPe7jlGjXBKUcQ) | 3:40 | 2022-02-04 | 2022-02-19 |
@@ -1430,7 +1431,7 @@
 | [Penses\-tu rester encore?](https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Il faut partir maintenant](https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm) | 2:58 | 2023-03-31 | 2023-04-23 |
 | [Pente Glissante](https://open.spotify.com/track/5w5qdCgFB05GvIxYZtvrAQ) | [Fovelle](https://open.spotify.com/artist/6LoMfV6BitdhcaKkme41PS), [Ultra Violette](https://open.spotify.com/artist/1BwyWuVKCq5Mb1ZXocJXXf) | [Pente Glissante](https://open.spotify.com/album/00LLiEpEFakogXUMdctpiY) | 3:02 | 2022-06-17 | 2022-06-25 |
 | [Peon \(feat\. Orelsan\)](https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:47 | 2022-02-04 | 2022-02-19 |
-| [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 | 2023-09-08 |  |
+| [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 | 2023-09-08 | 2023-09-11 |
 | [Perdue dans la foule](https://open.spotify.com/track/0Lu8eM6yx3iiRd5a7qV2gP) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [Perdue dans la foule](https://open.spotify.com/album/6ktUPQ7XXzXTWQBMUTZZAk) | 2:33 | 2023-02-10 | 2023-02-25 |
 | [perle plastique](https://open.spotify.com/track/293V1HZmxKGCyWu5Q6FMp1) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [perle plastique / amour aride](https://open.spotify.com/album/45fee7P68vLtss76aGZs26) | 3:59 | 2022-06-03 | 2022-06-11 |
 | [Perso](https://open.spotify.com/track/7E1R1yKPZAcstBHIgNjA4t) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Perso](https://open.spotify.com/album/2QD50nmvWfLINlgTy5Vnij) | 3:00 | 2022-06-03 | 2022-06-11 |

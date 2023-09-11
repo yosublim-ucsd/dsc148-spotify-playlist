@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,815 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,907 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 58 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 |
 | 59 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:36 |
 | 60 | [QUEEN BEE](https://open.spotify.com/track/3faVsOc6GJnh01unAc8D7I) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:28 |
-| 61 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 |
-| 62 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
+| 61 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
+| 62 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 |
 | 63 | [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 |
 | 64 | [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 |
 | 65 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 74 | [sorry isn't good enough](https://open.spotify.com/track/1PTjdobwHJOZc8NdtGvtKJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:07 |
 | 75 | [Love You So Bad](https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:42 |
 
-Snapshot ID: `MCxjYmNjZGU4Y2E1MTM0MDkyNGIwMDI5NTgxNmE1OWYxY2E4YjE3NTMy`
+Snapshot ID: `MCxiYzJkZDVmYzM5ZGJlNTQzMjUwYTU3MmE2YzNhMTMxMGY2NGEyMDlk`

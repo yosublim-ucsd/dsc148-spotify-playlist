@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Natalia Jiménez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,344 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,414 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 45 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 |
 | 46 | [No Quería Engañarte](https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [No Quería Engañarte](https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN) | 4:01 |
 | 47 | [Fue Tu Culpa](https://open.spotify.com/track/7hxPbThnIsDlQQwSCwBNbH) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Fue Tu Culpa](https://open.spotify.com/album/5NOb3XhFyTN9QQcfdjYHWd) | 3:45 |
-| 48 | [Te Vas](https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Vas](https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR) | 2:37 |
-| 49 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
-| 50 | [Prohibido Llorar](https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Prohibido Llorar](https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1) | 4:13 |
+| 48 | [Prohibido Llorar](https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Prohibido Llorar](https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1) | 4:13 |
+| 49 | [Te Vas](https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Vas](https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR) | 2:37 |
+| 50 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
 | 51 | [No Me Deja De Doler](https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [No Me Deja De Doler](https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ) | 2:37 |
 | 52 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 |
 | 53 | [Magia](https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Magia](https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB) | 2:37 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 89 | [Soy de Parral](https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Soy de Parral](https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE) | 3:25 |
 | 90 | [Por Ti Me Abrazaré](https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Por Ti Me Abrazaré](https://open.spotify.com/album/5qndP6JceszrhYHRcXwVBp) | 3:14 |
 | 91 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 |
-| 92 | [Cosiéndome el Corazón](https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Ya Llegó la Echeverría...](https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ) | 3:26 |
-| 93 | [Ese Fui Yo](https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Ese Fui Yo](https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom) | 2:42 |
-| 94 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
+| 92 | [No Te Fui Suficiente](https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Fui Suficiente](https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh) | 4:38 |
+| 93 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
+| 94 | [Ese Fui Yo](https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Ese Fui Yo](https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom) | 2:42 |
 | 95 | [Coincidir](https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Coincidencias](https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav) | 3:01 |
 | 96 | [¿Qué Le Echan al Tequila?](https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [¿Qué Le Echan al Tequila?](https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2) | 2:42 |
 | 97 | [Un Buen Amor](https://open.spotify.com/track/16tlajyYHYesuFa3NGhZW8) | [Fernando Rodriguez](https://open.spotify.com/artist/4iiVa7Hbjhosrvgnt5WjVs), [RR Records](https://open.spotify.com/artist/5ZNHChN7b75i9SGA4xUnWr) | [Un Buen Amor](https://open.spotify.com/album/2XM0gRxr8UVyb1pOBcxzdn) | 2:41 |
-| 98 | [No Te Fui Suficiente](https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Fui Suficiente](https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh) | 4:38 |
+| 98 | [Cosiéndome el Corazón](https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Ya Llegó la Echeverría...](https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ) | 3:26 |
 | 99 | [Seré](https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Seré](https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL) | 2:43 |
 | 100 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 |
 
-Snapshot ID: `MCw2M2I1YTRmYThiMGZmN2RlYjBhZTM0NjdjNTQxYTY1ODRhZmZhN2Iy`
+Snapshot ID: `MCxlNmNhMmI1YWJiZjZkNTExODVkY2QxMWNkZWFlYWIyMzZjOGIxODAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > carving their own lane\. James Blake on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,891 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,901 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 90 | [Fill Isself](https://open.spotify.com/track/4YxChTJ3007bI6NAzIB0aP) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Fill Isself](https://open.spotify.com/album/0PXE8Jsvdz8kYnvC2g9mS5) | 2:45 |
 | 91 | [ELEVATOR](https://open.spotify.com/track/2MZulN534Fv0S6PXNySzVg) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 2:55 |
 | 92 | [TANGOS DE UNA MOTO TRUCADA \- A COLORS SHOW](https://open.spotify.com/track/4dnBOxtVVEQX0T74GCJqCs) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [TANGOS DE UNA MOTO TRUCADA \- A COLORS SHOW](https://open.spotify.com/album/70NKeK6CqjbcIerWvSiuW6) | 2:57 |
-| 93 | [Mama's Eyes](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [Mama's Eyes](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
+| 93 | [MAMA'S EYES](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MAMA'S EYES](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
 | 94 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 |
 | 95 | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/track/4jSctcEMRrrjbOo60pbfmj) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu), [Sahati](https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf) | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/album/2Bom4X9Z5VZRH2tvWXRjx9) | 3:30 |
 | 96 | [White Flower](https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [White Flower](https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [X\-8](https://open.spotify.com/track/6svSVekX57s5RFxt4qDWg3) | [sineila](https://open.spotify.com/artist/0RWXZoAIcqlzCwMc9Tv4lh) | [X\-8](https://open.spotify.com/album/4X77dbBWhmyNOU5O1ramMb) | 1:51 |
 | 100 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 |
 
-Snapshot ID: `MCxkZjg1ZWE2NTViNmZlN2JjZmIzNjJkNzVkMTE3ODFmZWY3N2I5NmJm`
+Snapshot ID: `MCxiZTU1ZWY2ODIyZDFiYzU3NjlkOTNkYzQ2YmM5MThlMjkyZjY2NWIz`

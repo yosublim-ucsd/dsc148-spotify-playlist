@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,133 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,196 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 22 | [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:42 |
 | 23 | [Aisi Raaton](https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Aisi Raaton](https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R) | 3:38 |
 | 24 | [Madhubala](https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Songs of Love](https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o) | 4:03 |
-| 25 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
-| 26 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 |
+| 25 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 |
+| 26 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
 | 27 | [Dooba Dooba](https://open.spotify.com/track/61IEe4ujPKOU7OIyubydfz) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 5:03 |
-| 28 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 |
-| 29 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
+| 28 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
+| 29 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 |
 | 30 | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/track/4SlCYFaUQ8GRuwdpgniaGF) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/album/5EyIytU4jYrTCuf8Xy49M3) | 3:18 |
 | 31 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 |
 | 32 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 49 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 |
 | 50 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
 
-Snapshot ID: `MCwxNTAwOWNlMjM1NTgyOWQzMTZiMmRjNTVkZDI1YmI5NDVlYzc3YzBm`
+Snapshot ID: `MCwxNTIzNmRlNTAyODhjNWU0M2Q0Njc3OWYxODg0NzYwOTdiNzk5MWU5`

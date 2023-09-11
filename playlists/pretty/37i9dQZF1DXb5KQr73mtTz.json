@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 11310,
+  "num_followers": 11345,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmIwMzdkN2Q0MDFiZDc1YTRmM2QwYmM4ZDQzMTY1NDRmOGU1OGZl",
+  "snapshot_id": "MCwwNDRmNmZkNjdlMjE3M2VjZTg3ODI2ZGZkY2Q2M2FkMDA4ODBjNjg1",
   "tracks": [
     {
       "added_at": "2023-08-18 06:11:46",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
         "name": "Emptiness in Memory",
         "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
@@ -755,22 +739,6 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
-        "name": "Run from you",
-        "url": "https://open.spotify.com/album/5pAHpZo7WsjNthkDgna0m3"
-      },
-      "artists": [
-        {
-          "name": "KIMMUSEUM",
-          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Run from you",
-      "url": "https://open.spotify.com/track/3ZLpVia2sizm0ccjLDo3wH"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
         "name": "Meaningless",
         "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
       },
@@ -783,6 +751,38 @@
       "duration_ms": 160370,
       "name": "Meaningless",
       "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
+        "name": "Run from you",
+        "url": "https://open.spotify.com/album/5pAHpZo7WsjNthkDgna0m3"
+      },
+      "artists": [
+        {
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Run from you",
+      "url": "https://open.spotify.com/track/3ZLpVia2sizm0ccjLDo3wH"
     },
     {
       "added_at": "2023-08-18 06:11:46",

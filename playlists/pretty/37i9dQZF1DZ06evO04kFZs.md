@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 > This is Pop Smoke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,381 likes - 47 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,516 likes - 47 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 43 | [100k On A Coupe \(feat\. Calboy\)](https://open.spotify.com/track/4wVuGccjXDNf9sWWVajkpk) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [100k On A Coupe](https://open.spotify.com/album/1RUkOaQD5teWHg7JmrVBGB) | 1:57 |
 | 44 | [Wolves \(with NAV\)](https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 3:14 |
 | 45 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 |
-| 46 | [Make It Rain](https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Make It Rain](https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC) | 3:24 |
-| 47 | [She Feelin Nice \(feat\. Jamie Foxx\)](https://open.spotify.com/track/3qzSfoByowr6tDfd08b0T0) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 2:35 |
+| 46 | [She Feelin Nice \(feat\. Jamie Foxx\)](https://open.spotify.com/track/3qzSfoByowr6tDfd08b0T0) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 2:35 |
+| 47 | [Make It Rain](https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Make It Rain](https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC) | 3:24 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDBiNDkzNDc3YTg3ZTM3MTAwYzY0ZDdhNmIwODJkMGViZg==`
+Snapshot ID: `MjgyMzkwNzcsMDAwMDAwMDA2MzZjNjU4ZDcwYWMxNjkwNjI1OWI4NzE3MjZmYTE2MQ==`

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 32582,
+  "num_followers": 32598,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDE1ODU3MTFlYjg1OGE1NzU4YTgxOTQ3MDAyOWQzYjkyNzIyZTdh",
+  "snapshot_id": "MCxkOTI5ZDVmMTEzMTBjNjYxYzllZTU1NzQxZDYxMzdkZDcwZGU4YThh",
   "tracks": [
     {
       "added_at": "2023-09-04 13:49:57",
@@ -987,30 +987,6 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "Sobe O Morro",
-        "url": "https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl"
-      },
-      "artists": [
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        },
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Sobe O Morro",
-      "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
         "name": "NAG\u00d4",
         "url": "https://open.spotify.com/album/3wSJQ19HeumQwpmWiiJ8kJ"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 207022,
       "name": "NAG\u00d4",
       "url": "https://open.spotify.com/track/5FIF8T1ns1YEQVuq6rjGMw"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
+        "name": "Sobe O Morro",
+        "url": "https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl"
+      },
+      "artists": [
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Sobe O Morro",
+      "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
     },
     {
       "added_at": "2023-09-04 13:49:57",

@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Casper Sage
 
-949 songs - 2 day 2 hr 56 min
+950 songs - 2 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 | 2023-03-04 | 2023-03-18 |
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2022-09-21 |
 | [CRISIS](https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [CRISIS](https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G) | 3:13 | 2021-03-19 | 2022-07-30 |
+| [Cruel](https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cruel](https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F) | 3:06 | 2023-09-08 |  |
 | [Cruel World \- Jim\-E Stack Remix](https://open.spotify.com/track/1xKNnjZkSyj2QbkqruJyCr) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Cruel World \(Jim\-E Stack Remix\)](https://open.spotify.com/album/5Dh7p39Uf8JUkT8P74LfgS) | 3:12 | 2022-04-01 | 2022-04-13 |
 | [Cry No More](https://open.spotify.com/track/6OwH1gyEMEZHDfQ3li6R3z) | [Chlo Chlo](https://open.spotify.com/artist/5WSw7GP4vHRXIFz648S3OW), [Ranger](https://open.spotify.com/artist/6QtbSwzlGllHgDOk5EiTwM) | [Cry No More](https://open.spotify.com/album/1RAljLiZBe7u0QXIIqFJWS) | 3:18 | 2021-11-05 | 2022-01-06 |
 | [crying through my teeth \- A COLORS SHOW](https://open.spotify.com/track/2zbzndFcAtAUH4x5J2pcF7) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [crying through my teeth \- A COLORS SHOW](https://open.spotify.com/album/7ICsxmgIN0HSJh70kzlePZ) | 2:21 | 2023-08-18 |  |
@@ -897,7 +898,7 @@
 | [Wasted](https://open.spotify.com/track/01NxZVzbRZrRNzpoBJLh5p) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Wasted](https://open.spotify.com/album/7DQCcFWk5VzoSCLBJ7ZsUU) | 2:35 | 2022-07-29 | 2022-09-02 |
 | [wasting](https://open.spotify.com/track/5ACFePwf0aIhieh3D6xC8r) | [cityboymoe](https://open.spotify.com/artist/4KopSPzxYX2YfExvXefbjp) | [wasting](https://open.spotify.com/album/77Jra4ODVhjybF694tHM7N) | 3:00 | 2022-08-12 | 2022-08-27 |
 | [Wasting Away](https://open.spotify.com/track/5sIO0XAiMZtt5J9Xeaq8HI) | [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Wasting Away](https://open.spotify.com/album/1N9bfFra8XthSOIxiy7fAe) | 2:24 | 2022-08-26 | 2022-09-03 |
-| [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a) | 3:42 | 2023-02-24 |  |
+| [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a) | 3:42 | 2023-02-24 | 2023-09-11 |
 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 | 2022-04-01 | 2022-04-12 |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 | 2022-10-08 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-07-23 | 2022-01-29 |

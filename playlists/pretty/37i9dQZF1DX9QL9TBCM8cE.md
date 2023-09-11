@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,265 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,278 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 49 | [プラスチック・アンブレラ \- 2022 Version](https://open.spotify.com/track/4k7LuTHIsMdZNlhGPDRoC0) | [三峰結華 \(CV.希水しお\)](https://open.spotify.com/artist/0dQIFp0S9pK2pAZF4MkxhN) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Luna\- \(2022 Version\)](https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT) | 4:22 |
 | 50 | [FELICE](https://open.spotify.com/track/4dWeVQoerTUVrp6af7KxOb) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 02](https://open.spotify.com/album/4CSSUlAhyx3mbZmwRLSMQj) | 3:45 |
 
-Snapshot ID: `MCxiM2U4OTM1OTI2Y2FjZmMwMjFjYTAxOTcyMWU2NmFjNmM4YTBjNjlh`
+Snapshot ID: `MCw4OGE1NjBkNDQ3YjcwNjcxOWVjY2E1MzZiM2VkODkwMmM1NzFlNWJk`

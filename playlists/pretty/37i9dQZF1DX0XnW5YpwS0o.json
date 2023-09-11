@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 79201,
+  "num_followers": 79281,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmM1NDg0ZGZmNWM1YzJkNjZjNjY0NWM2OTQyNGQ0NTljZDhiZjI5",
+  "snapshot_id": "MCxjOTdiZTI3Njk5ZTRmZjZiYTE0NTQ2N2Y5YmNmY2M1N2YyNjRjNWRi",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -233,20 +233,20 @@
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
-      "added_at": "2021-09-22 14:36:46",
+      "added_at": "2021-12-13 13:21:36",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+        "name": "SALES LP",
+        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+      "duration_ms": 187333,
+      "name": "Pope Is a Rockstar",
+      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -265,20 +265,20 @@
       "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
     },
     {
-      "added_at": "2021-12-13 13:21:36",
+      "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "SALES LP",
-        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
       "artists": [
         {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 187333,
-      "name": "Pope Is a Rockstar",
-      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+      "duration_ms": 188000,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 281011,
-      "name": "Decks Dark",
-      "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "How To Be A Human Being",
         "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 243509,
       "name": "Season 2 Episode 3",
       "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 281011,
+      "name": "Decks Dark",
+      "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Home of the Strange",
-        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Something to Believe In",
-      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+        "name": "Home of the Strange",
+        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
         }
       ],
-      "duration_ms": 220609,
-      "name": "Burn the Witch",
-      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
+      "duration_ms": 228466,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1147,6 +1131,22 @@
       "duration_ms": 318147,
       "name": "A Little While",
       "url": "https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 220609,
+      "name": "Burn the Witch",
+      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1245,6 +1245,26 @@
       "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
     },
     {
+      "added_at": "2022-01-03 13:24:59",
+      "album": {
+        "name": "The End Of Comedy",
+        "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
+    },
+    {
       "added_at": "2021-09-22 14:36:46",
       "album": {
         "name": "Freetown Sound",
@@ -1275,26 +1295,6 @@
       "duration_ms": 270106,
       "name": "She's American",
       "url": "https://open.spotify.com/track/51cd3bzVmLAjlnsSZn4ecW"
-    },
-    {
-      "added_at": "2022-01-03 13:24:59",
-      "album": {
-        "name": "The End Of Comedy",
-        "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
     },
     {
       "added_at": "2021-09-22 14:36:46",

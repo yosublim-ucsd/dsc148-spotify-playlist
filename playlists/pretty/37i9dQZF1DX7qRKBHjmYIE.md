@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo\. Freshly picked just for you\. ✨ Cover: Cuco & Aleman
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,188 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,167 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 31 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
 | 32 | [NOS QUISIMOS](https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [NOS QUISIMOS](https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd) | 2:31 |
 | 33 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 |
-| 34 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
+| 34 | [Moonlight](https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Tetra Collective](https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k) | [Moonlight](https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9) | 4:13 |
 | 35 | [two eyes](https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [two eyes](https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV) | 3:30 |
-| 36 | [Moonlight](https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Tetra Collective](https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k) | [Moonlight](https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9) | 4:13 |
+| 36 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
 | 37 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 |
 | 38 | [Luna](https://open.spotify.com/track/6npK9NwM38YEoFeHvB6m5W) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Luna](https://open.spotify.com/album/0dr8b2KU2k223uuOq5qGK1) | 4:38 |
 | 39 | [Adolescente](https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 49 | [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 |
 | 50 | [Caramelo](https://open.spotify.com/track/0Ycy8YyLzDbN8DDCPCJCRW) | [Bumont](https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa), [Mezz](https://open.spotify.com/artist/7Ga1glq0ZzxN4ycf1dNbyx), [RIAH](https://open.spotify.com/artist/7CYZd5syYy0SKmS2bWz0sg) | [Caramelo](https://open.spotify.com/album/1bRHpYrUrYObwmICKEGl30) | 2:39 |
 
-Snapshot ID: `MCxhMGYwNDkzZGIwYzVhYWE1N2ZiYTQwN2U4MzM0MjRiNzdmN2ExMDE0`
+Snapshot ID: `MCxhYTBlYWVkZGU5NjBhZjcwZGUxOTVmYjI4ZDkyNDhmOWM5ZmNkZDc5`

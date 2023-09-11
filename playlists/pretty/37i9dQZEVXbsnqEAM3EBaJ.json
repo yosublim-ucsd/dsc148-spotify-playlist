@@ -6,8 +6,40 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMzU3MDAsMDAwMDAwMDBjYjRkMGQyMjI4NmZiNWEyYzE1ZWVkMjlmYTE0YTIzNg==",
+  "snapshot_id": "MjgyMzU3MDAsMDAwMDAwMDA0ZjU5YmQ5MTRiZTMxYTIyZjgwYThkODcwYWVkNGQwMw==",
   "tracks": [
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Dookie (30th Anniversary Outtakes)",
+        "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Christie Rd. - Outtake",
+      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Angry",
+        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 226735,
+      "name": "Angry",
+      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
+    },
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
@@ -43,22 +75,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Cream (Take 2)",
-        "url": "https://open.spotify.com/album/6hWcJvsUmaxVnHdMCBalUp"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 290475,
-      "name": "Cream (Take 2)",
-      "url": "https://open.spotify.com/track/2CkRxfFJhdhjPKhhi515zc"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "P\u00e1jaros de fuego (Banda Sonora Original del documental \"Hawker Hunter: El ruido del silencio\")",
         "url": "https://open.spotify.com/album/3Xc48Ap1RROgCr5OTr8w7C"
       },
@@ -75,6 +91,38 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Qu\u00e9 hermosa estas all\u00ed",
+        "url": "https://open.spotify.com/album/0jvmmDwFUIFDBBqpsaqpti"
+      },
+      "artists": [
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 314932,
+      "name": "Qu\u00e9 hermosa estas all\u00ed",
+      "url": "https://open.spotify.com/track/17MT53RyOPcyQRWW5BNoAW"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/5qG5KHu6FlMIpKYle1X2um"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 313549,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2yZgauFsW3ofMyqpKK7IZy"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Rare Trax (2023 Remaster)",
         "url": "https://open.spotify.com/album/1pkHXP581drtcsa8BhpxHt"
       },
@@ -87,6 +135,22 @@
       "duration_ms": 324411,
       "name": "Old Mule Skinner - 2023 Remaster",
       "url": "https://open.spotify.com/track/2KfkGoNK0fuw2w40whv7mB"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Oler A Ti",
+        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "Oler A Ti",
+      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -111,34 +175,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "To The Faithful Departed (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1CPtOBwQVBkxSCBYnNbZTd"
+        "name": "The Man in Me (Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978)",
+        "url": "https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 165293,
-      "name": "Salvation - Early Mix",
-      "url": "https://open.spotify.com/track/4XXbh0DujCStZ5F2rVfX1d"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Oler A Ti",
-        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Oler A Ti",
-      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
+      "duration_ms": 231960,
+      "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
+      "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -159,22 +207,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/5qG5KHu6FlMIpKYle1X2um"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 313549,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/2yZgauFsW3ofMyqpKK7IZy"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "are we 3ven?",
         "url": "https://open.spotify.com/album/0t5Pldrap7jIMxe3ajmfRg"
       },
@@ -187,38 +219,6 @@
       "duration_ms": 232320,
       "name": "are we 3ven?",
       "url": "https://open.spotify.com/track/05WkUDENwFYIlGrQMXGN9K"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Qu\u00e9 hermosa estas all\u00ed",
-        "url": "https://open.spotify.com/album/0jvmmDwFUIFDBBqpsaqpti"
-      },
-      "artists": [
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 314932,
-      "name": "Qu\u00e9 hermosa estas all\u00ed",
-      "url": "https://open.spotify.com/track/17MT53RyOPcyQRWW5BNoAW"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Dreaming in Slow Motion",
-        "url": "https://open.spotify.com/album/3Lc5YjdV9E2ZJsT6LmXZKT"
-      },
-      "artists": [
-        {
-          "name": "BVSMV",
-          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
-        }
-      ],
-      "duration_ms": 245690,
-      "name": "The Future is Now",
-      "url": "https://open.spotify.com/track/5zGhhbzdQACPf4ABpVWE2d"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -263,6 +263,22 @@
       "duration_ms": 89306,
       "name": "Pictures at an Exhibition: Limoges, Le March\u00e9 (La Grande Nouvelle)",
       "url": "https://open.spotify.com/track/5ABTnhxDDJFR0atcICWIMR"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Dreaming in Slow Motion",
+        "url": "https://open.spotify.com/album/3Lc5YjdV9E2ZJsT6LmXZKT"
+      },
+      "artists": [
+        {
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+        }
+      ],
+      "duration_ms": 245690,
+      "name": "The Future is Now",
+      "url": "https://open.spotify.com/track/5zGhhbzdQACPf4ABpVWE2d"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -380,15 +396,31 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 303945,
-      "name": "Seasons Of Wither",
-      "url": "https://open.spotify.com/track/3Fw0ZcHVaNN8k3cppKjRiB"
+      "duration_ms": 253226,
+      "name": "Amazing - CHR Single Edit",
+      "url": "https://open.spotify.com/track/4sjewq2HyPY7QECdCctCey"
     },
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "alife",
-        "url": "https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm"
+        "name": "Love Can Heal (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/4N7DYud5dpEhBWSkdIYcST"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 359684,
+      "name": "Love Can Heal - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/7Fz3p7M8lcYFUEhoTgHrPU"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "everything is alive",
+        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
       },
       "artists": [
         {
@@ -398,7 +430,7 @@
       ],
       "duration_ms": 273492,
       "name": "alife",
-      "url": "https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu"
+      "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -431,6 +463,22 @@
       "duration_ms": 319962,
       "name": "Lights Out - Live In Vienna 1998",
       "url": "https://open.spotify.com/track/3olFCE0utXa0SwxakIFM85"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "S'old",
+        "url": "https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 163493,
+      "name": "S\u2019old",
+      "url": "https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -503,6 +551,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Come On Home",
+        "url": "https://open.spotify.com/album/4j3v3azOHHyP15NNqyVuwA"
+      },
+      "artists": [
+        {
+          "name": "Danni Baylor",
+          "url": "https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK"
+        },
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 225107,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/1t0lazgh8uQmXzXigJkYe8"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Afraid Of Loose",
         "url": "https://open.spotify.com/album/50SiKO375SdJ9owiJd4Ttc"
       },
@@ -527,30 +595,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Hazel Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
-        }
-      ],
-      "duration_ms": 217632,
-      "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/4GBMd137VlyG371NlP4f0p"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "THE GIRLS (BLACKPINK THE GAME OST)",
         "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
       },
@@ -567,26 +611,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Halo (Urbandawn Remix)",
-        "url": "https://open.spotify.com/album/7DYy9HvRUwMJEhze8qNW6I"
+        "name": "Death's Forgotten Children",
+        "url": "https://open.spotify.com/album/5CG4JdGFTYxBXfdJM7MUEK"
       },
       "artists": [
         {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
         },
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        },
-        {
-          "name": "Urbandawn",
-          "url": "https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX"
+          "name": "Tom Barber",
+          "url": "https://open.spotify.com/artist/4tDJ7Ft27GE2DF3vHPHVjB"
         }
       ],
-      "duration_ms": 247586,
-      "name": "Halo - Urbandawn Remix",
-      "url": "https://open.spotify.com/track/5pzttBQ4tMCLJifJSht3Yx"
+      "duration_ms": 250408,
+      "name": "Death's Forgotten Children",
+      "url": "https://open.spotify.com/track/5BVYN9Wv6bVAROkmtpqNul"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -600,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
         }
       ],
-      "duration_ms": 128699,
-      "name": "Awaits Clouds",
-      "url": "https://open.spotify.com/track/0X0xZJeuag1vKoVQVaz9il"
+      "duration_ms": 146697,
+      "name": "Growling Showers",
+      "url": "https://open.spotify.com/track/0UtpNV4xwK7Pqoj6lLZvfY"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -616,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 321293,
-      "name": "Who's Crying Now - Live",
-      "url": "https://open.spotify.com/track/0cf8fMOaztoCCN46hf5yLY"
+      "duration_ms": 328293,
+      "name": "Don't Fight It - Live",
+      "url": "https://open.spotify.com/track/0SUO9zBxf5FCyKtRPqEwIk"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -632,25 +672,25 @@
           "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Vicious Circle - Live",
-      "url": "https://open.spotify.com/track/36WngscEOThJVO36bcMVh3"
+      "duration_ms": 545706,
+      "name": "Coney Island Baby - Live",
+      "url": "https://open.spotify.com/track/5KP5MAyH27baIHYWu5Bj6y"
     },
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/5U3qCvNQmg8LrERbzUU8zd"
+        "name": "Alice Through the Looking Glass",
+        "url": "https://open.spotify.com/album/3Er6lsWzZmM4oP8RICZseP"
       },
       "artists": [
         {
-          "name": "Roger Waters",
-          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 439029,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/1HmQba8msCjjirMPh3wOKY"
+      "duration_ms": 258200,
+      "name": "Alice Through the Looking Glass",
+      "url": "https://open.spotify.com/track/7sArXWDg86rMoLG46QE2ac"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -671,6 +711,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5U3qCvNQmg8LrERbzUU8zd"
+      },
+      "artists": [
+        {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        }
+      ],
+      "duration_ms": 439029,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1HmQba8msCjjirMPh3wOKY"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Castaway",
         "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
       },
@@ -687,22 +743,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Where Do We Go From Here?",
-        "url": "https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 253486,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/5QzEl5meby6CHMwERcZEHV"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Road",
         "url": "https://open.spotify.com/album/0aho7oWBIdmE4LM3N9Jsll"
       },
@@ -715,6 +755,22 @@
       "duration_ms": 194426,
       "name": "Big Boots",
       "url": "https://open.spotify.com/track/2MlvPacdsznpfKCRmQo3F7"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 253486,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/5QzEl5meby6CHMwERcZEHV"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -775,22 +831,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Life on Other Planets (2023 Remaster)",
-        "url": "https://open.spotify.com/album/5n4k8AgXN0kbZ6sESKDV1D"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 123638,
-      "name": "Never Done Nothing Like That Before - 2023 Remaster",
-      "url": "https://open.spotify.com/track/686p6mrCE6HcLbAISuKjAa"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Rosa Jaguar",
         "url": "https://open.spotify.com/album/4AVYqLbOTTkUFEesXGcxJ8"
       },
@@ -815,6 +855,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Life on Other Planets (2023 Remaster)",
+        "url": "https://open.spotify.com/album/5n4k8AgXN0kbZ6sESKDV1D"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 123638,
+      "name": "Never Done Nothing Like That Before - 2023 Remaster",
+      "url": "https://open.spotify.com/track/686p6mrCE6HcLbAISuKjAa"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "MONTAGEM PR FUNK (Alesso Remix)",
         "url": "https://open.spotify.com/album/5747O7ajEWPobMtjJ2HkFx"
       },
@@ -831,6 +887,30 @@
       "duration_ms": 172968,
       "name": "MONTAGEM PR FUNK - Alesso Remix",
       "url": "https://open.spotify.com/track/58L5MMUqBCZROyYBrRHxsT"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Hazel Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
+        }
+      ],
+      "duration_ms": 217632,
+      "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
     },
     {
       "added_at": "2023-09-08 03:00:00",

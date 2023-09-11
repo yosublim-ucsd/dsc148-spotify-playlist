@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,491 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,630 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 44 | [Bye Bye Blackbird](https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:14 |
 | 45 | [Watermelon Man \- Remastered](https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 7:09 |
 | 46 | [Stompin At The Savoy](https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [B\. G\. In Hi Fi](https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct) | 3:15 |
-| 47 | [Moanin' \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Moanin' \(Expanded Edition\)](https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC) | 9:30 |
-| 48 | [These Are The Days](https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 |
+| 47 | [These Are The Days](https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 |
+| 48 | [Moanin' \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Moanin' \(Expanded Edition\)](https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC) | 9:30 |
 | 49 | ['Round Midnight \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 5:55 |
 | 50 | [Volare](https://open.spotify.com/track/5dIvbV5t3zSKYp1W1kr77v) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:46 |
 | 51 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 83 | [I'm A Fool To Want You](https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 6:45 |
 | 84 | [Moonlight Serenade](https://open.spotify.com/track/3XiFWZoHQtGUYIdtShPwPD) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Pure Gold](https://open.spotify.com/album/4B3jbISuOJnDpZj8iobFxu) | 3:21 |
 | 85 | [Joy Spring](https://open.spotify.com/track/0sQ9ee2jJNTQgjy55Pse5H) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [The Best Of Clifford Brown](https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L) | 3:18 |
-| 86 | [Lush Life](https://open.spotify.com/track/0Srs2sPdZTfFvvfLP4DGa0) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:29 |
-| 87 | [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 5:09 |
+| 86 | [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 5:09 |
+| 87 | [Lush Life](https://open.spotify.com/track/0Srs2sPdZTfFvvfLP4DGa0) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:29 |
 | 88 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 |
 | 89 | [Eleanor Rigby \- Remastered](https://open.spotify.com/track/4wZEOJRjsFktnovLtbdNQB) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Motions & Emotions](https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV) | 3:05 |
 | 90 | [Out of Nowhere](https://open.spotify.com/track/6OZ210lsvCsoIqjBZcGYvm) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [All Star Sessions](https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [Come Fly With Me](https://open.spotify.com/track/2EzE1ti66ASZLKQ0VdJzRX) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 3:18 |
 | 100 | [April In Paris](https://open.spotify.com/track/5Va2ImszhfJhRUgayR7ZaP) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 6:36 |
 
-Snapshot ID: `MCwxNGZmMDg2N2Q4Y2QyMmY1ODk1Yjk3NmJiNzA2OWZhNTZhMDUyOWIw`
+Snapshot ID: `MCw0YmZkNWE0MTAzYjFlMGI4OWVjM2Y1ZWQ2ZWIxMGNlOGVmYWM4MDYx`

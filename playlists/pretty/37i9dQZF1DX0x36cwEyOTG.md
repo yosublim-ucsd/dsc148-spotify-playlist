@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,658 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,733 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 28 | [Atom 6](https://open.spotify.com/track/4Hctp8jfbMwLTchI6o3vDc) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atom 6](https://open.spotify.com/album/0Ve7BbpsthPeae1D7UGul9) | 1:12 |
 | 29 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
 | 30 | [We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 5:19 |
-| 31 | [Richter: Moth\-like Stars \- Edit](https://open.spotify.com/track/0wo2oXRCQmuzbJBhG2s564) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata](https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [My Brilliant Friend, Season 2 \(TV Series Soundtrack\)](https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit) | 10:40 |
+| 31 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
 | 32 | [Arrows](https://open.spotify.com/track/6CjEJqxWB8AndIm0gGvieH) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/7vKjpw0lHwLpim0U1lVf7U) | 2:29 |
-| 33 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
-| 34 | [Petrichor](https://open.spotify.com/track/1RWRfknqqgTNNPO1EoP7Wo) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:20 |
-| 35 | [Wrapped In Piano Strings](https://open.spotify.com/track/4zCKcMys29lH8xOYeiDYod) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 3:37 |
+| 33 | [Richter: Moth\-like Stars \- Edit](https://open.spotify.com/track/0wo2oXRCQmuzbJBhG2s564) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata](https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [My Brilliant Friend, Season 2 \(TV Series Soundtrack\)](https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit) | 10:40 |
+| 34 | [Wrapped In Piano Strings](https://open.spotify.com/track/4zCKcMys29lH8xOYeiDYod) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 3:37 |
+| 35 | [Petrichor](https://open.spotify.com/track/1RWRfknqqgTNNPO1EoP7Wo) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:20 |
 | 36 | [Statue Of A Woman](https://open.spotify.com/track/6b68aviQQgq22JuK2CDno6) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 1:57 |
 | 37 | [You](https://open.spotify.com/track/3LAqlsucNdQnRARPxCK7Bm) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Screws](https://open.spotify.com/album/2jp10nhpPcZkuUaFougyN3) | 3:06 |
 | 38 | [Through The Dark](https://open.spotify.com/track/2Tax7fSPDly9OLIAZRd0Dp) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Towards The Sun](https://open.spotify.com/album/0C8nB6bCch6qbzcYXBnsaJ) | 5:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 49 | [Friends Make Garbage \(Good Friends Take It Out\)](https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 5:34 |
 | 50 | [Obrecht](https://open.spotify.com/track/4J7vzAszpwf1jWNiUhzv4S) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/19TcHZVTXfny21vIBmAx5w) | 3:36 |
 
-Snapshot ID: `MCwxMmIyNGFlNTM3NzRkMWI3YTJkYzA1M2VhNGMwOTRhOTNmMTNhMjM0`
+Snapshot ID: `MCw0YmQ0YWQxYjg0MTViNTU0ODk1ZTBjYTAzNjA1OGU3MGJkNzE3MGMy`

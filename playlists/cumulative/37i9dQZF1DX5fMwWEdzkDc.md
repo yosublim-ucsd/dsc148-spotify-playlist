@@ -4,7 +4,7 @@
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-125 songs - 8 hr 1 min
+126 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Honey](https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Honey \(Special Edition\)](https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB) | 3:15 | 2021-03-11 |  |
 | [Hot Issue](https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Hot Issue](https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62) | 3:28 | 2021-03-11 |  |
 | [Hot Stuff](https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [My Fair Lady \(Original Television Soundtrack\)](https://open.spotify.com/album/6IPH808fsWagTBK9SusndW) | 3:41 | 2021-03-11 |  |
+| [How to Run From the Sun \(Gtr.Remix\)](https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RAIN 2](https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk) | 3:51 | 2021-03-11 |  |
 | [I Do](https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ) | 3:45 | 2021-03-11 | 2023-08-05 |
 | [I Do](https://open.spotify.com/track/42dgKh54xg8W39NDDIrmCz) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/45ngiRidCweoSOwjcSsj0A) | 3:45 | 2021-03-11 |  |
 | [I Guess I Loved You](https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Difference](https://open.spotify.com/album/36HKeRjDoczel62iwy3z75) | 3:58 | 2021-03-11 |  |
@@ -67,7 +68,7 @@
 | [Nonsense](https://open.spotify.com/track/2iHoEvbIjpo2VPRxHo0RIY) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Personal Taste \(Original Television Soundtrack\)](https://open.spotify.com/album/6yG5uMF6dK0xar9DgCkf62) | 3:19 | 2021-03-11 |  |
 | [Now](https://open.spotify.com/track/548ngRumgMJTkAPDy7dBPY) | [EUN JIWON](https://open.spotify.com/artist/6dTCGU3ZXmHV6roc3mP7Q5) | [Now](https://open.spotify.com/album/5KqMuaBPiu5K0pfwGipF8i) | 2:59 | 2021-03-11 | 2023-08-22 |
 | [Officially Missing You](https://open.spotify.com/track/1QSzf6iO6gvndN7Z4wYPbz) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/1sm1QmdYNIjHxunGha7OyU) | 3:31 | 2021-03-11 |  |
-| [Passion](https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Must Listen](https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV) | 3:21 | 2021-03-11 |  |
+| [Passion](https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Must Listen](https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV) | 3:21 | 2021-03-11 | 2023-09-11 |
 | [Perfect Man](https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Perfect Man \- The 5th Album](https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV) | 3:25 | 2021-03-11 |  |
 | [Perhaps Love](https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad), [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:35 | 2021-03-11 |  |
 | [Pretty Girl](https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:29 | 2021-03-11 |  |

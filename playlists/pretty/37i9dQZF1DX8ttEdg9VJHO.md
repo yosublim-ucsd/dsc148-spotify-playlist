@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,593 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,725 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 34 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
 | 35 | [Pretty Boys](https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Thanks For Nothing, See You Never](https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc) | 2:20 |
 | 36 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
-| 37 | [Ready To Be Loved](https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ready To Be Loved](https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n) | 3:00 |
-| 38 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
+| 37 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
+| 38 | [Ready To Be Loved](https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ready To Be Loved](https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n) | 3:00 |
 | 39 | [Call You Home](https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Stop the Moment \(Deluxe\)](https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4) | 2:54 |
 | 40 | [Steht Mir](https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Sie](https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1) | 2:45 |
 | 41 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 46 | [Thrill Of It All](https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Thrill Of It All](https://open.spotify.com/album/23tZRrcxog6733FrjhknAi) | 3:23 |
 | 47 | [Jim Carrey](https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Jim Carrey](https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH) | 3:03 |
 | 48 | [Flugmodus](https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Flugmodus](https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy) | 2:58 |
-| 49 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
-| 50 | [Mehr davon](https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Mehr davon](https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm) | 2:53 |
+| 49 | [Mehr davon](https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Mehr davon](https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm) | 2:53 |
+| 50 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
 | 51 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 |
 | 52 | [iD \(feat\. Gentleman\)](https://open.spotify.com/track/1mKnXWjyN6MUYpz84F4u7A) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [iD \- Extended Version](https://open.spotify.com/album/7v515yhRxwupP2zrj5w7OH) | 3:18 |
 | 53 | [I swear to god](https://open.spotify.com/track/4BfR1NmB6ut6VFDWkXuBSH) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [I swear to god](https://open.spotify.com/album/6EuH1cHAX0T1JKWX0DtWnY) | 2:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 69 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 |
 | 70 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 |
 
-Snapshot ID: `MCw0NmU1NGQ3Zjk1OWY1NmRhMTQ0ZDRlNDQ5NGNiYmZlOGYyYjdjODVk`
+Snapshot ID: `MCw4YmQxOGQ5MzYwYTczN2E4NTVjN2M2OTI4NmRjYjIwN2MzYTljMGY2`

@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 212392,
+  "num_followers": 212874,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTc3NTc2OGJkZTQ4MzY0ZjU2MmQxMDM1ZGNmOGU3YWYzOTJlNjlk",
+  "snapshot_id": "MCw5ZGI0MmFiYjllMDA2NWQ5OTNmMjYxZGY2ZDA0Yjk1NDUyYzAyZjA4",
   "tracks": [
     {
       "added_at": "2023-09-08 12:01:16",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
-        "name": "Choir Of Spirits",
-        "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 405439,
-      "name": "Choir Of Spirits",
-      "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
-    },
-    {
-      "added_at": "2023-09-08 12:01:16",
-      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 268235,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU"
+    },
+    {
+      "added_at": "2023-09-08 12:01:16",
+      "album": {
+        "name": "Choir Of Spirits",
+        "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 405439,
+      "name": "Choir Of Spirits",
+      "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
     },
     {
       "added_at": "2023-09-08 12:01:16",

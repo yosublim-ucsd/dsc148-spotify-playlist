@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,811 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,848 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 57 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 |
 | 58 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 |
 | 59 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 |
-| 60 | [I Want Attention](https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf) | 2:45 |
-| 61 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
-| 62 | [sore](https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore](https://open.spotify.com/album/6WOzttpXQTWLtbhUpKF5o2) | 2:54 |
+| 60 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
+| 61 | [sore](https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore](https://open.spotify.com/album/6WOzttpXQTWLtbhUpKF5o2) | 2:54 |
+| 62 | [I Want Attention](https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf) | 2:45 |
 | 63 | [It's Permanent](https://open.spotify.com/track/3OGkTlzC4Se6z6e9eEwMOt) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/1UgBF6FuYhQnnKPuPnxbVD) | 3:32 |
 | 64 | [I Saw Jesus Hanging on a Basketball Hoop](https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 1:14 |
 | 65 | [punk chick](https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [punk chick](https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p) | 3:08 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 77 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 |
 | 78 | [Inmyhead](https://open.spotify.com/track/3182DPj7zQBXxiyy8rhaQp) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Inmyhead](https://open.spotify.com/album/7i2CHuloY8dRbEik146DCy) | 2:48 |
 | 79 | [stupid bitch](https://open.spotify.com/track/77wru6MqUYACgY74Lgp3Ti) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:45 |
-| 80 | [Lonely Army](https://open.spotify.com/track/7fIETzt6S1vL8UJ6xeTqVl) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Lonely Army](https://open.spotify.com/album/0DWeHnaTkA53xK43mJKfu8) | 2:55 |
+| 80 | [Ladies who Lunch](https://open.spotify.com/track/6ycG9vo62DCtsVByvhGNCj) | [Prawn Prison](https://open.spotify.com/artist/0PmcvwSsJVuawUhLSOWJFn) | [Ladies who Lunch](https://open.spotify.com/album/4FMDovY028Iuruit1czQaB) | 2:44 |
 
-Snapshot ID: `MCw4NzUyMTk1NzMzMTNmZDFmZDlkMGI5MTg2MGUxOTQyZTJmYjMwZTdi`
+Snapshot ID: `MCxiNWIzOGRhN2RmNzMwZjU1MDZmNDYwZWVmNDBmOGEyMjhiMGE4NjZh`

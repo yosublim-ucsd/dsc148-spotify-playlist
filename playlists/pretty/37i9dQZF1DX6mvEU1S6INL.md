@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us—and this awesome alt soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,907 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,948 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 72 | [Lover, Please Stay](https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 4:07 |
 | 73 | [Astronaut \(Something About Your Love\)](https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 3:22 |
 | 74 | [Adore](https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Adore](https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx) | 3:04 |
-| 75 | [Kiss City](https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 2:23 |
-| 76 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
+| 75 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
+| 76 | [Kiss City](https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 2:23 |
 | 77 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 | 78 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
 | 79 | [Want You Like That](https://open.spotify.com/track/0aKWr5K7ydkegVoxd3dBeM) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:54 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 93 | [All For You](https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:55 |
 | 94 | [The Way We Say Goodbye](https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What's It Like Over There?](https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu) | 4:03 |
 | 95 | [Swing](https://open.spotify.com/track/3UKIiR93VUGPRcrAmCHU2Y) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Swing](https://open.spotify.com/album/0x0YbXUtghcHTTv8adby0j) | 3:02 |
-| 96 | [Shell Suite](https://open.spotify.com/track/7qeuKRyUjXehDIz9FRYiAM) | [Chad Valley](https://open.spotify.com/artist/1rzpgMqxYjRQo4UmWZimFc) | [Equatorial Ultravox](https://open.spotify.com/album/3td9tHMjCicLCiJuChJtdl) | 4:22 |
-| 97 | [Luna \- 2011 Remaster](https://open.spotify.com/track/20Y0ZANdyEI52MfQs6DddK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/3YDm8Vu6IOjjVdLNHlJtj0) | 3:22 |
+| 96 | [Luna \- 2011 Remaster](https://open.spotify.com/track/20Y0ZANdyEI52MfQs6DddK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/3YDm8Vu6IOjjVdLNHlJtj0) | 3:22 |
+| 97 | [Shell Suite](https://open.spotify.com/track/7qeuKRyUjXehDIz9FRYiAM) | [Chad Valley](https://open.spotify.com/artist/1rzpgMqxYjRQo4UmWZimFc) | [Equatorial Ultravox](https://open.spotify.com/album/3td9tHMjCicLCiJuChJtdl) | 4:22 |
 | 98 | [Float](https://open.spotify.com/track/3yt2uGIGep27Q3vtwMXM7d) | [Pacific Air](https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD) | [Stop Talking](https://open.spotify.com/album/79zkXOJ2uCrl6pXQPPG1ME) | 3:18 |
 | 99 | [There's No Other Place](https://open.spotify.com/track/2pFPvMME9cynR1dokBTHJJ) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [My Honest Face](https://open.spotify.com/album/52fKsRuzOum7y9iGC67GSn) | 7:33 |
 | 100 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
 
-Snapshot ID: `MCxmNTk4OWI3ZDQ3OWVmMGEzNWVlMzM0M2Q2YWFmY2YxMjE2ZGExMjE5`
+Snapshot ID: `MCwxZDQ0NzFhMGRmZTQ4OTRmZTk4Y2YxMmEwYWU1NDA4NTY4NGQzM2U3`

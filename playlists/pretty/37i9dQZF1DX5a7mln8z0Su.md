@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,194 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,213 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 4 | [妳在哪裡 \(WYA\)](https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [妳在哪裡 \(WYA\)](https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt) | 3:43 |
 | 5 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 |
 | 6 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
-| 7 | [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 |
-| 8 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 |
+| 7 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 |
+| 8 | [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 |
 | 9 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 10 | [She lives in Paris](https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [She lives in Paris](https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2) | 3:17 |
 | 11 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 42 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
 | 43 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 |
 | 44 | [Smile, Wait For The Flash](https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:46 |
-| 45 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 |
-| 46 | [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 |
-| 47 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 |
+| 45 | [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 |
+| 46 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 |
+| 47 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
 | 48 | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 |
-| 49 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
+| 49 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 |
 | 50 | [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 |
 
-Snapshot ID: `MCwwYTJhYjY3YTNiNTBlNzMwZDJmOTAzZWY0ZmFlMjc5Y2Q3OTJjYjRi`
+Snapshot ID: `MCw0YjhjYjJkY2U4NmU2OWI3MzNkNzliZjE1MzFkN2E4MDZkZGZlYjY4`

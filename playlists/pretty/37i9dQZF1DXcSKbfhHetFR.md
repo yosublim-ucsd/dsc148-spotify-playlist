@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,040 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,043 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 14 | [J'ai oublié](https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse sociale](https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR) | 3:55 |
 | 15 | [Le petit castor](https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe) | [Yelo Molo](https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs) | [Méli\-molo](https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I) | 4:38 |
 | 16 | [Miss Ecstasy](https://open.spotify.com/track/5fwF0ZdA8YPn2iDF78vYuR) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Dumas](https://open.spotify.com/album/3Q4MKOYexRnIgGSjziQUhm) | 3:55 |
-| 17 | [Magané](https://open.spotify.com/track/10ftfZxIPLStdkw7hTuL09) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Ma génération](https://open.spotify.com/album/71HOD6rGHk89meMJ7KQEBk) | 3:47 |
-| 18 | [Le coup d'état](https://open.spotify.com/track/1ezk3E6ZvorHOEJjlfbEa3) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/2Tnn8WrAtBgG2OuTtj4OZB) | 4:22 |
+| 17 | [Le coup d'état](https://open.spotify.com/track/1ezk3E6ZvorHOEJjlfbEa3) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/2Tnn8WrAtBgG2OuTtj4OZB) | 4:22 |
+| 18 | [Magané](https://open.spotify.com/track/10ftfZxIPLStdkw7hTuL09) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Ma génération](https://open.spotify.com/album/71HOD6rGHk89meMJ7KQEBk) | 3:47 |
 | 19 | [Crabe](https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm) | [Les Goules](https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA) | [Les Goules](https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC) | 3:38 |
 | 20 | [Ton amour est trop lourd](https://open.spotify.com/track/6Bo0Vlj6oB7Essx2A8aFyQ) | [Hepatite B](https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg) | [Hepatite B](https://open.spotify.com/album/3KB7pIIY4WlHjZSqV8nXs5) | 1:57 |
 | 21 | [Johnny go](https://open.spotify.com/track/1SLovCqrzoxNbzT6AJGZhi) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [1985\-2003 Je joue de la guitare](https://open.spotify.com/album/13dpLxuec4cGilEfXHNeOR) | 5:28 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 40 | [Le teint de Linda](https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Le Chihuahua](https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe) | 4:39 |
 | 41 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
 | 42 | [Gwen et les rats](https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [l'amour la haine les animaux les automobiles](https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW) | 3:08 |
-| 43 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 |
-| 44 | [Fuck'n'shit baby love!](https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx) | [Le Karlof Orchestra](https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z) | [Fuck'n'shit baby love!](https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i) | 2:07 |
+| 43 | [Fuck'n'shit baby love!](https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx) | [Le Karlof Orchestra](https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z) | [Fuck'n'shit baby love!](https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i) | 2:07 |
+| 44 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 |
 | 45 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 |
 | 46 | [Thermoplastique](https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM) | [Les Secrétaires Volantes](https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF) | [Thermoplastique](https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM) | 2:53 |
 | 47 | [Mini\-jupe et watusi](https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [Si j'ai tort](https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Le silence des roses](https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF) | 4:23 |
 | 50 | [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 |
 
-Snapshot ID: `MCw1NDM5OGYxMTIwZDg0YmRiODhkMmRhMThjYTgyOTc1NmE4ODc1NGIz`
+Snapshot ID: `MCxjODU5NjEyZGE3YTJiNTEyOWY2MjEwNjM0ZTJlM2Q5ODYzZTgyMjQ5`

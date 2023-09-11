@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,005 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,090 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,24 +35,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 25 | [1 de Abril](https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 2:38 |
 | 26 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
 | 27 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 |
-| 28 | [Só Queria Sorrir](https://open.spotify.com/track/0BeKKheFsOOPXBzo2bM8Ds) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF) | 3:42 |
-| 29 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
+| 28 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
+| 29 | [Só Queria Sorrir](https://open.spotify.com/track/0BeKKheFsOOPXBzo2bM8Ds) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF) | 3:42 |
 | 30 | [ANTI\-ANTES](https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 3:48 |
 | 31 | [Somos Iguais](https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 3:57 |
 | 32 | [Perseus](https://open.spotify.com/track/2QXQFSyhpnisPQnNd76Fh7) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 3:34 |
 | 33 | [Sweet Spot](https://open.spotify.com/track/7yrH4ghvW4hivGBpLU7dDb) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Sweet Spot](https://open.spotify.com/album/2qK6Eff85oD0PcsmFbv4Dj) | 4:48 |
-| 34 | [Nada a Esconder](https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3) | 3:38 |
-| 35 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
-| 36 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 |
-| 37 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
+| 34 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
+| 35 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 |
+| 36 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
+| 37 | [TRIBUNAL](https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [SYSTEM](https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1) | 4:06 |
 | 38 | [Lisabona](https://open.spotify.com/track/20BVQh0gMBhzcBpeCRi97F) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Lisabona](https://open.spotify.com/album/3xaElN6GIqBAmlNFrJGgHN) | 3:12 |
-| 39 | [TRIBUNAL](https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [SYSTEM](https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1) | 4:06 |
+| 39 | [Nada a Esconder](https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3) | 3:38 |
 | 40 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
 | 41 | [La Bella Mafia](https://open.spotify.com/track/3dJgseQq10k108mfw6m7k9) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:00 |
 | 42 | [CARO](https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CARO](https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP) | 3:57 |
 | 43 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
-| 44 | [Sendo Assim](https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6) | [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Mechelas](https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1) | 5:14 |
-| 45 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 |
+| 44 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 |
+| 45 | [Sendo Assim](https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6) | [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Mechelas](https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1) | 5:14 |
 | 46 | [Miúda](https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Miúda](https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr) | 2:48 |
 | 47 | [Bolero](https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Los Cavakitos](https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi) | [Bolero](https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT) | 4:20 |
 | 48 | [Voodoo](https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR) | 4:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 74 | [Morte do Artista](https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Morte do Artista](https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL) | 3:27 |
 | 75 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
 
-Snapshot ID: `MCxlMWE3ZTRhZjBmMGViNWJiZWI0MjBjZmNhZTI3YjAxZGJiNzkwODUy`
+Snapshot ID: `MCwzNTIxMzljMTg3ZGU1M2QzNjYzNDM5NjhjODJmNzg3MTUzZDE1ZGE2`

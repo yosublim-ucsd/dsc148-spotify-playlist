@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,851 likes - 82 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,906 likes - 82 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,20 +47,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 37 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
 | 38 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 |
 | 39 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
-| 40 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 |
-| 41 | [Way With Words](https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:20 |
+| 40 | [Way With Words](https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:20 |
+| 41 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 |
 | 42 | [Sweetest Thing](https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [Sweetest Thing](https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy) | 3:38 |
 | 43 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
 | 44 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
 | 45 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 |
 | 46 | [Sunscreen](https://open.spotify.com/track/1SW3jQ5cIOLNINk9YAaX9h) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 2:58 |
 | 47 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
-| 48 | [Slow Hands \- Acoustic](https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp) | 2:40 |
-| 49 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 |
-| 50 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 |
-| 51 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
-| 52 | [heartbeat](https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:31 |
-| 53 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
+| 48 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 |
+| 49 | [Slow Hands \- Acoustic](https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp) | 2:40 |
+| 50 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
+| 51 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 |
+| 52 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
+| 53 | [heartbeat](https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:31 |
 | 54 | [Puppy and a Truck](https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:11 |
 | 55 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 |
 | 56 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 81 | [Don't Matter Now \- Acoustic Version](https://open.spotify.com/track/6D1RVzXY3lv11b7bNeivkL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's \(Acoustic Tracks and Demo Versions\)](https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ) | 2:48 |
 | 82 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
 
-Snapshot ID: `MCw3OTQwNWYyY2EyNGU5MDJkNWU0MGE2NGU0ZTczZWIyYjNlYzEwYWQ0`
+Snapshot ID: `MCxlZDYzNDZmNTI1NWFhMTM3NjI2MzViMDgwN2Q4NDcwYTRmY2Y1MmY3`

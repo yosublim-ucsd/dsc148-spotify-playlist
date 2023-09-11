@@ -4,7 +4,7 @@
 
 > The legendary producer and songwriting duo: Kenneth Gamble and Leon A\. Huff.
 
-122 songs - 8 hr 12 min
+123 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Everybody's Talkin'](https://open.spotify.com/track/1N8qShpau2jnIQm60fxiib) | [The Philadelphia International All\-Stars](https://open.spotify.com/artist/65LAAoHRaxtbWobjZdZOuX), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Let's Clean Up the Ghetto](https://open.spotify.com/album/2psrWvictVSOOD5zllFWBb) | 3:52 | 2021-07-01 |  |
 | [Everyone's a Star](https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 5:40 | 2021-07-01 |  |
 | [Explosion in Your Soul](https://open.spotify.com/track/6sSVVxnULOpq0yXOpNaTqO) | [The Soul Survivors](https://open.spotify.com/artist/77oyFDj00Afu8tjXDy5CDs) | [When the Whistle Blows Anything Goes](https://open.spotify.com/album/4e7UKokEDktTmeaRs5sovM) | 2:36 | 2021-07-01 |  |
-| [Expressway to Your Heart](https://open.spotify.com/track/5WtrLNpSjwp45LI70E1R4N) | [The Soul Survivors](https://open.spotify.com/artist/77oyFDj00Afu8tjXDy5CDs) | [Expressway to Your Heart](https://open.spotify.com/album/6Gk9qbSPYre0ZXFvymdEtw) | 2:20 | 2021-07-01 |  |
+| [Expressway \(To Your Heart\) \- Single Version \- 2019 Remaster](https://open.spotify.com/track/5BklSzHGznyYMUN52AClsx) | [The Soul Survivors](https://open.spotify.com/artist/77oyFDj00Afu8tjXDy5CDs) | [When the Whistle Blows Anything Goes](https://open.spotify.com/album/4e7UKokEDktTmeaRs5sovM) | 2:18 | 2021-07-01 |  |
+| [Expressway to Your Heart](https://open.spotify.com/track/5WtrLNpSjwp45LI70E1R4N) | [The Soul Survivors](https://open.spotify.com/artist/77oyFDj00Afu8tjXDy5CDs) | [Expressway to Your Heart](https://open.spotify.com/album/6Gk9qbSPYre0ZXFvymdEtw) | 2:20 | 2021-07-01 | 2023-09-11 |
 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 | 2021-07-01 |  |
 | [Free Love](https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:04 | 2021-07-01 |  |
 | [Get Me Back on Time, Engine Number 9 \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/2U5dKDtmXiZUUJAtZcHk8B) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In Philadelphia](https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase) | 6:27 | 2021-07-01 |  |

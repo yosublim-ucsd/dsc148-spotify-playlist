@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: BENNETT
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,787,620 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,788,041 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 |
 | 50 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 
-Snapshot ID: `MCxlOWU0NDAzMDA4ZmVhNjkyZjc3MzMyNDAxZGM3NzcxZTk4YjZhYzQx`
+Snapshot ID: `MCw2MzYyMGQyNmI5MTQ2NWZiY2I5ODMxZWFiZjQ5Y2Y5ZTYyNjY5ZjAw`

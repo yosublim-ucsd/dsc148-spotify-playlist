@@ -1,12 +1,12 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 240939,
+  "num_followers": 241139,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWI2NTc1MTYyZTY2YjVmNTI5ZTMwNGY0ZGIxMmZhOTQ0NmQ2MWQ4",
+  "snapshot_id": "MCwwYjk1YmViZTljYzg4OGYyNjA1YWU1MjkxYmZiZDRhOWFmYzA2ZTYy",
   "tracks": [
     {
       "added_at": "2023-06-02 20:08:38",
@@ -31,6 +31,22 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -107,22 +107,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Sobran Motivos",
-        "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
       "artists": [
         {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        },
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 185338,
-      "name": "Sobran Motivos",
-      "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
+      "duration_ms": 211266,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -143,34 +139,42 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 211266,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
+      "duration_ms": 169418,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
     },
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+      "duration_ms": 185338,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -191,6 +195,22 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 221226,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "Que Vuelvas",
-        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 169418,
-      "name": "Que Vuelvas",
-      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "El Vals Del Olvido",
+      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -271,6 +287,42 @@
       "duration_ms": 238720,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 169895,
+      "name": "Ni Me Debes Ni Te Debo",
+      "url": "https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -295,38 +347,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "El Vals Del Olvido",
-      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 211255,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 169895,
-      "name": "Ni Me Debes Ni Te Debo",
-      "url": "https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
-      },
-      "artists": [
-        {
-          "name": "Los Dinnosaurios",
-          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "El Taxista",
-      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 155818,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
+      },
+      "artists": [
+        {
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Culpable T\u00fa",
-        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 155513,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "L\u00e1piz Labial",
         "url": "https://open.spotify.com/album/6FDTr5zPZrfMmeOsFaDTmt"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 236453,
       "name": "Algo De M\u00ed",
       "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 155513,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Directo Al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 280120,
       "name": "Ese Loco Soy Yo",
       "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Los Felinos",
         "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 226417,
       "name": "Morena",
       "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 202920,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/6t86si8IaIgLHEuZnaha33"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Mi Vida En Vida",
         "url": "https://open.spotify.com/album/6D6J6D5iAAwZq3zx7aTl6t"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 221933,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 202920,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6t86si8IaIgLHEuZnaha33"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "Como Pude Enamorarme De Ti",
+        "url": "https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU"
+      },
+      "artists": [
+        {
+          "name": "Patrulla 81",
+          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "C\u00f3mo Pude Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "15 Grandes",
         "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 190560,
       "name": "Amor Se Escribe Con Llanto",
       "url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "Como Pude Enamorarme De Ti",
-        "url": "https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU"
-      },
-      "artists": [
-        {
-          "name": "Patrulla 81",
-          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "C\u00f3mo Pude Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Album de Oro",
-        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+        "name": "Antolog\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/7HWP9Iq6XV65DG84VqYtNm"
       },
       "artists": [
         {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+          "name": "Grupo Abracadabra",
+          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Voy a pintar un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+      "duration_ms": 221663,
+      "name": "En Realidad (Reprise)",
+      "url": "https://open.spotify.com/track/4sYzLjHySEugo857NgZGHq"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1",
-        "url": "https://open.spotify.com/album/7HWP9Iq6XV65DG84VqYtNm"
+        "name": "Album de Oro",
+        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
       },
       "artists": [
         {
-          "name": "Grupo Abracadabra",
-          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
         }
       ],
-      "duration_ms": 221663,
-      "name": "En Realidad (Reprise)",
-      "url": "https://open.spotify.com/track/4sYzLjHySEugo857NgZGHq"
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Ahora Y Siempre",
-        "url": "https://open.spotify.com/album/6LCpvp7Jgbr8bV9PKGlHuI"
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5"
       },
       "artists": [
         {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
         }
       ],
-      "duration_ms": 199653,
-      "name": "Por Tu Amor - Duranguense",
-      "url": "https://open.spotify.com/track/1jBYN6IEVkExTE3R4O9trC"
+      "duration_ms": 157600,
+      "name": "D\u00e9jenme llorar - Con banda",
+      "url": "https://open.spotify.com/track/6MpWEoDk1S8oJJaEga4DiP"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5"
+        "name": "Ahora Y Siempre",
+        "url": "https://open.spotify.com/album/6LCpvp7Jgbr8bV9PKGlHuI"
       },
       "artists": [
         {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
         }
       ],
-      "duration_ms": 157600,
-      "name": "D\u00e9jenme llorar - Con banda",
-      "url": "https://open.spotify.com/track/6MpWEoDk1S8oJJaEga4DiP"
+      "duration_ms": 199653,
+      "name": "Por Tu Amor - Duranguense",
+      "url": "https://open.spotify.com/track/1jBYN6IEVkExTE3R4O9trC"
     },
     {
       "added_at": "2023-06-02 20:08:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,244 likes - 88 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,277 likes - 88 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 87 | [East End Boys](https://open.spotify.com/track/00nnljM2ZxydI3M7CgNTK4) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [East End Boys](https://open.spotify.com/album/7BDiM9iqKeVx14t6LlSU8a) | 2:55 |
 | 88 | [have u got a light?](https://open.spotify.com/track/4OUZX15W3IEdabaQXkfhcW) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Somber Hills](https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P) | [have u got a light?](https://open.spotify.com/album/2AkXths30HAnhoXb6Is4gM) | 2:03 |
 
-Snapshot ID: `MCxiZTk5MmI5YmVlMDMwZTE3YTNkYWZmNmRjYTI1ZWFjYzg1NjdjMmVi`
+Snapshot ID: `MCw4ZjUwNTUwOWYxNjVjY2U3NjZjZmQ5NTQ5NjBmNzEwMjBmY2RiYzU4`

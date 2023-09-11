@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Irreversible Entanglements
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,470 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,593 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 46 | [Cleanse \- \(The Waters\) \- feat\. Braxton Cook](https://open.spotify.com/track/6EPWNZTkW8ugUmpQlagLiz) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Rituals + Routines](https://open.spotify.com/album/0C2JNKv7UBSIXdyxXk5Shh) | 4:11 |
 | 47 | [Akka\-Safad](https://open.spotify.com/track/29Pk4XB98ecmEFZXKyQNfj) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Akka\-Safad](https://open.spotify.com/album/1ZyeuEB5sVY0h5na75PeOF) | 3:43 |
 | 48 | [Serenity's Illumination](https://open.spotify.com/track/28gdOAMvTLUKrIZnGXRll9) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Serenity's Illumination](https://open.spotify.com/album/355jh4TUAGKpm4U0WeQkL3) | 2:02 |
-| 49 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 |
+| 49 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/1mkzHA0suincRybCyk5fis) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 5:40 |
 | 50 | [Everything Is Going to Be OK](https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Everything Is Going to Be OK](https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M) | 4:47 |
 | 51 | [Mellow Kisses](https://open.spotify.com/track/2aCGvsI9wPrmFGUGt3VEXW) | [M.E.B.](https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P) | [That You Not Dare To Forget](https://open.spotify.com/album/6WgNJUxiFSVZTBO6UR4wqH) | 6:13 |
 | 52 | [Portals](https://open.spotify.com/track/0v6uuAzlwd7TytQ7QgkYk3) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Portals](https://open.spotify.com/album/6iEPmzzAvno0Zqi41nvYwR) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Weezy](https://open.spotify.com/track/59quKh2wIPL3bom9F5MjI5) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [Weezy](https://open.spotify.com/album/1JYqRJ8grwAazaCF5OmMcL) | 7:11 |
 | 100 | [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 |
 
-Snapshot ID: `MCxlZjdjOWE5OGY2NWNhMWZiNTI0YjFkZmNhYTI0M2NlNWVkYTUyMTMz`
+Snapshot ID: `MCw1NGYxNmM3YmQ4OWQyOTgxMmViYzZkMjUwZTIxODM5NThlODIwMTU5`

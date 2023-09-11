@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 224508,
+  "num_followers": 224810,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWQ2ODNlMTQwMTc4ZTdkMzQ2ZDEwNzFkZTllZWNlOTM5ZTc2MTcz",
+  "snapshot_id": "MCwyNzI3Njg0Y2NmZTMwODVjYTkyMzBiNzc1NDUwMmM4NWQ0OTBjMWI5",
   "tracks": [
     {
       "added_at": "2023-08-11 15:42:20",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
         "name": "Poetica (feat. Nadia Ali)",
         "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 253586,
       "name": "Rapture (feat.Nadia Ali)",
       "url": "https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1095,34 +1095,18 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
+        "name": "Mutual Feelin' (Edit)",
+        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
       },
       "artists": [
         {
-          "name": "Antena",
-          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
+          "name": "Somethin' Sanctified",
+          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
         }
       ],
-      "duration_ms": 222680,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/6CT7RUosxDLkY6Ysb118Uf"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "Poppiholla",
-      "url": "https://open.spotify.com/track/2KKxGRR5TFNdICGxLrzvqs"
+      "duration_ms": 226000,
+      "name": "Mutual Feelin' - Edit",
+      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1159,18 +1143,34 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Mutual Feelin' (Edit)",
-        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/6CT7RUosxDLkY6Ysb118Uf"
       },
       "artists": [
         {
-          "name": "Somethin' Sanctified",
-          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Mutual Feelin' - Edit",
-      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
+      "duration_ms": 224013,
+      "name": "Poppiholla",
+      "url": "https://open.spotify.com/track/2KKxGRR5TFNdICGxLrzvqs"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
+      },
+      "artists": [
+        {
+          "name": "Antena",
+          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Hideaway / That Look - Single",
-        "url": "https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk"
-      },
-      "artists": [
-        {
-          "name": "De'Lacy",
-          "url": "https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Hideaway - Deep Dish Radio Edit",
-      "url": "https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "T.V. Scene (Sensurround Mix)",
         "url": "https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 346875,
       "name": "My Boss - Extended Remix",
       "url": "https://open.spotify.com/track/7jBqgmJj3XcyPq9OuL3bIB"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Hideaway / That Look - Single",
+        "url": "https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk"
+      },
+      "artists": [
+        {
+          "name": "De'Lacy",
+          "url": "https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Hideaway - Deep Dish Radio Edit",
+      "url": "https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X"
     },
     {
       "added_at": "2023-08-11 15:42:20",

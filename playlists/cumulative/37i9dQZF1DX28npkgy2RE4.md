@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Jenny Lewis
 
-420 songs - 1 day 1 hr 49 min
+421 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,9 +414,10 @@
 | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju) | 3:32 | 2021-11-12 | 2023-07-19 |
 | [What A Day \- Edit](https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:17 | 2022-07-11 |  |
 | [What A Day \- Edit](https://open.spotify.com/track/5MWHZvCOAFSfxVwAsYtrSj) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Crowhurst's Meme](https://open.spotify.com/album/7zkOd0394lMZtxzohKtvYc) | 4:17 | 2021-11-12 | 2022-07-29 |
-| [What Comes After Certainty](https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp) | 3:42 | 2023-04-28 |  |
+| [What Comes After Certainty](https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp) | 3:42 | 2023-04-28 | 2023-09-11 |
 | [What Comes After Certainty](https://open.spotify.com/track/5ZZwQkDUUzsIbSBhnaWJfG) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/7sfkWJ14gZywjyv3wtQ5WC) | 3:42 | 2021-11-12 | 2022-07-29 |
 | [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 | 2021-11-12 | 2023-01-16 |
+| [Wisteria](https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Wisteria](https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU) | 2:49 | 2023-09-08 |  |
 | [Witchknife](https://open.spotify.com/track/5zSX509s3P2f4wU2dMut49) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Witchknife](https://open.spotify.com/album/1yBHbpoM08NNjVNpxN8UhP) | 3:11 | 2021-11-12 | 2022-07-23 |
 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 | 2021-11-12 |  |
 | [Woman](https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Woman](https://open.spotify.com/album/1IIiI9LpMlXOChqLqMfGzV) | 3:49 | 2021-11-12 | 2022-10-22 |

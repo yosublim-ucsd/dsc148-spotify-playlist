@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 39401,
+  "num_followers": 39433,
   "original_name": "Tropiloco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODA1OGRmMjg0ZTA1MzExNTYxNTU2YWY1ZjQ3MmU4ZjQ1MzUzZjA5",
+  "snapshot_id": "MCxhZjNkNjkzZjEwNzU3NWM0NTg2ZGMzMDA3ZjdmOGNhZjhmN2QxYWNi",
   "tracks": [
     {
       "added_at": "2023-06-30 15:09:39",
@@ -127,22 +127,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/1nMVeppV67Pys7MZEoLj3T"
-      },
-      "artists": [
-        {
-          "name": "Swing Original Monks",
-          "url": "https://open.spotify.com/artist/1nV4bRtpwOUY2BAoxsLcpq"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Caminito",
-      "url": "https://open.spotify.com/track/6g0HKbe7QjZTaBLAfgR8yL"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Cumbia del Monte Fuji",
         "url": "https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 264842,
       "name": "Cumbia del Monte Fuji",
       "url": "https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/1nMVeppV67Pys7MZEoLj3T"
+      },
+      "artists": [
+        {
+          "name": "Swing Original Monks",
+          "url": "https://open.spotify.com/artist/1nV4bRtpwOUY2BAoxsLcpq"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Caminito",
+      "url": "https://open.spotify.com/track/6g0HKbe7QjZTaBLAfgR8yL"
     },
     {
       "added_at": "2023-05-25 19:15:17",
@@ -327,22 +327,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Tropid\u00e9lico",
-        "url": "https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Los Olvidados (Cumbia)",
-      "url": "https://open.spotify.com/track/1ENaWkSrM7Ls1TQw7Xu7IW"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 161426,
       "name": "Cumbia De Los Pajaritos",
       "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Tropid\u00e9lico",
+        "url": "https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS"
+      },
+      "artists": [
+        {
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Los Olvidados (Cumbia)",
+      "url": "https://open.spotify.com/track/1ENaWkSrM7Ls1TQw7Xu7IW"
     },
     {
       "added_at": "2023-03-23 22:04:18",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Sonido Amazonico",
+        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
+      },
+      "artists": [
+        {
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+        }
+      ],
+      "duration_ms": 319720,
+      "name": "Popcorn Andino",
+      "url": "https://open.spotify.com/track/7kkijB89vc5uGbG1WhUFZu"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -431,38 +447,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Sonido Amazonico",
-        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
       },
       "artists": [
         {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 319720,
-      "name": "Popcorn Andino",
-      "url": "https://open.spotify.com/track/7kkijB89vc5uGbG1WhUFZu"
-    },
-    {
-      "added_at": "2023-03-23 22:10:50",
-      "album": {
-        "name": "Agujas en el pecho",
-        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
-        }
-      ],
-      "duration_ms": 320682,
-      "name": "Agujas en el pecho",
-      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -487,22 +483,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Safe Passage",
         "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 206684,
       "name": "Nosotros Tambi\u00e9n",
       "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
+    },
+    {
+      "added_at": "2023-03-23 22:10:50",
+      "album": {
+        "name": "Agujas en el pecho",
+        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+        }
+      ],
+      "duration_ms": 320682,
+      "name": "Agujas en el pecho",
+      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -863,22 +863,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+        "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd"
       },
       "artists": [
         {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        },
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
         }
       ],
-      "duration_ms": 289960,
-      "name": "Cumbia Algarrobera (featuring Chico Trujillo)",
-      "url": "https://open.spotify.com/track/2aCcRO5D7kPt5zPsw0ijr2"
+      "duration_ms": 260678,
+      "name": "Dale Mel\u00f3n",
+      "url": "https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -899,34 +895,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd"
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
       "artists": [
         {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
-        }
-      ],
-      "duration_ms": 260678,
-      "name": "Dale Mel\u00f3n",
-      "url": "https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu"
-    },
-    {
-      "added_at": "2023-03-31 17:32:57",
-      "album": {
-        "name": "Kristina",
-        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
-      },
-      "artists": [
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        },
         {
-          "name": "Sanje",
-          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 238221,
-      "name": "Kristina",
-      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
+      "duration_ms": 289960,
+      "name": "Cumbia Algarrobera (featuring Chico Trujillo)",
+      "url": "https://open.spotify.com/track/2aCcRO5D7kPt5zPsw0ijr2"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -943,6 +927,22 @@
       "duration_ms": 145384,
       "name": "Mil Versiones",
       "url": "https://open.spotify.com/track/54KcGCuNHyFmL4kzIAr31s"
+    },
+    {
+      "added_at": "2023-03-31 17:32:57",
+      "album": {
+        "name": "Kristina",
+        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "duration_ms": 238221,
+      "name": "Kristina",
+      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1045,6 +1045,22 @@
       "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
     },
     {
+      "added_at": "2023-03-28 05:33:43",
+      "album": {
+        "name": "Sue\u00f1o EP",
+        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Strange Salsa",
+      "url": "https://open.spotify.com/track/0m2wxPnFcPOjKnoj5AmQJR"
+    },
+    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Canoga Madness",
@@ -1089,20 +1105,20 @@
       "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
     },
     {
-      "added_at": "2023-03-28 05:33:43",
+      "added_at": "2022-02-15 02:15:55",
       "album": {
-        "name": "Sue\u00f1o EP",
-        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
+        "name": "Tamburo Infinito",
+        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
       },
       "artists": [
         {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+          "name": "Gabriele Poso",
+          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Strange Salsa",
-      "url": "https://open.spotify.com/track/0m2wxPnFcPOjKnoj5AmQJR"
+      "duration_ms": 179817,
+      "name": "Futurista",
+      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
     },
     {
       "added_at": "2022-04-09 05:03:37",
@@ -1123,22 +1139,6 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2022-02-15 02:15:55",
-      "album": {
-        "name": "Tamburo Infinito",
-        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
-      },
-      "artists": [
-        {
-          "name": "Gabriele Poso",
-          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "Futurista",
-      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1337,22 +1337,6 @@
       "url": "https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl"
     },
     {
-      "added_at": "2023-02-28 04:34:35",
-      "album": {
-        "name": "Shake & Bake",
-        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
-      },
-      "artists": [
-        {
-          "name": "King Edi K",
-          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
-        }
-      ],
-      "duration_ms": 280822,
-      "name": "Shake & Bake",
-      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Eclipse",
@@ -1369,20 +1353,20 @@
       "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
     },
     {
-      "added_at": "2022-06-22 16:48:57",
+      "added_at": "2023-02-28 04:34:35",
       "album": {
-        "name": "\u00c1ngeles y Demonios",
-        "url": "https://open.spotify.com/album/1vfoYVSZLRxvQIHwlYE9EG"
+        "name": "Shake & Bake",
+        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
       },
       "artists": [
         {
-          "name": "Eskorzo",
-          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+          "name": "King Edi K",
+          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
         }
       ],
-      "duration_ms": 179029,
-      "name": "\u00c1ngeles y Demonios",
-      "url": "https://open.spotify.com/track/4v4Qrj7MtYl6k0fqOhSOJa"
+      "duration_ms": 280822,
+      "name": "Shake & Bake",
+      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
     },
     {
       "added_at": "2022-02-25 04:26:16",
@@ -1399,6 +1383,22 @@
       "duration_ms": 276800,
       "name": "Junchuch",
       "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
+    },
+    {
+      "added_at": "2022-06-22 16:48:57",
+      "album": {
+        "name": "\u00c1ngeles y Demonios",
+        "url": "https://open.spotify.com/album/1vfoYVSZLRxvQIHwlYE9EG"
+      },
+      "artists": [
+        {
+          "name": "Eskorzo",
+          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+        }
+      ],
+      "duration_ms": 179029,
+      "name": "\u00c1ngeles y Demonios",
+      "url": "https://open.spotify.com/track/4v4Qrj7MtYl6k0fqOhSOJa"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Echoes of Japan (\u30a8\u30b3\u30fc\u30ba\u30fb\u30aa\u30d6\u30fb\u30b8\u30e3\u30d1\u30f3)",
-        "url": "https://open.spotify.com/album/31P3YJyfhO17lDcfVXWCZm"
-      },
-      "artists": [
-        {
-          "name": "Minyo Crusaders",
-          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
-        }
-      ],
-      "duration_ms": 304173,
-      "name": "Kushimoto Bushi - Cumbia",
-      "url": "https://open.spotify.com/track/1pKIAVQB87sNjHtC4oLexv"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Pase lo Que Pase",
         "url": "https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd"
+        "name": "Echoes of Japan (\u30a8\u30b3\u30fc\u30ba\u30fb\u30aa\u30d6\u30fb\u30b8\u30e3\u30d1\u30f3)",
+        "url": "https://open.spotify.com/album/31P3YJyfhO17lDcfVXWCZm"
       },
       "artists": [
         {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+          "name": "Minyo Crusaders",
+          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
         }
       ],
-      "duration_ms": 245831,
-      "name": "Paso Palante",
-      "url": "https://open.spotify.com/track/3nK7fQHM7Gld1esyJmRf2h"
+      "duration_ms": 304173,
+      "name": "Kushimoto Bushi - Cumbia",
+      "url": "https://open.spotify.com/track/1pKIAVQB87sNjHtC4oLexv"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1699,6 +1683,22 @@
       "duration_ms": 175906,
       "name": "Mi Gran Noche",
       "url": "https://open.spotify.com/track/7Ce3RwQrxYwih27gpRjJhE"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd"
+      },
+      "artists": [
+        {
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+        }
+      ],
+      "duration_ms": 245831,
+      "name": "Paso Palante",
+      "url": "https://open.spotify.com/track/3nK7fQHM7Gld1esyJmRf2h"
     }
   ],
   "unique_name": "Tropiloco",

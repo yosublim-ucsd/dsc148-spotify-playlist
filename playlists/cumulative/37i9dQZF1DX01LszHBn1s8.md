@@ -4,7 +4,7 @@
 
 > 🩷 when did it end? all the enjoyment
 
-1,199 songs - 2 day 14 hr 44 min
+1,202 songs - 2 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [IF I KNEW YOU IN A PAST LIFE](https://open.spotify.com/track/1cb5DwlrURMljmqfoLF0oC) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:26 | 2022-05-19 | 2022-09-16 |
 | [IF I KNEW YOU IN A PAST LIFE](https://open.spotify.com/track/7s7b4wfoPDClPrt284Srgu) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:26 | 2022-09-15 |  |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-04-20 |  |
+| [If It's Lovin' That You Want](https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:28 | 2023-09-10 |  |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-09 |  |
 | [If We Ever Broke Up \- Sped Up](https://open.spotify.com/track/5aBfiBLoIznSLQoPZMoPUJ) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [If We Ever Broke Up \(Sped Up\)](https://open.spotify.com/album/4cEguU8mbgtWH22YeUMYKw) | 2:04 | 2023-04-06 |  |
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-10-26 |  |
@@ -1116,7 +1117,8 @@
 | [ur not delilah](https://open.spotify.com/track/2npGF2T4MHbn2YEDlOaPQg) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [of note](https://open.spotify.com/album/3WOdAvguXdCeZE0P1G2UlV) | 2:27 | 2022-05-19 |  |
 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 | 2023-08-08 |  |
 | [Vai Com Bundão](https://open.spotify.com/track/6geZSlNRfUr8donymP7ksV) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [Vai Com Bundão](https://open.spotify.com/album/3uOfCDjobNbPqIOBxnc7ou) | 2:05 | 2022-05-19 |  |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-06-16 |  |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2023-01-05 | 2023-03-09 |
 | [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 | 2023-03-06 |  |
@@ -1131,6 +1133,7 @@
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-17 |  |
 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-02-16 | 2023-02-24 |
 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/2ntMdOsTvndzY4vQzkSigb) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/0h04WVpjhX7TDcUlr5ztzo) | 2:43 | 2023-02-21 |  |
+| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-10 |  |
 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 | 2022-05-19 | 2022-10-29 |
 | [Water Under the Bridge](https://open.spotify.com/track/2DRMuw0U0QbkVQxWxdJV3M) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:00 | 2022-05-19 | 2022-07-29 |
 | [Water Under the Bridge](https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:00 | 2022-05-19 |  |

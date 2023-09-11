@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,684 likes - 80 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,742 likes - 80 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 32 | [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 |
 | 33 | [Sapo de Otro Pozo](https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:19 |
 | 34 | [Vas a Bailar](https://open.spotify.com/track/6Ew4raE2TqVLWjWspybOFt) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0) | 5:00 |
-| 35 | [Otra Vuelta de Tuerca](https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:21 |
-| 36 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
+| 35 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
+| 36 | [Otra Vuelta de Tuerca](https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:21 |
 | 37 | [Para No Verme Más](https://open.spotify.com/track/270ieNCOt945nOdUQubFI5) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [El Impulso](https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4) | 4:05 |
 | 38 | [Loco Un Poco](https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:27 |
 | 39 | [Beatle](https://open.spotify.com/track/5dpS7KpIkLFC0hm8tsqI1V) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Radio Insomnio](https://open.spotify.com/album/7cm5BAYTV2rWUTEwpLk1F3) | 3:29 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 74 | [Solito](https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v) | [Salamandra](https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9) | [Alma en Peña](https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X) | 3:56 |
 | 75 | [100 Años](https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:01 |
 | 76 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 |
-| 77 | [Tus Ojos](https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Solo Canciones](https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY) | 4:04 |
-| 78 | [Amando A Mi Guitarra](https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Fiesta Sudaka \(Parte 1\)](https://open.spotify.com/album/3NdCd4eZrJxEtqdOO7uXIu) | 5:35 |
+| 77 | [Amando A Mi Guitarra](https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Fiesta Sudaka \(Parte 1\)](https://open.spotify.com/album/3NdCd4eZrJxEtqdOO7uXIu) | 5:35 |
+| 78 | [Tus Ojos](https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Solo Canciones](https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY) | 4:04 |
 | 79 | [Muévelo](https://open.spotify.com/track/4xkQxDPC6RBV1Yfx6vkLsO) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:21 |
 | 80 | [Rotos y Descocidos](https://open.spotify.com/track/03gBHAQqX65jxtnDdfPj5m) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social II](https://open.spotify.com/album/2UsSavt2PWkbqaFnTSxHFg) | 3:06 |
 
-Snapshot ID: `MCwwODJmOGRkN2Y4Yzc3Y2UyMzFiMjA5ZGI0OGEyODc1YWUyMzBmYzNh`
+Snapshot ID: `MCw1YjUyNDY4Y2NlY2ZhZmRlNzNlNjRhYmFmNjYzMTUwODYwNjYzNzUz`

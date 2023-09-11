@@ -4,7 +4,7 @@
 
 > Le meilleur des hits ! Photo : Dua Lipa
 
-79 songs - 4 hr 8 min
+80 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Tout le monde \(sauf toi\)](https://open.spotify.com/track/4lyIlP2RIrY2dy6U6Xy0qu) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 2:45 | 2023-07-27 | 2023-08-18 |
 | [TQG](https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TQG](https://open.spotify.com/album/5f4P1wEFrcMyJKahHfLaoa) | 3:18 | 2023-07-27 |  |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-07-27 |  |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-08-03 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-07 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-08-03 | 2023-09-11 |
 | [Waves](https://open.spotify.com/track/0YbFEoJi7Esa7lhIrEpBjl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:45 | 2023-07-27 |  |
 | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw) | 2:49 | 2023-07-27 |  |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-07-27 |  |

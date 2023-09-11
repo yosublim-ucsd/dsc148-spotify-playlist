@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1155993,
+  "num_followers": 1156170,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTNlYzk3Zjg4MWY4ZDA2YmI2NjhiYmZlN2M5ODUwZTI4MjljZjgz",
+  "snapshot_id": "MCxlYjAxM2U1ZWRmOGIwM2QwMGFlY2QwZDE1YzcwZDBkMDQyNDNmNjE0",
   "tracks": [
     {
       "added_at": "2023-07-21 19:35:12",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I'm Sorry I'm Like This",
-        "url": "https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU"
-      },
-      "artists": [
-        {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        }
-      ],
-      "duration_ms": 100465,
-      "name": "Somewhere in the Universe",
-      "url": "https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Coffee Breath",
         "url": "https://open.spotify.com/album/4xSZ20XQHahEsCKUydqZoX"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 163908,
       "name": "Coffee Breath",
       "url": "https://open.spotify.com/track/0CBjkW0sm2CjxjMaisEDPF"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "I'm Sorry I'm Like This",
+        "url": "https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        }
+      ],
+      "duration_ms": 100465,
+      "name": "Somewhere in the Universe",
+      "url": "https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/29gE3OIitSeBAcDEUvaDWp"
       },
@@ -523,38 +539,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+        "name": "Home for the Summer",
+        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
       },
       "artists": [
         {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "I Can't Hate You",
-        "url": "https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc"
-      },
-      "artists": [
-        {
-          "name": "Kayou.",
-          "url": "https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz"
-        },
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "I Can't Hate You",
-      "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
+      "duration_ms": 155271,
+      "name": "Home for the Summer",
+      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -575,18 +571,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Home for the Summer",
-        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
+        "name": "I Can't Hate You",
+        "url": "https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc"
       },
       "artists": [
         {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+          "name": "Kayou.",
+          "url": "https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz"
+        },
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
         }
       ],
-      "duration_ms": 155271,
-      "name": "Home for the Summer",
-      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
+      "duration_ms": 178480,
+      "name": "I Can't Hate You",
+      "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Worn Out Heart",
-        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 142588,
-      "name": "I Need U",
-      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 261471,
       "name": "Die Alone",
       "url": "https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Worn Out Heart",
+        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 142588,
+      "name": "I Need U",
+      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Pictures of Us",
-      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Safe.",
         "url": "https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 119089,
       "name": "I Know You so Well",
       "url": "https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 279306,
+      "name": "Pictures of Us",
+      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Unpeeled",
-        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
         }
       ],
-      "duration_ms": 280213,
-      "name": "Right Before My Eyes - Unpeeled",
-      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
+      "duration_ms": 239700,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
     },
     {
       "added_at": "2023-07-21 19:35:12",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+        "name": "Unpeeled",
+        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 239700,
-      "name": "Emerald Eyes",
-      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
+      "duration_ms": 280213,
+      "name": "Right Before My Eyes - Unpeeled",
+      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "i care so much that i dont care at all",
-        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "2005 barbie doll",
-      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Second Place",
@@ -1303,6 +1287,22 @@
       "duration_ms": 128729,
       "name": "Second Place",
       "url": "https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz"
+    },
+    {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "2005 barbie doll",
+      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "the way we used to love.",
-        "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
-      },
-      "artists": [
-        {
-          "name": "eli.",
-          "url": "https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "disappear",
-      "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Ball",
         "url": "https://open.spotify.com/album/75RDBx0Z18jNRzwQafl5Hi"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 151525,
       "name": "Ball",
       "url": "https://open.spotify.com/track/3CL4OEx96xE6eO9vrHunJY"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "the way we used to love.",
+        "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
+      },
+      "artists": [
+        {
+          "name": "eli.",
+          "url": "https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "disappear",
+      "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1605,6 +1605,22 @@
       "url": "https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Wavvy",
+        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Wavvy",
+      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
+    },
+    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "LOVE + POP",
@@ -1635,22 +1651,6 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Wavvy",
-        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
-      },
-      "artists": [
-        {
-          "name": "Lav",
-          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Wavvy",
-      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
     },
     {
       "added_at": "2023-08-18 04:00:00",

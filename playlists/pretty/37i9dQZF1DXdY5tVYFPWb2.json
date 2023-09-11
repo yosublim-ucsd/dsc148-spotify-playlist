@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 149423,
+  "num_followers": 149477,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmVkMDk2NzQzM2VmYzk0YWIwMmRlNTNiZjFiZjBkM2VhODM4NTMw",
+  "snapshot_id": "MCwzMmUwNjE1NzM0MmIzN2EyZmE0NjUyMGVkYTkyNGJkMzFmZDQ1ZjJi",
   "tracks": [
     {
       "added_at": "2023-09-08 03:14:46",
@@ -727,18 +727,22 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+        "name": "MAO",
+        "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        },
+        {
+          "name": "Hayata Kosugi",
+          "url": "https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2"
         }
       ],
-      "duration_ms": 249254,
-      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+      "duration_ms": 267666,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
     },
     {
       "added_at": "2023-09-08 03:14:46",
@@ -759,22 +763,18 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "MAO",
-        "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
+        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
       },
       "artists": [
         {
-          "name": "Haruy",
-          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
-        },
-        {
-          "name": "Hayata Kosugi",
-          "url": "https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 267666,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
+      "duration_ms": 249254,
+      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
     },
     {
       "added_at": "2023-09-08 03:14:46",
@@ -899,18 +899,22 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "PRIVATE",
-        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
+        "name": "Call me back",
+        "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        },
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
         }
       ],
-      "duration_ms": 188173,
-      "name": "STARLIGHT",
-      "url": "https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd"
+      "duration_ms": 225529,
+      "name": "Call me back",
+      "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
     },
     {
       "added_at": "2023-09-08 03:14:46",
@@ -931,22 +935,18 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "Smoky Valley",
-        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
       },
       "artists": [
         {
-          "name": "I love you Orchestra Swing Style",
-          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
-        },
-        {
-          "name": "mahina",
-          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Night Distance",
-      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
+      "duration_ms": 188173,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd"
     },
     {
       "added_at": "2023-09-08 03:14:46",
@@ -967,22 +967,22 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "Call me back",
-        "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
+        "name": "Smoky Valley",
+        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
       "artists": [
         {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+          "name": "I love you Orchestra Swing Style",
+          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
         },
         {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+          "name": "mahina",
+          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
         }
       ],
-      "duration_ms": 225529,
-      "name": "Call me back",
-      "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
+      "duration_ms": 259000,
+      "name": "Night Distance",
+      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
     },
     {
       "added_at": "2023-09-08 03:14:46",
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "Silhouette (feat. Asako Toki)",
-        "url": "https://open.spotify.com/album/3cXuQfb9T7Jge2sne0xbfl"
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
       "artists": [
         {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
         }
       ],
-      "duration_ms": 261017,
-      "name": "Silhouette (feat. Asako Toki)",
-      "url": "https://open.spotify.com/track/5e8CIeIj0L1HPQqrX6MsnU"
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2023-09-08 03:14:46",
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+        "name": "Silhouette (feat. Asako Toki)",
+        "url": "https://open.spotify.com/album/3cXuQfb9T7Jge2sne0xbfl"
       },
       "artists": [
         {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
         }
       ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+      "duration_ms": 261017,
+      "name": "Silhouette (feat. Asako Toki)",
+      "url": "https://open.spotify.com/track/5e8CIeIj0L1HPQqrX6MsnU"
     },
     {
       "added_at": "2023-09-08 03:14:46",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "Shampoo (feat. Yu Hayami)",
-        "url": "https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Yu Hayami",
-          "url": "https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Shampoo (feat. Yu Hayami)",
-      "url": "https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a"
-    },
-    {
-      "added_at": "2023-09-08 03:14:46",
-      "album": {
         "name": "NOTE",
         "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
       },
@@ -1267,6 +1247,26 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
+        "name": "New Romantic (feat. Maki Nomiya)",
+        "url": "https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Maki Nomiya",
+          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
+        }
+      ],
+      "duration_ms": 193017,
+      "name": "New Romantic (feat. Maki Nomiya)",
+      "url": "https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7"
+    },
+    {
+      "added_at": "2023-09-08 03:14:46",
+      "album": {
         "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
         "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 176919,
       "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
-    },
-    {
-      "added_at": "2023-09-08 03:14:46",
-      "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Amber Bare Skin",
-      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
     },
     {
       "added_at": "2023-09-08 03:14:46",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Amber Bare Skin",
+      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
+    },
+    {
+      "added_at": "2023-09-08 03:14:46",
+      "album": {
         "name": "IMA",
         "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
       },
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "New Romantic (feat. Maki Nomiya)",
-        "url": "https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx"
+        "name": "Shampoo (feat. Yu Hayami)",
+        "url": "https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8"
       },
       "artists": [
         {
@@ -1380,13 +1380,13 @@
           "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
         },
         {
-          "name": "Maki Nomiya",
-          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
+          "name": "Yu Hayami",
+          "url": "https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX"
         }
       ],
-      "duration_ms": 193017,
-      "name": "New Romantic (feat. Maki Nomiya)",
-      "url": "https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7"
+      "duration_ms": 189000,
+      "name": "Shampoo (feat. Yu Hayami)",
+      "url": "https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a"
     },
     {
       "added_at": "2023-09-08 03:14:46",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "ANIME",
-        "url": "https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy"
-      },
-      "artists": [
-        {
-          "name": "LUCKY TAPES",
-          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
-        }
-      ],
-      "duration_ms": 162287,
-      "name": "ANIME",
-      "url": "https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b"
-    },
-    {
-      "added_at": "2023-09-08 03:14:46",
-      "album": {
         "name": "CITY POP LOVERS",
         "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
       },
@@ -1551,6 +1535,38 @@
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
+    },
+    {
+      "added_at": "2023-09-08 03:14:46",
+      "album": {
+        "name": "ANIME",
+        "url": "https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "duration_ms": 162287,
+      "name": "ANIME",
+      "url": "https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b"
+    },
+    {
+      "added_at": "2023-09-08 03:14:46",
+      "album": {
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/78Q2Qyf2Yyxp4cFSHluJxj"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 204495,
+      "name": "conversation - Prod. by DPR CREAM",
+      "url": "https://open.spotify.com/track/5X07yV5IC4LYs9rnshOABJ"
     },
     {
       "added_at": "2023-09-08 03:14:46",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "candy",
-        "url": "https://open.spotify.com/album/71kjYyNCa7sIffRTOrIDtZ"
-      },
-      "artists": [
-        {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
-        }
-      ],
-      "duration_ms": 190045,
-      "name": "candy",
-      "url": "https://open.spotify.com/track/2UGlEEIp5JTjwfmLX4RFhj"
-    },
-    {
-      "added_at": "2023-09-08 03:14:46",
-      "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 272657,
       "name": "After Party",
       "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
+    },
+    {
+      "added_at": "2023-09-08 03:14:46",
+      "album": {
+        "name": "candy",
+        "url": "https://open.spotify.com/album/71kjYyNCa7sIffRTOrIDtZ"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 190045,
+      "name": "candy",
+      "url": "https://open.spotify.com/track/2UGlEEIp5JTjwfmLX4RFhj"
     },
     {
       "added_at": "2023-09-08 03:14:46",
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "MAGIC WAYS",
-        "url": "https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw"
-      },
-      "artists": [
-        {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
-        }
-      ],
-      "duration_ms": 269569,
-      "name": "MAGIC WAYS",
-      "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
-    },
-    {
-      "added_at": "2023-09-08 03:14:46",
-      "album": {
         "name": "\u3053\u306e\u4e2d\u3067",
         "url": "https://open.spotify.com/album/4tE6yGPwcQ93uWrrF70GN3"
       },
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-09-08 03:14:46",
       "album": {
-        "name": "PRISMATICS",
-        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
+        "name": "MAGIC WAYS",
+        "url": "https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw"
       },
       "artists": [
         {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
         }
       ],
-      "duration_ms": 210120,
-      "name": "FANTASY",
-      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
+      "duration_ms": 269569,
+      "name": "MAGIC WAYS",
+      "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Dan + Shay",
-  "num_followers": 450291,
+  "num_followers": 450369,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDJkOWIxMmE1MjFlMzYxZDhlNjE3ZTk3YTZhYmI1MTM2ZTZjZTRj",
+  "snapshot_id": "MCxmMTE2NGE5NGVjMWQyNTRmNWQxZDcxOWQ5OGEzMzE1NzFmZTlmYjE5",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Angels (Don\u2019t Always Have Wings)",
-        "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "Angels (Don\u2019t Always Have Wings)",
-      "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Angels (Don\u2019t Always Have Wings)",
+        "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "Angels (Don\u2019t Always Have Wings)",
+      "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "MACON",
+        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212030,
+      "name": "If I Didn't Love You",
+      "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "You, Me, And Whiskey",
         "url": "https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 229626,
       "name": "Love You Anyway",
       "url": "https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "MACON",
-        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 212030,
-      "name": "If I Didn't Love You",
-      "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "Beers And Sunshine",
+        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Beers And Sunshine",
+      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Beers And Sunshine",
-        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 178278,
-      "name": "Beers And Sunshine",
-      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 163533,
       "name": "I Should Have Married You",
       "url": "https://open.spotify.com/track/3XhhXPBUI2BKs8FTOOdHfR"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Country On",
-        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 236455,
-      "name": "Country On",
-      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Giddy Up!",
         "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 162665,
       "name": "Giddy Up!",
       "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Country On",
+        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 236455,
+      "name": "Country On",
+      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Take Me Out",
-        "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 160839,
       "name": "Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/1b8TpvCFqmJTd2xz9xE9s1"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Take Me Out",
+        "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
     },
     {
       "added_at": "2023-09-08 04:01:00",

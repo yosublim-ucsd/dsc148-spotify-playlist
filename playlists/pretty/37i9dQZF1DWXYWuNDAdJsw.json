@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 843446,
+  "num_followers": 843540,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjc1ZDA1MzhhMDk5ZGYwYjViNzNkYjA0N2NiMjM1Yzc5NGU2M2Uw",
+  "snapshot_id": "MCw1YzI2ZDg4MzE0MThlZjc2NTAyNTAxYzI4ZGI2ZTg0ZWQwNTViZTVm",
   "tracks": [
     {
       "added_at": "2023-09-08 17:04:16",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
         "name": "MI EXXX",
         "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 194470,
       "name": "MI EXXX",
       "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Devuelveme",
+      "url": "https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Devuelveme",
-      "url": "https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7"
     },
     {
       "added_at": "2023-09-08 17:04:16",

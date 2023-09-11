@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 120919,
+  "num_followers": 120980,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTc2OWZkZGQ5ODA3MmM4ODY4NGNmNDQwOTJkNTc2NmE3MDU2YjRi",
+  "snapshot_id": "MCxhMDgwYWNjZGZjMGUwZjM1MGU4NDc5YzA4YTdhZmY4ZGYxNDAzNTUw",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Criminal Influencer",
-        "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Criminal Influencer",
-      "url": "https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "POC POC",
         "url": "https://open.spotify.com/album/5JBShduEBqPGoydz7DD1l3"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 223732,
       "name": "POC POC",
       "url": "https://open.spotify.com/track/1IIoQ4SDLTA1I0KU5mHlgl"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Criminal Influencer",
+        "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Criminal Influencer",
+      "url": "https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Bad Bad Bad",
+        "url": "https://open.spotify.com/album/0c0TPdWKG5DFewBDhdJxpx"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        }
+      ],
+      "duration_ms": 154877,
+      "name": "Bad bad bad",
+      "url": "https://open.spotify.com/track/3ybpfJJRAHZL7NKuUwL1EP"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Drink Azul",
         "url": "https://open.spotify.com/album/7wNuG0zJUQQomWNHXPhWOR"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 165600,
       "name": "Drink Azul",
       "url": "https://open.spotify.com/track/2rIUgXHdMeQb6i8TFKrGOK"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Bad Bad Bad",
-        "url": "https://open.spotify.com/album/0c0TPdWKG5DFewBDhdJxpx"
-      },
-      "artists": [
-        {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
-        }
-      ],
-      "duration_ms": 154877,
-      "name": "Bad bad bad",
-      "url": "https://open.spotify.com/track/3ybpfJJRAHZL7NKuUwL1EP"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -2147,26 +2147,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "237 Deluxe",
-        "url": "https://open.spotify.com/album/0aK2N757Ttao233hGz4CUI"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 126326,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/0uJVofbOhvogYQ2mRqsbaZ"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Intoc\u00e1vel",
         "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
       },
@@ -2183,6 +2163,26 @@
       "duration_ms": 155355,
       "name": "Preto de Gueto",
       "url": "https://open.spotify.com/track/2YHdQVG5x6XI8HmdcqGJnn"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "237 Deluxe",
+        "url": "https://open.spotify.com/album/0aK2N757Ttao233hGz4CUI"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 126326,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/0uJVofbOhvogYQ2mRqsbaZ"
     },
     {
       "added_at": "2023-09-01 03:01:00",

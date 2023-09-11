@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,563,662 likes - 124 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,564,950 likes - 124 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 72 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 |
 | 73 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
 | 74 | [RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 2:57 |
-| 75 | [DANCE NOW](https://open.spotify.com/track/7gRCPtRMklWpshLl559n21) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [DANCE NOW](https://open.spotify.com/album/33QY6ZHO9BxYgAbl4kiMgD) | 2:10 |
+| 75 | [DANCE NOW](https://open.spotify.com/track/2LPNXtjG3eaIbFBoaMN354) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:10 |
 | 76 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 77 | [Everyday](https://open.spotify.com/track/4RJTTrZqPFWaWACVXHkvjw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:14 |
 | 78 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 |
-| 79 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 79 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 80 | [Bathroom](https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:28 |
 | 81 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 82 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 123 | [Cry](https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:16 |
 | 124 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 
-Snapshot ID: `MCxjYTIzNWZlZTcyMTg5ZDkwNmRhMjI4MzE3N2JiMmY3OWE5MzBiOGE3`
+Snapshot ID: `MCwwNDI1NDgzMGZkM2ZhNmMxYzk1NDU0NDAyMDQ5MzgxN2JmZDI3ZmI3`

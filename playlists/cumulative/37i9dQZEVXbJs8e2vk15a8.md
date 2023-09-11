@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,310 songs - 2 day 22 hr 56 min
+1,311 songs - 2 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-09-17 | 2022-09-28 |
 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 | 2022-09-27 | 2022-11-02 |
 | [Duro 2 Horas](https://open.spotify.com/track/1tXPHKD791iwGJxvSKo8oc) | [Faraón Love Shady](https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn) | [Duro 2 Horas](https://open.spotify.com/album/1Gtu3w8lsEZfkxPmu1Y1uF) | 2:20 | 2022-04-15 | 2022-05-08 |
-| [Easy](https://open.spotify.com/track/1vV3OORdDhg2aQyjbxJd2j) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CODA](https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1) | 4:14 | 2023-09-06 |  |
+| [Easy](https://open.spotify.com/track/1vV3OORdDhg2aQyjbxJd2j) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CODA](https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1) | 4:14 | 2023-09-06 | 2023-09-11 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-05-31 | 2022-08-24 |
 | [El Alma Que Te Trajo](https://open.spotify.com/track/5pGz6FrmpHjOuso83azbik) | [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [El Alma Que Te Trajo](https://open.spotify.com/album/7J9BzqMQTX0ne8M8dn57Uo) | 2:24 | 2022-10-03 | 2023-01-04 |
 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 | 2023-09-06 |  |
@@ -589,6 +589,7 @@
 | [Last Kiss](https://open.spotify.com/track/1VCJ7vk3Y2DoJIAEOXe3V8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Package\)](https://open.spotify.com/album/6S6JQWzUrJVcJLK4fi74Fw) | 6:07 | 2022-07-15 | 2022-07-18 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-06-14 | 2022-06-20 |
 | [Latidos](https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx) | 2:09 | 2022-08-05 | 2022-08-31 |
+| [Le Monde](https://open.spotify.com/track/424DkevE18QJazwlljiTD4) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Talk to Me \(Original Soundtrack\)](https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw) | 2:14 | 2023-09-10 |  |
 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 | 2022-12-27 | 2023-01-04 |
 | [Lealtad](https://open.spotify.com/track/6OsU20ogLqpSbNGAbMY9se) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Lealtad](https://open.spotify.com/album/0BoBWylVM8TP3tttPIixke) | 2:47 | 2023-02-07 | 2023-04-09 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-07-19 | 2022-07-27 |

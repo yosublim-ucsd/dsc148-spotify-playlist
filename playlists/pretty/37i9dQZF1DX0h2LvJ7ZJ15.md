@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,139 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,649 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 5 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 6 | [METAMORPHOSIS \- Slowed + Reverb](https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Slowed + Reverb\)](https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO) | 2:52 |
 | 7 | [3:15 \- Slowed Down + Reverb](https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(OG, Slowed Down + Reverb, Sped Up\)](https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV) | 3:15 |
-| 8 | [Close Eyes \- Slowed + Reverb](https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes \(Slowed + Reverb\)](https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm) | 2:23 |
-| 9 | [CRYSTALS \(Slowed\)](https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:15 |
+| 8 | [CRYSTALS \(Slowed\)](https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:15 |
+| 9 | [Close Eyes \- Slowed + Reverb](https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes \(Slowed + Reverb\)](https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm) | 2:23 |
 | 10 | [Call Me \- Slowed](https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Call Me \(Slowed\)](https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N) | 2:40 |
 | 11 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 12 | [Heat Waves \- Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh) | 4:22 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 21 | [I'm Geekin \- Slowed Down](https://open.spotify.com/track/7s6Qiw4ArIssZ9QP5mxPRk) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [I'm Geekin \(Sped Up + Slowed Down\)](https://open.spotify.com/album/6wmDz02Vg21p7tFEwxNBws) | 1:54 |
 | 22 | [Отключаю телефон \(Slowed\)](https://open.spotify.com/track/7qwlUHDJI8aKwpuYVzuvoe) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [Отключаю телефон \(Slowed\)](https://open.spotify.com/album/6TKmUmRJInYDQbbGQ2Rf2H) | 3:07 |
 | 23 | [Limbo \- Ghost Slowed](https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Freddie's Inferno \- Ghost Slowed](https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2) | 3:03 |
-| 24 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 |
-| 25 | [drowning \(slowed + reverb\)](https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning \(remixes\)](https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd) | 2:12 |
+| 24 | [drowning \(slowed + reverb\)](https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning \(remixes\)](https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd) | 2:12 |
+| 25 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 |
 | 26 | [School Rooftop \- Slowed Down Version](https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Slowed Down Version\)](https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ) | 3:13 |
 | 27 | [LOOK DON'T TOUCH \- Slowed & Reverbed](https://open.spotify.com/track/2xLCNc9jc87ujLXnG7wYM4) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LOOK DON'T TOUCH \(STARE STARE STARE\)](https://open.spotify.com/album/3quZlwSsK1qyhiwqLx95te) | 2:37 |
 | 28 | [It's Ok \- Slowed](https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [It's Ok \(Slowed\)](https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Vision \- Slowed](https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh) | 4:59 |
 | 50 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \- Slowed + Reverb](https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \[Slowed + Reverb\]](https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC) | 2:18 |
 
-Snapshot ID: `MCxjZjA2N2M0ZmFiNTFjNjAzZjFkNTllNzhmZDM4NDExYjVmYTVhMjMy`
+Snapshot ID: `MCxhODcyYTg2OTRkNzgxN2NhNTcyNDllNDFhMzFhYzljMmQ1YjBkOTg2`

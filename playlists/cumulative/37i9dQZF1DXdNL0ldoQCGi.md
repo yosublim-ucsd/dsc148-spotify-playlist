@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-438 songs - 21 hr 55 min
+439 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [Lado Nerd](https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Lado Nerd](https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N) | 1:45 | 2022-08-19 | 2022-10-18 |
 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 | 2023-02-24 |  |
 | [Let's Go 3 \(feat\. MC Marks, Mc Don Juan, MC PH, Mc Luki, Mc Paiva ZS, MC GP & Makalo\)](https://open.spotify.com/track/6kNZdlmjH4BQnSUfHeJIuc) | [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Makalo](https://open.spotify.com/artist/3UN5sCtgFEyrkxMQ7oFUKk) | [Let's Go 3 \(feat\. MC Marks, Mc Don Juan, MC PH, Mc Luki, Mc Paiva ZS, MC GP & Makalo\)](https://open.spotify.com/album/5fsKZ4LG33vaIiw5Ura5Hd) | 8:28 | 2022-11-01 | 2022-12-07 |
-| [Let´s Go 4](https://open.spotify.com/track/3NU9HlJzAGxs3S7oE2QyF2) | [fpz](https://open.spotify.com/artist/6iApZhWkdXv40VOWDFAGFe) | [Let´s Go 4](https://open.spotify.com/album/4OvtSRAQWxnLMxgD2o3KOq) | 4:31 | 2023-08-30 |  |
+| [Lets Go 4](https://open.spotify.com/track/1sZERP8lxfWxjyzPGl2MvA) | [leo caneta de ouro](https://open.spotify.com/artist/38MPWRSmaPNCLmbr1RH73n) | [Lets Go 4](https://open.spotify.com/album/38zYNwOTfIWOT5FKmWnEBu) | 4:31 | 2023-09-08 |  |
+| [Let´s Go 4](https://open.spotify.com/track/3NU9HlJzAGxs3S7oE2QyF2) | [fpz](https://open.spotify.com/artist/6iApZhWkdXv40VOWDFAGFe) | [Let´s Go 4](https://open.spotify.com/album/4OvtSRAQWxnLMxgD2o3KOq) | 4:31 | 2023-08-30 | 2023-09-11 |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2022-05-25 | 2022-09-22 |
 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 | 2022-12-23 | 2023-01-10 |
 | [Locked Up](https://open.spotify.com/track/0YUrjFy4qFKOO5NhM9tYdV) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble](https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya) | 3:55 | 2022-08-29 | 2022-10-20 |

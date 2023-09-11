@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "AM Sunset",
+        "url": "https://open.spotify.com/album/33beEdj4t72q8BLg2eZBOT"
+      },
+      "artists": [
+        {
+          "name": "Ralph Couvert",
+          "url": "https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190746,
+      "name": "AM Sunset",
+      "url": "https://open.spotify.com/track/06ZwqZmTvUVclp1a7a1Wka"
+    },
+    {
+      "album": {
         "name": "Amai Hi",
         "url": "https://open.spotify.com/album/62Y6MiU9MICnsbetYyKizY"
       },
@@ -5160,7 +5178,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 140608,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL"

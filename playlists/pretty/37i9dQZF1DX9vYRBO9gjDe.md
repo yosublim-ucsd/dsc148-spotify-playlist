@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。9月8日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,915 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,145 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 10 | [Butterflies](https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Social Path / Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW) | 3:10 |
 | 11 | [マジックアワー](https://open.spotify.com/track/5KFwt828Q8lPpUSs69TWZV) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [マジックアワー](https://open.spotify.com/album/1VV09JUhf3tWApPKwszd56) | 3:25 |
 | 12 | [I](https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [I](https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB) | 3:21 |
-| 13 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [X&G](https://open.spotify.com/artist/0J8vnuLl37meRjZttkpCBP) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
+| 13 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 14 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 |
 | 15 | [F.N.A.P.](https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [F.N.A.P.](https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE) | 2:51 |
 | 16 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [能動](https://open.spotify.com/track/6vl7MtKJQ5EOZBy82j3DNb) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [能動](https://open.spotify.com/album/7qVux4ZwlcrcGzgnEHbRqJ) | 2:40 |
 | 50 | [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 |
 
-Snapshot ID: `MCw2YzAyZTEzZmMxNzY0NmNkMDhiNDg5OGY3ZWYyYzcxNzc0OGZiMWRj`
+Snapshot ID: `MCw1MzU4YzllN2ZjN2I5OTQ3NmViZjBiNTI0MzFiYjQ3ZTk4ZGYwNjZl`

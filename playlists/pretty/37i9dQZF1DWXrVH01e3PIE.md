@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Tu dúo favorito en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,160 likes - 105 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,409 likes - 105 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 40 | [TOI HECHO](https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [511](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X) | 1:46 |
 | 41 | [Municiones \(feat\. KyleYouMadeThat\)](https://open.spotify.com/track/2FV1QVeQ5fI5gAEPo2ZsHI) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [Municiones \(feat\. KyleYouMadeThat\)](https://open.spotify.com/album/4Gtx0NCZpR7LnW6wHYEpYw) | 3:24 |
 | 42 | [Ultimo Tren a Ameri](https://open.spotify.com/track/6AgGMIxxvzzpqvRHRfrRMm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 1:51 |
-| 43 | [Coroné](https://open.spotify.com/track/386NSsUV8EaZe1xFea64cw) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/0qR3J5yY7BMDQOlgFyVgQ0) | 2:50 |
+| 43 | [Coroné](https://open.spotify.com/track/6h22JGTLtV29j7sXmtB2ii) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/3LvQoppyYo1QSEISDUsg8T) | 2:50 |
 | 44 | [Mi Culpa](https://open.spotify.com/track/42SE13NYBeYw9r10PUwz7U) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Culpa](https://open.spotify.com/album/6Njm2qMYJeUNt6AXfMCTkR) | 3:30 |
 | 45 | [UN PISO MÁS](https://open.spotify.com/track/6Rsryyrp2tB4t0f8c60bGm) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [KOKI](https://open.spotify.com/artist/5LUkjuvgqMcroPUghvtqSX) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:55 |
 | 46 | [Se Que No](https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:33 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 104 | [Salsa Suprema](https://open.spotify.com/track/0A4F5SYr1vmvNJ9mdA7fJQ) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Salsa Suprema](https://open.spotify.com/album/7hKtv2HaJdDylmlykXCcEX) | 2:32 |
 | 105 | [FANTASTICO](https://open.spotify.com/track/4MXvgHbIRDW4iB4PmMvvJc) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:29 |
 
-Snapshot ID: `MCw2YTE1ZTk0YWVmY2U5Y2Q4YjY1NjE4ODBkYzk3MWJkM2E2NDYxZjQ4`
+Snapshot ID: `MCxlNzBjZmExMzgzYTYxNTAzZWEzMjlmZDA5OTE4NjU3YTQ5Mjg1NGMy`

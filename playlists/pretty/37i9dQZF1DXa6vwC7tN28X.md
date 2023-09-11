@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,468 likes - 45 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,499 likes - 45 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 15 | [Nostalgias](https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:03 |
 | 16 | [Desencuentro](https://open.spotify.com/track/2mQRs9iO7qI0F0r2FTXw74) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 2:21 |
 | 17 | [Gris](https://open.spotify.com/track/2v7rhTFwDVQSdRiheHpYWS) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:09 |
-| 18 | [Como Dos Extraños \(feat\. Nestor Marconi\)](https://open.spotify.com/track/3LhNWmhwBdNiaOd30U3Kwl) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Néstor Marconi](https://open.spotify.com/artist/0ZWO3TxKWBb6QvvGEDe38H) | [Cuerpo y Alma](https://open.spotify.com/album/7oJZTQbJsNJ5qKDdTBwpUH) | 2:54 |
-| 19 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 |
+| 18 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 |
+| 19 | [Como Dos Extraños \(feat\. Nestor Marconi\)](https://open.spotify.com/track/3LhNWmhwBdNiaOd30U3Kwl) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Néstor Marconi](https://open.spotify.com/artist/0ZWO3TxKWBb6QvvGEDe38H) | [Cuerpo y Alma](https://open.spotify.com/album/7oJZTQbJsNJ5qKDdTBwpUH) | 2:54 |
 | 20 | [El Mareo](https://open.spotify.com/track/7gmLydEZS9b8F0dNGZ6d8h) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 4:35 |
 | 21 | [Tango del Diablo](https://open.spotify.com/track/7omc6Ocnzf15amA904VsaO) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:07 |
 | 22 | [El día que me quieras](https://open.spotify.com/track/4S5rS6t4INfDEgBHYQYj99) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:32 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 29 | [Malena](https://open.spotify.com/track/4fpCB6Xu0cs8kBDFWb15iW) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 2:27 |
 | 30 | [El Vino Triste](https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [El Vino Triste \(feat\. Raúl Lavié\)](https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ) | 2:53 |
 | 31 | [Cambalache](https://open.spotify.com/track/7u7nVx9CuAsmEIubLgaH8a) | [Hermetica](https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7) | [Intérpretes](https://open.spotify.com/album/1yTHFSLxUB82URToWd2EM3) | 2:34 |
-| 32 | [Laura Va](https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:52 |
-| 33 | [Por Una Cabeza](https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 4:38 |
+| 32 | [Por Una Cabeza](https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 4:38 |
+| 33 | [Laura Va](https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:52 |
 | 34 | [Volver Ni A Palos](https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Otro Le Travaladna](https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF) | 2:55 |
 | 35 | [La Despedida \(feat\. Fito Páez & Paula Pomeraniek\)](https://open.spotify.com/track/3p9ebspnr6evao7kZ99BpH) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Fito Páez](https://open.spotify.com/artist/4ZgWNQWb0Qz9QeF67IUVk8), [Paula Pomeraniek](https://open.spotify.com/artist/31dHfRj6P93GP3be6JsYIe) | [Avellaneda](https://open.spotify.com/album/49Xq9ybXE17iQoJox5qegK) | 4:39 |
 | 36 | [Mano a mano](https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 3:18 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 44 | [Barro Tal Vez](https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:42 |
 | 45 | [Tanguito Era Gardel](https://open.spotify.com/track/6NF7NL01DBuPpbopdEc0Ku) | [Miguel Cantilo](https://open.spotify.com/artist/4MTd9MHb33LFgRKqWG0jZi) | [De Amores y Pasiones](https://open.spotify.com/album/1gqPjw0a1BMHZr2UuTf8Dr) | 4:57 |
 
-Snapshot ID: `MCw0NTFhOGE2MTZiOGJhMzQzODBhODM5NWUwZjFlZjNhMDA5N2Y2YWY3`
+Snapshot ID: `MCxiY2MxNGU3MDhkZDU1MTQ2ZjU1OTQxNTM1MmYyMjk3NmRmMjYwZGZl`

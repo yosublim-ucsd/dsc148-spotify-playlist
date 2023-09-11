@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring OddKidOut, San Holo & artemis orion
 
-526 songs - 1 day 5 hr 7 min
+527 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Demons](https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Demons](https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG) | 4:44 | 2023-02-24 | 2023-07-22 |
 | [Dish](https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy) | [Pheeno](https://open.spotify.com/artist/4C1Mbwae9oliXTKjl8vzbD) | [Dish](https://open.spotify.com/album/1zUmUJ2iSbCnafPoZRkSg1) | 2:17 | 2021-08-06 | 2023-03-11 |
 | [dive in](https://open.spotify.com/track/5r4Ng8Yg5ekJOQVSqHYkaE) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [dive in](https://open.spotify.com/album/1eL6sP8iKnZGZiEEdzF5d5) | 2:51 | 2022-04-08 | 2022-07-09 |
+| [Do or Die](https://open.spotify.com/track/7dysHvjVrHkpLhamDe1HJz) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Do or Die](https://open.spotify.com/album/1DNJREUQmBww91ALLQYHv0) | 3:40 | 2023-09-08 |  |
 | [do you](https://open.spotify.com/track/5d5LfzyA5IqqEr31Wxjw2Y) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [life support](https://open.spotify.com/album/4usDFSWnjxy6p0kGTN6W67) | 2:28 | 2021-08-06 | 2022-07-29 |
 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 | 2023-07-07 |  |
 | [Dodgeball](https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Dodgeball](https://open.spotify.com/album/6uwuw4B8fviW9Wu0awFi1N) | 3:07 | 2021-08-06 | 2022-07-28 |
@@ -146,7 +147,7 @@
 | [Ego](https://open.spotify.com/track/6R7CXX5xAQ5okxXRr2LWzB) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Origami Human](https://open.spotify.com/album/7j4meIEQzvfubq1EBNfg1r) | 3:43 | 2021-12-10 | 2022-04-20 |
 | [Electric Feel](https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Electric Feel](https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz) | 3:12 | 2021-08-06 |  |
 | [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-03-16 | 2023-07-02 |
-| [Emotional \- James Hiraeth Remix](https://open.spotify.com/track/0Z2muIwFO7cZaPo21bYa8C) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo), [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA) | [Emotional \(James Hiraeth Remix\)](https://open.spotify.com/album/5tWUVYH8mUw4TQQaCtsWDi) | 3:24 | 2023-04-28 |  |
+| [Emotional \- James Hiraeth Remix](https://open.spotify.com/track/0Z2muIwFO7cZaPo21bYa8C) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo), [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA) | [Emotional \(James Hiraeth Remix\)](https://open.spotify.com/album/5tWUVYH8mUw4TQQaCtsWDi) | 3:24 | 2023-04-28 | 2023-09-11 |
 | [Emotions](https://open.spotify.com/track/1pHssnGn5rQjUSM5Esrz99) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Emotions](https://open.spotify.com/album/410jHKJ6q3i8V5dhJzDT8P) | 3:37 | 2023-07-21 | 2023-08-05 |
 | [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-03-24 |  |
 | [Empty Room \- Cabu Remix](https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Empty Room](https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s) | 3:46 | 2021-08-06 |  |

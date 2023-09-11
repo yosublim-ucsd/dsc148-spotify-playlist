@@ -4,7 +4,7 @@
 
 > For whatever activity you do that may need a punch of intensity!
 
-316 songs - 16 hr 46 min
+317 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Camelot \(feat\. Yo Gotti, BlocBoy JB & Moneybagg Yo\) \- Remix](https://open.spotify.com/track/05JdgtCKkZ5CoOjM5KS4EG) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Camelot \(feat\. Yo Gotti, BlocBoy JB & Moneybagg Yo\) \[Remix\]](https://open.spotify.com/album/58gXxUxvp38hNEXjplbw4m) | 3:18 | 2022-04-15 | 2022-04-16 |
 | [Car Bars](https://open.spotify.com/track/6foJwQgQ7K2qKRsjZ2jpEh) | [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV) | [Bars EP](https://open.spotify.com/album/5oREzWRmZSR9E2kFlB9Te6) | 2:58 | 2022-04-15 | 2022-04-16 |
 | [Cause A Commotion \(feat\. Skip Marley\)](https://open.spotify.com/track/3vYY0BG9V1odj5gcpizYBD) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Cause A Commotion](https://open.spotify.com/album/3WuBUaFonxxcUVCNNQoE44) | 3:20 | 2022-04-15 | 2022-04-20 |
-| [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 | 2022-04-15 |  |
+| [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 | 2022-04-15 | 2023-09-11 |
 | [Clash \(feat\. Stormzy\)](https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Clash \(feat\. Stormzy\)](https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP) | 4:11 | 2021-12-20 | 2022-07-26 |
 | [Clout](https://open.spotify.com/track/77HIFtJNTkHh3t3M3yyzhS) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 2:35 | 2022-04-15 | 2022-04-19 |
 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 | 2022-04-15 | 2022-04-16 |
@@ -193,6 +193,7 @@
 | [Netflix & Chill](https://open.spotify.com/track/31m40qBxoj4iMSnQLkq8nP) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Netflix & Chill](https://open.spotify.com/album/7KUzqbBOGk9jR0OwBfICii) | 3:41 | 2022-04-15 | 2022-04-21 |
 | [Ni\*\*as In Paris](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 3:39 | 2023-08-24 |  |
 | [Ni\*\*as In Paris](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:39 | 2022-04-15 | 2023-08-31 |
+| [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 | 2023-08-24 |  |
 | [Night Shift](https://open.spotify.com/track/1R11kvkIH0Y9CfGf7X4v58) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Survival](https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn) | 3:42 | 2022-04-15 | 2022-04-21 |
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2022-06-24 |  |
 | [No Rampin \(feat\. Moelogo & Nadia Rose\)](https://open.spotify.com/track/43u9qIHBXcZZPAP0chWeww) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 2:36 | 2022-04-15 | 2022-04-20 |

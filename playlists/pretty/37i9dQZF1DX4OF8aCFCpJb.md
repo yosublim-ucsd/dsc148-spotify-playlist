@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,046 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,058 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 28 | [Gungar fram \(feat\. Näääk & Kaliffa\)](https://open.spotify.com/track/4nsJdPxz6b2mYwopZBco0H) | [Nimo](https://open.spotify.com/artist/2EBLZoR071bKhHfe4TNKPi), [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Gungar fram \(feat\. Näääk & Kaliffa\)](https://open.spotify.com/album/3tOIxEepIQ0D4Ee3rytRo5) | 3:52 |
 | 29 | [Gillar din vibe](https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B) | 3:08 |
 | 30 | [Tippa på tå](https://open.spotify.com/track/1PKRouxQ3KghcyU2UovQlF) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Tippa på tå](https://open.spotify.com/album/5JgVSX1xqeYviplcfs3qfu) | 3:01 |
-| 31 | [Mera tid](https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Mera tid](https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R) | 3:09 |
-| 32 | [Små svarta änglar](https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Blacka Rasta](https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG) | 3:31 |
+| 31 | [Små svarta änglar](https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Blacka Rasta](https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG) | 3:31 |
+| 32 | [Mera tid](https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Mera tid](https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R) | 3:09 |
 | 33 | [Bonus På Kortet](https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:43 |
 | 34 | [Hög standard](https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe) | [Peps Blodsband](https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD) | [Hög standard](https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi) | 5:16 |
 | 35 | [Snapphaneklanen](https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Upphovsmännen Till Den Skånska Raggan](https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg) | 3:51 |
 | 36 | [Jag Minns](https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:57 |
-| 37 | [Enda Vägen Fram](https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Folkets Röst](https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw) | 3:13 |
-| 38 | [Under samma himmel](https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Under samma himmel](https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA) | 4:13 |
+| 37 | [Under samma himmel](https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Under samma himmel](https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA) | 4:13 |
+| 38 | [Enda Vägen Fram](https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Folkets Röst](https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw) | 3:13 |
 | 39 | [Full fokus](https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [Mellan Raderna](https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE) | 3:11 |
 | 40 | [Kontakt](https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY), [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Kalibreraren](https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR) | 3:08 |
 | 41 | [Vakna](https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Gör Det Ändå](https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Du Vill Så Du Kan](https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma) | 4:05 |
 | 50 | [Mediakåt feat\. Timbuktu](https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Marknadens soldat](https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t) | 4:11 |
 
-Snapshot ID: `MCxkMGZlODBiYWM0ZGY5YjQ5N2JkZTZkN2NjOTEzYmVjZDYxNGZhM2Mz`
+Snapshot ID: `MCw2ODI4MTg1MWFmYWQwNjEzZTY5ZDFiNDJlY2I0YWMyYTVkZmIzOWRh`

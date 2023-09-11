@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lgtAi.md) - [plain]
 
 > This is Tainy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,256 likes - 43 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,273 likes - 43 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lgtAi.md) - [plain]
 | 25 | [UNA MÁS](https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:46 |
 | 26 | [¿Cuándo Fue?](https://open.spotify.com/track/4ZNKaE8fcrtDPsRK8RkQIs) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:48 |
 | 27 | [Fuego \(with Sean Paul & Anitta, feat\. Tainy\)](https://open.spotify.com/track/660eekzsNZ7sdATvfIsAkR) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:15 |
-| 28 | [Sunbathe](https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sunbathe](https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA) | 2:50 |
+| 28 | [Lento](https://open.spotify.com/track/5JoV39MFYbvWZwJlxq2722) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Lento](https://open.spotify.com/album/7wQzePffBw59BtLjJULfel) | 2:53 |
 | 29 | [DEJA VU](https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:58 |
-| 30 | [Lento](https://open.spotify.com/track/5JoV39MFYbvWZwJlxq2722) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Lento](https://open.spotify.com/album/7wQzePffBw59BtLjJULfel) | 2:53 |
+| 30 | [Sunbathe](https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sunbathe](https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA) | 2:50 |
 | 31 | [Asi Eh \- Remix](https://open.spotify.com/track/5yyxjJEMqSyCySMM9MAoJI) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Asi Eh \(Remix\)](https://open.spotify.com/album/0rp5iUshTsvz8E4YakFOAw) | 3:54 |
 | 32 | [Button \(feat\. Anuel AA & Tainy\)](https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:44 |
 | 33 | [HÁBLAME CLARO](https://open.spotify.com/track/6ftgxRFnXKiyuKtpdYDQSz) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:23 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lgtAi.md) - [plain]
 | 42 | [Feel It Too \(with Jessie Reyez & Tory Lanez\)](https://open.spotify.com/track/0afSDk3PxzQGY6rIdf30Z0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Feel It Too \(with Jessie Reyez & Tory Lanez\)](https://open.spotify.com/album/4xOKqHPmVztXkOS7CSHcSN) | 3:13 |
 | 43 | [VA Y VEN](https://open.spotify.com/track/1Jo3PXI2jQY3kI2nZH3lyW) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 4:19 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDA0YTBlZGE2YWQxMjUxMWVmOTU5NzU3Yzg5YTNhOTk5NA==`
+Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDAwYzFlMDU2Y2Q5NTU0ODZmNDEzZDA3ZTAwNDU5NGU3NQ==`

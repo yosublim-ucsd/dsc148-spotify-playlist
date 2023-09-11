@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,686 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,875 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 99 | [MAMMA MIA](https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 4th Mini Album \[ MAMMA MIA! \]](https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV) | 3:24 |
 | 100 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 |
 
-Snapshot ID: `MCwwYzA0NDYzMGQzMmNkZGY5MGI2YmNlMDg0NmE5YzQ2MmVmMzEwNjUy`
+Snapshot ID: `MCxjODlhMTQ0MjlmN2E4NTJiOGRjYWRkNWE2YmNkMWUwZTI1NjU0Njcy`

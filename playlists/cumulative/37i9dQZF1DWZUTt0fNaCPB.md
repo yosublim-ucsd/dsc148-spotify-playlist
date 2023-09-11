@@ -4,7 +4,7 @@
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-198 songs - 12 hr 36 min
+199 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Seize the Day](https://open.spotify.com/track/1gqPcliPEmNXSOi7Vvr95e) | [The Mendenhall Experiment](https://open.spotify.com/artist/1i5khuFFnwuwwDwWbwbyLL) | [Seize the Day \- Single](https://open.spotify.com/album/35t5Xqrz49iF8M7fieKVRs) | 3:50 | 2021-12-15 | 2022-07-01 |
 | [Sham Pain](https://open.spotify.com/track/03HyPRDdAwvkovBE6XubBC) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Sham Pain](https://open.spotify.com/album/44udkZDmo8afuEnu0nTgUY) | 3:29 | 2021-12-15 | 2022-07-28 |
 | [Sham Pain](https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:29 | 2022-07-05 | 2023-08-21 |
+| [Sham Pain](https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp) | 3:29 | 2023-08-17 |  |
 | [She's A Blast](https://open.spotify.com/track/428x14AvuMoTmmO6pBeozu) | [Beautiful Bodies](https://open.spotify.com/artist/1L5Wcid8qi4K85Ynq7mLaZ) | [Battles](https://open.spotify.com/album/7mYRLbEp6R5P5iYadPENUy) | 2:47 | 2021-12-15 | 2022-07-23 |
 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 | 2022-07-05 |  |
 | [Shotgun Blues](https://open.spotify.com/track/0L3TkNCKAwHCaYHxeYPuhp) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Shotgun Blues](https://open.spotify.com/album/4ALN0YC4oFfoaOPY1Hec5u) | 4:27 | 2021-12-15 | 2022-07-29 |
@@ -200,7 +201,7 @@
 | [Where Ya Gonna Crash Tonight?](https://open.spotify.com/track/1FAjobOtbsZE56OIDFXruG) | [Them Evils](https://open.spotify.com/artist/3ASZko2LtiqddApAlKF7Cf) | [Where Ya Gonna Crash Tonight?](https://open.spotify.com/album/1IaElXsP0iP6lLwaEyCeL7) | 2:51 | 2021-12-15 | 2022-07-29 |
 | [Who Do You Trust?](https://open.spotify.com/track/7kJkTFmKYHrp9LT8w0oqpG) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/7HL8ZuakXsPF3XxmKaxIoz) | 3:16 | 2021-12-15 | 2022-07-29 |
 | [Witch Hunt](https://open.spotify.com/track/6ye8AdkpHcYQLlHUXZkrUn) | [Nicumo](https://open.spotify.com/artist/7z2nNVchTS9FTHP9qnJqDt) | [Witch Hunt](https://open.spotify.com/album/4vvW52mcvUtJb2PvhbgtXl) | 4:43 | 2022-04-01 | 2022-04-20 |
-| [Word Up!](https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T) | 2:52 | 2021-12-15 |  |
+| [Word Up!](https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T) | 2:52 | 2021-12-15 | 2023-09-11 |
 | [World On Fire](https://open.spotify.com/track/0GnU2sNVI6uP1tlmkVfiEt) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [World On Fire](https://open.spotify.com/album/3ZyFMWdKyIYxCLbK40OvcV) | 4:31 | 2021-12-15 | 2022-07-29 |
 | [Wrong Direction](https://open.spotify.com/track/4hpTKkNF9yvip5ZE8BleO7) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Wrong Direction](https://open.spotify.com/album/7B3s7P5424vohP5T8cZxTW) | 5:09 | 2021-12-15 | 2022-07-13 |
 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/0Hxty2K8F2DrrCXQyQVpBo) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Felons and Revolutionaries](https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db) | 2:43 | 2021-12-15 |  |

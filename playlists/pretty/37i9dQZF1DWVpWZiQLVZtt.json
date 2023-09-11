@@ -1,12 +1,12 @@
 {
   "description": "Pop Latino de los 80 y 90. Canciones que quedar\u00e1n para siempre. Foto: Luis Miguel",
-  "num_followers": 666776,
+  "num_followers": 667296,
   "original_name": "Cl\u00e1sicos del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzJkNWMzNGJiNjU0ZTMyNDY3ZmY2YWM0YjhmNWIxNmExNWE5NzM2",
+  "snapshot_id": "MCxhMDM1ZTQwZWM5YjhmMDU5NjBmZGIyMWZmOGRlNDgzZGRlNTUxYjIw",
   "tracks": [
     {
       "added_at": "2022-03-15 03:49:22",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "Sue\u00f1os L\u00edquidos",
         "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 310813,
       "name": "Clavado en Un Bar",
       "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Un Mundo Diferente",
-        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 267106,
-      "name": "Color Esperanza",
-      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+      "duration_ms": 205800,
+      "name": "Pies Descalzos, Sue\u00f1os Blancos",
+      "url": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+        "name": "Un Mundo Diferente",
+        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 205800,
-      "name": "Pies Descalzos, Sue\u00f1os Blancos",
-      "url": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
+      "duration_ms": 267106,
+      "name": "Color Esperanza",
+      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW"
-      },
-      "artists": [
-        {
-          "name": "Azucar Moreno",
-          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
-        }
-      ],
-      "duration_ms": 333466,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/451CpDIPCEe6C33BFGL3Kh"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 208360,
       "name": "Reina De Corazones",
       "url": "https://open.spotify.com/track/3zM2Z0F66WmhJwYpizMmUd"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW"
+      },
+      "artists": [
+        {
+          "name": "Azucar Moreno",
+          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
+        }
+      ],
+      "duration_ms": 333466,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/451CpDIPCEe6C33BFGL3Kh"
     },
     {
       "added_at": "2022-03-15 03:49:22",

@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Nieve Ella",
-  "num_followers": 112749,
+  "num_followers": 112763,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWI2MWFjMzQxN2NlNDQwOTE4Y2RlZmVjODc2M2UxNTEzNzVkYjRm",
+  "snapshot_id": "MCxjYjk3Njk4NjFkNzJlZjMzZjkxMWMwMDRjM2Y3ZjNkOTQ1ZjdlOThl",
   "tracks": [
     {
       "added_at": "2023-08-31 23:22:11",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Waiting to Spill",
         "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 320186,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Theatre",
+        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 179037,
+      "name": "Theatre",
+      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 134252,
       "name": "Never Going Under",
       "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Theatre",
-        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 179037,
-      "name": "Theatre",
-      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Since August",
-        "url": "https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9"
-      },
-      "artists": [
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        }
-      ],
-      "duration_ms": 175190,
-      "name": "Since August",
-      "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 200891,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Since August",
+        "url": "https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 175190,
+      "name": "Since August",
+      "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "As Good As It Gets",
-        "url": "https://open.spotify.com/album/1Nq7X61ErYdrIfN2BDYar0"
-      },
-      "artists": [
-        {
-          "name": "FIZZ",
-          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "As Good As It Gets",
-      "url": "https://open.spotify.com/track/1oSFY7EjYTQGqECkCgX9hF"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Borderline Insane",
         "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "As Good As It Gets",
+        "url": "https://open.spotify.com/album/1Nq7X61ErYdrIfN2BDYar0"
+      },
+      "artists": [
+        {
+          "name": "FIZZ",
+          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/1oSFY7EjYTQGqECkCgX9hF"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "So Cool",
-        "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 185070,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Hello Alien",
         "url": "https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 205884,
       "name": "Hello Alien",
       "url": "https://open.spotify.com/track/4apqIevNZl1POiQccrGWls"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 185070,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Better (Edit)",
-        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Better - Edit",
-      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Soft Like a Flower",
-        "url": "https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV"
+        "name": "Better (Edit)",
+        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
       },
       "artists": [
         {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Soft Like a Flower",
-      "url": "https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj"
+      "duration_ms": 211800,
+      "name": "Better - Edit",
+      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 196533,
       "name": "The Overload",
       "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Soft Like a Flower",
+        "url": "https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Soft Like a Flower",
+      "url": "https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Waste My Life",
+        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Waste My Life",
+      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/7bafTSha7WTSmnjwtxPAHW"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 319986,
       "name": "Walking Backwards",
       "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Waste My Life",
-        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Waste My Life",
-      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
     }
   ],
   "unique_name": "pulp",

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Sunny War",
-  "num_followers": 279377,
+  "num_followers": 279439,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzkyOWY3NTNkNjUzOTMxYjNjNmQ2Y2JmYjY1NmIwY2ZlMzQ3YTJh",
+  "snapshot_id": "MCwyOTRjMWVmMDljMmE2MWIxZWVkNmEyNWRiNmYzYjVmNjExMWNkZTA5",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -875,6 +875,34 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -903,34 +931,6 @@
       "duration_ms": 242854,
       "name": "Question It All",
       "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        },
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        },
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "House Of The Rising Sun",
-      "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "The Last Of The True Believers",
         "url": "https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 279266,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Bloomsday",
-      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "when i look at you.",
         "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 232800,
       "name": "when i look at you.",
       "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Ear to the Ground",
         "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 131440,
       "name": "Little Boxes",
       "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "American Siren",
-        "url": "https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn"
-      },
-      "artists": [
-        {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Queen of the Minor Key",
         "url": "https://open.spotify.com/album/0zgwXcmqZV91rLsGgkwtuF"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 231000,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/6U7ZRYMJ2zIO1oe4YoK6pU"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "American Siren",
+        "url": "https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Lookaftering",
-        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 125293,
-      "name": "Here Before",
-      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 174540,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Lookaftering",
+        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 125293,
+      "name": "Here Before",
+      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Mortal City",
-        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Iowa (Traveling, Pt. 3)",
-      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Riddy Arman",
         "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
       },
@@ -1815,6 +1799,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Mortal City",
+        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
+      },
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Iowa (Traveling, Pt. 3)",
+      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -1827,6 +1827,26 @@
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Thousand (acoustic)",
+        "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "Thousand - Acoustic",
+      "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1851,26 +1871,6 @@
       "duration_ms": 183560,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/7eBJf9kAJn06HKp2lBEWi2"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Thousand (acoustic)",
-        "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        },
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "Thousand - Acoustic",
-      "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Pohorylle",
         "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 187306,
       "name": "Tehachapi",
       "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Do You See The Light Around Me?",
-        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 204034,
-      "name": "Do You See The Light Around Me?",
-      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Time And Love: The Essential Masters",
         "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 227000,
       "name": "Stoned Soul Picnic",
       "url": "https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Do You See The Light Around Me?",
+        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 204034,
+      "name": "Do You See The Light Around Me?",
+      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "On the Line",
-        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 313405,
-      "name": "Heads Gonna Roll",
-      "url": "https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Little May",
         "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 195735,
       "name": "Boardwalks",
       "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "On the Line",
+        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 313405,
+      "name": "Heads Gonna Roll",
+      "url": "https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Banjo Haiku",
-        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
-      },
-      "artists": [
-        {
-          "name": "Cathy Fink",
-          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
-        }
-      ],
-      "duration_ms": 110693,
-      "name": "Julie Ann Johnson",
-      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Other Voices, Other Rooms",
         "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 317466,
       "name": "Boots of Spanish Leather",
       "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Banjo Haiku",
+        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+      },
+      "artists": [
+        {
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Julie Ann Johnson",
+      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "no fun/party",
-        "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
-      },
-      "artists": [
-        {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
-        }
-      ],
-      "duration_ms": 356474,
-      "name": "no fun/party",
-      "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Violet Light",
         "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 173077,
       "name": "How Bad I Wanna Live",
       "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "no fun/party",
+        "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
+      },
+      "artists": [
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        }
+      ],
+      "duration_ms": 356474,
+      "name": "no fun/party",
+      "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
     },
     {
       "added_at": "2023-08-04 04:00:00",

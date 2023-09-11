@@ -1,12 +1,12 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 10784,
+  "num_followers": 10830,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjFlMGJhMzRkZTNiMGNkZDg1NDhlYzEwYWEzNjFjNTI4OTFhODk3",
+  "snapshot_id": "MCxiM2NlZGUxM2I2MWJkMWRhNjE2ZDlkODFjY2ZlYmVmZWM2YTI0OGRm",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2023-09-08 04:00:00",

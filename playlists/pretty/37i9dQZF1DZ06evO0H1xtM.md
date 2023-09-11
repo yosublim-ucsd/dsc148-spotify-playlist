@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,097 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,525 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 10 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 |
 | 11 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 |
 | 12 | [Me Haces Tan Bien](https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Me Haces Tan Bien](https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv) | 2:48 |
-| 13 | [Corleone](https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:47 |
-| 14 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 |
+| 13 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 |
+| 14 | [Corleone](https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:47 |
 | 15 | [Pasado Pisado](https://open.spotify.com/track/1AdTZFQgPAOc5DlO86ww0x) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:36 |
 | 16 | [Déjenme Hacer Dinero](https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Déjenme Hacer Dinero](https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo) | 3:13 |
-| 17 | [Qué Guapo Estoy](https://open.spotify.com/track/3shsSGDlpSsll8rna0hSjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Qué Guapo Estoy](https://open.spotify.com/album/74bZsilu1tQq5V5VaoyqVl) | 2:41 |
-| 18 | [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 |
+| 17 | [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 |
+| 18 | [Qué Guapo Estoy](https://open.spotify.com/track/3shsSGDlpSsll8rna0hSjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Qué Guapo Estoy](https://open.spotify.com/album/74bZsilu1tQq5V5VaoyqVl) | 2:41 |
 | 19 | [El Comerciante](https://open.spotify.com/track/56YZft0whsresPdufFqwwS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigue La Magia Dando](https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ) | 4:05 |
 | 20 | [La Plebada del 09](https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Catafixia](https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH) | 2:33 |
 | 21 | [Pobre No](https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 49 | [Pateando Latas](https://open.spotify.com/track/44SuqnVhS8wnOGyLqUYciO) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pateando Latas](https://open.spotify.com/album/35rt0OhR9EarcGz9LOF9WT) | 3:09 |
 | 50 | [Estilo Sinaloa](https://open.spotify.com/track/3EtubqAbWJoVFg65iT7HlI) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Estilo Sinaloa](https://open.spotify.com/album/1bN6vo9qSj5Kw4KN0uTYZ3) | 4:28 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDBiNmYyNThkZTM3YzA4ZWNlZDk0ZWRiNmIzMzUyOTNkYQ==`
+Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDAzODc2ZTQ5MjI4NDZjYjExODA3NjkwNWJmY2U2NjE1Yw==`

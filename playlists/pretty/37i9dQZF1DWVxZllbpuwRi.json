@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 627199,
+  "num_followers": 627182,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjg2ZTYxM2YzZWRlYTgwNjdjNGFhZmExMmJjZmUzY2U3YTc4NDg0",
+  "snapshot_id": "MCxhY2UwYTFkNTkzZTA1NzY2ZjNlOTY2MGYyMjQyMWRlYTYxYzNkNDhk",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -503,30 +503,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 210772,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
       "url": "https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Los Dioses",
-        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "M\u00e1s De La Una",
         "url": "https://open.spotify.com/album/0fz7mvsACRDrvT5PYTt4U9"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 236731,
       "name": "M\u00e1s De La Una",
       "url": "https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Los Dioses",
+        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC"
     },
     {
       "added_at": "2023-02-17 03:00:00",

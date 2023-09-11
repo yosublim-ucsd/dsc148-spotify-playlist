@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,656 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,740 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 45 | [Lover, Will You Lead Me?](https://open.spotify.com/track/7HGy32mQMemzvwS7879rCw) | [David Ramirez](https://open.spotify.com/artist/4MBIFx8pthemIVuEJSgAxb) | [My Love Is a Hurricane](https://open.spotify.com/album/3RWnnxLBxt6PLTj0sXxv3o) | 3:22 |
 | 46 | [Song for lovers](https://open.spotify.com/track/6MS1VErb239jImgEbtIMgs) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [A Mouthful](https://open.spotify.com/album/3L2s5VsbuOKnIdkfz8vE7J) | 2:24 |
 | 47 | [Light a Fire](https://open.spotify.com/track/6mhclJYS93j8uTlJVqsI3P) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:27 |
-| 48 | [Cherry Plum](https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I) | [Astronauts, etc.](https://open.spotify.com/artist/2CXaub1yYrSk6ruDtOx6LZ) | [Cherry Plum](https://open.spotify.com/album/5Sojt1gA3COWCx7xxSgtyh) | 2:54 |
-| 49 | [Lover](https://open.spotify.com/track/6ao9rdyJfzGXatb3at455T) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Lover](https://open.spotify.com/album/3RfoIT2yvfZF9TFOMbmrIv) | 4:08 |
+| 48 | [Lover](https://open.spotify.com/track/6ao9rdyJfzGXatb3at455T) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Lover](https://open.spotify.com/album/3RfoIT2yvfZF9TFOMbmrIv) | 4:08 |
+| 49 | [Cherry Plum](https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I) | [Astronauts, etc.](https://open.spotify.com/artist/2CXaub1yYrSk6ruDtOx6LZ) | [Cherry Plum](https://open.spotify.com/album/5Sojt1gA3COWCx7xxSgtyh) | 2:54 |
 | 50 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
 
-Snapshot ID: `MCw4ZWIyYTk4NmQyZjk4NmFlYzQxMzQxYTBkOWUwNGM5YzQ2ZTI0MjA4`
+Snapshot ID: `MCxmNjMzYWQ1NTYxZTNkZmU0YmNlNGEyYjdkZmFmOWZjODdmMTZkYjdj`

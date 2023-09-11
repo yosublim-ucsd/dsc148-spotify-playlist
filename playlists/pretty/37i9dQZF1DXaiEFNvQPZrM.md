@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,011 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,267 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 40 | [Sounds Like Something I'd Do](https://open.spotify.com/track/30zqn4YASRhqyUymwMNzkI) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7) | 2:26 |
 | 41 | [Ol' Red](https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:41 |
 | 42 | [Night Life \- \(Hot Country Artists to Watch\) \- Spotify Singles](https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Spotify Singles](https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm) | 4:29 |
-| 43 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
-| 44 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
+| 43 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
+| 44 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
 | 45 | [Rodeo Queen](https://open.spotify.com/track/7zLmOXHzhuYlDpez5bAWmm) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Rodeo Queen](https://open.spotify.com/album/16s1YAqpcHWpPurb7T2Wli) | 3:02 |
 | 46 | [Time Marches On](https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Time Marches On](https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6) | 3:05 |
 | 47 | [Too Soon For Goodbye](https://open.spotify.com/track/6qRsqsnh3HrkUq0SLWvdie) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Too Soon For Goodbye](https://open.spotify.com/album/2ulEJ1F3LiQZlQ6mQFmdwv) | 3:35 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 69 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
 | 70 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
 | 71 | [Don't Close Your Eyes](https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Don't Close Your Eyes](https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ) | 4:12 |
-| 72 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
-| 73 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
+| 72 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
+| 73 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
 | 74 | [One More Last Chance](https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:11 |
 | 75 | [Walkin' Shoes](https://open.spotify.com/track/1pp4iX6p1vCm4QRKIZFVXI) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Walkin' Shoes](https://open.spotify.com/album/3gztJKGcXv4l26zOkPGqJa) | 3:14 |
 | 76 | [Maybe It Was Memphis](https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Put Yourself In My Place](https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz) | 3:59 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 92 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
 | 93 | [Cab In A Solo](https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Cab In A Solo](https://open.spotify.com/album/24vM6kihi4Hm94KOyvqZBW) | 3:45 |
 | 94 | [Gone Country](https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 4:19 |
-| 95 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 |
-| 96 | [Shakin' In Them Boots](https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Shakin' In Them Boots](https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3) | 2:49 |
+| 95 | [Shakin' In Them Boots](https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Shakin' In Them Boots](https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3) | 2:49 |
+| 96 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 |
 | 97 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 |
 | 98 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:16 |
 | 99 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
 | 100 | [Over Drinkin' Under Thinkin'](https://open.spotify.com/track/31EPUusrydPHvsYNDcdAlJ) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7) | 3:17 |
 
-Snapshot ID: `MCxmYjExZDAyOWZlOTM5YWQyNGJhZDhjYjkxZTcyYWRkOGM5OTBhOWQ2`
+Snapshot ID: `MCw2NjA1YTBkNThmNWRkMWNhOWJhNDI1OTI2NzQwYWZlOWQ5MjY3MTI4`

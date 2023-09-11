@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,799 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,958 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,11 +109,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 99 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
 | 100 | [Soy Peor \- Remix](https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Soy Peor Remix](https://open.spotify.com/album/059FBKRSxDxaHsk8xzfOUM) | 5:15 |
 | 101 | [Tu No Metes Cabra \- Remix](https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Tu No Metes Cabra Remix](https://open.spotify.com/album/1iBPzt9tw4KVZ8yVSe4FfD) | 5:31 |
-| 102 | [BENDICIONES](https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:35 |
-| 103 | [P FKN R](https://open.spotify.com/track/0fgsKar6uBO08vzHXkTjWi) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:18 |
+| 102 | [P FKN R](https://open.spotify.com/track/0fgsKar6uBO08vzHXkTjWi) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:18 |
+| 103 | [BENDICIONES](https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:35 |
 | 104 | [Na' Nuevo](https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 4:43 |
-| 105 | [¿Quien Tu Eres?](https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:39 |
-| 106 | [Puesto Pa' Guerrial](https://open.spotify.com/track/5gCg2qMPzKkW4jS4dBKdDs) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:10 |
+| 105 | [Puesto Pa' Guerrial](https://open.spotify.com/track/5gCg2qMPzKkW4jS4dBKdDs) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:10 |
+| 106 | [¿Quien Tu Eres?](https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:39 |
 | 107 | [RONCA FREESTYLE](https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:30 |
 | 108 | [Estamos Arriba](https://open.spotify.com/track/0bCPJsVGDxPYwQMDZMi4NW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Estamos Arriba](https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG) | 3:45 |
 | 109 | [47](https://open.spotify.com/track/7KhBQ6XFeAGrQzyT28MWvP) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Sinfonico](https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy) | [47](https://open.spotify.com/album/3TQNU06kZkQgN54c8l5NwM) | 4:13 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 119 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 120 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MCxkOTE3OTkwNGQwNGNlNjE5ZjE1NTg4YTNhNDQ1OGMzNjgzNjY5MzE5`
+Snapshot ID: `MCw2ZjgxMmFiYmZmZjZiYTJjOWYyZDUwMzI5MzNlNDg3NzU4ZjI4MTgw`

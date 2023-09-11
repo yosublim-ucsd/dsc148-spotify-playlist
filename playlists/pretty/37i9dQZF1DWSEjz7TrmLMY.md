@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 
 > canto de tristeza porque lo nuestro terminó
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,712 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,773 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 11 | [Dígale](https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazon Latino](https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl) | 4:22 |
 | 12 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 |
 | 13 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 |
-| 14 | [Perdón, Perdón \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:46 |
+| 14 | [Yo Te Necesito](https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Yo Te Necesito](https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz) | 2:58 |
 | 15 | [Como Perro Con Rabia](https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY) | 3:14 |
-| 16 | [Yo Te Necesito](https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Yo Te Necesito](https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz) | 2:58 |
+| 16 | [Perdón, Perdón \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:46 |
 | 17 | [Un Siglo Sin Ti](https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:41 |
 | 18 | [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 |
 | 19 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 49 | [Perdón Por Tus Lágrimas](https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Siempre Te Amaré](https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos) | 3:57 |
 | 50 | [Duele](https://open.spotify.com/track/3qZ4beZNwiXKqGoopSzYBe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Hecho En México \(Edición Especial\)](https://open.spotify.com/album/5VRiykfzXrzfY84WE1rRxj) | 3:13 |
 
-Snapshot ID: `MCwyYTc3Yjk3OGU4MDMxYmNhOGNlYTMyNmNkOGYyOGUzMmJhZTgyM2U3`
+Snapshot ID: `MCw4Y2RlY2ZlNTM4MGY2NmJhNjVlNjMxMjY5ZDc2ZTI1YWVhYTA2ZGM3`

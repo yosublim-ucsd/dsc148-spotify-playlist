@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-891 songs - 2 day 14 hr 4 min
+892 songs - 2 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Faded pictures of the past](https://open.spotify.com/track/4RRX9y5c5BZWFV1VHifBaI) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Faded pictures of the past](https://open.spotify.com/album/1klQ4UOFEcvzyASnUsvLwK) | 3:27 | 2023-08-17 |  |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-12-08 |  |
 | [Fall Song](https://open.spotify.com/track/07SatuQJo7AH6eHZQxpFp2) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:37 | 2022-09-15 |  |
-| [Falling Grace](https://open.spotify.com/track/0vLU35fijEKlVuu2JbUEII) | [South West Cafe Trio](https://open.spotify.com/artist/0kOnFzBXtdnnGpJ4FDt3Zg) | [Falling Grace](https://open.spotify.com/album/0SrkYsvTohCSDBBggVTqH2) | 3:31 | 2022-04-14 |  |
+| [Falling Grace](https://open.spotify.com/track/0vLU35fijEKlVuu2JbUEII) | [South West Cafe Trio](https://open.spotify.com/artist/0kOnFzBXtdnnGpJ4FDt3Zg) | [Falling Grace](https://open.spotify.com/album/0SrkYsvTohCSDBBggVTqH2) | 3:31 | 2022-04-14 | 2023-09-11 |
 | [Falling In Love With Love](https://open.spotify.com/track/22KchPj2ebXOCwdvK4azrZ) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Falling In Love With Love](https://open.spotify.com/album/3K9sLxweNS6ILqTRFSYiJB) | 2:54 | 2023-05-04 |  |
 | [Far Away](https://open.spotify.com/track/2ZHa8rERyPepL1OpQAtpMj) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Far Away](https://open.spotify.com/album/5CVFwTeaHhFg1d3fbJEruV) | 4:24 | 2023-06-15 |  |
 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-02-23 |  |
@@ -678,6 +678,7 @@
 | [Silver Lining](https://open.spotify.com/track/0THUYrw2Rk5JIjCJS6Qu0b) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Silver Lining](https://open.spotify.com/album/73PLpuORLQXSfTLQS9HuDc) | 3:04 | 2023-01-20 |  |
 | [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-22 |  |
 | [Skylark](https://open.spotify.com/track/4GMJNNA04YDBVixAWiK5zD) | [Joseph Lawrence](https://open.spotify.com/artist/0xCOX1rOGhTQ3NOfM32r7z) | [Alone Together](https://open.spotify.com/album/1HpFYNRbT6bSc29yt1njK9) | 7:18 | 2022-04-14 |  |
+| [Slow Dance](https://open.spotify.com/track/5AbIjlheQPOLLgGanARp5h) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Slow Dance](https://open.spotify.com/album/6UqEbtOPsQfr9dgxNJjSLy) | 3:53 | 2023-09-08 |  |
 | [Smile](https://open.spotify.com/track/3W7AQiUlT9SVueyv0ZqZ9G) | [Nordic Quartet](https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM) | [Smile](https://open.spotify.com/album/6dAX6IpKq5s9iQtolusSXE) | 3:10 | 2022-08-11 |  |
 | [Smile](https://open.spotify.com/track/491rM2JN8KvmV6p0oDDuJT) | [Peter Appleyard](https://open.spotify.com/artist/4of73tRHotZpKvHKmFzYcM), [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [Sophisticated Ladies](https://open.spotify.com/album/69dcBtgrUwDQZ6fCo5sB8a) | 4:09 | 2022-04-14 | 2022-06-09 |
 | [Smooth Sailing](https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Smooth Sailing](https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ) | 2:05 | 2023-08-10 |  |

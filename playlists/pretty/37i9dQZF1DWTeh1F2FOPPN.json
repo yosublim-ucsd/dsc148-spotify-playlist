@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 44654,
+  "num_followers": 44789,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDRkNmQ2MTg5ZWEyNDM1ZTBlYzQxMTA1N2YxZmI0NmE1MTE2OTEw",
+  "snapshot_id": "MCw4OWQyM2M3ZjAzMDQ1NDUxYzNjNTcxNTIwNzJlYzhhYmQ5YTRmYTNm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -655,6 +655,26 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
+        "name": "Diana Ross & The Supremes Join The Temptations",
+        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        },
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 136466,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/4nop5UmWUqnlxkQ4kvG3Rp"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 219451,
       "name": "Stranger (feat. Saba & Jarreau Vandal)",
       "url": "https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
-        "name": "Diana Ross & The Supremes Join The Temptations",
-        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        },
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 136466,
-      "name": "Ain't No Mountain High Enough",
-      "url": "https://open.spotify.com/track/4nop5UmWUqnlxkQ4kvG3Rp"
     },
     {
       "added_at": "2022-10-01 16:54:27",

@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,169 songs - 2 day 12 hr 23 min
+1,170 songs - 2 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:13 | 2022-04-14 | 2022-04-21 |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2023-03-07 | 2023-06-08 |
 | [Ego Death \(feat\. Kanye West, FKA twigs & Skrillex\)](https://open.spotify.com/track/4JB0EAT4BkLShTyTt50FmO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Ego Death \(feat\. Kanye West, FKA twigs & Skrillex\)](https://open.spotify.com/album/6FPhDUfQUECZVD8vnobxjM) | 3:51 | 2020-07-04 | 2020-08-05 |
+| [EL AMOR DE SU VIDA](https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:45 | 2023-09-06 |  |
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 | 2023-08-15 | 2023-09-01 |
 | [El Cielo](https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Cielo](https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f) | 3:11 | 2023-06-26 |  |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-03-15 |  |
@@ -768,7 +769,7 @@
 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 | 2020-08-30 | 2021-04-30 |
 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 | 2023-07-14 | 2023-08-31 |
 | [Overthinking](https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Overthinking](https://open.spotify.com/album/73w5XKOuWg456VuawuUH47) | 2:54 | 2022-05-27 | 2022-06-01 |
-| [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-05-31 |  |
+| [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-05-31 | 2023-09-11 |
 | [Pain 1993 \(with Playboi Carti\)](https://open.spotify.com/track/6Kj17Afjo1OKJYpf5VzCeo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 2:29 | 2020-05-02 | 2020-05-06 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-18 |  |
 | [Palm Springs \(the way you made me feel\)](https://open.spotify.com/track/5XnDUr04O83sHaWfqOr6ak) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [Palm Springs \(the way you made me feel\)](https://open.spotify.com/album/2OJ9v18og8MMQPRIQqGTbw) | 2:50 | 2020-09-19 | 2021-04-30 |

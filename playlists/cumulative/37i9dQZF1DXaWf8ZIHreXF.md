@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2010s.
 
-112 songs - 6 hr 26 min
+113 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Heroes \(we could be\)](https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:30 | 2022-10-12 |  |
 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 | 2022-11-14 | 2023-08-26 |
 | [Hideaway](https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 4:11 | 2022-10-12 |  |
+| [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 | 2023-08-25 |  |
 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes \(Anniversary Edition\)](https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl) | 4:39 | 2022-11-14 |  |
 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 3:17 | 2022-10-12 |  |
 | [I Wanna Know \(feat\. Bea Miller\)](https://open.spotify.com/track/18W92Zm1KjLCbUIszOhpkD) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [I Wanna Know \(feat\. Bea Miller\)](https://open.spotify.com/album/2xqSl9X8ulJayI0KxABaLV) | 3:17 | 2022-10-12 |  |
@@ -62,7 +63,7 @@
 | [Move Your Body \- Alan Walker Remix](https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-10-12 |  |
 | [My Love](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4) | 4:19 | 2022-11-14 |  |
 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 | 2022-10-12 | 2023-06-07 |
-| [My Way](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [My Way](https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54) | 3:39 | 2022-10-12 |  |
+| [My Way](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [My Way](https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54) | 3:39 | 2022-10-12 | 2023-09-11 |
 | [Nevada](https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj) | 3:28 | 2022-10-12 |  |
 | [No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [No Money](https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL) | 3:09 | 2022-10-12 |  |
 | [Ocean Drive](https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Ocean Drive](https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv) | 3:26 | 2022-10-12 |  |

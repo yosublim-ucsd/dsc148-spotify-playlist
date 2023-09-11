@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,168 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,251 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 24 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
 | 25 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 |
 | 26 | [After Midnight](https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Filoxiny](https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps) | 4:43 |
-| 27 | [Briefly](https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 27:02 |
-| 28 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
+| 27 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
+| 28 | [Briefly](https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 27:02 |
 | 29 | [Melancholia VI](https://open.spotify.com/track/7HfZJvZMAG5TRecSfLwzZN) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 2:15 |
 | 30 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 |
 | 31 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 |
 | 50 | [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 |
 
-Snapshot ID: `MCwyMGNjNGUxMGJiZDhjZjVlNjJjMWU4YzRkNTc3NDI0NzAxMDdlN2Qx`
+Snapshot ID: `MCw1NjlkMjk1ZTg0NTc2NjI4NGNjMjkzOGFhNjM5NjI1OTgwZDUxMjE0`

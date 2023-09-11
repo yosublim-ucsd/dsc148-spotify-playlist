@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La playlist de ton été 2023 ! 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,782 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,913 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 29 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
 | 30 | [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 |
 | 31 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 |
-| 32 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 32 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 33 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
 | 34 | [1,2,3 Soleil](https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW) | [NAZAKEBLACK](https://open.spotify.com/artist/5H9EtsRc980WZMj0m0nwqa), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [1,2,3 Soleil](https://open.spotify.com/album/5VB6SGacsS2ie9E5Go8thw) | 2:53 |
 | 35 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 49 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:42 |
 | 50 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
 
-Snapshot ID: `MCxjN2RjYmNiYWY4MjgxZGU3YmVmMzNlMzM2NDgxOTI5NjU0YTg0NzBm`
+Snapshot ID: `MCw1Y2M1YzgyNzhlMjFjZWM2ZTI5M2Y5MDM4MjdjMTVhOGNhMTE2NDBk`

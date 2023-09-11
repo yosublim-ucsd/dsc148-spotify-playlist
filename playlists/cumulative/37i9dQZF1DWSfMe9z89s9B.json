@@ -3651,6 +3651,24 @@
     },
     {
       "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186686,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5"
+    },
+    {
+      "album": {
         "name": "Cruel World (Jim-E Stack Remix)",
         "url": "https://open.spotify.com/album/5Dh7p39Uf8JUkT8P74LfgS"
       },
@@ -17214,7 +17232,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 222334,
       "name": "Water My Heart (feat. Mereba)",
       "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"

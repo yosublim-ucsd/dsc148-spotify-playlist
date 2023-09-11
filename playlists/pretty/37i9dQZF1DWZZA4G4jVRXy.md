@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,614 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,651 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 28 | [Palace of the Tiger Women](https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY) | [Kava Kon](https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd) | [Tiki for the Atomic Age](https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA) | 2:48 |
 | 29 | [Hanalei Moon](https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX), [Amy Hānaialiʻi Gilliom](https://open.spotify.com/artist/0uSSrlQWbnBFSJT3dzS1N7) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp) | 4:35 |
 | 30 | [Perfidia](https://open.spotify.com/track/7jvL2XQbyF5PzYu6X3X8da) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [The Dance Beat of Xavier Cugat](https://open.spotify.com/album/3fGARHzOLWrwfnyZSxt0L5) | 3:25 |
-| 31 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
-| 32 | [Llama Serenade](https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Primitiva](https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw) | 2:14 |
+| 31 | [Llama Serenade](https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Primitiva](https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw) | 2:14 |
+| 32 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
 | 33 | [Pua Lililehua](https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW) | [Hui Ohana](https://open.spotify.com/artist/7vDfRi57oGVgERsAO16cZ1), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Nedward Ka'apana](https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR), [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [Young Hawaii Plays Old Hawaii](https://open.spotify.com/album/73EtyWy6eklV217lXyE89J) | 4:17 |
 | 34 | [Kawohikukupulani](https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg) | 2:26 |
 | 35 | [Lepe Ula'ula](https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159) | [Na Palapalai](https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e) | [Makani Olu'olu](https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB) | 2:43 |
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 68 | [Haleakala Hula](https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Uluwehi Sings Na Mele Hula Aloha](https://open.spotify.com/album/6c8VrZiE7YDNRjpa7ciSGe) | 2:35 |
 | 69 | [Xtabay \- Remastered](https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [The Best of Yma Sumac \(All Tracks Remastered 2014\)](https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF) | 3:21 |
 | 70 | [Bim\-Boo](https://open.spotify.com/track/3CtH4aqghgXtPZzg9YBweP) | [Chaino](https://open.spotify.com/artist/6odPRDb7fKDOFYPZQvEQlp) | [Kirby Allen Presents: Eye Of The Spectre](https://open.spotify.com/album/5n6we7GWIrbonq6GeKWOkO) | 3:27 |
-| 71 | [Sweet Leilani](https://open.spotify.com/track/0eIb5Pu0dEaNw2OOTwkFa2) | [Lawrence Welk & His Orchestra](https://open.spotify.com/artist/4phr6llU1BoO8p2qg6I69R) | [Songs Of The Islands](https://open.spotify.com/album/2fHURThRK2CbhwhJz6jF9x) | 2:18 |
-| 72 | [Hernando s Hideaway](https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M) | [Augie Colon](https://open.spotify.com/artist/2pddiKucMu8fKxpDbWzJBN) | [Jungle Drums](https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ) | 2:10 |
-| 73 | [Moon Of Manakoora](https://open.spotify.com/track/3NLbKZRBnyUSt1ZL2HFj9l) | [Geoff Love & His Orchestra](https://open.spotify.com/artist/4W9CuqPOk3XWnLpwT0mOTI) | [Heat Wave](https://open.spotify.com/album/5YO2Bk5jkOTrlKl9ZcVZWI) | 3:12 |
+| 71 | [Moon Of Manakoora](https://open.spotify.com/track/3NLbKZRBnyUSt1ZL2HFj9l) | [Geoff Love & His Orchestra](https://open.spotify.com/artist/4W9CuqPOk3XWnLpwT0mOTI) | [Heat Wave](https://open.spotify.com/album/5YO2Bk5jkOTrlKl9ZcVZWI) | 3:12 |
+| 72 | [Sweet Leilani](https://open.spotify.com/track/0eIb5Pu0dEaNw2OOTwkFa2) | [Lawrence Welk & His Orchestra](https://open.spotify.com/artist/4phr6llU1BoO8p2qg6I69R) | [Songs Of The Islands](https://open.spotify.com/album/2fHURThRK2CbhwhJz6jF9x) | 2:18 |
+| 73 | [Hernando s Hideaway](https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M) | [Augie Colon](https://open.spotify.com/artist/2pddiKucMu8fKxpDbWzJBN) | [Jungle Drums](https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ) | 2:10 |
 | 74 | [Ringo Oiwake](https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1) | [Ethel Azama](https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV) | [Cool Heat + Exotic Dreams](https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK) | 2:34 |
 | 75 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 76 | [Lust](https://open.spotify.com/track/65jpm2yvG0Fz67GkUCClQV) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [The Passions](https://open.spotify.com/album/63VK8OhIxPTYmKK5zc3i6L) | 2:59 |
 
-Snapshot ID: `MCw5NWFkY2U0MjNlNTgzNTIyMGVhYmVjZmNhZmZkMTJhNWYxODdhNTIz`
+Snapshot ID: `MCxiMGQ0YmYzMGQxNmY1MzlmMzM4ZGQ2ZTFlOGE5OWU0ZmVlZGUzYzU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: eee gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,057 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,114 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 69 | [running shoes](https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [so it goes...](https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu) | 2:40 |
 | 70 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 |
 
-Snapshot ID: `MCwyMmQyYTM3ODMxZWQ4OTEzMmE4YzQxNzcwZjA0MGNkODRmMjdmZWIy`
+Snapshot ID: `MCw2NDRjYzg5YjczZDhkMjIxNmNkY2E1YTEwZjY4Mzc5MjdjYjZlMGI2`

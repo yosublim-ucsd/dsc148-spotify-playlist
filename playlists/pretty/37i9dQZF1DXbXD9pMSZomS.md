@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,224 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,347 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 16 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
 | 17 | [Sensitive People](https://open.spotify.com/track/4w4Qvb4Eyrq6kG3IS8ebCE) | [Erik Ellmann](https://open.spotify.com/artist/00X51QLtLhAPByQdOXsT9s) | [Sensitive People](https://open.spotify.com/album/1m8CNgwbEokMBLyDn3GL2Z) | 5:08 |
 | 18 | [Vibrant Air](https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 4:11 |
-| 19 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
-| 20 | [Back to My Place](https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Back To My Place](https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg) | 4:05 |
+| 19 | [Back to My Place](https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Back To My Place](https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg) | 4:05 |
+| 20 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
 | 21 | [Shallow Waters](https://open.spotify.com/track/1l8oVb7DDpCTubrKchdRgl) | [Ams](https://open.spotify.com/artist/7zJyf7OS6Vw8gyrphYLyt7) | [Shallow Waters](https://open.spotify.com/album/5uCELkdK05EwUsPrAzdJh4) | 6:42 |
 | 22 | [I Needed](https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj) | [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [I Needed / Intercession, On Behalf](https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p) | 6:37 |
 | 23 | [Pastis](https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Pastis](https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV) | 4:04 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 26 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
 | 27 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 |
 | 28 | [100 reasons](https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H) | [kemt](https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX) | [lo\-fi\_house.zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 6:15 |
-| 29 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
-| 30 | [Mellina](https://open.spotify.com/track/1PacOKtN0fJ6qMCS52aoA4) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Mellina](https://open.spotify.com/album/4CXjoh2vLBZZxCLkYx6Fcw) | 2:29 |
+| 29 | [Mellina](https://open.spotify.com/track/1PacOKtN0fJ6qMCS52aoA4) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Mellina](https://open.spotify.com/album/4CXjoh2vLBZZxCLkYx6Fcw) | 2:29 |
+| 30 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
 | 31 | [Obscure](https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY) | [LYANE](https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK) | [Obscure](https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F) | 2:33 |
 | 32 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 |
 | 33 | [Indepanties day](https://open.spotify.com/track/0FwPSxriJhjWU4TTfzvNuh) | [Hosiannah](https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq) | [Indepanties day](https://open.spotify.com/album/48vkyleNJElgkXrHr79f27) | 3:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 45 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 |
 | 46 | [Love Is](https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys), [Cazeaux O.S.L.O](https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f) | [Love Is](https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX) | 3:30 |
 | 47 | [Hyperspace \(feat\. Teza Sumendra\)](https://open.spotify.com/track/3zIyDwLqQMbXc1pq95TIrk) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Hyperspace \(feat\. Teza Sumendra\)](https://open.spotify.com/album/1RA1liM0tl38zX5sjSDurR) | 3:24 |
-| 48 | [Lofi Vs\. House](https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages, Vol\. 2](https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT) | 2:58 |
-| 49 | [Brasileira \- ddp Remix](https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo) | [9iusi](https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF), [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY) | [Brasileira \(ddp Remix\)](https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr) | 1:56 |
+| 48 | [Brasileira \- ddp Remix](https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo) | [9iusi](https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF), [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY) | [Brasileira \(ddp Remix\)](https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr) | 1:56 |
+| 49 | [Lofi Vs\. House](https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages, Vol\. 2](https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT) | 2:58 |
 | 50 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
 | 51 | [Setra](https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [SETRA](https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4) | 2:08 |
 | 52 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 54 | [Kindness](https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Nephews](https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ) | [Ltdblbl008](https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9) | 6:36 |
 | 55 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
 | 56 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 |
-| 57 | [The Sayers](https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ) | [Klein Zage](https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T) | [The Sayers](https://open.spotify.com/album/68xZqClzXImxguG14MkDjk) | 4:53 |
-| 58 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
+| 57 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
+| 58 | [The Sayers](https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ) | [Klein Zage](https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T) | [The Sayers](https://open.spotify.com/album/68xZqClzXImxguG14MkDjk) | 4:53 |
 | 59 | [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 |
 | 60 | [Deep Love](https://open.spotify.com/track/6nV2F340l20xyzxhoyWKx8) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g), [Stefan Ringer](https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV) | [Deep Love](https://open.spotify.com/album/3UX31DU0KJ1nrCOnmuEDzs) | 5:14 |
 
-Snapshot ID: `MCw1NDYwZTRkZWY1M2IxNWI5MGI3NzFiZTcwN2JkYzhlZWExZGJhYjJk`
+Snapshot ID: `MCwxY2NiODdkMzI1NWNhZWViMzA5MzFmOTQwOWY1MGRkZjg2ZThiODc1`

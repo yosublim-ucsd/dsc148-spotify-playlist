@@ -176,6 +176,32 @@
     {
       "album": {
         "name": "Scialla Semper",
+        "url": "https://open.spotify.com/album/4HzX5H3PFVQk1nAlzLG29r"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        },
+        {
+          "name": "Nic Sarno",
+          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180950,
+      "name": "Amici",
+      "url": "https://open.spotify.com/track/24LOH9TdyAsSqASnyfY3Xn"
+    },
+    {
+      "album": {
+        "name": "Scialla Semper",
         "url": "https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX"
       },
       "artists": [
@@ -198,32 +224,6 @@
       "duration_ms": 180950,
       "name": "Amici",
       "url": "https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3"
-    },
-    {
-      "album": {
-        "name": "Scialla Semper",
-        "url": "https://open.spotify.com/album/4HzX5H3PFVQk1nAlzLG29r"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        },
-        {
-          "name": "Nic Sarno",
-          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
-        }
-      ],
-      "date_added": "2023-06-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180950,
-      "name": "Amici (feat. Crookers & Nic Sarno)",
-      "url": "https://open.spotify.com/track/24LOH9TdyAsSqASnyfY3Xn"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ilsey",
-  "num_followers": 59449,
+  "num_followers": 59557,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzU5OWM2NzUwNWIyOTgzYzEzMmNmZDc1NjA1NjJiMjUzODgzYTE4",
+  "snapshot_id": "MCwxZDhkMjJjZWMyNThkZWQyNzczYmI1MTM1ZWFiY2Q1YzE3OTg2NDky",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
       "artists": [
         {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 150180,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Optimist",
         "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 205286,
       "name": "A Concert Six Months From Now",
       "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 150180,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Mechanical Bull",
-        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 236359,
-      "name": "Mechanical Bull",
-      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Girl Has A Dream",
-        "url": "https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7"
+        "name": "Heard You Got Love",
+        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
       },
       "artists": [
         {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
         }
       ],
-      "duration_ms": 214720,
-      "name": "Cue",
-      "url": "https://open.spotify.com/track/3fIMNQaY7AuZRtP18zWhtb"
+      "duration_ms": 203966,
+      "name": "Head Start",
+      "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1579,18 +1563,34 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Heard You Got Love",
-        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
+        "name": "Mechanical Bull",
+        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
       },
       "artists": [
         {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
         }
       ],
-      "duration_ms": 203966,
-      "name": "Head Start",
-      "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
+      "duration_ms": 236359,
+      "name": "Mechanical Bull",
+      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The Girl Has A Dream",
+        "url": "https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Cue",
+      "url": "https://open.spotify.com/track/3fIMNQaY7AuZRtP18zWhtb"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Denim",
-        "url": "https://open.spotify.com/album/5nUQ0QEGyACWKmsHGgWAex"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 223089,
-      "name": "Denim",
-      "url": "https://open.spotify.com/track/0NtwNkRKhDAeo5qqx1Z3gY"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "can you see me?",
         "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 232038,
       "name": "am i not enough for now?",
       "url": "https://open.spotify.com/track/04xC7XwAsCqF3HOEFemLcz"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Catch Your Eye",
+      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

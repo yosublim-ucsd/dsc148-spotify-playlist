@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 165833,
       "name": "all-american bitch",
       "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
@@ -988,6 +988,24 @@
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149853,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT"
     },
     {
       "album": {
@@ -2577,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171160,
+      "name": "For Us",
+      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
+    },
+    {
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -2622,7 +2658,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -10644,7 +10680,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 196480,
       "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
@@ -12582,7 +12618,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 136500,
       "name": "\u05de\u05e9\u05d5\u05d2\u05e2\u05ea (Prod. by Triangle)",
       "url": "https://open.spotify.com/track/3idINUuyRidKbQiMFt6EkU"

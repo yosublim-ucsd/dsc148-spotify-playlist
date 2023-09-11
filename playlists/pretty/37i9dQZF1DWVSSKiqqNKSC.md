@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,721 likes - 48 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,840 likes - 48 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 3 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
 | 4 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
 | 5 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 |
-| 6 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
-| 7 | [Mala Mujer](https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 3:52 |
+| 6 | [Mala Mujer](https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 3:52 |
+| 7 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
 | 8 | [Historia entre tus dedos](https://open.spotify.com/track/1azNmWAecfKNw0efhKkzNM) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Historia entre tus dedos](https://open.spotify.com/album/4TUpMF55WZeLsu6nmucfzS) | 5:07 |
 | 9 | [Me Quedo Contigo](https://open.spotify.com/track/1IbNTo4gpxfFt3lM0Is4sF) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Me Quedo Contigo](https://open.spotify.com/album/2R24fOX8OXzoY89stUCl7i) | 3:21 |
 | 10 | [Creiste](https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Creiste](https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU) | 4:17 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 |
 | 48 | [Temba, Tumba, Timba](https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 4:48 |
 
-Snapshot ID: `MCw4ZDc4NDJjOTBiMjExNWYyYTAxOWMzODY5ODJlZDQ1NTU0MTRiZTRk`
+Snapshot ID: `MCw0NDRlMjNmOTBjMDFkM2M5YzJjZWJlYTQzOGU5NDhlY2QxOTRjNzc0`

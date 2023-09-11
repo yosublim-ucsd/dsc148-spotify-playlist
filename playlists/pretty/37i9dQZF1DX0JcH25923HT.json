@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 398327,
+  "num_followers": 398600,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjg1MTNiM2YzZmQxMzg5MDY3MjY0ZWVhZDVhODU1MmExMzk4M2Q2",
+  "snapshot_id": "MCw2N2M1Yjg1MGYzYTkyMzBjNDUxYjQ0NzU3ZWRiMmU0ODY3ODgwZWE0",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -103,26 +103,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 227518,
-      "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
-      "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 227518,
+      "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
+      "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 156430,
-      "name": "BOOKER T",
-      "url": "https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 270493,
       "name": "Ahora Dice",
       "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 156430,
+      "name": "BOOKER T",
+      "url": "https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "M\u00e1quina do Tempo",
-      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 279613,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 112273,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -499,6 +483,22 @@
       "duration_ms": 297485,
       "name": "Sensualidad",
       "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 112273,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208079,
-      "name": "Estamos Bien",
-      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Hello Cotto",
         "url": "https://open.spotify.com/album/1QQmv8TccnAUiTYsX6Z02I"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 217250,
       "name": "Hello Cotto",
       "url": "https://open.spotify.com/track/422Avi2VjqZKCVzstKmqog"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208079,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Po' encima (feat. Bryant Myers)",
+        "url": "https://open.spotify.com/album/2Z1xWYZFxCz2QNIVpAZ3xf"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 211408,
+      "name": "Po' encima (feat. Bryant Myers)",
+      "url": "https://open.spotify.com/track/7sWdGtYvzlzuQRAoZ7fGeO"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Si Tu Lo Dejas",
         "url": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 275478,
       "name": "Si Tu Lo Dejas",
       "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Po' encima (feat. Bryant Myers)",
-        "url": "https://open.spotify.com/album/2Z1xWYZFxCz2QNIVpAZ3xf"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 211408,
-      "name": "Po' encima (feat. Bryant Myers)",
-      "url": "https://open.spotify.com/track/7sWdGtYvzlzuQRAoZ7fGeO"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Cerca de ti (feat. Rusherking, Bhavi, Tobi) [Remix]",
         "url": "https://open.spotify.com/album/6vrYsaL806YXpu93pEqFY3"
       },
@@ -2215,18 +2231,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+        "name": "Coronamos",
+        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+      "duration_ms": 188333,
+      "name": "Coronamos",
+      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2259,26 +2279,6 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Coronamos",
-        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
-      },
-      "artists": [
-        {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Coronamos",
-      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
     },
     {
       "added_at": "2022-06-08 18:27:09",

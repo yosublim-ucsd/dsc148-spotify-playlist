@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Brothers Osborne
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,751 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,843 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 55 | [Giving Up On That](https://open.spotify.com/track/2Iu5OBDudGv5B0qfKKKbGm) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Giving Up On That](https://open.spotify.com/album/38V4J5JSybT2xPJ3pGtibK) | 3:31 |
 | 56 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 |
 | 57 | [Save The Roses](https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:21 |
-| 58 | [You, Me, And Whiskey](https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey](https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ) | 3:07 |
-| 59 | [Take My Name](https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 2:37 |
+| 58 | [Take My Name](https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 2:37 |
+| 59 | [If I Didn't Love You](https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 3:32 |
 | 60 | [If He Wanted To He Would](https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:54 |
-| 61 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 |
+| 61 | [You, Me, And Whiskey](https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey](https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ) | 3:07 |
 | 62 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 |
-| 63 | [If I Didn't Love You](https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 3:32 |
+| 63 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 |
 | 64 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
 | 65 | [One Thing At A Time](https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:26 |
 | 66 | [Dig](https://open.spotify.com/track/5PajfJ1BQwHHHird3li8S4) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 99 | [Over Now](https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:41 |
 | 100 | [Over For You](https://open.spotify.com/track/09igKkkm150rRZIxu1gjh3) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 3:05 |
 
-Snapshot ID: `MCxiMzVhMGVhYjA1MGYwNmZhNGZhNjI1MzMxYmYwMDdlY2M0Yjg3ZDkz`
+Snapshot ID: `MCw2ZDUzZWI3ZThlYjhjZGU2OTAzNjQ4ZDA1MjBhMjUwMTRlYWUwYzEw`

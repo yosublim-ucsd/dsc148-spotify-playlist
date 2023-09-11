@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,418 likes - 105 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,705 likes - 105 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 104 | [Don't Give Up](https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 1:52 |
 | 105 | [Sour Punch](https://open.spotify.com/track/13pNdu3UOvwz0NxU2EEgVD) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Possessions](https://open.spotify.com/album/1sZkGikz7VbeytHdaBgWhr) | 2:32 |
 
-Snapshot ID: `MCw0MDVjNTZjYzU1NGFiMDRjZWUwZmJiMDkyM2IwNmFhZjU1YmFmMmNk`
+Snapshot ID: `MCxkOGQxMDNjNWY5ZDc3NDlkYWMzOTlmMzlkNGY5MzBiMzQ5YmQyOWUx`

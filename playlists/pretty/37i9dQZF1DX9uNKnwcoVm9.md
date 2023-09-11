@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,962 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,130 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 19 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
 | 20 | [Jesús Mi Fiel Amigo \(En Vivo\)](https://open.spotify.com/track/3PjVBq8W5RaxNn9vTtoKxT) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Jesús Mi Fiel Amigo \(En Vivo\)](https://open.spotify.com/album/1Gfe5J0a7yrs4FsDtuAiQA) | 6:50 |
 | 21 | [Mi Ultimo Dia](https://open.spotify.com/track/7fFufce5eI7CGGX5aeN07r) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 3:35 |
-| 22 | [Abre Mis Ojos](https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Muéstrame Tu Gloria](https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF) | 6:43 |
-| 23 | [El Poderoso de Israel](https://open.spotify.com/track/0Uh50z2eslMbLWoewgHqKM) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR) | 1:19 |
+| 22 | [El Poderoso de Israel](https://open.spotify.com/track/0Uh50z2eslMbLWoewgHqKM) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR) | 1:19 |
+| 23 | [Abre Mis Ojos](https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Muéstrame Tu Gloria](https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF) | 6:43 |
 | 24 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/636y223sbqgNNVeH7s5qkp) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:52 |
 | 25 | [Me Paro En La Brecha](https://open.spotify.com/track/3pM6OolQIxI5YZl77qwD3t) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Me Paro En La Brecha](https://open.spotify.com/album/7cj5YMKHlgG8M1tHfFw3Ol) | 3:51 |
 | 26 | [Ven Espíritu Ven](https://open.spotify.com/track/05BkWRVy0cubbSnsyzw2lu) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Marco Barrientos Auditorio Nacional](https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC) | 4:48 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 89 | [Asi Porque Si](https://open.spotify.com/track/3s1s6qKRUTx4inaKh32he7) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 4:51 |
 | 90 | [Gloria al Rey](https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Gloria al Rey](https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz) | 4:24 |
 | 91 | [Padre Nuestro](https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Padre Nuestro](https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh) | 6:11 |
-| 92 | [Llena Este Lugar](https://open.spotify.com/track/2mOaRojOOLqKh4nnpcE6qL) | [Joan Sanchez](https://open.spotify.com/artist/5iWIrC7cCdB1YEfIn15ONZ), [RPBand](https://open.spotify.com/artist/2iF6pJUq2ukNP5AP2YfAY3) | [Llena Este Lugar](https://open.spotify.com/album/6LYfjLkiy8qNTibTf4klao) | 6:10 |
+| 92 | [Abro Mis Brazos](https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e) | [Lenny Salcedo](https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8) | [Acústico](https://open.spotify.com/album/6xnrqwm4OHFjNJ7ScJut1V) | 3:49 |
 | 93 | [Anciano de Días \- Live](https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Anhelo Conocerte](https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu) | 6:37 |
-| 94 | [Abro Mis Brazos](https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e) | [Lenny Salcedo](https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8) | [Acústico](https://open.spotify.com/album/6xnrqwm4OHFjNJ7ScJut1V) | 3:49 |
+| 94 | [Llena Este Lugar](https://open.spotify.com/track/2mOaRojOOLqKh4nnpcE6qL) | [Joan Sanchez](https://open.spotify.com/artist/5iWIrC7cCdB1YEfIn15ONZ), [RPBand](https://open.spotify.com/artist/2iF6pJUq2ukNP5AP2YfAY3) | [Llena Este Lugar](https://open.spotify.com/album/6LYfjLkiy8qNTibTf4klao) | 6:10 |
 | 95 | [Tengo Sed De Ti](https://open.spotify.com/track/40cVQj7FN9WmRCcNGcetZn) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 7:27 |
 | 96 | [Tu Voluntad](https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Tu Voluntad](https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU) | 6:27 |
 | 97 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Escondido en Èl \- Spanish](https://open.spotify.com/track/5j7zEOjg0ySSGK5R3aSS3s) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Perdido en Tu Amor](https://open.spotify.com/album/0A92FA4s4a4jM7GuBqVE5F) | 4:57 |
 | 100 | [Hijo Pródigo](https://open.spotify.com/track/2DpqxoZ3YbEmFpdTREjvOS) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq) | 4:47 |
 
-Snapshot ID: `MCxhN2Y0OWFiYzVjNWYzMjM2MTRlNTAwNDA4NjViYjdiMjIwNzUyYjAw`
+Snapshot ID: `MCw2N2MxODljMGZmMTA3ZDUwZjM1NjM2NzVkNDJmYzEwNjhjNmE1ZmFh`

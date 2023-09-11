@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-136 songs - 8 hr 14 min
+137 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [If The World Was A Small Town](https://open.spotify.com/track/1hy1fKZziLDNjC4CP7wRP1) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [If The World Was A Small Town](https://open.spotify.com/album/7HJTZABShp75Sdmc3xphkF) | 2:54 | 2021-11-12 |  |
 | [If You're Reading This](https://open.spotify.com/track/3opmoDn4nG2eZWPjI8B7Bg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Let It Go](https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo) | 4:12 | 2021-11-12 | 2022-04-04 |
 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 | 2021-11-12 |  |
-| [Independence Day](https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Way That I Am](https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d) | 3:24 | 2021-11-12 | 2023-09-10 |
+| [Independence Day](https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Way That I Am](https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d) | 3:24 | 2021-11-12 |  |
 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 | 2021-11-12 |  |
 | [It’s America](https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:33 | 2021-11-12 |  |
 | [Keep Her Breathing](https://open.spotify.com/track/0RUuBirZj8442qSY65pbO8) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Keep Her Breathing](https://open.spotify.com/album/7Heo4vh5UwiwDc8hLukBCI) | 4:02 | 2022-07-01 |  |
@@ -82,7 +82,8 @@
 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 | 2021-11-12 |  |
 | [Meanwhile Back At Mama's](https://open.spotify.com/track/2rO28hRLDbsenVjeWvwqQz) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Sundown Heaven Town \(Deluxe Edition\)](https://open.spotify.com/album/5d1gd7lRLgljr3YPnkfU7k) | 3:48 | 2021-11-12 |  |
 | [Mississippi Girl](https://open.spotify.com/track/79YeQbd1p7MsuT7wHQLRYY) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Fireflies](https://open.spotify.com/album/7dtjpzbhRH1dc2gM0FLrqh) | 3:52 | 2021-11-12 |  |
-| [Mr Red White and Blue](https://open.spotify.com/track/2uJcLlydqLdGiiABFa4KfN) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Boots and Jeans](https://open.spotify.com/album/0jNCokMwQTq6xpbWyZTIxb) | 3:27 | 2021-11-12 |  |
+| [Mr Red White and Blue](https://open.spotify.com/track/0qmXLMVlUeyltK7zLu2Anc) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Boots and Jeans](https://open.spotify.com/album/0Shc4SF4qyzWdmxCSOarf2) | 3:27 | 2023-08-21 |  |
+| [Mr Red White and Blue](https://open.spotify.com/track/2uJcLlydqLdGiiABFa4KfN) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Boots and Jeans](https://open.spotify.com/album/0jNCokMwQTq6xpbWyZTIxb) | 3:27 | 2021-11-12 | 2023-09-11 |
 | [My Front Porch Looking In](https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Playlist: The Very Best Of Lonestar](https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5) | 3:43 | 2021-11-12 |  |
 | [My Town](https://open.spotify.com/track/51bNXhI8t5rH47BJLhK5Ed) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [My Town](https://open.spotify.com/album/6dFMJi2op2N2IJaieIJhzm) | 4:25 | 2021-11-12 |  |
 | [Never Gonna Tame You \(Original Song from "The Mustangs: America's Wild Horses"\)](https://open.spotify.com/track/1FSYsYrfOKa6nBHVEBWUQC) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Never Gonna Tame You \(Original Song from "The Mustangs: America's Wild Horses"\)](https://open.spotify.com/album/1v3UJ3V5ChGeHPoKzhcyy3) | 3:41 | 2021-11-12 | 2023-08-21 |

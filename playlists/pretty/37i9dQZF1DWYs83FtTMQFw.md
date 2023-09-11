@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today ft\. Burna Boy, Travis Scott, Gunna and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,256,266 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,256,544 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 69 | [Too Many Nights \(feat\. Don Toliver & with Future\)](https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:19 |
 | 70 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 |
 
-Snapshot ID: `MCxmYmFlMTBhYzI5ZTM0ZTI1YjA3MDZhZjViMjA1Yjg1ODk4YTVlYjVi`
+Snapshot ID: `MCw1YTBjZjY1M2Q2NzQwZmMwMjVjZWRkYWQzYjk1ZTI4Yzk3Nzk1NmY1`

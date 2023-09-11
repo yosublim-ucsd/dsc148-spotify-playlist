@@ -4,7 +4,7 @@
 
 > Sumérgete a lo más profundo de tu mente con el sonido del mar.
 
-250 songs - 12 hr 45 min
+251 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Hear the Distant Waves](https://open.spotify.com/track/6HIWJ7OCiyShqeix9zAODH) | [Ocean Sounds FX](https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK) | [Summer Ocean Waves](https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF) | 2:15 | 2023-07-03 |  |
 | [Hear The Ocean](https://open.spotify.com/track/377V7aSJAF6kv7qR0RVGVa) | [TELEKROME](https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV) | [Wave Sounds](https://open.spotify.com/album/1qVY1drmjE9wCDusfxgBzg) | 2:57 | 2023-07-03 |  |
 | [Heavy Oceans](https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 2:36 | 2023-07-03 |  |
-| [High Tide](https://open.spotify.com/track/2JUUU04a6BU7EYkVA5Mym0) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [High Tide](https://open.spotify.com/album/5GSSHqPvOVkmMILwAQFuhS) | 4:58 | 2023-07-03 |  |
+| [High Tide](https://open.spotify.com/track/2JUUU04a6BU7EYkVA5Mym0) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [High Tide](https://open.spotify.com/album/5GSSHqPvOVkmMILwAQFuhS) | 4:58 | 2023-07-03 | 2023-09-11 |
 | [High Water Waves](https://open.spotify.com/track/3ixhrF2NqHNOSIFkXPldca) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Nature's Beautiful Sounds](https://open.spotify.com/album/1i7Wx47S8juKmqYC8vO7xi) | 3:00 | 2023-07-03 |  |
 | [High Water Waves](https://open.spotify.com/track/0f8iKTCQLqoiw4vEfQaRZ9) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Waves](https://open.spotify.com/album/1qQMwrKUPJjxJSZJjrykCJ) | 2:35 | 2023-07-03 |  |
 | [Ice Cold Ocean](https://open.spotify.com/track/0In0VHQsOFefbgAKscxvsr) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 2:34 | 2023-07-03 |  |
@@ -229,6 +229,7 @@
 | [Waves Crashing on Rocks](https://open.spotify.com/track/1orDQvwwaBsGbsxMNeiWZa) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Peaceful Rivers, Rains, Waves](https://open.spotify.com/album/4G0FQMpqDIYcEiXL2X4AVv) | 2:44 | 2023-07-03 |  |
 | [Waves Crashing Relax](https://open.spotify.com/track/4M1nbhmkmAVyptAnd8dc8c) | [Streaming Waves](https://open.spotify.com/artist/7qj3R7pI5z0H1AxH5X4oK8) | [Streaming Waves Vol\. 1](https://open.spotify.com/album/2QFjS8IsDZd1sUdGZ4rnDS) | 2:18 | 2023-07-03 |  |
 | [Waves Crashing The Beach](https://open.spotify.com/track/4JPAibfVEbNIDncwz2IEfG) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Moments Of Waves Vol\. 2](https://open.spotify.com/album/7crlUClPdjmLLhvxOpQkSk) | 3:13 | 2023-07-03 |  |
+| [Waves for Relaxation](https://open.spotify.com/track/7CxFjP8i6McIwI4lNFwPD5) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 2:59 | 2023-07-03 |  |
 | [Waves from the Outlook](https://open.spotify.com/track/3HneefmTTrhPH9VHsuY5KO) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 3:14 | 2023-07-03 |  |
 | [Waves from the South](https://open.spotify.com/track/3zQ2nhWajBddajUQXYSXDz) | [Nature 101](https://open.spotify.com/artist/6eu6iTsysW1wIPR23xq8BB) | [Deep Ocean](https://open.spotify.com/album/22Ceilw9Kxk2xMVbqpqkWt) | 2:45 | 2023-07-03 |  |
 | [Waves In A Small Cove 2](https://open.spotify.com/track/0P9kqZymGXK95D6TIbccr7) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Waves In A Small Cove](https://open.spotify.com/album/0awUNlc3YJ8KrTV9pbYmpx) | 2:02 | 2023-07-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,475 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,660 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 79 | [Hotel Song](https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:27 |
 | 80 | [Excuses](https://open.spotify.com/track/4Tm2TkKTe23pgMXMzOK4Z2) | [The Morning Benders](https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD) | [Big Echo](https://open.spotify.com/album/5UYmZOpjjA5Y7GyZhjI6fy) | 5:17 |
 | 81 | [Get Me Away From Here, I'm Dying](https://open.spotify.com/track/0T3j1KHC2U00Gw4gaLQBh9) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If You're Feeling Sinister](https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI) | 3:25 |
-| 82 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
-| 83 | [So Nice So Smart](https://open.spotify.com/track/5EAPbYyAnuOUG4EICxgBlU) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Juno \- Music From The Motion Picture](https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG) | 2:45 |
+| 82 | [So Nice So Smart](https://open.spotify.com/track/5EAPbYyAnuOUG4EICxgBlU) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Juno \- Music From The Motion Picture](https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG) | 2:45 |
+| 83 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
 | 84 | [Oh to Be in Love](https://open.spotify.com/track/7FcnFSwGquIEDhJ18tHWd4) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/6LPR2A12So7G9V2WoZgTwd) | 3:18 |
 | 85 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/6XGKlssGb3oE9IUCvjLthd) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/6CYTAXBPYJ43irABGOJmIw) | 4:16 |
 | 86 | [Sleeping In](https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [A Teenager in Love](https://open.spotify.com/track/5JMur5IZCCWUdFFRt7ekbf) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/014VFkpQp37zfAXRyyZmBq) | 3:19 |
 | 100 | [Cinnamon](https://open.spotify.com/track/3UtqjZ1PbzEXMGFIFxd3b9) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/5TLh7wdbeB8m6ZL5tf8IHm) | 4:12 |
 
-Snapshot ID: `MCw3MGYzZjBlOTk4MWFmYjEyMDliODc3MjhmN2RkMDU3ZjVkMjY5ZGQ3`
+Snapshot ID: `MCwxYTdkOWYzYWZjYjJmMGQxMzUwNWMzMTNlZjJiMGY3YTdhY2QzNmI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,725 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,805 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 29 | [Mojanda \(feat\. Wabi Sabi\)](https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Wabi Sabi](https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS) | [Tranquillitas](https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o) | 6:13 |
 | 30 | [Nevar](https://open.spotify.com/track/2GmDHnAPi9FwVqkC1MYWi6) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Didacte](https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT) | [Ramas](https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx) | 6:40 |
 | 31 | [Ghost Dance](https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 3:38 |
-| 32 | [Pura Flor \(El Búho Remix\)](https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Aurora Remixed](https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb) | 4:14 |
-| 33 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 |
+| 32 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 |
+| 33 | [Pura Flor \(El Búho Remix\)](https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Aurora Remixed](https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb) | 4:14 |
 | 34 | [Maajo](https://open.spotify.com/track/4P4dZe0rLvLIHZOCvRr67b) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9) | 9:06 |
 | 35 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 |
 | 36 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 59 | [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 |
 | 60 | [Resiliencia](https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx) | 4:49 |
 
-Snapshot ID: `MCwyM2FkZDllNzRiOWJmMmMwN2ZiNTBjNThmNWM4ZWQzNjdlNTRiZDQ3`
+Snapshot ID: `MCxiYTI0ODg0YmI2NjM0MTIzOTcxYzczZWIxNWE1ZDg2ZjEwOWE2MDE1`

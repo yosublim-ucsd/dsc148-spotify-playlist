@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,182 likes - 61 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,225 likes - 61 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 60 | [Always into you](https://open.spotify.com/track/38x25A2YUR1ihIpQrb93R1) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD) | [Always into you](https://open.spotify.com/album/511xSyTlzoewwQ3VA1G4Ap) | 3:24 |
 | 61 | [Cheese](https://open.spotify.com/track/2BvnZRo7CyFo0JcMhmnBUA) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Cheese](https://open.spotify.com/album/7mCUKPoOkeiT2F1REIVjYG) | 3:15 |
 
-Snapshot ID: `MCxkM2UyYjk2NzZjNWZjMGYwNzI2MzEyNDkzMjk2NDRmNGU0ZTBmM2M0`
+Snapshot ID: `MCxjMTJhNTc4ODY2ZjI5YTA4N2E5MGJlMTAzMDkyYzFlZDYyOTNiYTEz`

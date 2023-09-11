@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-567 songs - 21 hr 57 min
+568 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,8 +319,9 @@
 | [Moment](https://open.spotify.com/track/1zFuZul9pNIgbNCzhQxG8U) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Moment](https://open.spotify.com/album/0EeN9DAkiJa5YmMFOmfdWB) | 1:49 | 2022-11-11 | 2023-03-04 |
 | [Money Rain \- Phonk Remix](https://open.spotify.com/track/4P0r0yO7HNPvOra7BHGixH) | [VTORNIK](https://open.spotify.com/artist/1iuGd0kNu2eqLwP9DFGCNY), [Phonk](https://open.spotify.com/artist/3kXvE7gEBfGkwDaknMngF7) | [Money Rain \(Phonk Remix\)](https://open.spotify.com/album/0z3SFl34YWiKMXwsTNPdVp) | 2:30 | 2022-05-13 | 2023-01-21 |
 | [MONTAGEM \- MELODIA ENVOLVENTE 4](https://open.spotify.com/track/0dQZTgDVjsQfrp7VCTQqYm) | [DJ Dudah](https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr), [MC Vuiziki](https://open.spotify.com/artist/1ZpSaxWCRK3n77MzhFVD3T), [MC Da 12](https://open.spotify.com/artist/2ge1WtiBqengw0nAnq94Zo) | [MONTAGEM \- MELODIA ENVOLVENTE 4 \(Remixes\)](https://open.spotify.com/album/3YHtUENBFs9vZujcOCt1dP) | 4:10 | 2023-05-19 |  |
+| [MONTAGEM \- PAREDE](https://open.spotify.com/track/1Bf8wk84B42gGewriwJlT9) | [SAMUKA](https://open.spotify.com/artist/3wGtjtHSh7D31VZV9wPupB) | [MONTAGEM \- PAREDE](https://open.spotify.com/album/0JgTiCbeMx4rflI3BBINoB) | 1:01 | 2023-06-02 |  |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 | 2023-06-02 | 2023-07-12 |
-| [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-06-02 |  |
+| [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-06-02 | 2023-09-11 |
 | [Montagem Game 196 e Nem Começou o Filme \(feat\. MC Morena de SP\)](https://open.spotify.com/track/5KAwRUyeAky7zPyRkuuUl9) | [DJ Blakes](https://open.spotify.com/artist/68sRe1jDgKyZ9bYjAvwEAz), [DJ MK DA DZ7](https://open.spotify.com/artist/2Atu34xAie4Mum2NN3o4rG), [MC VN Cria](https://open.spotify.com/artist/40LeQEFO0XM6PI09sYowjn), [MC Morena de SP](https://open.spotify.com/artist/7hZV3aaWoyCn6xQ40w9LQn) | [Montagem Game 196 e Nem Começou o Filme](https://open.spotify.com/album/6eQz3wAHijyDd189Uu3ICV) | 3:45 | 2023-07-14 |  |
 | [MORTAL](https://open.spotify.com/track/0I7I4kUnGVqoxemDmYcysN) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [MORTAL](https://open.spotify.com/album/5vg1cPV2HG0c987ofDZlc4) | 2:23 | 2022-07-08 | 2022-08-06 |
 | [Most Wanted](https://open.spotify.com/track/6kA9g6M1SoDBUGuy3iuC3D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [Most Wanted](https://open.spotify.com/album/30ei2lHJtrhRFX3rcPamzL) | 2:01 | 2023-01-06 | 2023-02-11 |

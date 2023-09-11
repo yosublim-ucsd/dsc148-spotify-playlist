@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 203929,
+  "num_followers": 203975,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ3NjI0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ3NzEwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "Tak For Sidst",
         "url": "https://open.spotify.com/album/0rvZGDpA6Gw8s4dT3xRnpi"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5cNxyZy9r5f8m2L7it8ZtB"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "I KNOW",
         "url": "https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "TILLYKKE",
-        "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        }
-      ],
-      "duration_ms": 141833,
-      "name": "Topform",
-      "url": "https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -81,43 +65,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "Paint The Town Red",
-        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "nu hvor vi er her",
-        "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 207010,
-      "name": "vi ku' blive",
-      "url": "https://open.spotify.com/track/5yiJTfrtlzDsVMDshFLUna"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "Jeg Ka' Rigtig Godt Li' Dig (feat. andreas odbjerg)",
         "url": "https://open.spotify.com/album/0tbu70Bb9VJQNW2tE5OVqt"
@@ -137,7 +85,23 @@
       "url": "https://open.spotify.com/track/6P8HH4mh0jmGlOhHwAkY5o"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "TILLYKKE",
         "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
@@ -148,12 +112,48 @@
           "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
         }
       ],
-      "duration_ms": 114561,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/2jlTl8UVA0GxNR3gWfe7UB"
+      "duration_ms": 141833,
+      "name": "Topform",
+      "url": "https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "nu hvor vi er her",
+        "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 207010,
+      "name": "vi ku' blive",
+      "url": "https://open.spotify.com/track/5yiJTfrtlzDsVMDshFLUna"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Dansktop",
+        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
+      },
+      "artists": [
+        {
+          "name": "Ukendt Kunstner",
+          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
+        }
+      ],
+      "duration_ms": 191341,
+      "name": "Uden Dig",
+      "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
@@ -173,39 +173,7 @@
       "url": "https://open.spotify.com/track/4uD38j8IHpg5g8LFOlV1XV"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "Et Sted Herude",
-        "url": "https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 137475,
-      "name": "Et Sted Herude",
-      "url": "https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "Dansktop",
-        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
-      },
-      "artists": [
-        {
-          "name": "Ukendt Kunstner",
-          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
-        }
-      ],
-      "duration_ms": 191341,
-      "name": "Uden Dig",
-      "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "EV1GT&ALT1D",
         "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
@@ -221,7 +189,75 @@
       "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Et Sted Herude",
+        "url": "https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 137475,
+      "name": "Et Sted Herude",
+      "url": "https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Som Forleden",
+        "url": "https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 161841,
+      "name": "Som Forleden",
+      "url": "https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Vi 1",
+        "url": "https://open.spotify.com/album/5gcqWehKcOuiyVSjk3D1k8"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 169599,
+      "name": "Vi 1",
+      "url": "https://open.spotify.com/track/3ZsAluSu04Fd3LVZzLtv2B"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
@@ -245,59 +281,7 @@
       "url": "https://open.spotify.com/track/1QYu15XcUvIzbniUykHudF"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "Som Forleden",
-        "url": "https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 161841,
-      "name": "Som Forleden",
-      "url": "https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "Lad Mig G\u00e5",
-        "url": "https://open.spotify.com/album/21Stmhm80IF8Zbaa1XbSGm"
-      },
-      "artists": [
-        {
-          "name": "TopGunn",
-          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
-        }
-      ],
-      "duration_ms": 192754,
-      "name": "Lad Mig G\u00e5",
-      "url": "https://open.spotify.com/track/6FIENoCg6u60Rs3sxlq8Sp"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "TILLYKKE",
         "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
@@ -308,44 +292,12 @@
           "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
         }
       ],
-      "duration_ms": 148113,
-      "name": "Hele Vejen Ind",
-      "url": "https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ"
+      "duration_ms": 114561,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/2jlTl8UVA0GxNR3gWfe7UB"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "TILLYKKE",
-        "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        }
-      ],
-      "duration_ms": 166639,
-      "name": "10 Ud Af 10",
-      "url": "https://open.spotify.com/track/3xhFLgAHSmJLn5634hY4PG"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "Vi 1",
-        "url": "https://open.spotify.com/album/5gcqWehKcOuiyVSjk3D1k8"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 169599,
-      "name": "Vi 1",
-      "url": "https://open.spotify.com/track/3ZsAluSu04Fd3LVZzLtv2B"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "Tessas H\u00e6vn (Igen Bitch)",
         "url": "https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ"
@@ -361,43 +313,7 @@
       "url": "https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "Jumeirah",
-        "url": "https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm"
-      },
-      "artists": [
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        },
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 162487,
-      "name": "Jumeirah",
-      "url": "https://open.spotify.com/track/38xttLsyfUwd284fbNjymm"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "TILLYKKE",
-        "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        }
-      ],
-      "duration_ms": 111812,
-      "name": "R\u00f8dt Flag",
-      "url": "https://open.spotify.com/track/228Uq0GAvejQhA2z4YWSlP"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "F\u00f8les Godt",
         "url": "https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX"
@@ -417,7 +333,79 @@
       "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "smugryger",
+        "url": "https://open.spotify.com/album/6asmVS16E8HIedmaS0QAOz"
+      },
+      "artists": [
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 163254,
+      "name": "smugryger",
+      "url": "https://open.spotify.com/track/0Mo3Jmq9uU1QJyhZu4DkR5"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 182816,
+      "name": "STOR MAND (feat. Andreas Odbjerg)",
+      "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Jumeirah",
+        "url": "https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 162487,
+      "name": "Jumeirah",
+      "url": "https://open.spotify.com/track/38xttLsyfUwd284fbNjymm"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "TILLYKKE",
+        "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 166639,
+      "name": "10 Ud Af 10",
+      "url": "https://open.spotify.com/track/3xhFLgAHSmJLn5634hY4PG"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "Tilf\u00e6ldigt (feat. D1MA)",
         "url": "https://open.spotify.com/album/3Ngfa3iuBjLSwMdFE4m2ac"
@@ -437,7 +425,23 @@
       "url": "https://open.spotify.com/track/1F1I56Ye8w74inE5krVYF9"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Lad Mig G\u00e5",
+        "url": "https://open.spotify.com/album/21Stmhm80IF8Zbaa1XbSGm"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        }
+      ],
+      "duration_ms": 192754,
+      "name": "Lad Mig G\u00e5",
+      "url": "https://open.spotify.com/track/6FIENoCg6u60Rs3sxlq8Sp"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "Under Radar",
         "url": "https://open.spotify.com/album/5e09iR2DufFRiMK8JmTlNu"
@@ -465,23 +469,7 @@
       "url": "https://open.spotify.com/track/18jOIUboPPzwu84t9GlUKu"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "smugryger",
-        "url": "https://open.spotify.com/album/6asmVS16E8HIedmaS0QAOz"
-      },
-      "artists": [
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 163254,
-      "name": "smugryger",
-      "url": "https://open.spotify.com/track/0Mo3Jmq9uU1QJyhZu4DkR5"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "TILLYKKE",
         "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
@@ -492,48 +480,12 @@
           "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
         }
       ],
-      "duration_ms": 188065,
-      "name": "Toppen Ned",
-      "url": "https://open.spotify.com/track/4p9CSWF9zkmXxxdxjLtAXs"
+      "duration_ms": 148113,
+      "name": "Hele Vejen Ind",
+      "url": "https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "DR\u00d8M MIG V\u00c6K",
-        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "DR\u00d8M MIG V\u00c6K",
-      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "N\u00e5r sj\u00e6len kaster op",
-        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        },
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 182816,
-      "name": "STOR MAND (feat. Andreas Odbjerg)",
-      "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -549,75 +501,39 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
-        "name": "TILLYKKE",
-        "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
+        "name": "DR\u00d8M MIG V\u00c6K",
+        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
       },
       "artists": [
         {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
         }
       ],
-      "duration_ms": 137760,
-      "name": "Min Ven",
-      "url": "https://open.spotify.com/track/6Wq4dNlZXWDXfisVrCY3tc"
+      "duration_ms": 163533,
+      "name": "DR\u00d8M MIG V\u00c6K",
+      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
-        "name": "10% mere",
-        "url": "https://open.spotify.com/album/7bKvrsUOEPtTCwBH3AxslE"
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
       },
       "artists": [
         {
-          "name": "TopGunn",
-          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
         }
       ],
-      "duration_ms": 109462,
-      "name": "10% mere",
-      "url": "https://open.spotify.com/track/6OpqjaayXiYMijD5HYDEE9"
+      "duration_ms": 198659,
+      "name": "Flyvende Faduma",
+      "url": "https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "nu hvor vi er her",
-        "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 188663,
-      "name": "selvf\u00f8lgelig",
-      "url": "https://open.spotify.com/track/33F8vEeO9TfW9RY788CTS6"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "KNUSTE HJERTER HELER ALDRIG",
-        "url": "https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 158957,
-      "name": "Tro P\u00e5 K\u00e6rlighed",
-      "url": "https://open.spotify.com/track/4utLwWSxHMamLd9siyFv5Q"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "Kronisk Skeptisk",
         "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
@@ -633,7 +549,55 @@
       "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "10% mere",
+        "url": "https://open.spotify.com/album/7bKvrsUOEPtTCwBH3AxslE"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        }
+      ],
+      "duration_ms": 109462,
+      "name": "10% mere",
+      "url": "https://open.spotify.com/track/6OpqjaayXiYMijD5HYDEE9"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "KNUSTE HJERTER HELER ALDRIG",
+        "url": "https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 158957,
+      "name": "Tro P\u00e5 K\u00e6rlighed",
+      "url": "https://open.spotify.com/track/4utLwWSxHMamLd9siyFv5Q"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "BOYBAND",
         "url": "https://open.spotify.com/album/5SorawwOwcnSYnDfXzU2ot"
@@ -653,39 +617,59 @@
       "url": "https://open.spotify.com/track/71JW11U2IpJQBRicrFUzMZ"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
-        "name": "N\u00e5r sj\u00e6len kaster op",
-        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
+        "name": "Terrier",
+        "url": "https://open.spotify.com/album/2TXMIcatm8FcW2xSsASPMO"
       },
       "artists": [
         {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
         }
       ],
-      "duration_ms": 198659,
-      "name": "Flyvende Faduma",
-      "url": "https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X"
+      "duration_ms": 200500,
+      "name": "Terrier",
+      "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
-        "name": "2 Kanoner",
-        "url": "https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p"
+        "name": "TILLYKKE",
+        "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
       },
       "artists": [
         {
-          "name": "Merro8",
-          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
         }
       ],
-      "duration_ms": 160615,
-      "name": "2 Kanoner",
-      "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
+      "duration_ms": 111812,
+      "name": "R\u00f8dt Flag",
+      "url": "https://open.spotify.com/track/228Uq0GAvejQhA2z4YWSlP"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "nu hvor vi er her",
+        "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 188663,
+      "name": "selvf\u00f8lgelig",
+      "url": "https://open.spotify.com/track/33F8vEeO9TfW9RY788CTS6"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "V\u00e5gen (Artigeardit X Lamin)",
         "url": "https://open.spotify.com/album/7AmMkq9qKtCROjM8DVVgsx"
@@ -705,27 +689,23 @@
       "url": "https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
-        "name": "Ny Sejr",
-        "url": "https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ"
+        "name": "2 Kanoner",
+        "url": "https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p"
       },
       "artists": [
         {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
         }
       ],
-      "duration_ms": 130493,
-      "name": "Tudo Bem (feat. Gilli)",
-      "url": "https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID"
+      "duration_ms": 160615,
+      "name": "2 Kanoner",
+      "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -749,23 +729,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "For Altid",
         "url": "https://open.spotify.com/album/51xzjew4vgdxS6bkVVfC7X"
@@ -781,59 +745,7 @@
       "url": "https://open.spotify.com/track/0twnZu2JhBywPQBOX92gSl"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "Terrier",
-        "url": "https://open.spotify.com/album/2TXMIcatm8FcW2xSsASPMO"
-      },
-      "artists": [
-        {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Terrier",
-      "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "Psykosebarn",
-        "url": "https://open.spotify.com/album/1bVTGCNXPtNVjznVGYpCGx"
-      },
-      "artists": [
-        {
-          "name": "Baloosh",
-          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
-        }
-      ],
-      "duration_ms": 130414,
-      "name": "Psykosebarn",
-      "url": "https://open.spotify.com/track/7ar1cv0qnLwodfUOIUx2Vh"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "nu hvor vi er her",
-        "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "sorte pletter",
-      "url": "https://open.spotify.com/track/6oDOFpTcAgQi4pAJ1IzhU2"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -849,39 +761,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-09-09 11:16:45",
+      "added_at": "2023-09-10 08:09:26",
       "album": {
         "name": "Suave World",
         "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
@@ -899,6 +779,122 @@
       "duration_ms": 156136,
       "name": "Verden V\u00e5gner (feat. Saveus)",
       "url": "https://open.spotify.com/track/2rfl7SRwfel3gNhXBmL60u"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Ny Sejr",
+        "url": "https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ"
+      },
+      "artists": [
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 130493,
+      "name": "Tudo Bem (feat. Gilli)",
+      "url": "https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "TILLYKKE",
+        "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "Min Ven",
+      "url": "https://open.spotify.com/track/6Wq4dNlZXWDXfisVrCY3tc"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Stiv Kuling",
+        "url": "https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "duration_ms": 160417,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/7Ku8cFTqbFMKSWGuf1evPQ"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Infinity Action: Kult & B-sider",
+        "url": "https://open.spotify.com/album/6PjG8MjScwqZOCgNaff71A"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 201479,
+      "name": "Og Du Blev Til En Hvid Fugl",
+      "url": "https://open.spotify.com/track/1qy2BuZzSU0JHnGqWRwV3N"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "Natsv\u00e6rmer",
+        "url": "https://open.spotify.com/album/0JpeM92lotMIZHFJUOs1mP"
+      },
+      "artists": [
+        {
+          "name": "Rocazino",
+          "url": "https://open.spotify.com/artist/62ytrJr6FZ6W1boNI1Y0O3"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/49clGe0PtbYUx3vB7tyk3A"
+    },
+    {
+      "added_at": "2023-09-10 08:09:26",
+      "album": {
+        "name": "TILLYKKE",
+        "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 188065,
+      "name": "Toppen Ned",
+      "url": "https://open.spotify.com/track/4p9CSWF9zkmXxxdxjLtAXs"
     }
   ],
   "unique_name": "Top 50 - Denmark",

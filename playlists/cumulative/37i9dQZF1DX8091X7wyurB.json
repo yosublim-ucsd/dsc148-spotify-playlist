@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 280424,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
@@ -2754,6 +2754,24 @@
       "duration_ms": 740413,
       "name": "Okaka",
       "url": "https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3"
+    },
+    {
+      "album": {
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 613918,
+      "name": "Oke Mmiri",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
     },
     {
       "album": {

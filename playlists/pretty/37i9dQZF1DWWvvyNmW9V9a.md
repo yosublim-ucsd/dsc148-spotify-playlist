@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Wait\. Is this GUTS album about us?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,123,938 likes - 105 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,124,597 likes - 105 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 21 | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm) | 2:56 |
 | 22 | [2 die 4 \(feat\. Charli XCX\)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:06 |
 | 23 | [Ultraviolet](https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Ultraviolet](https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc) | 3:25 |
-| 24 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 24 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 25 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 |
 | 26 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 27 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 67 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 |
 | 68 | [Getaway Car](https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:53 |
 | 69 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
-| 70 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [X&G](https://open.spotify.com/artist/0J8vnuLl37meRjZttkpCBP) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
+| 70 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 71 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 |
 | 72 | [Texts Go Green](https://open.spotify.com/track/1GPliC2cz8d5rTVDASQ633) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Texts Go Green](https://open.spotify.com/album/3OrU1Vo2kgpEING1SWD4e3) | 2:25 |
 | 73 | [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 104 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 |
 | 105 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 |
 
-Snapshot ID: `MCw0YWM1YzViZGZlOGM0OGFmNWE5ZDY3NmZiMmVmOGJlNDNmMDJjZGM2`
+Snapshot ID: `MCxlMTVlNDgwNjUyZjYxYjE0NDMzODM3Y2U4N2EyNWQ1MzkxMjAyNzdm`

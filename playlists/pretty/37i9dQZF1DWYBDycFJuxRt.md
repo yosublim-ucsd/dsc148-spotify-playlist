@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: OZworld \*👉 <a href="https://spice.eplus.jp/articles/321818?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,996 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,028 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [本能Dance](https://open.spotify.com/track/0o9bXdLnBNSe0qTSsMyLqZ) | [THE NUGGETS](https://open.spotify.com/artist/0fOhZsgOFCjPpNVKAaO7EC) | [ODD](https://open.spotify.com/album/0bkNANJdWqwvKgQZ9Mku3U) | 3:31 |
 | 80 | [筐体](https://open.spotify.com/track/2ZYSOvpbZ0h8mCc3ofk45K) | [Quw](https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M) | [筐体](https://open.spotify.com/album/2CjnCJMG1gaOdFqPDwO6oG) | 2:37 |
 
-Snapshot ID: `MCw3ODI5YjE2NmMzMTYwNjdhYjRlZjE0MmZhZGNhNWE4OWM2NzgwYmRm`
+Snapshot ID: `MCw0YzBlMGM3YmY1NjU2YzM0ODI0NTAzNzAxY2FjYmIyYzdkYzc2YjQ0`

@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Saiko y Caleb Calloway.
 
-736 songs - 1 day 15 hr 33 min
+737 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Copas](https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Copas](https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs) | 3:57 | 2023-03-31 | 2023-09-09 |
 | [Copiloto](https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Copiloto](https://open.spotify.com/album/63o7fM4ZAmOE9dZthjmipy) | 2:21 | 2022-11-11 | 2023-03-18 |
 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-04-09 | 2023-09-09 |
-| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 | 2023-09-08 |  |
+| [Corazón Roto pt\. 3](https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw) | 5:48 | 2023-09-08 | 2023-09-11 |
 | [Cosa de Locos](https://open.spotify.com/track/4cKUpgMAoFV9DdkC4DhELR) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5) | [Cosa de Locos](https://open.spotify.com/album/519NqufTeZJjydmA45WZa3) | 3:05 | 2023-02-17 | 2023-04-29 |
 | [COSITAS](https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:15 | 2022-11-11 | 2023-02-11 |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-03-21 | 2022-06-04 |

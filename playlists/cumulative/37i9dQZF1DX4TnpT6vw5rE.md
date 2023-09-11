@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-246 songs - 14 hr 44 min
+247 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2020-12-08\* | 2021-05-27 |
 | [First Light](https://open.spotify.com/track/1bnxXs5RnZMstR6U1lsJtV) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Daily Light](https://open.spotify.com/album/2P4ERwxCZCBsRb5TgqigIe) | 2:42 | 2022-07-22 |  |
 | [Flight to Polaris](https://open.spotify.com/track/22M3gpI0en4ZYrhK1JBt8X) | [Hindrick](https://open.spotify.com/artist/25NRdQfTSmntRQ1ioRGZ8N) | [Flight to Polaris](https://open.spotify.com/album/4QcXA1apOxDteqr3W0hadh) | 2:31 | 2023-08-04 |  |
+| [Fluorescent \- Meditation Rework](https://open.spotify.com/track/2dKEuiYDd07R9ekDK3v8Kp) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Fluorescent \(Meditation Rework\)](https://open.spotify.com/album/38QGNYxFbXNr9sCjHi59YE) | 2:27 | 2023-09-08 |  |
 | [Focus](https://open.spotify.com/track/3l7mCSypI6tYJvYe8dDI4f) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Focus](https://open.spotify.com/album/0Q6OXWzRgM4pbUlxYMV2Pb) | 2:47 | 2020-12-08\* | 2021-05-27 |
 | [Focus One](https://open.spotify.com/track/3XbLt09x1IBDMPYDTFRZXM) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus One](https://open.spotify.com/album/7pPXleKmHlZ8YPkQTxetQ1) | 3:31 | 2021-12-22 |  |
 | [Focus Within](https://open.spotify.com/track/7kiz2xQSHHaCifsJQ1rppt) | [Bernardo Fuches](https://open.spotify.com/artist/0qymchRqSiaK2RgmjPOTCs) | [Focus Within](https://open.spotify.com/album/7u4hpdAQdp3IEFXC7dy1lv) | 2:37 | 2022-04-21 |  |
@@ -132,7 +133,7 @@
 | [Kepesh](https://open.spotify.com/track/0p8gq23UoCaw6mfndx470w) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [The Organ Hearts](https://open.spotify.com/album/4Fb3dmmuXqDzsa1BtaP9JR) | 5:28 | 2021-01-15 | 2021-05-27 |
 | [Kilika](https://open.spotify.com/track/2GvS6SG9VHxRgMbLLPFEVI) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Kilika](https://open.spotify.com/album/665D0qSJx36civibfzbJ3B) | 4:44 | 2020-12-08\* | 2021-03-18 |
 | [Know Where](https://open.spotify.com/track/0iT8tYZ3haeUUXWogdRJh0) | [Holy Other](https://open.spotify.com/artist/7txCfGfh46OwoUBDPj4HKL) | [With U](https://open.spotify.com/album/5eIrB1QIV8Yz2tbGaw2S9D) | 3:28 | 2020-12-08\* | 2021-03-06 |
-| [Lake Green](https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 3:21 | 2022-12-30 |  |
+| [Lake Green](https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 3:21 | 2022-12-30 | 2023-09-11 |
 | [Leaving the Tetons](https://open.spotify.com/track/0tehe7Y347aJvGjsDBjeIw) | [Mark Preston](https://open.spotify.com/artist/64mJPfKjDJqEcrc1fRJH9j) | [Nature & Design](https://open.spotify.com/album/6D6xz53TceI61ZebcMtmSo) | 5:34 | 2020-12-08\* | 2021-05-27 |
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2020-12-08\* | 2021-03-06 |
 | [Liberation](https://open.spotify.com/track/2CbHrpzQRhQ1uG0J2dMrCP) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Liberation](https://open.spotify.com/album/5zbwTRBUIfwLsC9SkQUX9t) | 3:16 | 2022-12-30 |  |

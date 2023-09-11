@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Laufey
 
-348 songs - 1 day 1 hr 7 min
+349 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [Textures](https://open.spotify.com/track/2QRQlpdtB9muofjlirBBaR) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Textures](https://open.spotify.com/album/6dF4z28EZgdvJLfAMbvSPO) | 5:39 | 2022-04-14 | 2022-06-03 |
 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 | 2022-06-09 | 2022-10-28 |
 | [The IT Department](https://open.spotify.com/track/4EtkLLlDXFTXN53ZRFxP4s) | [Isaiah J\. Thompson](https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9), [Julian Lee](https://open.spotify.com/artist/6IYbf14480bkXi6JnwWkTH), [Philip Norris](https://open.spotify.com/artist/3vunyQ01vJAXMhlCpvXJ5L), [TJ Reddick](https://open.spotify.com/artist/7J7UUIycoDm4QvQ2Dov5QC) | [The Power of the Spirit](https://open.spotify.com/album/1rZYyWPLTCaED9z294E9CN) | 10:50 | 2023-04-06 | 2023-07-28 |
-| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 | 2023-08-24 |  |
+| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 | 2023-08-24 | 2023-09-11 |
+| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/1mkzHA0suincRybCyk5fis) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 5:40 | 2023-09-07 |  |
 | [The Light Shines Brightest In The Dark From "Marlowe" \- From "Marlowe"](https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [The Light Shines Brightest In The Dark \(From Marlowe\)](https://open.spotify.com/album/49KNelepray4YxHWWnANnB) | 3:34 | 2023-02-09 | 2023-04-07 |
 | [The Masquerade Is Over](https://open.spotify.com/track/2xEr1lMQwQtcvW7m2sAo44) | [Nicola Sabato](https://open.spotify.com/artist/3FGx234zwmXTXt33Psei1n), [Jeff Hamilton](https://open.spotify.com/artist/1qWu3D3Lp6hCk4XFNaeZ18), [Graham Dechter](https://open.spotify.com/artist/0UcqfzkKurNT3cfrtULTwd), [Tamir Hendelman](https://open.spotify.com/artist/73eFsz9XC6cCUi6C8fshV4) | [California Hang](https://open.spotify.com/album/0Ji9tqt7Mo6DUOogkvmThp) | 6:23 | 2023-04-27 | 2023-08-18 |
 | [The Only Thing Missing Is You](https://open.spotify.com/track/6ZJE1w4rnFmr5QvkhoblIh) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [The Only Thing Missing Is You](https://open.spotify.com/album/7e3oiSXfu7UJcW18gZLrwB) | 4:48 | 2022-11-17 | 2023-02-03 |

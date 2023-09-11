@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 804885,
+  "num_followers": 805275,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2M5ZDk1YTRhZmU1YWMwNTE4MjM0NGMzOWUyZjAwMzdhMDUzZjU1",
+  "snapshot_id": "MCw1NTlkZjFmOGFhYzYxN2Y2NmQ5ZTI2NWFlY2ExZWVjZDZkM2I2NTk5",
   "tracks": [
     {
       "added_at": "2023-01-03 19:20:11",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Simplesmente Ela",
-        "url": "https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w"
-      },
-      "artists": [
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        }
-      ],
-      "duration_ms": 161076,
-      "name": "Simplesmente Ela",
-      "url": "https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 140942,
       "name": "Batom de Cereja - Ao Vivo",
       "url": "https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "Simplesmente Ela",
+        "url": "https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        }
+      ],
+      "duration_ms": 161076,
+      "name": "Simplesmente Ela",
+      "url": "https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -367,22 +367,18 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Acabei de Terminar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
+        "name": "Grandes Sucessos",
+        "url": "https://open.spotify.com/album/7oEbEk1KjiSx4VyYeCZXum"
       },
       "artists": [
         {
-          "name": "Paulo e Nathan",
-          "url": "https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv"
-        },
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+          "name": "Ra\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
         }
       ],
-      "duration_ms": 223489,
-      "name": "Acabei de Terminar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
+      "duration_ms": 211000,
+      "name": "Cheia de Manias",
+      "url": "https://open.spotify.com/track/1XNdu4czbxZ9tdVOhDtI4M"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -403,18 +399,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Grandes Sucessos",
-        "url": "https://open.spotify.com/album/7oEbEk1KjiSx4VyYeCZXum"
+        "name": "Acabei de Terminar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
       },
       "artists": [
         {
-          "name": "Ra\u00e7a Negra",
-          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+          "name": "Paulo e Nathan",
+          "url": "https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Cheia de Manias",
-      "url": "https://open.spotify.com/track/1XNdu4czbxZ9tdVOhDtI4M"
+      "duration_ms": 223489,
+      "name": "Acabei de Terminar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "WS On Board (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Churrasquinho Menos \u00c9 Mais (Ao Vivo)",
         "url": "https://open.spotify.com/album/7s2MXOVpIWBNcfnHGCDh3v"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 415915,
       "name": "Pot-Pourri: Tempo de Aprender / Energia Surreal / N\u00e3o Pedi Pra Me Apaixonar / Deixa Acontecer - Ao Vivo",
       "url": "https://open.spotify.com/track/03PztApOdNGJ1Cn9kDKRNr"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "WS On Board (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -879,42 +879,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Contatinho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173229,
-      "name": "Contatinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "Buteco in Boston (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "N\u00e3o Me Arranha - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ve9hbVnSgJ0vrsRpj18OH"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
         "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
       },
@@ -935,18 +899,38 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Diferente dos Iguais",
-        "url": "https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST"
+        "name": "Buteco in Boston (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
       },
       "artists": [
         {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 237900,
-      "name": "Meia Noite (Voc\u00ea tem meu Whatsapp)",
-      "url": "https://open.spotify.com/track/5fuK5An5rQcx0OVIzsscOK"
+      "duration_ms": 159750,
+      "name": "N\u00e3o Me Arranha - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ve9hbVnSgJ0vrsRpj18OH"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "Contatinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173229,
+      "name": "Contatinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -963,6 +947,38 @@
       "duration_ms": 187141,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "Diferente dos Iguais",
+        "url": "https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST"
+      },
+      "artists": [
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        }
+      ],
+      "duration_ms": 237900,
+      "name": "Meia Noite (Voc\u00ea tem meu Whatsapp)",
+      "url": "https://open.spotify.com/track/5fuK5An5rQcx0OVIzsscOK"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "F\u00e3 de Carteirinha Sunset, Ep. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/08XT41HiFtjXbl1X4sihw0"
+      },
+      "artists": [
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "duration_ms": 342622,
+      "name": "Nem de Gra\u00e7a / Saudade Arrega\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/141xCZ6pvh4ymCsQkOFX80"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -987,18 +1003,18 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "F\u00e3 de Carteirinha Sunset, Ep. 01 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/08XT41HiFtjXbl1X4sihw0"
+        "name": "Pagode do Peric\u00e3o, Ep. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5jA6nzca6neVFM0Yb7fIsL"
       },
       "artists": [
         {
-          "name": "Pixote",
-          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 342622,
-      "name": "Nem de Gra\u00e7a / Saudade Arrega\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/141xCZ6pvh4ymCsQkOFX80"
+      "duration_ms": 232278,
+      "name": "Supera - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ePqDlJvdIrs58EKvPb9hN"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1027,22 +1043,6 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "Pagode do Peric\u00e3o, Ep. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5jA6nzca6neVFM0Yb7fIsL"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 232278,
-      "name": "Supera - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ePqDlJvdIrs58EKvPb9hN"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
+        "name": "Maxximum - S\u00f3 Pra Contrariar",
+        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3 Pra Contrariar",
+          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "Que Se Chama Amor",
+      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
         "name": "A Nova Cara das Vaquejadas",
         "url": "https://open.spotify.com/album/5cMhZUlCGsc1BN9bw10bqx"
       },
@@ -1139,18 +1155,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Maxximum - S\u00f3 Pra Contrariar",
-        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
+        "name": "Amor da Despedida",
+        "url": "https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i"
       },
       "artists": [
         {
-          "name": "S\u00f3 Pra Contrariar",
-          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        },
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
         }
       ],
-      "duration_ms": 240533,
-      "name": "Que Se Chama Amor",
-      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
+      "duration_ms": 169773,
+      "name": "Amor da Despedida",
+      "url": "https://open.spotify.com/track/0WlmiIK5qFQ4dAB4mCA4sI"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1187,26 +1207,6 @@
       "duration_ms": 179624,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6pA2g7vd1G2yWbOJg7SgPh"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "Amor da Despedida",
-        "url": "https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        },
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Amor da Despedida",
-      "url": "https://open.spotify.com/track/0WlmiIK5qFQ4dAB4mCA4sI"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Chaaama",
-        "url": "https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 139528,
-      "name": "Vamo Tomar Uma",
-      "url": "https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Cobaia",
         "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 219442,
       "name": "Cobaia",
       "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "Chaaama",
+        "url": "https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 139528,
+      "name": "Vamo Tomar Uma",
+      "url": "https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
+        "name": "De Volta Pro Amanh\u00e3, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 119304,
+      "name": "Assim Voc\u00ea Mata o Papai - Ao Vivo",
+      "url": "https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
         "name": "\u00daltimo Beijo",
         "url": "https://open.spotify.com/album/6AW51ww4T6cgKSxfj9PybR"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 181279,
       "name": "\u00daltimo Beijo",
       "url": "https://open.spotify.com/track/2pBEAodCImE4LgbKAG4bfz"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "De Volta Pro Amanh\u00e3, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 119304,
-      "name": "Assim Voc\u00ea Mata o Papai - Ao Vivo",
-      "url": "https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 189005,
-      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 172750,
       "name": "T\u00f4 de Boa - Ao vivo",
       "url": "https://open.spotify.com/track/19u7ucz8tazDZL1daf5y23"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 189005,
+      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2023-01-03 19:20:11",

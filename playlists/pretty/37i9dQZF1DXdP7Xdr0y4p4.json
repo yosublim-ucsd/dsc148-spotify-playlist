@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 9874,
+  "num_followers": 9903,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQ1ZjU2ZWEwYmI3NjM4OGYxYTY5MDgxMjljMTFmMzA1MzgzMjgw",
+  "snapshot_id": "MCwyYjRkYTc1MjEwMDc5YTQwZGRlNTI0ZDdmMDQ5ZjQ1MTViYThkYjdm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
-      },
-      "artists": [
-        {
-          "name": "Triumphant Quartet",
-          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The Stories We Tell",
         "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 181000,
       "name": "Good in the Good Times",
       "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
+      },
+      "artists": [
+        {
+          "name": "Triumphant Quartet",
+          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Thief In The Night",
-        "url": "https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef"
-      },
-      "artists": [
-        {
-          "name": "Joseph Habedank",
-          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "Thief in the Night",
-      "url": "https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Brighten The Corner Where You Are (Radio Edit)",
         "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "He Touched Me",
-        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
+        "name": "Thief In The Night",
+        "url": "https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef"
       },
       "artists": [
         {
-          "name": "The Singing Contractors",
-          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
+          "name": "Joseph Habedank",
+          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
         }
       ],
-      "duration_ms": 207440,
-      "name": "He Touched Me",
-      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
+      "duration_ms": 247066,
+      "name": "Thief in the Night",
+      "url": "https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -871,6 +855,22 @@
       "duration_ms": 241109,
       "name": "Believe For It",
       "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "He Touched Me",
+        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
+      },
+      "artists": [
+        {
+          "name": "The Singing Contractors",
+          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "He Touched Me",
+      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Front Porch Singin'",
-        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 108145,
-      "name": "Rock My Soul",
-      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Glorious Appearing",
         "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 228997,
       "name": "Glorious Appearing",
       "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Front Porch Singin'",
+        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 108145,
+      "name": "Rock My Soul",
+      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "My Name Is Victory",
-        "url": "https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl"
-      },
-      "artists": [
-        {
-          "name": "The Wilbanks",
-          "url": "https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r"
-        }
-      ],
-      "duration_ms": 202710,
-      "name": "The Spirit and the Bride",
-      "url": "https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 198099,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "My Name Is Victory",
+        "url": "https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl"
+      },
+      "artists": [
+        {
+          "name": "The Wilbanks",
+          "url": "https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r"
+        }
+      ],
+      "duration_ms": 202710,
+      "name": "The Spirit and the Bride",
+      "url": "https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M"
     },
     {
       "added_at": "2023-04-14 06:27:38",

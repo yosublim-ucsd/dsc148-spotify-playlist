@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: KALMA",
-  "num_followers": 7875,
+  "num_followers": 7897,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2Y3YzNiYmNkYWMyNjE1MzNlMmJhZjc5MmQ4NGVjZmQ2YWI4Yzgy",
+  "snapshot_id": "MCwwODUxZDM5YjA2ODE2ODFkZTgyNzAzNzgyNGRiZmMxZmVlY2JiOTRi",
   "tracks": [
     {
       "added_at": "2023-09-07 15:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
+        "name": "OUR-AWA-HOUR!!",
+        "url": "https://open.spotify.com/album/7baaliEPecZK25JCO29ze3"
+      },
+      "artists": [
+        {
+          "name": "\u30b1\u30d7\u30e9",
+          "url": "https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ"
+        }
+      ],
+      "duration_ms": 149562,
+      "name": "OUR-AWA-HOUR!!",
+      "url": "https://open.spotify.com/track/3pzF6qBlLfGG2rk8QIQ8xH"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
         "name": "WARUNORI",
         "url": "https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 259956,
       "name": "WARUNORI",
       "url": "https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx"
-    },
-    {
-      "added_at": "2023-09-07 15:00:00",
-      "album": {
-        "name": "\u7d14\u7570\u6027\u4ea4\u904a",
-        "url": "https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3"
-      },
-      "artists": [
-        {
-          "name": "Humbreaders",
-          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "DAY DREAM BEAT",
-      "url": "https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
-        "name": "OUR-AWA-HOUR!!",
-        "url": "https://open.spotify.com/album/7baaliEPecZK25JCO29ze3"
+        "name": "\u7d14\u7570\u6027\u4ea4\u904a",
+        "url": "https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3"
       },
       "artists": [
         {
-          "name": "\u30b1\u30d7\u30e9",
-          "url": "https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ"
+          "name": "Humbreaders",
+          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
         }
       ],
-      "duration_ms": 149562,
-      "name": "OUR-AWA-HOUR!!",
-      "url": "https://open.spotify.com/track/3pzF6qBlLfGG2rk8QIQ8xH"
+      "duration_ms": 238466,
+      "name": "DAY DREAM BEAT",
+      "url": "https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
-        "name": "\u79c1\u3078",
-        "url": "https://open.spotify.com/album/3cLc1mbVLswt6j96bGXsN1"
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/61CtIauFYJ0I3TktajTK21"
       },
       "artists": [
         {
-          "name": "4na",
-          "url": "https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF"
+          "name": "Dannie May",
+          "url": "https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7"
         }
       ],
-      "duration_ms": 253632,
-      "name": "\u79c1\u3078",
-      "url": "https://open.spotify.com/track/6tUoqX3OCNbC2t55e5kvcR"
+      "duration_ms": 144000,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/4hj6mw72DR2tk3g5NfQXpA"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/61CtIauFYJ0I3TktajTK21"
+        "name": "\u79c1\u3078",
+        "url": "https://open.spotify.com/album/3cLc1mbVLswt6j96bGXsN1"
       },
       "artists": [
         {
-          "name": "Dannie May",
-          "url": "https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7"
+          "name": "4na",
+          "url": "https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Boom Boom Boom",
-      "url": "https://open.spotify.com/track/4hj6mw72DR2tk3g5NfQXpA"
+      "duration_ms": 253632,
+      "name": "\u79c1\u3078",
+      "url": "https://open.spotify.com/track/6tUoqX3OCNbC2t55e5kvcR"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
-        "name": "\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/0KEpY0QseuNMCJSvOrSaoZ"
-      },
-      "artists": [
-        {
-          "name": "PEDRO",
-          "url": "https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "\u611f\u50b7\u8b33\u6b4c",
-      "url": "https://open.spotify.com/track/3TLvVHq7a7fKlerM0SLnFd"
-    },
-    {
-      "added_at": "2023-09-07 15:00:00",
-      "album": {
         "name": "\u50d5\u3060\u3063\u3066\u3061\u3083\u3093\u3068\u3057\u305f\u304b\u3063\u305f\u4eba\u9054\u3078",
         "url": "https://open.spotify.com/album/0hgZdoLUczPKcovcXYXqhu"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 204471,
       "name": "\u304a\u5316\u3051\u3060\u305e\u3063\u3066\u304a\u3069\u304b\u3057\u3066",
       "url": "https://open.spotify.com/track/1TlS8nVpjH1e1eNyCri5l2"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
+        "name": "\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/0KEpY0QseuNMCJSvOrSaoZ"
+      },
+      "artists": [
+        {
+          "name": "PEDRO",
+          "url": "https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "\u611f\u50b7\u8b33\u6b4c",
+      "url": "https://open.spotify.com/track/3TLvVHq7a7fKlerM0SLnFd"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
+        "name": "Kiminomachimade",
+        "url": "https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Kiminomachimade",
+      "url": "https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
         "name": "\u5fc3\u62cd\u6570\u3068\u30e9\u30f4\u30ec\u30bf\u30fc\u3001\u305d\u308c\u3068\u512a\u3057\u3055",
         "url": "https://open.spotify.com/album/2TWDeXLRDpzEFpo76LSiMM"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 181618,
       "name": "Wish upon the Summer",
       "url": "https://open.spotify.com/track/1olB9d6rSgSJOcgl34VaYl"
-    },
-    {
-      "added_at": "2023-09-07 15:00:00",
-      "album": {
-        "name": "Kiminomachimade",
-        "url": "https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Kiminomachimade",
-      "url": "https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM"
     },
     {
       "added_at": "2023-09-07 15:00:00",

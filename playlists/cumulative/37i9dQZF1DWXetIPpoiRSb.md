@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Tyla
 
-1,151 songs - 2 day 10 hr 0 min
+1,152 songs - 2 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1067,7 +1067,8 @@
 | [Used To](https://open.spotify.com/track/05PFB9zqsoUv0vFpgGtyWq) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Used To](https://open.spotify.com/album/27yHHNg9w1GevcKAxGvyHN) | 2:52 | 2020-10-13\* | 2020-12-11 |
 | [Used To Be \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2EO3Lksm1VxN9s8vOM37ep) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Used To Be \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/06LLUJBC26sXPATpd70hEH) | 3:40 | 2021-03-19 | 2021-05-14 |
 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 | 2021-09-18 | 2021-11-27 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Venus Fly Trap](https://open.spotify.com/track/26iz8aybaiDJiJzltYKv9p) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Venus Fly Trap](https://open.spotify.com/album/1bxcKEDobj7qHOXCEPRH5y) | 2:38 | 2021-06-12 | 2021-08-07 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2023-09-01 |  |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-12-16 | 2023-02-18 |

@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,115 songs - 2 day 11 hr 52 min
+1,117 songs - 2 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,8 @@
 | [Cut My Fingers Off](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [Cut My Fingers Off](https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo) | 2:19 | 2022-02-27 | 2022-03-24 |
 | [Dah Dah DahDah](https://open.spotify.com/track/2TSfStvlAMLw89u3tali79) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:31 | 2022-07-28 | 2022-10-28 |
 | [DANCE NOW](https://open.spotify.com/track/1L4ELcOBZDTTY5rYzqRR50) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [DANCE NOW](https://open.spotify.com/album/5mGmhNRe6fpvNB9gYc4Bxz) | 2:10 | 2023-08-08 | 2023-09-02 |
-| [DANCE NOW](https://open.spotify.com/track/7gRCPtRMklWpshLl559n21) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [DANCE NOW](https://open.spotify.com/album/33QY6ZHO9BxYgAbl4kiMgD) | 2:10 | 2023-08-08 |  |
+| [DANCE NOW](https://open.spotify.com/track/2LPNXtjG3eaIbFBoaMN354) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:10 | 2023-08-08 |  |
+| [DANCE NOW](https://open.spotify.com/track/7gRCPtRMklWpshLl559n21) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [DANCE NOW](https://open.spotify.com/album/33QY6ZHO9BxYgAbl4kiMgD) | 2:10 | 2023-08-08 | 2023-09-11 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-07-20 |  |
 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 | 2022-03-31 | 2022-04-08 |
 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 | 2021-11-08 | 2022-06-21 |
@@ -1039,7 +1040,8 @@
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-02-18 | 2022-10-15 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-12-11 | 2023-07-11 |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2023-05-11 | 2023-05-13 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-06-30 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2021-10-21 | 2022-04-05 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-06-27 | 2022-09-17 |
 | [vent](https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:16 | 2022-05-11 | 2022-06-03 |

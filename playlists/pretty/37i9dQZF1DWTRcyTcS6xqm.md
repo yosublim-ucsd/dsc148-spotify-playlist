@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,449 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,461 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 25 | [Sweet Goddess of Love and Beer](https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Booty And The Beast](https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi) | 4:39 |
 | 26 | [Get Your Groove On](https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 2:23 |
 | 27 | [Blues Party](https://open.spotify.com/track/3o6j1UHNrch5Xigvyn3jZA) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 4:48 |
-| 28 | [Hot](https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:44 |
-| 29 | [Good Thing](https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:29 |
+| 28 | [Good Thing](https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:29 |
+| 29 | [Hot](https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:44 |
 | 30 | [Whatcha Gon' Do](https://open.spotify.com/track/3vuaT3eh47OoyjFtCjDyta) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [The Bookends](https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU) | 3:27 |
 | 31 | [The Lucky Ones](https://open.spotify.com/track/0htOaNZzBUZFd31Puajgbz) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Ice Queen](https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe) | 3:43 |
 | 32 | [Show Me](https://open.spotify.com/track/4hNETR2geBfWVzGDe6Qmvn) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI), [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Times Have Changed](https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 49 | [Little Juke Joint](https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Show Of Strength](https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3) | 6:00 |
 | 50 | [Mr\. Loving Man](https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 3:34 |
 
-Snapshot ID: `MCxlZDk5Y2UzMjAwMmJmYjUwMTNiOTRjZmRjNjg4ZDE5YWExY2QwMTk4`
+Snapshot ID: `MCxiY2JiMGM1MzQ1ZmJkNmQzYzhlODhjZmFlOGVjYjA3OGZkMGYyOTVl`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 80767,
+  "num_followers": 80805,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTBkNTBhMjA4OGJiYjNjMzljMGQ0YTAwODJhMGQ5Njc2MTc4MDM4",
+  "snapshot_id": "MCw2NjdkNWM4YzkxZDc0MjdkNmZkYjJkY2QwOWFkNTVhMTFiZTY0OTUy",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Thug Love",
+        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Teke Fren",
         "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Thug Love",
-        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Thug Love",
-      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Premye Fwa",
         "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Roberto Martino",
-          "url": "https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3"
-        }
-      ],
-      "duration_ms": 363533,
-      "name": "Tu me touches",
-      "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "2 Gouden",
         "url": "https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 229489,
       "name": "2 Gouden",
       "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Roberto Martino",
+          "url": "https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3"
+        }
+      ],
+      "duration_ms": 363533,
+      "name": "Tu me touches",
+      "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Troubadour",
-        "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
+        "name": "White Flower",
+        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
       },
       "artists": [
         {
-          "name": "Beken",
-          "url": "https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ"
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
         }
       ],
-      "duration_ms": 215026,
-      "name": "Kote'w Te Ye",
-      "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
+      "duration_ms": 144118,
+      "name": "White Flower",
+      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "White Flower",
-        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
+        "name": "Troubadour",
+        "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
       },
       "artists": [
         {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+          "name": "Beken",
+          "url": "https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ"
         }
       ],
-      "duration_ms": 144118,
-      "name": "White Flower",
-      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
+      "duration_ms": 215026,
+      "name": "Kote'w Te Ye",
+      "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Come to My Bedroom",
-        "url": "https://open.spotify.com/album/2vYwjJsZHvUDwfiAXS8LP9"
-      },
-      "artists": [
-        {
-          "name": "JHK No AKA",
-          "url": "https://open.spotify.com/artist/2jrzJQBx9kjJJpAJwKFT5A"
-        },
-        {
-          "name": "Meza45",
-          "url": "https://open.spotify.com/artist/55PvXIRqh23ng6LNpKDoUk"
-        }
-      ],
-      "duration_ms": 141955,
-      "name": "Come to My Bedroom",
-      "url": "https://open.spotify.com/track/5fnGy4kjvO08yxiFkVt1bG"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "BIDIBAM",
         "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 190143,
       "name": "BIDIBAM",
       "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Come to My Bedroom",
+        "url": "https://open.spotify.com/album/2vYwjJsZHvUDwfiAXS8LP9"
+      },
+      "artists": [
+        {
+          "name": "JHK No AKA",
+          "url": "https://open.spotify.com/artist/2jrzJQBx9kjJJpAJwKFT5A"
+        },
+        {
+          "name": "Meza45",
+          "url": "https://open.spotify.com/artist/55PvXIRqh23ng6LNpKDoUk"
+        }
+      ],
+      "duration_ms": 141955,
+      "name": "Come to My Bedroom",
+      "url": "https://open.spotify.com/track/5fnGy4kjvO08yxiFkVt1bG"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "HEIR",
+        "url": "https://open.spotify.com/album/3T6M72BEaI5JDxiN3IA6MY"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebl",
+          "url": "https://open.spotify.com/artist/0pYtFQrraTHBhzoAZqhoKi"
+        },
+        {
+          "name": "indapond",
+          "url": "https://open.spotify.com/artist/0OPYYtuQ7qbCpMN9mumNCY"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "BELLY OF THE BEAST",
+      "url": "https://open.spotify.com/track/57MenuBWGgoXfDLxujgnxZ"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Say It Like",
         "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
       },
@@ -1839,26 +1859,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "HEIR",
-        "url": "https://open.spotify.com/album/3T6M72BEaI5JDxiN3IA6MY"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00ebl",
-          "url": "https://open.spotify.com/artist/0pYtFQrraTHBhzoAZqhoKi"
-        },
-        {
-          "name": "indapond",
-          "url": "https://open.spotify.com/artist/0OPYYtuQ7qbCpMN9mumNCY"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "BELLY OF THE BEAST",
-      "url": "https://open.spotify.com/track/57MenuBWGgoXfDLxujgnxZ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Nan ou",
         "url": "https://open.spotify.com/album/6hofahig2OrGv725bqsmo3"
       },
@@ -1871,6 +1871,22 @@
       "duration_ms": 226520,
       "name": "Nan ou",
       "url": "https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+      },
+      "artists": [
+        {
+          "name": "Tadia",
+          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1891,22 +1907,6 @@
       "duration_ms": 400388,
       "name": "Ayizan",
       "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
-      },
-      "artists": [
-        {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     }
   ],
   "unique_name": "Haitian Heat",

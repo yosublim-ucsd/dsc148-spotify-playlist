@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,313 likes - 125 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,372 likes - 125 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 20 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 |
 | 21 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
 | 22 | [Young Blood](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 |
-| 23 | [American Money](https://open.spotify.com/track/4AewKenHXKBt643p473xCk) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:20 |
+| 23 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 |
 | 24 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
-| 25 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 |
+| 25 | [American Money](https://open.spotify.com/track/4AewKenHXKBt643p473xCk) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:20 |
 | 26 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 27 | [Wait for Me](https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:30 |
 | 28 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 48 | [The Way](https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Way](https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i) | 3:54 |
 | 49 | [Alaska](https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [11:11](https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE) | 2:05 |
 | 50 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 |
-| 51 | [Bloodstream](https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3) | [Stateless](https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH) | [Stateless](https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS) | 5:13 |
-| 52 | [It Won't Always Be Like This](https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg) | 4:04 |
+| 51 | [It Won't Always Be Like This](https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg) | 4:04 |
+| 52 | [Bloodstream](https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3) | [Stateless](https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH) | [Stateless](https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS) | 5:13 |
 | 53 | [Electric Indigo](https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [twelvefour](https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t) | 3:43 |
 | 54 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
 | 55 | [Honest \- From The Amazing Spider\-Man 2 Soundtrack](https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [The Amazing Spider\-Man 2 \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R) | 3:57 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 77 | [Box in a Heart \(with renforshort\)](https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Box in a Heart \(with renforshort\)](https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3) | 2:51 |
 | 78 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 | 79 | [Your Touch](https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Hello Sunshine](https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud) | 3:45 |
-| 80 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 |
-| 81 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 |
+| 80 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 |
+| 81 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 |
 | 82 | [The World Ender](https://open.spotify.com/track/3NNimGud58iHka1LHkda6D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:30 |
 | 83 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 |
 | 84 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 87 | [King](https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [King](https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ) | 3:12 |
 | 88 | [Violet City](https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 3:33 |
 | 89 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX) | 3:56 |
-| 90 | [Cry Baby](https://open.spotify.com/track/3epaLFj2ClmXnvcuxHsih5) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Never Had to Leave](https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7) | 3:41 |
-| 91 | [Something Here](https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 4:05 |
+| 90 | [Something Here](https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 4:05 |
+| 91 | [Cry Baby](https://open.spotify.com/track/3epaLFj2ClmXnvcuxHsih5) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Never Had to Leave](https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7) | 3:41 |
 | 92 | [Darlin'](https://open.spotify.com/track/4Ppc2CyPzXObEOLgDkP5ZR) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 5:00 |
 | 93 | [Guitar Beat](https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Guitar Beat](https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw) | 3:25 |
 | 94 | [Spirit Cold](https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:38 |
@@ -108,9 +108,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 98 | [Temporary Love](https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W) | [The Brinks](https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz) | [Temporary Love](https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc) | 3:25 |
 | 99 | [Set Yourself Free](https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Set Yourself Free](https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr) | 3:05 |
 | 100 | [Nothing Personal](https://open.spotify.com/track/4fzOCrzbRLppR4wkN8bFzz) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:26 |
-| 101 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 |
+| 101 | [Stars Are on Your Side](https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Stars Are on Your Side](https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar) | 3:38 |
 | 102 | [Method to the Madness](https://open.spotify.com/track/0ubaYhZGFOEvEA1vMciCgN) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 4:33 |
-| 103 | [Stars Are on Your Side](https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Stars Are on Your Side](https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar) | 3:38 |
+| 103 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 |
 | 104 | [It's Too Much](https://open.spotify.com/track/3kr9H1n5OHezIhj8oA9gOX) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I Don't Think I Can Do This Anymore](https://open.spotify.com/album/2Kq0O56yHIBpLJ0Oc2FjGe) | 3:56 |
 | 105 | [I See You](https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [I See You](https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p) | 3:48 |
 | 106 | [Help Me to Feel Again](https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Help Me to Feel Again](https://open.spotify.com/album/656dTune8st7zgtyUljuGH) | 4:22 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 124 | [Past Lives](https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:43 |
 | 125 | [IFK \(i fucking know\)](https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [IFK \(i fucking know\)](https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66) | 3:15 |
 
-Snapshot ID: `MCw0ZGQ3M2YzYWM2ZTVjODgxNGQ5MzY4OTZhMWVlOGYwYjIxMTQyM2M5`
+Snapshot ID: `MCxjYjlmMjQyODRkYTYxMGE4ZDY1MWU0YzkyODM2MmQxZDY3ODlkMWQ5`

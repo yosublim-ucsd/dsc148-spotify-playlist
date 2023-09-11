@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,117 likes - 37 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,119 likes - 37 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 36 | [To Write Content](https://open.spotify.com/track/5x0Jn9gZDKu0IO6pXaQrKr) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 2:57 |
 | 37 | [Nine](https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 0:44 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDA0ZGJlOTkwNDhiNDVlM2YxMjkwMmUyODFmNjFhODA1ZQ==`
+Snapshot ID: `MjgyMzkwNzcsMDAwMDAwMDBiMmJlYzE5YzBlYWMwYjkwY2ZlMDk5ZTMxZDU1MWUxOA==`

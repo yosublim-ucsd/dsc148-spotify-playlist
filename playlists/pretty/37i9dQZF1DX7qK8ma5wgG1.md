@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 
 > Songs for a broken heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,716,544 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,717,328 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
-| 2 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 2 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 3 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 |
 | 4 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 5 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 | 79 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 |
 | 80 | [Boyfriend Of The Year \(Sadder\)](https://open.spotify.com/track/07vp6uxlDyqDPhjLWhFbSI) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Boyfriend Of The Year \(Sadder\)](https://open.spotify.com/album/74TSVzcVGWahrH8YahztM2) | 3:21 |
 
-Snapshot ID: `MCxhOWIyY2ZiOTIxZDcwMWMwNTdhOWVkZjEzNjIwZGI0ZGNiODc0YjE4`
+Snapshot ID: `MCwyN2ZkZjRhYzE5OWFjNmI3MTdmYzU5YTNhMWI1NThiZGNjZTY3MDA4`

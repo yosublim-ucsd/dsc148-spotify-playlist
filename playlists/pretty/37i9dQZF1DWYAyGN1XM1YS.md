@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,322 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,424 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame & Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 |
 | 50 | [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 |
 
-Snapshot ID: `MCwyMzM1MjM1M2JhYmZmNzUxNWQ1ZjBjZTNkOTYyNGM2OGIxZGNlMDY2`
+Snapshot ID: `MCw3MzhiNzg4Njg1ODIzN2U2ODI2OTY5MTdlNWRhOTAwMDVmMTNjYTg0`

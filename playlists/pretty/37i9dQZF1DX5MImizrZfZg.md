@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,426 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,484 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kisses in the Rain](https://open.spotify.com/track/0xGa0PyJsByzRajl8KYefg) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 4:32 |
 | 2 | [Tequila Moon](https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5) | 4:36 |
 | 3 | [I'm Waiting For You](https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Lil' Man Soul](https://open.spotify.com/album/3GPPcFHouTopuZons7w27s) | 4:05 |
-| 4 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 |
-| 5 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 |
+| 4 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 |
+| 5 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 |
 | 6 | [Pacifica](https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 4:16 |
 | 7 | [11:58](https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Candy Store](https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp) | 4:02 |
 | 8 | [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 13 | [Let It Flow](https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Night On The Town](https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq) | 4:49 |
 | 14 | [Dreaming Of You](https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 3:54 |
 | 15 | [Waiting](https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 5:26 |
-| 16 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 5:07 |
-| 17 | [Keepin' It Cool](https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 3:34 |
+| 16 | [Keepin' It Cool](https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 3:34 |
+| 17 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 5:07 |
 | 18 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
 | 19 | [Soul Dream](https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Tim Bowman](https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e) | 5:02 |
 | 20 | [Do You Wanna Dance](https://open.spotify.com/track/6lOaVShahOYSeDR2RS0b9l) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 3:38 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 40 | [Keepin' It Real](https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R) | [Joe McBride](https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs) | [Keepin' It Real](https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW) | 5:01 |
 | 41 | [Frobidden Fruit](https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Elixir](https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV) | 3:22 |
 | 42 | [Honey\-Dipped](https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Saxophonic](https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l) | 4:23 |
-| 43 | [Tale of Two Cities](https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Talk of the Town](https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7) | 4:15 |
-| 44 | [Just Like The First Time](https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV) | [Kevin Toney](https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0) | [110 Degrees and Rising](https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU) | 4:39 |
+| 43 | [Just Like The First Time](https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV) | [Kevin Toney](https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0) | [110 Degrees and Rising](https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU) | 4:39 |
+| 44 | [Tale of Two Cities](https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Talk of the Town](https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7) | 4:15 |
 | 45 | [Make It Happen](https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9) | [Jay Soto](https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf) | [Stay Awhile](https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1) | 4:15 |
 | 46 | [4 On The Floor](https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Kickin' It Up](https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB) | 4:27 |
 | 47 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [Say Something](https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs) | [Shilts](https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2) | [HeadBoppin \(with bonus track\)](https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE) | 4:08 |
 | 50 | [To Be Like Him](https://open.spotify.com/track/4dZmmXWPVZBOiQ9Sszqe78) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Lay It Back](https://open.spotify.com/album/5g00ZHexA6LNzsvtdJ7dJQ) | 5:35 |
 
-Snapshot ID: `MCxlYzVjNjQ4MjUxOTk5MDE4NTI5YmQyMWZiODYyMmU2Y2MzOTJiNDkz`
+Snapshot ID: `MCxkMGI5ZDI2NTUwZjAyNTE4NWI3ZDJhOWJjNjVkMGVhNWRlZDAyYTVl`

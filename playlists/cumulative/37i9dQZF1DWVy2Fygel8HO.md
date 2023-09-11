@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-108 songs - 4 hr 25 min
+109 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Recognition](https://open.spotify.com/track/27PUypwEvP5YExUEFUGg8n) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Recognition](https://open.spotify.com/album/4vKS3tCofv0jYyNUPsyKxE) | 2:52 | 2023-05-09 |  |
 | [Reframe](https://open.spotify.com/track/1sINJB2tVaHV5r3iKCACHv) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reframe](https://open.spotify.com/album/3XJLsmXh2yyehGaUn0FWDC) | 2:07 | 2023-05-09 |  |
 | [Renewal](https://open.spotify.com/track/2STf9iJMbxyXZQeea5lrdG) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Renewal](https://open.spotify.com/album/3zfRRxr2fMQNGUatRbhpNL) | 2:19 | 2023-05-09 |  |
-| [Resting Song](https://open.spotify.com/track/5x2fu50qw3r9BMonmvq5s6) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/4i9tNd1I94lnoGx29ZAOaQ) | 2:51 | 2023-06-20 |  |
+| [Resting Song](https://open.spotify.com/track/4WOs0AimEhI7qi4IHS3JNC) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/5ulVV8sUhnWnb1RoQPXyzv) | 2:51 | 2023-08-15 |  |
+| [Resting Song](https://open.spotify.com/track/5x2fu50qw3r9BMonmvq5s6) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/4i9tNd1I94lnoGx29ZAOaQ) | 2:51 | 2023-06-20 | 2023-09-11 |
 | [resting song](https://open.spotify.com/track/0xLmbr7Y8dCbwwMoh2tL5P) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/3RwV4LNPI9WlWatCEaPtsd) | 2:51 | 2023-05-09 | 2023-08-05 |
 | [Riverun](https://open.spotify.com/track/0hIyFd8XwSIrbYhxko1zYE) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Riverun](https://open.spotify.com/album/4E3ZjKxD8RVt9OPTAYEG3y) | 1:30 | 2023-05-09 |  |
 | [Romance no 1 "Nordica"](https://open.spotify.com/track/5yWWqRGYKTfSoFTYKAnDlo) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Romance no 1 "Nordica"](https://open.spotify.com/album/4ax1MdqYOUcrhrYPlgPfA5) | 2:52 | 2023-05-09 |  |

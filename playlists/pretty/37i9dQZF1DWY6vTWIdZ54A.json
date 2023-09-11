@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 480868,
+  "num_followers": 481007,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWJlMTFiMDQ0YjRkNDgzNTc4NTEwYzA0MjAwNWNmYTQ2NmYwNTlh",
+  "snapshot_id": "MCwzMzMxMzFmNjE5OTEwYTc1MDY5MGFjYjU2YmU0ODIyM2I3YjU3NThk",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Mountains At Midnight",
-        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
+        "name": "Higher Truth",
+        "url": "https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
         }
       ],
-      "duration_ms": 186196,
-      "name": "Mountains At Midnight",
-      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
+      "duration_ms": 234426,
+      "name": "Nearly Forgot My Broken Heart",
+      "url": "https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Higher Truth",
-        "url": "https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl"
+        "name": "Mountains At Midnight",
+        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
       },
       "artists": [
         {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 234426,
-      "name": "Nearly Forgot My Broken Heart",
-      "url": "https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ"
+      "duration_ms": 186196,
+      "name": "Mountains At Midnight",
+      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Young Blood",
+        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Save Me Some Sunshine",
         "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 181797,
       "name": "Raised By Wolves",
       "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Young Blood",
-        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Hard Working Man",
-      "url": "https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Sea of Cowards",
-        "url": "https://open.spotify.com/album/5QaEJj1wEqIePsjVtMzReu"
-      },
-      "artists": [
-        {
-          "name": "The Dead Weather",
-          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "I Can't Hear You",
-      "url": "https://open.spotify.com/track/3O1rkVw6tpDizXzHqMZfh5"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Ruthless",
         "url": "https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 187890,
       "name": "The Rush",
       "url": "https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Sea of Cowards",
+        "url": "https://open.spotify.com/album/5QaEJj1wEqIePsjVtMzReu"
+      },
+      "artists": [
+        {
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "I Can't Hear You",
+      "url": "https://open.spotify.com/track/3O1rkVw6tpDizXzHqMZfh5"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Please Don't Be Dead",
-        "url": "https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 217451,
-      "name": "Plastic Hamburgers",
-      "url": "https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Erase You",
         "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 201680,
       "name": "Highway",
       "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Please Don't Be Dead",
+        "url": "https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 217451,
+      "name": "Plastic Hamburgers",
+      "url": "https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Denim & Diamonds",
-        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 187867,
-      "name": "First High",
-      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 210850,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Denim & Diamonds",
+        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 187867,
+      "name": "First High",
+      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Man Of The Moment",
-        "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Man Of The Moment",
-      "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Man Of The Moment",
+        "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Man Of The Moment",
+      "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Love Is All You Love",
         "url": "https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O"
       },
@@ -1607,34 +1623,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+        "name": "Heartache Melody",
+        "url": "https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
         }
       ],
-      "duration_ms": 195358,
-      "name": "Bad Spell",
-      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF"
-      },
-      "artists": [
-        {
-          "name": "little hurricane",
-          "url": "https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2"
-        }
-      ],
-      "duration_ms": 165481,
-      "name": "Haunted Heart",
-      "url": "https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx"
+      "duration_ms": 172140,
+      "name": "Heartache Melody",
+      "url": "https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA"
     }
   ],
   "unique_name": "Dirty Rock",

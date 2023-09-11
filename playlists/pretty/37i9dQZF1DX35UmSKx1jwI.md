@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,765 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,017 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 16 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
 | 17 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 |
 | 18 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 |
-| 19 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 |
-| 20 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 |
+| 19 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 |
+| 20 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 |
 | 21 | [My Love](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4) | 4:19 |
 | 22 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
 | 23 | [Heroes \(we could be\)](https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 59 | [Jerusalema \(feat\. Nomcebo Zikode\) \- Edit](https://open.spotify.com/track/2R7gA9dAHTjASKU0wiTJok) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(feat\. Burna Boy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/album/1HBjNCWaJ2SzolwRxedA9z) | 3:08 |
 | 60 | [House Arrest](https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [House Arrest](https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx) | 3:36 |
 
-Snapshot ID: `MCw2NWYxMzc3Yzc1ZTBjMDFkMzU1OWExMjE4ZjIyZTVlNjhmZjhmNjJk`
+Snapshot ID: `MCxlYWU5NzJhMzQ2MTk3OTJlNGQ0MjFlYzRkOWM0MWRkYzllZDA2OTQ3`

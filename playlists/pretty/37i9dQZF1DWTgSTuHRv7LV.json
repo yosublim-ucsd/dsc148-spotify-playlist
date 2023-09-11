@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Descansa en paz Lefty SM.",
-  "num_followers": 487422,
+  "num_followers": 487591,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2YwNzU4N2ZjY2Q2NTVmMmMzOWI5YTIyZDM2YWQ2OTBkN2Q5NjI5",
+  "snapshot_id": "MCw5Y2U3YjhhZmU4MjU0ZTUwOWVhZGViNDdlYzhhNjAyY2IxOTE2MWMy",
   "tracks": [
     {
       "added_at": "2023-09-08 15:28:15",
@@ -815,46 +815,6 @@
     {
       "added_at": "2023-09-08 15:28:15",
       "album": {
-        "name": "VICE",
-        "url": "https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "VICE",
-      "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"
-    },
-    {
-      "added_at": "2023-09-08 15:28:15",
-      "album": {
-        "name": "100 MILLONES",
-        "url": "https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 237459,
-      "name": "100 MILLONES",
-      "url": "https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL"
-    },
-    {
-      "added_at": "2023-09-08 15:28:15",
-      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -883,6 +843,46 @@
       "duration_ms": 349297,
       "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
       "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
+    },
+    {
+      "added_at": "2023-09-08 15:28:15",
+      "album": {
+        "name": "100 MILLONES",
+        "url": "https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 237459,
+      "name": "100 MILLONES",
+      "url": "https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL"
+    },
+    {
+      "added_at": "2023-09-08 15:28:15",
+      "album": {
+        "name": "VICE",
+        "url": "https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "VICE",
+      "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"
     },
     {
       "added_at": "2023-09-08 15:28:15",
@@ -947,6 +947,26 @@
     {
       "added_at": "2023-09-08 15:28:15",
       "album": {
+        "name": "Joder",
+        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 149300,
+      "name": "Joder",
+      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
+    },
+    {
+      "added_at": "2023-09-08 15:28:15",
+      "album": {
         "name": "HELLCAT",
         "url": "https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 186322,
       "name": "HELLCAT",
       "url": "https://open.spotify.com/track/541bPCQXqcU8mNRV7udEff"
-    },
-    {
-      "added_at": "2023-09-08 15:28:15",
-      "album": {
-        "name": "Joder",
-        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 149300,
-      "name": "Joder",
-      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "added_at": "2023-09-08 15:28:15",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-09-08 15:28:15",
       "album": {
+        "name": "Puerto Rican Mami",
+        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Puerto Rican Mami",
+      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
+    },
+    {
+      "added_at": "2023-09-08 15:28:15",
+      "album": {
         "name": "Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 222857,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"
-    },
-    {
-      "added_at": "2023-09-08 15:28:15",
-      "album": {
-        "name": "Puerto Rican Mami",
-        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Puerto Rican Mami",
-      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
     },
     {
       "added_at": "2023-09-08 15:28:15",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-09-08 15:28:15",
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
-    },
-    {
-      "added_at": "2023-09-08 15:28:15",
-      "album": {
         "name": "SMILE BIX :)",
         "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 167000,
       "name": "La Cara de Loco",
       "url": "https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ"
+    },
+    {
+      "added_at": "2023-09-08 15:28:15",
+      "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
     },
     {
       "added_at": "2023-09-08 15:28:15",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2023-09-08 15:28:15",
       "album": {
-        "name": "Socios",
-        "url": "https://open.spotify.com/album/35aCkilcy42NSM3eQqdYWm"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Socios",
-      "url": "https://open.spotify.com/track/5XEKaGX5bEvZE79KneoLic"
-    },
-    {
-      "added_at": "2023-09-08 15:28:15",
-      "album": {
         "name": "Complicado",
         "url": "https://open.spotify.com/album/00yEYZXNrMn4LUpRGdo4I7"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 240600,
       "name": "Complicado",
       "url": "https://open.spotify.com/track/4ZJ7RLaPYlyKq0LKDZD2Ex"
+    },
+    {
+      "added_at": "2023-09-08 15:28:15",
+      "album": {
+        "name": "CLASE G",
+        "url": "https://open.spotify.com/album/6SuRkKnWq0XW9K0XuwcZpQ"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "CashMoneyAp",
+          "url": "https://open.spotify.com/artist/0vMv24BXeZOK8l3S5SMLri"
+        }
+      ],
+      "duration_ms": 127017,
+      "name": "CLASE G",
+      "url": "https://open.spotify.com/track/3YWUpw4iePPtUDT0qO52Jn"
     },
     {
       "added_at": "2023-09-08 15:28:15",
@@ -1515,6 +1515,26 @@
       "duration_ms": 231100,
       "name": "Milano Town (with DJ Drama, Shiva & Murda Beatz)",
       "url": "https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps"
+    },
+    {
+      "added_at": "2023-09-08 15:28:15",
+      "album": {
+        "name": "Socios",
+        "url": "https://open.spotify.com/album/35aCkilcy42NSM3eQqdYWm"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Socios",
+      "url": "https://open.spotify.com/track/5XEKaGX5bEvZE79KneoLic"
     },
     {
       "added_at": "2023-09-08 15:28:15",
@@ -1551,26 +1571,6 @@
       "duration_ms": 135704,
       "name": "obst\u00e1culo",
       "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
-    },
-    {
-      "added_at": "2023-09-08 15:28:15",
-      "album": {
-        "name": "CLASE G",
-        "url": "https://open.spotify.com/album/6SuRkKnWq0XW9K0XuwcZpQ"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "CashMoneyAp",
-          "url": "https://open.spotify.com/artist/0vMv24BXeZOK8l3S5SMLri"
-        }
-      ],
-      "duration_ms": 127017,
-      "name": "CLASE G",
-      "url": "https://open.spotify.com/track/3YWUpw4iePPtUDT0qO52Jn"
     },
     {
       "added_at": "2023-09-08 15:28:15",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-09-08 15:28:15",
       "album": {
+        "name": "NUDE",
+        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 175718,
+      "name": "NUDE",
+      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
+    },
+    {
+      "added_at": "2023-09-08 15:28:15",
+      "album": {
         "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
         "url": "https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 143500,
       "name": "Cali Kush",
       "url": "https://open.spotify.com/track/1LnbPH4077VghifKw1SFeL"
-    },
-    {
-      "added_at": "2023-09-08 15:28:15",
-      "album": {
-        "name": "NUDE",
-        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 175718,
-      "name": "NUDE",
-      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
     },
     {
       "added_at": "2023-09-08 15:28:15",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2023-09-08 15:28:15",
       "album": {
+        "name": "LQRA Session #14",
+        "url": "https://open.spotify.com/album/4ySdVWAQMgIcytZ2lMbyji"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "LQRA Session #14",
+      "url": "https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7"
+    },
+    {
+      "added_at": "2023-09-08 15:28:15",
+      "album": {
         "name": "El Hombre Hace Planes, Dios Se R\u00ede",
         "url": "https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 351768,
       "name": "Santo Grial",
       "url": "https://open.spotify.com/track/71CmmeQnoVpTAlMtxEevaf"
-    },
-    {
-      "added_at": "2023-09-08 15:28:15",
-      "album": {
-        "name": "LQRA Session #14",
-        "url": "https://open.spotify.com/album/4ySdVWAQMgIcytZ2lMbyji"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "LQRA Session #14",
-      "url": "https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7"
     }
   ],
   "unique_name": "Mucho Rap",

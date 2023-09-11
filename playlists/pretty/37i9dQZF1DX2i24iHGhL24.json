@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 109218,
+  "num_followers": 109305,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmExOWM1ODY2ZjhjNTA3YTMwZjAyNmQ1NTBkOTQ0ZWY5NGI2ZTg1",
+  "snapshot_id": "MCw5NDlkMjk0YTA3NDg0MDY4NzZjZjg1MmY0MjJlMmRhMTY1ZmEwY2Ex",
   "tracks": [
     {
       "added_at": "2023-09-04 16:45:54",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 159651,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 130955,
       "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 159651,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Meet Me At Our Spot",
-        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 137508,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 218253,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Meet Me At Our Spot",
+        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 137508,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "True Colors (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
-      },
-      "artists": [
-        {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "True Colors (Spotify Singles)",
-      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "dancing in the moonlight",
         "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 147457,
       "name": "dancing in the moonlight",
       "url": "https://open.spotify.com/track/0pSLfXI0tYQU2Gvycaw4B6"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "True Colors (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "True Colors (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
-        "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        }
-      ],
-      "duration_ms": 161130,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Cruel Summer (Acoustic Version)",
         "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 176789,
       "name": "Cruel Summer (Acoustic Version)",
       "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
+        "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 161130,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
-      },
-      "artists": [
-        {
-          "name": "Emilee Moore",
-          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
         "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 163680,
       "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
       "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 242915,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "God Is A Woman (Yours Truly: 2018)",
         "url": "https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 217773,
       "name": "God Is A Woman - Yours Truly: 2018",
       "url": "https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 242915,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
-      },
-      "artists": [
-        {
-          "name": "Mint Simon",
-          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/5THybCnLJJ6yELeignV078"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 179333,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
+      },
+      "artists": [
+        {
+          "name": "Mint Simon",
+          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
+        }
+      ],
+      "duration_ms": 217043,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/5THybCnLJJ6yELeignV078"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Nothing Compares 2 U",
-        "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
-      },
-      "artists": [
-        {
-          "name": "COSIMA",
-          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
-        }
-      ],
-      "duration_ms": 259866,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/4X0aM6J4cffAbWDFHMbnLy"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 268437,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5IqCc31SeFJd5C7v2JGq0I"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
+      },
+      "artists": [
+        {
+          "name": "COSIMA",
+          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
     },
     {
       "added_at": "2023-09-04 16:45:54",

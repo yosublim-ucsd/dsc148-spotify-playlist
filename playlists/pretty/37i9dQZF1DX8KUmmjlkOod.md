@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,646 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,769 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 14 | [Un Poco de Amor Francés](https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:26 |
 | 15 | [Te quiero igual](https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 3:55 |
 | 16 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
-| 17 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
-| 18 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
+| 17 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
+| 18 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
 | 19 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 |
 | 20 | [Zoom \- Remasterizado 2007](https://open.spotify.com/track/1djou52IdL1mVEE7gTauxo) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 3:26 |
 | 21 | [Mojada](https://open.spotify.com/track/5N5sbaoN8UvXw8ngNR9iUk) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 6:07 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 73 | [Sin documentos](https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Donde estabas tu..\. en el 93?](https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI) | 4:45 |
 | 74 | [Traición A La Mexicana](https://open.spotify.com/track/3TB8yNtLqwugHCols5sPx3) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc) | [Positiva Vibración](https://open.spotify.com/album/79ObMjPYMUaP3pu8fp7PLd) | 4:10 |
 | 75 | [Desde Lejos No Se Ve](https://open.spotify.com/track/4QdsQSL30AR51ORqBGqbph) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Azul](https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c) | 4:41 |
-| 76 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 |
-| 77 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 |
+| 76 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 |
+| 77 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 |
 | 78 | [Por primera vez](https://open.spotify.com/track/4T5F6QmjDC5I4w0Rqu0yCf) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Irremplazables](https://open.spotify.com/album/6LE66jIaVUHBNtiH0hXDAv) | 4:00 |
 | 79 | [Nada es para siempre](https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Eduardo Bergallo](https://open.spotify.com/artist/0iO7GoHspdzqLANoFLZz78) | [Sol en Cinco](https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S) | 5:28 |
 | 80 | [Aquí no podemos hacerlo](https://open.spotify.com/track/69ag2gM05lwYtR9qlJmTBC) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 4:36 |
 
-Snapshot ID: `MCwxNjA2ZTA4MDg0ZGYxODVhNzIxNzYxN2FjYzYzMWM0YzZjY2Q4N2Ji`
+Snapshot ID: `MCxiN2I3YTU4MTZjMmU0OGZjMjcyY2I5OWFhMTJkYjhiNWE4ZDQwZDdi`

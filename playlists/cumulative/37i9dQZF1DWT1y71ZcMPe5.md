@@ -4,7 +4,7 @@
 
 > The hottest songs you need to listen to right now\. Cover: Nicki Minaj
 
-197 songs - 10 hr 20 min
+198 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-07 |  |
 | [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-03-20 | 2023-03-28 |
 | [My Bad](https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [My Bad](https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b) | 2:27 | 2023-07-31 | 2023-08-22 |
-| [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [X&G](https://open.spotify.com/artist/0J8vnuLl37meRjZttkpCBP) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-28 |  |
+| [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-28 |  |
 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 | 2023-09-04 |  |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2023-03-20 |  |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-03-20 |  |
@@ -186,7 +186,8 @@
 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 | 2023-06-19 | 2023-08-29 |
 | [TRAINWRECK](https://open.spotify.com/track/5j8USqbwYjEa0pP8lgphzy) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [TRAINWRECK](https://open.spotify.com/album/4oTGRL1a4DbCYR0Fl37dzW) | 3:03 | 2023-07-10 | 2023-08-08 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-28 |  |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-03 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-04 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-03 | 2023-09-11 |
 | [van gogh](https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [van gogh](https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi) | 2:53 | 2023-03-20 | 2023-05-16 |
 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 | 2023-06-12 | 2023-07-11 |
 | [WANDERLUST](https://open.spotify.com/track/6zVGBoBfrQMnRKjbpq3CCu) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs ATLAS](https://open.spotify.com/album/0yBWjskxPbREPbFqcEQjBl) | 3:16 | 2023-08-28 |  |

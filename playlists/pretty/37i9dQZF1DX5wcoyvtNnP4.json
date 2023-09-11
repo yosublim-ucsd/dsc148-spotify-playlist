@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 493556,
+  "num_followers": 493601,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGQ2OWUxOGMwMjVjNWQ1OTY1ODNhZDcxMjljNjgzNTdiNjJiMWNk",
+  "snapshot_id": "MCwzM2Y1ODFkY2RkODkyNDBjM2YyOTI3ZjVjMTdkZGE5NTExMmQ2MjVi",
   "tracks": [
     {
       "added_at": "2023-09-08 11:04:56",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-09-08 11:04:56",
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
+    },
+    {
+      "added_at": "2023-09-08 11:04:56",
+      "album": {
         "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
         "url": "https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 175150,
       "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
       "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
-    },
-    {
-      "added_at": "2023-09-08 11:04:56",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
     },
     {
       "added_at": "2023-09-08 11:04:56",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-09-08 11:04:56",
       "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 175671,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
+    },
+    {
+      "added_at": "2023-09-08 11:04:56",
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD"
-    },
-    {
-      "added_at": "2023-09-08 11:04:56",
-      "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
-      },
-      "artists": [
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 175671,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
     },
     {
       "added_at": "2023-09-08 11:04:56",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-09-08 11:04:56",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/1JQOUrnGO8cW4ozVKAIbID"
-      },
-      "artists": [
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        }
-      ],
-      "duration_ms": 174998,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/0kDI42WWRwsrKAmE7wmQbt"
-    },
-    {
-      "added_at": "2023-09-08 11:04:56",
-      "album": {
         "name": "Rain In Ibiza",
         "url": "https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 141931,
       "name": "Rain In Ibiza",
       "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
+    },
+    {
+      "added_at": "2023-09-08 11:04:56",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/1JQOUrnGO8cW4ozVKAIbID"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        }
+      ],
+      "duration_ms": 174998,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0kDI42WWRwsrKAmE7wmQbt"
     },
     {
       "added_at": "2023-09-08 11:04:56",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-09-08 11:04:56",
       "album": {
-        "name": "Sweet Goodbye",
-        "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "Sweet Goodbye",
-      "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
-    },
-    {
-      "added_at": "2023-09-08 11:04:56",
-      "album": {
         "name": "Questions",
         "url": "https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 177156,
       "name": "Questions",
       "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
+    },
+    {
+      "added_at": "2023-09-08 11:04:56",
+      "album": {
+        "name": "Sweet Goodbye",
+        "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "Sweet Goodbye",
+      "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
     },
     {
       "added_at": "2023-09-08 11:04:56",
@@ -955,6 +955,26 @@
     {
       "added_at": "2023-09-08 11:04:56",
       "album": {
+        "name": "Do It Better (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 170045,
+      "name": "Do It Better (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
+    },
+    {
+      "added_at": "2023-09-08 11:04:56",
+      "album": {
         "name": "Somewhere in Between",
         "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 180213,
       "name": "One with the Wolves",
       "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
-    },
-    {
-      "added_at": "2023-09-08 11:04:56",
-      "album": {
-        "name": "Do It Better (feat. Zoe Wees)",
-        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 170045,
-      "name": "Do It Better (feat. Zoe Wees)",
-      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
     },
     {
       "added_at": "2023-09-08 11:04:56",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-09-08 11:04:56",
       "album": {
-        "name": "Sun Will Shine",
-        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Sun Will Shine",
-      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2023-09-08 11:04:56",
-      "album": {
         "name": "Daydreamer",
         "url": "https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF"
       },
@@ -1179,6 +1159,46 @@
     {
       "added_at": "2023-09-08 11:04:56",
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7qnMJEfvGH0G9X6Y3RgJrP"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg"
+    },
+    {
+      "added_at": "2023-09-08 11:04:56",
+      "album": {
+        "name": "Sun Will Shine",
+        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Sun Will Shine",
+      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
+    },
+    {
+      "added_at": "2023-09-08 11:04:56",
+      "album": {
         "name": "One Last Time (with R3HAB) (feat. Enny-Mae)",
         "url": "https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 155097,
       "name": "One Last Time (with R3HAB) (feat. Enny-Mae)",
       "url": "https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw"
-    },
-    {
-      "added_at": "2023-09-08 11:04:56",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/7qnMJEfvGH0G9X6Y3RgJrP"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Hanne Mj\u00f8en",
-          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg"
     },
     {
       "added_at": "2023-09-08 11:04:56",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2023-09-08 11:04:56",
       "album": {
-        "name": "The Best Part of Life (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 198979,
-      "name": "The Best Part of Life (Imanbek Remix)",
-      "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
-    },
-    {
-      "added_at": "2023-09-08 11:04:56",
-      "album": {
         "name": "Aloha Hey",
         "url": "https://open.spotify.com/album/7ELEr0qyuFuYvSgvf4lq8u"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 154631,
       "name": "Aloha Hey",
       "url": "https://open.spotify.com/track/5puSdpASkBcy4MI4EpLYbg"
+    },
+    {
+      "added_at": "2023-09-08 11:04:56",
+      "album": {
+        "name": "The Best Part of Life (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 198979,
+      "name": "The Best Part of Life (Imanbek Remix)",
+      "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
     },
     {
       "added_at": "2023-09-08 11:04:56",

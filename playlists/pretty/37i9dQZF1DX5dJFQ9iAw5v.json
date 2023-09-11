@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 31013,
+  "num_followers": 31026,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2M1OGRlY2FkYWNmMDNkMzk5MzkzZTZkOTUxYjFiNTllYTExMDk1",
+  "snapshot_id": "MCxhNDQyMGNjMTI2Njc1ZjY5ZDFmNWJlNzU4MDJhMjU1ODYyMGVlZTY5",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:45",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "El Bosque Brillante",
-        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
-      },
-      "artists": [
-        {
-          "name": "Lucio Balduini",
-          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "En Busca de la Tierra Sin Mal",
-      "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "Acto 2",
         "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 353220,
       "name": "Mi Elemento",
       "url": "https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "El Bosque Brillante",
+        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
+      },
+      "artists": [
+        {
+          "name": "Lucio Balduini",
+          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "En Busca de la Tierra Sin Mal",
+      "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "L\u00fadico",
+        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
+      },
+      "artists": [
+        {
+          "name": "Francisco De Rosa",
+          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
+        },
+        {
+          "name": "Francisco De Rosa Quinteto",
+          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
+        }
+      ],
+      "duration_ms": 306999,
+      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
+      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "Pettinato Plays Garc\u00eda",
         "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
       },
@@ -855,50 +875,6 @@
       "duration_ms": 339612,
       "name": "Veinte Trajes Verdes",
       "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "L\u00fadico",
-        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
-      },
-      "artists": [
-        {
-          "name": "Francisco De Rosa",
-          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
-        },
-        {
-          "name": "Francisco De Rosa Quinteto",
-          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
-        }
-      ],
-      "duration_ms": 306999,
-      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
-      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
-        }
-      ],
-      "duration_ms": 493933,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -943,18 +919,26 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
       "artists": [
         {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
         }
       ],
-      "duration_ms": 361280,
-      "name": "Viva Jujuy",
-      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
+      "duration_ms": 493933,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -991,6 +975,22 @@
       "duration_ms": 305108,
       "name": "Learning the Blues - En Vivo",
       "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+      },
+      "artists": [
+        {
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+        }
+      ],
+      "duration_ms": 361280,
+      "name": "Viva Jujuy",
+      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "...Baby One More Time",
+        "url": "https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M"
+      },
+      "artists": [
+        {
+          "name": "Manto de Carne",
+          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "Mensajes Secretos",
         "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 524134,
       "name": "Wave",
       "url": "https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "...Baby One More Time",
-        "url": "https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M"
-      },
-      "artists": [
-        {
-          "name": "Manto de Carne",
-          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "...Baby One More Time",
-      "url": "https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "El Drag\u00f3n Blanco",
-        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
-      },
-      "artists": [
-        {
-          "name": "Patricio Carpossi",
-          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "Las Tardecitas de Miton's",
         "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 368586,
       "name": "Cafetin de Buenos Aires",
       "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "El Drag\u00f3n Blanco",
+        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
+      },
+      "artists": [
+        {
+          "name": "Patricio Carpossi",
+          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
+        }
+      ],
+      "duration_ms": 286373,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Piano Tuerto",
-        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
       },
       "artists": [
         {
-          "name": "Leo Genovese",
-          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
         }
       ],
-      "duration_ms": 326666,
-      "name": "Luna en Nueva York",
-      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+        "name": "Piano Tuerto",
+        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
       },
       "artists": [
         {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+          "name": "Leo Genovese",
+          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
         }
       ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
+      "duration_ms": 326666,
+      "name": "Luna en Nueva York",
+      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
     },
     {
       "added_at": "2023-08-11 14:55:45",

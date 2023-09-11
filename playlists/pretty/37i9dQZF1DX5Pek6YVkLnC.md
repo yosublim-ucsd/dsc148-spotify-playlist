@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,669 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,705 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 12 | [Porche Carrera](https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF) | [DimeWest](https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Porche Carrera](https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn) | 3:08 |
 | 13 | [TAN CAGAU](https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [TAN CAGAU](https://open.spotify.com/album/6qKfE7JFAQcMn1Pj7Sxxlv) | 3:05 |
 | 14 | [Mi Vicio \- Remix](https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Mi Vicio \(Remix\)](https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr) | 4:44 |
-| 15 | [obstáculo](https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [obstáculo](https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori) | 2:15 |
-| 16 | [Lo Que Se Va](https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [CONXSIÓN](https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW) | 4:13 |
-| 17 | [Invicta](https://open.spotify.com/track/7xlnIcw4lE6BMATPQXnqHf) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Invicta](https://open.spotify.com/album/0TtmDFGPisyjYmdtWfN9DH) | 4:00 |
-| 18 | [Right Thru](https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Right Thru](https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW) | 2:46 |
+| 15 | [Lo Que Se Va](https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [CONXSIÓN](https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW) | 4:13 |
+| 16 | [obstáculo](https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [obstáculo](https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori) | 2:15 |
+| 17 | [Right Thru](https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Right Thru](https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW) | 2:46 |
+| 18 | [Invicta](https://open.spotify.com/track/7xlnIcw4lE6BMATPQXnqHf) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Invicta](https://open.spotify.com/album/0TtmDFGPisyjYmdtWfN9DH) | 4:00 |
 | 19 | [Randy Johnson](https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Randy Johnson](https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85) | 2:32 |
 | 20 | [Quien Va a Frontiar \- Remix](https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quien Va a Frontiar \(Remix\)](https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8) | 5:17 |
 | 21 | [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [Los Costos](https://open.spotify.com/track/0ZAYDTMC8NhYlKehcG9uZC) | [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Uno X Ciento](https://open.spotify.com/album/2eIR3IdzD32qKQQuLeQOXM) | 3:09 |
 | 50 | [Quiero](https://open.spotify.com/track/4Lxsnyn9yJnkkHZKTAQynR) | [Mhane](https://open.spotify.com/artist/7iZYxykcEg1PSVTW7cWdqK), [Robert Taylor](https://open.spotify.com/artist/1PbZZhQGxXdxgrcR1W8Ete) | [Quiero](https://open.spotify.com/album/20gGKogH9MsM0IegKgrX5f) | 2:58 |
 
-Snapshot ID: `MCwxZThkMjJlZmY2ZGYxZjg2NDE3OGU0NDdmMmYyMGUyMGNiZmU1ZDRj`
+Snapshot ID: `MCw5MDA1ODJiNTlkN2I0NWU0MDk0OGU3YWUyNzIxMzE3NmI0NTA5ZWUx`

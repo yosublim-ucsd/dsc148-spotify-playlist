@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,247 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,274 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 25 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
 | 26 | [Christmas Don't Be Late](https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 2:40 |
 | 27 | [Home For The Holidays](https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 3:34 |
-| 28 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 2:54 |
-| 29 | [Sugar Rum Cherry \(Dance of the Sugar\-Plum Fairy\)](https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Three Suites](https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS) | 3:05 |
-| 30 | [Santa Baby](https://open.spotify.com/track/1VKndPOz75Bk97MT4Jg46Z) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Santa Baby](https://open.spotify.com/album/2RqEmOKf7AE3yeGMAQR3mJ) | 2:56 |
+| 28 | [Santa Baby](https://open.spotify.com/track/1VKndPOz75Bk97MT4Jg46Z) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Santa Baby](https://open.spotify.com/album/2RqEmOKf7AE3yeGMAQR3mJ) | 2:56 |
+| 29 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 2:54 |
+| 30 | [Sugar Rum Cherry \(Dance of the Sugar\-Plum Fairy\)](https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Three Suites](https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS) | 3:05 |
 | 31 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/53oBX4dx0KGxIaAWCFSjks) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 3:20 |
-| 32 | [Silver Bells](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 |
-| 33 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 |
+| 32 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 |
+| 33 | [Silver Bells](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 |
 | 34 | [We Wish You The Merriest](https://open.spotify.com/track/64BOvPBfvWbBPIGKTFWIpG) | [John Tesh](https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r) | [Big Band Christmas](https://open.spotify.com/album/2qm9Aa5cwAnIg3KnMcDJdN) | 2:13 |
 | 35 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc) | 2:57 |
 | 36 | [A Nightingale Sang In Berkeley Square \(duet with Gloria Estefan\)](https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined](https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare) | 4:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 49 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7DESENONjlQosUbxToDKOy) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:06 |
 | 50 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 |
 
-Snapshot ID: `MCwwMjgwNDE4NTQwMjBiYzE5YjQwODdkZjQzZmU1MzZjZmQwMGQ4NTI5`
+Snapshot ID: `MCw0NWRhNGZkODMwODVjMzZmMTI5NzQ2NThmNTZlNmFkZjcxYmVmNDhi`

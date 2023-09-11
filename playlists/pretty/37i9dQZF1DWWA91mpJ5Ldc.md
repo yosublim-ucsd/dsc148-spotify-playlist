@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,658 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,705 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 28 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
 | 29 | [Na Estrada](https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Céu Lilás \- Na Estrada](https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV) | 3:38 |
 | 30 | [Boa Noite](https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 5:47 |
-| 31 | [Fiz Pra Você](https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fiz Pra Você](https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H) | 3:12 |
-| 32 | [Argumento \(Spotify Singles\)](https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \(Spotify Singles\)](https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG) | 3:23 |
+| 31 | [Argumento \(Spotify Singles\)](https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \(Spotify Singles\)](https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG) | 3:23 |
+| 32 | [Fiz Pra Você](https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fiz Pra Você](https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H) | 3:12 |
 | 33 | [Todo Carinho](https://open.spotify.com/track/118239i3aWkav7mlAmldh9) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 4:29 |
 | 34 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 |
 | 35 | [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 57 | [Em Outro Lugar](https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa) | 3:37 |
 | 58 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 |
 | 59 | [Enquanto Durmo](https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:04 |
-| 60 | [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 |
+| 60 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
 
-Snapshot ID: `MCxjZWExNDZjZGIzZmM5NGI3YjM3NjU5OWIxM2IxNjhjMjA0OWFhMzQ1`
+Snapshot ID: `MCwwNzIyOTVlNjQzZjk2NDhjNTlhMDMwZWUzYjk5YWFlYjdmMzJmZmNi`

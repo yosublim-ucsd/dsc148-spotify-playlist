@@ -1578,7 +1578,7 @@
     {
       "album": {
         "name": "Coraz\u00f3n Roto pt. 3",
-        "url": "https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw"
+        "url": "https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u"
       },
       "artists": [
         {
@@ -1605,6 +1605,40 @@
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 348400,
+      "name": "Coraz\u00f3n Roto pt. 3",
+      "url": "https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Roto pt. 3",
+        "url": "https://open.spotify.com/album/6jDXkpmEPhs6gylGCN4Guw"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-11",
       "duration_ms": 348720,
       "name": "Coraz\u00f3n Roto pt. 3",
       "url": "https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74"

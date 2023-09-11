@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: James Francis",
-  "num_followers": 32318,
+  "num_followers": 32393,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTgwNTg1MTQ4NmE0ZTg0NTNlMjc4YjdiNzAzYmJmMmRkMmIzYjNm",
+  "snapshot_id": "MCwzMWI4MjE5NjgwZGRhYjcwOTg2OWQ3MTJjMDgyNzM2ZjhjNjRmZjYw",
   "tracks": [
     {
       "added_at": "2023-09-08 00:01:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 272124,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
         "name": "Black Tea EP",
         "url": "https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 129373,
       "name": "Midnight Tokyo",
       "url": "https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 272124,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
+        "name": "folding edges",
+        "url": "https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p"
+      },
+      "artists": [
+        {
+          "name": "betahost",
+          "url": "https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W"
+        }
+      ],
+      "duration_ms": 141882,
+      "name": "folding edges",
+      "url": "https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
         "name": "SGJAZZ, Vol. 2",
         "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 90600,
       "name": "Night Swim",
       "url": "https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "folding edges",
-        "url": "https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p"
-      },
-      "artists": [
-        {
-          "name": "betahost",
-          "url": "https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W"
-        }
-      ],
-      "duration_ms": 141882,
-      "name": "folding edges",
-      "url": "https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -751,22 +751,18 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "fugla",
-        "url": "https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO"
+        "name": "limonene",
+        "url": "https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ"
       },
       "artists": [
         {
-          "name": "Flughand",
-          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
-        },
-        {
-          "name": "steichi",
-          "url": "https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl"
+          "name": "Jfab",
+          "url": "https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW"
         }
       ],
-      "duration_ms": 130240,
-      "name": "fugla",
-      "url": "https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ"
+      "duration_ms": 176727,
+      "name": "limonene",
+      "url": "https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -791,22 +787,6 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "limonene",
-        "url": "https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ"
-      },
-      "artists": [
-        {
-          "name": "Jfab",
-          "url": "https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "limonene",
-      "url": "https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
         "name": "OLDRICH",
         "url": "https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 141020,
       "name": "OLDRICH",
       "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "fugla",
+        "url": "https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO"
+      },
+      "artists": [
+        {
+          "name": "Flughand",
+          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
+        },
+        {
+          "name": "steichi",
+          "url": "https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl"
+        }
+      ],
+      "duration_ms": 130240,
+      "name": "fugla",
+      "url": "https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "Young Alien",
-        "url": "https://open.spotify.com/album/18SSwv5kDMT2uIk9HbH1XD"
-      },
-      "artists": [
-        {
-          "name": "Bear Garden",
-          "url": "https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2"
-        }
-      ],
-      "duration_ms": 166951,
-      "name": "Young Alien",
-      "url": "https://open.spotify.com/track/6XDUR4yC5W8cBzwxun8ZZj"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
         "name": "Deciphering The Message",
         "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 131160,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "Young Alien",
+        "url": "https://open.spotify.com/album/18SSwv5kDMT2uIk9HbH1XD"
+      },
+      "artists": [
+        {
+          "name": "Bear Garden",
+          "url": "https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2"
+        }
+      ],
+      "duration_ms": 166951,
+      "name": "Young Alien",
+      "url": "https://open.spotify.com/track/6XDUR4yC5W8cBzwxun8ZZj"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "Royal Sessions",
-        "url": "https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6"
-      },
-      "artists": [
-        {
-          "name": "loophole",
-          "url": "https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE"
-        }
-      ],
-      "duration_ms": 315910,
-      "name": "Icebreaker",
-      "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
         "name": "delaye",
         "url": "https://open.spotify.com/album/0mtkx7GqWodAyKHDMpDoMK"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 90194,
       "name": "deep space",
       "url": "https://open.spotify.com/track/3z2yk7iknisHQOeN6dhoH6"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "Royal Sessions",
+        "url": "https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6"
+      },
+      "artists": [
+        {
+          "name": "loophole",
+          "url": "https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE"
+        }
+      ],
+      "duration_ms": 315910,
+      "name": "Icebreaker",
+      "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "713",
-        "url": "https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf"
-      },
-      "artists": [
-        {
-          "name": "James Francies",
-          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
-        }
-      ],
-      "duration_ms": 321600,
-      "name": "713",
-      "url": "https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
         "name": "Machete",
         "url": "https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 165606,
       "name": "Machete",
       "url": "https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "713",
+        "url": "https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf"
+      },
+      "artists": [
+        {
+          "name": "James Francies",
+          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "713",
+      "url": "https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
+        "name": "Verdant",
+        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
+      },
+      "artists": [
+        {
+          "name": "khoa",
+          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+        }
+      ],
+      "duration_ms": 146437,
+      "name": "Verdant",
+      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
         "name": "Sport Man",
         "url": "https://open.spotify.com/album/5kHUOTl5cpRaU4XjVS75wQ"
       },
@@ -1647,26 +1663,6 @@
       "duration_ms": 277600,
       "name": "Sport Man",
       "url": "https://open.spotify.com/track/6SzP10os8D81Pj1CeEbbk1"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "synco",
-        "url": "https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0"
-      },
-      "artists": [
-        {
-          "name": "Julio Estrada",
-          "url": "https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b"
-        },
-        {
-          "name": "bread stinson",
-          "url": "https://open.spotify.com/artist/4vwxEQpUoKDS4pvDTbQtiJ"
-        }
-      ],
-      "duration_ms": 260366,
-      "name": "synco",
-      "url": "https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -1687,18 +1683,22 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "Verdant",
-        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
+        "name": "synco",
+        "url": "https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0"
       },
       "artists": [
         {
-          "name": "khoa",
-          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+          "name": "Julio Estrada",
+          "url": "https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b"
+        },
+        {
+          "name": "bread stinson",
+          "url": "https://open.spotify.com/artist/4vwxEQpUoKDS4pvDTbQtiJ"
         }
       ],
-      "duration_ms": 146437,
-      "name": "Verdant",
-      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
+      "duration_ms": 260366,
+      "name": "synco",
+      "url": "https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk"
     },
     {
       "added_at": "2023-09-08 00:01:00",

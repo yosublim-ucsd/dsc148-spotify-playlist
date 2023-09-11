@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Idgitaf, Olivia Rodrigo serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,226,087 likes - 55 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,227,268 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 22 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 |
 | 23 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
 | 24 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 |
-| 25 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 25 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 26 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
 | 27 | [Loneliness](https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Loneliness](https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc) | 3:01 |
 | 28 | [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 54 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc) | 4:34 |
 | 55 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 |
 
-Snapshot ID: `MCxmZTI4YTQwZDc3Y2IxNDE5NjJjNzZhNmY5OWNkYTIwZWIwMGVkNGFi`
+Snapshot ID: `MCxmZWU0M2JlYjMzNzcyMWIxMjg0MDgxYWZhY2ZmMWViMmJlNjBhYTcy`

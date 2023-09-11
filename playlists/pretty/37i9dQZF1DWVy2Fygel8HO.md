@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 
 > Soft, soothing piano for you and your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,193 likes - 107 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,263 likes - 107 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 87 | [Small](https://open.spotify.com/track/0aviORRTQwOiKwtM8EX6Ep) | [Théa Allemand](https://open.spotify.com/artist/4ZnTLMnuVhamRoBXLbTO9S) | [Small](https://open.spotify.com/album/3rMGkoE0Q38xRszZD11K6F) | 3:04 |
 | 88 | [For Peace](https://open.spotify.com/track/1FiGodE7QpV6yXRtDGSuKO) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [For Peace](https://open.spotify.com/album/3eKtNhAo1QB2slYY1A6P85) | 2:16 |
 | 89 | [Estelle](https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Estelle](https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY) | 1:58 |
-| 90 | [Resting Song](https://open.spotify.com/track/5x2fu50qw3r9BMonmvq5s6) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/4i9tNd1I94lnoGx29ZAOaQ) | 2:51 |
+| 90 | [Resting Song](https://open.spotify.com/track/4WOs0AimEhI7qi4IHS3JNC) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/5ulVV8sUhnWnb1RoQPXyzv) | 2:51 |
 | 91 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 |
 | 92 | [Different To Our Daily Lives](https://open.spotify.com/track/6zB9GWgc3mjxnqGgHAwvpU) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Different To Our Daily Lives](https://open.spotify.com/album/4j3t73htSViFibVCVBpLr5) | 2:26 |
 | 93 | [Dear Buddy](https://open.spotify.com/track/4XhZgQHy6yNEB5M3NhZXAG) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Dear Buddy](https://open.spotify.com/album/7nRhGhULaOo98BoVjYzzgD) | 2:12 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 106 | [Movement](https://open.spotify.com/track/3qowDmCLrK4mgwbbFW5unz) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Movement](https://open.spotify.com/album/7Jhzqb6xoRsAMWqXvC15Mf) | 2:54 |
 | 107 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 |
 
-Snapshot ID: `MCxhZGEzZDk5ODM0NmEwZGJlNzA1NDRjZmU1YjRjMWM5NmU4ZjA0YzE3`
+Snapshot ID: `MCxlYjg3YTQzNjdjZDI2Y2Q5ZWIzMDg5Y2RiNzA4ZTRiNmQxZDRhMzdh`

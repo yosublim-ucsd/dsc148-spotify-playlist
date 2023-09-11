@@ -1,12 +1,12 @@
 {
   "description": "Cumbia Norte\u00f1a y Norte\u00f1o Sax para las vibras de verano.",
-  "num_followers": 7101,
+  "num_followers": 7140,
   "original_name": "Verano Norte\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2U0OTZhMmEzYWQ5MDMxOWVjZTA5ZjE0NWZhYzA5ZDU0OTc0MGFk",
+  "snapshot_id": "MCwzZTU5MjkxOWViYjQxZWQ1MDFjM2EzYjExNjNiNjY3M2VjYzYwOTlj",
   "tracks": [
     {
       "added_at": "2023-08-14 07:30:58",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-08-14 07:30:58",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
-    },
-    {
-      "added_at": "2023-08-14 07:30:58",
-      "album": {
         "name": "No Paras de Hacerme Feliz",
         "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 185296,
       "name": "No Paras de Hacerme Feliz",
       "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "added_at": "2023-08-14 07:30:58",
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
     },
     {
       "added_at": "2023-08-14 07:30:58",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-08-14 07:30:58",
       "album": {
-        "name": "Las Ag\u00fcitas",
-        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
-      },
-      "artists": [
-        {
-          "name": "Los Vendavales de Adan Melendez",
-          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
-    },
-    {
-      "added_at": "2023-08-14 07:30:58",
-      "album": {
         "name": "Zool\u00f3gico Tropical",
         "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
       },
@@ -611,18 +595,34 @@
     {
       "added_at": "2023-08-14 07:30:58",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+        "name": "Las Ag\u00fcitas",
+        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
       },
       "artists": [
         {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
         }
       ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+      "duration_ms": 176333,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
+    },
+    {
+      "added_at": "2023-08-14 07:30:58",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 190258,
+      "name": "En Silencio",
+      "url": "https://open.spotify.com/track/3DR6MSiWnmppbRWWrGsarE"
     },
     {
       "added_at": "2023-08-14 07:30:58",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-08-14 07:30:58",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
       "artists": [
         {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 190258,
-      "name": "En Silencio",
-      "url": "https://open.spotify.com/track/3DR6MSiWnmppbRWWrGsarE"
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2023-08-14 07:30:58",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-08-14 07:30:58",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+        "name": "Que nos Pas\u00f3?",
+        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
       },
       "artists": [
         {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
         }
       ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+      "duration_ms": 159519,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
     },
     {
       "added_at": "2023-08-14 07:30:58",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-14 07:30:58",
       "album": {
-        "name": "Que nos Pas\u00f3?",
-        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 159519,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
-    },
-    {
-      "added_at": "2023-08-14 07:30:58",
-      "album": {
         "name": "B\u00e1ilame",
         "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 179506,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
+    },
+    {
+      "added_at": "2023-08-14 07:30:58",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2023-08-14 07:30:58",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-14 07:30:58",
       "album": {
-        "name": "Los Locos Del Corrido",
-        "url": "https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes De Durango",
-          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "Agua De T\u00e9",
-      "url": "https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD"
-    },
-    {
-      "added_at": "2023-08-14 07:30:58",
-      "album": {
         "name": "Esper\u00e1ndote",
         "url": "https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 169041,
       "name": "Y Me Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b"
+    },
+    {
+      "added_at": "2023-08-14 07:30:58",
+      "album": {
+        "name": "Los Locos Del Corrido",
+        "url": "https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes De Durango",
+          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Agua De T\u00e9",
+      "url": "https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD"
     },
     {
       "added_at": "2023-08-14 07:30:58",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-08-14 07:30:58",
       "album": {
+        "name": "Comenzando Nuestra Historia",
+        "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "duration_ms": 153648,
+      "name": "El Vaquero",
+      "url": "https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7"
+    },
+    {
+      "added_at": "2023-08-14 07:30:58",
+      "album": {
         "name": "Lo Dice El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0tELO6VB2M4J9Egbk3ENZl"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 170600,
       "name": "Lo Dice El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS"
-    },
-    {
-      "added_at": "2023-08-14 07:30:58",
-      "album": {
-        "name": "Comenzando Nuestra Historia",
-        "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 153648,
-      "name": "El Vaquero",
-      "url": "https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7"
     },
     {
       "added_at": "2023-08-14 07:30:58",

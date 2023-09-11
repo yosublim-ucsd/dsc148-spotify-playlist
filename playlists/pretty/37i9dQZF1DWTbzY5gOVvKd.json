@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1197976,
+  "num_followers": 1198177,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjI4ZTE4M2UyMjYzNmNjYjkxYmExNThkZDcxZDIyZmFjZjE2NzM0",
+  "snapshot_id": "MCxhNGQ5NjQ4YWJjZjVjMjc1Zjg0YWY4Nzg1MjljZTE1MTlmZTJhM2Ri",
   "tracks": [
     {
       "added_at": "2023-08-29 12:21:36",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-08-29 12:21:36",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 248416,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
-    },
-    {
-      "added_at": "2023-08-29 12:21:36",
-      "album": {
         "name": "Around The City",
         "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 240413,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
+    },
+    {
+      "added_at": "2023-08-29 12:21:36",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 248416,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
     },
     {
       "added_at": "2023-08-29 12:21:36",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-29 12:21:36",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Sunday Kind of Love",
-      "url": "https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM"
-    },
-    {
-      "added_at": "2023-08-29 12:21:36",
-      "album": {
         "name": "Shadow Train",
         "url": "https://open.spotify.com/album/1dzuSstYTLU34HvWhd6CIh"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2023-08-29 12:21:36",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51"
       },
       "artists": [
         {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
         }
       ],
-      "duration_ms": 316453,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
+      "duration_ms": 211360,
+      "name": "Sunday Kind of Love",
+      "url": "https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM"
     },
     {
       "added_at": "2023-08-29 12:21:36",
@@ -719,6 +703,22 @@
       "duration_ms": 135421,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
+    },
+    {
+      "added_at": "2023-08-29 12:21:36",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 316453,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
     },
     {
       "added_at": "2023-08-29 12:21:36",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-08-29 12:21:36",
       "album": {
+        "name": "It Had To be You... The Great American Songbook",
+        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN"
+    },
+    {
+      "added_at": "2023-08-29 12:21:36",
+      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-08-29 12:21:36",
       "album": {
-        "name": "It Had To be You... The Great American Songbook",
-        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
         }
       ],
-      "duration_ms": 234800,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN"
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2023-08-29 12:21:36",
@@ -871,22 +887,6 @@
       "duration_ms": 192000,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6y80WSyy5Neu2CsrqjQszz"
-    },
-    {
-      "added_at": "2023-08-29 12:21:36",
-      "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2023-08-29 12:21:36",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-29 12:21:36",
       "album": {
-        "name": "My Funny Valentine: The Chet Baker Songbook",
-        "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Deep in a Dream",
-      "url": "https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv"
-    },
-    {
-      "added_at": "2023-08-29 12:21:36",
-      "album": {
         "name": "For One to Love",
         "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 121039,
       "name": "Monday",
       "url": "https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb"
+    },
+    {
+      "added_at": "2023-08-29 12:21:36",
+      "album": {
+        "name": "My Funny Valentine: The Chet Baker Songbook",
+        "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv"
     },
     {
       "added_at": "2023-08-29 12:21:36",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-08-29 12:21:36",
       "album": {
+        "name": "Date With A Dream",
+        "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
+      },
+      "artists": [
+        {
+          "name": "Malene Mortensen",
+          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
+        }
+      ],
+      "duration_ms": 252081,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
+    },
+    {
+      "added_at": "2023-08-29 12:21:36",
+      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 423013,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn"
-    },
-    {
-      "added_at": "2023-08-29 12:21:36",
-      "album": {
-        "name": "Date With A Dream",
-        "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
-      },
-      "artists": [
-        {
-          "name": "Malene Mortensen",
-          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
-        }
-      ],
-      "duration_ms": 252081,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
     },
     {
       "added_at": "2023-08-29 12:21:36",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-08-29 12:21:36",
       "album": {
+        "name": "Li'l Darlin",
+        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
+      },
+      "artists": [
+        {
+          "name": "Monica Borrfors",
+          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Li'l Darlin",
+      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
+    },
+    {
+      "added_at": "2023-08-29 12:21:36",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 331141,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
-    },
-    {
-      "added_at": "2023-08-29 12:21:36",
-      "album": {
-        "name": "Li'l Darlin",
-        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
-      },
-      "artists": [
-        {
-          "name": "Monica Borrfors",
-          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Li'l Darlin",
-      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
     },
     {
       "added_at": "2023-08-29 12:21:36",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-08-29 12:21:36",
       "album": {
-        "name": "Blame It On My Youth",
-        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
-    },
-    {
-      "added_at": "2023-08-29 12:21:36",
-      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 343055,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
+    },
+    {
+      "added_at": "2023-08-29 12:21:36",
+      "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
     },
     {
       "added_at": "2023-08-29 12:21:36",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-08-29 12:21:36",
       "album": {
+        "name": "An Englishman in Love in LA",
+        "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
+      },
+      "artists": [
+        {
+          "name": "Richard Shelton",
+          "url": "https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t"
+        }
+      ],
+      "duration_ms": 176573,
+      "name": "The Touch of Your Lips",
+      "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
+    },
+    {
+      "added_at": "2023-08-29 12:21:36",
+      "album": {
         "name": "Partners",
         "url": "https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 250293,
       "name": "Come Rain or Come Shine (with John Mayer)",
       "url": "https://open.spotify.com/track/2d02A2eoTYHOnI162zeAKQ"
-    },
-    {
-      "added_at": "2023-08-29 12:21:36",
-      "album": {
-        "name": "An Englishman in Love in LA",
-        "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
-      },
-      "artists": [
-        {
-          "name": "Richard Shelton",
-          "url": "https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "The Touch of Your Lips",
-      "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
     },
     {
       "added_at": "2023-08-29 12:21:36",

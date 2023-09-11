@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 194647,
+  "num_followers": 194914,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDdlYzkyMTZiNmE2NTkwYzk1ZWJjODM0MjQ2NWY0Yjk0ZGRiZWRj",
+  "snapshot_id": "MCw1ZDM1N2MzOGU4ZTdlNzFmMzgxMzg3MzYyNDVmMmRkNjgwZjEyNjYy",
   "tracks": [
     {
       "added_at": "2023-09-08 11:57:57",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-09-08 11:57:57",
       "album": {
-        "name": "Y Hoy Volvimos A Vernos",
-        "url": "https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc"
-      },
-      "artists": [
-        {
-          "name": "Nico Mattioli",
-          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
-        },
-        {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
-        }
-      ],
-      "duration_ms": 203812,
-      "name": "Y Hoy Volvimos A Vernos",
-      "url": "https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF"
-    },
-    {
-      "added_at": "2023-09-08 11:57:57",
-      "album": {
         "name": "Juntando Las Almas",
         "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
       },
@@ -1003,22 +983,6 @@
       "duration_ms": 200386,
       "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
       "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
-    },
-    {
-      "added_at": "2023-09-08 11:57:57",
-      "album": {
-        "name": "Hasta All\u00e1 en el Cielo",
-        "url": "https://open.spotify.com/album/2w8OPK4PhtLteKTPj4bDar"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 210390,
-      "name": "Hasta All\u00e1 en el Cielo",
-      "url": "https://open.spotify.com/track/1H5UhQ5VnbNpeE7gFcm7pD"
     },
     {
       "added_at": "2023-09-08 11:57:57",
@@ -1055,6 +1019,42 @@
       "duration_ms": 260566,
       "name": "La Segunda del Hombre del Acorde\u00f3n",
       "url": "https://open.spotify.com/track/6GiqyOWzkol9gZsSIqLLxF"
+    },
+    {
+      "added_at": "2023-09-08 11:57:57",
+      "album": {
+        "name": "Hasta All\u00e1 en el Cielo",
+        "url": "https://open.spotify.com/album/2w8OPK4PhtLteKTPj4bDar"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 210390,
+      "name": "Hasta All\u00e1 en el Cielo",
+      "url": "https://open.spotify.com/track/1H5UhQ5VnbNpeE7gFcm7pD"
+    },
+    {
+      "added_at": "2023-09-08 11:57:57",
+      "album": {
+        "name": "Y Hoy Volvimos A Vernos",
+        "url": "https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc"
+      },
+      "artists": [
+        {
+          "name": "Nico Mattioli",
+          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
+        },
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        }
+      ],
+      "duration_ms": 203812,
+      "name": "Y Hoy Volvimos A Vernos",
+      "url": "https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF"
     },
     {
       "added_at": "2023-09-08 11:57:57",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-09-08 11:57:57",
       "album": {
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "Entre el Odio y el Amor",
+      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
+    },
+    {
+      "added_at": "2023-09-08 11:57:57",
+      "album": {
         "name": "Enganchado Homenaje a Leo Mattioli (Padres e Hijos)",
         "url": "https://open.spotify.com/album/2zy5hs0VuLBjYwpVo5Pq7Y"
       },
@@ -1335,38 +1351,22 @@
     {
       "added_at": "2023-09-08 11:57:57",
       "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+        "name": "Te Sorprender\u00e1s",
+        "url": "https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8"
       },
       "artists": [
         {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "Entre el Odio y el Amor",
-      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
-    },
-    {
-      "added_at": "2023-09-08 11:57:57",
-      "album": {
-        "name": "Mueve / Cumbia Caliente / No Me Mires",
-        "url": "https://open.spotify.com/album/2Z3LRXJFNMMnepvkk4hsbX"
-      },
-      "artists": [
-        {
-          "name": "Siempre Verde",
-          "url": "https://open.spotify.com/artist/4eyu1IhLo2RUlDwJLtodxl"
+          "name": "Ezequiel El Brujo",
+          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
         },
         {
-          "name": "Los Lirios De Santa Fe",
-          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
         }
       ],
-      "duration_ms": 277263,
-      "name": "Mueve / Cumbia Caliente / No Me Mires",
-      "url": "https://open.spotify.com/track/2sWxnXLNEy02jEocDcstw7"
+      "duration_ms": 188140,
+      "name": "Te Sorprender\u00e1s",
+      "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
     }
   ],
   "unique_name": "Cumbia Santafesina",

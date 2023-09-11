@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: POLTERGST
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,491 likes - 74 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,700 likes - 74 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [Feel Alive](https://open.spotify.com/track/2dkZSuf8vtAybY9yNuHzqm) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Feel Alive](https://open.spotify.com/album/0afsFT9pB5n6LqnhksV29M) | 3:50 |
 | 74 | [Need Your Love](https://open.spotify.com/track/3Mzid9zOgVrhDgvT8vee0I) | [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Need Your Love](https://open.spotify.com/album/09FsQpf6h3gSPl1qPCdhsI) | 3:10 |
 
-Snapshot ID: `MCxkZGQ5MDNiODI0ZTVkNzc1YjdhOTVhNzJkODI1OWIyNzY0NTY3MjRi`
+Snapshot ID: `MCwxNGM4NmEyMjdjNDhiYTlkOWU3OTIxNWQ2MzdlOTk5MzBiYmMzM2Vm`

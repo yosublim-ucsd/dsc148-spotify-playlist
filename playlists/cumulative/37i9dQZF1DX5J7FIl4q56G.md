@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Kvelertak
 
-4,523 songs - 12 day 17 hr 48 min
+4,524 songs - 12 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4359,7 +4359,8 @@
 | [Welcome to the Jungle](https://open.spotify.com/track/0w0GXcmgDZHYiTcd0HqXSy) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Welcome to the Jungle](https://open.spotify.com/album/0JnizBXe67mqWIW3Sg1bH5) | 4:34 | 2022-08-26 | 2022-09-03 |
 | [Welcome To The Show](https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome To The Show](https://open.spotify.com/album/4B5NV5m12cfnBDnPdu0A2u) | 3:36 | 2023-08-11 | 2023-08-19 |
 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-12 | 2023-05-20 |
-| [Wem die Stunde schlägt](https://open.spotify.com/track/7esychrebSF8UTqpzbHxuo) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Wem die Stunde schlägt](https://open.spotify.com/album/3sCa6jIm0xPUjmmKdgg79b) | 5:04 | 2023-07-14 |  |
+| [Wem die Stunde schlägt](https://open.spotify.com/track/7JdAWnfRb284FuP9POGL6y) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Richter und Henker](https://open.spotify.com/album/7seaxkZn9NWPsn3jH4QkSk) | 5:04 | 2023-09-08 |  |
+| [Wem die Stunde schlägt](https://open.spotify.com/track/7esychrebSF8UTqpzbHxuo) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Wem die Stunde schlägt](https://open.spotify.com/album/3sCa6jIm0xPUjmmKdgg79b) | 5:04 | 2023-07-14 | 2023-09-11 |
 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 | 2023-06-30 | 2023-07-08 |
 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 | 2022-07-01 |
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 | 2022-02-11 |

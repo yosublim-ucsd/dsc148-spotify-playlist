@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: RAAHiiM
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,817 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,837 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [How Would You Feel](https://open.spotify.com/track/5yosbcAjMrTNcosZbhZiBo) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [How Would You Feel](https://open.spotify.com/album/373W4hy5SMxKxICDMDynoX) | 2:41 |
 | 75 | [FMU](https://open.spotify.com/track/7e2BZGkxyHRk74HYy8KJkz) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [FMU](https://open.spotify.com/album/5R6v6HYbJ27x5LfI2ILJRm) | 2:21 |
 
-Snapshot ID: `MCwwODEzMWQzMDg5ZWJmMzgwZmQzN2Y3Y2VmNmIyM2ZiZmFmNmE0MGM4`
+Snapshot ID: `MCxiYzY4YjkwZDMxODY0ZDBhMzlkZmU5YjQ0ZTJmM2E0MzBlYTU3MjA1`

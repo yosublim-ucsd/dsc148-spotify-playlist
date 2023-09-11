@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aaJXQXKS5j.md) - [plain]
 
 > In the trap with Bad Bunny 🐰 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,476 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,547 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aaJXQXKS5j.md) - [plain]
 | 29 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
 | 30 | [200 Mph](https://open.spotify.com/track/5jGUJXnELDaDTgiRjD9lsg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:50 |
 | 31 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 |
-| 32 | [BENDICIONES](https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:35 |
-| 33 | [P FKN R](https://open.spotify.com/track/0fgsKar6uBO08vzHXkTjWi) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:18 |
+| 32 | [P FKN R](https://open.spotify.com/track/0fgsKar6uBO08vzHXkTjWi) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:18 |
+| 33 | [BENDICIONES](https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:35 |
 | 34 | [EL MUNDO ES MÍO](https://open.spotify.com/track/36DHxTW2xdr9GG15T9oK9L) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:45 |
-| 35 | [¿Quien Tu Eres?](https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:39 |
-| 36 | [Puesto Pa' Guerrial](https://open.spotify.com/track/5gCg2qMPzKkW4jS4dBKdDs) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:10 |
+| 35 | [Puesto Pa' Guerrial](https://open.spotify.com/track/5gCg2qMPzKkW4jS4dBKdDs) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:10 |
+| 36 | [¿Quien Tu Eres?](https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:39 |
 | 37 | [RONCA FREESTYLE](https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:30 |
 | 38 | [Estamos Arriba](https://open.spotify.com/track/0bCPJsVGDxPYwQMDZMi4NW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Estamos Arriba](https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG) | 3:45 |
 | 39 | [Blockia](https://open.spotify.com/track/3uPLiBTUgz7wrGJ2mw1rzM) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Blockia](https://open.spotify.com/album/1hSE6GgLMO64esTVyBjjG4) | 3:21 |
 | 40 | [Me Llueven 3.0](https://open.spotify.com/track/7b59ZUw0TkGZuE0HNeiuc4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Me Llueven 3.0](https://open.spotify.com/album/2MnWwUaZTarBd6M11iXJ6Z) | 4:50 |
 
-Snapshot ID: `MCxhNjQ4MTNkZGFhMjllN2NlYWM0Zjg0NWMyYWI3MDgyMmYyMTE4NjAw`
+Snapshot ID: `MCwwOGQ4NmI2MTg2MDhkZWQ5Y2E0ZjA2OTdjNjFjNWQ1NTYzMDMxMTAx`

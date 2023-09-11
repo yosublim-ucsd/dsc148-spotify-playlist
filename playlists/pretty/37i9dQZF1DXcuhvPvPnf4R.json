@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 6920,
+  "num_followers": 6935,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzE4ZmM1ZTMyYmQ4ZmM2ZTkzZGZjN2Q3N2U3NWJkYzZkZTZjMjkw",
+  "snapshot_id": "MCwwNmQ0YTAzY2ViOWRkN2QzOWQ1MWM3ODI5NTRlOTNjNmRjMWQ3MWJl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "The Big Bang",
-        "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Gangsta (Remix)",
         "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 216000,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "The Big Bang",
+        "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Dondria vs. Phatfffat",
-        "url": "https://open.spotify.com/album/7m1vzSK4S0pSgqWWJJbRNP"
-      },
-      "artists": [
-        {
-          "name": "Dondria",
-          "url": "https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/0G0ky7lWhrwkds6MobBqvu"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Rum & Redbull",
         "url": "https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 135640,
       "name": "Rum & Redbull",
       "url": "https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Dondria vs. Phatfffat",
+        "url": "https://open.spotify.com/album/7m1vzSK4S0pSgqWWJJbRNP"
+      },
+      "artists": [
+        {
+          "name": "Dondria",
+          "url": "https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/0G0ky7lWhrwkds6MobBqvu"
     },
     {
       "added_at": "2022-10-01 16:43:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,357 likes - 44 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,487 likes - 44 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 35 | [Circle Back Around](https://open.spotify.com/track/35Mtty773xrW0jpQ9uUeGJ) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:15 |
 | 36 | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 |
 | 37 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 |
-| 38 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
-| 39 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
+| 38 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
+| 39 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
 | 40 | [Is U](https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:48 |
 | 41 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 42 | [Move Your Body \- Hedex Remix](https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Move Your Body \(Hedex Remix\)](https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo) | 3:20 |
 | 43 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
 | 44 | [Vibration \(One More Time\) \(feat\. AR/CO\)](https://open.spotify.com/track/2t3iFlsIkaoV7GmVC2ptuM) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Vibration \(One More Time\) \(feat\. AR/CO\)](https://open.spotify.com/album/7bGuN31tBDnZiKxpQsa58S) | 4:02 |
 
-Snapshot ID: `MCxhMmQ3NzI1Y2YxMTJkODZlMDFhNjYyOTBiZDAyOTAyNTUzNzQzNjg3`
+Snapshot ID: `MCw2N2Q0ZGIzMjQ3OThiMTY4NGZjMzg2NjY5OGUwZmQxZDc5MTcyNGVm`

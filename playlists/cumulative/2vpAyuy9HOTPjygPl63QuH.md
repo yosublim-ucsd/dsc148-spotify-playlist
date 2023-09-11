@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,274 songs - 3 day 0 hr 41 min
+1,275 songs - 3 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,6 +595,7 @@
 | [Kickback](https://open.spotify.com/track/3BaxHSblGZqKmWzABsq12M) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Kickback / Trip](https://open.spotify.com/album/7El2W3KhHuAc8dofRkhMTc) | 2:31 | 2023-06-24 | 2023-07-01 |
 | [Killa](https://open.spotify.com/track/37GCh90TStv9F0iodwER3w) | [Tombo](https://open.spotify.com/artist/0SsH1YtxJq7HTAsI7DIoqE) | [Amazons](https://open.spotify.com/album/6OqbMo65FexUwWTcwmVAZU) | 3:52 | 2022-11-17 | 2022-11-19 |
 | [Killer Bee](https://open.spotify.com/track/3vq4X1cphzASnVAPR3Tfqg) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI), [Chyra](https://open.spotify.com/artist/0O6GiRrnADewkp91ELz39s) | [Killer Bee](https://open.spotify.com/album/2wggVJCG8JFzXKHg14zkyl) | 2:46 | 2022-09-30 | 2022-10-08 |
+| [KILLERZ](https://open.spotify.com/track/33h3N6ZCFMk25Zo0sG0syI) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [KILLERZ](https://open.spotify.com/album/1GbJRZeL4FQctSkiViPhDD) | 4:07 | 2023-09-10 |  |
 | [KILO \- Beltran Remix](https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [KILO \(Beltran Remix\)](https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5) | 4:07 | 2023-03-24 | 2023-04-01 |
 | [Kilos](https://open.spotify.com/track/0SO1znGNPqLM3PW1hmYVNv) | [Tombz](https://open.spotify.com/artist/6lib5PryDEdaqbVKPgIMbC), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 5:31 | 2022-06-03 | 2022-06-11 |
 | [Kink](https://open.spotify.com/track/5xlvJqEqgz0r54vX3IeqnG) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Kink](https://open.spotify.com/album/22hHpWWORlMgmXH0GTcQAH) | 4:21 | 2022-07-09 | 2022-07-16 |

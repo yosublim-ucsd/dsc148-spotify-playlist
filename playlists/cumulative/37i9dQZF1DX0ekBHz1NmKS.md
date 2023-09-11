@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-762 songs - 1 day 16 hr 15 min
+764 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Dränker mina tankar](https://open.spotify.com/track/22wxsQjzxWHm5LBGP2AM9Q) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Dränker mina tankar](https://open.spotify.com/album/46Z7Ia77aU9iT95eQjaewX) | 3:02 | 2022-04-01 | 2022-09-16 |
 | [Drömmare](https://open.spotify.com/track/2zEDpcn34OMwjC7SVPey4S) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Drömmare](https://open.spotify.com/album/7AEwJqMf2dlz3Qx659C6Xd) | 3:03 | 2021-12-16 | 2022-04-01 |
 | [Drömmer om andetag](https://open.spotify.com/track/1WKsFk6rFyrzzV0CdPDIBw) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Drömmer om andetag](https://open.spotify.com/album/3AK4IBdV1dWUcgLIUR8k3I) | 3:30 | 2021-12-16 | 2022-02-25 |
+| [Du](https://open.spotify.com/track/12QVxTflISIpZyLQcQdc3x) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 4:22 | 2023-09-08 |  |
 | [Du](https://open.spotify.com/track/5jXpg2H0a1isxNpcQkPVu8) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Du](https://open.spotify.com/album/64xGRV93vELnR9Cu63fvAd) | 4:22 | 2023-04-06 | 2023-06-13 |
 | [Du & jag](https://open.spotify.com/track/238cGn6CtR3w3Ugage1c8o) | [Poolkant](https://open.spotify.com/artist/6CToC6Dzd86xtNaRUBp1cE) | [Du & jag](https://open.spotify.com/album/0tcBkHCenEUvUv4aQW5GzG) | 2:46 | 2022-06-16 | 2023-02-14 |
 | [Du får allt](https://open.spotify.com/track/3DXyXXXfq8fOr1hLVZ6jkk) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Du får allt](https://open.spotify.com/album/3rhGsvhnwnTUA4xOEiyETE) | 3:16 | 2022-02-20 | 2022-05-08 |
@@ -212,6 +213,7 @@
 | [Fast med dig](https://open.spotify.com/track/2KIzBv4vFeLtO50WBbHGKk) | [Ness Hakin](https://open.spotify.com/artist/73SA7OgBvMc1GGRyius3UN) | [Fast med dig](https://open.spotify.com/album/1ENEtJUy1nmsK4isB1YXl6) | 2:38 | 2022-05-26 | 2022-07-29 |
 | [Feel Love](https://open.spotify.com/track/2rEepd7vMT7nySNBliu8VU) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Truth & Consequences](https://open.spotify.com/album/1ekyxoUytdZjVwOR5teXlm) | 3:43 | 2022-05-19 | 2022-07-28 |
 | [Feels Like A Dream](https://open.spotify.com/track/5mQmh9swNjNrfp1wKCZi8p) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Feels Like A Dream](https://open.spotify.com/album/4gyZv5JaaDicMnO1Ja3kBw) | 2:52 | 2022-09-01 | 2022-10-31 |
+| [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2023-09-08 |  |
 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 | 2023-08-03 |  |
 | [Fine](https://open.spotify.com/track/3p52HKLY1X9Vfvkkajpfwd) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Fine](https://open.spotify.com/album/53p4lvVH4RV76OQj6evdOx) | 3:25 | 2022-03-10 | 2022-09-16 |
 | [Fint att få va med dig](https://open.spotify.com/track/6yz3bCneU0XztgwIu6CNxJ) | [Jimmy Ahlén](https://open.spotify.com/artist/0VdcztH2xzmGP5hFr9pUtg), [Hanna Christiansson](https://open.spotify.com/artist/50CfYjX4VlsiXgOXHc8aQG) | [Fint att få va med dig](https://open.spotify.com/album/0ct5SzIYbWiQfbrzEAjEvi) | 3:29 | 2023-01-19 | 2023-02-24 |
@@ -542,7 +544,7 @@
 | [Said and Done](https://open.spotify.com/track/3jnMhpFIw1rtQh43XnNUxs) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Said and Done](https://open.spotify.com/album/3fcb8NFdFLts2fxvFOzSSm) | 2:54 | 2022-04-07 | 2022-04-20 |
 | [Saknar inte dig](https://open.spotify.com/track/41YY53HdPEnmqu7qlDEp0Y) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Saknar inte dig](https://open.spotify.com/album/7xHtg244xpRLKbGeAspT72) | 2:38 | 2022-04-22 | 2023-03-12 |
 | [SAKNAR ORD](https://open.spotify.com/track/6qtoQiHn7V6F54s90dcSzL) | [LEON GABOR](https://open.spotify.com/artist/7t9GOZGoeEdcwF5QlUyT9k) | [SAKNAR ORD](https://open.spotify.com/album/5MIcN6w6kxUlfqwvg2SyUV) | 3:08 | 2022-05-05 | 2022-06-24 |
-| [Salt och socker](https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Salt och socker](https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4) | 2:51 | 2023-02-16 |  |
+| [Salt och socker](https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Salt och socker](https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4) | 2:51 | 2023-02-16 | 2023-09-11 |
 | [Same Thing](https://open.spotify.com/track/5eqQVbVNz41UuUaEdt5Dga) | [YADAYADA](https://open.spotify.com/artist/0kOSwbgw1yE3Sunf3F7F0t) | [Same Thing](https://open.spotify.com/album/1CDqizYMYd2dIyNBrXbXNz) | 3:03 | 2022-03-10 | 2022-04-20 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:09 | 2022-05-12 |  |
 | [Samma säng](https://open.spotify.com/track/5yFdISVlABQqdLHOuJ0CpN) | [Anton Kyldahl](https://open.spotify.com/artist/4Xq9iwUmfiz0nAwhF9B1pD), [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Samma säng](https://open.spotify.com/album/7gxoCqM92zDNiIykuLp2ky) | 2:43 | 2022-05-12 | 2022-07-26 |
@@ -747,7 +749,7 @@
 | [WINNER \(feat\. A36\)](https://open.spotify.com/track/5AD8MIkzQNY9WPlEyBZtke) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:37 | 2022-07-28 | 2022-09-16 |
 | [wish I didn't know you](https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [wish I didn't know you](https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU) | 2:53 | 2022-10-15 | 2023-06-01 |
 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 | 2022-02-05 | 2022-05-13 |
-| [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 | 2023-06-22 |  |
+| [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 | 2023-06-22 | 2023-09-11 |
 | [Wolf Cries](https://open.spotify.com/track/1UENNNlQETDaFv7Yvyoc5v) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Wolf Cries](https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3) | 3:10 | 2023-08-25 |  |
 | [Wonderchild \- Spotify Singles](https://open.spotify.com/track/3Dp49tho4cUwwrogE2SQaG) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Wonderchild \- Spotify Singles](https://open.spotify.com/album/53UPgh5ZFAmsuZtmQqiyO9) | 3:41 | 2022-05-12 |  |
 | [Worst Thing](https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:38 | 2022-09-15 |  |

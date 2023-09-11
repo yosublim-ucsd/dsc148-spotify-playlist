@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. DJ Shocca, Gu\u00e8 ed Ele A in cover.",
-  "num_followers": 34931,
+  "num_followers": 34968,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjkwZWUyNjg0YTA0MDhhNzY1MzQ1YmJkODAzMTljN2ViZWJiMDcw",
+  "snapshot_id": "MCxlNDNjZTJlM2FkZGQ3ODliYTU3Y2NhNzZkMzY1MmY4NjI4YWYwMWJi",
   "tracks": [
     {
       "added_at": "2023-08-31 22:01:00",
@@ -835,18 +835,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
       "artists": [
         {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
         }
       ],
-      "duration_ms": 201618,
-      "name": "Freccia",
-      "url": "https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn"
+      "duration_ms": 224000,
+      "name": "Notte Blu",
+      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -883,22 +887,18 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
       },
       "artists": [
         {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Notte Blu",
-      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
+      "duration_ms": 201618,
+      "name": "Freccia",
+      "url": "https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -975,6 +975,62 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+      },
+      "artists": [
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        },
+        {
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "duration_ms": 179936,
+      "name": "Guardie&Ladri (feat. Nayt)",
+      "url": "https://open.spotify.com/track/3glwI8YMhuziGnQvnhrkqz"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 130593,
+      "name": "Yeah (feat. Emis Killa)",
+      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 295293,
+      "name": "Cani sciolti",
+      "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "Sacrosanto",
         "url": "https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1"
       },
@@ -1003,22 +1059,18 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+        "name": "Il Tempo Vola 2002-2020",
+        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
       },
       "artists": [
         {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 130593,
-      "name": "Yeah (feat. Emis Killa)",
-      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
+      "duration_ms": 246600,
+      "name": "Bugiardo",
+      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1043,54 +1095,18 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
       "artists": [
         {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        },
-        {
-          "name": "Nayt",
-          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
         }
       ],
-      "duration_ms": 179936,
-      "name": "Guardie&Ladri (feat. Nayt)",
-      "url": "https://open.spotify.com/track/3glwI8YMhuziGnQvnhrkqz"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 295293,
-      "name": "Cani sciolti",
-      "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Il Tempo Vola 2002-2020",
-        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Bugiardo",
-      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
+      "duration_ms": 354506,
+      "name": "Rigurgito antifascista",
+      "url": "https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1119,38 +1135,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
-      },
-      "artists": [
-        {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
-        }
-      ],
-      "duration_ms": 354506,
-      "name": "Rigurgito antifascista",
-      "url": "https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253683,
-      "name": "L'Anima Giusta",
-      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Rebus",
         "url": "https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz"
       },
@@ -1163,30 +1147,6 @@
       "duration_ms": 193706,
       "name": "Bugie Bianche",
       "url": "https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "Royal Mehdi",
-          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
-        }
-      ],
-      "duration_ms": 233786,
-      "name": "Bolo By Night",
-      "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1239,6 +1199,78 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "SETE",
+        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 188456,
+      "name": "Sono un Disastro",
+      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Royal Mehdi",
+          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
+        }
+      ],
+      "duration_ms": 233786,
+      "name": "Bolo By Night",
+      "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 253683,
+      "name": "L'Anima Giusta",
+      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -1271,74 +1303,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "SETE",
-        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 188456,
-      "name": "Sono un Disastro",
-      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Narciso (feat. Murubutu)",
-      "url": "https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
       },
@@ -1355,6 +1319,22 @@
       "duration_ms": 242378,
       "name": "Casse rotte (feat. Brokenspeakers)",
       "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1403,38 +1383,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Dead poets",
-        "url": "https://open.spotify.com/album/2u4ck3pMmH9uvBTk98e6XO"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        },
-        {
-          "name": "The Rockness Monstah",
-          "url": "https://open.spotify.com/artist/7mXBMpEz4S7jAnBgdYq5mI"
-        },
-        {
-          "name": "Mic Handz",
-          "url": "https://open.spotify.com/artist/2g8mUNOx44gUxvJ2TzqtbD"
-        }
-      ],
-      "duration_ms": 291757,
-      "name": "Poeti estinti",
-      "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Questo non \u00e8 un cane",
         "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
       },
@@ -1467,6 +1415,58 @@
       "duration_ms": 256026,
       "name": "Miglia e promesse",
       "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Narciso (feat. Murubutu)",
+      "url": "https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Dead poets",
+        "url": "https://open.spotify.com/album/2u4ck3pMmH9uvBTk98e6XO"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        },
+        {
+          "name": "The Rockness Monstah",
+          "url": "https://open.spotify.com/artist/7mXBMpEz4S7jAnBgdYq5mI"
+        },
+        {
+          "name": "Mic Handz",
+          "url": "https://open.spotify.com/artist/2g8mUNOx44gUxvJ2TzqtbD"
+        }
+      ],
+      "duration_ms": 291757,
+      "name": "Poeti estinti",
+      "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "Neffa E I Messaggeri Della Dopa (Remastered)",
+        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Giuliano Palma",
+          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
+        }
+      ],
+      "duration_ms": 311960,
+      "name": "Aspettando Il Sole - Remastered",
+      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 187959,
       "name": "Parla piano",
       "url": "https://open.spotify.com/track/37IHphajTmd27MDLG76zEd"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Neffa E I Messaggeri Della Dopa (Remastered)",
-        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Giuliano Palma",
-          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "Aspettando Il Sole - Remastered",
-      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 320493,
+      "name": "La Ballotta",
+      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "kARMA",
         "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
       },
@@ -1855,6 +1871,22 @@
       "duration_ms": 238773,
       "name": "Il 6\u00b0 Senso",
       "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Sotto lo stesso effetto",
+        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1895,38 +1927,6 @@
       "duration_ms": 197227,
       "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
       "url": "https://open.spotify.com/track/3knYKrDUrIv8F271A7cmEm"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 320493,
-      "name": "La Ballotta",
-      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Sotto lo stesso effetto",
-        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Amor de mi vida",
-      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "added_at": "2023-08-31 22:01:00",

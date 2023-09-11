@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Devano
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,649 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,704 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 45 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 46 | [Not You](https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:33 |
 | 47 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 |
-| 48 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 48 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 49 | [Besarnya Tetap Sama](https://open.spotify.com/track/3ttNZvYUuS0yjWN6cyZLkl) | [TRIOUT](https://open.spotify.com/artist/4Kn4T1kHrFKRV1gbv51VGA) | [Besarnya Tetap Sama](https://open.spotify.com/album/71itTYxf35XSqUnHrkk7TT) | 3:16 |
 | 50 | [Star](https://open.spotify.com/track/73Zoq6Z5lXVJPAERw2s9fp) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [See You in My 19th Life, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/70RhkQek9C6hFNJaXccyWU) | 3:41 |
 | 51 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [Asmalibrasi](https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Asmalibrasi](https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw) | 4:14 |
 | 75 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 |
 
-Snapshot ID: `MCxlNjUyYjc2NjdmYjQ3NzE3NDQ5MDZjNWQ2N2Q0OThiMWY1MjVmOTQ2`
+Snapshot ID: `MCxjYjA4MjNmNTQ2NzY5ZGQ4NmQxMDAwN2VlYTI5YjYxYzA4ZDQ4NzAx`

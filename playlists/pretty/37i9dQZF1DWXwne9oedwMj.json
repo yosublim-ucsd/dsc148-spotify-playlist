@@ -1,12 +1,12 @@
 {
   "description": "Su\u00e9ltala que ella baila sola. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 603010,
+  "num_followers": 602596,
   "original_name": "Con B de Bichota",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTQxOGM1NTQwZmI0ZGQ0ZWZmNzUwNWYxODUwZmMyMjE0NTE5NTc0",
+  "snapshot_id": "MCxmOGQ5Y2IxNjY4ZmVlZDA1NDMwNjc3ZmUzNDE4ZmFhN2VhYTRlZWI0",
   "tracks": [
     {
       "added_at": "2023-07-28 18:06:51",
@@ -155,26 +155,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Te Cura (FAST X Soundtrack)",
-        "url": "https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "Te Cura",
-      "url": "https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
         "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "Te Cura (FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "Te Cura",
+      "url": "https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y"
     },
     {
       "added_at": "2023-07-28 18:06:51",

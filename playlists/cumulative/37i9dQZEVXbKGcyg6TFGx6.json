@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 165833,
       "name": "all-american bitch",
       "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
@@ -5544,7 +5544,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
@@ -9998,7 +9998,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 211141,
       "name": "get him back!",
       "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
@@ -11500,7 +11500,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -11706,7 +11706,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -12040,7 +12040,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 178889,
       "name": "Ich mal den Himmel heute rosa an",
       "url": "https://open.spotify.com/track/7i8REP75WxlbjPZ1ITckDm"
@@ -15628,7 +15628,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 227807,
       "name": "Maria Joana",
       "url": "https://open.spotify.com/track/4yY22pTpZ7qqOEGUtbE6D4"
@@ -19559,6 +19559,24 @@
     },
     {
       "album": {
+        "name": "Estava No Abismo Mas Dei Um Passo Em Frente",
+        "url": "https://open.spotify.com/album/7wLBlDCN5tEBpbhhHmLJ8J"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mafama",
+          "url": "https://open.spotify.com/artist/69ca2Xp6iQx8kzL4jXnrWk"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170558,
+      "name": "Pre\u00e7o Certo",
+      "url": "https://open.spotify.com/track/4CSB7RdBx6Jc8BFFiRFE6K"
+    },
+    {
+      "album": {
         "name": "PRICELESS",
         "url": "https://open.spotify.com/album/6cQZj6A7eGuNim53Ql4nFU"
       },
@@ -22070,7 +22088,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 171655,
       "name": "Single Soon",
       "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
@@ -24070,7 +24088,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-11",
       "duration_ms": 122512,
       "name": "Telefon ohne Kabel \ud83d\udcde",
       "url": "https://open.spotify.com/track/5fxOUNN2WR7X0mklupRxaV"

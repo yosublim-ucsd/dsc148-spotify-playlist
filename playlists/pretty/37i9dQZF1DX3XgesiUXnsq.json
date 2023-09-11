@@ -1,12 +1,12 @@
 {
   "description": "Damn son, where'd ya find this? Cover: Nas",
-  "num_followers": 277855,
+  "num_followers": 277959,
   "original_name": "Raw & Uncut",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDUzNDEwYzA3ZWRlMTliOTg0YTdiMTM4ZDI0NjEzOTgxMjdjMGVi",
+  "snapshot_id": "MCxiZWE2YzNjNTA0YjI0ZTA4Y2I3MjNiOTUwMjYwYzkxZDI5Y2JiNzA3",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -35,26 +35,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
-      },
-      "artists": [
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "Pebbles The Invisible Girl",
-          "url": "https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4"
-        }
-      ],
-      "duration_ms": 298053,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Magic 2",
         "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
       },
@@ -71,6 +51,26 @@
       "duration_ms": 232017,
       "name": "Office Hours (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Pebbles The Invisible Girl",
+          "url": "https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4"
+        }
+      ],
+      "duration_ms": 298053,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
     },
     {
       "added_at": "2023-09-01 04:00:00",

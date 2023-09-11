@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Sorry Ms\. Jackson! Cover: Pashanim
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,101 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,426 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 55 | [candyflips!](https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [I feel like doing candy flips and riding elephants](https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8) | 2:28 |
 | 56 | [Universum regelt](https://open.spotify.com/track/5qoeajoLo8sDwphcqlQ5o1) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 3:12 |
 | 57 | [Rote Flaggen](https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [ROTE FLAGGEN](https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa) | 3:44 |
-| 58 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 58 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 59 | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB) | 3:08 |
 | 60 | [Ich will](https://open.spotify.com/track/16HZAn6XX5XIzKMqcZYoIY) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Ich will](https://open.spotify.com/album/44OcC6K1FFJ2fs76VvGvNg) | 3:13 |
 | 61 | [lost in berlin](https://open.spotify.com/track/7zLb4PC6CUuQwnVd5apkpb) | [BELLUCCI BOI](https://open.spotify.com/artist/5c68xeIPEWsKVqod15NMi2) | [lost in berlin](https://open.spotify.com/album/5WmosvNZDaiUdf3lV9vkak) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Or Nah \(feat\. The Weeknd, Wiz Khalifa & DJ Mustard\) \- Remix](https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Or Nah \(feat\. The Weeknd, Wiz Khalifa & DJ Mustard\) \[Remix\]](https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK) | 4:02 |
 | 100 | [nie weg](https://open.spotify.com/track/09uvUS8BwfwwSW0lHCJIkz) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [nie weg](https://open.spotify.com/album/1pNFywg3gSxxFkMGFhdp27) | 2:37 |
 
-Snapshot ID: `MCxjM2VlMTVjYmRmODUyYmM2YTczNWE2YzJhYjBmZWQ5YTk0MWUxYjZk`
+Snapshot ID: `MCwyNmU5NTlmZTRhNGM1YWEyODRlMDFhOWMzNjE0ZDliNDU1NzZhNzQ4`
