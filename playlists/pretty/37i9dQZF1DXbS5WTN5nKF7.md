@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,041 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,200 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 59 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 60 | [Parce que c'est toi](https://open.spotify.com/track/7yaeoyjJmeHJ6xMFlj4xJr) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Epicentre](https://open.spotify.com/album/1XyYE1siSQg0hR1FoHMDWL) | 2:50 |
 
-Snapshot ID: `MCw4Y2QyMGU5YTY1YTg2ZGNmZmJmOTU1ODIwZDViZTJjYWIxMzEyNmM3`
+Snapshot ID: `MCw4NDg3MjMzNDViYmM4MjU5NzhiYzhlODQzOTcxYmEyMzFhNDVkNzVj`

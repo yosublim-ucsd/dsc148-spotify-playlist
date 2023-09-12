@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW?si=aMqmuT\-dTkmOV0QP8Q\-6zQ">Jervis Campbell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,581 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,759 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Way Too Good](https://open.spotify.com/track/0dNgklMI9uv554WTCQTBQf) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Way Too Good](https://open.spotify.com/album/2liUsHwyNSDXNO1YPT6SXO) | 2:41 |
 | 100 | [Rampage](https://open.spotify.com/track/3JXqRCeXxeNLKLuCgX8o9h) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [God Be Praised](https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i) | 3:19 |
 
-Snapshot ID: `MCw4NjdlNGI4ZDgwNmMxNmFhZmY1ZGRiMTFlMmVkNWZlOWRmODM4NjFh`
+Snapshot ID: `MCxkMjdlNjBlOGY4M2YyMjg4NTQ3NWE1N2ZlZDBhZmYwM2FlODdjZTc3`

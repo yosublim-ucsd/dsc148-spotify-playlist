@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB?si=CS9Gq9vzTCqU0PtFgigllA">Cardi B</a>, <a href="https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK?si=OOhuYCaWSNCvTM1cKWn3XQ">Megan Thee Stallion</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,834 likes - 56 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,873 likes - 56 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 55 | [My Name Is Violence](https://open.spotify.com/track/5BlYPjgV5PBKg7tfwUpLSk) | [Yorxe](https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8) | [My Name Is Violence](https://open.spotify.com/album/6XZdARkEPrWVJGhYObJZui) | 2:34 |
 | 56 | [Sbong'Amazulu](https://open.spotify.com/track/0WHnfk4UEbaR2U0jDa7e0c) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq) | [Sbong'Amazulu](https://open.spotify.com/album/6vRQNI0wqC86l2syCGW7DG) | 3:15 |
 
-Snapshot ID: `MCw4OTZhYzc1OWI2MzUzNjg4NzIyM2E3MmE2NDVlNTliOTU1Yjk0MDk2`
+Snapshot ID: `MCwxOGNiYjk4ZTk1M2RhMDY2YWRhYTg0MjgwOWE0ZGU5YjRhZWY0OTFm`

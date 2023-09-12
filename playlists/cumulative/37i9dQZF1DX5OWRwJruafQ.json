@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 104374,
       "name": "Da Boyz",
       "url": "https://open.spotify.com/track/3g8pr3GIUlFFya9RfEpBtw"
@@ -1010,6 +1010,24 @@
       "duration_ms": 125333,
       "name": "Duphare",
       "url": "https://open.spotify.com/track/6Yd2Qe4m4DHNrOYoGz46Us"
+    },
+    {
+      "album": {
+        "name": "Fluke",
+        "url": "https://open.spotify.com/album/6fk8tsjC44D7JuY4TcwBXO"
+      },
+      "artists": [
+        {
+          "name": "Deep Karan",
+          "url": "https://open.spotify.com/artist/2rAC8yC2Aqdo2utiGuDto2"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131162,
+      "name": "Elite",
+      "url": "https://open.spotify.com/track/2m9aE9cICRHXEg3s4Tqoti"
     },
     {
       "album": {
@@ -1419,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Gears",
+        "url": "https://open.spotify.com/album/4L90juD2dYHLXKlhdnYuDy"
+      },
+      "artists": [
+        {
+          "name": "NIJJAR",
+          "url": "https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154884,
+      "name": "Gears",
+      "url": "https://open.spotify.com/track/1pDouKngSQ68EnQZLsqOJQ"
+    },
+    {
+      "album": {
         "name": "Glock (From Tufang)",
         "url": "https://open.spotify.com/album/5il5FEoX2N3wqsIlBxVT4I"
       },
@@ -1500,7 +1536,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 178520,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/7wkAbTbO0iaLuoTvAkWMCV"
@@ -2408,7 +2444,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 147200,
       "name": "Mosh Pit",
       "url": "https://open.spotify.com/track/7nxnkCT2RTeXVJoV02sPGs"
@@ -3105,6 +3141,32 @@
     },
     {
       "album": {
+        "name": "Beyond Belief",
+        "url": "https://open.spotify.com/album/7oF59pfaoiCd29K5UzT0K4"
+      },
+      "artists": [
+        {
+          "name": "The Landers",
+          "url": "https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp"
+        },
+        {
+          "name": "Davi Singh",
+          "url": "https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0"
+        },
+        {
+          "name": "Lafz",
+          "url": "https://open.spotify.com/artist/3AFsfA31wg6nLvZwSKFszq"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "Royal",
+      "url": "https://open.spotify.com/track/1ef21vkRkY1XdkhBHiHcLo"
+    },
+    {
+      "album": {
         "name": "Rubicon",
         "url": "https://open.spotify.com/album/78eM6G2sL4H255Zq1UslaJ"
       },
@@ -3278,7 +3340,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 169680,
       "name": "Shortie",
       "url": "https://open.spotify.com/track/2cZ2xCQL2Zgp9KMq8zERY1"
@@ -3646,7 +3708,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 192000,
       "name": "Tinted Windows",
       "url": "https://open.spotify.com/track/6KLca4Dxyf5ArZoyqgmwhr"

@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 258200,
       "name": "Alice Through the Looking Glass",
       "url": "https://open.spotify.com/track/7sArXWDg86rMoLG46QE2ac"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 253226,
       "name": "Amazing - CHR Single Edit",
       "url": "https://open.spotify.com/track/4sjewq2HyPY7QECdCctCey"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 414778,
       "name": "Beyond the Matrix - Live At The AFAS Live",
       "url": "https://open.spotify.com/track/5v4dSDlQ9cChObDYjYtZKh"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 194426,
       "name": "Big Boots",
       "url": "https://open.spotify.com/track/2MlvPacdsznpfKCRmQo3F7"
@@ -3133,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "Road",
+        "url": "https://open.spotify.com/album/0aho7oWBIdmE4LM3N9Jsll"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210897,
+      "name": "Dead Don't Dance",
+      "url": "https://open.spotify.com/track/320MEFOasIIowsnaPPbdNa"
+    },
+    {
+      "album": {
         "name": "Dead To The World",
         "url": "https://open.spotify.com/album/3SVwQmt2Eu8Hr63m3rT3zn"
       },
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 250408,
       "name": "Death's Forgotten Children",
       "url": "https://open.spotify.com/track/5BVYN9Wv6bVAROkmtpqNul"
@@ -4834,7 +4852,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 146697,
       "name": "Growling Showers",
       "url": "https://open.spotify.com/track/0UtpNV4xwK7Pqoj6lLZvfY"
@@ -5486,7 +5504,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
@@ -5512,7 +5530,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/4GBMd137VlyG371NlP4f0p"
@@ -5876,7 +5894,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 403373,
       "name": "I Need Your Loving - Dub Version",
       "url": "https://open.spotify.com/track/0qAkT5XnQCdYxFR1WvTCUx"
@@ -5894,7 +5912,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 435973,
       "name": "I Need Your Loving - Extended Version",
       "url": "https://open.spotify.com/track/25p3dckllV2Hdrqu4yDcy3"
@@ -6090,6 +6108,24 @@
       "duration_ms": 235386,
       "name": "I'm Alice",
       "url": "https://open.spotify.com/track/6moRtThbNDALIv8qaS1263"
+    },
+    {
+      "album": {
+        "name": "Live USA... '71",
+        "url": "https://open.spotify.com/album/0l0c222KP2LfzeXfQTCrTo"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428634,
+      "name": "I've Seen All Good People - Live: Yale Bowl, USA 24th July 1971",
+      "url": "https://open.spotify.com/track/79E74cEOPLkFbdOdnErNjl"
     },
     {
       "album": {
@@ -7510,7 +7546,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 267859,
       "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
       "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
@@ -7936,7 +7972,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 359684,
       "name": "Love Can Heal - Bright-Side Mix",
       "url": "https://open.spotify.com/track/7Fz3p7M8lcYFUEhoTgHrPU"
@@ -9126,7 +9162,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 123638,
       "name": "Never Done Nothing Like That Before - 2023 Remaster",
       "url": "https://open.spotify.com/track/686p6mrCE6HcLbAISuKjAa"
@@ -10978,7 +11014,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 111746,
       "name": "Resting Substantial",
       "url": "https://open.spotify.com/track/18jT89Dl3ij6ErGIgjJmWY"
@@ -11444,7 +11480,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Same Old Song And Dance - Single Version",
       "url": "https://open.spotify.com/track/3xZBnPiemUbyxVeCB9MB6w"
@@ -12531,6 +12567,24 @@
     },
     {
       "album": {
+        "name": "Life on Other Planets (2023 Remaster)",
+        "url": "https://open.spotify.com/album/5n4k8AgXN0kbZ6sESKDV1D"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154386,
+      "name": "Stinkfinger",
+      "url": "https://open.spotify.com/track/0vRQ5rTpJbQ3s35sDridvo"
+    },
+    {
+      "album": {
         "name": "Misery Made Me (Deluxe)",
         "url": "https://open.spotify.com/album/3ENQtNYF2dLk3vwHP67oy0"
       },
@@ -13310,7 +13364,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 231960,
       "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
       "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
@@ -15836,7 +15890,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 712370,
       "name": "Yours Is No Disgrace - Live: Yale Bowl, USA 24th July 1971",
       "url": "https://open.spotify.com/track/7xhyCH2gmbWKINV4KO0Dqc"

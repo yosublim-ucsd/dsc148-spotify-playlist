@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-272 songs - 10 hr 32 min
+276 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Barcelona](https://open.spotify.com/track/5JSQc1Anz5HWLZUpMbmMh1) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Barcelona](https://open.spotify.com/album/1YrneT7zPyEDXSnJ2AIDrD) | 2:46 | 2023-05-15 |  |
 | [Between The Lines](https://open.spotify.com/track/33BPMNYcPhcua4D5MhJa6d) | [Michel Haspeslagh](https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl) | [Between The lines](https://open.spotify.com/album/5jDKJJoabz0LeU11vXVfRR) | 2:35 | 2023-05-15 |  |
 | [Beyond The Sun](https://open.spotify.com/track/4cq0zgDNcYj3auhiT6i7Cx) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Beyond The Sun](https://open.spotify.com/album/1ZzfWQIwgAn0AHZVATRg6V) | 2:59 | 2021-06-27 | 2023-05-16 |
+| [Bird of Passage](https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Bird of Passage](https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO) | 2:07 | 2023-09-11 |  |
 | [Borrowed Peace](https://open.spotify.com/track/51s3ibJpDlmrr41l331xJA) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Nainsook](https://open.spotify.com/album/0c2uw96zlJP8jMui1HA38h) | 1:45 | 2021-06-27 | 2022-07-29 |
 | [Borrowed Peace](https://open.spotify.com/track/6S8a2phix2XOZBcTybxP3m) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 1:45 | 2022-07-05 | 2022-11-13 |
 | [Borrowed Peace](https://open.spotify.com/track/7CBRVxkndOKeWUEfRclXNK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Nainsook](https://open.spotify.com/album/22327BzhUptdLP59olNlXK) | 1:45 | 2022-07-05 | 2023-05-16 |
@@ -115,7 +116,9 @@
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-05-15 |  |
 | [Hoarfrost](https://open.spotify.com/track/035cErPCPOVn4L3USUtBc9) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [20023](https://open.spotify.com/album/32zg3pyWlp7g2lvJ2CN68Z) | 2:31 | 2023-06-19 |  |
 | [Hoarfrost](https://open.spotify.com/track/7raJ9hPFYeCf8o43g176zS) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Hoarfrost](https://open.spotify.com/album/6DaDlbh2nSPJoD3Qj3pjXS) | 2:31 | 2023-05-15 | 2023-07-09 |
+| [If The Wind Stops \- Calm Version](https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo](https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2) | 4:04 | 2023-09-11 |  |
 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 | 2023-05-15 |  |
+| [Inside the Moon](https://open.spotify.com/track/64vVXe441Mo6VmJJw6Ab2d) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Inside the Moon](https://open.spotify.com/album/30Uqu5fDo3Bjykr8fkuxUD) | 1:45 | 2023-09-11 |  |
 | [Intervention](https://open.spotify.com/track/4fIU735WMN6QXZKysQkbop) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [KEEN: Soft Piano Vol\. 2](https://open.spotify.com/album/2ZgUoWirpgNlnnEYOKDXpT) | 2:19 | 2022-07-05 | 2022-11-13 |
 | [Intervention](https://open.spotify.com/track/5w8M2WZDLoFwycrmB3QfBm) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/5ZVtZ3m4nZBoc0R2paTrKc) | 2:19 | 2021-06-27 | 2022-07-29 |
 | [Intervention](https://open.spotify.com/track/6MDfWbNJYTqkS7uvJeq0Hq) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/4bOm72QuKbzeeo0HBHpD1a) | 2:19 | 2022-07-05 | 2023-05-16 |
@@ -235,6 +238,7 @@
 | [Somewhere In Between](https://open.spotify.com/track/1dWtAobHBqAxNS4W495gda) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/5ElKIzZRCQYV6AlyLHOmPj) | 2:31 | 2022-07-05 | 2022-11-13 |
 | [Somewhere In Between](https://open.spotify.com/track/5kHMqwwwlHCdt24t2e7pEq) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:31 | 2022-07-05 | 2023-05-16 |
 | [Somewhere In Between](https://open.spotify.com/track/7DGFxOJp8gfV3Y1JqOJ1A4) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/0s4ZLWPmhBUnHYOGWdhrLv) | 2:31 | 2021-06-27 | 2022-07-29 |
+| [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-09-11 |  |
 | [Sparkles](https://open.spotify.com/track/49iaI2NVe2c0iz4YzpzeB3) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Sparkles](https://open.spotify.com/album/1XQuLySsbrFuKnGjsdpI8r) | 3:20 | 2021-06-27 | 2023-05-16 |
 | [Spiraling Nature](https://open.spotify.com/track/5W3McsWhwFJlt8IXb2XLTZ) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Nature Spirals](https://open.spotify.com/album/5YatqGtD20czHMYisddo9l) | 2:48 | 2023-05-15 |  |
 | [Star Canopy](https://open.spotify.com/track/0Zmkl2ZG4yyLiPpoDpHILy) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Star Canopy](https://open.spotify.com/album/7ESxVY33u8rpG3jj7QZrtk) | 1:55 | 2023-05-15 | 2023-08-16 |

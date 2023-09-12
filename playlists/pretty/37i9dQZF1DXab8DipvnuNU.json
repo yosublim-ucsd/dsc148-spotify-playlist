@@ -1,12 +1,12 @@
 {
   "description": "Curated by Bun B.",
-  "num_followers": 17254,
+  "num_followers": 17289,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2U5MGZiYzA5OTU0ZGU0NzVjODllYjFhNzg3OTRiNmRjNTY0Nzk3",
+  "snapshot_id": "MCwwY2IzMjliODBkOGQ5MTIzOWU3NjM1Njc3Y2ZjZmQxNDU3ZGNmZWFk",
   "tracks": [
     {
       "added_at": "2023-08-30 19:30:34",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 301466,
+      "name": "Juicy - 2007 Remaster",
+      "url": "https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
         "name": "The People's Champ",
         "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 228933,
       "name": "Sittin' Sidewayz (feat. Big Pokey)",
       "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 301466,
-      "name": "Juicy - 2007 Remaster",
-      "url": "https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
         "name": "Best Thang Smokin' (Explicit Version)",
         "url": "https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 258680,
       "name": "Shoulder Lean (feat. T.I.)",
       "url": "https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Hard Core",
-        "url": "https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT"
-      },
-      "artists": [
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "Crush on You",
-      "url": "https://open.spotify.com/track/1bb6bROP3OXMHcPw84MtmN"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "Let's Get Ready",
         "url": "https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 211400,
       "name": "Danger (Been So Long) (feat. Nivea)",
       "url": "https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "Hard Core",
+        "url": "https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "Crush on You",
+      "url": "https://open.spotify.com/track/1bb6bROP3OXMHcPw84MtmN"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Don't Mess Wit Texas",
-        "url": "https://open.spotify.com/album/7zys39FMYPFyJkob8RYzJN"
-      },
-      "artists": [
-        {
-          "name": "Lil' Keke",
-          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
-        }
-      ],
-      "duration_ms": 290120,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/7kkOuhyWcINZMDh4QGVyMB"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "Undaground Legend (Explicit)",
         "url": "https://open.spotify.com/album/5GkzesERHAJvYGw3L5r4qm"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 310133,
       "name": "Space Age Pimpin'",
       "url": "https://open.spotify.com/track/1b8WvjQ6aT3MrqouZHCqsE"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "Don't Mess Wit Texas",
+        "url": "https://open.spotify.com/album/7zys39FMYPFyJkob8RYzJN"
+      },
+      "artists": [
+        {
+          "name": "Lil' Keke",
+          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+        }
+      ],
+      "duration_ms": 290120,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/7kkOuhyWcINZMDh4QGVyMB"
     },
     {
       "added_at": "2023-08-30 19:30:34",

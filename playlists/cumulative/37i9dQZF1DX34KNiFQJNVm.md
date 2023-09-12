@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Raí Saia Rodada e João Gomes, Iguinho e Lulinha, Sidoka, Olivia Rodrigo e muito mais!
 
-7,896 songs - 16 day 17 hr 31 min
+7,897 songs - 16 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Ambicioso](https://open.spotify.com/track/4TbmRs8sJVW6FuBS826Rnp) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Ambicioso](https://open.spotify.com/album/0AUEz9YIOrPzbSGISTvtEP) | 2:43 | 2022-04-29 | 2022-05-07 |
 | [AMBIENTE ERRADO \- Ao Vivo](https://open.spotify.com/track/2nfnhFDhwMet9yZodpGfn3) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [AMBIENTE ERRADO \(Ao Vivo\)](https://open.spotify.com/album/5OyqoxpsEn7XEilamuZcXU) | 2:24 | 2023-08-04 | 2023-08-12 |
 | [Amei](https://open.spotify.com/track/7iBLSLW3ugsxpwX6Ukkljm) | [MC Teteu](https://open.spotify.com/artist/2pV4eqEWsHrgwSbuAg2fmi), [DJ Gbeats](https://open.spotify.com/artist/6FP14bsH6aFtDwsiBOBc9B) | [Amei](https://open.spotify.com/album/4EEF1c3NqhPgH08mQgOTRf) | 3:08 | 2023-06-02 | 2023-06-10 |
+| [Amei, Gamei \- Ao Vivo](https://open.spotify.com/track/3qf98C44ZkHNn3tq6Ubl8d) | [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Amei, Gamei \(Ao Vivo\)](https://open.spotify.com/album/35fzUWOP6qKGVoTYVmqrJB) | 2:42 | 2023-09-11 |  |
 | [AMEIANOITE](https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX) | 2:45 | 2022-10-21 | 2022-10-29 |
 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 | 2023-06-02 | 2023-06-10 |
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-26 | 2023-06-03 |

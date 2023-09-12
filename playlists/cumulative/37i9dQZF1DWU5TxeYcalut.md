@@ -4,7 +4,7 @@
 
 > Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
-129 songs - 10 hr 49 min
+130 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Burlesque](https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb) | [Thiago Espirito Santo](https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx), [Mauricio Einhorn](https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI), [Bruno Cardozo](https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un), [Cuca Teixeira](https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM) | [Afinidades](https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA) | 5:43 | 2022-07-08 |  |
 | [Caminantes](https://open.spotify.com/track/6vyueVHjiPa1dBxIsggoJC) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Luis Guerreiro](https://open.spotify.com/artist/4c2pFClxxIDe4fLaRdnoEb), [Martin Sued](https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI) | [Caminantes](https://open.spotify.com/album/2LWPcI3k9L4LOA4jZUQ7Fx) | 3:31 | 2022-07-08 | 2022-10-16 |
 | [Caminantes](https://open.spotify.com/track/4jVsgg9KLBQvLiYCvcLFDj) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Martin Sued](https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI), [Luis Guerreiro](https://open.spotify.com/artist/4c2pFClxxIDe4fLaRdnoEb) | [Caminantes](https://open.spotify.com/album/4WRn0U1uiC5rjYpAKZXkc3) | 3:31 | 2022-07-08 |  |
+| [Cantar e Sangrar](https://open.spotify.com/track/4SGzD1eQto9Cz4vgrPins1) | [André Morais](https://open.spotify.com/artist/3RudD2LjiDFWuf1dmubEwk), [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Cantar e Sangrar](https://open.spotify.com/album/4za1TXOun6WJNVv7D0bHyV) | 4:40 | 2023-09-11 |  |
 | [Canto de Aruanda](https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6) | [Edu Sangirardi](https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02) | [Um](https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO) | 4:31 | 2022-07-08 |  |
 | [Canto de Xangô](https://open.spotify.com/track/2RpxBZ16nVV7Q0xJdPZLEe) | [Alexandre Caldi](https://open.spotify.com/artist/02ELxCkzVWc9QFpmOan806), [Itamar Assiere](https://open.spotify.com/artist/2NNIgK2jzSJYIwgKHd2bo1) | [Afro+sambas](https://open.spotify.com/album/2E4n2bzp40z1akpP3EmRZA) | 4:59 | 2022-07-08 |  |
 | [Canção da Odalisca](https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn) | [Caetano Brasil](https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP) | [Canção da Odalisca](https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh) | 6:05 | 2022-07-08 |  |
@@ -36,7 +37,7 @@
 | [Coisa No\. 10](https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/6JE3031cYqjRrfi1rYwEJV) | 3:03 | 2022-07-08 |  |
 | [Consolação \- Live](https://open.spotify.com/track/49KG5t8YMzD1HIusWoNchm) | [Bola Sete](https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW) | [Consolação \(Live\)](https://open.spotify.com/album/0idYgGKX0aTVmUVIJ3Dhzs) | 4:43 | 2022-07-08 |  |
 | [Costa da Mina](https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM) | [Nelson Latif](https://open.spotify.com/artist/0zaH41rdJncnNnh6MDLG51), [Pablo Nahar](https://open.spotify.com/artist/3FPl7qUgljLraR4vJ8kKIK), [Praful](https://open.spotify.com/artist/1CTc17XcooaxP99IdyVhzO), [Joeri de Graaf](https://open.spotify.com/artist/7unlmnm8l7biNSIQObR5w3), [Olaf Keus](https://open.spotify.com/artist/6JNEM6MvA6AehG2EN9OGmv) | [Choramundo](https://open.spotify.com/album/4A259Tg4wksVs2FuHeaPIU) | 3:22 | 2022-07-08 |  |
-| [Cozinhando Pedra](https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7) | [Bruno Cardozo](https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un) | [Cozinhando Pedra](https://open.spotify.com/album/1pqCyF37r676FpcO72dCcm) | 5:22 | 2022-07-08 |  |
+| [Cozinhando Pedra](https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7) | [Bruno Cardozo](https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un) | [Cozinhando Pedra](https://open.spotify.com/album/1pqCyF37r676FpcO72dCcm) | 5:22 | 2022-07-08 | 2023-09-12 |
 | [Dale!](https://open.spotify.com/track/7yoPPkk8PZ5HSbLkDD9kSL) | [OTAVIO CASTRO](https://open.spotify.com/artist/59f7jS09aOVhH1KP4rux2h) | [DALE!](https://open.spotify.com/album/5OVQ3590mvqVFGFkda7bmG) | 6:00 | 2022-07-08 | 2023-01-21 |
 | [Deus É Amor Pra Tudo Que É Fé](https://open.spotify.com/track/4u9aQn8xLCcLlbJsOAspoO) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Daniel Santiago](https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g), [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE), [Thiago Espirito Santo](https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx) | [Harmonize](https://open.spotify.com/album/50FauL4PvB8nRiTO44pWcF) | 5:48 | 2022-07-08 |  |
 | [Dindi](https://open.spotify.com/track/1MSJDpRYmt0ZVcfTUVYHjb) | [Andrea Rodeguero](https://open.spotify.com/artist/1L6sdSmaA8PkSO3Qgz86Gg) | [Dindi](https://open.spotify.com/album/0CdeJdevVTntUkuwLBRoYH) | 4:31 | 2022-07-08 | 2023-01-07 |

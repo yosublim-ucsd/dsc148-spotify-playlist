@@ -1,32 +1,28 @@
 {
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=LJke8bmwSjeu4whf3N_9HA\">Khaligraph Jones</a>",
-  "num_followers": 9541,
+  "num_followers": 9556,
   "original_name": "254 Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzc0YjliZjIzNzk4YjQ4MDkzMjY1YmI1NzUyZTlmODhkOTI0MDI4",
+  "snapshot_id": "MCw5OGQ3ZDAzMTk3ODBkZjY2NWUyNWUxMDFlNzVmODUyMWQ1MjY1Mzlk",
   "tracks": [
     {
-      "added_at": "2023-09-07 20:59:00",
+      "added_at": "2023-09-11 11:46:13",
       "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/5hY6eS9rOtoahRhOzQqO5a"
+        "name": "Suluhu",
+        "url": "https://open.spotify.com/album/47zlUL4ZroYapgxprNKyzs"
       },
       "artists": [
         {
-          "name": "Young Lunya",
-          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
-        },
-        {
-          "name": "Khaligraph Jones",
-          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
         }
       ],
-      "duration_ms": 228413,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/5itPp7vwbbObaeYETYTonq"
+      "duration_ms": 145924,
+      "name": "Suluhu",
+      "url": "https://open.spotify.com/track/5rjQ4OPzr17HCT6twZ0NAE"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -115,6 +111,26 @@
       "duration_ms": 123428,
       "name": "Big Makamasi",
       "url": "https://open.spotify.com/track/1vIsMO3ZjadxOWvo93UyKS"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/5hY6eS9rOtoahRhOzQqO5a"
+      },
+      "artists": [
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        },
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/5itPp7vwbbObaeYETYTonq"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -867,34 +883,6 @@
       "duration_ms": 157360,
       "name": "Pretty Overload",
       "url": "https://open.spotify.com/track/6a2WQeQHhW1xUiIjskV672"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
-        "name": "Romantic Rivals",
-        "url": "https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE"
-      },
-      "artists": [
-        {
-          "name": "Wangechi",
-          "url": "https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6"
-        },
-        {
-          "name": "Scar Mkadinali",
-          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
-        },
-        {
-          "name": "Domani Mkadinali",
-          "url": "https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2"
-        },
-        {
-          "name": "Sewersydaa",
-          "url": "https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Romantic Rivals",
-      "url": "https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY"
     },
     {
       "added_at": "2023-09-07 20:59:00",

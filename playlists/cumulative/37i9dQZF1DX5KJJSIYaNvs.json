@@ -1715,6 +1715,36 @@
     },
     {
       "album": {
+        "name": "Jaane Jaan Title Track (From \"Jaane Jaan\")",
+        "url": "https://open.spotify.com/album/5xDXicz8xdAi6jvSH4BrxY"
+      },
+      "artists": [
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Laxmikant\u2013Pyarelal",
+          "url": "https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax"
+        },
+        {
+          "name": "Rajendra Krishan",
+          "url": "https://open.spotify.com/artist/0wfdmeqX8y9eyNIX9lV0Or"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140468,
+      "name": "Jaane Jaan - Title Track (From \"Jaane Jaan\")",
+      "url": "https://open.spotify.com/track/5rFTcUfO3ZPztJHEmFOdvM"
+    },
+    {
+      "album": {
         "name": "Jaaneman",
         "url": "https://open.spotify.com/album/1g2zQPpJLEJANEHD7zGL1U"
       },
@@ -3384,7 +3414,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 285185,
       "name": "Patakha Guddi",
       "url": "https://open.spotify.com/track/7jpmNt5iCtSdXuT1xEGp8O"
@@ -4028,7 +4058,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 269184,
       "name": "Samjhawan",
       "url": "https://open.spotify.com/track/0rk2X5TAhraBC5aCIXK2Rq"
@@ -4568,6 +4598,32 @@
       "duration_ms": 255000,
       "name": "Tu Yaheen Hai",
       "url": "https://open.spotify.com/track/0Xf1lj3RisQlWR2dqp22Zk"
+    },
+    {
+      "album": {
+        "name": "Tum Kehte Ho",
+        "url": "https://open.spotify.com/album/6334yNVPRPAyZzLnp3CalX"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Sunayana Kachroo",
+          "url": "https://open.spotify.com/artist/29UdvhODQC1KwziGG44sKL"
+        },
+        {
+          "name": "Saleel Kulkarni",
+          "url": "https://open.spotify.com/artist/6Ow4DmnD2v4gQtqpPjR3lr"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275869,
+      "name": "Tum Kehte Ho",
+      "url": "https://open.spotify.com/track/3M7JuqD4jpOR3SJn48UXU4"
     },
     {
       "album": {

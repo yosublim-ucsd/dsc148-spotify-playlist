@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 6465,
+  "num_followers": 6472,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NzQ5OCw3ZjE0M2JmNDczNzRiNWNjNDhlNDk5YjgyOTRlMWVkMDZiMDgwYjE3",
+  "snapshot_id": "NzUwMCw3YzQzNGM5NWFhYTU2OGE1MTZjZDYyMTUxYWYxNTk2YmVkNGZmZTFm",
   "tracks": [
     {
       "added_at": "2023-09-08 08:25:03",
@@ -219,6 +219,26 @@
       "duration_ms": 176190,
       "name": "Run",
       "url": "https://open.spotify.com/track/1RdqNVmPtG0EaYASBTvKyn"
+    },
+    {
+      "added_at": "2023-09-11 13:09:27",
+      "album": {
+        "name": "YDK",
+        "url": "https://open.spotify.com/album/5JdSrFEJ2DmB6Wa3pXutg5"
+      },
+      "artists": [
+        {
+          "name": "GrooveYard",
+          "url": "https://open.spotify.com/artist/2itNATItXtIi6sV8V4P2pT"
+        },
+        {
+          "name": "Kxne",
+          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
+        }
+      ],
+      "duration_ms": 218437,
+      "name": "YDK",
+      "url": "https://open.spotify.com/track/7uX1MHI86spjNNWuVXGHIH"
     },
     {
       "added_at": "2023-09-08 08:31:52",

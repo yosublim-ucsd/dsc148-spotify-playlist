@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 240 songs - 16 hr 41 min
+[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 241 songs - 16 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,5 +248,6 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 238 | [Serpent of Eden](https://open.spotify.com/track/43LpIP9zB2CQ5pCLTyfsYE) | [Reptilian Civilian](https://open.spotify.com/artist/1hNjyYqrL9ktyo8LZFZX9Q) | [Oblitus Scientia](https://open.spotify.com/album/7D8jTrxCZrz5uD65Slnb85) | 3:33 |
 | 239 | [Avarice](https://open.spotify.com/track/5UHmdE56RGE1yiLNZ8OJkH) | [WATCHLIST](https://open.spotify.com/artist/6xjPWlyX9WcVCVjVl4IC9b) | [Avarice](https://open.spotify.com/album/6puhZhHAFEpwd9BFPv31yY) | 3:35 |
 | 240 | [Dream Eater](https://open.spotify.com/track/548QFtRn14cTtRA6Zw2TzM) | [I Satan](https://open.spotify.com/artist/6a97Q9WrO0RsSCcXHwNaPM) | [Dream Eater](https://open.spotify.com/album/3jWielR7DCaifyUVPy13jR) | 5:01 |
+| 241 | [Dwell In The Void](https://open.spotify.com/track/3aW6M0RlEDqUb9IKeVIcEJ) | [Shallow Dissent](https://open.spotify.com/artist/6A7uxd2a7b2PhPXx6GD7hR) | [Dwell In The Void](https://open.spotify.com/album/7o1cbp5f2HLWxGtRtClRKy) | 4:51 |
 
-Snapshot ID: `MzQ3LGFjNDEzYzE1N2M2ZTkwYzhmYThlZDQyMzJjZGIyZTJjOWEzNGI1ZTM=`
+Snapshot ID: `MzQ4LGU3NjE4NTFlYTQ4NDljOGI5M2E3MDRkMzMxODZjNTQ4Y2E2ODVhYTA=`

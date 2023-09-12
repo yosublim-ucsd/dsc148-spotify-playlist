@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Olivia Rodrigo \(pictured\), Leigh\-Anne, Romy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,299 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,312 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 149 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 | 150 | [Glow Up](https://open.spotify.com/track/54pBJtl72q0YWAR31LtxS2) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Glow Up](https://open.spotify.com/album/6n13YZBvWybdWkphVsGeJ2) | 3:58 |
 
-Snapshot ID: `MCwzNWE3MWNiZGY5M2U3ZTg0YTBiNmNjMTc4ZTExYmUzZGZjNWE2MzIx`
+Snapshot ID: `MCxkMzc4NDA3N2FkM2ZlMDIwYWFkM2U1YTRhNzYxNTg1MzgzNDk3MDBk`

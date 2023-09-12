@@ -698,7 +698,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 160080,
       "name": "Rockin' Robin",
       "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
@@ -738,6 +738,24 @@
       "duration_ms": 151573,
       "name": "Shake, Rattle And Roll - Single Version",
       "url": "https://open.spotify.com/track/2McHF33C9Tx4lfwKBefE4n"
+    },
+    {
+      "album": {
+        "name": "Hello My Darlings!",
+        "url": "https://open.spotify.com/album/47QlvxKuYDTprR8jVQYuRU"
+      },
+      "artists": [
+        {
+          "name": "Charlie Drake",
+          "url": "https://open.spotify.com/artist/4wI66rq9yElydiZgNL8lHA"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/6yVgsfuJMIfJIxQ6bRnOla"
     },
     {
       "album": {

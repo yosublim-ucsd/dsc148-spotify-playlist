@@ -4,7 +4,7 @@
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻  YUNGBLUD in cover!
 
-623 songs - 1 day 4 hr 32 min
+624 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [BABY DOLL](https://open.spotify.com/track/1ujONgmMYCNm0xFDSZZBqP) | [Delorean](https://open.spotify.com/artist/6cOxMyXc6gp4WsI4vruk2h) | [TEPPISTA](https://open.spotify.com/album/0G6EDjdgrG8HuP2GPyheNC) | 2:23 | 2023-07-20 | 2023-08-04 |
 | [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 2:29 | 2022-05-06 | 2022-10-14 |
 | [Backrooms](https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Backrooms](https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ) | 1:51 | 2023-03-23 | 2023-04-21 |
-| [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 |  |
+| [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 | 2023-09-12 |
+| [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-08-31 |  |
 | [BAMBINA IN DISCOTECA](https://open.spotify.com/track/5xgYbfxberTCnMlMrnmGHh) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [BAMBINA IN DISCOTECA](https://open.spotify.com/album/0Hc1ajYXVxUQyoOZ1aP5x1) | 2:09 | 2022-12-08 | 2022-12-24 |
 | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/track/4Yy7MgDF6Zz32x0AE4dy2Q) | [MilesToy](https://open.spotify.com/artist/70Aar9GzCVdqrppzzQ0vU6) | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/album/7phGRMfDC0Q6huQWwJ7nMn) | 2:58 | 2022-12-22 | 2023-01-13 |
 | [Bambino](https://open.spotify.com/track/5PN45xdNO9aTq1zhMaSS1H) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH) | [Bambino](https://open.spotify.com/album/7Dg9xWHAxs8XbGmSCOIhfd) | 2:44 | 2023-02-23 | 2023-04-28 |

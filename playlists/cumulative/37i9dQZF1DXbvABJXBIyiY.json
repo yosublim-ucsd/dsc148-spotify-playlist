@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "If This Is The End",
+        "url": "https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362786,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h"
+    },
+    {
+      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 237160,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/3pvTrpsqbBF3OduTOPOkii"

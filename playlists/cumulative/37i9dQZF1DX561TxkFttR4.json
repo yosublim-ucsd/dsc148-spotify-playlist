@@ -1203,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "Dreamt, far hope...",
+        "url": "https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF"
+      },
+      "artists": [
+        {
+          "name": "North Connolly",
+          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139515,
+      "name": "Dreamt, far hope...",
+      "url": "https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo"
+    },
+    {
+      "album": {
         "name": "Ecartele",
         "url": "https://open.spotify.com/album/4y3ypkK6i0hujVdW1eoGbg"
       },
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 182805,
       "name": "how we sleep",
       "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
@@ -2050,6 +2068,24 @@
       "duration_ms": 70226,
       "name": "Innocence - From \"Free The Mind\" Soundtrack",
       "url": "https://open.spotify.com/track/3zxT39EqRCqelkW905AsCA"
+    },
+    {
+      "album": {
+        "name": "Kastepiisk",
+        "url": "https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm"
+      },
+      "artists": [
+        {
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201159,
+      "name": "Kastepiisk",
+      "url": "https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em"
     },
     {
       "album": {
@@ -3150,7 +3186,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 203935,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc"

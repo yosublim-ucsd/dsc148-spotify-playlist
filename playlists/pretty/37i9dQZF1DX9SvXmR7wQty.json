@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Karkwa",
-  "num_followers": 37813,
+  "num_followers": 37827,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDYwYzFhZjJmZGFlM2NhMGRjYTJmZGI2YzE1NDQyZmFjZjBlOTM4",
+  "snapshot_id": "MCxlZmI3YWM4NmFlNWQ1YTU5MjZmZDRlZjNkNDZjMDlhNjJjYTAzZGU5",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -171,26 +171,18 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Y Dor",
-        "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
+        "name": "Trop parler",
+        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Unleaded",
-          "url": "https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 145620,
-      "name": "Y Dor",
-      "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
+      "duration_ms": 183865,
+      "name": "Trop parler",
+      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -211,18 +203,26 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Trop parler",
-        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+        "name": "Y Dor",
+        "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Unleaded",
+          "url": "https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 183865,
-      "name": "Trop parler",
-      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
+      "duration_ms": 145620,
+      "name": "Y Dor",
+      "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -383,6 +383,26 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "Immonde",
+        "url": "https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 162525,
+      "name": "Immonde",
+      "url": "https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Roly",
         "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 154580,
       "name": "\u00c7a va !",
       "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Immonde",
-        "url": "https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        }
-      ],
-      "duration_ms": 162525,
-      "name": "Immonde",
-      "url": "https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "\u00c7a va",
+        "url": "https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 171853,
+      "name": "\u00c7a va",
+      "url": "https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Dans la moyenne",
         "url": "https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 217586,
       "name": "Puis t'as dans\u00e9 avec moi",
       "url": "https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "\u00c7a va",
-        "url": "https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 171853,
-      "name": "\u00c7a va",
-      "url": "https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Alg\u00e9rien F\u00e2ch\u00e9",
-        "url": "https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb"
-      },
-      "artists": [
-        {
-          "name": "Kofs",
-          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "Alg\u00e9rien F\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Je remplace mes exs",
         "url": "https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 173036,
       "name": "Je remplace mes exs",
       "url": "https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Alg\u00e9rien F\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb"
+      },
+      "artists": [
+        {
+          "name": "Kofs",
+          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "Alg\u00e9rien F\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "La Peuf 6",
+        "url": "https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp"
+      },
+      "artists": [
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        }
+      ],
+      "duration_ms": 168359,
+      "name": "La Peuf 6",
+      "url": "https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Je te promets",
         "url": "https://open.spotify.com/album/6e3k8dGR9n0i8ILS37puwR"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "La Peuf 6",
-        "url": "https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp"
+        "name": "LOVE'n'TENDRESSE",
+        "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
       },
       "artists": [
         {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
         }
       ],
-      "duration_ms": 168359,
-      "name": "La Peuf 6",
-      "url": "https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k"
+      "duration_ms": 194666,
+      "name": "LOVE'n'TENDRESSE",
+      "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -871,22 +887,6 @@
       "duration_ms": 126506,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "D\u00e9nouement heureux",
-        "url": "https://open.spotify.com/album/3xMJrYwzMPCjf5Co98wuAI"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "D\u00e9nouement heureux",
-      "url": "https://open.spotify.com/track/5zbKy1U5QmtMldEVvhuQpe"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

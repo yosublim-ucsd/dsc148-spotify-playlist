@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,153 likes - 84 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,228 likes - 84 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 83 | [Heartless](https://open.spotify.com/track/1tgTXZWWLE1VM7GffiWhVa) | [Moudelica](https://open.spotify.com/artist/2NDG16gAyWdj1lzCBzaYfi), [StarlingEDM](https://open.spotify.com/artist/0a93wqFVaAkoKU1GqG7hvF) | [Heartless](https://open.spotify.com/album/7bxS2O7NI7DXw6NSevMRSE) | 2:17 |
 | 84 | [ROSE](https://open.spotify.com/track/2OvqXrPDlKFS7dgrSGCqVO) | [A17N](https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j), [Jocular ACE](https://open.spotify.com/artist/4QfFzaNoaNsazkMGZJCWwe), [Indicate](https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv) | [ROSE](https://open.spotify.com/album/2LnANAyto9AjNwZEbfQbbe) | 2:12 |
 
-Snapshot ID: `MCxlMDljZDZmYmJlNmMyOThjNTY0YWNlYmNlYThmNzQwZDlkM2VkMTZj`
+Snapshot ID: `MCxlNDZiNDk3NTZhZWQ1ZmJlOTVmMDc4ZGJiYzZhNTdmMDQzNmRhMDFm`

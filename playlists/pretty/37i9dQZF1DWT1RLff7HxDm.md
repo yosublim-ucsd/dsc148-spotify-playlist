@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,977 likes - 93 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,019 likes - 93 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 3 | [Crossroads \- Live at The Royal Albert Hall, Rock Version](https://open.spotify.com/track/3nKzcSOvTSFTvB3tPe3mhH) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Definitive 24 Nights \(Live\)](https://open.spotify.com/album/7uLDovmFB97bee1kDTtCNl) | 8:55 |
 | 4 | [The Heart That Never Waits \(Live\)](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 |
 | 5 | [No One Left To Blame \(Dangerous Game\)](https://open.spotify.com/track/2sthMcGvt0sLw7sImcEPVL) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [No One Left To Blame \(Dangerous Game\)](https://open.spotify.com/album/7draBVSdExn7m8osrjm1q9) | 4:41 |
-| 6 | [Another Ten Years Gone \- Live](https://open.spotify.com/track/2ZaAfuxmgld8hwbRrESkhD) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Another Ten Years Gone \(Live\)](https://open.spotify.com/album/6DmKvEZjN2xLFLsnWCGmXr) | 6:50 |
+| 6 | [Another Ten Years Gone \- Live](https://open.spotify.com/track/4mtWq6vMaknARnGo1R52bd) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Live At G\. Bluey's Juke Joint N.Y.C.](https://open.spotify.com/album/5XYRHWLRL2ChlpqB9frhZd) | 6:50 |
 | 7 | [Thunder in the Sky \(Live at the Marshall Studio\)](https://open.spotify.com/track/3dGArQ1Z4jUSOc8fJ8n6kj) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky \(Live at the Marshall Studio\)](https://open.spotify.com/album/1eSGbs2e2grK3xqQmPjjc4) | 9:12 |
 | 8 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 |
 | 9 | [River of Tears \- Live](https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [One More Car, One More Rider \(Live\)](https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6) | 8:59 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 92 | [Do You Wanna \- Live](https://open.spotify.com/track/4dHpgdH4HNPTDxOrTFKnhy) | [Vanja Sky](https://open.spotify.com/artist/11qCism35wezz8ve5s5hBq) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 3:35 |
 | 93 | [Backwater Blues \- Live](https://open.spotify.com/track/4ScrL9E0Ifv2dL1liFqnf7) | [Cedric Burnside Project](https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W) | [Backwater Blues \(Live\)](https://open.spotify.com/album/1acsrcWZZlLtWnzhHykdrU) | 4:37 |
 
-Snapshot ID: `MCw3ZjdkZDYwMDY3MGU2OWE0MWYyZTYzNjQzZmMwOTZkNDk0ZWM2ZTcw`
+Snapshot ID: `MCxiOWRhNjQ2NzdmYjIwOWRiNTE1NTk2MjAzODAxOTI1NDkwMGU0OTRm`

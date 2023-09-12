@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 212670,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa"
@@ -4720,7 +4720,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 234360,
       "name": "jackson",
       "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
@@ -4886,7 +4886,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 187089,
       "name": "Learnin' my Lesson",
       "url": "https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b"
@@ -8182,6 +8182,24 @@
       "duration_ms": 211413,
       "name": "The Painter",
       "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
+    },
+    {
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/3yJ9rQ9PHhdCGzCbTWvmlO"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196357,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/3uE5rVJPkJilTKs6ixpI6B"
     },
     {
       "album": {

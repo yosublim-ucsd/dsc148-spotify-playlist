@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5oaWGoZ0WMSEQolzeQzeer"
+      },
+      "artists": [
+        {
+          "name": "Josh Jacobson",
+          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122250,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/7IwHCgH4i9MiJxT7jEhZ31"
+    },
+    {
+      "album": {
         "name": "Babirusa",
         "url": "https://open.spotify.com/album/5Z7SPXUfQWmok6CTmNXfLM"
       },
@@ -2804,6 +2822,24 @@
       "duration_ms": 129199,
       "name": "I Promise You This",
       "url": "https://open.spotify.com/track/3q0OFkCGpCB8XND1BKnnkL"
+    },
+    {
+      "album": {
+        "name": "I'll Be Around",
+        "url": "https://open.spotify.com/album/2A01x4zvltCBhOa8cpl9mf"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190875,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/4UJ8IkZl3qhcRLFdZ9XyY5"
     },
     {
       "album": {
@@ -6858,6 +6894,24 @@
       "duration_ms": 205118,
       "name": "The Theme of Life",
       "url": "https://open.spotify.com/track/3uAeBJ1Mmdo58cJ8XgjkkC"
+    },
+    {
+      "album": {
+        "name": "The Voyager",
+        "url": "https://open.spotify.com/album/6nBGhLiVCCHBbJH1j8zzYK"
+      },
+      "artists": [
+        {
+          "name": "Jackson Love",
+          "url": "https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142461,
+      "name": "The Voyager",
+      "url": "https://open.spotify.com/track/6u8ftnh4bKbKvWNu8ozes8"
     },
     {
       "album": {

@@ -4037,6 +4037,24 @@
     },
     {
       "album": {
+        "name": "Stray Nights",
+        "url": "https://open.spotify.com/album/4RqrHlPCVPdgut66jBcT5O"
+      },
+      "artists": [
+        {
+          "name": "Tom Frane",
+          "url": "https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Stray Nights",
+      "url": "https://open.spotify.com/track/6HIQWdDMDI98njEeOylwkS"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/66q7bYDHdyVIvFvsrh6COm"
       },

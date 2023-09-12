@@ -1,13 +1,45 @@
 {
-  "description": "Your ultimate playlist for the best in Mollywood!\nCover: Thallumala",
-  "num_followers": 69586,
+  "description": "Your ultimate playlist for the best in Mollywood!\nCover: King of Kotha",
+  "num_followers": 69761,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDY4NWNkOTM5MWRjNTI3ZDViZjRlM2EzNTcwZThjZmM0MDEzNmQx",
+  "snapshot_id": "MCxmZTM2YzgxMDhjNTk1ZGExMzA5N2I5OTU0Y2JhZTM2OTNhZDU4OGVh",
   "tracks": [
+    {
+      "added_at": "2023-09-11 07:45:55",
+      "album": {
+        "name": "Kalapakkaara (From \"King of Kotha\")",
+        "url": "https://open.spotify.com/album/3Q8tsdSTnGhjJ61mIWkmRf"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Joe Paul",
+          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
+        }
+      ],
+      "duration_ms": 251999,
+      "name": "Kalapakkaara (From \"King of Kotha\")",
+      "url": "https://open.spotify.com/track/554RItg5afQv3ODGQMT29x"
+    },
     {
       "added_at": "2022-08-18 06:40:38",
       "album": {

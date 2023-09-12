@@ -764,7 +764,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 215013,
       "name": "Any Way You Want It - Live",
       "url": "https://open.spotify.com/track/2a4kGP6G2boa2kdwC6iLS8"
@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 192144,
       "name": "Endless Fashion (with Nicki Minaj) - sped up version",
       "url": "https://open.spotify.com/track/21sbvbJBX8aWjlVRtdB7zE"
@@ -3578,7 +3578,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 192144,
       "name": "Endless Fashion (with Nicki Minaj) - sped up version",
       "url": "https://open.spotify.com/track/5DxOt3uyfE2kGWuTXp6xaG"
@@ -4220,7 +4220,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 165733,
       "name": "For The Both of Us",
       "url": "https://open.spotify.com/track/0QIiiAoUQru2NQtRBrihII"
@@ -4548,7 +4548,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 329160,
       "name": "Gimme Three Steps - Live At The Ryman Theatre, Nashville, TN - November 13, 2022",
       "url": "https://open.spotify.com/track/68M6DDAbPBYzEdTQeEhDQm"
@@ -6276,7 +6276,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 155668,
       "name": "Koala",
       "url": "https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E"
@@ -6422,7 +6422,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 175020,
       "name": "Le d\u00e9part",
       "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
@@ -6596,6 +6596,24 @@
       "duration_ms": 227304,
       "name": "Limousine - Live at Sugarshack Sessions",
       "url": "https://open.spotify.com/track/2c8pzrb3bCbMERdxjUbKsW"
+    },
+    {
+      "album": {
+        "name": "Live In Tokyo",
+        "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200786,
+      "name": "Line of Fire - Live",
+      "url": "https://open.spotify.com/track/4DKxy9UnYsDr9Gq0MYqwo7"
     },
     {
       "album": {
@@ -7036,7 +7054,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 288018,
       "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
       "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
@@ -7688,7 +7706,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 273626,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/3JHNieO8JATU24quh4tbPf"
@@ -13400,7 +13418,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 181453,
       "name": "You Thought (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
@@ -13422,7 +13440,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 181453,
       "name": "You Thought (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/698IDYJMDJS5IVakqcX8vo"

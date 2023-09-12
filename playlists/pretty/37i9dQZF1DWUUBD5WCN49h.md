@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP?si=58Qc9PanQNitwXKmdSXXFg"> Khaid </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,773 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,787 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 98 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
 | 99 | [Pressure](https://open.spotify.com/track/1ymzL0FjHP41LGzjo3zUhs) | [The Abe Effect](https://open.spotify.com/artist/6ns0xEYQLp6bBKJirBFu6l), [YungAce](https://open.spotify.com/artist/2wyVEXXTxGKgx6fZYReUzO), [Olupellar](https://open.spotify.com/artist/09wnzgFWuf8oZHJ4BDoeMS) | [Pressure](https://open.spotify.com/album/6NNRLvP9TQq4ECmZ4Z6w5V) | 2:20 |
 
-Snapshot ID: `MCwzNDExNjJmOTg5N2RjYTI1NWNmYTAyNjM0Mzg2YTBhNWE4YmExODJi`
+Snapshot ID: `MCwyNWVhOWRlMDFkYjc1MjgwMzU2YTY5YzJiM2ZjODNkNTVkZDBkMDcy`

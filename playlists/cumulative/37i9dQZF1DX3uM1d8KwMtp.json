@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Bedouin",
+        "url": "https://open.spotify.com/album/7GyTqPQvMlkEF8Zvw2OFFG"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394703,
+      "name": "Bedouin",
+      "url": "https://open.spotify.com/track/2giWbLYx96NCz924ACsaUf"
+    },
+    {
+      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/4iOutBo6MtZORPul7QDBJv"
       },
@@ -346,6 +364,28 @@
       "duration_ms": 420000,
       "name": "Before",
       "url": "https://open.spotify.com/track/0J6sIxiH8kg1gIhIX1nihQ"
+    },
+    {
+      "album": {
+        "name": "Bilmedi\u011fim",
+        "url": "https://open.spotify.com/album/4L4HZ2HQ7lCD8C0FuP96aP"
+      },
+      "artists": [
+        {
+          "name": "Derun",
+          "url": "https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo"
+        },
+        {
+          "name": "Bahar S\u00f6nmez",
+          "url": "https://open.spotify.com/artist/520KKfuqZPd2NsljBhWL5H"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454136,
+      "name": "Bilmedi\u011fim",
+      "url": "https://open.spotify.com/track/5AHF5RqrJLftYSZmGJL8sz"
     },
     {
       "album": {
@@ -382,7 +422,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 449863,
       "name": "Blind the Sun",
       "url": "https://open.spotify.com/track/3dFgpRHUx60es4nvmxw4jv"
@@ -712,7 +752,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 236000,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe"
@@ -738,7 +778,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 457775,
       "name": "Fragile - Extended Mix",
       "url": "https://open.spotify.com/track/2CDuAnnj2GCxLVxO1Rk7Op"
@@ -1096,6 +1136,32 @@
     {
       "album": {
         "name": "Madan",
+        "url": "https://open.spotify.com/album/48CVbFIVq033H7ajrXaJTY"
+      },
+      "artists": [
+        {
+          "name": "Rialians on Earth",
+          "url": "https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3"
+        },
+        {
+          "name": "Billy Esteban",
+          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/19UXAgu0PzHHWSlmzLv9Qj"
+    },
+    {
+      "album": {
+        "name": "Madan",
         "url": "https://open.spotify.com/album/3MJa5lVzJNQsB8aH7RkGNn"
       },
       "artists": [
@@ -1331,6 +1397,32 @@
     },
     {
       "album": {
+        "name": "Mucho Bien (Joezi Remix)",
+        "url": "https://open.spotify.com/album/1HHowovrMxFiwwEB83Cyyo"
+      },
+      "artists": [
+        {
+          "name": "MR.BLACK",
+          "url": "https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU"
+        },
+        {
+          "name": "Offer Nissim",
+          "url": "https://open.spotify.com/artist/2U5N2KMBT6aFPrQMygMkhj"
+        },
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Mucho Bien - Joezi Remix",
+      "url": "https://open.spotify.com/track/0Ddeid0TvlJGI1d01nI2G6"
+    },
+    {
+      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk"
       },
@@ -1534,7 +1626,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 384000,
       "name": "Rafat Rafat",
       "url": "https://open.spotify.com/track/0wxdCmO95St6JnlOLKciql"
@@ -1678,7 +1770,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 209760,
       "name": "Sete",
       "url": "https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB"
@@ -2014,7 +2106,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 405241,
       "name": "The Same",
       "url": "https://open.spotify.com/track/5mRFwMYA9y6dk16YH8KcZA"
@@ -2474,7 +2566,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 209508,
       "name": "YUMS",
       "url": "https://open.spotify.com/track/1X3ZKQcMApOa5GZE4jtTZ3"

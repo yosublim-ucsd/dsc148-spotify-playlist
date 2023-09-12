@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,282 likes - 34 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,363 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 33 | [If You Like That](https://open.spotify.com/track/2KTvZCyt2EeFS6r9VPCsWi) | [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Lens](https://open.spotify.com/artist/2J9d6EeUlp1VyuJFdfAl3n), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [If You Like That](https://open.spotify.com/album/7sEpy6vfhJ0dUL28sZ31XD) | 4:34 |
 | 34 | [Freefall](https://open.spotify.com/track/335TidS5KZQjXfWkOZ6W4a) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [500](https://open.spotify.com/album/0kV6vns2tdbfSXgq3woZUy) | 3:44 |
 
-Snapshot ID: `MCwwNTMzOTQ3ZTE3NmZhN2I0MjMwZDNlNDk3YTJiZmEwNzFmNWNlZGMw`
+Snapshot ID: `MCwxNTIyNmRiNjA2MTY2Zjc3NGJlNDM3NDcxNDY5MTg5NDYxNzA1YTky`

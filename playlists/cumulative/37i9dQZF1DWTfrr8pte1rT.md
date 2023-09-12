@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Pendulum \\m/
 
-323 songs - 18 hr 30 min
+324 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Eyes Wide Open \- ry flora Remix](https://open.spotify.com/track/3YAo0Y2zqII53swBtcGvUJ) | [ry flora](https://open.spotify.com/artist/7uRxlnkvyppjdiZbVM9nzh), [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Eyes Wide Open \(ry flora Remix\)](https://open.spotify.com/album/6bO5MqXKM9qDbxPr9KoP5T) | 3:19 | 2022-01-28 | 2022-02-12 |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-28 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [Eyes Wide Shut](https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm) | 3:35 | 2023-03-03 |  |
-| [Fade With Me](https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Fade With Me](https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA) | 3:34 | 2021-12-10 |  |
+| [Fade With Me](https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Fade With Me](https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA) | 3:34 | 2021-12-10 | 2023-09-12 |
 | [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-24 | 2023-03-18 |
 | [Fall Down](https://open.spotify.com/track/6591V8mJSzKn29si2hx9iC) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Fall Down](https://open.spotify.com/album/3BULrq5tWKnyI2GhIZfTwg) | 2:46 | 2022-01-24 | 2022-06-25 |
 | [Falling](https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU) | 3:29 | 2022-06-24 | 2022-12-06 |
@@ -158,6 +158,7 @@
 | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/track/5CkicabyzDs7F7Froa503f) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU) | 4:10 | 2022-01-28 | 2023-07-09 |
 | [I'm Losing Myself](https://open.spotify.com/track/1iPBZhlxcsMnkdXBiAs1VS) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Prock House](https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq) | 2:47 | 2021-12-10 | 2022-04-21 |
 | [Immortal](https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv) | 4:08 | 2023-01-30 | 2023-09-09 |
+| [Immortal](https://open.spotify.com/track/4j3LxTzYF8IY5Y3h80dl8v) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/7xnzTKq48BTxKQ3JABpFxN) | 4:08 | 2023-09-08 |  |
 | [Industrial Strain](https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Higher Ground \(Part 1\)](https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz) | 3:46 | 2022-08-05 |  |
 | [Insanity](https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [Insanity](https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm) | 3:03 | 2023-03-03 |  |
 | [INSPIRED](https://open.spotify.com/track/1Dfa2akEVc3sh6HhAxlZmE) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [INSPIRED](https://open.spotify.com/album/7t5Dm6FdR4a2R2dZCKopEA) | 1:53 | 2021-12-10 | 2023-02-01 |

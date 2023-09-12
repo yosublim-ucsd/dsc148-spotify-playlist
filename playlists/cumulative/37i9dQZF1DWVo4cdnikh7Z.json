@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "170CM from Think Indie",
+        "url": "https://open.spotify.com/album/0qi3yuIvmsXAQr2V5GBr7H"
+      },
+      "artists": [
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "Flameboi",
+          "url": "https://open.spotify.com/artist/7gDVeDg6db32fZhZKIeL3n"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "170CM from Think Indie",
+      "url": "https://open.spotify.com/track/7vIVeEZCmE0UdfIIDTC9Ho"
+    },
+    {
+      "album": {
         "name": "Aafat (Tamil) [From \"Liger (Tamil)\"]",
         "url": "https://open.spotify.com/album/0O3S5Epuz2DEESAH4YXav2"
       },
@@ -1740,7 +1762,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 219818,
       "name": "Asaivindri - From \"Paramporul\"",
       "url": "https://open.spotify.com/track/3JbGdKDj1vKN7Wg5uPMJrk"
@@ -8159,6 +8181,32 @@
     },
     {
       "album": {
+        "name": "Karuppana Saamy (From \"Mark Antony\")",
+        "url": "https://open.spotify.com/album/60nNZWSBHPO5GOVIGeeOLa"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ananthu",
+          "url": "https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc"
+        },
+        {
+          "name": "Madhurakavi",
+          "url": "https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155844,
+      "name": "Karuppana Saamy - From \"Mark Antony\"",
+      "url": "https://open.spotify.com/track/7yig2T4fCID58vBYrE1ycd"
+    },
+    {
+      "album": {
         "name": "Kaththi Koovudhu Kadhal (From \"Complex\")",
         "url": "https://open.spotify.com/album/0GI6ykxX4vJ1qfaaYblevo"
       },
@@ -14560,7 +14608,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 156787,
       "name": "Raa Raa - Happy",
       "url": "https://open.spotify.com/track/5xkk5mjMWmcI0qdDLEIah7"
@@ -15552,7 +15600,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 303934,
       "name": "Sathya Life",
       "url": "https://open.spotify.com/track/1WDiB62kC7zew3OYISMuI4"
@@ -17916,7 +17964,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 268578,
       "name": "Thori Bori",
       "url": "https://open.spotify.com/track/6uZVtUM4lKmhvTZ7kADa2J"

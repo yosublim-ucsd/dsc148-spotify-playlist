@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-274 songs - 15 hr 16 min
+275 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Free Spirit](https://open.spotify.com/track/6gJE25UxGpGXv2WC01VCt0) | [Cozy Corner](https://open.spotify.com/artist/43Mi1E2W4bDMqtajienKXY) | [Gratitude](https://open.spotify.com/album/0YuuEP9RnrI3OVtJiug7jr) | 2:33 | 2022-03-25 | 2022-04-21 |
 | [Fugue State](https://open.spotify.com/track/19YsbHChoiVouSEJHuWFxm) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Fugue State](https://open.spotify.com/album/6u4X16JVGz3WBj2x4t6rjg) | 3:25 | 2021-12-09 | 2022-07-28 |
 | [Fun Fact](https://open.spotify.com/track/4bCQBQwCFZ9fGIzbBe8aie) | [Dozed Again](https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf) | [Fun Fact](https://open.spotify.com/album/2x7mmLM0rn4USeYDSGaEMX) | 2:01 | 2023-02-17 | 2023-03-26 |
-| [Further](https://open.spotify.com/track/5dyh4NnQsrGOpj5xwnfQXE) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [STRNGE](https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr) | [Further](https://open.spotify.com/album/5WfLnXduak0QdyoIzWPaKt) | 5:18 | 2023-04-14 |  |
+| [Further](https://open.spotify.com/track/5dyh4NnQsrGOpj5xwnfQXE) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [STRNGE](https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr) | [Further](https://open.spotify.com/album/5WfLnXduak0QdyoIzWPaKt) | 5:18 | 2023-04-14 | 2023-09-12 |
 | [Furui ki](https://open.spotify.com/track/74LVrjQFQJwCidkzR5i8r8) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Furui ki](https://open.spotify.com/album/4l2yZHy9PEkHUAeNks26IG) | 3:05 | 2022-10-07 | 2023-04-15 |
 | [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 | 2023-04-14 |  |
 | [Gekkō](https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Gekkō](https://open.spotify.com/album/1QjSMpgIv97gsI1mHHk0I2) | 3:02 | 2022-03-25 | 2022-07-28 |
@@ -172,6 +172,7 @@
 | [Night Wish](https://open.spotify.com/track/605A3zlaQrLYyY6DQkMmKB) | [Moon Groove](https://open.spotify.com/artist/5jfSxdztr8x1KzWQpHcWI8) | [Night Wish](https://open.spotify.com/album/1XEzLyAWtXzE5oonBI1IBo) | 4:11 | 2023-04-14 |  |
 | [NiteGlow](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ) | [Zev Lyso](https://open.spotify.com/artist/3GzxMwoPimZI714GHHrCsy) | [NiteGlow](https://open.spotify.com/album/4F4aUag4mbxyT1TSAT5hj8) | 2:12 | 2021-12-09 | 2023-01-08 |
 | [November Nights](https://open.spotify.com/track/57724RmJKfjECtItkTmVZI) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [November Nights](https://open.spotify.com/album/75QFY6WUkR1VjgV7x4ltS7) | 2:42 | 2022-02-26 | 2022-04-21 |
+| [Oasis](https://open.spotify.com/track/0Oa7qEBUNog1i58SW9BKf2) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Oasis](https://open.spotify.com/album/7FIqkD76gTpehE4dVqmyu3) | 2:59 | 2023-08-25 |  |
 | [Oasis](https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Oasis](https://open.spotify.com/album/2kH9815MY3JaK71IEFENli) | 2:59 | 2021-12-09 | 2023-07-21 |
 | [Ocean of Love](https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Ocean of Love](https://open.spotify.com/album/73VsNWe5VmFl4ePU7NY4AF) | 4:11 | 2021-12-09 | 2023-08-28 |
 | [Off Grid Lullaby](https://open.spotify.com/track/36Qu69Yh1qYjj03A1J6k2R) | [The Lonely Monk](https://open.spotify.com/artist/6U6uoRX5edXTEcEFyzEinn) | [Off Grid Lullaby](https://open.spotify.com/album/2NCXQnN56pYAbDsAOY69ND) | 2:11 | 2021-12-09 | 2022-07-28 |

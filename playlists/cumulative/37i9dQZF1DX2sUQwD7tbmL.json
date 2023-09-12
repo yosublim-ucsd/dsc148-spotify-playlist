@@ -262,7 +262,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 222312,
       "name": "Acting My Age",
       "url": "https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID"
@@ -8760,6 +8760,24 @@
       "duration_ms": 97500,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/6hvs3DIe8eG6IdhehKz31I"
+    },
+    {
+      "album": {
+        "name": "Thumpaverse",
+        "url": "https://open.spotify.com/album/6TiyKWIDdKKdmxiZ9NttCG"
+      },
+      "artists": [
+        {
+          "name": "Thumpasaurus",
+          "url": "https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228593,
+      "name": "Struttin'",
+      "url": "https://open.spotify.com/track/2H9E0PO33ptbmhzzjuuUMk"
     },
     {
       "album": {

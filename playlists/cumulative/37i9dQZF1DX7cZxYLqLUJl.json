@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Wake up in your own pace with piano music.",
+  "description": "Wake up at your own pace with gentle piano music.",
   "name": "Wake Up Gently",
   "tracks": [
     {
@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Chambers",
+        "url": "https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN"
+      },
+      "artists": [
+        {
+          "name": "Ali Toygar",
+          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145280,
+      "name": "Chambers",
+      "url": "https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/1iXM8jYPYT1ELoWbwwHuhy"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 115815,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3N3BWrupDuvM7ZKbNO534V"
@@ -366,6 +384,24 @@
       "duration_ms": 120504,
       "name": "Coziness",
       "url": "https://open.spotify.com/track/7hGdGIg5Q7E1ojq7zWIbft"
+    },
+    {
+      "album": {
+        "name": "Days from Before",
+        "url": "https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH"
+      },
+      "artists": [
+        {
+          "name": "Niall Byrne",
+          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127938,
+      "name": "Days from Before",
+      "url": "https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD"
     },
     {
       "album": {
@@ -920,7 +956,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 110000,
       "name": "Just For Now",
       "url": "https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO"
@@ -1032,6 +1068,24 @@
       "duration_ms": 218133,
       "name": "Look Inside Yourself",
       "url": "https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK"
+    },
+    {
+      "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe"
+      },
+      "artists": [
+        {
+          "name": "Cecile Roy",
+          "url": "https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139924,
+      "name": "Lost Frequencies",
+      "url": "https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA"
     },
     {
       "album": {
@@ -1550,7 +1604,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 116835,
       "name": "R\u00eaves d'\u00e9ternit\u00e9",
       "url": "https://open.spotify.com/track/013h40ZaPMhd98D3SCqrjC"
@@ -2004,6 +2058,24 @@
       "duration_ms": 138125,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6kWVRQKxzpOj8r06pps6O3"
+    },
+    {
+      "album": {
+        "name": "Water Lilies",
+        "url": "https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ"
+      },
+      "artists": [
+        {
+          "name": "Noah Hart",
+          "url": "https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200604,
+      "name": "Water Lilies",
+      "url": "https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3"
     },
     {
       "album": {

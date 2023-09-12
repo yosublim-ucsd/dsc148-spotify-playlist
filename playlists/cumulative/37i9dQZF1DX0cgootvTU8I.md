@@ -4,7 +4,7 @@
 
 > Jungle is still massive!
 
-127 songs - 10 hr 34 min
+128 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Poison Dart](https://open.spotify.com/track/0obrmAmV2GVxzIqcSVsvlD) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Poison Dart](https://open.spotify.com/album/4IVVcdv4PghrHBrroHctI1) | 4:29 | 2022-05-05 |  |
 | [Renegade](https://open.spotify.com/track/28S4zWqYnMgVfbEPs9LQRS) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/4IMTeGeaXZjZ0EBwmgg3YV) | 5:00 | 2022-05-05 |  |
 | [Ringa Ringa \(The Old Pandemic Folk Song\) \[feat\. Mediaeval Baebes\] \- Breakage Remix](https://open.spotify.com/track/0FVVU7Ok63VQCOrVOefhQW) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Mediæval Bæbes](https://open.spotify.com/artist/1vQmLYgD92RwmsfHqTwjmQ), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Ringa Ringa \(The Old Pandemic Folk Song\) \[Breakage Remix\]](https://open.spotify.com/album/1DQbuba1bTaOfSqryD1Q0M) | 3:04 | 2023-01-20 |  |
-| [Rolls Royce Rub](https://open.spotify.com/track/2SpJOlZPnoZxRqIOaRXHyU) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [Gold Selection](https://open.spotify.com/album/5iyd03OEOvtPKMK3xAqcgw) | 5:13 | 2022-05-05 |  |
+| [Rolls Royce Rub](https://open.spotify.com/track/2SpJOlZPnoZxRqIOaRXHyU) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [Gold Selection](https://open.spotify.com/album/5iyd03OEOvtPKMK3xAqcgw) | 5:13 | 2022-05-05 | 2023-09-12 |
 | [Seen](https://open.spotify.com/track/4YYCOTGjYUTbbegTEzcYaP) | [Settle Down](https://open.spotify.com/artist/37qo0ES6034TySyNPFhmIC) | [The Trip EP](https://open.spotify.com/album/7DpB6Bu2fw1gvZxPz9pYdC) | 4:34 | 2023-01-20 |  |
 | [Shelling](https://open.spotify.com/track/3v9sO8XfgHuz9NaWi1dVop) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Shelling](https://open.spotify.com/album/7fY2dcHafkAJihL0jP8amN) | 2:54 | 2022-05-05 |  |
 | [Shhh](https://open.spotify.com/track/1N6FeBvfd4a8s4aGx1NxT2) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Pulling Teeth](https://open.spotify.com/album/3KSdfgM7AbMcbFDMTq0cbU) | 3:58 | 2022-05-05 | 2023-01-23 |
@@ -128,6 +128,7 @@
 | [Vérité](https://open.spotify.com/track/35IlONRZh770GBVlnU1lc9) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Vérité](https://open.spotify.com/album/2dJX4pK9GkznEQyYbxocAB) | 5:48 | 2022-05-05 |  |
 | [Walk Out](https://open.spotify.com/track/0EnEmOBiFTQjWDtOlwn2Nb) | [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS), [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Squang Dangs in the Key of Vibes](https://open.spotify.com/album/2bFFV3JJop1X1x0Ri2xsSo) | 4:13 | 2022-05-05 | 2023-01-21 |
 | [War Drum Riddim](https://open.spotify.com/track/4oUf1DEdGXozH3gTRJNmFW) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW) | [War Drum Riddim](https://open.spotify.com/album/19bUNg6Fc8OLF9ZTfwVtXZ) | 3:18 | 2022-10-28 | 2023-09-09 |
+| [War Drum Riddim](https://open.spotify.com/track/5LseY3WYQPxMiRxN0rYkPp) | [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [War Drum Riddim](https://open.spotify.com/album/5BGpY2e5DnJqK67GXno6tv) | 3:18 | 2023-01-20 |  |
 | [What Is Jungle](https://open.spotify.com/track/5cilLV9owJSyEAqmYpEKyK) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ), [Phoebe White](https://open.spotify.com/artist/7rHWchDwoxRpe1C2dyEWO2) | [What Is Jungle](https://open.spotify.com/album/3v0R5iUrmnYKxq4vJM9La2) | 3:44 | 2022-05-05 | 2023-01-21 |
 | [What We Got](https://open.spotify.com/track/08FeR6y1Vv4tBDK1ztZi0L) | [Instra:mental](https://open.spotify.com/artist/1oSvdOGMjWupD3SJWcJOgg), [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [What We Got / Seren's Theme](https://open.spotify.com/album/3LbvS9E4tFr5dS7LeCPjK1) | 5:00 | 2022-05-05 | 2023-01-21 |
 | [What You Wanna Do](https://open.spotify.com/track/6OhicWRzXoGeTrGk0S0KxE) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [What You Wanna Do / Good Lookin Out](https://open.spotify.com/album/3HrGqKUzRW8TzjH6UUUp9K) | 3:27 | 2023-01-20 |  |

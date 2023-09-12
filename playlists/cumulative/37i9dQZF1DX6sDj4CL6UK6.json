@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Top English songs from Asia. Cover: YONLAPA",
+  "description": "Top English songs from Asia. Cover: Komorebi",
   "name": "IndiEnglish",
   "tracks": [
     {
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 243692,
       "name": "Foolish Once Again",
       "url": "https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI"
@@ -4298,7 +4298,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 151531,
       "name": "Unicorn and the Sheep",
       "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
@@ -4418,6 +4418,36 @@
       "duration_ms": 175531,
       "name": "walk away",
       "url": "https://open.spotify.com/track/6N51hS8QG3ounVWetTnNP1"
+    },
+    {
+      "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/024NLABY80xWm1YMZMifjZ"
+      },
+      "artists": [
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+        },
+        {
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+        },
+        {
+          "name": "Easy Wanderlings",
+          "url": "https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT"
+        },
+        {
+          "name": "Dhruv Visvanath",
+          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242993,
+      "name": "Watch Out",
+      "url": "https://open.spotify.com/track/0QiXSRB2SrCIlpqE3NHecv"
     },
     {
       "album": {
@@ -4674,6 +4704,28 @@
       "duration_ms": 199772,
       "name": "Yellow Paper Daisy",
       "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
+    },
+    {
+      "album": {
+        "name": "Friends Tonight, Strangers Again",
+        "url": "https://open.spotify.com/album/5Zf5fzWiR7YktTP5wP75JZ"
+      },
+      "artists": [
+        {
+          "name": "Arrows",
+          "url": "https://open.spotify.com/artist/2LgY4M7R8cJM0l52RlE9dd"
+        },
+        {
+          "name": "Saachi",
+          "url": "https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314250,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4d9qYngDaRv7Dnij09bdY6"
     },
     {
       "album": {

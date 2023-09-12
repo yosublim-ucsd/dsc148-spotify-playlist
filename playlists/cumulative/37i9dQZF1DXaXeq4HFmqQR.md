@@ -4,7 +4,7 @@
 
 > Mujeres que la rompen feat\. Paula Rivas.<br/>Dales PLAY, dales POWER.
 
-723 songs - 1 day 16 hr 19 min
+724 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [COPACABANA](https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [COPACABANA](https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ) | 3:01 | 2023-01-04 | 2023-05-04 |
 | [Corazón Astral](https://open.spotify.com/track/6POeNaMCaqfJZIgA11NR7T) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Corazón Astral](https://open.spotify.com/album/47FP5YVqwPrrOAOVhNfY4T) | 3:11 | 2022-06-01 | 2022-08-04 |
 | [Corazón Astral](https://open.spotify.com/track/7EjsQpCodgMXOBSSmIPTED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [I\. Entusiasmo \(Deluxe\)](https://open.spotify.com/album/0o4jDvbgrcERBrAFhVIrE9) | 3:11 | 2022-01-05 | 2022-02-02 |
+| [Corazón Salvaje](https://open.spotify.com/track/59jsGIPpK11rqnys2LcnlH) | [Reina Isabel](https://open.spotify.com/artist/6w67n5aSfExuuvgE4CBSru) | [Corazón Salvaje](https://open.spotify.com/album/4YjvrBICnLbjxGhu5d8zTd) | 3:10 | 2023-09-06 |  |
 | [CORPUS](https://open.spotify.com/track/00kbHoa4uwqpSkuA6NdBLy) | [Kali Mutsa](https://open.spotify.com/artist/7EIUORXc76H7zXG7syAtcT) | [CORPUS](https://open.spotify.com/album/08pKowHVQ4JXeREyOQgPcW) | 3:37 | 2022-02-02 | 2022-04-07 |
 | [correr](https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR) | [Vicenta](https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo), [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [virgen suicida](https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz) | 2:53 | 2023-06-05 | 2023-07-06 |
 | [Cortocircuito](https://open.spotify.com/track/0bARB1x9XhVnG0nxHiJ5kF) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2) | [Se necesitan dos pa' bailar el tango](https://open.spotify.com/album/6SHRwUTB7uG7CGWydWm9j7) | 3:05 | 2021-12-17 | 2022-01-27 |
@@ -408,7 +409,7 @@
 | [Metamorfosis](https://open.spotify.com/track/0y2vVySBNrUWVtR88f15Bv) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Mariposa](https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X) | 3:39 | 2021-12-17 | 2022-03-09 |
 | [Metamorfosis](https://open.spotify.com/track/1QL1X9bvsWnBghDF6F0pbK) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Metamorfosis](https://open.spotify.com/album/0UZHg61PTmlc2gSWk3sTdM) | 3:39 | 2022-01-05 | 2022-01-27 |
 | [Metiendo tela y sacando tela](https://open.spotify.com/track/4LqzoBWvTQrXDUXHofb10Y) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [Metiendo tela y sacando tela](https://open.spotify.com/album/6zIElqIk70kLho7zQ1ZZ3T) | 2:51 | 2023-09-06 |  |
-| [Mi Castigo](https://open.spotify.com/track/2F2zaebtZq4UGv1b41Np0E) | [Carolina Soto](https://open.spotify.com/artist/3Hbnc3QWx5yUHmwMyrT1Uj), [SCD](https://open.spotify.com/artist/3RNW1BijjM21MXFDIca2nJ) | [Mi Castigo](https://open.spotify.com/album/05PUE0TzRIIyz0SgwRiwYK) | 3:00 | 2023-09-06 |  |
+| [Mi Castigo](https://open.spotify.com/track/2F2zaebtZq4UGv1b41Np0E) | [Carolina Soto](https://open.spotify.com/artist/3Hbnc3QWx5yUHmwMyrT1Uj), [SCD](https://open.spotify.com/artist/3RNW1BijjM21MXFDIca2nJ) | [Mi Castigo](https://open.spotify.com/album/05PUE0TzRIIyz0SgwRiwYK) | 3:00 | 2023-09-06 | 2023-09-12 |
 | [Mi Cula](https://open.spotify.com/track/5sCDUhPyvfgozGa8YKlEM2) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ) | [Mi Cula](https://open.spotify.com/album/6CGsS4TyajPCC9K1xCymwp) | 3:10 | 2022-04-06 | 2022-05-05 |
 | [Mi Cula \(Remix\)](https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Señorita](https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z) | 3:47 | 2021-12-17 | 2023-06-06 |
 | [Mi Poder](https://open.spotify.com/track/3aOGGk2vLVaaB9hd22ELsW) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Mi Poder](https://open.spotify.com/album/565UI9ZusNFHOzmlLbCQhV) | 4:20 | 2023-08-02 | 2023-09-07 |

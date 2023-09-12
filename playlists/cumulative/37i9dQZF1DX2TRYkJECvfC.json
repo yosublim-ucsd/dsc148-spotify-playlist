@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 363398,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd"
@@ -7032,6 +7032,28 @@
       "duration_ms": 401474,
       "name": "Tapisl",
       "url": "https://open.spotify.com/track/6joasewIA9IiFRfPJPKu0A"
+    },
+    {
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/7hMZlhA5J4w7qYIJEnk0Rt"
+      },
+      "artists": [
+        {
+          "name": "Bound to Divide",
+          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237750,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2dpzs6UBVMvB4zHM6ly1iq"
     },
     {
       "album": {

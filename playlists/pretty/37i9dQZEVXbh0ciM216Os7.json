@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMzU3NjAsMDAwMDAwMDA2MjM0MDZjYzJjZDhmNGE2YzU3N2RkN2I5ZjJjYzdjNg==",
+  "snapshot_id": "MjgyMzU3NjAsMDAwMDAwMDAzMDNiN2FmYTJlOTg0NDM5YzFlOTllNmFjMzA4ZmEwNg==",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -43,42 +43,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "How Do You Sleep At Night?",
-        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+        "name": "Rumours Live",
+        "url": "https://open.spotify.com/album/24kD7cQnCojzadtNNlplxj"
       },
       "artists": [
         {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 181453,
-      "name": "You Thought (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/698IDYJMDJS5IVakqcX8vo"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Good Brother",
-        "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
-      },
-      "artists": [
-        {
-          "name": "Justus West",
-          "url": "https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 193390,
-      "name": "Good Brother",
-      "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
+      "duration_ms": 358253,
+      "name": "The Chain - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
+      "url": "https://open.spotify.com/track/4VGBaj8omMGArPnZ56a695"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -103,34 +79,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Rumours Live",
-        "url": "https://open.spotify.com/album/24kD7cQnCojzadtNNlplxj"
+        "name": "Good Brother",
+        "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 358253,
-      "name": "The Chain - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
-      "url": "https://open.spotify.com/track/4VGBaj8omMGArPnZ56a695"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/7g09Qn1ZsVdk4V8KusjWUn"
-      },
-      "artists": [
+          "name": "Justus West",
+          "url": "https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO"
+        },
         {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 226203,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
+      "duration_ms": 193390,
+      "name": "Good Brother",
+      "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -155,30 +119,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "MAYNARD VIGNETTE [Feat. T.I., JID, and Jacquees]",
-        "url": "https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL"
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/7g09Qn1ZsVdk4V8KusjWUn"
       },
       "artists": [
         {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
         }
       ],
-      "duration_ms": 288018,
-      "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
-      "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
+      "duration_ms": 226203,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -195,26 +147,6 @@
       "duration_ms": 260495,
       "name": "Dirty Diana (Metal Version)",
       "url": "https://open.spotify.com/track/5JB0Ejgsq7Unv4JAzFPyHW"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Le d\u00e9part",
-        "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 175020,
-      "name": "Le d\u00e9part",
-      "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -255,22 +187,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "For The Both of Us",
-        "url": "https://open.spotify.com/album/0fxF1wmYvHSPbche9nHviN"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "For The Both of Us",
-      "url": "https://open.spotify.com/track/0QIiiAoUQru2NQtRBrihII"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Rustin' In The Rain",
         "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
       },
@@ -307,6 +223,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "You Thought (feat. Janelle Mon\u00e1e)",
+        "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "You Thought (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Painted Houses (feat. Conway the Machine)",
         "url": "https://open.spotify.com/album/2jGpmrbzpjpdPPEAeD239b"
       },
@@ -327,6 +263,22 @@
       "duration_ms": 183157,
       "name": "Painted Houses (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Koala",
+        "url": "https://open.spotify.com/album/6TZqWG1Kk5y32ZVdrJM8aK"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 155668,
+      "name": "Koala",
+      "url": "https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -427,22 +379,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Castaway",
-        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Yours Truly (Tenth Anniversary Edition)",
         "url": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM"
       },
@@ -459,6 +395,22 @@
       "duration_ms": 213694,
       "name": "The Way - Live from London (feat. Mac Miller)",
       "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -487,6 +439,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/5S0eXl1GZ3SAZfQ2HM5QyW"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/3JHNieO8JATU24quh4tbPf"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Live In Tokyo",
         "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"
       },
@@ -496,9 +464,9 @@
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 215013,
-      "name": "Any Way You Want It - Live",
-      "url": "https://open.spotify.com/track/2a4kGP6G2boa2kdwC6iLS8"
+      "duration_ms": 200786,
+      "name": "Line of Fire - Live",
+      "url": "https://open.spotify.com/track/4DKxy9UnYsDr9Gq0MYqwo7"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -523,6 +491,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Gimme Three Steps (Live)",
+        "url": "https://open.spotify.com/album/3GneX3d7xBTbuLzM9ViHMU"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 329160,
+      "name": "Gimme Three Steps - Live At The Ryman Theatre, Nashville, TN - November 13, 2022",
+      "url": "https://open.spotify.com/track/68M6DDAbPBYzEdTQeEhDQm"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Endless Fashion (with Nicki Minaj) [Versions]",
         "url": "https://open.spotify.com/album/1oeuqGef5PwGCyb6lxPoL4"
       },
@@ -542,7 +526,7 @@
       ],
       "duration_ms": 192144,
       "name": "Endless Fashion (with Nicki Minaj) - sped up version",
-      "url": "https://open.spotify.com/track/21sbvbJBX8aWjlVRtdB7zE"
+      "url": "https://open.spotify.com/track/5DxOt3uyfE2kGWuTXp6xaG"
     },
     {
       "added_at": "2023-09-08 04:00:00",

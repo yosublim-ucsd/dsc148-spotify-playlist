@@ -1,33 +1,13 @@
 {
   "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Flo Milli",
-  "num_followers": 2925073,
+  "num_followers": 2925336,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDg1OWIzZmM0MDMyNDBjYWJjNjcxMjQ4MDE5MDNhNWE3NGQ1NjJl",
+  "snapshot_id": "MCw5ZmU3N2FhNzhiODc2MzQ5ZWMwNzhhZGFlMjYzNmY4ODJlMzkzYzRk",
   "tracks": [
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Bongos (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 175099,
-      "name": "Bongos (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
-    },
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {

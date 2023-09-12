@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,706 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,719 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 48 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 |
 | 49 | [Take Back \(feat\. Lil Cherry, GOLDBUUDA\)](https://open.spotify.com/track/4DPSShoAoq6vEX0dXA1FQi) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [Take Back \(feat\. Lil Cherry, GOLDBUUDA\)](https://open.spotify.com/album/4jbd6RbpWXMx2x8NQHDmK5) | 2:44 |
 | 50 | [Perfect Love](https://open.spotify.com/track/7m6MKyNTvvwmvgt4tvcxat) | [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb), [Youth of Roots](https://open.spotify.com/artist/6Dvq7MDtnyy0Q2Xx8MH5gR) | [Perfect Love](https://open.spotify.com/album/6hLZXC49pXUAR8851Ywq3H) | 3:47 |
-| 51 | [とりあえず一本吸ってから考えよう](https://open.spotify.com/track/5eRMXD6gyXjfz6ZpKE2GxK) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [YAMATO HAZE](https://open.spotify.com/artist/5Palu02Jsiu9At8C7naFH1) | [とりあえず一本吸ってから考えよう](https://open.spotify.com/album/3ORuR68C2lOYvtFX0csp0R) | 3:25 |
+| 51 | [ipponsuitai](https://open.spotify.com/track/1pwWErdrzFoKJZeUgPNV52) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [YAMATO HAZE](https://open.spotify.com/artist/5Palu02Jsiu9At8C7naFH1) | [ipponsuitai](https://open.spotify.com/album/6GzIUwg1t1PLTAl8o2EOSR) | 3:25 |
 | 52 | [arukara](https://open.spotify.com/track/4SL3PZAl3rBawb49GJygZm) | [kaminoshita](https://open.spotify.com/artist/0jFiomy1DSZEDPooW0Zokn), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [arukara](https://open.spotify.com/album/43DjCC6ytwK79CgGdCONeX) | 4:12 |
 | 53 | [Passing Time](https://open.spotify.com/track/5sSMOfJdeEyYH4qS0d89fn) | [CHAPAH](https://open.spotify.com/artist/48I0npVZVKzmMzS4ovC5ZG) | [Passing Time](https://open.spotify.com/album/0q1kaNZ4XfgLOfFIogtQkN) | 2:35 |
 | 54 | [Hanamizuki \- Cover \- Rework](https://open.spotify.com/track/7IckhAcZFMlWeGD3xNHXcH) | [Riku Oshima](https://open.spotify.com/artist/4uExsX4lCNgoL9zc8Uwdue), [Yo Hitoto](https://open.spotify.com/artist/5sm4rWbXSE6K8MdyTIZg7q) | [Hanamizuki \(Cover\) \[Rework\]](https://open.spotify.com/album/4Huyqyv4UFcwDCj4PIycB7) | 4:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Daytime Moon](https://open.spotify.com/track/3zwZSSWKXhR6ousAVNaEJT) | [ALFRD](https://open.spotify.com/artist/7KVn6WFXrTfPlnh2xUqlqQ) | [Daytime Moon](https://open.spotify.com/album/5HFhHcKFh4bdxZNavTuAv4) | 3:15 |
 | 60 | [Pマママ](https://open.spotify.com/track/3z12jfqeERWLOG05Vw3fa3) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Pマママ](https://open.spotify.com/album/5DMA7aDkyDhtUarSEf8AfL) | 5:36 |
 
-Snapshot ID: `MCw1MjA3OTMzOTJhYjA3ZDA1ZTU1YWMxZmNmY2U3OWFiYjhmNWE5NTg4`
+Snapshot ID: `MCxlMTM3MzAyNzFkMTZkYjlmNTBiZjQ4YzY5ODIyNmQ1MGY5ZGViYjhj`

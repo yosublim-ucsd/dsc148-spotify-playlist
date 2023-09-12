@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Luchè e CoCo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,976 likes - 56 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,059 likes - 56 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 12 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
 | 13 | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn) | 2:57 |
 | 14 | [MAKAI](https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:38 |
-| 15 | [INDELEBILE](https://open.spotify.com/track/1TsR4hMOkIDcACwtmoo7JB) | [GELO](https://open.spotify.com/artist/3gLdJ1hx80k9rHIjp91Qkl), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [INDELEBILE](https://open.spotify.com/album/1VgO7HkRxcqax9zw8ybS72) | 2:49 |
+| 15 | [INDELEBILE](https://open.spotify.com/track/1TsR4hMOkIDcACwtmoo7JB) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [INDELEBILE](https://open.spotify.com/album/1VgO7HkRxcqax9zw8ybS72) | 2:49 |
 | 16 | [Sincer \(feat\. Lele Blade & Icy Subzero\)](https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sincer \(feat\. Lele Blade & Icy Subzero\)](https://open.spotify.com/album/7BBkLJQiEzHkFDbHy48rjd) | 3:41 |
 | 17 | [TU T'E SCURDAT' 'E ME](https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO](https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr) | 4:01 |
 | 18 | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS) | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl) | 2:56 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 55 | [NUNN’È COSA](https://open.spotify.com/track/3cUb1152ZSVWm421ksV7VH) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [NUNN’È COSA](https://open.spotify.com/album/6GJZfbAYH8ZwpYv8FocESH) | 2:28 |
 | 56 | [Tu No](https://open.spotify.com/track/0rlRU7hLJNjzI7nCSj9eIP) | [Fiore](https://open.spotify.com/artist/087xYE0Vx9VAmQnkDpCq3R), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Tu No](https://open.spotify.com/album/1dU0OJ5KopEMx9dBx1VMvm) | 2:24 |
 
-Snapshot ID: `MCxkYzRhMjZhOTQ0Yjg0ZjMxY2U3ODJiMjI3N2JhZDMxNDk3Mjg2MWU2`
+Snapshot ID: `MCw2ZDk4YjkzNDE4Yzk2YTQwMTJhYTNlMjBhZmIxZjNjOWM1NTkzZDli`

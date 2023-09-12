@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-240 songs - 16 hr 41 min
+241 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Dread](https://open.spotify.com/track/6r1prdIaOh7DA9Yyyuwev2) | [I Killed Everyone](https://open.spotify.com/artist/7xitleTYPEOOij1YBqzArX) | [Lamenting Hymns](https://open.spotify.com/album/6Q3tXbrj5MGa2pX4p9kE6q) | 3:05 | 2020-12-05 |  |
 | [Dream Eater](https://open.spotify.com/track/548QFtRn14cTtRA6Zw2TzM) | [I Satan](https://open.spotify.com/artist/6a97Q9WrO0RsSCcXHwNaPM) | [Dream Eater](https://open.spotify.com/album/3jWielR7DCaifyUVPy13jR) | 5:01 | 2023-08-30 |  |
 | [Duplicity](https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Duplicity](https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing) | 5:10 | 2020-05-04 |  |
+| [Dwell In The Void](https://open.spotify.com/track/3aW6M0RlEDqUb9IKeVIcEJ) | [Shallow Dissent](https://open.spotify.com/artist/6A7uxd2a7b2PhPXx6GD7hR) | [Dwell In The Void](https://open.spotify.com/album/7o1cbp5f2HLWxGtRtClRKy) | 4:51 | 2023-09-11 |  |
 | [Dystopian Visions](https://open.spotify.com/track/0n4uHCTgBLTqdzPxXHiBnb) | [I, Pariah](https://open.spotify.com/artist/08OgBekLbEPhIgF8fjeSe2), [Andy Thomas](https://open.spotify.com/artist/5574Ui3ybdLwvkJce6VCdn) | [Dystopian Visions](https://open.spotify.com/album/3N9NU83RenYGl8fUdReAsp) | 5:15 | 2021-04-08 |  |
 | [Eclipse](https://open.spotify.com/track/6Zhrp4Xi1zJTcrkTxLcDVJ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [The Interstice](https://open.spotify.com/album/0wa1Nz13Q2SyShf4wBG7Tt) | 2:23 | 2020-05-02 |  |
 | [Emerald](https://open.spotify.com/track/6M6uFcep2f8DhHz4RNoBvJ) | [Abiotic](https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe) | [Emerald](https://open.spotify.com/album/0Ikr6a0Sd5SUazxtxsVNJ8) | 4:45 | 2020-05-04 |  |

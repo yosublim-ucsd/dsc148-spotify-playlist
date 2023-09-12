@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u66fd\u6839\u9ebb\u592e",
-  "num_followers": 29905,
+  "num_followers": 29950,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTIxYmU1YzRmNjMzNDk3MjA1ZDUzOGMyOGQzYzFjNTA1ZDhiM2Fk",
+  "snapshot_id": "MCw2Yjg4M2NlZjU2NDdhZjhkN2RlNjA3MWYxZTZmYjc5ZmU3N2VlZWE5",
   "tracks": [
     {
       "added_at": "2023-09-05 15:00:00",
@@ -731,6 +731,30 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "Anthony Jackson",
+          "url": "https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC"
+        },
+        {
+          "name": "Simon Phillips",
+          "url": "https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK"
+        }
+      ],
+      "duration_ms": 445133,
+      "name": "Seeker",
+      "url": "https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
         "name": "Egg On The Roof",
         "url": "https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A"
       },
@@ -767,30 +791,6 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        },
-        {
-          "name": "Anthony Jackson",
-          "url": "https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC"
-        },
-        {
-          "name": "Simon Phillips",
-          "url": "https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK"
-        }
-      ],
-      "duration_ms": 445133,
-      "name": "Seeker",
-      "url": "https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 247800,
       "name": "Spartacus",
       "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "\u67b6\u7a7a\u90fd\u5e02",
-        "url": "https://open.spotify.com/album/4gk9e4b1F40Gv5Vmkjj5ix"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "\u67b6\u7a7a\u90fd\u5e02",
-      "url": "https://open.spotify.com/track/1WR0Ow20xUHfXvYhKRHQYr"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 427000,
       "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
       "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
+        "name": "\u67b6\u7a7a\u90fd\u5e02",
+        "url": "https://open.spotify.com/album/4gk9e4b1F40Gv5Vmkjj5ix"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "\u67b6\u7a7a\u90fd\u5e02",
+      "url": "https://open.spotify.com/track/1WR0Ow20xUHfXvYhKRHQYr"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
+        "name": "MISIA SOUL JAZZ SESSION",
+        "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
       },
       "artists": [
         {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
         }
       ],
-      "duration_ms": 256360,
-      "name": "\u4e59\u5973\u306e\u7948\u308a",
-      "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
+      "duration_ms": 294400,
+      "name": "\u6700\u5f8c\u306e\u591c\u6c7d\u8eca",
+      "url": "https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c"
     }
   ],
   "unique_name": "Modern Jazz Japan",

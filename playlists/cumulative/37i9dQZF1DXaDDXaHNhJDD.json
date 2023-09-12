@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Your ultimate playlist for the best in Mollywood!\nCover: Thallumala",
+  "description": "Your ultimate playlist for the best in Mollywood!\nCover: King of Kotha",
   "name": "Mollywood Gold",
   "tracks": [
     {
@@ -1084,6 +1084,40 @@
       "duration_ms": 124245,
       "name": "Kalakkatha",
       "url": "https://open.spotify.com/track/667y08kCQ18lpjvdLK5wQi"
+    },
+    {
+      "album": {
+        "name": "Kalapakkaara (From \"King of Kotha\")",
+        "url": "https://open.spotify.com/album/3Q8tsdSTnGhjJ61mIWkmRf"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Joe Paul",
+          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251999,
+      "name": "Kalapakkaara (From \"King of Kotha\")",
+      "url": "https://open.spotify.com/track/554RItg5afQv3ODGQMT29x"
     },
     {
       "album": {

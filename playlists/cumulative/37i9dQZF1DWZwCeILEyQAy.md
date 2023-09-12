@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: BIA
 
-444 songs - 18 hr 55 min
+445 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Box & Papers](https://open.spotify.com/track/7BXDc3WTYrqA87sJYlGn4A) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:07 | 2022-04-08 | 2022-07-27 |
 | [Box the 40](https://open.spotify.com/track/61BiWrdzr31VQPulUPAUoB) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Box the 40](https://open.spotify.com/album/2c9IOIt2v2go6H86RHZdYb) | 1:51 | 2023-06-30 | 2023-07-08 |
 | [Boy Oh Boy](https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [Boy Oh Boy](https://open.spotify.com/album/3AKtlxNCe8MHDRKvlJF6M1) | 1:57 | 2023-08-18 |  |
+| [BRB](https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [BRB](https://open.spotify.com/album/11tIOLXTlQRg1ZJeJrIBJ6) | 1:47 | 2023-09-11 |  |
 | [Breakfast](https://open.spotify.com/track/7f9uQkR29f8iKpdNNqIGXg) | [SkyLar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1) | [Blattys Knight](https://open.spotify.com/album/4tMFnRXx5IUMD073sevs5i) | 2:47 | 2022-10-28 | 2022-11-12 |
 | [Broke](https://open.spotify.com/track/1nB5h61hNNXLjnUSSRlOAD) | [Khadijah](https://open.spotify.com/artist/2n0RbBotP7BSoy1rNVIeUz), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Broke](https://open.spotify.com/album/1gCxgxZ5DT40A4dxKk1Kci) | 1:40 | 2023-08-18 |  |
 | [Broke Boy Pt\. 2 \(feat\. Bankroll Freddie\)](https://open.spotify.com/track/4XLHL9bbPjruuuL2LGVMGQ) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2) | [Broke Boy Pt\. 2 \(feat\. Bankroll Freddie\)](https://open.spotify.com/album/5EjFJHbDCb47EPcGV8Piqd) | 2:33 | 2022-09-02 | 2022-10-01 |
@@ -378,7 +379,7 @@
 | [Stop Playin](https://open.spotify.com/track/3dMS8mbPjRvGgiWPobV5lP) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Crazy Girls](https://open.spotify.com/album/4v2qjXfnaXaqzjeAgG2ArU) | 1:40 | 2022-10-14 | 2023-02-04 |
 | [Straight To It](https://open.spotify.com/track/1BgyAPxLr60xUYNbvg7my6) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Baby Goat](https://open.spotify.com/album/5X1HkCHCIaR5IfWVFPdJ0x) | 1:52 | 2021-11-05 | 2022-07-03 |
 | [Suck It Up](https://open.spotify.com/track/03qq2X85nmp16V4LJluQJ2) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Suck It Up](https://open.spotify.com/album/1cNGvkYmxFKI4hTS4pidxM) | 3:01 | 2021-11-05 | 2022-09-17 |
-| [SUKISADA](https://open.spotify.com/track/1uawwhj5sMN2M535rWd4Xs) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [SUKISADA](https://open.spotify.com/album/3FfOGRD9hSOwzgKZf0sYQr) | 3:41 | 2023-05-12 |  |
+| [SUKISADA](https://open.spotify.com/track/1uawwhj5sMN2M535rWd4Xs) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [SUKISADA](https://open.spotify.com/album/3FfOGRD9hSOwzgKZf0sYQr) | 3:41 | 2023-05-12 | 2023-09-12 |
 | [Summertime \(with Fredo Bang\)](https://open.spotify.com/track/7p5GXypR2XsPuo6k0P4DrG) | [Pap Chanel](https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [PAPTIVITIES](https://open.spotify.com/album/5OZEkISyLrkEvUnCZoLz5b) | 2:31 | 2023-05-12 | 2023-05-27 |
 | [Superpowers](https://open.spotify.com/track/0SJ3Zg2Ut6uuUyKwDKZ0hd) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Superpowers](https://open.spotify.com/album/76WDBqX01YqOQTKzUoWhDt) | 2:38 | 2023-09-08 |  |
 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 | 2022-08-05 | 2023-03-25 |

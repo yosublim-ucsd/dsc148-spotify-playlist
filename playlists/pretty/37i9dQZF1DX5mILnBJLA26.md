@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj?si=4PYdAH\_wR5SmcoCmfS6nAw">Thuto The Human</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,465 likes - 51 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,859 likes - 51 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 50 | [Hamba Nawe](https://open.spotify.com/track/1Eruga1ZvIQcLvc6tbYSTq) | [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Nkulee501](https://open.spotify.com/artist/6NiMv0ab5p3HfDO7H92H75), [Skroef 28](https://open.spotify.com/artist/1dmGmys2aPdJowwjy8IK3F) | [Hamba Nawe](https://open.spotify.com/album/68H0WmQRg2kWqDea6aNRt7) | 6:47 |
 | 51 | [TJEYA](https://open.spotify.com/track/3RY7Xboz7N9wErI4WhT7Z4) | [The Lowkeys](https://open.spotify.com/artist/7FlhY1KXkExO3TcdSsJUjQ), [Sims Noreng](https://open.spotify.com/artist/3GMbwC9hehaCMs6JqiZBeE), [13 Nor Mabena](https://open.spotify.com/artist/10qTCdKDndG0dh96co25Pd), [Ocean Biller](https://open.spotify.com/artist/2os0iexM51EDevBsMrrBz9), [Tshego Dee](https://open.spotify.com/artist/5qxGlpO8OR6FKrK8pENkUQ), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg) | [TJEYA](https://open.spotify.com/album/7m9UQRUI0WzZMLt4PmHaPE) | 7:04 |
 
-Snapshot ID: `MCw2NTMyZDhjNDMzNDY4ZmQ1MzlmMzVlNDFlZjMwMzI2Yzg3MjI3MmQ1`
+Snapshot ID: `MCxkNWNhMjE2Y2ViZjc2NmM0MjY3NDE5ZmJhMTg2MmYwNjgwMGVmY2Ez`

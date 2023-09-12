@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Suzan & Freek en Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,349 likes - 96 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,352 likes - 96 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 95 | [Push Away](https://open.spotify.com/track/3Gu05tamNHX02lvRjFJN8w) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Push Away](https://open.spotify.com/album/0oe3obymHRQJktSEwneMzf) | 2:46 |
 | 96 | [God Couldn't Save The Queen](https://open.spotify.com/track/043e0nbJwyhmUDzrGArGHU) | [Subterranean Street Society](https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe) | [God Couldn't Save The Queen](https://open.spotify.com/album/7iJXnDBAlVkoUZJuwKSi7y) | 3:24 |
 
-Snapshot ID: `MCxkYjFmNTdlYmZhNTljZTc1ZmFhNmEwNjc0ZTFjZDlkN2IxYjgyODdj`
+Snapshot ID: `MCw5ZmEyZWRhYjVjMDBhYjc3YTg2YzkzMjkxODFjODQ5NWVlZTk3MTE5`

@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok
 
-119 songs - 6 hr 18 min
+120 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [I Won't Let You Go](https://open.spotify.com/track/6cCEeEs9JA5OI81XaM9RRv) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Soundwaves](https://open.spotify.com/artist/56BMviGiJkpclgY1dCJmcK) | [I Won't Let You Go](https://open.spotify.com/album/15pQByQw3CKTeHKG7VMYpW) | 2:13 | 2023-07-21 |  |
 | [I'll Be Yours](https://open.spotify.com/track/2xz79df2wvttaPMvGJ7CdO) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj) | [I’ll Be Yours](https://open.spotify.com/album/6ktQGw4pvYbRe8WzpFuS5s) | 3:44 | 2023-08-25 |  |
 | [Intentions](https://open.spotify.com/track/0VpCBofzHaTHmhdm78xTsN) | [CEVITH](https://open.spotify.com/artist/0R5cBqUk6GntjEAHrAQxjd), [SARRIA](https://open.spotify.com/artist/2jMjEfmxCxpI6aXa4qEMeY) | [Intentions](https://open.spotify.com/album/2BTDtKatM3SLC3Dz7BT7Bd) | 2:47 | 2023-07-21 | 2023-07-29 |
+| [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-09-11 |  |
 | [Jacaré \- Cat Dealers Remix](https://open.spotify.com/track/17lUIaVkGcCRe8H5a9PBNi) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Jacaré \(Cat Dealers Remix\)](https://open.spotify.com/album/2PDfmMTmpW3DL0gTVlJ05i) | 2:50 | 2023-08-04 |  |
 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2023-08-25 |  |
 | [Just Like You Do](https://open.spotify.com/track/78nADVmhPNONKTed3XmuhW) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [Just Like You Do](https://open.spotify.com/album/1d1iQqxQcRmlo5Si8cVC8s) | 2:37 | 2023-07-28 | 2023-08-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Your cheat sheet for everything on the rise in the rock/alt world. Cover: Teen Jesus and the Jean Teasers",
-  "num_followers": 434136,
+  "num_followers": 434180,
   "original_name": "New Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmZiYzhjYzNkYzRiNmYwMDQ4MjZkMzgwZGEzYWIxYTc0N2EzNzZi",
+  "snapshot_id": "MCxhNWFjYTBhNjdjODc1MzA0NDk4NDI3YmNkYTVlZjYxZmVkYjY1MzE0",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "New York / LA Hex",
         "url": "https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
+        "name": "Shadow (I'm Breaking Down)",
+        "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
       },
       "artists": [
         {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
+      "duration_ms": 218121,
+      "name": "Shadow (I'm Breaking Down)",
+      "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -837,6 +853,22 @@
       "url": "https://open.spotify.com/track/1KIqXHmV4AVzkeweJhG6ZG"
     },
     {
+      "added_at": "2023-09-11 14:49:02",
+      "album": {
+        "name": "Up and Comer",
+        "url": "https://open.spotify.com/album/4auUOEEMRz5Uox3n79ip6M"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 226385,
+      "name": "Up and Comer",
+      "url": "https://open.spotify.com/track/0yMfUaFL7LDT38c648msAM"
+    },
+    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "Doubt",
@@ -851,22 +883,6 @@
       "duration_ms": 155733,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Shadow (I'm Breaking Down)",
-        "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 218121,
-      "name": "Shadow (I'm Breaking Down)",
-      "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1643,18 +1659,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Racecar",
-        "url": "https://open.spotify.com/album/3czaepL4PjwRRD8v2Gp4Lp"
+        "name": "BRAND NEW SOUL",
+        "url": "https://open.spotify.com/album/1shl6JL6IJcBat7yMjydU5"
       },
       "artists": [
         {
           "name": "Angel Du$t",
           "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
+        },
+        {
+          "name": "LOOSEY",
+          "url": "https://open.spotify.com/artist/1FoT7J7IGM1b34GNr51VFB"
         }
       ],
       "duration_ms": 189706,
       "name": "Racecar",
-      "url": "https://open.spotify.com/track/61TahHsLdwY2tk3GAT2ZKQ"
+      "url": "https://open.spotify.com/track/7z5B2QlL2XUL0Q0mmScv14"
     },
     {
       "added_at": "2023-09-08 04:00:00",

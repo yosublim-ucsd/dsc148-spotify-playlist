@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-484 songs - 1 day 2 hr 54 min
+485 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Baby Blue](https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita](https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7) | 3:09 | 2022-06-27 | 2023-03-25 |
 | [Baby Blue](https://open.spotify.com/track/7s4vC71u1zovWSMNu6hwbJ) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita \(The Summer Singles\)](https://open.spotify.com/album/0cgg5mbjBzqxL8zvO0huzp) | 3:09 | 2021-03-10 | 2022-07-29 |
 | [Baby Blue Shades](https://open.spotify.com/track/0o4iE4nFwqY1d2JKlrcMRb) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Baby Blue Shades](https://open.spotify.com/album/0D2iqDOWfezLDJLvJrLItc) | 3:40 | 2021-03-10 | 2023-03-29 |
-| [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-21 |  |
+| [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-21 | 2023-09-12 |
+| [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-08 |  |
 | [Bad Vacation](https://open.spotify.com/track/4NGS5c5YlVvX1s7I49ADiO) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Bad Vacation](https://open.spotify.com/album/6gYHovUSsCoQYN02Gk0CDB) | 2:48 | 2022-03-11 | 2022-06-06 |
 | [Barely Alive](https://open.spotify.com/track/5iXWtj4lGn4P8gfabLmHLZ) | [ufo ufo](https://open.spotify.com/artist/1TsvuGn3XJ4F04fRavTonu) | [Barely Alive](https://open.spotify.com/album/31h58l0gh5zqbez7KrRzEj) | 3:35 | 2021-03-10 | 2022-07-29 |
 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 | 2023-02-17 |  |

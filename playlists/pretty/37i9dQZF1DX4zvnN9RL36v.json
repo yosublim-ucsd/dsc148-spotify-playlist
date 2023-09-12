@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5997,
+  "num_followers": 6023,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmUxYjViYmEyODNmNjI1N2RmZTg0ZDkwMDMzZDQ4ODFlMjk4OTUy",
+  "snapshot_id": "MCw1OGIxMjA2MjdiYjIyNGRlMTMyYWI5MWU0OWVmN2M5ZjQ4ODY0MjA4",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Modern Times",
-        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 246151,
-      "name": "(Bonus Track) Voice Mail (Korean Version)",
-      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Exhibition 2",
         "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 320055,
       "name": "Druken Truth",
       "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 246151,
+      "name": "(Bonus Track) Voice Mail (Korean Version)",
+      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "I hope I cross your mind",
+        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
+      },
+      "artists": [
+        {
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "I hope I cross your mind",
+      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 285586,
       "name": "Three of Us (With Sing Si Kyung)",
       "url": "https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "I hope I cross your mind",
-        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
-      },
-      "artists": [
-        {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "I hope I cross your mind",
-      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "Eccentric chef moon (Original Television Soundtrack) Part.4",
+        "url": "https://open.spotify.com/album/4EkBnlmbEgidsqTkDDvT2U"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Where Love Begins",
+      "url": "https://open.spotify.com/track/5lqYdK4KCkhJnng32ef1Qe"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "inside",
         "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
@@ -507,18 +523,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Eccentric chef moon (Original Television Soundtrack) Part.4",
-        "url": "https://open.spotify.com/album/4EkBnlmbEgidsqTkDDvT2U"
+        "name": "Da Capo",
+        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 219986,
-      "name": "Where Love Begins",
-      "url": "https://open.spotify.com/track/5lqYdK4KCkhJnng32ef1Qe"
+      "duration_ms": 267640,
+      "name": "She Said (With Kwon Jin Ah)",
+      "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -551,26 +571,6 @@
       "duration_ms": 232729,
       "name": "One-Sided Love",
       "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "Da Capo",
-        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
-      },
-      "artists": [
-        {
-          "name": "TOY",
-          "url": "https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8"
-        },
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "She Said (With Kwon Jin Ah)",
-      "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "A lonely song",
-        "url": "https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba"
-      },
-      "artists": [
-        {
-          "name": "I'll",
-          "url": "https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs"
-        }
-      ],
-      "duration_ms": 225214,
-      "name": "A lonely song",
-      "url": "https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "\ud654\ubd84",
         "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 270680,
       "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
       "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "A lonely song",
+        "url": "https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba"
+      },
+      "artists": [
+        {
+          "name": "I'll",
+          "url": "https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs"
+        }
+      ],
+      "duration_ms": 225214,
+      "name": "A lonely song",
+      "url": "https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Fit Me",
-        "url": "https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB"
-      },
-      "artists": [
-        {
-          "name": "Vanilla Acoustic",
-          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
-        }
-      ],
-      "duration_ms": 250495,
-      "name": "I Ain't Over",
-      "url": "https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "One-sided love",
         "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 190586,
       "name": "One-sided love",
       "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Fit Me",
+        "url": "https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Acoustic",
+          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
+        }
+      ],
+      "duration_ms": 250495,
+      "name": "I Ain't Over",
+      "url": "https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

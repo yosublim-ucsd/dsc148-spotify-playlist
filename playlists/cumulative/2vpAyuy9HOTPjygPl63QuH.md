@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,275 songs - 3 day 0 hr 45 min
+1,276 songs - 3 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1267,6 +1267,7 @@
 | [WTF](https://open.spotify.com/track/40NSNprrSR4pK3UGGQqzbQ) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Milano Downtown II EP](https://open.spotify.com/album/2Qi53oRE6agb5bC8qHgszH) | 4:15 | 2023-05-05 | 2023-05-13 |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-06-17 | 2022-06-25 |
 | [Ya Know](https://open.spotify.com/track/2E9ejiv068c9l5uX91m7XM) | [Hot Bullet](https://open.spotify.com/artist/4vDtyZl3NELBWbdvHQ28M5), [DKING](https://open.spotify.com/artist/1NuBuDM9cl9FJowKGetfCS) | [Ya Know](https://open.spotify.com/album/1nkyw4Q94crIcWYS9iZSQ2) | 5:30 | 2023-08-04 | 2023-08-12 |
+| [YDK](https://open.spotify.com/track/7uX1MHI86spjNNWuVXGHIH) | [GrooveYard](https://open.spotify.com/artist/2itNATItXtIi6sV8V4P2pT), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [YDK](https://open.spotify.com/album/5JdSrFEJ2DmB6Wa3pXutg5) | 3:38 | 2023-09-11 |  |
 | [Yeah The Girls \(feat\. MERYLL\)](https://open.spotify.com/track/5hMlz6wuVF3gqwMGu1iDTg) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls \(feat\. MERYLL\)](https://open.spotify.com/album/3zr7x5u0ykdFsQo3t5GWJt) | 3:14 | 2022-09-02 | 2022-09-10 |
 | [You](https://open.spotify.com/track/64XuVVslGI3wdiz1nbFRcp) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [You](https://open.spotify.com/album/3loEQDP8cVTqbspSywER7u) | 5:29 | 2023-06-30 | 2023-07-16 |
 | [You Got It](https://open.spotify.com/track/4TaEDUmbRR4t69Z7RwoWmQ) | [TYPE3](https://open.spotify.com/artist/4KdMZjTfXrkQ5v2IlGuj6S) | [You Got It](https://open.spotify.com/album/5PC1Objhufq1wettIi5kYM) | 3:37 | 2022-10-28 | 2022-11-06 |

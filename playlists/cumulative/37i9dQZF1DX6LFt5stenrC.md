@@ -4,7 +4,7 @@
 
 > Songs from your family's favorite TV shows.
 
-128 songs - 3 hr 26 min
+129 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,10 +59,11 @@
 | [It's Such a Good Feeling!](https://open.spotify.com/track/05DnLOyGvZqA3NmyfS3fp2) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Big Feelings](https://open.spotify.com/album/3uhrWaD9eVHfzzI5jpr4y8) | 1:34 | 2022-04-15 | 2022-07-28 |
 | [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/track/73iysPDdIf3M505nHzfflY) | [Backhouse Mike](https://open.spotify.com/artist/1ln7aue0Yjz4QOqcf2gtUL) | [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/album/3KrKRIL5UXe4ozYXrEfLOO) | 2:37 | 2022-04-15 |  |
 | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/track/7CMIy0uwXyeBv2MvaEUJM1) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp), [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/album/5sqQDRCog2FN2BOjCfcO4O) | 2:38 | 2022-04-15 |  |
-| [Life Is Better Loud](https://open.spotify.com/track/0r3ievO1pRR6TCxw1Qmgqh) | [Loudhouse](https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BTNO46O7ZLNl24G7LT8JJ) | 2:29 | 2022-04-15 |  |
+| [Life Is Better Loud](https://open.spotify.com/track/0r3ievO1pRR6TCxw1Qmgqh) | [Loudhouse](https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BTNO46O7ZLNl24G7LT8JJ) | 2:29 | 2022-04-15 | 2023-09-12 |
 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 | 2022-04-15 | 2022-10-11 |
 | [Love For The Heights](https://open.spotify.com/track/0YQGBzrLbWdBgP5hvYpqyC) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [Karma’s World](https://open.spotify.com/album/2WtR8Ymlpgvx3DXnZIrcAA) | 2:23 | 2022-04-15 | 2022-07-29 |
 | [Make It Shine \(Victorious Theme\) \(feat\. Victoria Justice\)](https://open.spotify.com/track/4nqxQU97VmHhn3e6a3CUWZ) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [Victorious: Music From The Hit TV Show \(feat\. Victoria Justice\)](https://open.spotify.com/album/1VM5qKftnTKFU9rthvEgYx) | 3:07 | 2022-04-15 |  |
+| [Make Your Move](https://open.spotify.com/track/1MwcKOKFo66ZcK6qhaJbKv) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Make Your Move](https://open.spotify.com/album/3LLxN5lxJAxSjUwJVr5b47) | 1:41 | 2023-01-27 |  |
 | [Make Your Move](https://open.spotify.com/track/2q49j6l5dy3BmNiI36iz8x) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Make Your Move](https://open.spotify.com/album/2nyp8Xkf7tpMADBQ6Xo8vI) | 1:41 | 2022-04-15 | 2023-09-01 |
 | [Mickey Mouse Clubhouse Theme](https://open.spotify.com/track/1Qa9FSirMhxlMxN1nbCkTB) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Mickey Mouse Clubhouse](https://open.spotify.com/album/2xqbyzv6NncmREgqNFP5Ee) | 0:59 | 2022-04-15 |  |
 | [Mickey Mouse Funhouse Main Title Theme](https://open.spotify.com/track/2BBv4eQW0UwyQdIyoP0NiR) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS) | [Disney Junior Music: Mickey Mouse Funhouse Vol\. 1](https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX) | 1:55 | 2022-04-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Shakila Anjani
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,324 likes - 83 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,331 likes - 83 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 82 | [Cerita](https://open.spotify.com/track/7pGNiw5cdWdoKCTN5j69qp) | [Redinka Nahumury](https://open.spotify.com/artist/6TuB4MqYsKjhB2ZIZjKl2c) | [Cerita](https://open.spotify.com/album/3kHIVvs3Zdas9GuvO1050v) | 3:24 |
 | 83 | [Lagila](https://open.spotify.com/track/3r1QiKDMezAag054RvGCQf) | [Ranu Pani](https://open.spotify.com/artist/1U7hDgZFhsJzAb84Agh9tM) | [Lagila](https://open.spotify.com/album/2ucNLhMS1f3jdeoik6If1C) | 5:01 |
 
-Snapshot ID: `MCwzNWNhMzMwYzcyOTY0YjM2OTVlNTQyYjFhZDE0YzJjOWZiZWY2MDFh`
+Snapshot ID: `MCw0MGZkY2FkNjc4NWMxZjViNGZmNzhkNzIzZDI5MmFiYWFlYWJiY2M5`

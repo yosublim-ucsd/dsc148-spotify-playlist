@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Dwell In The Void",
+        "url": "https://open.spotify.com/album/7o1cbp5f2HLWxGtRtClRKy"
+      },
+      "artists": [
+        {
+          "name": "Shallow Dissent",
+          "url": "https://open.spotify.com/artist/6A7uxd2a7b2PhPXx6GD7hR"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291015,
+      "name": "Dwell In The Void",
+      "url": "https://open.spotify.com/track/3aW6M0RlEDqUb9IKeVIcEJ"
+    },
+    {
+      "album": {
         "name": "Dystopian Visions",
         "url": "https://open.spotify.com/album/3N9NU83RenYGl8fUdReAsp"
       },

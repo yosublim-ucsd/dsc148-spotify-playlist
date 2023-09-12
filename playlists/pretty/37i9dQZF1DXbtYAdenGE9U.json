@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 464065,
+  "num_followers": 464551,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmIxNDQzOTI3ZTMzYzdmODJhOTAyYmI5MWYxYzE5NmVlOWI1YTZl",
+  "snapshot_id": "MCxjNDIxMmMxYjU1MTFiY2I0MTVmYWFlYzQ3NGQwN2M1ZmIzNTkwZjgy",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -107,26 +107,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "Encore Une Fois - Future Breeze Edit",
-      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Magikal Journey -The Hits Collection 1998 - 2008",
         "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 515173,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -255,18 +255,34 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Beachball",
-        "url": "https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf"
+        "name": "Greatest Hits & Remixes",
+        "url": "https://open.spotify.com/album/3kzFmML169KngWKdeutrhc"
       },
       "artists": [
         {
-          "name": "Nalin & Kane",
-          "url": "https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6"
+          "name": "Mauro Picotto",
+          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
         }
       ],
-      "duration_ms": 234160,
-      "name": "Beachball - Vocal Radio Edit",
-      "url": "https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R"
+      "duration_ms": 203440,
+      "name": "Komodo (Radio Edit)",
+      "url": "https://open.spotify.com/track/3NjmHXAKcpg5e0BseNJtUJ"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -299,34 +315,18 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+        "name": "Beachball",
+        "url": "https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Nalin & Kane",
+          "url": "https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Greatest Hits & Remixes",
-        "url": "https://open.spotify.com/album/3kzFmML169KngWKdeutrhc"
-      },
-      "artists": [
-        {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Komodo (Radio Edit)",
-      "url": "https://open.spotify.com/track/3NjmHXAKcpg5e0BseNJtUJ"
+      "duration_ms": 234160,
+      "name": "Beachball - Vocal Radio Edit",
+      "url": "https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
-      },
-      "artists": [
-        {
-          "name": "Airbase",
-          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Escape - Radio Edit",
-      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Need To Feel Loved",
         "url": "https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "The Double Album",
-        "url": "https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
       },
       "artists": [
         {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+          "name": "Airbase",
+          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
         }
       ],
-      "duration_ms": 313120,
-      "name": "Lizard",
-      "url": "https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt"
+      "duration_ms": 194946,
+      "name": "Escape - Radio Edit",
+      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -727,6 +711,22 @@
       "duration_ms": 187520,
       "name": "Superstring - RANK 1's Radio Edit",
       "url": "https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "The Double Album",
+        "url": "https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a"
+      },
+      "artists": [
+        {
+          "name": "Mauro Picotto",
+          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+        }
+      ],
+      "duration_ms": 313120,
+      "name": "Lizard",
+      "url": "https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt"
     },
     {
       "added_at": "2023-08-11 10:02:57",

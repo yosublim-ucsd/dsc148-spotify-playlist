@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,665 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,718 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [christian scientist](https://open.spotify.com/track/1JCSCizyaMq8FlGzLu2Axw) | [summersets](https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v) | [christian scientist](https://open.spotify.com/album/46olos43yORnxof94frLRG) | 3:23 |
 | 100 | [God Above](https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 |
 
-Snapshot ID: `MCxjMjQ0YTA4ZGE1YzNkODNkYjk5ZjBhMmMxMzI4YjY4NDM4Y2QyNmFi`
+Snapshot ID: `MCw5Y2U2NzVlZjhlNzM2ZWQ3Y2YyZTU1ZWJjMjg5YjI3NzNlZTEwYjc1`

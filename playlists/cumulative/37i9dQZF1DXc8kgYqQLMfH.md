@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,033 songs - 1 day 14 hr 59 min
+1,034 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Aura](https://open.spotify.com/track/4CM1loeQHmVpQQbqAHfz9N) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Aura](https://open.spotify.com/album/0mmiqgEMX3yvKH04dFSa2q) | 2:11 | 2022-11-25 |  |
 | [Autumn Haze](https://open.spotify.com/track/4mZxtbtBIEAyhif5WaXA9q) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Autumn Haze](https://open.spotify.com/album/1X5Pl4XgeUHlUr0SQLp9ao) | 2:03 | 2023-07-13 |  |
 | [Autumn Lies](https://open.spotify.com/track/56Trob6SO6aJt6GLNACrfq) | [States Of Matter](https://open.spotify.com/artist/0zL5nus6xyjc2UbkjBgxaz) | [Seaweather](https://open.spotify.com/album/6Md6MVyHr8AlBayPkYSoB6) | 2:54 | 2022-01-27 | 2023-04-28 |
-| [Aviato](https://open.spotify.com/track/1cEdLUmlJNXQoazp48jxVg) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Aviato](https://open.spotify.com/album/4DBH0MPVET1AFcds7LSVcu) | 2:08 | 2022-10-01 |  |
+| [Aviato](https://open.spotify.com/track/1cEdLUmlJNXQoazp48jxVg) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Aviato](https://open.spotify.com/album/4DBH0MPVET1AFcds7LSVcu) | 2:08 | 2022-10-01 | 2023-09-12 |
 | [awareness](https://open.spotify.com/track/4fkuzFLzXSzslhrHWSGGhI) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [awareness](https://open.spotify.com/album/0YErBks7Y3JioAcB3RHZDd) | 2:12 | 2021-11-10 | 2022-05-20 |
 | [Babbling Brook](https://open.spotify.com/track/0pUYzh1ywTsyy25UoZTuTG) | [rsbd](https://open.spotify.com/artist/4vdsmVFfnqCP6QvVpDYRTv) | [Babbling Brook](https://open.spotify.com/album/5kOyvkfpUHH0spLyotvPQH) | 2:31 | 2021-11-10 |  |
 | [Back in love](https://open.spotify.com/track/0MX8WqK38fsgaImv3vYGTb) | [Floating Bits](https://open.spotify.com/artist/4CmfscPBgrYJQuZP1nTQbs) | [Back in love](https://open.spotify.com/album/7I3NqEIPyMRmsUgPbwkPPZ) | 2:03 | 2022-06-03 |  |
@@ -801,6 +801,7 @@
 | [Shingo](https://open.spotify.com/track/3YegC72pbwviu6fy5zbPh3) | [The Graph](https://open.spotify.com/artist/4bwrakWnAq3spXK7FvNqwY) | [Shingo](https://open.spotify.com/album/7klo4BZCjEJT0158jeEamD) | 2:46 | 2021-11-10 |  |
 | [Shinrin\-yoku](https://open.spotify.com/track/2ByA0nEhebx6CD22wMmGM7) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL) | [Shinrin\-yoku](https://open.spotify.com/album/0IOnDUjJlSqQ1Vy9x6Vbfq) | 1:56 | 2021-11-10 | 2022-08-19 |
 | [short circuit](https://open.spotify.com/track/4ZeewwjtzIzdl1YgLwKGGP) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [short circuit](https://open.spotify.com/album/3U7LZjbdkwR0HOMmMOIQ0W) | 2:12 | 2023-03-16 |  |
+| [Short Jump](https://open.spotify.com/track/5fBJTbaSPoh7nkOgkTTTph) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Short Jump](https://open.spotify.com/album/3VEtGpXTKZQHkTmQGKFWJV) | 2:02 | 2023-09-08 |  |
 | [Si Fueras Tú](https://open.spotify.com/track/1rOmWRo4B1x51otyJmWhq4) | [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [El Trayecto](https://open.spotify.com/album/0hWr8GNcrVnF9vIXAuRHF3) | 2:50 | 2022-05-27 |  |
 | [Sidewalks](https://open.spotify.com/track/3NOKSBsL5amXGYBv8v60VM) | [mago](https://open.spotify.com/artist/0PCoJKGJi361NuMfE0FmMd) | [Sidewalks](https://open.spotify.com/album/3g8ybeju4qtXFSmGraf7sS) | 2:10 | 2022-04-08 | 2022-12-10 |
 | [siftin'](https://open.spotify.com/track/2yMIA82uHZQ666qv3GIIX1) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [siftin'](https://open.spotify.com/album/3noU4eVokr1ve9X8vUzecf) | 2:25 | 2023-07-13 |  |

@@ -4,7 +4,7 @@
 
 > Christmas classics from your favourite Blues artists.
 
-129 songs - 7 hr 28 min
+130 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Christmas Train](https://open.spotify.com/track/01iehy23FOL9dyo4bDir1g) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/7xUrOvlnlbrIbaSZRih5Z2) | 3:36 | 2021-12-14 | 2022-07-28 |
 | [Christmas Train](https://open.spotify.com/track/2AMep7trysJeDAyfQ7E96T) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:36 | 2021-12-14 |  |
 | [Christmas Train](https://open.spotify.com/track/3xFdvDNOhsOcxpcPijfx9G) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [The Greatest Harmonica Blues Jams](https://open.spotify.com/album/7asJGJCTowh5aFvsrzDgbC) | 3:36 | 2022-11-09 | 2022-11-13 |
-| [Come Rain or Come Shine](https://open.spotify.com/track/4VOHFkCCdAjc7oDNMB72mg) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [Ultimate Jazz Pianist](https://open.spotify.com/album/1C6qw36U1UvpHHa4lE06ES) | 2:26 | 2022-11-09 |  |
+| [Christmas Vacation](https://open.spotify.com/track/2UuwMH7KBuWlYYTk7JeK5F) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5) | 1:48 | 2023-02-22 |  |
+| [Come Rain or Come Shine](https://open.spotify.com/track/4VOHFkCCdAjc7oDNMB72mg) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [Ultimate Jazz Pianist](https://open.spotify.com/album/1C6qw36U1UvpHHa4lE06ES) | 2:26 | 2022-11-09 | 2023-09-12 |
 | [Dirty Ol' Christmas Blues](https://open.spotify.com/track/0WE9iKOAPnnXnifXm5VXGJ) | [Yes Maam](https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl), [Blind Boy Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:06 | 2023-02-22 |  |
 | [Empty Stocking Blues](https://open.spotify.com/track/6SwZ76VAKMj9pUDlTExTTQ) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [His Complete Aladdin Recordings](https://open.spotify.com/album/4CrJDn8HDnuIkCqfgUOmNh) | 3:01 | 2022-11-09 |  |
 | [Far Away Christmas Blues](https://open.spotify.com/track/01GFlck1TZRWWaZ87kwtUH) | [ジョニー・オーティス](https://open.spotify.com/artist/54WGSF3PnOne3EVNVsPmlW), [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 3:21 | 2022-11-09 |  |

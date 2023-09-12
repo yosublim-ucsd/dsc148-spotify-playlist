@@ -4,7 +4,7 @@
 
 > Smooth joints from around the globe
 
-114 songs - 7 hr 39 min
+115 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Nautical \- Radio Edit](https://open.spotify.com/track/2fuEnEKYed6EpgWcMjVVqx) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9), [Novak Manojlovic](https://open.spotify.com/artist/3m2QbQV4vmNLDSCbQlBkJB) | [Nautical](https://open.spotify.com/album/74YCnRRhFUIFbGbRcN4xkY) | 3:17 | 2023-08-31 |  |
 | [Nightclub Daydream](https://open.spotify.com/track/5tIWokaSlLIeH4xiQ5U1we) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5) | [Rarities 2010 \- 2020: Japanese Tour Singles](https://open.spotify.com/album/30lV8rmhO9bbOTD6NpZMts) | 3:32 | 2023-08-10 | 2023-09-01 |
 | [Nightlife](https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Nightlife](https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu) | 3:17 | 2023-08-10 | 2023-09-01 |
+| [No Confusion \(feat\. Kojey Radical\)](https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:14 | 2023-09-11 |  |
 | [On Land \- Hugh B Dub](https://open.spotify.com/track/754xe1zYNdjnHjxFM3nInA) | [Loose Fit](https://open.spotify.com/artist/0uheKgZvAN1XtSaIsSV3IO), [Hugh B](https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn) | [Remixes and Dubs](https://open.spotify.com/album/44fftVVsXoC0zoDrUPpRSS) | 4:10 | 2023-08-10 |  |
 | [Oscillate](https://open.spotify.com/track/2KCj8oBO9PmOgSOqEOyQQK) | [Alexander Flood](https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz) | [Oscillate](https://open.spotify.com/album/0mTLIPyWBKcuMRXnOj1yH6) | 6:13 | 2023-08-10 |  |
 | [Over The Moon](https://open.spotify.com/track/5asQpx4UqHbWOYBNP375Qv) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 3:32 | 2023-08-10 |  |
@@ -121,6 +122,6 @@
 | [You Are The Reason](https://open.spotify.com/track/56F50CYq9MRcefIShTLPL4) | [Tassone](https://open.spotify.com/artist/470ihAHOGGu2P0xyo8upnv), [Amy Kisnorbo](https://open.spotify.com/artist/2PJz7yQtTtf05sYx7jsbrI) | [First Light](https://open.spotify.com/album/0j8NWZVyLmUtvybK07T1hi) | 4:00 | 2023-08-10 | 2023-09-08 |
 | [You Don't Even Know](https://open.spotify.com/track/0fZCZuIkZMwOAb3Ygw2faP) | [SUPEREGO](https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER) | [Who Are You Hiding From?](https://open.spotify.com/album/3kST4kQgcujNX02sRT7ju7) | 2:50 | 2023-08-10 |  |
 | [your intuition is your friend \- radio edit](https://open.spotify.com/track/6rioSjyjKCmkM52gZjJluM) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Edward Wakili\-Hick](https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7) | [your intuition is your friend \(radio edit\)](https://open.spotify.com/album/57enkmVamHuaYnkD5ZoEvB) | 3:36 | 2023-08-17 |  |
-| [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 | 2023-08-10 |  |
+| [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 | 2023-08-10 | 2023-09-12 |
 
 \*This playlist was first scraped on 2023-08-11. Prior content cannot be recovered.

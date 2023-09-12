@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 26690,
+  "num_followers": 26695,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWE5OTI2Mjg5YzhjZmVkYzY5NzU0NjQzNTVmYzk0NzU4ZmE4NDAw",
+  "snapshot_id": "MCxhNDE4NTE3ZTA5NTAyNzRlNTU2M2RhNzEzZmFiYTk0YWE2MDA5OGQx",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
+        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "\ub450 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Hexagonal",
         "url": "https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 239173,
       "name": "I Think I",
       "url": "https://open.spotify.com/track/4qz9vMynxvG647kcm19B28"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
-        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "\ub450 \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Buzz Effect",
-        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
-      },
-      "artists": [
-        {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "\ub098\uc5d0\uac8c\ub85c \ub5a0\ub098\ub294 \uc5ec\ud589",
-      "url": "https://open.spotify.com/track/4K35mmvZKAq3ue2TyXisMW"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "AsuRaBalBalTa",
         "url": "https://open.spotify.com/album/4of6ei5UMWYCB3bD5bNDXS"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 225720,
       "name": "She Is",
       "url": "https://open.spotify.com/track/1XENcYfPIaUK98vBOx3mjm"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Buzz Effect",
+        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "\ub098\uc5d0\uac8c\ub85c \ub5a0\ub098\ub294 \uc5ec\ud589",
+      "url": "https://open.spotify.com/track/4K35mmvZKAq3ue2TyXisMW"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Princess Hours (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
-      },
-      "artists": [
-        {
-          "name": "Stay",
-          "url": "https://open.spotify.com/artist/2MENR0a1rBKNl7bWPPEth1"
-        }
-      ],
-      "duration_ms": 258019,
-      "name": "\ub2f9\uc2e0\uc740...\ub098\ub294 \ubc14\ubcf4 \uc785\ub2c8\ub2e4 - Acoustic Version",
-      "url": "https://open.spotify.com/track/01lS0GX5TV41xmUN2uGRP5"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Across The Romantic Bridge",
         "url": "https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 264306,
       "name": "\uadf8\ub7f0\uc77c\uc740",
       "url": "https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Princess Hours (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
+      },
+      "artists": [
+        {
+          "name": "Stay",
+          "url": "https://open.spotify.com/artist/2MENR0a1rBKNl7bWPPEth1"
+        }
+      ],
+      "duration_ms": 258019,
+      "name": "\ub2f9\uc2e0\uc740...\ub098\ub294 \ubc14\ubcf4 \uc785\ub2c8\ub2e4 - Acoustic Version",
+      "url": "https://open.spotify.com/track/01lS0GX5TV41xmUN2uGRP5"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Morning Of Buzz",
-        "url": "https://open.spotify.com/album/0ZEhWeY6nR0uGZddxRpLGX"
-      },
-      "artists": [
-        {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "Monologue",
-      "url": "https://open.spotify.com/track/0ay8fHEeIE1n4Mt6qKaTyt"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 299426,
       "name": "\uccb4\ub150",
       "url": "https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Morning Of Buzz",
+        "url": "https://open.spotify.com/album/0ZEhWeY6nR0uGZddxRpLGX"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "Monologue",
+      "url": "https://open.spotify.com/track/0ay8fHEeIE1n4Mt6qKaTyt"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Made In Korea?",
+        "url": "https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk"
+      },
+      "artists": [
+        {
+          "name": "cherryfilter",
+          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "sweet little kitty",
+      "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Cool Best",
         "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 245159,
       "name": "I drink again",
       "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Made In Korea?",
-        "url": "https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk"
-      },
-      "artists": [
-        {
-          "name": "cherryfilter",
-          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "sweet little kitty",
-      "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Change Yourself",
-        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
-      },
-      "artists": [
-        {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
-      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Mc The Max - Solitude Love\u2026",
         "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
       },
@@ -1139,18 +1123,34 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/2R0INDnQ0E1jwNVwTcbtBD"
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
       },
       "artists": [
         {
-          "name": "Loveholic",
-          "url": "https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2"
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
         }
       ],
-      "duration_ms": 219376,
-      "name": "Loveholic",
-      "url": "https://open.spotify.com/track/0w7loHoKT2CDoqB091pWDd"
+      "duration_ms": 232960,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Change Yourself",
+        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
+      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Longing",
-        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/2R0INDnQ0E1jwNVwTcbtBD"
       },
       "artists": [
         {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+          "name": "Loveholic",
+          "url": "https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2"
         }
       ],
-      "duration_ms": 232960,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
+      "duration_ms": 219376,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/0w7loHoKT2CDoqB091pWDd"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
-      },
-      "artists": [
-        {
-          "name": "Kim Jong Kook",
-          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "\uc911\ub3c5",
-      "url": "https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.36",
         "url": "https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 226998,
       "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
       "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "\uc911\ub3c5",
+      "url": "https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Like The Bible",
-        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
-      },
-      "artists": [
-        {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
-        }
-      ],
-      "duration_ms": 259626,
-      "name": "Break Away",
-      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Like The Bible",
+        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 247852,
       "name": "A Letter to you Part.2",
       "url": "https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1387,22 +1403,6 @@
       "duration_ms": 337066,
       "name": "In dreams",
       "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "It's Real",
-        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "sweetbox The Best",
-        "url": "https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM"
-      },
-      "artists": [
-        {
-          "name": "Sweetbox",
-          "url": "https://open.spotify.com/artist/6G7NK00vdfxNtdjLOfdUnZ"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Life Is Cool",
-      "url": "https://open.spotify.com/track/3kslq6hNK1NPQBZKa6bDfW"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Reason 4 breathing?",
         "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 247040,
       "name": "FOR YOU",
       "url": "https://open.spotify.com/track/2Fth4BfZxpGht783UTYiiA"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "sweetbox The Best",
+        "url": "https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM"
+      },
+      "artists": [
+        {
+          "name": "Sweetbox",
+          "url": "https://open.spotify.com/artist/6G7NK00vdfxNtdjLOfdUnZ"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Life Is Cool",
+      "url": "https://open.spotify.com/track/3kslq6hNK1NPQBZKa6bDfW"
     },
     {
       "added_at": "2022-06-13 13:22:46",

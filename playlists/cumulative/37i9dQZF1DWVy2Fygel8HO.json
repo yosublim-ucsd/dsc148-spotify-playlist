@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Com Sono",
+        "url": "https://open.spotify.com/album/7bhBU3UhFVcfhY5fmAnkpu"
+      },
+      "artists": [
+        {
+          "name": "Fernando Alegre",
+          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123461,
+      "name": "Com Sono",
+      "url": "https://open.spotify.com/track/7oOdPpgbxnNVnlEQedAdg6"
+    },
+    {
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/5Kwp883TNLiSnBqgvsrQfV"
       },
@@ -1057,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Quiet Moments",
+        "url": "https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc"
+      },
+      "artists": [
+        {
+          "name": "Monir Bresegeut",
+          "url": "https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120418,
+      "name": "Quiet Moments",
+      "url": "https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc"
+    },
+    {
+      "album": {
         "name": "Recognition",
         "url": "https://open.spotify.com/album/4vKS3tCofv0jYyNUPsyKxE"
       },
@@ -1166,6 +1202,24 @@
       "duration_ms": 171142,
       "name": "resting song",
       "url": "https://open.spotify.com/track/0xLmbr7Y8dCbwwMoh2tL5P"
+    },
+    {
+      "album": {
+        "name": "Rivers Run",
+        "url": "https://open.spotify.com/album/4RjEzBp3wM590XPVTqI1kr"
+      },
+      "artists": [
+        {
+          "name": "Lester Milton",
+          "url": "https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142142,
+      "name": "Rivers Run",
+      "url": "https://open.spotify.com/track/4WYhUn9Ed37U8FtKrSlPVm"
     },
     {
       "album": {
@@ -1508,6 +1562,24 @@
       "duration_ms": 98250,
       "name": "Sunday breeze",
       "url": "https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN"
+    },
+    {
+      "album": {
+        "name": "teunok",
+        "url": "https://open.spotify.com/album/2zR5ONJGefVeFM904jJ2HY"
+      },
+      "artists": [
+        {
+          "name": "Ove Roos",
+          "url": "https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151041,
+      "name": "teunok",
+      "url": "https://open.spotify.com/track/382bYUbYKAIfyhZ0CQ9gek"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 34991,
+  "num_followers": 35046,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODk4MzEwYTg5MzRmZjE1ZGFiOTczNDRmNDIzMTYwNTg1Y2U4MDk3",
+  "snapshot_id": "MCwwNDA2MjFjNzNmOWU5MTMwODk1Yjg5MjVlZTY3ODgxM2QwYzVkOGNk",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Conjunto Condemayta de Acomayo",
-        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Cuerpo Soltero",
-      "url": "https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Max Castro y la Gran Banda",
         "url": "https://open.spotify.com/album/3AKPMqREYYrNpkqXC5t8Tv"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 330016,
       "name": "Tu Me Pides Que Te Olvide",
       "url": "https://open.spotify.com/track/2H19r12AYTfmJ4TBlXXWRE"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Cuerpo Soltero",
+      "url": "https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -255,38 +255,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Olvidame",
-        "url": "https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ"
-      },
-      "artists": [
-        {
-          "name": "String Karma",
-          "url": "https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx"
-        }
-      ],
-      "duration_ms": 265599,
-      "name": "Cajamarquina",
-      "url": "https://open.spotify.com/track/5tOCsVNHO1rEtC7KaP2v3E"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
-        }
-      ],
-      "duration_ms": 277603,
-      "name": "Amor Ajeno",
-      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
       },
@@ -319,6 +287,54 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Olvidame",
+        "url": "https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ"
+      },
+      "artists": [
+        {
+          "name": "String Karma",
+          "url": "https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx"
+        }
+      ],
+      "duration_ms": 265599,
+      "name": "Cajamarquina",
+      "url": "https://open.spotify.com/track/5tOCsVNHO1rEtC7KaP2v3E"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+        }
+      ],
+      "duration_ms": 277603,
+      "name": "Amor Ajeno",
+      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Los Errantes",
+        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
+      },
+      "artists": [
+        {
+          "name": "Los Errantes",
+          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Chuquibambinita",
+      "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "La princesa del Folklore",
         "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 197866,
       "name": "Otra vez me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Los Errantes",
-        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
-      },
-      "artists": [
-        {
-          "name": "Los Errantes",
-          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Chuquibambinita",
-      "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La princesa del Folklore",
-        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
-      },
-      "artists": [
-        {
-          "name": "Alicia Delgado",
-          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
-        }
-      ],
-      "duration_ms": 260213,
-      "name": "Como Me Duele Saber",
-      "url": "https://open.spotify.com/track/4m93vYRlOax2Vbbl2fXJnW"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Como Siempre Con El Mayor Cari\u00f1o",
         "url": "https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 224773,
       "name": "Adi\u00f3s Pueblo De Ayacucho",
       "url": "https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "La princesa del Folklore",
+        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
+      },
+      "artists": [
+        {
+          "name": "Alicia Delgado",
+          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
+        }
+      ],
+      "duration_ms": 260213,
+      "name": "Como Me Duele Saber",
+      "url": "https://open.spotify.com/track/4m93vYRlOax2Vbbl2fXJnW"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -507,6 +507,22 @@
       "duration_ms": 274506,
       "name": "Cerveza, Cerveza",
       "url": "https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Puro Sentimiento",
+        "url": "https://open.spotify.com/album/4OmbN40zd86thCciHF3PR9"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Curi",
+          "url": "https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9"
+        }
+      ],
+      "duration_ms": 266831,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/1FJMpwSVvvRAUs4e9J8cSr"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -559,22 +575,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Puro Sentimiento",
-        "url": "https://open.spotify.com/album/4OmbN40zd86thCciHF3PR9"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Curi",
-          "url": "https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9"
-        }
-      ],
-      "duration_ms": 266831,
-      "name": "Tu Recuerdo",
-      "url": "https://open.spotify.com/track/1FJMpwSVvvRAUs4e9J8cSr"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Caminando Y Cantando",
         "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Wistu Vida",
-        "url": "https://open.spotify.com/album/6Ow5JgeHaoriAgtP9jbDMU"
-      },
-      "artists": [
-        {
-          "name": "Duo Retama",
-          "url": "https://open.spotify.com/artist/12lOCts9qQhJiDDHEnao75"
-        }
-      ],
-      "duration_ms": 388813,
-      "name": "Flor de Retama",
-      "url": "https://open.spotify.com/track/44xGBoSZ8S98X3LzgUyuWK"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huaylash Pio Pio",
         "url": "https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 219653,
       "name": "El Pio, Pio",
       "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Wistu Vida",
+        "url": "https://open.spotify.com/album/6Ow5JgeHaoriAgtP9jbDMU"
+      },
+      "artists": [
+        {
+          "name": "Duo Retama",
+          "url": "https://open.spotify.com/artist/12lOCts9qQhJiDDHEnao75"
+        }
+      ],
+      "duration_ms": 388813,
+      "name": "Flor de Retama",
+      "url": "https://open.spotify.com/track/44xGBoSZ8S98X3LzgUyuWK"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huayno, Vol. 2",
-        "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
-      },
-      "artists": [
-        {
-          "name": "Los Puquiales",
-          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
-        }
-      ],
-      "duration_ms": 167466,
-      "name": "Sihuarsito",
-      "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+        "name": "Huayno, Vol. 2",
+        "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
       },
       "artists": [
         {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+          "name": "Los Puquiales",
+          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
+      "duration_ms": 167466,
+      "name": "Sihuarsito",
+      "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -963,6 +947,22 @@
       "duration_ms": 340584,
       "name": "La Cornuda",
       "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+      },
+      "artists": [
+        {
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2022-02-04 14:45:56",

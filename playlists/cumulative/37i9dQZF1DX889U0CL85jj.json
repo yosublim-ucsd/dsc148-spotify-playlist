@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "The Middle of Nowhere",
+        "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
+      },
+      "artists": [
+        {
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "Answering Machine",
+      "url": "https://open.spotify.com/track/3boC2M1D82RuRJhUOkSHtg"
+    },
+    {
+      "album": {
         "name": "souvenir",
         "url": "https://open.spotify.com/album/4cabxBosFk0C7xVD1lVitq"
       },
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 190616,
       "name": "Everything You've Always Wanted",
       "url": "https://open.spotify.com/track/0lxFZBVq0k071RSSl4oCJa"

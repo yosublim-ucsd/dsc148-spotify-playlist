@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-282 songs - 11 hr 26 min
+283 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Back Up On It \(Jasmine\)](https://open.spotify.com/track/2di0TfKcoDdmnA0mSPLCYk) | [DJ Fire](https://open.spotify.com/artist/0ky4LIRukBkNFLJ2uzpQ9Y), [Dougie F & DJ Fire](https://open.spotify.com/artist/57UWHentGuHNFZBertnsf8), [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [Back Up On It \(Jasmine\)](https://open.spotify.com/album/7jYgzdKEdRHubC7zxHoKph) | 3:20 | 2022-02-11 | 2022-12-31 |
 | [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 | 2022-02-11 | 2023-08-24 |
 | [Banji](https://open.spotify.com/track/6tS9z4PYZpOFaHFs6Nuoz0) | [Sharaya J](https://open.spotify.com/artist/6Z4puj0KYgtcxJrVXKmvBX) | [Banji](https://open.spotify.com/album/6TrxrJAOR9dYbXJtLTGBX8) | 2:35 | 2022-02-11 | 2022-12-17 |
+| [BE FORREAL](https://open.spotify.com/track/1RmJwFy8hk4VHTSJPU3nm9) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Big Bam](https://open.spotify.com/artist/2NkyvcYEasg0Yd4a6domnq), [DJ Blizz](https://open.spotify.com/artist/1QkWDabKuR7G7AcFLaN1hq) | [BE FORREAL](https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h) | 1:26 | 2023-09-08 |  |
 | [Beat A Bitch Up Challenge](https://open.spotify.com/track/3YokUz1GMTM4hDVSwL9dHn) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [dj Shawny](https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx) | [Full House \(Jersey Club Remix\)](https://open.spotify.com/album/5LZjicQLBUsK1Uq8jsjqzz) | 1:12 | 2022-02-11 | 2022-07-08 |
 | [Beat A Bitch Up Challenge](https://open.spotify.com/track/3zl7WoKo2zhYWkbMLHSfXV) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [dj Shawny](https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx) | [Beat A Bitch Up Challenge](https://open.spotify.com/album/3Ky1KT0KdbUkpDOSO2QdsA) | 1:12 | 2022-07-22 | 2022-12-17 |
 | [Beat it Up 2k23](https://open.spotify.com/track/7dW44unUq1kL0Hku6wq7uj) | [DJ Difficult](https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39), [A.B.E](https://open.spotify.com/artist/6xZs87XR7vPelRzsbyz17R), [Slice ThaHitMaker](https://open.spotify.com/artist/6Vmkl1MWtu88DAcSWoMmul) | [Beat it Up 2k23](https://open.spotify.com/album/2MW2quIyd72cp0Gv8vtc4n) | 3:45 | 2023-01-06 |  |
@@ -167,7 +168,7 @@
 | [Love Song \- TrillzAL Jersey Edit](https://open.spotify.com/track/5fEyVjWSDAkZzpkeinGBfx) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [TrillzAL](https://open.spotify.com/artist/4jovnMrcMoNDMhx8xLnp7A) | [Love Song \(Remixes\)](https://open.spotify.com/album/1qWGucN0AWEu5S0wdNOKPu) | 2:22 | 2022-02-11 | 2022-12-31 |
 | [Low Budget Bass Trash \- W.A.S.H\. Remix](https://open.spotify.com/track/30v9quHl4dLXfpv2Q8ERqO) | [Not Your Shadow](https://open.spotify.com/artist/1cOezzAcftrq3gR6ABPJ9C), [W.A.S.H.](https://open.spotify.com/artist/0v8Wb0xRJcWNUjDc5sL9Og) | [Low Budget Bass Trash \(W.A.S.H\. Remix\)](https://open.spotify.com/album/5vygzgKP1YZtBWdQpgzfGk) | 3:13 | 2022-04-01 | 2022-07-28 |
 | [Luhh Galore](https://open.spotify.com/track/1MOcUvdRYdVMTAYuHfMILj) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/0qWRPNvv1f7Ai6KBi4zgAH) | 1:28 | 2022-02-11 | 2022-07-29 |
-| [Luhh Galore](https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX) | 1:28 | 2022-07-22 |  |
+| [Luhh Galore](https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX) | 1:28 | 2022-07-22 | 2023-09-12 |
 | [Magnetic \- Remix](https://open.spotify.com/track/611DTJC3NW3ojN95CUPxef) | [ByHaze](https://open.spotify.com/artist/7CF5gEatm6bZWvGFPjPU2e), [Evisule](https://open.spotify.com/artist/0hMA520wSuejLe3ilhXY2S) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3Kfgkz8I4XS2alTVzqMXab) | 3:00 | 2022-02-11 | 2022-12-31 |
 | [make it jump](https://open.spotify.com/track/7f9uMdhxVDMYpxFN7OMBJm) | [mortyaweiro](https://open.spotify.com/artist/5vim2G9JGVoyUGPc7jIqVj) | [make it jump](https://open.spotify.com/album/7mVsrV1r8J1pisrklmHTK6) | 3:04 | 2023-07-10 |  |
 | [make it jump \- Jersey Club Remix](https://open.spotify.com/track/2b3oftUheFa8YngoIiuf1a) | [Rrodney](https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n), [mcvertt](https://open.spotify.com/artist/1a0jOXZS58WPtXcVVYnz09), [@Temp.Gzz](https://open.spotify.com/artist/1PZaTfLviryWyyfDgqRMQ4) | [make it jump \(Jersey Club Remix\)](https://open.spotify.com/album/0fYJzpHYpEj7SBlqkBiosY) | 3:04 | 2022-12-30 | 2023-05-27 |

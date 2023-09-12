@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10461,
+  "num_followers": 10468,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2JiMGM1MzQ1ZmJkNmQzYzhlODhjZmFlOGVjYjA3OGZkMGYyOTVl",
+  "snapshot_id": "MCxlZDk5Y2UzMjAwMmJmYjUwMTNiOTRjZmRjNjg4ZDE5YWExY2QwMTk4",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Too Drunk To Drive Drunk",
-      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Dust My Broom",
         "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 150667,
       "name": "Shake Your Money Maker",
       "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Too Drunk To Drive Drunk",
+      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Everything I Need",
-        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Soundman",
-      "url": "https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 114784,
       "name": "We've Got The Music",
       "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Everything I Need",
+        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Soundman",
+      "url": "https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Girls With Guitars",
-        "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
-      },
-      "artists": [
-        {
-          "name": "Cassie Taylor / Dani Wilde / Samantha Fish",
-          "url": "https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Satisfy My Soul",
-      "url": "https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Middle of the Road",
         "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 172000,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Girls With Guitars",
+        "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
+      },
+      "artists": [
+        {
+          "name": "Cassie Taylor / Dani Wilde / Samantha Fish",
+          "url": "https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Satisfy My Soul",
+      "url": "https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Damage Control",
-        "url": "https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH"
-      },
-      "artists": [
-        {
-          "name": "Curtis Salgado",
-          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
-        }
-      ],
-      "duration_ms": 256522,
-      "name": "Hail Mighty Caesar",
-      "url": "https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "50 - Just warming up !",
@@ -775,6 +759,22 @@
       "duration_ms": 275226,
       "name": "Let The Good Time Party Begin",
       "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "Damage Control",
+        "url": "https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH"
+      },
+      "artists": [
+        {
+          "name": "Curtis Salgado",
+          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
+        }
+      ],
+      "duration_ms": 256522,
+      "name": "Hail Mighty Caesar",
+      "url": "https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Girls With Guitars",
-        "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
+        "name": "The Son Of A Bluesman",
+        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
       },
       "artists": [
         {
-          "name": "Cassie Taylor / Dani Wilde / Samantha Fish",
-          "url": "https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc"
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
         }
       ],
-      "duration_ms": 214133,
-      "name": "Mr. Loving Man",
-      "url": "https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7"
+      "duration_ms": 281013,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
     }
   ],
   "unique_name": "Blues Party",

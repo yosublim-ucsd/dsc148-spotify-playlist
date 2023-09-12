@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-567 songs - 2 day 5 hr 29 min
+568 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Akwalek](https://open.spotify.com/track/7EreKvVhlqWi5wTyVfLawL) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/3HaeZlQ5SdtBwUPPGgkC99) | 4:36 | 2022-04-13 | 2023-02-03 |
 | [Alberto Balsalm](https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:10 | 2022-04-13 | 2023-02-02 |
 | [Alberto Balsalm](https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:10 | 2022-04-13 |  |
-| [All Is Full of Love \(Secondotted\)](https://open.spotify.com/track/7ICMCUEZG6wOMjr263QEd0) | [Björk Mit Funkstorung](https://open.spotify.com/artist/629LeaUSUKLfzbsBHX021V) | [Across Uneven Terrain](https://open.spotify.com/album/1kldzA5EECxo319li3GN5N) | 4:39 | 2022-04-13 |  |
+| [All Is Full of Love \(Secondotted\)](https://open.spotify.com/track/7ICMCUEZG6wOMjr263QEd0) | [Björk Mit Funkstorung](https://open.spotify.com/artist/629LeaUSUKLfzbsBHX021V) | [Across Uneven Terrain](https://open.spotify.com/album/1kldzA5EECxo319li3GN5N) | 4:39 | 2022-04-13 | 2023-09-12 |
 | [Analogue Bubblebath](https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 4:46 | 2022-04-13 | 2022-07-25 |
 | [Anex](https://open.spotify.com/track/2gBIPZBOGbOOBiaqxjGyYN) | [Adam Johnson](https://open.spotify.com/artist/1mpZvM3DHU6o5DC1lJmw5Y) | [Chigliak](https://open.spotify.com/album/3qKpwSHUazGWmxLm0WWdGS) | 5:43 | 2022-04-13 |  |
 | [Angel](https://open.spotify.com/track/5ErXilg6f26YH2FSu44HHZ) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Persona](https://open.spotify.com/album/08Qox0oVipyl9qf9mnrjJi) | 6:44 | 2022-04-13 | 2023-08-30 |
@@ -349,6 +349,7 @@
 | [Paintchart](https://open.spotify.com/track/6u0Xf1BYSEttaXjr8eUapN) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Beautronics Plus](https://open.spotify.com/album/1oKuAao1T85lcjeRSAoqtM) | 4:37 | 2022-04-13 |  |
 | [Papua New Guinea](https://open.spotify.com/track/5zh23oMbATQlWbwEe5U0KG) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Accelerator](https://open.spotify.com/album/5QJgGoswsej4o1KwXpfYCZ) | 6:45 | 2022-04-13 |  |
 | [Parachute Panador](https://open.spotify.com/track/1pNpt53PZPet9dvJN3RKGr) | [Prefuse 73](https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG) | [Everything She Touched Turned Ampexian](https://open.spotify.com/album/4Z1cpP7jBiL6eSFFtN8gTX) | 1:03 | 2022-04-13 | 2022-07-01 |
+| [Parachute Panador](https://open.spotify.com/track/3WvpcLcTMk344OqINr7OkR) | [Prefuse 73](https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG) | [Everything She Touched Turned Ampexian](https://open.spotify.com/album/5smZNET5iEsOgS9LnOcIPh) | 1:03 | 2022-04-13 |  |
 | [Paradise Garage](https://open.spotify.com/track/3eInR10fAtRhuWkFctfcOQ) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Numbers Lucent](https://open.spotify.com/album/37AC0Q5hiMP53Oh3lijtrm) | 3:55 | 2022-04-13 | 2022-07-27 |
 | [Paroles \(Autechre Repoles\)](https://open.spotify.com/track/4JF4cQnzAvi4RWhAX7DlKK) | [Mike Ink](https://open.spotify.com/artist/1GlO6fbTFkwP6CyQgsjSoe) | [Polka Trax](https://open.spotify.com/album/68Ov1g3Qi5igFXw3pC6qJe) | 6:55 | 2022-04-13 | 2022-07-25 |
 | [Pattern 12](https://open.spotify.com/track/6mEvlKrnuwzN447nSugGB8) | [Unique 3](https://open.spotify.com/artist/7mmlklBsiiQtoefebvSgzo) | [Jus' Unique](https://open.spotify.com/album/5sggchLS5GbWu6BDeIfqpz) | 5:08 | 2022-04-13 | 2022-07-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,645 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,792 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Money](https://open.spotify.com/track/0KD6pNagSVwjpNaSjnuE7o) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Greg Hutchinson](https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o), [Matt Penmann](https://open.spotify.com/artist/11XVTuKY8lRxcrbbysWYLr) | [Money](https://open.spotify.com/album/4walVbFcfH4QiqOJiZZ3Rx) | 4:04 |
 | 50 | [Peach Velvet Sky](https://open.spotify.com/track/1r9Xoxz09kMbcIEm7WfjkF) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Peach Velvet Sky](https://open.spotify.com/album/4kaMFxOjrLmf2jEQWJkNW9) | 5:50 |
 
-Snapshot ID: `MCxhNGNlODAzYTAxZGJjYmRhYTgzYWNhMjFlODU5ZDc2OGZiNjI1OGI4`
+Snapshot ID: `MCxmOWY2YjdhNjEzMmEyM2JkOTMwNzVmMWZkM2IzZTUzZDQ2NjJiYjY1`

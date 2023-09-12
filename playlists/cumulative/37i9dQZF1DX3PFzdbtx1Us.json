@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Bird of Passage",
+        "url": "https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO"
+      },
+      "artists": [
+        {
+          "name": "Carmelito",
+          "url": "https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127313,
+      "name": "Bird of Passage",
+      "url": "https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN"
+    },
+    {
+      "album": {
         "name": "Nainsook",
         "url": "https://open.spotify.com/album/0c2uw96zlJP8jMui1HA38h"
       },
@@ -1931,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244345,
+      "name": "If The Wind Stops - Calm Version",
+      "url": "https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj"
+    },
+    {
+      "album": {
         "name": "Incision In The Silence",
         "url": "https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN"
       },
@@ -1946,6 +1982,24 @@
       "duration_ms": 129563,
       "name": "Incision In The Silence",
       "url": "https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83"
+    },
+    {
+      "album": {
+        "name": "Inside the Moon",
+        "url": "https://open.spotify.com/album/30Uqu5fDo3Bjykr8fkuxUD"
+      },
+      "artists": [
+        {
+          "name": "Julle S\u00f8rensen",
+          "url": "https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105770,
+      "name": "Inside the Moon",
+      "url": "https://open.spotify.com/track/64vVXe441Mo6VmJJw6Ab2d"
     },
     {
       "album": {
@@ -4096,6 +4150,24 @@
       "duration_ms": 151511,
       "name": "Somewhere In Between",
       "url": "https://open.spotify.com/track/7DGFxOJp8gfV3Y1JqOJ1A4"
+    },
+    {
+      "album": {
+        "name": "Sonata",
+        "url": "https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0"
+      },
+      "artists": [
+        {
+          "name": "Madelene Olsson",
+          "url": "https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263124,
+      "name": "Sonata",
+      "url": "https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 278946,
+  "num_followers": 279021,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzcwOWYwOGVkNjEyNmY0ZmVlYWZiN2RiZDI2YTc1YTBjYmE5ZTIw",
+  "snapshot_id": "MCxmMGI1MTgxMGVkZDc2NmY2MzcwZjgyYWQ2ZjM4NTA5OWUzZjExNDE0",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Fugir Com o Sol (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3bsGrxytQaqdDDoBDipGAP"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "Fugir Com o Sol - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/32HSy2asY8z7qd0mGUgenI"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Refletir (Resista)",
         "url": "https://open.spotify.com/album/4q8jyiEtpecQblVyRUASht"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 240000,
       "name": "Refletir (Resista)",
       "url": "https://open.spotify.com/track/0MI5P7TQYEjyTnQVQisbZB"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Fugir Com o Sol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3bsGrxytQaqdDDoBDipGAP"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "Fugir Com o Sol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/32HSy2asY8z7qd0mGUgenI"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Look For The Good (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2KRilDRNGoK60NM5gXfF63"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 194609,
+      "name": "Be Where Your Feet Are",
+      "url": "https://open.spotify.com/track/7awndyySQdYEo3qffxtdUD"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Smoking On The Moonlight",
         "url": "https://open.spotify.com/album/34a21mK3LM0q9q3JlUCrjN"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 151942,
       "name": "Smoking On The Moonlight",
       "url": "https://open.spotify.com/track/6aEBvGAtjoEyJ1TmP0k8EA"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Look For The Good (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2KRilDRNGoK60NM5gXfF63"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 194609,
-      "name": "Be Where Your Feet Are",
-      "url": "https://open.spotify.com/track/7awndyySQdYEo3qffxtdUD"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Uma Noite E 1/2",
+        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Costa",
+          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
+        }
+      ],
+      "duration_ms": 170608,
+      "name": "Uma Noite E 1/2",
+      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Donavi",
         "url": "https://open.spotify.com/album/20RUaloKOoD5AseI3z57iD"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Uma Noite E 1/2",
-        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Costa",
-          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
-        }
-      ],
-      "duration_ms": 170608,
-      "name": "Uma Noite E 1/2",
-      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Sess\u00e3o Aberta Ac\u00fastico",
         "url": "https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 245312,
       "name": "Sem Medo",
       "url": "https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -675,6 +659,22 @@
       "duration_ms": 219538,
       "name": "Vou Agradecer",
       "url": "https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Deixa O Amor Fluir",
-        "url": "https://open.spotify.com/album/7DLZbNQrrloT2jeEJJJJmo"
-      },
-      "artists": [
-        {
-          "name": "MARCEL",
-          "url": "https://open.spotify.com/artist/6u0K20qShucTXhhb9lOZjX"
-        },
-        {
-          "name": "PEU",
-          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
-        }
-      ],
-      "duration_ms": 176631,
-      "name": "Deixa O Amor Fluir",
-      "url": "https://open.spotify.com/track/7B5LFKQJZkI1Vh82dIMSW7"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 209971,
       "name": "Sol da Meia-Noite",
       "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Deixa O Amor Fluir",
+        "url": "https://open.spotify.com/album/7DLZbNQrrloT2jeEJJJJmo"
+      },
+      "artists": [
+        {
+          "name": "MARCEL",
+          "url": "https://open.spotify.com/artist/6u0K20qShucTXhhb9lOZjX"
+        },
+        {
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
+        }
+      ],
+      "duration_ms": 176631,
+      "name": "Deixa O Amor Fluir",
+      "url": "https://open.spotify.com/track/7B5LFKQJZkI1Vh82dIMSW7"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "O Que te Faz Viver",
         "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
       },
@@ -927,8 +911,8 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Frequ\u00eancia do Amor",
-        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
       },
       "artists": [
         {
@@ -936,9 +920,29 @@
           "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
         }
       ],
-      "duration_ms": 161107,
-      "name": "Frequ\u00eancia do Amor",
-      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Terra do Sol",
+        "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
+      },
+      "artists": [
+        {
+          "name": "Calm\u00f4",
+          "url": "https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy"
+        },
+        {
+          "name": "Tupi Machine",
+          "url": "https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Terra do Sol",
+      "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -963,22 +967,18 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Terra do Sol",
-        "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
+        "name": "Se Joga",
+        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
       },
       "artists": [
         {
-          "name": "Calm\u00f4",
-          "url": "https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy"
-        },
-        {
-          "name": "Tupi Machine",
-          "url": "https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 153253,
-      "name": "Terra do Sol",
-      "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
+      "duration_ms": 173269,
+      "name": "Se Joga",
+      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1015,6 +1015,22 @@
       "duration_ms": 178470,
       "name": "Corri Demais",
       "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Frequ\u00eancia do Amor",
+        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 161107,
+      "name": "Frequ\u00eancia do Amor",
+      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 187884,
       "name": "O Amor Venceu",
       "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
-      },
-      "artists": [
-        {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
-        }
-      ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     }
   ],
   "unique_name": "Praiana",

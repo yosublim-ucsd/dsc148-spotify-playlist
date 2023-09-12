@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=hidDn0uTRKGYBXMNqGIfKg">Mercy Chinwo </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,099 likes - 101 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,152 likes - 101 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 100 | [MON MEILLEUR AMI](https://open.spotify.com/track/4FhFbf0alWMJELHMpFU9qv) | [DESTINY RECORD](https://open.spotify.com/artist/28dz1zERdPz46q5nCNGRZM) | [MON MEILLEUR AMI](https://open.spotify.com/album/05tsU7O9WOVACpkuj7Wbg1) | 3:04 |
 | 101 | [I'm Revived \(Live\)](https://open.spotify.com/track/5W6JX2LKBaAK75UeUclr58) | [Jesse Afriyie](https://open.spotify.com/artist/3Yr9hvY2kw68wCrRAxc5LS) | [I'm Revived \(Live\)](https://open.spotify.com/album/28p8eMAgataFKYfTrbBMqh) | 5:00 |
 
-Snapshot ID: `MCxjODcyYjBhZjRhZDVhZmZiMWNkMzM0YzdiOTViZGJhNDE2Y2M4Y2Fk`
+Snapshot ID: `MCwwZjIyMGUzMTNlMGZmZDM2YmUyOTQzODBiNjZkZDA1ZGFhNDk5YzYz`

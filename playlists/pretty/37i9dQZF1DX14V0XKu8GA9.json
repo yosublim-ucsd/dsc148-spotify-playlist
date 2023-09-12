@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S.",
-  "num_followers": 24159,
+  "num_followers": 24191,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWJjOTc0ZWY1ZjRlN2U0YTFmN2E4MGE4NWI3YzY4ZWUwN2QwNzhh",
+  "snapshot_id": "MCxiNTg3ZTVkZWRjZTIxZjAwMjAxNWU0OGY1MjU2Y2NhNjVhNGNkOTM4",
   "tracks": [
     {
       "added_at": "2023-08-28 14:04:25",
@@ -147,26 +147,6 @@
     {
       "added_at": "2023-08-28 14:04:25",
       "album": {
-        "name": "Gangsta Grillz: Mvrda Gvng",
-        "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 176033,
-      "name": "Glock N Switches (with DJ Drama)",
-      "url": "https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z"
-    },
-    {
-      "added_at": "2023-08-28 14:04:25",
-      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -191,22 +171,22 @@
     {
       "added_at": "2023-08-28 14:04:25",
       "album": {
-        "name": "Gangsta Funktion (Remix)",
-        "url": "https://open.spotify.com/album/0XBexpmsFCalxURogbHfJd"
+        "name": "Gangsta Grillz: Mvrda Gvng",
+        "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
       },
       "artists": [
         {
-          "name": "King Lil G",
-          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         },
         {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 125885,
-      "name": "Gangsta Funktion - Remix",
-      "url": "https://open.spotify.com/track/77Xk5jfJbFFZIvqdLmCqgU"
+      "duration_ms": 176033,
+      "name": "Glock N Switches (with DJ Drama)",
+      "url": "https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z"
     },
     {
       "added_at": "2023-08-28 14:04:25",
@@ -223,6 +203,42 @@
       "duration_ms": 188315,
       "name": "Cola",
       "url": "https://open.spotify.com/track/7D70PoGMH9pSfzgaFpZryQ"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "BAG CHASER",
+        "url": "https://open.spotify.com/album/1GTr5KHkZQiP2uddxsUzLC"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        }
+      ],
+      "duration_ms": 169055,
+      "name": "BAG CHASER",
+      "url": "https://open.spotify.com/track/1EMB4lzN4rvQvjQLy0ygl2"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "Gangsta Funktion (Remix)",
+        "url": "https://open.spotify.com/album/0XBexpmsFCalxURogbHfJd"
+      },
+      "artists": [
+        {
+          "name": "King Lil G",
+          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+        },
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 125885,
+      "name": "Gangsta Funktion - Remix",
+      "url": "https://open.spotify.com/track/77Xk5jfJbFFZIvqdLmCqgU"
     },
     {
       "added_at": "2023-08-28 14:04:25",
@@ -247,22 +263,6 @@
       "duration_ms": 174335,
       "name": "Life's Short",
       "url": "https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx"
-    },
-    {
-      "added_at": "2023-08-28 14:04:25",
-      "album": {
-        "name": "BAG CHASER",
-        "url": "https://open.spotify.com/album/1GTr5KHkZQiP2uddxsUzLC"
-      },
-      "artists": [
-        {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        }
-      ],
-      "duration_ms": 169055,
-      "name": "BAG CHASER",
-      "url": "https://open.spotify.com/track/1EMB4lzN4rvQvjQLy0ygl2"
     },
     {
       "added_at": "2023-08-28 14:04:25",
@@ -307,6 +307,26 @@
     {
       "added_at": "2023-08-28 14:04:25",
       "album": {
+        "name": "Little Homie",
+        "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "duration_ms": 154536,
+      "name": "Little Homie",
+      "url": "https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
         "name": "Back Into It",
         "url": "https://open.spotify.com/album/5Pg1l7PCtNxoL6HQWy6OSX"
       },
@@ -331,26 +351,6 @@
     {
       "added_at": "2023-08-28 14:04:25",
       "album": {
-        "name": "Little Homie",
-        "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        }
-      ],
-      "duration_ms": 154536,
-      "name": "Little Homie",
-      "url": "https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8"
-    },
-    {
-      "added_at": "2023-08-28 14:04:25",
-      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 209111,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        }
+      ],
+      "duration_ms": 156547,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL"
     },
     {
       "added_at": "2023-08-28 14:04:25",
@@ -415,22 +431,6 @@
     {
       "added_at": "2023-08-28 14:04:25",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi"
-      },
-      "artists": [
-        {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        }
-      ],
-      "duration_ms": 156547,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL"
-    },
-    {
-      "added_at": "2023-08-28 14:04:25",
-      "album": {
         "name": "Villain",
         "url": "https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC"
       },
@@ -443,6 +443,34 @@
       "duration_ms": 165214,
       "name": "Villain",
       "url": "https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
+        "url": "https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Joe Peshi",
+          "url": "https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "duration_ms": 187461,
+      "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
+      "url": "https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS"
     },
     {
       "added_at": "2023-08-28 14:04:25",
@@ -527,50 +555,46 @@
     {
       "added_at": "2023-08-28 14:04:25",
       "album": {
-        "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
-        "url": "https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1"
+        "name": "Would You Still Love Me",
+        "url": "https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2"
       },
       "artists": [
         {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+          "name": "Emilio Rojas",
+          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
         },
         {
-          "name": "Joe Peshi",
-          "url": "https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh"
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
         },
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
         }
       ],
-      "duration_ms": 187461,
-      "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
-      "url": "https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS"
+      "duration_ms": 256532,
+      "name": "Would You Still Love Me",
+      "url": "https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq"
     },
     {
       "added_at": "2023-08-28 14:04:25",
       "album": {
-        "name": "Rich Remedy",
-        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
+        "name": "What It Takes",
+        "url": "https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0"
       },
       "artists": [
         {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
         },
         {
-          "name": "Tweak on the Beat",
-          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9"
         }
       ],
-      "duration_ms": 115356,
-      "name": "Rich Remedy",
-      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
+      "duration_ms": 149080,
+      "name": "What It Takes",
+      "url": "https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT"
     },
     {
       "added_at": "2023-08-28 14:04:25",
@@ -595,30 +619,6 @@
       "duration_ms": 156966,
       "name": "Hometown - Remix",
       "url": "https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj"
-    },
-    {
-      "added_at": "2023-08-28 14:04:25",
-      "album": {
-        "name": "Would You Still Love Me",
-        "url": "https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2"
-      },
-      "artists": [
-        {
-          "name": "Emilio Rojas",
-          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
-        },
-        {
-          "name": "Doeman",
-          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
-        },
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "Would You Still Love Me",
-      "url": "https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq"
     }
   ],
   "unique_name": "Our Wave, Nuestro Hip-Hop",

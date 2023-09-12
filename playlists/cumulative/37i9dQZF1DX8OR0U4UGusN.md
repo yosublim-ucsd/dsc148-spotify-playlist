@@ -4,7 +4,7 @@
 
 > tunes for walking, driving, running, flying, etc
 
-267 songs - 14 hr 40 min
+268 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Mood Swing](https://open.spotify.com/track/3wAebT0NtgPyCGYizWq2i5) | [Nick Vyner](https://open.spotify.com/artist/2gmFaEvoRIXAetLvWOVeI7) | [Mood Swing](https://open.spotify.com/album/4co1l5Win5qwsU6NcVwhH7) | 3:05 | 2021-08-05 | 2023-01-27 |
 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn) | 4:45 | 2022-03-04 | 2022-11-20 |
 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 | 2022-10-06 |  |
+| [Mountain Jack](https://open.spotify.com/track/0PmE2X02ocdGWQDNq6UaoI) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sad Night Dynamite](https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x) | 4:23 | 2023-08-09 |  |
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-03-23 |  |
 | [Mushrooms](https://open.spotify.com/track/5q5oNwAs28k9dtnkAliFdX) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Aries](https://open.spotify.com/album/297U8JOxqY4g4H1yNF5ofF) | 2:43 | 2021-08-05 | 2022-07-29 |
 | [My Demise](https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [My Demise](https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot) | 2:16 | 2022-10-14 |  |
@@ -234,7 +235,7 @@
 | [tell me](https://open.spotify.com/track/2nMSF0m6G8W6MVK0Eq7tKX) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [tell me](https://open.spotify.com/album/60b3J04XJSRPND2NpLudfR) | 2:40 | 2021-11-12 | 2023-01-27 |
 | [TEMPLE OF THE DRAGON](https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [TEMPLE OF THE DRAGON](https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW) | 2:48 | 2022-05-03 | 2023-01-27 |
 | [Tennis Courts](https://open.spotify.com/track/79SHyhyGcYf47aPKA4RnVx) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Tennis Courts](https://open.spotify.com/album/0RW5vXBF1fAe5W11bDstR7) | 3:00 | 2023-08-09 |  |
-| [That's How It Goes](https://open.spotify.com/track/11ZrmGVgoVbKE2n3j1WBcu) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg), [Luther](https://open.spotify.com/artist/2vFDu77B8WPAuN6gFDjfUE) | [That's How It Goes](https://open.spotify.com/album/5FGIQJ6gA0baXHJoMmtiX0) | 3:33 | 2023-08-09 |  |
+| [That's How It Goes](https://open.spotify.com/track/11ZrmGVgoVbKE2n3j1WBcu) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg), [Luther](https://open.spotify.com/artist/2vFDu77B8WPAuN6gFDjfUE) | [That's How It Goes](https://open.spotify.com/album/5FGIQJ6gA0baXHJoMmtiX0) | 3:33 | 2023-08-09 | 2023-09-12 |
 | [The Middle](https://open.spotify.com/track/2GQpMLpOu3dpCoYX5jADt9) | [Petticoat](https://open.spotify.com/artist/4B9XnPfyVGBIL2cBS17OoX) | [The Middle](https://open.spotify.com/album/3ClkDhO4tkQwY7iXmSmhk2) | 3:27 | 2021-08-05 | 2022-07-28 |
 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-11-12 |  |
 | [The Outsiders](https://open.spotify.com/track/7ikfWiyZgjwCFi8Wq88oCk) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [The Outsiders](https://open.spotify.com/album/4PQDf50YszsrqUhCdqjLRv) | 2:22 | 2021-11-12 | 2023-01-27 |

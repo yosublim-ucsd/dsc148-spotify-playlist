@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 212985,
       "name": "Arrere - From \"Tales of Mahanagara\"",
       "url": "https://open.spotify.com/track/2grYgChOuQAzGW8fI5Ww9p"
@@ -2690,7 +2690,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 261250,
       "name": "Belakondu Saagutide",
       "url": "https://open.spotify.com/track/2NtSBPWIPvlm3nDBv12rpT"
@@ -4994,7 +4994,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 333500,
       "name": "Ee Kshana Romanchana (From \"Nodadha Putagalu\")",
       "url": "https://open.spotify.com/track/6JtZ4fpPS1TgqyIP2igKL7"
@@ -9284,6 +9284,32 @@
       "duration_ms": 216000,
       "name": "Kanna Mucchale",
       "url": "https://open.spotify.com/track/3uwFZShpKzE7peGsC2rt7P"
+    },
+    {
+      "album": {
+        "name": "Kanna Muchchikonde (From \"Aaraariraaro\")",
+        "url": "https://open.spotify.com/album/4eyG9rellxBfCrU7ZStF5x"
+      },
+      "artists": [
+        {
+          "name": "Bharath Mallad",
+          "url": "https://open.spotify.com/artist/2dt1qDY5i0TBoVgXc6l9C3"
+        },
+        {
+          "name": "Emil Mohammed",
+          "url": "https://open.spotify.com/artist/7F4yMSf7dsRVAPnkkoR8Wx"
+        },
+        {
+          "name": "Sandeep Shetty",
+          "url": "https://open.spotify.com/artist/6Z9yBJev1oCPJ64jWBiHKc"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Kanna Muchchikonde - From \"Aaraariraaro\"",
+      "url": "https://open.spotify.com/track/0gaWdy5tDuo1JywUDeOiDy"
     },
     {
       "album": {
@@ -14193,6 +14219,28 @@
     },
     {
       "album": {
+        "name": "Miss Shetty Mr Polishetty (Kannada)",
+        "url": "https://open.spotify.com/album/5rNXY0g7EayqIo8dwnzbga"
+      },
+      "artists": [
+        {
+          "name": "Supriya Ram",
+          "url": "https://open.spotify.com/artist/1rCuDODEULFxCDFeH7H292"
+        },
+        {
+          "name": "Lady Kash",
+          "url": "https://open.spotify.com/artist/2a1ts2wPvq6Vif1x7KJV7a"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240935,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/5nPUhuhjBRThVKSqHW1VIh"
+    },
+    {
+      "album": {
         "name": "Nodi Swamy Ivanu Irode Heege (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4wO8lVFLyDfvFlMXRA6A8S"
       },
@@ -16217,6 +16265,28 @@
     },
     {
       "album": {
+        "name": "Radhe Radhe (from \"Bhavapoorna\")",
+        "url": "https://open.spotify.com/album/0IhMGmChqbmc9X819TzDLZ"
+      },
+      "artists": [
+        {
+          "name": "Abhishek",
+          "url": "https://open.spotify.com/artist/1CwJfbAkP2ZyA2QaF3ZKgE"
+        },
+        {
+          "name": "V. Manohar",
+          "url": "https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238363,
+      "name": "Radhe Radhe - from \"Bhavapoorna\"",
+      "url": "https://open.spotify.com/track/6NkXKszmrSmyJ2k0x9GWnz"
+    },
+    {
+      "album": {
         "name": "Meenakshi",
         "url": "https://open.spotify.com/album/2Noihc6bsBEQ8vG8CUHiD1"
       },
@@ -16324,7 +16394,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 239292,
       "name": "Raktaksha Title Track (from \"Raktaksha\")",
       "url": "https://open.spotify.com/track/4OCqb8GVrFC4sHZUcrh4Tc"
@@ -17930,6 +18000,28 @@
       "duration_ms": 225037,
       "name": "Sulthana (From \"Kgf Chapter 2\")",
       "url": "https://open.spotify.com/track/7a2knwPyOj9WZrRSM1lb0i"
+    },
+    {
+      "album": {
+        "name": "Summane Naga Bahudhe Hudugi (from \"Jigar\")",
+        "url": "https://open.spotify.com/album/4YFMc1jJta1o2JugCPcWeN"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Ritvik Muralidhar",
+          "url": "https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226958,
+      "name": "Summane Naga Bahudhe Hudugi (from \"Jigar\")",
+      "url": "https://open.spotify.com/track/60LKP71JQ3BM1k8zc7GV5b"
     },
     {
       "album": {

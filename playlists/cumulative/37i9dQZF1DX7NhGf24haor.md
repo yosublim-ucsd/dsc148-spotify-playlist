@@ -2,7 +2,7 @@
 
 ### [Hardstyle Adrenaline! 2023](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Zatox
+> The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Rebelion
 
 550 songs - 1 day 6 hr 18 min
 

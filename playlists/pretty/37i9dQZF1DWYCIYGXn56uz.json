@@ -1,12 +1,12 @@
 {
   "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Pepe, Samurai Jay",
-  "num_followers": 385668,
+  "num_followers": 385672,
   "original_name": "GENERAZIONE Z",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjJmZGExZWUzNThhOGFjMWExNzVjMTlhMDQyMjcwY2NjMGNlMjFj",
+  "snapshot_id": "MCwzNzBhOTlhMGJiOTBiMzg1OGVkOGY4MzNmY2RhYmQ4NTkyZjM3Yjhj",
   "tracks": [
     {
       "added_at": "2023-09-07 22:01:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
         "name": "Fiore Sulla Luna",
         "url": "https://open.spotify.com/album/6Kz7JnUf9h5yqQDtt6R5Ag"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 155624,
       "name": "Colori",
       "url": "https://open.spotify.com/track/2DHilO16oyRXF7a4GHxWxO"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "added_at": "2023-09-07 22:01:00",

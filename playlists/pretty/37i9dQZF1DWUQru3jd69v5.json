@@ -1,12 +1,12 @@
 {
   "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Delaru\u00e0",
-  "num_followers": 223254,
+  "num_followers": 223272,
   "original_name": "Raptopia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTg5YWFkZmZkMjNiZGIyN2U3ZGMwNmE3NDk2NDc2ODcwNDZjMGE1",
+  "snapshot_id": "MCw1MzEwNTI3ZmJhZTJkNTY4NTgyNGI0ZWEwYTc5ODhjNjk0NDA2NWM0",
   "tracks": [
     {
       "added_at": "2023-09-07 22:01:00",
@@ -179,6 +179,26 @@
       "duration_ms": 165034,
       "name": "BEBECITA",
       "url": "https://open.spotify.com/track/79hRcrehOEmreZjXjSsfds"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 133103,
+      "name": "SACRIFICIO (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/6WGyWEsaTmhqnWFkaMFjV0"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -887,26 +907,6 @@
       "duration_ms": 154285,
       "name": "Responsabile (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/3YNDnWbIzjtVo87DalnFmK"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 133103,
-      "name": "SACRIFICIO (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/6WGyWEsaTmhqnWFkaMFjV0"
     },
     {
       "added_at": "2023-09-07 22:01:00",

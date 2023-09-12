@@ -4,14 +4,15 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-137 songs - 13 hr 56 min
+138 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Better Man](https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Live 2014 \(Nighttrain To Budapest Farewell Tour\)](https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3) | 6:08 | 2020-10-30 |  |
 | [Alabama \- Live](https://open.spotify.com/track/6TeK891HnxIWidLOVWLXNQ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Alabama \(Live\)](https://open.spotify.com/album/67OduyCf17mwBu26nxM8yM) | 3:26 | 2020-10-30 |  |
 | [Always Free \(Live in Austin\)](https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends \(Live in Austin\)](https://open.spotify.com/album/3FnXv4h5TBWXo7ccTftiUj) | 7:36 | 2022-09-30 |  |
-| [Another Ten Years Gone \- Live](https://open.spotify.com/track/2ZaAfuxmgld8hwbRrESkhD) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Another Ten Years Gone \(Live\)](https://open.spotify.com/album/6DmKvEZjN2xLFLsnWCGmXr) | 6:50 | 2023-08-11 |  |
+| [Another Ten Years Gone \- Live](https://open.spotify.com/track/2ZaAfuxmgld8hwbRrESkhD) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Another Ten Years Gone \(Live\)](https://open.spotify.com/album/6DmKvEZjN2xLFLsnWCGmXr) | 6:50 | 2023-08-11 | 2023-09-12 |
+| [Another Ten Years Gone \- Live](https://open.spotify.com/track/4mtWq6vMaknARnGo1R52bd) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Live At G\. Bluey's Juke Joint N.Y.C.](https://open.spotify.com/album/5XYRHWLRL2ChlpqB9frhZd) | 6:50 | 2023-08-11 |  |
 | [Backwater Blues \- Live](https://open.spotify.com/track/4ScrL9E0Ifv2dL1liFqnf7) | [Cedric Burnside Project](https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W) | [Backwater Blues \(Live\)](https://open.spotify.com/album/1acsrcWZZlLtWnzhHykdrU) | 4:37 | 2020-10-30 |  |
 | [Bird On The Wire \- Live](https://open.spotify.com/track/2D1b4pdLJWi9rU309xLcBK) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 5:38 | 2020-10-30 |  |
 | [Blue On Black \- Live](https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:59 | 2020-11-20 |  |

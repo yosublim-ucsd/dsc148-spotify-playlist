@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-208 songs - 10 hr 55 min
+209 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Check This Out](https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Check This Out](https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz) | 2:31 | 2022-03-29 |  |
 | [Chemtrails](https://open.spotify.com/track/5wmMMx7cwkEpBvm0KkdVEY) | [Benzi](https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl), [FOMO](https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX) | [Chemtrails](https://open.spotify.com/album/0V2Oolo33rvehV7EcLU8mg) | 2:39 | 2022-01-04 | 2022-07-28 |
 | [Cherry \- Spotify Singles](https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Cherry \- Spotify Singles](https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p) | 3:00 | 2022-01-12 | 2022-11-13 |
-| [CHROME](https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [CHROME](https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG) | 2:40 | 2023-05-15 |  |
+| [CHROME](https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [CHROME](https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG) | 2:40 | 2023-05-15 | 2023-09-12 |
 | [Circles](https://open.spotify.com/track/3vD4vnefLVNNaYIIPxS6nm) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Bluckther](https://open.spotify.com/artist/6iPD95GXysz0X96JtbGej6) | [Circles](https://open.spotify.com/album/53peOywgNGveKVpzzVfOsZ) | 2:52 | 2022-01-04 | 2022-07-29 |
 | [Color](https://open.spotify.com/track/39yvrvJ9J6s485e2zG9DBL) | [Koko](https://open.spotify.com/artist/3OhGY94d6OPsClrmccg0GT) | [Color](https://open.spotify.com/album/3WydMAGetnrzOkUb6eura6) | 2:59 | 2022-01-04 | 2022-07-29 |
 | [Control Your Mind](https://open.spotify.com/track/04Kj7WmPnRBNSrf9jPhKI3) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [Control Your Mind](https://open.spotify.com/album/4SbrveBmDePlHiC8veuCDx) | 3:24 | 2022-01-04 | 2022-07-25 |
@@ -90,6 +90,7 @@
 | [Getaway \(Jaxomy Remix\)](https://open.spotify.com/track/75awRswVFJGlDwUHbpPY4S) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr), [Goldbird](https://open.spotify.com/artist/7bULzWHUuhNDPOrfv30dSq), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq) | [Getaway \(Remixes\)](https://open.spotify.com/album/05opsujEmxw6RAUbcVMUS9) | 2:14 | 2022-01-04 | 2022-04-21 |
 | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/track/6oQvB3BxlETB0CfrT5Vq6N) | [Sisster](https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF) | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/album/3WeALlWSg6bZdEcHIXdMto) | 3:29 | 2022-01-04 | 2022-07-29 |
 | [Great Spirit](https://open.spotify.com/track/6FzjJPwf5JzzFOei7h6Qrp) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Hilight Tribe](https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7) | [The Best Of Armin Only](https://open.spotify.com/album/1WEVdCa5YAK8tep9xOs2hS) | 3:35 | 2022-01-04 |  |
+| [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-09-11 |  |
 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2022-07-26 | 2023-04-25 |
 | [Heads Will Roll \- A\-Trak Remix Radio Edit](https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Good Morning Music: Wake Up Workout](https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz) | 3:23 | 2022-03-29 |  |
 | [Her Eyes](https://open.spotify.com/track/2ctGtsdiXv8cAlc68uaJtt) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1) | [Her Eyes](https://open.spotify.com/album/0593El2YCvlwtY45DQBZUR) | 2:40 | 2022-01-04 | 2022-07-29 |

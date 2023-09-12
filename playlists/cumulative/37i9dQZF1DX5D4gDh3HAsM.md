@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-114 songs - 6 hr 46 min
+115 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Christmas Don't Let Me Down \- Single Version](https://open.spotify.com/track/09XxwSW3nQpxngHcw6huo7) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Christmas Don’t Let Me Down](https://open.spotify.com/album/3eJgnDbAE2wDBvtAVQUrTy) | 3:20 | 2021-11-12 | 2022-07-29 |
 | [Christmas In New Orleans](https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:54 | 2021-11-12 | 2023-09-02 |
 | [Christmas in New York](https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z) | 2:57 | 2021-11-12 | 2022-07-29 |
-| [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 | 2021-11-12 |  |
+| [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 | 2021-11-12 | 2023-09-12 |
 | [Christmas Is Coming \- 2022 Mix](https://open.spotify.com/track/2iMeTjonLEIV8lx07EFpSo) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Christmas Is Coming \(2022 Stereo Mix\)](https://open.spotify.com/album/4fCX1f8zki8U4kUHRfcuUP) | 3:25 | 2022-10-07 | 2022-11-19 |
 | [Christmas Time Is Here](https://open.spotify.com/track/1GGWnDtmIe5WiyxPlQVnkA) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [Christmas Time Is Here](https://open.spotify.com/album/5tAT9J0RwvpzLQH3wsezhj) | 3:14 | 2021-11-19 | 2022-09-19 |
 | [Christmas Time Is Here](https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:20 | 2021-11-12 |  |
@@ -58,6 +58,7 @@
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc) | 2:57 | 2021-11-12 |  |
 | [Jingle Bells](https://open.spotify.com/track/0JY5B4TlHfWBqg72hF7KwX) | [Eric Chacón](https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR), [Chipi Chacon](https://open.spotify.com/artist/0tKWh0NtdpcakhwymYbfc8) | [Jingle Bells](https://open.spotify.com/album/1GiduA9UpMRVLW9m8lKOxs) | 4:13 | 2021-12-10 | 2022-07-26 |
 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 | 2022-10-07 |  |
+| [Last Christmas](https://open.spotify.com/track/2436qlkg1yw3k0fC3kjbYP) | [Shane Hampsheir](https://open.spotify.com/artist/16MbTMsesqMZNB1WaySib8) | [Shane Hampsheir's Christmas](https://open.spotify.com/album/2UAJvYTW6WXrNbYh6Kcf22) | 4:53 | 2021-11-12 |  |
 | [Last Christmas](https://open.spotify.com/track/4PeEB4RU07v4aRrsXmehR8) | [Shane Hampsheir](https://open.spotify.com/artist/16MbTMsesqMZNB1WaySib8), [London Music Works](https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB) | [Shane Hampsheir's Christmas](https://open.spotify.com/album/7zb0bHCk9qJzkE77C1KO1V) | 4:53 | 2021-11-12 | 2022-07-29 |
 | [Let It Snow! \- 10th Anniversary](https://open.spotify.com/track/5YBmVtkeoRdxU1GhRDrxuz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Let It Snow! \(10th Anniversary\)](https://open.spotify.com/album/17Qr6J860gp3HrESuJ5D2M) | 2:39 | 2021-11-12 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/7nOQ6mHoT4WUqkzrks8CfI) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 3:56 | 2021-11-12 | 2022-07-29 |

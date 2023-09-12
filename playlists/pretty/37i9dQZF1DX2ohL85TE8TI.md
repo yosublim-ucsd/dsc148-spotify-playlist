@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: My Lovely Boxer\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 순정복서\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,286 likes - 101 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,402 likes - 101 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 100 | [Nightmare](https://open.spotify.com/track/2Y0xn1ljw8hQQPd3YXF5ue) | [Kyuri](https://open.spotify.com/artist/7l8H42qlKI2Nd0w80J49iu) | [Family, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4X4v3RrgKGqcph3mu4Pmh5) | 3:40 |
 | 101 | [Ain't No Joke](https://open.spotify.com/track/4ce1g0lHzZRENMvEaY5ZHZ) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Queen of masks \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/5dDtqUglTZeElcssfm9fPT) | 3:30 |
 
-Snapshot ID: `MCxjNzgyMTIzNTgxZmIzYzE2OWVmMWNhNTc1Mjg4YjEzNjllYTE3ZjBk`
+Snapshot ID: `MCwxNDNlNWI5ZjdjNDQ1MjMyYjljYTk4Nzc4MzFlNjg3MDQ2YWY3YjYw`

@@ -5605,6 +5605,24 @@
     },
     {
       "album": {
+        "name": "Jean Paul errant",
+        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140823,
+      "name": "Jean Paul errant",
+      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
+    },
+    {
+      "album": {
         "name": "Juanita",
         "url": "https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw"
       },
@@ -7950,6 +7968,24 @@
       "duration_ms": 150127,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu"
+    },
+    {
+      "album": {
+        "name": "Passagio",
+        "url": "https://open.spotify.com/album/3y5HHPF2VgKt5GOEKEIFzO"
+      },
+      "artists": [
+        {
+          "name": "Luisa Leonetti",
+          "url": "https://open.spotify.com/artist/5qpXgVpKpeKe5j4ENTQOwq"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Passagio",
+      "url": "https://open.spotify.com/track/3vWbxJ46hMwj3XsiEnKH19"
     },
     {
       "album": {
@@ -10528,6 +10564,24 @@
       "duration_ms": 150750,
       "name": "Synchronicity",
       "url": "https://open.spotify.com/track/0nk3vSKIYGQV6CK6pShUDQ"
+    },
+    {
+      "album": {
+        "name": "Tala",
+        "url": "https://open.spotify.com/album/6fXcGN9Oj6OVDKTnIkGUhT"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187524,
+      "name": "Tala",
+      "url": "https://open.spotify.com/track/1qXgnbIFHqeRFdjKhDSB7X"
     },
     {
       "album": {

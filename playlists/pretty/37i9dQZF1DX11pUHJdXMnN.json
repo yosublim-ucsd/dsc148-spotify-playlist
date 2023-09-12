@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 60874,
+  "num_followers": 60896,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmExMWUyMTJjYjk0MDlkOGZiZjg5YmI1YzE3NmY0OGE1N2YyOGNj",
+  "snapshot_id": "MCxmNzgyM2FlODkyMzkyMmZiM2JiNTU2MzY1MmMwOTAyYjJlY2IwOGU4",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -407,6 +407,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Music Made Paradise",
+        "url": "https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 339423,
+      "name": "Under Control",
+      "url": "https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Nefertiti (Red Axes Remix)",
         "url": "https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 288000,
       "name": "Nefertiti - Red Axes Remix",
       "url": "https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Music Made Paradise",
-        "url": "https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 339423,
-      "name": "Under Control",
-      "url": "https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -679,6 +679,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Hymnotic",
+        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
+      },
+      "artists": [
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 262677,
+      "name": "Hymnotic",
+      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "In My Element (Skream Remix)",
         "url": "https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 360000,
       "name": "In My Element - Skream Remix",
       "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Hymnotic",
-        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
-      },
-      "artists": [
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 262677,
-      "name": "Hymnotic",
-      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
     },
     {
       "added_at": "2021-08-27 15:45:01",

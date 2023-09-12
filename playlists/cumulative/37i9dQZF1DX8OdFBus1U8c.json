@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 175200,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/0N1JEwXlDAcwwN7kLGgeOc"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 166400,
       "name": "Arpo",
       "url": "https://open.spotify.com/track/2biQljjf8AuYx5u8Se6clY"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 203294,
       "name": "Bobby & Sulaiman",
       "url": "https://open.spotify.com/track/4dZg42I2oAMIa86UNeqZhp"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 236602,
       "name": "BREAKFAST",
       "url": "https://open.spotify.com/track/6p21ywjrVlUnpmujl4S3dP"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 185172,
       "name": "CHILL OUT",
       "url": "https://open.spotify.com/track/1gUmzKldDiBbVUKcaxDygk"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 246000,
       "name": "Fly",
       "url": "https://open.spotify.com/track/42AVHXyJhx67wNVbAdeX8s"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 198000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/3oMeTMaSY44CZLkefVhQHR"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 222874,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2nujuLW4cF1iqUXQvcPL5Q"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 238077,
       "name": "Jayiche Theeru",
       "url": "https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 271850,
       "name": "Karayunnathu Enthina",
       "url": "https://open.spotify.com/track/2Iyyorj6O6HX5aCvlkdEJU"
@@ -988,10 +988,40 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 276104,
       "name": "Lokam Mayakathilo",
       "url": "https://open.spotify.com/track/22QA31omSDg4TvqgxaJBPO"
+    },
+    {
+      "album": {
+        "name": "Malabari Banger",
+        "url": "https://open.spotify.com/album/4ttj4IiGCCeFImxIJ8b2Ap"
+      },
+      "artists": [
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "JOKER390P",
+          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
+        },
+        {
+          "name": "SA",
+          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Malabari Banger",
+      "url": "https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8"
     },
     {
       "album": {
@@ -1160,7 +1190,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 252214,
       "name": "NADODI",
       "url": "https://open.spotify.com/track/3gXbf0FIXqZijtDnpb95Dg"
@@ -1264,7 +1294,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 155977,
       "name": "Ne Po",
       "url": "https://open.spotify.com/track/3Q1KfAc1O75K0OEX2YPI4H"
@@ -1308,7 +1338,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 181290,
       "name": "NERAM POKKU",
       "url": "https://open.spotify.com/track/0WtdQo5rRTMLTjcEvPGYkJ"
@@ -1348,7 +1378,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 153750,
       "name": "Oorakkudukku",
       "url": "https://open.spotify.com/track/6OPImTghaIDMXtdqDz99yL"
@@ -1396,7 +1426,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 197568,
       "name": "Ozhappan Anthem",
       "url": "https://open.spotify.com/track/1tVwdVeuje3iVvIHoBhCte"
@@ -1524,7 +1554,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 192214,
       "name": "PO",
       "url": "https://open.spotify.com/track/4QhqKtimLWiEx2haRDjn71"
@@ -1568,7 +1598,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 171925,
       "name": "Poralikal",
       "url": "https://open.spotify.com/track/4Yi3Z3kmaQIqG00EZ5XEyv"
@@ -1604,7 +1634,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 170729,
       "name": "RAP MONEY",
       "url": "https://open.spotify.com/track/2GX5RJ173nRHB7duLl8qTC"
@@ -1622,7 +1652,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 234145,
       "name": "Saavadhaanam",
       "url": "https://open.spotify.com/track/0naYPixoWCVoKdUAcpIJYG"
@@ -1718,7 +1748,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 150855,
       "name": "Scoot Scoot (Original Soundtrack)",
       "url": "https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb"
@@ -1868,7 +1898,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 147375,
       "name": "Thirumbi Varuvathu (From \"Neymar\")",
       "url": "https://open.spotify.com/track/2qJE0biPkcyUlmxXx5lny4"
@@ -1894,7 +1924,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 198859,
       "name": "Thokku",
       "url": "https://open.spotify.com/track/09d7fEb8T8DipTtGfbqjdA"
@@ -1920,7 +1950,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 234962,
       "name": "Trap Sundhari",
       "url": "https://open.spotify.com/track/51vzYdS2wo4peP0hu3i7au"
@@ -2072,7 +2102,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 124153,
       "name": "Vyadhi",
       "url": "https://open.spotify.com/track/4rTg32mR6ETu2Aw30LPibh"
@@ -2112,7 +2142,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 297820,
       "name": "Workil Aanu Karyam",
       "url": "https://open.spotify.com/track/7y4XcoRcRDFnVltwFp2XAm"

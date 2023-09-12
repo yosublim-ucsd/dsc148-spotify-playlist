@@ -10381,6 +10381,24 @@
     },
     {
       "album": {
+        "name": "Sonata",
+        "url": "https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0"
+      },
+      "artists": [
+        {
+          "name": "Madelene Olsson",
+          "url": "https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263124,
+      "name": "Sonata",
+      "url": "https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai"
+    },
+    {
+      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON"
       },
@@ -10414,6 +10432,24 @@
       "duration_ms": 168922,
       "name": "Song for a New Beginning",
       "url": "https://open.spotify.com/track/1J2CNuJZnkGyg1UHcwqkBx"
+    },
+    {
+      "album": {
+        "name": "Song For Edsilia",
+        "url": "https://open.spotify.com/album/2pyN93ZgEo4UJV9w4t6gTj"
+      },
+      "artists": [
+        {
+          "name": "Tjeerd Oosterhuis",
+          "url": "https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158165,
+      "name": "Song For Edsilia",
+      "url": "https://open.spotify.com/track/7JYF2mEZ8QOMGKnhKtfBxt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-1,659 songs - 3 day 19 hr 55 min
+1,660 songs - 3 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [Intelligent Bad Bwoy](https://open.spotify.com/track/1gw7vCvbE2z6lwGDOxkW4M) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Daigos](https://open.spotify.com/artist/2E1k7NNNu4SJcMKrGPVVLO) | [Intelligent Bad Bwoy](https://open.spotify.com/album/3izQI59ta8LnH8wIvgXFU9) | 4:28 | 2023-07-10 | 2023-07-17 |
 | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP) | 4:47 | 2023-08-14 | 2023-08-21 |
 | [invitation](https://open.spotify.com/track/3RXRJbatTWk6O68EV1WFxJ) | [haruru犬love dog天使](https://open.spotify.com/artist/4o9YLdxb48MhrdvLNYdvcg), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [invitation](https://open.spotify.com/album/4SKud9Rs3ODj6LwErVE0mT) | 2:33 | 2023-06-25 | 2023-07-03 |
+| [ipponsuitai](https://open.spotify.com/track/1pwWErdrzFoKJZeUgPNV52) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [YAMATO HAZE](https://open.spotify.com/artist/5Palu02Jsiu9At8C7naFH1) | [ipponsuitai](https://open.spotify.com/album/6GzIUwg1t1PLTAl8o2EOSR) | 3:25 | 2023-09-11 |  |
 | [irk](https://open.spotify.com/track/1v5w6qzUug2apEg3PUsOY7) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [WH3Nwh3re](https://open.spotify.com/album/6gwVTUoyp5t5FY9NE17oHx) | 3:44 | 2023-03-26 | 2023-04-04 |
 | [Iromegane](https://open.spotify.com/track/0uE5RurnOBwI93Senm0rg9) | [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Iromegane](https://open.spotify.com/album/0oLxHHywwrI9YP7a3odDXs) | 3:15 | 2023-06-12 | 2023-06-19 |
 | [Is It A Crime?](https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Is It A Crime? EP](https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7) | 2:22 | 2023-06-25 | 2023-07-03 |
@@ -1539,7 +1540,7 @@
 | [その男、悪魔につき](https://open.spotify.com/track/3FJe4Rsv5cYXbkzo871cvb) | [Badfella$](https://open.spotify.com/artist/6X9cJHf1DH8j1khv9CIXG4), [SXICIDE RYUSEI](https://open.spotify.com/artist/2R9foVRopS1uc8SlRYbCaI), [Ves9ucci](https://open.spotify.com/artist/3buPOfvBejF8qPOBrtrFD6) | [その男、悪魔につき](https://open.spotify.com/album/1vgdDukKx3SQXawUcJTC0K) | 2:01 | 2023-08-28 | 2023-09-04 |
 | [だから一枚だけ盗んだ](https://open.spotify.com/track/27WhbKbnTEvasEAQnbKrWk) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [だから一枚だけ盗んだ](https://open.spotify.com/album/7LWER07geEsfs08LcPXzlY) | 2:45 | 2023-04-23 | 2023-05-02 |
 | [ときめきを教えて](https://open.spotify.com/track/2e9Xouw2euVfmRuehC6QM6) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [ときめきを教えて](https://open.spotify.com/album/64mQ3crgXIy4yEHFaJlzei) | 4:19 | 2023-08-06 | 2023-08-14 |
-| [とりあえず一本吸ってから考えよう](https://open.spotify.com/track/5eRMXD6gyXjfz6ZpKE2GxK) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [YAMATO HAZE](https://open.spotify.com/artist/5Palu02Jsiu9At8C7naFH1) | [とりあえず一本吸ってから考えよう](https://open.spotify.com/album/3ORuR68C2lOYvtFX0csp0R) | 3:25 | 2023-09-11 |  |
+| [とりあえず一本吸ってから考えよう](https://open.spotify.com/track/5eRMXD6gyXjfz6ZpKE2GxK) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [YAMATO HAZE](https://open.spotify.com/artist/5Palu02Jsiu9At8C7naFH1) | [とりあえず一本吸ってから考えよう](https://open.spotify.com/album/3ORuR68C2lOYvtFX0csp0R) | 3:25 | 2023-09-11 | 2023-09-12 |
 | [どこへも行かないで](https://open.spotify.com/track/0QctNmKMvT5Hw4aWO1HJI7) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [どこへも行かないで](https://open.spotify.com/album/5uzQHJQVfnPR9sZXxG6PlJ) | 2:44 | 2023-04-23 | 2023-05-02 |
 | [なんて日々だっけ?](https://open.spotify.com/track/3ttrZsHEiL3ojEjOCzZvBY) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [なんて日々だっけ?](https://open.spotify.com/album/5I5xLwPlxFfOxlPpv5Qy2g) | 3:13 | 2023-03-26 | 2023-04-04 |
 | [はないちもんめ](https://open.spotify.com/track/3B0CYwIqIweKjxxtLCGpoO) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI) | [はないちもんめ](https://open.spotify.com/album/50okAeLnE7yfoOSCsHSDZV) | 3:08 | 2023-06-18 | 2023-06-26 |

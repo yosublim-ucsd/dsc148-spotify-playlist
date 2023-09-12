@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,027 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,035 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 6 | [Jam On It](https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:23 |
 | 7 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:25 |
 | 8 | [Planet Rock \- Original 12" Version](https://open.spotify.com/track/5aD3fAa1fy8XUesj3lgr19) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock: The Album](https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf) | 6:23 |
-| 9 | [Freak\-a\-Zoid](https://open.spotify.com/track/42UpH9fz5utv8tkvOgh5Qb) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [No Parking on the Dance Floor](https://open.spotify.com/album/67v1yz3SGvFEnQeTO8H6jP) | 8:05 |
-| 10 | [Dance Floor](https://open.spotify.com/track/6d4XP98nTswxMycT6fdZNN) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [Zapp II](https://open.spotify.com/album/7ew8Rwv8ICZUhLPteXPcbk) | 10:42 |
+| 9 | [Dance Floor](https://open.spotify.com/track/6d4XP98nTswxMycT6fdZNN) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [Zapp II](https://open.spotify.com/album/7ew8Rwv8ICZUhLPteXPcbk) | 10:42 |
+| 10 | [Freak\-a\-Zoid](https://open.spotify.com/track/42UpH9fz5utv8tkvOgh5Qb) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [No Parking on the Dance Floor](https://open.spotify.com/album/67v1yz3SGvFEnQeTO8H6jP) | 8:05 |
 | 11 | [Egypt Egypt](https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY) | [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP) | [On the Nile](https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i) | 5:19 |
 | 12 | [Clear](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
 | 13 | [Keep On](https://open.spotify.com/track/7iv0yhmDydsKLKjO63qmzy) | [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe) | [The Best of D Train](https://open.spotify.com/album/6zsaOeP7AAK5HG8qe1t6Fx) | 6:39 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 35 | [Sticky Situation](https://open.spotify.com/track/2Uw8Ujmn5TQuziGYTn6muu) | [Tyrone Brunson](https://open.spotify.com/artist/2iOW6LuBHr1Qzb9gtu6ZMn) | [Sticky Situation \(Expanded\)](https://open.spotify.com/album/3xkIqTjIIytRAA3IZYM4ts) | 6:32 |
 | 36 | [Call Me Up](https://open.spotify.com/track/50oH96vYAuUy0PUaxY6FeW) | [Bromar](https://open.spotify.com/artist/4EG6PjDBrNbpKdQft6rk5S) | [Call Me Up](https://open.spotify.com/album/7wbGGlVNSqFOB0GXiC4S0d) | 6:43 |
 | 37 | [Stellar Fungk](https://open.spotify.com/track/2NtsQwYhpOG6RQS99s7fwY) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [The Concept](https://open.spotify.com/album/3hCQBRTU8qzvjeLNTzxm89) | 8:43 |
-| 38 | [The Music Got Me](https://open.spotify.com/track/5lguq3Oj3xV220ku2J1zsd) | [Visual](https://open.spotify.com/artist/6hiGpaBakOgbJHS0f95lhK) | [Prelude's Greatest Hits, Vol\. 5](https://open.spotify.com/album/5TPiMDrNtfok3VDNYZpLgJ) | 7:26 |
-| 39 | [The Key](https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf) | [Wuf Ticket](https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ) | [Rare Preludes, Vol\. 4](https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1) | 6:42 |
-| 40 | [Mega\-Mix "Prelude \#1" \- Inch By Inch, Music, Go With The Flow, Just Keep On Walking, Beat The Street, Keep Giving Me Love, Youre The One For Me, Must Be The Music, D Train \(Dub\) & Body Music](https://open.spotify.com/track/4lqzp8Llnu34IOAA0pKj31) | [Strikers](https://open.spotify.com/artist/6UZO3p1zvBC1QuPdgKDbzR), [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe), [Weeks & Co.](https://open.spotify.com/artist/5RVgCRheVivlGnWebsyzaR), [Rod](https://open.spotify.com/artist/4B9tusBz94bD4jx4ErFjFB), [Sharon Redd & Secret Weapon](https://open.spotify.com/artist/3i2CCa9WEfTdnN2Vw1I0R5) | [Prelude Mastermixes, Vol.3](https://open.spotify.com/album/5WjHKodl6cRGe3prMvjuzr) | 11:26 |
-| 41 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 |
+| 38 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 |
+| 39 | [The Music Got Me](https://open.spotify.com/track/5lguq3Oj3xV220ku2J1zsd) | [Visual](https://open.spotify.com/artist/6hiGpaBakOgbJHS0f95lhK) | [Prelude's Greatest Hits, Vol\. 5](https://open.spotify.com/album/5TPiMDrNtfok3VDNYZpLgJ) | 7:26 |
+| 40 | [The Key](https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf) | [Wuf Ticket](https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ) | [Rare Preludes, Vol\. 4](https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1) | 6:42 |
+| 41 | [Mega\-Mix "Prelude \#1" \- Inch By Inch, Music, Go With The Flow, Just Keep On Walking, Beat The Street, Keep Giving Me Love, Youre The One For Me, Must Be The Music, D Train \(Dub\) & Body Music](https://open.spotify.com/track/4lqzp8Llnu34IOAA0pKj31) | [Strikers](https://open.spotify.com/artist/6UZO3p1zvBC1QuPdgKDbzR), [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe), [Weeks & Co.](https://open.spotify.com/artist/5RVgCRheVivlGnWebsyzaR), [Rod](https://open.spotify.com/artist/4B9tusBz94bD4jx4ErFjFB), [Sharon Redd & Secret Weapon](https://open.spotify.com/artist/3i2CCa9WEfTdnN2Vw1I0R5) | [Prelude Mastermixes, Vol.3](https://open.spotify.com/album/5WjHKodl6cRGe3prMvjuzr) | 11:26 |
 | 42 | [Haven't Been Funked Enough \- Original Mix](https://open.spotify.com/track/2lbEarePBP4FL2v5wtb9kv) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/3Qc2hu9ngTfwe2UvGL5LPc) | 6:42 |
 | 43 | [Love So Deep](https://open.spotify.com/track/4j6GH3lNzFjWpszEmJJ1BR) | [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Star\-Funk, Vol\. 17](https://open.spotify.com/album/3FwORjUHzBX0kWcBgzsw7Z) | 7:01 |
 | 44 | [Let's Dance \(Make Your Body Move\)](https://open.spotify.com/track/3BuIjV42Tsc3o3n2jp4S0Y) | [West Street Mob](https://open.spotify.com/artist/1DF9I8WTbKvhEifX7RwXbO) | [The Sugar Hill Records Story](https://open.spotify.com/album/27rUdsqReF9tEWcG2Wv04U) | 6:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCw2ZTg2YWFiNzc1MzFiYTQxNmIwMTE3OTVlZjg5Y2I3MmQwMDVhMTky`
+Snapshot ID: `MCw3YzVlODExNzI5NzljNzBhMjk4NDJiNDljNDcxZTc2NmFkMzExYjZi`

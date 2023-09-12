@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,334 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,384 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Minha Oração](https://open.spotify.com/track/1ygFHiMYlkjOXRi5ApY8Sf) | [Weverton Souza](https://open.spotify.com/artist/6RTcZggLUx72o9iFT3TYfe) | [Minha Oração](https://open.spotify.com/album/3Q7lC2LbTYRkfURN9INLaB) | 3:44 |
 | 50 | [Não Há Outro Deus](https://open.spotify.com/track/1dgDHYMMvFiD9Mj34a8djD) | [Arca Music](https://open.spotify.com/artist/50wZV4UPQYnM4NArDq2x1X), [Daiane Galdino](https://open.spotify.com/artist/5CqpRFSKuPpqHSjUMfSUEi) | [Não Há Outro Deus](https://open.spotify.com/album/56Iuh3lKnfRNO5Z9nVRbRh) | 7:43 |
 
-Snapshot ID: `MCw1OWFhM2FlNTExMDIzMTA0NDNlMzZhYjBjMDQ2MDdhYjVhZmE3NzYw`
+Snapshot ID: `MCwyNzM4MDg5ZDJiMjYyNDQ2OThjZTcxOTEzMjgzMDNkZjJjYTZlNDk3`

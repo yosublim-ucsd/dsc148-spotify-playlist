@@ -249,6 +249,32 @@
     },
     {
       "album": {
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+        },
+        {
+          "name": "David",
+          "url": "https://open.spotify.com/artist/5XfK5zmN6FEyhMgpRIPrtw"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204288,
+      "name": "Cachete, Pechito y Ombligo",
+      "url": "https://open.spotify.com/track/4sZEqIf2LO003CBxxbBV51"
+    },
+    {
+      "album": {
         "name": "Descarga Espectacular",
         "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
       },
@@ -994,7 +1020,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 139586,
       "name": "La Chica Gomela (Ni\u00f1a Fresa)",
       "url": "https://open.spotify.com/track/69qirPIejgKVEeflQfGah5"

@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Forget Me Not",
+        "url": "https://open.spotify.com/album/5slVwW2ujScGX4vXkuRAZB"
+      },
+      "artists": [
+        {
+          "name": "Cedric Armfeldt",
+          "url": "https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162375,
+      "name": "Forget Me Not",
+      "url": "https://open.spotify.com/track/1HQF8Vz4Kae6oLhni2E54z"
+    },
+    {
+      "album": {
         "name": "Fragile Beauty",
         "url": "https://open.spotify.com/album/63UFtAXFba8wSrPEouv010"
       },
@@ -1118,6 +1136,24 @@
       "duration_ms": 138187,
       "name": "Lugn",
       "url": "https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB"
+    },
+    {
+      "album": {
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/3s0EZqc071bOdft1JVfWso"
+      },
+      "artists": [
+        {
+          "name": "Figaro Castello",
+          "url": "https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123380,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/3DWCF4kAdmRzwFmV3EhTJO"
     },
     {
       "album": {

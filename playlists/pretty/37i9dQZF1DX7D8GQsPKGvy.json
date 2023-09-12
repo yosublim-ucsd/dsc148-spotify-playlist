@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 732947,
+  "num_followers": 733434,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWZmMTg0OTc4ZmE0MmZiM2UwMzJiZDE2NGNhZjAzNzI3ZDljNjI1",
+  "snapshot_id": "MCw1ZTYyODc5Mjg4ZTY0OWZmY2Y3ODk1NWMwMTE3OWUxMjljYzM5MTg5",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -459,6 +459,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
+        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 228300,
+      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
+      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "All of Me (Ti\u00ebsto's Birthday Treatment Remix - Radio Edit)",
         "url": "https://open.spotify.com/album/4c2rSdHI9WUXn0zyXoWtbB"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 251613,
       "name": "All of Me - Ti\u00ebsto's Birthday Treatment Remix - Radio Edit",
       "url": "https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
-        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 228300,
-      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
-      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "My Head & My Heart (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "My Head & My Heart - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -671,6 +651,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "My Head & My Heart (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "My Head & My Heart - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Don't Call Me Up (Remixes)",
         "url": "https://open.spotify.com/album/5CGGhWKMDZUIt1lnmFbozw"
       },
@@ -687,26 +687,6 @@
       "duration_ms": 153333,
       "name": "Don't Call Me Up - R3HAB Remix",
       "url": "https://open.spotify.com/track/0goj2jVaUvxQP2zsyt7Xol"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Doggumentary",
-        "url": "https://open.spotify.com/album/6Hnr6UcLxnEadWQ70bZqGS"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Wet - Remix",
-      "url": "https://open.spotify.com/track/2alijxLnR0RCiJ5JvzhDuT"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -731,22 +711,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Ain't My Fault (R3hab Remix)",
-        "url": "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT"
+        "name": "Doggumentary",
+        "url": "https://open.spotify.com/album/6Hnr6UcLxnEadWQ70bZqGS"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 158772,
-      "name": "Ain't My Fault - R3hab Remix",
-      "url": "https://open.spotify.com/track/3YPlsrk0Voe8AOa1jyN891"
+      "duration_ms": 195453,
+      "name": "Wet - Remix",
+      "url": "https://open.spotify.com/track/2alijxLnR0RCiJ5JvzhDuT"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -771,6 +751,42 @@
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Treasure Remix EP",
+        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 208278,
+      "name": "Treasure - Cash Cash Radio Mix",
+      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Ain't My Fault (R3hab Remix)",
+        "url": "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 158772,
+      "name": "Ain't My Fault - R3hab Remix",
+      "url": "https://open.spotify.com/track/3YPlsrk0Voe8AOa1jyN891"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Treasure Remix EP",
-        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 208278,
-      "name": "Treasure - Cash Cash Radio Mix",
-      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Sweet but Psycho (The Remixes)",
         "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
       },
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 277226,
+      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
+      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "On My Way (Da Tweekaz Remix)",
         "url": "https://open.spotify.com/album/1ODOCRQWwjfJRqJ34RtrKa"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 204198,
       "name": "On My Way - Da Tweekaz Remix",
       "url": "https://open.spotify.com/track/4Sp0jLZN8MgPnoGDufJS7N"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
-        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
-      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Get Weird - Rarities & Remixes",
+        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Cahill",
+          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+        }
+      ],
+      "duration_ms": 198909,
+      "name": "Black Magic - Cahill Remix",
+      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Happier (Remixes)",
         "url": "https://open.spotify.com/album/16M1uToqnw9bPO8wv8ypeE"
       },
@@ -1407,26 +1427,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Get Weird - Rarities & Remixes",
-        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Cahill",
-          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
-        }
-      ],
-      "duration_ms": 198909,
-      "name": "Black Magic - Cahill Remix",
-      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "New Rules (Remixes)",
         "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
       },
@@ -1443,30 +1443,6 @@
       "duration_ms": 280853,
       "name": "New Rules - KREAM Remix",
       "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Promises (with Sam Smith) [Remixes]",
-        "url": "https://open.spotify.com/album/7g15PlMnaKmFMUsSpR8aZt"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190416,
-      "name": "Promises (with Sam Smith) - David Guetta Remix",
-      "url": "https://open.spotify.com/track/3Lv3frZVXU7Q0JEFvLIzWW"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1491,6 +1467,30 @@
       "duration_ms": 226266,
       "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
       "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Promises (with Sam Smith) [Remixes]",
+        "url": "https://open.spotify.com/album/7g15PlMnaKmFMUsSpR8aZt"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 190416,
+      "name": "Promises (with Sam Smith) - David Guetta Remix",
+      "url": "https://open.spotify.com/track/3Lv3frZVXU7Q0JEFvLIzWW"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1863,6 +1863,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Ciao Adios (Remixes)",
+        "url": "https://open.spotify.com/album/7C6UoXE3QOfuwS0jBeLAvZ"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "Ciao Adios - Burak Yeter Remix",
+      "url": "https://open.spotify.com/track/0xedZw4tBgVZdsB8w7r5aG"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Mama (Remixes)",
         "url": "https://open.spotify.com/album/1eDBHbgNyQxfiG3erm7mH1"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 179887,
       "name": "Mama - Syn Cole Remix",
       "url": "https://open.spotify.com/track/3NFvv5bC6HWtxUftIBm8Qd"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Ciao Adios (Remixes)",
-        "url": "https://open.spotify.com/album/7C6UoXE3QOfuwS0jBeLAvZ"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Burak Yeter",
-          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "Ciao Adios - Burak Yeter Remix",
-      "url": "https://open.spotify.com/track/0xedZw4tBgVZdsB8w7r5aG"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1955,6 +1955,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Hurts So Good (Remixes)",
+        "url": "https://open.spotify.com/album/270KfGOCq7kA77DobjTp72"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Hurts So Good - Broiler Remix",
+      "url": "https://open.spotify.com/track/77x68F78XGMt95NSy4E47c"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Giant (with Rag'n'Bone Man) [Remixes]",
         "url": "https://open.spotify.com/album/1z9yyq4FAPSplsvP7hvwWw"
       },
@@ -1975,26 +1995,6 @@
       "duration_ms": 193297,
       "name": "Giant (with Rag'n'Bone Man) - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Hurts So Good (Remixes)",
-        "url": "https://open.spotify.com/album/270KfGOCq7kA77DobjTp72"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Hurts So Good - Broiler Remix",
-      "url": "https://open.spotify.com/track/77x68F78XGMt95NSy4E47c"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2099,6 +2099,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Ride It (Remixes)",
+        "url": "https://open.spotify.com/album/5AnbMK160pGlJf2645jHu5"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Ride It - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7Ar6mFwSf0DNSaWhUc759s"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Lose Control (The Remixes, Pt. 2)",
         "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
@@ -2127,26 +2147,6 @@
       "duration_ms": 207021,
       "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
       "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Ride It (Remixes)",
-        "url": "https://open.spotify.com/album/5AnbMK160pGlJf2645jHu5"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Ride It - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/7Ar6mFwSf0DNSaWhUc759s"
     },
     {
       "added_at": "2023-07-03 13:15:34",

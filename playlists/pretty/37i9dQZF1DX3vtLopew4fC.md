@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,325 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,355 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Run The Money](https://open.spotify.com/track/0sjx9h6nvVMzYvr83Ul5xF) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [Run The Money](https://open.spotify.com/album/34rPeBLp2ybCqLW61o6HXy) | 2:19 |
 | 50 | [Wait on You](https://open.spotify.com/track/0bkaEQFMm2pxKm1A6JIgbg) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Wait On You](https://open.spotify.com/album/5os2gq7OO3CJWwTdrczrVm) | 3:06 |
 
-Snapshot ID: `MCwyMmJkZTdlMzc5MTE0MTg3NmEzMGRkZjAzMGFiZDljZWQ4MmFjNGIy`
+Snapshot ID: `MCw5ZGU2NmY4OTA1N2JiMTQ4Zjk4NjViNmI4YTc2YTZmNmJlMjM0NmRi`

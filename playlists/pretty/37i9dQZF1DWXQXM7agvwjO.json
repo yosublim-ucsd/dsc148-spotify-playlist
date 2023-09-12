@@ -1,12 +1,12 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. Cover: STUTS + Noi Naa (YONLAPA)",
-  "num_followers": 78460,
+  "num_followers": 78546,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWIyMTRiMDRkZDlhMGU1NjEzNWE4NmM2MTk4ZTAyOThiMWUzNTAy",
+  "snapshot_id": "MCw3ZTI3NTFhNDViM2Y0MzhkOTk0MGQ5YTQ1OWM4NTY5N2RmZWJiZjlh",
   "tracks": [
     {
       "added_at": "2023-09-07 15:01:02",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
-        "name": "Jadoo",
-        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "Jadoo",
-      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
         "name": "\u0111\u1ec3 qu\u00ean",
         "url": "https://open.spotify.com/album/7iMtteNjEshW8vTYxD7py2"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 170666,
       "name": "\u0111\u1ec3 qu\u00ean",
       "url": "https://open.spotify.com/track/4rPrBNnDgdZpS5gosHv0yr"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
+        "name": "Jadoo",
+        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "Jadoo",
+      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
     },
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
+        "name": "friends",
+        "url": "https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 143181,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
         "name": "Masalah Masa Depan",
         "url": "https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ"
       },
@@ -1039,22 +1059,6 @@
       "duration_ms": 285852,
       "name": "Masalah Masa Depan",
       "url": "https://open.spotify.com/track/34dTSIA1q3JMg59gMwQeOb"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
-        "name": "\u74e6\u5408",
-        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
-      },
-      "artists": [
-        {
-          "name": "No Party For Cao Dong",
-          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "\u7f38",
-      "url": "https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu"
     },
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1075,22 +1079,18 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
-        "name": "friends",
-        "url": "https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO"
+        "name": "\u74e6\u5408",
+        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+          "name": "No Party For Cao Dong",
+          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
         }
       ],
-      "duration_ms": 143181,
-      "name": "friends",
-      "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
+      "duration_ms": 186506,
+      "name": "\u7f38",
+      "url": "https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu"
     },
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1127,42 +1127,6 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt"
-      },
-      "artists": [
-        {
-          "name": "Paolo Sandejas",
-          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
-        },
-        {
-          "name": "Martti Franca",
-          "url": "https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
-        "name": "GLOOMY BOOGIE Vol. 1",
-        "url": "https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Kheng",
-          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "Break From The Party",
-      "url": "https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
         "name": "berkelana dalam ruang dan mimpi",
         "url": "https://open.spotify.com/album/4cI5XslTmp76Nnx8iEmIV4"
       },
@@ -1195,6 +1159,42 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
+        "name": "GLOOMY BOOGIE Vol. 1",
+        "url": "https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Break From The Party",
+      "url": "https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt"
+      },
+      "artists": [
+        {
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
+        },
+        {
+          "name": "Martti Franca",
+          "url": "https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
         "name": "sharp knife",
         "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
-        "name": "\u74e6\u5408",
-        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
-      },
-      "artists": [
-        {
-          "name": "No Party For Cao Dong",
-          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
-        }
-      ],
-      "duration_ms": 142266,
-      "name": "\u4f46",
-      "url": "https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
         "name": "Ch\u1ebft Trong Em",
         "url": "https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0"
       },
@@ -1243,22 +1227,6 @@
       "duration_ms": 256663,
       "name": "Ch\u1ebft Trong Em",
       "url": "https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
-        "name": "befriending my tears",
-        "url": "https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn"
-      },
-      "artists": [
-        {
-          "name": "Clara Benin",
-          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
-        }
-      ],
-      "duration_ms": 195130,
-      "name": "imposter syndrome",
-      "url": "https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM"
     },
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1279,6 +1247,38 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
+        "name": "\u74e6\u5408",
+        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
+      },
+      "artists": [
+        {
+          "name": "No Party For Cao Dong",
+          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
+        }
+      ],
+      "duration_ms": 142266,
+      "name": "\u4f46",
+      "url": "https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
+        "name": "befriending my tears",
+        "url": "https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn"
+      },
+      "artists": [
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "duration_ms": 195130,
+      "name": "imposter syndrome",
+      "url": "https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM"
     },
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
+        "name": "ghosts",
+        "url": "https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 220776,
+      "name": "ghosts",
+      "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
         "name": "Like It Was Meant To Be",
         "url": "https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
-        "name": "ghosts",
-        "url": "https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8"
+        "name": "22 of Me",
+        "url": "https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU"
       },
       "artists": [
         {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+          "name": "Mighfar Suganda",
+          "url": "https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG"
         }
       ],
-      "duration_ms": 220776,
-      "name": "ghosts",
-      "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
+      "duration_ms": 210778,
+      "name": "22 of Me",
+      "url": "https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3"
     },
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1483,26 +1499,6 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
-        "name": "Rock Bottom Blues (feat. James Reid)",
-        "url": "https://open.spotify.com/album/7pd0Md4wVcAysaxgmNeKPV"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Kheng",
-          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
-        },
-        {
-          "name": "James Reid",
-          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "Rock Bottom Blues (feat. James Reid)",
-      "url": "https://open.spotify.com/track/0WVmVKdoKnDr3xSpZLZjWC"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh"
       },
@@ -1515,22 +1511,6 @@
       "duration_ms": 274000,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/2PJpocUzoJDp8cG7Uq5XPA"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
-        "name": "22 of Me",
-        "url": "https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU"
-      },
-      "artists": [
-        {
-          "name": "Mighfar Suganda",
-          "url": "https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG"
-        }
-      ],
-      "duration_ms": 210778,
-      "name": "22 of Me",
-      "url": "https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3"
     },
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1551,18 +1531,22 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
-        "name": "Model",
-        "url": "https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC"
+        "name": "Rock Bottom Blues (feat. James Reid)",
+        "url": "https://open.spotify.com/album/7pd0Md4wVcAysaxgmNeKPV"
       },
       "artists": [
         {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        },
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
         }
       ],
-      "duration_ms": 202605,
-      "name": "Model",
-      "url": "https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP"
+      "duration_ms": 140769,
+      "name": "Rock Bottom Blues (feat. James Reid)",
+      "url": "https://open.spotify.com/track/0WVmVKdoKnDr3xSpZLZjWC"
     },
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
+        "name": "Model",
+        "url": "https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 202605,
+      "name": "Model",
+      "url": "https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
         "name": "SANCTUARY",
         "url": "https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 198095,
       "name": "SANCTUARY",
       "url": "https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
+        "name": "inferno",
+        "url": "https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "inferno - Edit",
+      "url": "https://open.spotify.com/track/2ACM0DK5xXBJlHZ8JQc9M5"
     },
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1663,22 +1679,6 @@
       "duration_ms": 197173,
       "name": "All My Friends Are Fallin' In Love",
       "url": "https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
-        "name": "Bee and The Whales",
-        "url": "https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs"
-      },
-      "artists": [
-        {
-          "name": "Galileo Galilei",
-          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
-        }
-      ],
-      "duration_ms": 207624,
-      "name": "\u6b7b\u3093\u3067\u304f\u308c",
-      "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
     },
     {
       "added_at": "2023-09-07 15:01:02",

@@ -2,7 +2,7 @@
 
 ### [Next Up](https://open.spotify.com/playlist/37i9dQZF1DWZvuOKNcLsjv)
 
-> 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: V
+> 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: The Chainsmokers
 
 1,912 songs - 4 day 15 hr 39 min
 

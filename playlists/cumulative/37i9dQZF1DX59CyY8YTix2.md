@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: Ålborg
 
-1,123 songs - 2 day 22 hr 57 min
+1,124 songs - 2 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [アメイセンソウ](https://open.spotify.com/track/7q4q5GZokUYzWbUOpFQ25l) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [アメイセンソウ](https://open.spotify.com/album/1e7PeWXqIkJlPjIak9w4e8) | 3:29 | 2022-06-28 | 2022-07-01 |
 | [アルペジオ](https://open.spotify.com/track/4up2QXTZwSP3bO0BWkaPLa) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [アルペジオ](https://open.spotify.com/album/1zEywdujyUL6V8iaLvulFq) | 4:11 | 2022-05-26 | 2022-07-29 |
 | [アロー](https://open.spotify.com/track/2kuwYIGLE1e7H1d3KTJn5s) | [Awkmiu](https://open.spotify.com/artist/26mj2zXHj76K9paE9J197C) | [アロー](https://open.spotify.com/album/43TR4LMoQ7FkxMMgixF1sY) | 3:18 | 2023-08-22 | 2023-08-30 |
+| [アロー](https://open.spotify.com/track/0OdoZOlFD1PPPJ7Pifh6Gl) | [Awkmiu](https://open.spotify.com/artist/26mj2zXHj76K9paE9J197C) | [アロー EP](https://open.spotify.com/album/08OQIz1YQegXGFg7Xw53hg) | 3:20 | 2023-09-07 |  |
 | [アンセムソング](https://open.spotify.com/track/50rQOu4LKZSNJuuJUhV2SK) | [Atomic Skipper](https://open.spotify.com/artist/3BraNqS870zA5KxrtuZXAd) | [アンセムソング](https://open.spotify.com/album/5pqd0qrMIrSbQkyk7PMPrL) | 3:37 | 2022-08-30 | 2022-09-15 |
 | [アンダスタンディング](https://open.spotify.com/track/2HeYSSaaqPhS43mgJK7YoN) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [アンダスタンディング](https://open.spotify.com/album/359EEXcbQjfarjoa6oCA9H) | 3:45 | 2022-06-02 | 2022-07-09 |
 | [アンドロイド](https://open.spotify.com/track/1k3hdwtmjxdBUL6osBVsFL) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [不出来](https://open.spotify.com/album/0jUAT2Y1TzQf6ScjVJFKQy) | 4:00 | 2022-12-13 | 2023-01-19 |
@@ -935,7 +936,7 @@
 | [少女飛行](https://open.spotify.com/track/4t70UZVCc4QexLwUO6mS9u) | [NUMAZ](https://open.spotify.com/artist/6jNHs8dchJ4ho79RzZWTJf) | [少女飛行](https://open.spotify.com/album/7gvkivMjbhDUv2L3fUrwv6) | 5:01 | 2023-08-30 | 2023-09-06 |
 | [少年](https://open.spotify.com/track/1kMlMvY21mWORqvrEVVnPX) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [少年](https://open.spotify.com/album/3HghVTA1RhGHzVmvIcri32) | 3:54 | 2023-03-15 | 2023-03-16 |
 | [少年漫画](https://open.spotify.com/track/6kABoVItnsChhg2M6xGzWR) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [少女漫画](https://open.spotify.com/album/7CegbDJg1FbmQXFUslE0dN) | 4:03 | 2022-06-07 | 2022-07-13 |
-| [届く、未来へ](https://open.spotify.com/track/5iw7azKfMgpeXmkTMJWWmb) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [届く、未来へ](https://open.spotify.com/album/4gCtW532I0gFGOoJ2pn43U) | 3:37 | 2023-04-13 |  |
+| [届く、未来へ](https://open.spotify.com/track/5iw7azKfMgpeXmkTMJWWmb) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [届く、未来へ](https://open.spotify.com/album/4gCtW532I0gFGOoJ2pn43U) | 3:37 | 2023-04-13 | 2023-09-12 |
 | [希う](https://open.spotify.com/track/7G4514kvcl7Jea1O1JUVIZ) | [meow](https://open.spotify.com/artist/2eUHtoViG2vBrLdBSXDEvC) | [talk"en"](https://open.spotify.com/album/7ILz8AUsrBdvEiyVbtpYQv) | 3:55 | 2022-06-14 | 2022-06-22 |
 | [帰り道](https://open.spotify.com/track/4WzQXrvNO239nxVw51EW0c) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [大人幻想](https://open.spotify.com/album/2hL8jw1bnVz1GZGmqstGuf) | 4:02 | 2022-05-31 | 2022-06-05 |
 | [常温じゃない関係 \(2020 TOKYO MIX\)](https://open.spotify.com/track/3x3EGG2Z1A92IHX1GLr5PN) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA) | [スプートニク](https://open.spotify.com/album/3StkaYiSzZOILb4ZvR5Ay1) | 5:30 | 2022-05-31 | 2022-07-25 |

@@ -13732,7 +13732,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 115200,
       "name": "Cyanea",
       "url": "https://open.spotify.com/track/5s4YGlFclQbrXwlbdeQNLU"
@@ -36120,6 +36120,24 @@
       "duration_ms": 132260,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/70tKDzSxW5cAgSxo7KTDff"
+    },
+    {
+      "album": {
+        "name": "Loose Ends",
+        "url": "https://open.spotify.com/album/5K0se94Hyxk63zYesVj8xZ"
+      },
+      "artists": [
+        {
+          "name": "Blue Wednesday",
+          "url": "https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/71H7jpxzbDJTV67IzKQBcr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-48 songs - 1 hr 39 min
+49 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,5 +56,6 @@
 | [Shor Machega \(From "Mumbai Saga"\)](https://open.spotify.com/track/6jWENK1fDLJutaCZJDrxxj) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Hommie Dilliwala](https://open.spotify.com/artist/4nK9FAS3HuQXcJva8gEWYT) | [Shor Machega \(From "Mumbai Saga"\)](https://open.spotify.com/album/5WbtQsxa5kT6TOfGbOoi0c) | 3:28 | 2023-02-15 |  |
 | [The Humma Song \(From "OK Jaanu"\)](https://open.spotify.com/track/7Ck2si1vtgdPXdKGtWGGXr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [The Humma Song \(From "OK Jaanu"\)](https://open.spotify.com/album/3vJoUE05bg6Ki7BrzTOAPl) | 2:59 | 2023-02-15 |  |
 | [Yaar Naa Miley](https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Kick](https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy) | 4:03 | 2023-02-15 |  |
+| [Zindagi Picture Hai](https://open.spotify.com/track/61aZkSLmYtcVror3d69l26) | [Salvage Audio Collective](https://open.spotify.com/artist/0vqvLnTCwFbwxMWBeBAXdR), [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3) | [Bambai Meri Jaan \(Original Series Soundtrack\)](https://open.spotify.com/album/1YKJ7en4IlL2OewnsqemEb) | 2:10 | 2023-09-11 |  |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

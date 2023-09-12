@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-333 songs - 1 day 4 hr 45 min
+334 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Free Your Mind](https://open.spotify.com/track/2o2pdKXhWnlDfwLp61koTb) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Free Your Mind](https://open.spotify.com/album/7Fz04q3ibCWPzyZIjlRkds) | 5:37 | 2023-02-10 | 2023-02-18 |
 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-11-23 |  |
 | [Frustration](https://open.spotify.com/track/4QhQBj55JalsgKmjfLIT2w) | [Olympe](https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF) | [X2](https://open.spotify.com/album/0dmvMXj4bh1YXwVKxfWcRK) | 6:32 | 2022-11-23 | 2022-11-28 |
+| [Future Call](https://open.spotify.com/track/3BjwyLMgRb29YRwcunLXnN) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Future Call](https://open.spotify.com/album/2wWBj0RTjHVLoUcexFpl6Y) | 3:29 | 2023-09-07 |  |
 | [Future Self](https://open.spotify.com/track/7rXOjC0ZGvNwUdkQ7Uazq0) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [LEO ISLO](https://open.spotify.com/artist/5VqnicC0xT5ja3283N8Yde) | [Future Self](https://open.spotify.com/album/0Up3Hg8E7Kx4VCWeF2v3Oi) | 4:25 | 2023-06-16 | 2023-07-01 |
 | [Futuro](https://open.spotify.com/track/302izEeCgAxrLEpnXM4nNP) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn) | [Futuro](https://open.spotify.com/album/1DazgXEcICNcTtmYp5SK7H) | 2:55 | 2023-07-07 |  |
 | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw) | 7:02 | 2022-12-09 |  |
@@ -148,7 +149,7 @@
 | [KEEP ME IN YOUR MIND \- Einmusik Remix](https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [KEEP ME IN YOUR MIND \(Einmusik Remix\)](https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb) | 6:29 | 2023-03-10 | 2023-05-13 |
 | [Ketuvim \- Ae:ther Remix](https://open.spotify.com/track/2JSxvwyyxTh2c1YKa0kuTe) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Ketuvim \(Ae:ther Remix\)](https://open.spotify.com/album/1xPCM1ml3ZePp58ard2AQV) | 8:23 | 2022-11-23 | 2022-12-21 |
 | [KIDS](https://open.spotify.com/track/4Io7cOXbdkbFBXlPD79IjX) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [KIDS](https://open.spotify.com/album/7D98JwctKq2YRCuYXyEjql) | 2:48 | 2023-03-21 | 2023-04-09 |
-| [Kurai](https://open.spotify.com/track/6cNSxZaBUwojTM7Ffx4IR9) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Kurai](https://open.spotify.com/album/1pH9PvhnJlKqViwecG48Zk) | 2:52 | 2023-06-09 |  |
+| [Kurai](https://open.spotify.com/track/6cNSxZaBUwojTM7Ffx4IR9) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Kurai](https://open.spotify.com/album/1pH9PvhnJlKqViwecG48Zk) | 2:52 | 2023-06-09 | 2023-09-12 |
 | [La Niña De La Aldea \- widerberg Remix](https://open.spotify.com/track/0Z2NhrQwBef7xkXkMWkgil) | [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt), [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Maya!](https://open.spotify.com/album/5NZXGeTesiy9M71O7Eyeou) | 4:46 | 2023-03-21 | 2023-06-14 |
 | [Laminar \- Moonbootica Remix](https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Laminar \(Moonbootica Remix\)](https://open.spotify.com/album/4yED6qv5FOnQuqw7bmmPPD) | 6:35 | 2023-06-16 | 2023-08-20 |
 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 | 2022-11-23 |  |

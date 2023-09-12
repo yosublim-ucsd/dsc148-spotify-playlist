@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Davi Sacer, Simone",
-  "num_followers": 516292,
+  "num_followers": 516598,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmM1YjA4OThkNTUwZjU2M2YwNDFkYTAzY2I4NWM3ODJlODE1YTM4",
+  "snapshot_id": "MCxjNjAxZmQyNjkyMTc5NTQ5Y2MwMWQxMTM4NWM1Njc0NmY3MTNiNDQ5",
   "tracks": [
     {
       "added_at": "2023-07-21 04:44:41",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
-        "name": "Galileu (ao Vivo)",
-        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "Galileu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
         "name": "O Encontro",
         "url": "https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 324013,
       "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
       "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
+        "name": "Galileu (ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 325200,
+      "name": "Galileu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
     },
     {
       "added_at": "2023-07-21 04:44:41",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 476546,
+      "name": "Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
         "name": "O Nome de Jesus",
         "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
       },
@@ -455,38 +471,6 @@
       "duration_ms": 311280,
       "name": "O Maior Trof\u00e9u",
       "url": "https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 381318,
-      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
-      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 476546,
-      "name": "Nunca Pare de Lutar",
-      "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
     },
     {
       "added_at": "2023-07-21 04:44:41",
@@ -551,6 +535,22 @@
       "duration_ms": 289726,
       "name": "Abra\u00e7a-Me",
       "url": "https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 381318,
+      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
+      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
     },
     {
       "added_at": "2023-07-21 04:44:41",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
+        "name": "Diante do Trono (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        }
+      ],
+      "duration_ms": 455106,
+      "name": "Aclame ao Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 271866,
       "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
-        "name": "Diante do Trono (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        }
-      ],
-      "duration_ms": 455106,
-      "name": "Aclame ao Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU"
     },
     {
       "added_at": "2023-07-21 04:44:41",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
+        "name": "Exaltado - Diante do Trono 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "duration_ms": 593773,
+      "name": "A Ele A Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
         "name": "Ao Vivo",
         "url": "https://open.spotify.com/album/7Jwn9McsZwU3pW49BXa2SH"
       },
@@ -875,6 +895,22 @@
       "duration_ms": 297365,
       "name": "Vai Valer a Pena - Ao Vivo",
       "url": "https://open.spotify.com/track/6FOZMPsV4o3dMj7juFrXMT"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
+        "name": "Fogo e Gl\u00f3ria (Ao Vivo em Curitiba)",
+        "url": "https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 511226,
+      "name": "Abra os Olhos do Meu Cora\u00e7\u00e3o - Ao Vivo em Curitiba",
+      "url": "https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW"
     },
     {
       "added_at": "2023-07-21 04:44:41",
@@ -951,42 +987,6 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
-        "name": "Exaltado - Diante do Trono 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        }
-      ],
-      "duration_ms": 593773,
-      "name": "A Ele A Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
-        "name": "Fogo e Gl\u00f3ria (Ao Vivo em Curitiba)",
-        "url": "https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 511226,
-      "name": "Abra os Olhos do Meu Cora\u00e7\u00e3o - Ao Vivo em Curitiba",
-      "url": "https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
         "name": "Sele\u00e7\u00e3o De Ouro",
         "url": "https://open.spotify.com/album/3RKYWZSPtLvwFzYb35dqaZ"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
-        "name": "Eu Tenho a Promessa",
-        "url": "https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 336271,
-      "name": "Abra os Meus Olhos",
-      "url": "https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
         "name": "Autor da Minha F\u00e9",
         "url": "https://open.spotify.com/album/4V2xVSZcqaYna4EmoCU9uY"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 307944,
       "name": "Que Se Abram Os C\u00e9us",
       "url": "https://open.spotify.com/track/2uUeFEF4hmM0rjFfvA4nxF"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
+        "name": "Eu Tenho a Promessa",
+        "url": "https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 336271,
+      "name": "Abra os Meus Olhos",
+      "url": "https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca"
     },
     {
       "added_at": "2023-07-21 04:44:41",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
-        "name": "Flashback F\u00e9 (Live)",
-        "url": "https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
-        },
-        {
-          "name": "Brun\u00e3o Morada",
-          "url": "https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm"
-        }
-      ],
-      "duration_ms": 450857,
-      "name": "Amigo Fiel - Live",
-      "url": "https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
         "name": "Global Project Portugu\u00eas",
         "url": "https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 370146,
       "name": "Me Rendo",
       "url": "https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
+        "name": "Flashback F\u00e9 (Live)",
+        "url": "https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        },
+        {
+          "name": "Brun\u00e3o Morada",
+          "url": "https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm"
+        }
+      ],
+      "duration_ms": 450857,
+      "name": "Amigo Fiel - Live",
+      "url": "https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR"
     }
   ],
   "unique_name": "Gospel Cl\u00e1ssicos",

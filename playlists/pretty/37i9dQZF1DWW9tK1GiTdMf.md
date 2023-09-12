@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻  YUNGBLUD in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,660 likes - 85 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,678 likes - 85 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 9 | [Giovani Pop Punk](https://open.spotify.com/track/1OOfq8XCmp4qv1WzIEZ95M) | [Misa](https://open.spotify.com/artist/5jHjoTewpLc3afcQ8hdCzF), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Giovani Pop Punk](https://open.spotify.com/album/4GSl3bThAEPykU4pJVQfhD) | 2:29 |
 | 10 | [LEI](https://open.spotify.com/track/6P1k9dyqSlRunYVjfXpFTT) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb) | [LEI](https://open.spotify.com/album/2TeZPRV4238oHBxMf8sU21) | 2:22 |
 | 11 | [Tutto Normale](https://open.spotify.com/track/76zioMf7YolEXbCANgGBms) | [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [Tutto Normale](https://open.spotify.com/album/010CiLtjAQhI9smvyXHPB3) | 2:44 |
-| 12 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 |
+| 12 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 |
 | 13 | [SUMMERSAD 4](https://open.spotify.com/track/153mTpcY4kLe2PBS0wnvMF) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [SUMMERSAD 4](https://open.spotify.com/album/4bb6rIjGtgEzAOkHJBcEfC) | 2:59 |
 | 14 | [BIPOLARE II](https://open.spotify.com/track/1vq9hFEWig0osylK5rwlsk) | [MEGLIOIGUAI](https://open.spotify.com/artist/0xQdwSDZcuGZH9vI4YvnHk) | [AMOREPSICHESENZAPADRONE](https://open.spotify.com/album/16ANp8Yn0BcKVVdFqb0NUx) | 2:36 |
 | 15 | [One & Only](https://open.spotify.com/track/3lHIanYBxMNZPcRRu0WmWr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [One & Only](https://open.spotify.com/album/46vi3TK1L8KjWArl67u3N9) | 2:17 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 84 | [Storia Stupida](https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU), [Ardia](https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS) | [Storia Stupida](https://open.spotify.com/album/1UVVFhQwRZpfG0HzSns7Ur) | 3:04 |
 | 85 | [Tinder](https://open.spotify.com/track/6fdbDa6L0sFK31d8FC9pt7) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [Tinder](https://open.spotify.com/album/64xMm3GMM8oz7d25iJXEgT) | 2:14 |
 
-Snapshot ID: `MCw2OTEyOTlmNTc1ZDE2YzYwYjU0MWZkZGY1Y2FmZDdkNDk1MzI5ZjU4`
+Snapshot ID: `MCw0OWM1MWRhYzA1NTNiY2U0MWVmNGI4NmIxMDgwMWJjZWRjYjA1MzRi`

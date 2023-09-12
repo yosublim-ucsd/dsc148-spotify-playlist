@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Heart Beat for Baby Sleep",
+        "url": "https://open.spotify.com/album/2fApVT0HEMNSimD3givi7L"
+      },
+      "artists": [
+        {
+          "name": "ZNoize",
+          "url": "https://open.spotify.com/artist/2WHtWqbEUv3kRTBhTdeLIG"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191510,
+      "name": "Heart Beat for Baby Sleep",
+      "url": "https://open.spotify.com/track/7iEjQUfi0h9HZYALtL5wFL"
+    },
+    {
+      "album": {
         "name": "Wombs Sounds for Baby Sleep (with Heartbeats)",
         "url": "https://open.spotify.com/album/2mqMGoA5RNNFt19WGNCc33"
       },
@@ -3852,6 +3870,24 @@
       "duration_ms": 166000,
       "name": "Womb Sound Brown Noise and Heartbeat",
       "url": "https://open.spotify.com/track/5Klj2WZRAonPeOQxfsRZJk"
+    },
+    {
+      "album": {
+        "name": "Womb Sound for Deep Sleep",
+        "url": "https://open.spotify.com/album/7r6aUzwraPmpNOsXm28QX0"
+      },
+      "artists": [
+        {
+          "name": "Scientists of Noise",
+          "url": "https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207967,
+      "name": "Womb Sound for Deep Sleep",
+      "url": "https://open.spotify.com/track/5aag803UieOVlKIjzMRjak"
     },
     {
       "album": {

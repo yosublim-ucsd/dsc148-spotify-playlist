@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Verbal Jint\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,728 likes - 129 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,718 likes - 129 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 128 | [MAPSI](https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [MAPSI](https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05) | 2:40 |
 | 129 | [KrOWN\_lIlBOI](https://open.spotify.com/track/3Qdm41qaQkvYqL4SBP41fj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [KrOWN audio liner](https://open.spotify.com/album/7C0wLTmWoth1H3ZCTAVxDf) | 0:04 |
 
-Snapshot ID: `MCwzNmY5M2ViNTM3NmE0NjcwMjFiYzdkMWY4NmIzMTRkMmIyMDk3OTMz`
+Snapshot ID: `MCwzMzZjYTU0M2Y0MDkxZmI0NjAyM2UwZjNhODU3OWRiYzMwNDY2MjIz`

@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 185202,
+  "num_followers": 185248,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGU4OWRmY2Y5OWRiNDNmYTI3MmViNTgwM2UyYTA4MTc4YTcyOGVj",
+  "snapshot_id": "MCwzOGFkZDA0MGQ5N2FkYjE5YjBhNGRhMmU3NDU4MDgxZDllOTA1MzVk",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "a modern tragedy vol. 2",
+        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 229531,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -431,86 +447,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "a modern tragedy vol. 2",
-        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 229531,
-      "name": "Darkside",
-      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "We got it from Here... Thank You 4 Your service",
-        "url": "https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "We The People....",
-      "url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 124880,
-      "name": "I Don't Wanna Be Blind",
-      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "The Bastards",
-        "url": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 185870,
-      "name": "Massacre, The New American Dream",
-      "url": "https://open.spotify.com/track/3eqGymybwhdpKGVnbclzsL"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "The Stories We Tell Ourselves",
-        "url": "https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 245195,
-      "name": "Go To War",
-      "url": "https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Obey (with YUNGBLUD)",
         "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
       },
@@ -531,6 +467,38 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "We got it from Here... Thank You 4 Your service",
+        "url": "https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "We The People....",
+      "url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "The Bastards",
+        "url": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 185870,
+      "name": "Massacre, The New American Dream",
+      "url": "https://open.spotify.com/track/3eqGymybwhdpKGVnbclzsL"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Bury Me Face Down",
         "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
       },
@@ -543,6 +511,38 @@
       "duration_ms": 231666,
       "name": "Bury Me Face Down",
       "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "The Stories We Tell Ourselves",
+        "url": "https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 245195,
+      "name": "Go To War",
+      "url": "https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 124880,
+      "name": "I Don't Wanna Be Blind",
+      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -591,6 +591,22 @@
       "duration_ms": 204026,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/3mwLIWu6drN0n6t9e5bwjG"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "a modern tragedy vol. 1",
+        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "a modern tragedy vol. 1",
-        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Stick Up",
-      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "DOA [Feat. Joyner Lucas]",
         "url": "https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY"
       },
@@ -791,6 +791,38 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "Crooked Teeth",
+        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 203118,
+      "name": "American Dreams",
+      "url": "https://open.spotify.com/track/4ABntUukZcR0Yn6OiARnJG"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Disease",
+      "url": "https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M"
       },
@@ -819,38 +851,6 @@
       "duration_ms": 186475,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Crooked Teeth",
-        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 203118,
-      "name": "American Dreams",
-      "url": "https://open.spotify.com/track/4ABntUukZcR0Yn6OiARnJG"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "You Will Not Be Saved",
-        "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
-      },
-      "artists": [
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "WWYDF",
-      "url": "https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Prayers for the Damned",
         "url": "https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "You Will Not Be Saved",
+        "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "WWYDF",
+      "url": "https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Year Zero",
         "url": "https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 229666,
       "name": "Capital G",
       "url": "https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Hate Conquers All",
+      "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -963,22 +979,6 @@
       "duration_ms": 171809,
       "name": "Walking In My Shoes",
       "url": "https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Hate Conquers All",
-      "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "Whitey Ford's House of Pain",
+        "url": "https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7"
+      },
+      "artists": [
+        {
+          "name": "Everlast",
+          "url": "https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "The Culling",
+      "url": "https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
         "url": "https://open.spotify.com/album/0aMmyg5wDhpn0DDY7sjfyE"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Whitey Ford's House of Pain",
-        "url": "https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7"
+        "name": "Can't Deny Me",
+        "url": "https://open.spotify.com/album/7N3t4G1okTBsoQ6dBmPXAV"
       },
       "artists": [
         {
-          "name": "Everlast",
-          "url": "https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 194160,
-      "name": "The Culling",
-      "url": "https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj"
+      "duration_ms": 163920,
+      "name": "Can't Deny Me",
+      "url": "https://open.spotify.com/track/4PwGt5dBTmdRu4HTN8ZWgR"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 223043,
       "name": "Polygraph Eyes",
       "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Can't Deny Me",
-        "url": "https://open.spotify.com/album/7N3t4G1okTBsoQ6dBmPXAV"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 163920,
-      "name": "Can't Deny Me",
-      "url": "https://open.spotify.com/track/4PwGt5dBTmdRu4HTN8ZWgR"
     },
     {
       "added_at": "2023-06-23 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,798 likes - 582 songs - 22 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,044 likes - 582 songs - 22 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -591,4 +591,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 581 | [Sub Divo](https://open.spotify.com/track/23qUhbJR1EBIMSgTABNPa0) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Monno Briceno](https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys) | [Sub Divo](https://open.spotify.com/album/7aaFzNiSMXrH42222cu6dF) | 2:16 |
 | 582 | [Gurkebakken](https://open.spotify.com/track/3Yn41lGF0i8RR2DGs3Z0YR) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Gurkebakken](https://open.spotify.com/album/3u4D8v52kTtjre8m6n2es3) | 1:46 |
 
-Snapshot ID: `MCw2MjM4ODBkYzFhYjM0NTEzMmY5ZTFlZjJlNzFhNzYxNWY0MGRiMGY5`
+Snapshot ID: `MCw4ZDRlZGQzZDJiNDQ3MDYwMDFmOTY1MjUxOGE2NGIwNjYyYzljNmQ2`

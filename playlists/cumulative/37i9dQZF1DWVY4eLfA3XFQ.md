@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Lee Foss & Ralf
 
-1,258 songs - 3 day 0 hr 28 min
+1,259 songs - 3 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Ducati](https://open.spotify.com/track/7zt5nDR0xO2KctrgbYN235) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Ducati](https://open.spotify.com/album/7asDUvdxIPxavwdyX3r4FF) | 3:00 | 2023-06-30 |  |
 | [Duro](https://open.spotify.com/track/1vDkc8P9SDkqXlXHs3uzjV) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Duro](https://open.spotify.com/album/3QuVE1YSF1gkqt4yoQ0W5L) | 3:08 | 2021-11-26 | 2022-02-26 |
 | [Eastern Dub](https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Eastern Dub](https://open.spotify.com/album/1Lssaw5dvG8riE4Uiyuv6U) | 2:58 | 2022-06-24 | 2022-07-23 |
+| [Easy Tiger](https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Easy Tiger](https://open.spotify.com/album/2fkIAlMozPVOXNEPfKA2qn) | 3:26 | 2023-09-08 |  |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-02 |  |
 | [Echo In The Dark](https://open.spotify.com/track/1pjJO7KXcaIl3zGloQVi6Q) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Echo In The Dark](https://open.spotify.com/album/46QDC0lHBrJbkMQHvv8hHL) | 3:24 | 2022-08-12 | 2022-11-19 |
 | [Ectogazm](https://open.spotify.com/track/5MYARoapSdgdS3RIYpoUUy) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Ectogazm](https://open.spotify.com/album/2koT4eoxGArDv6D5poxuPv) | 3:50 | 2021-11-26 | 2022-01-14 |
@@ -906,7 +907,7 @@
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-05-13 | 2023-02-04 |
 | [Ritmo \- HUGEL Edit](https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Ritmo \(HUGEL Edit\)](https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C) | 2:45 | 2023-02-03 | 2023-03-25 |
 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2022-05-13 | 2022-09-17 |
-| [RNCL](https://open.spotify.com/track/7BYAcW2avsjOYqMFmCGD0P) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [RNCL](https://open.spotify.com/album/0a9oirk3mX6TOm7WK4GZ3T) | 3:11 | 2023-08-18 |  |
+| [RNCL](https://open.spotify.com/track/7BYAcW2avsjOYqMFmCGD0P) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [RNCL](https://open.spotify.com/album/0a9oirk3mX6TOm7WK4GZ3T) | 3:11 | 2023-08-18 | 2023-09-12 |
 | [Rock & Roll](https://open.spotify.com/track/5uRm2oHJnyUlWY7KETuP2r) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Rock & Roll](https://open.spotify.com/album/4j5XQFMWoEqXvR2NJFiCKl) | 2:32 | 2022-06-10 | 2022-10-01 |
 | [Rock The Casbah](https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Rock The Casbah](https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo) | 3:05 | 2023-04-28 | 2023-08-12 |
 | [Rock The House](https://open.spotify.com/track/51C2icKkwWdJRBErc2qno3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Rock The House EP](https://open.spotify.com/album/3IDGAi5SfiLS2HAGCpDmCA) | 2:59 | 2021-11-26 | 2022-01-06 |

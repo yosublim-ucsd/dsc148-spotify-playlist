@@ -1,12 +1,12 @@
 {
   "description": "The best in old & new Reggae. Cover: Bob Marley.",
-  "num_followers": 2122072,
+  "num_followers": 2122400,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzhkZTA2YzU0MDIzYThkM2VjNTRkMjJkNzA3MTkzNmNhMTJhYmNh",
+  "snapshot_id": "MCw2NzIzZGY0MGM4NDVlZDBjNTNhYzYwOWYwZjRiMGE5YTViY2VlM2M2",
   "tracks": [
     {
       "added_at": "2023-06-08 22:06:22",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "Night Nurse (Expanded Edition)",
         "url": "https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 277893,
       "name": "You Don't Love Me (No, No, No) - Extended Mix",
       "url": "https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -331,6 +331,22 @@
       "duration_ms": 257666,
       "name": "Sunshine Reggae",
       "url": "https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -419,18 +435,18 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+        "name": "Uptown Top Ranking",
+        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Althea And Donna",
+          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
+      "duration_ms": 229160,
+      "name": "Uptown Top Ranking - Remastered 2001",
+      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -447,22 +463,6 @@
       "duration_ms": 217200,
       "name": "Here I Come",
       "url": "https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
-        "name": "Uptown Top Ranking",
-        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
-      },
-      "artists": [
-        {
-          "name": "Althea And Donna",
-          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Uptown Top Ranking - Remastered 2001",
-      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -495,6 +495,22 @@
       "duration_ms": 317360,
       "name": "Cool Down The Pace",
       "url": "https://open.spotify.com/track/4llIZen1Cn4mi3DJm2Lqlz"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -559,38 +575,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Parables",
-        "url": "https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985"
-      },
-      "artists": [
-        {
-          "name": "Tarrus Riley",
-          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "She's Royal",
-      "url": "https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Chronology",
         "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
       },
@@ -623,22 +607,18 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "The Seven Year Itch",
-        "url": "https://open.spotify.com/album/785pirNtohI84EfviUaGkq"
+        "name": "Parables",
+        "url": "https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985"
       },
       "artists": [
         {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
         }
       ],
-      "duration_ms": 185312,
-      "name": "Rasta Love Feat. Ky-Mani Marley",
-      "url": "https://open.spotify.com/track/0cSkIGgh1uICEIcmEb1niw"
+      "duration_ms": 251026,
+      "name": "She's Royal",
+      "url": "https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -695,6 +675,26 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "The Seven Year Itch",
+        "url": "https://open.spotify.com/album/785pirNtohI84EfviUaGkq"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        }
+      ],
+      "duration_ms": 185312,
+      "name": "Rasta Love Feat. Ky-Mani Marley",
+      "url": "https://open.spotify.com/track/0cSkIGgh1uICEIcmEb1niw"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "Legalize It (Legacy Edition)",
         "url": "https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Inna Heights",
-        "url": "https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE"
-      },
-      "artists": [
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 273040,
-      "name": "Hills And Valleys",
-      "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Blackheart Man",
         "url": "https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 166773,
       "name": "Dream Land",
       "url": "https://open.spotify.com/track/7vp89zcbYncoBCbX5HA3tZ"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Inna Heights",
+        "url": "https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 273040,
+      "name": "Hills And Valleys",
+      "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Music Is Life",
-        "url": "https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6"
-      },
-      "artists": [
-        {
-          "name": "Beres Hammond",
-          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Rock Away",
-      "url": "https://open.spotify.com/track/2RlVyAjLnGJQYp7uzpfUta"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Mind Control",
         "url": "https://open.spotify.com/album/1uJzh0ZINTIALdPwDVrbJP"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 294786,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/1Bsl6Jw7bJtQ4pc7OQREog"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Music Is Life",
+        "url": "https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6"
+      },
+      "artists": [
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Rock Away",
+      "url": "https://open.spotify.com/track/2RlVyAjLnGJQYp7uzpfUta"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Reign Of Fire",
-        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
-      },
-      "artists": [
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "That Day Will Come",
-      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Jah Victory",
         "url": "https://open.spotify.com/album/58CUGMmOhc3zKGkSTzsnUS"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 267120,
       "name": "I Wish You Were Here",
       "url": "https://open.spotify.com/track/7aHoGCuYnAcNar5i1PPQCP"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Reign Of Fire",
+        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
+      },
+      "artists": [
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "That Day Will Come",
+      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "In The Streets To Africa",
+        "url": "https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc"
+      },
+      "artists": [
+        {
+          "name": "Richie Spice",
+          "url": "https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP"
+        }
+      ],
+      "duration_ms": 225506,
+      "name": "Youth Dem Cold",
+      "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "Revelation Pt. II: The Fruit of Life",
         "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 277653,
       "name": "Rock Stone",
       "url": "https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
-        "name": "In The Streets To Africa",
-        "url": "https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc"
-      },
-      "artists": [
-        {
-          "name": "Richie Spice",
-          "url": "https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP"
-        }
-      ],
-      "duration_ms": 225506,
-      "name": "Youth Dem Cold",
-      "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Chronology",
-        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
-      },
-      "artists": [
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Spanish Town Rockin'",
-      "url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "On the Beach: The Anthology",
         "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 224693,
       "name": "Everything I Own - 7\" Mix",
       "url": "https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Spanish Town Rockin'",
+      "url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV"
-      },
-      "artists": [
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Most Wanted Series - Yellowman",
         "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
       },
@@ -1747,6 +1731,22 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "Love Is My Religion",
         "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
       },
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 173251,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 157974,
       "name": "Energy",
       "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1883,18 +1883,22 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "The ExPerience",
-        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
+        "name": "Cocodi Rock !!! (Remastered Edition)",
+        "url": "https://open.spotify.com/album/0XCUj5oCpYC2GZZGGh7iVg"
       },
       "artists": [
         {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        },
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
         }
       ],
-      "duration_ms": 243049,
-      "name": "Where I'm Coming From",
-      "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
+      "duration_ms": 294000,
+      "name": "Cocody Rock - Remastered Edition",
+      "url": "https://open.spotify.com/track/1NbHlnoQbLMMy07BxJK5EP"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1915,22 +1919,18 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Cocodi Rock !!! (Remastered Edition)",
-        "url": "https://open.spotify.com/album/0XCUj5oCpYC2GZZGGh7iVg"
+        "name": "'Til Shiloh (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu"
       },
       "artists": [
         {
-          "name": "Alpha Blondy",
-          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
-        },
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Cocody Rock - Remastered Edition",
-      "url": "https://open.spotify.com/track/1NbHlnoQbLMMy07BxJK5EP"
+      "duration_ms": 237053,
+      "name": "Murderer",
+      "url": "https://open.spotify.com/track/3H9VcVDIdfgjZRj8Surw6s"
     }
   ],
   "unique_name": "One Love",

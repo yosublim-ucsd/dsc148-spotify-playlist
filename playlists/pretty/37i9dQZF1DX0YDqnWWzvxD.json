@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 74114,
+  "num_followers": 74318,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjI4MDViYWJkNmY3YjZlNjExZDY4YWQxMjk1YzQ3ODFlNmMxZGY5",
+  "snapshot_id": "MCxmMmUwMmI2ODdhY2E0ODk0OGNlMjliMjNkNGJjMDZjZTAxMDkyNGY2",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -155,6 +155,38 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
+      },
+      "artists": [
+        {
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Dawn Dusk Divinity",
+      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Flying",
+        "url": "https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P"
+      },
+      "artists": [
+        {
+          "name": "Garth Stevenson",
+          "url": "https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka"
+        }
+      ],
+      "duration_ms": 539280,
+      "name": "The Southern Sea",
+      "url": "https://open.spotify.com/track/13DDTT9eGK66diG2a4j5hE"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Breathing Space",
         "url": "https://open.spotify.com/album/659OTaUEYfTNdzx7F6mpj2"
       },
@@ -203,38 +235,6 @@
       "duration_ms": 262400,
       "name": "Voice of Eternity",
       "url": "https://open.spotify.com/track/75PdHrz9uyj9hIYT9xadZ3"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
-      },
-      "artists": [
-        {
-          "name": "Devansh Tushar",
-          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Dawn Dusk Divinity",
-      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P"
-      },
-      "artists": [
-        {
-          "name": "Garth Stevenson",
-          "url": "https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka"
-        }
-      ],
-      "duration_ms": 539280,
-      "name": "The Southern Sea",
-      "url": "https://open.spotify.com/track/13DDTT9eGK66diG2a4j5hE"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Bedside Angels",
-        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Stills",
-          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
-        }
-      ],
-      "duration_ms": 134504,
-      "name": "Bedside Angels",
-      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Chakra Healing",
         "url": "https://open.spotify.com/album/6t4rYseNh2Ct0QXXoXH56O"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Bedside Angels",
+        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Stills",
+          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
+        }
+      ],
+      "duration_ms": 134504,
+      "name": "Bedside Angels",
+      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/13DJdET1L9Fqw6Xtm8kmVr"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 333234,
       "name": "Healing Shores - Bonus Track",
       "url": "https://open.spotify.com/track/4TrYTLqm1nNLP7bHJuum7V"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Romantic Evening Ragas'",
+        "url": "https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "Raga Hemavati (Flute)",
+      "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -459,18 +475,26 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Romantic Evening Ragas'",
-        "url": "https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM"
+        "name": "Harmonic Way",
+        "url": "https://open.spotify.com/album/61O6B4dVDTH1WutQUSd9W0"
       },
       "artists": [
         {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+          "name": "Dean Evenson",
+          "url": "https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi"
+        },
+        {
+          "name": "Scott Huckabay",
+          "url": "https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg"
+        },
+        {
+          "name": "Phil Heaven",
+          "url": "https://open.spotify.com/artist/2LvimbnpvtfVNDdv37EoUQ"
         }
       ],
-      "duration_ms": 172640,
-      "name": "Raga Hemavati (Flute)",
-      "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
+      "duration_ms": 335533,
+      "name": "Resonant Wave",
+      "url": "https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -523,26 +547,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Harmonic Way",
-        "url": "https://open.spotify.com/album/61O6B4dVDTH1WutQUSd9W0"
+        "name": "Sleeping Traveller",
+        "url": "https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT"
       },
       "artists": [
         {
-          "name": "Dean Evenson",
-          "url": "https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi"
-        },
-        {
-          "name": "Scott Huckabay",
-          "url": "https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg"
-        },
-        {
-          "name": "Phil Heaven",
-          "url": "https://open.spotify.com/artist/2LvimbnpvtfVNDdv37EoUQ"
+          "name": "Binary One",
+          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
         }
       ],
-      "duration_ms": 335533,
-      "name": "Resonant Wave",
-      "url": "https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen"
+      "duration_ms": 240000,
+      "name": "Insitarament",
+      "url": "https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -559,22 +575,6 @@
       "duration_ms": 193333,
       "name": "Sea Waves",
       "url": "https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Sleeping Traveller",
-        "url": "https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT"
-      },
-      "artists": [
-        {
-          "name": "Binary One",
-          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Insitarament",
-      "url": "https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Incomplete",
+        "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 139752,
+      "name": "A Whisper In The Dark",
+      "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Holistic Relaxation",
         "url": "https://open.spotify.com/album/0Hn2mjguZHYIbav25rnM8R"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Incomplete",
-        "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
+        "name": "Spa Music: Tibet (80 Minutes of Tibetan Bowls & Flutes for Massage, New Age, Yoga & Relaxation)",
+        "url": "https://open.spotify.com/album/32R6Vzvn7LlSklrHO0SCr3"
       },
       "artists": [
         {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+          "name": "Massage Tribe",
+          "url": "https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C"
         }
       ],
-      "duration_ms": 139752,
-      "name": "A Whisper In The Dark",
-      "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
+      "duration_ms": 659773,
+      "name": "Honesty & Truth - 10-Minute Mix For Meditation & Massage",
+      "url": "https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -739,22 +755,6 @@
       "duration_ms": 557142,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2oAy91CfPUhc9J6aiRR0DA"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Spa Music: Tibet (80 Minutes of Tibetan Bowls & Flutes for Massage, New Age, Yoga & Relaxation)",
-        "url": "https://open.spotify.com/album/32R6Vzvn7LlSklrHO0SCr3"
-      },
-      "artists": [
-        {
-          "name": "Massage Tribe",
-          "url": "https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C"
-        }
-      ],
-      "duration_ms": 659773,
-      "name": "Honesty & Truth - 10-Minute Mix For Meditation & Massage",
-      "url": "https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Mindful Piano: Music for Meditation",
-        "url": "https://open.spotify.com/album/5DJm78hvC2FktiJ0BczmIm"
-      },
-      "artists": [
-        {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        }
-      ],
-      "duration_ms": 332013,
-      "name": "Oceans of Mindfulness",
-      "url": "https://open.spotify.com/track/5MqRAmszGco33DuPYE6WBs"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Sacred Woods",
-        "url": "https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm"
+        "name": "Mindful Piano: Music for Meditation",
+        "url": "https://open.spotify.com/album/5DJm78hvC2FktiJ0BczmIm"
       },
       "artists": [
         {
-          "name": "Figaro Castello",
-          "url": "https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n"
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
         }
       ],
-      "duration_ms": 247283,
-      "name": "Mindful and Free",
-      "url": "https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v"
+      "duration_ms": 332013,
+      "name": "Oceans of Mindfulness",
+      "url": "https://open.spotify.com/track/5MqRAmszGco33DuPYE6WBs"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -891,6 +875,22 @@
       "duration_ms": 581253,
       "name": "Moonlight Saptah",
       "url": "https://open.spotify.com/track/7Ewux0DybgmLssS2HtEfKt"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Sacred Woods",
+        "url": "https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm"
+      },
+      "artists": [
+        {
+          "name": "Figaro Castello",
+          "url": "https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n"
+        }
+      ],
+      "duration_ms": 247283,
+      "name": "Mindful and Free",
+      "url": "https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "All Is Forgiven",
-        "url": "https://open.spotify.com/album/6iAissytkJ7K7MBYLO25n3"
-      },
-      "artists": [
-        {
-          "name": "Ashana",
-          "url": "https://open.spotify.com/artist/31LMvrFFvlQQh51k6ZlMIW"
-        }
-      ],
-      "duration_ms": 561146,
-      "name": "Loving Kindness",
-      "url": "https://open.spotify.com/track/3BVhaPjedEZLZYVGpRQVSd"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Zen Music for Relaxation Vol. 1 & 2",
         "url": "https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 126965,
       "name": "Unbroken Flow",
       "url": "https://open.spotify.com/track/7LL5mwQEOD6dpm4Qb0K2rn"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "All Is Forgiven",
+        "url": "https://open.spotify.com/album/6iAissytkJ7K7MBYLO25n3"
+      },
+      "artists": [
+        {
+          "name": "Ashana",
+          "url": "https://open.spotify.com/artist/31LMvrFFvlQQh51k6ZlMIW"
+        }
+      ],
+      "duration_ms": 561146,
+      "name": "Loving Kindness",
+      "url": "https://open.spotify.com/track/3BVhaPjedEZLZYVGpRQVSd"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Meditation & Sleep - Relaxation Sleeping Mindfulness Meditation Music, Relaxing Mind Music for Good Night, Sleeping and Dreaming",
-        "url": "https://open.spotify.com/album/4dGGznVrt12Gg7kTwaMj0G"
-      },
-      "artists": [
-        {
-          "name": "Relaxing Mindfulness Meditation Relaxation Maestro",
-          "url": "https://open.spotify.com/artist/1rpfZOYHHEVUgvQ7D575F9"
-        }
-      ],
-      "duration_ms": 1782177,
-      "name": "Meditation & Sleep",
-      "url": "https://open.spotify.com/track/4pJDWE7OGEfV9xVYFke2Uh"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Surya Namaskar Yoga \u2013 Sun Salutation, Daily Hatha Yoga Positions for Flexibility, Inner Harmony, Self Realization, Restorative Exercises",
         "url": "https://open.spotify.com/album/35ttLwLhafRkRqUs3NdcKu"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 215020,
       "name": "Savasana Yoga",
       "url": "https://open.spotify.com/track/30U8kxFDv8QL8fHKBoImSq"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Meditation & Sleep - Relaxation Sleeping Mindfulness Meditation Music, Relaxing Mind Music for Good Night, Sleeping and Dreaming",
+        "url": "https://open.spotify.com/album/4dGGznVrt12Gg7kTwaMj0G"
+      },
+      "artists": [
+        {
+          "name": "Relaxing Mindfulness Meditation Relaxation Maestro",
+          "url": "https://open.spotify.com/artist/1rpfZOYHHEVUgvQ7D575F9"
+        }
+      ],
+      "duration_ms": 1782177,
+      "name": "Meditation & Sleep",
+      "url": "https://open.spotify.com/track/4pJDWE7OGEfV9xVYFke2Uh"
     },
     {
       "added_at": "2021-06-15 08:38:14",

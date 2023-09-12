@@ -4,7 +4,7 @@
 
 > Perreo con ❤️‍🔥❤️‍🔥❤️‍🔥
 
-391 songs - 21 hr 20 min
+392 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Dudas De Mí](https://open.spotify.com/track/18bYUYFZ43he76OBEQavKH) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Dudas De Mí](https://open.spotify.com/album/3w5McmmXqlY1KWlgSEc3h0) | 2:38 | 2023-04-27 | 2023-06-17 |
 | [DÁKITI](https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [DÁKITI](https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv) | 3:25 | 2022-01-14 |  |
 | [Dónde Estás](https://open.spotify.com/track/16DNJ8y6k97DxuMyV49W7V) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dónde Estás](https://open.spotify.com/album/0ZyvU9dSoBua8NOYnAP0x3) | 2:33 | 2022-03-25 | 2023-07-23 |
+| [Dónde Estás](https://open.spotify.com/track/71nkNlFUY4d9mBvTAyV9ig) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dónde Estás](https://open.spotify.com/album/3uwIRMTeueP92bS46L6d7q) | 2:33 | 2023-09-01 |  |
 | [Dónde Estás \(with Piso 21\) \- Remix](https://open.spotify.com/track/7z0cli6eF13Ew8ARrDgGHJ) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Dónde Estás \(with Piso 21\) \- Remix](https://open.spotify.com/album/2nD6n6u1xVGDXQRyIlLuf9) | 3:03 | 2022-01-14 | 2022-07-18 |
 | [Dónde estás?](https://open.spotify.com/track/7co0Cq8pS4hCTDydkMGHus) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 2:30 | 2022-08-19 | 2022-10-15 |
 | [El Amor](https://open.spotify.com/track/0JJd397XBxYCCgxWNlvU3Z) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [El Patrón del Amor](https://open.spotify.com/album/4VGgExwZF1mxWpiwQfR7MM) | 4:06 | 2023-02-15 | 2023-03-18 |
@@ -248,7 +249,7 @@
 | [Mientes](https://open.spotify.com/track/54CYs2hWvDKfJ1yRp90m0t) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mientes](https://open.spotify.com/album/7LdwY6IIe5RWy8x0hiD8xm) | 3:03 | 2022-03-25 | 2022-04-21 |
 | [Mintiendo](https://open.spotify.com/track/1T1YzsWr4iH6xJKTe0zZEs) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:35 | 2022-12-17 | 2022-12-24 |
 | [Modo Avión](https://open.spotify.com/track/1VtX8lG6ZPzGKHmA7QoLb2) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Modo Avión](https://open.spotify.com/album/20EDuEFS95mc3J2tNZzrF1) | 3:48 | 2022-03-25 | 2022-04-21 |
-| [Monstruo](https://open.spotify.com/track/7eDVXAFMt2EERfXy9i63T1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:55 | 2022-12-17 |  |
+| [Monstruo](https://open.spotify.com/track/7eDVXAFMt2EERfXy9i63T1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:55 | 2022-12-17 | 2023-09-12 |
 | [Monumento \- Remix](https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Monumento \(Remix\)](https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D) | 3:28 | 2022-05-12 | 2023-06-30 |
 | [Morir Juntos](https://open.spotify.com/track/4fIQZb61FlXSRbnGgIBSj8) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Morir Juntos](https://open.spotify.com/album/4bDudL5EN5SzqTJpWs4PTL) | 3:11 | 2022-01-14 | 2022-07-05 |
 | [Morra](https://open.spotify.com/track/31CTDMQUOtkYsNZYuVXQx1) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:52 | 2023-04-07 | 2023-04-15 |

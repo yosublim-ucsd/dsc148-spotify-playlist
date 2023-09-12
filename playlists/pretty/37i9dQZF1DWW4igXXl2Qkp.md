@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:6UIpxj5ggLdOebFVCOxVax">Loe Shimmy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,918 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,006 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 5 | [Quite Frankly \(with Luh Tyler & Trapland Pat\)](https://open.spotify.com/track/6jSC6HQdTrDMobpRciFYvq) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ) | [Bars Mitzvah](https://open.spotify.com/album/77iWKhQsnPv2ceYGWZ4TMS) | 3:00 |
 | 6 | [Roll The Dice](https://open.spotify.com/track/25ZALTr1PymhpJyFwrVlBQ) | [DB.Boutabag](https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr), [Skilla Baby](https://open.spotify.com/artist/6rdws4waDnNJNI2H53ONsJ) | [Shit Talk > Rap](https://open.spotify.com/album/3o79eHmX5lfF1xqG4ulfcK) | 2:54 |
 | 7 | [BRB](https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [BRB](https://open.spotify.com/album/11tIOLXTlQRg1ZJeJrIBJ6) | 1:47 |
-| 8 | [Outside \(Bullet, Bullet\)](https://open.spotify.com/track/3hj1ECnq463KbQqLqx7xRn) | [MillzNdo](https://open.spotify.com/artist/3go091Yx4EqVMs0Q1CzsFq), [Yayaorjb](https://open.spotify.com/artist/33ENRPp3C0UmGaSVAM6MMF), [TeeWhy](https://open.spotify.com/artist/7E90lFBKX8itlcG5khw2iu) | [Outside \(Bullet, Bullet\)](https://open.spotify.com/album/3d8gFJ4BaSHTEEMqFJ2H0L) | 2:53 |
+| 8 | [Outside \(Bullet, Bullet\)](https://open.spotify.com/track/3hj1ECnq463KbQqLqx7xRn) | [MillzNdo](https://open.spotify.com/artist/3go091Yx4EqVMs0Q1CzsFq), [Yayaorjb](https://open.spotify.com/artist/33ENRPp3C0UmGaSVAM6MMF), [Teewhy](https://open.spotify.com/artist/3jmYYY6EAqBfSrMtOiwTv7) | [Outside \(Bullet, Bullet\)](https://open.spotify.com/album/3d8gFJ4BaSHTEEMqFJ2H0L) | 2:53 |
 | 9 | [SUMMER SUPERSTARS](https://open.spotify.com/track/6n72cRmfRz0y8aQxineuze) | [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SUMMER SUPERSTARS](https://open.spotify.com/album/5USNNy8ctbAlFS3PfsHOTy) | 3:33 |
 | 10 | [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 |
 | 11 | [Mvplayer](https://open.spotify.com/track/2QFIFt26FE9F96zrrHKkej) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Head Coach](https://open.spotify.com/album/6VNky4zU67Xm2GyhLRBjke) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [HNL](https://open.spotify.com/track/0zxpRRpS5SZQyiTW3sP2Tk) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [HNL](https://open.spotify.com/album/7vsrshJJAAW5AQJDcRo6Jx) | 2:22 |
 | 75 | [Love Language](https://open.spotify.com/track/5fNgz0GbFBXhz4RoBNTnQB) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Love Language](https://open.spotify.com/album/0YYIIcjmHW3mtiVaLStpOD) | 2:07 |
 
-Snapshot ID: `MCxlZDA0OTU1ZjhkNGQ4NDBmN2M4ZTE3NTliNDAzYzY2NzU3YzQ1MDNj`
+Snapshot ID: `MCxlOTI1MmFiNmM2Nzk5N2U4MGEyMzc2MTllN2RiZGZjZTA2YjIxMzdk`

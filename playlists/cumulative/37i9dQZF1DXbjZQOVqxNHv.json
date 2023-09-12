@@ -536,7 +536,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 279973,
       "name": "All Is Full of Love (Secondotted)",
       "url": "https://open.spotify.com/track/7ICMCUEZG6wOMjr263QEd0"
@@ -6200,6 +6200,24 @@
       "duration_ms": 63733,
       "name": "Parachute Panador",
       "url": "https://open.spotify.com/track/1pNpt53PZPet9dvJN3RKGr"
+    },
+    {
+      "album": {
+        "name": "Everything She Touched Turned Ampexian",
+        "url": "https://open.spotify.com/album/5smZNET5iEsOgS9LnOcIPh"
+      },
+      "artists": [
+        {
+          "name": "Prefuse 73",
+          "url": "https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63733,
+      "name": "Parachute Panador",
+      "url": "https://open.spotify.com/track/3WvpcLcTMk344OqINr7OkR"
     },
     {
       "album": {

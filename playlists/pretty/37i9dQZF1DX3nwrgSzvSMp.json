@@ -1,12 +1,12 @@
 {
   "description": "Un viaje musical por nuestras ra\u00edces prehisp\u00e1nicas. ",
-  "num_followers": 5911,
+  "num_followers": 5925,
   "original_name": "Pueblos Ind\u00edgenas: Legado Musical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWQ2ZWQ4M2JhMGQyOGQzYjJlZDY1NzExMTMxZTdjMzY4MjRmYzQ3",
+  "snapshot_id": "MCwyYjYxN2E2MzQ4YmUzNzQ4MWQ2NjhjZTE2MmZlMTNlYjk2OThhODlk",
   "tracks": [
     {
       "added_at": "2021-09-09 23:30:28",
@@ -139,8 +139,8 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Mayan Ancestral Music - Healing Music for Mother Earth",
-        "url": "https://open.spotify.com/album/6YpTpAN3KbWcbR5YpQA4Hq"
+        "name": "Codex - Music of Ancient Mexico",
+        "url": "https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
         }
       ],
-      "duration_ms": 412666,
-      "name": "Birth Song for Quetzalcoatl",
-      "url": "https://open.spotify.com/track/0xgWLuVQAYsBIvyH0HLACj"
+      "duration_ms": 227346,
+      "name": "Nightingale. Music for the Moon and Stars.",
+      "url": "https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
+        "name": "M\u00fasica Prehisp\u00e1nica",
+        "url": "https://open.spotify.com/album/3L77fvfVOeXewbthEeBA6Z"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "The New Fire",
+      "url": "https://open.spotify.com/track/0lKCvq7aFDYWU61XdATG3Z"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
         "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
         "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
       },
@@ -235,8 +251,8 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Codex - Music of Ancient Mexico",
-        "url": "https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl"
+        "name": "Mayan Ancestral Music - Healing Music for Mother Earth",
+        "url": "https://open.spotify.com/album/6YpTpAN3KbWcbR5YpQA4Hq"
       },
       "artists": [
         {
@@ -244,25 +260,9 @@
           "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
         }
       ],
-      "duration_ms": 227346,
-      "name": "Nightingale. Music for the Moon and Stars.",
-      "url": "https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "M\u00fasica Prehisp\u00e1nica",
-        "url": "https://open.spotify.com/album/3L77fvfVOeXewbthEeBA6Z"
-      },
-      "artists": [
-        {
-          "name": "Jorge Reyes",
-          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
-        }
-      ],
-      "duration_ms": 165773,
-      "name": "The New Fire",
-      "url": "https://open.spotify.com/track/0lKCvq7aFDYWU61XdATG3Z"
+      "duration_ms": 412666,
+      "name": "Birth Song for Quetzalcoatl",
+      "url": "https://open.spotify.com/track/0xgWLuVQAYsBIvyH0HLACj"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -319,6 +319,22 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
+        "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
+        "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "duration_ms": 137133,
+      "name": "Adoraci\u00f3n al Sol",
+      "url": "https://open.spotify.com/track/1OcgHJbbOBEUnClHaIcTjf"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
         "name": "Chiapas",
         "url": "https://open.spotify.com/album/2zGxrCmiEv2mCfGFRkDH1g"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 172826,
       "name": "Feast In the Mountain",
       "url": "https://open.spotify.com/track/11sAlVf9tnf4A1JfUuPGas"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
-        "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
-      },
-      "artists": [
-        {
-          "name": "El Pr\u00edncipe Azteca",
-          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
-        }
-      ],
-      "duration_ms": 137133,
-      "name": "Adoraci\u00f3n al Sol",
-      "url": "https://open.spotify.com/track/1OcgHJbbOBEUnClHaIcTjf"
     },
     {
       "added_at": "2021-09-09 23:30:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8?si=nLk6HTtgR\-mSPl4BZ5jJ7g">Vusi Nova</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,563 likes - 56 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,650 likes - 56 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 55 | [Movie](https://open.spotify.com/track/6w96SS19VqUpo8O9B8Hzzc) | [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Fortunator](https://open.spotify.com/artist/6StnELGS6xp40SAbMotvwk), [DJ Gun Do SA](https://open.spotify.com/artist/1RL5BtcTKxdM6Kqq4rdFVz) | [Movie](https://open.spotify.com/album/1AI9XEs70EabkDP1riIY9C) | 4:50 |
 | 56 | [Mama](https://open.spotify.com/track/3kehy52PXs2TZtrIgbjULy) | [Prifix](https://open.spotify.com/artist/5m02wN31BEY64szwkl3TCX) | [New Dawn](https://open.spotify.com/album/7d1hMRTBeeiYAuRn3ot9kG) | 5:29 |
 
-Snapshot ID: `MCw4YjI0OTQ1YmZkZjhmYWViNDVjNmE5NTJlYmRkZjM1OWIwY2JjN2Vm`
+Snapshot ID: `MCxkZTU5NTg5ZGZmMzY2N2I0NWJiY2QwMjIyMDFmYTMwZjdkMGRjNjcw`

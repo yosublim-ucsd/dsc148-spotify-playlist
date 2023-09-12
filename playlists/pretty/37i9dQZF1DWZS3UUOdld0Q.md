@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 
 > Listen to music from and inspired by Neon, an new series coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 208 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 | 54 | [Se Impone Tu Recuerdo](https://open.spotify.com/track/6L72bWVSbwyKnEJ85wYG6b) | [Wilkins](https://open.spotify.com/artist/5Awnuu794580X3uHQGx78O) | [Todo Sabe a Ti](https://open.spotify.com/album/5UJ7WoaFkZZ5t6yNxY9JGI) | 3:19 |
 | 55 | [Los Bo](https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Los Bo](https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD) | 3:59 |
 
-Snapshot ID: `MCxiNTQ1OGMxN2JhYzJkYzY3MTczNTViMTEwMWZiZTY5NWJjNWRjNTU3`
+Snapshot ID: `MCw2ZWI2MTczMzczYTRmNDg3OTQ2YzEzYjcxMzdlOGMwZjgwMGU4NjNk`

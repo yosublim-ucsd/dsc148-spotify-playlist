@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 569240,
+  "num_followers": 570543,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Njc5MTc1NTJiNjdmZTg0NTc5NjhiM2IzNTU1NGU1YzNjN2E0YWUw",
+  "snapshot_id": "MCw4MmIzMWRhY2Q4NGE1ZTk4MjlkYjIyZmZjYjRhZDE1NTFjMGExZjYz",
   "tracks": [
     {
       "added_at": "2023-09-06 17:53:17",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
+        "name": "masquerade",
+        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "masquerade",
+      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
         "name": "Step Back!",
         "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -455,6 +455,30 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
+        "name": "MISA MISA!",
+        "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 85894,
+      "name": "MISA MISA!",
+      "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
         "name": "Shakira!",
         "url": "https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM"
       },
@@ -487,30 +511,6 @@
       "duration_ms": 155054,
       "name": "MARCELINE",
       "url": "https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "MISA MISA!",
-        "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        },
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 85894,
-      "name": "MISA MISA!",
-      "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O"
     },
     {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "The Law of Recognition",
-        "url": "https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB"
-      },
-      "artists": [
-        {
-          "name": "KYSLINGO",
-          "url": "https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO"
-        }
-      ],
-      "duration_ms": 129142,
-      "name": "The Law of Recognition",
-      "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
-    },
-    {
       "added_at": "2023-08-29 17:52:44",
       "album": {
         "name": "POPTHATRUNK",
@@ -611,6 +595,22 @@
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "The Law of Recognition",
+        "url": "https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB"
+      },
+      "artists": [
+        {
+          "name": "KYSLINGO",
+          "url": "https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO"
+        }
+      ],
+      "duration_ms": 129142,
+      "name": "The Law of Recognition",
+      "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "Bunny Girl",
-        "url": "https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Ciscaux",
-          "url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW"
-        }
-      ],
-      "duration_ms": 166896,
-      "name": "Bunny Girl",
-      "url": "https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "Corrupted",
         "url": "https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 213000,
       "name": "2K FREESTYLE",
       "url": "https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "Bunny Girl",
+        "url": "https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Ciscaux",
+          "url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW"
+        }
+      ],
+      "duration_ms": 166896,
+      "name": "Bunny Girl",
+      "url": "https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
+        "name": "Killin' On Demand",
+        "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 129196,
+      "name": "Killin' On Demand",
+      "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
         "name": "Trap Anthem",
         "url": "https://open.spotify.com/album/0RYvZMaunWeYkHDYMLPwhe"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 132790,
       "name": "Trap Anthem",
       "url": "https://open.spotify.com/track/427vwwlrlHy0JZPVt8rzYS"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "Killin' On Demand",
-        "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 129196,
-      "name": "Killin' On Demand",
-      "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
+        "name": "Feeling of Unity",
+        "url": "https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY"
+      },
+      "artists": [
+        {
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
+        }
+      ],
+      "duration_ms": 225546,
+      "name": "Let Me Hear",
+      "url": "https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
         "name": "My Swisher Sweet, But My Sig Sauer",
         "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 226932,
       "name": "My Swisher Sweet, But My Sig Sauer",
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "Feeling of Unity",
-        "url": "https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY"
-      },
-      "artists": [
-        {
-          "name": "Fear, and Loathing in Las Vegas",
-          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
-        }
-      ],
-      "duration_ms": 225546,
-      "name": "Let Me Hear",
-      "url": "https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "Led",
-        "url": "https://open.spotify.com/album/2RIYeR7qaek1c8BNIBsq0a"
-      },
-      "artists": [
-        {
-          "name": "GOTOU\u5bc4\u751f\u7363",
-          "url": "https://open.spotify.com/artist/3lBMiwsMDQZItXes0VxBsJ"
-        },
-        {
-          "name": "OmenXIII",
-          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
-        }
-      ],
-      "duration_ms": 134500,
-      "name": "Led",
-      "url": "https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "paranoia agent",
         "url": "https://open.spotify.com/album/6fLqeT8Z5Vkq84Kfw0o8I7"
       },
@@ -1131,18 +1111,22 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "I'm Toxic",
-        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
+        "name": "Led",
+        "url": "https://open.spotify.com/album/2RIYeR7qaek1c8BNIBsq0a"
       },
       "artists": [
         {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+          "name": "GOTOU\u5bc4\u751f\u7363",
+          "url": "https://open.spotify.com/artist/3lBMiwsMDQZItXes0VxBsJ"
+        },
+        {
+          "name": "OmenXIII",
+          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
         }
       ],
-      "duration_ms": 116323,
-      "name": "I'm Toxic",
-      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
+      "duration_ms": 134500,
+      "name": "Led",
+      "url": "https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1191,6 +1175,22 @@
       "duration_ms": 114666,
       "name": "S1KE",
       "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "I'm Toxic",
+        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 116323,
+      "name": "I'm Toxic",
+      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
+        "name": "Bars No Jutsu",
+        "url": "https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT"
+      },
+      "artists": [
+        {
+          "name": "Louis Capone",
+          "url": "https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu"
+        }
+      ],
+      "duration_ms": 148642,
+      "name": "Bars No Jutsu",
+      "url": "https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
         "name": "SHOTGUN",
         "url": "https://open.spotify.com/album/43lBfkvZuXqe2xX99SE8C4"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 86400,
       "name": "SHOTGUN",
       "url": "https://open.spotify.com/track/6BeQSTkDbEqkTNDPeMDWu3"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "Bars No Jutsu",
-        "url": "https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT"
-      },
-      "artists": [
-        {
-          "name": "Louis Capone",
-          "url": "https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu"
-        }
-      ],
-      "duration_ms": 148642,
-      "name": "Bars No Jutsu",
-      "url": "https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae"
     },
     {
       "added_at": "2023-08-22 17:55:57",

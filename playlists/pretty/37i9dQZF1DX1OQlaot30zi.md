@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Mikush, Villabanks, Paky, Simba La Rue e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,979 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,014 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 21 | [SHQIPE](https://open.spotify.com/track/1EYme7PkP1Knf5oGQkTAkd) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [SHQIPE](https://open.spotify.com/album/2XKtCJv7j9GHjpHZa6kBEL) | 2:21 |
 | 22 | [OH MIO DIO](https://open.spotify.com/track/4oy0YfpS0jl68DD0QBNyzX) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Ago](https://open.spotify.com/artist/6glXq3t35awYBHo1b96imY) | [OH MIO DIO](https://open.spotify.com/album/5zFDxiDnv7dk7xmcwpfjVO) | 1:52 |
 | 23 | [TELLONYM \- Freestyle](https://open.spotify.com/track/5woU7BZ46E68oB5U983HYd) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [TELLONYM \- Freestyle](https://open.spotify.com/album/3MfMEeA6wRIkOt8ML0JbBG) | 2:18 |
-| 24 | [INDELEBILE](https://open.spotify.com/track/1TsR4hMOkIDcACwtmoo7JB) | [GELO](https://open.spotify.com/artist/3gLdJ1hx80k9rHIjp91Qkl), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [INDELEBILE](https://open.spotify.com/album/1VgO7HkRxcqax9zw8ybS72) | 2:49 |
+| 24 | [INDELEBILE](https://open.spotify.com/track/1TsR4hMOkIDcACwtmoo7JB) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [INDELEBILE](https://open.spotify.com/album/1VgO7HkRxcqax9zw8ybS72) | 2:49 |
 | 25 | [RATATA](https://open.spotify.com/track/05n2Sub4M3QV0thT5Hmbm1) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [RATATA](https://open.spotify.com/album/2wr4eGrYA8CzZ2VXUAxrNK) | 2:24 |
 | 26 | [CON ME](https://open.spotify.com/track/7D50Ee3nB9Jm7VgrOrGo4j) | [Falla](https://open.spotify.com/artist/1R8l6a25OprFvt6bvs6rR8) | [CON ME](https://open.spotify.com/album/16NYUBOzjW6mKg4DV6uLtB) | 2:50 |
 | 27 | [Non ci credo](https://open.spotify.com/track/1bRY4AJWG6RE6RORNAhlcd) | [Safe](https://open.spotify.com/artist/0shHMn1Y2nEr1yPdlc0u70) | [Non ci credo](https://open.spotify.com/album/7sadAhWs3ZmzdICWxwVHCm) | 2:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 74 | [POSSESSIVA](https://open.spotify.com/track/4eBr8d1QaWnsiHs9durMSV) | [Marlon](https://open.spotify.com/artist/7M7GtzszIlcS03qCa03oqh), [SEEKER](https://open.spotify.com/artist/0pEzJIVWyMgjuDM44DZ55A), [2nd world](https://open.spotify.com/artist/5WMWuJLN6grX3KQ42wKEZj) | [POSSESSIVA](https://open.spotify.com/album/4ML9hFDI6zrasEmSJX27qE) | 2:59 |
 | 75 | [C VUO](https://open.spotify.com/track/5vpPOHCj3KgQwa8ZuIr5m1) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [C VUO](https://open.spotify.com/album/5JsxOA21rxBnItVyMzXHFk) | 2:42 |
 
-Snapshot ID: `MCxjYWI2NGFhYTI3NDU4MThjZDlhNjU4NDExZjliNWNkODAxOTdmNTI4`
+Snapshot ID: `MCw0MmNlZGI0NzhkZTJhMGNmN2IwODhlMTdjNmQxYTk1MzNjZjViNzU4`

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 30016,
+  "num_followers": 30087,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjExMDNlZDExMDc0Mzk4NTM0NzE1MjJkZjA4MDk5NDc2NmJiNjNi",
+  "snapshot_id": "MCw5OTM2MTE5NjVmYzgxNGNmMDZmZTZiYmFhOTFjOTJlMmE2MmJlZTFl",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -143,18 +143,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6XX",
-        "url": "https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8"
+        "name": "Resident Evil 4 Sound Collection",
+        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
       },
       "artists": [
         {
-          "name": "\u88cf\u8c37\u73b2\u592e",
-          "url": "https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb"
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
         }
       ],
-      "duration_ms": 193920,
-      "name": "\u9280\u7ffc\u306e\u51f6\u661f \u301c \u30d0\u30eb\u30d5\u30a1\u30eb\u30af",
-      "url": "https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k"
+      "duration_ms": 81426,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -171,6 +171,22 @@
       "duration_ms": 319906,
       "name": "\"DEVILS NEVER CRY\"(\u30b9\u30bf\u30c3\u30d5\u30ed\u30fc\u30eb)",
       "url": "https://open.spotify.com/track/3ozivYJGJGq6TSzdy8m64X"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6XX",
+        "url": "https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8"
+      },
+      "artists": [
+        {
+          "name": "\u88cf\u8c37\u73b2\u592e",
+          "url": "https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "\u9280\u7ffc\u306e\u51f6\u661f \u301c \u30d0\u30eb\u30d5\u30a1\u30eb\u30af",
+      "url": "https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -259,22 +275,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Resident Evil 4 Sound Collection",
-        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 81426,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "MEGA MAN X5 SOUND COLLECTION",
         "url": "https://open.spotify.com/album/1ICLroyqx3t6PnTKlW1ejh"
       },
@@ -303,6 +303,38 @@
       "duration_ms": 252133,
       "name": "Theme of Guile",
       "url": "https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 79173,
+      "name": "Save Theme",
+      "url": "https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
+      },
+      "artists": [
+        {
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
+      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -339,22 +371,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
-      },
-      "artists": [
-        {
-          "name": "Masakazu Sugimori",
-          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
-      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "\u9006\u8ee2\u691c\u4e8b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/2gtH1BW56OyOl68hDJqQgB"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 167093,
       "name": "\u8ffd\u7a76 \u301c\u3064\u304d\u3068\u3081\u305f\u304f\u3066",
       "url": "https://open.spotify.com/track/4FkebXPfFd7uAm919xwFCC"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
-        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 79173,
-      "name": "Save Theme",
-      "url": "https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
-      },
-      "artists": [
-        {
-          "name": "Shusaku Uchiyama",
-          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Ripples in the Calm",
-      "url": "https://open.spotify.com/track/1YkcXwQKOKJEILbvflSe2n"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "MEGA MAN X3 SOUND COLLECTION",
         "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "We are ROCK-MEN!2",
-        "url": "https://open.spotify.com/album/4Xg2Jvqvhurzo6UZtfmwKg"
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
       },
       "artists": [
         {
-          "name": "ROCK-MEN",
-          "url": "https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8"
+          "name": "Shusaku Uchiyama",
+          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
         }
       ],
-      "duration_ms": 233826,
-      "name": "Mega Man 2 / Dr. Wily Stage 1",
-      "url": "https://open.spotify.com/track/2PCurI9hftlXKUtUFSTFX7"
+      "duration_ms": 142853,
+      "name": "Ripples in the Calm",
+      "url": "https://open.spotify.com/track/1YkcXwQKOKJEILbvflSe2n"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -499,34 +483,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+        "name": "We are ROCK-MEN!2",
+        "url": "https://open.spotify.com/album/4Xg2Jvqvhurzo6UZtfmwKg"
       },
       "artists": [
         {
-          "name": "Saori Maeda",
-          "url": "https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm"
+          "name": "ROCK-MEN",
+          "url": "https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8"
         }
       ],
-      "duration_ms": 126280,
-      "name": "Free From Fear",
-      "url": "https://open.spotify.com/track/2Y0NNG4Ty5LCgYNeICfqNq"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "MEGA MAN X3 SOUND COLLECTION",
-        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
-      },
-      "artists": [
-        {
-          "name": "Kinuyo Yamashita",
-          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
-        }
-      ],
-      "duration_ms": 114160,
-      "name": "GRAVITY BEETBOOD STAGE",
-      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
+      "duration_ms": 233826,
+      "name": "Mega Man 2 / Dr. Wily Stage 1",
+      "url": "https://open.spotify.com/track/2PCurI9hftlXKUtUFSTFX7"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -547,6 +515,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Saori Maeda",
+          "url": "https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm"
+        }
+      ],
+      "duration_ms": 126280,
+      "name": "Free From Fear",
+      "url": "https://open.spotify.com/track/2Y0NNG4Ty5LCgYNeICfqNq"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "MEGAMAN ZERO/ZX SOUND BOX",
         "url": "https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 139266,
       "name": "Esperanto",
       "url": "https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "MEGA MAN X3 SOUND COLLECTION",
+        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
+      },
+      "artists": [
+        {
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
+        }
+      ],
+      "duration_ms": 114160,
+      "name": "GRAVITY BEETBOOD STAGE",
+      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -679,38 +679,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "SENGOKU BASARA 15th Anniversary BEST",
-        "url": "https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB"
-      },
-      "artists": [
-        {
-          "name": "CHAMY.Ishi",
-          "url": "https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw"
-        }
-      ],
-      "duration_ms": 117460,
-      "name": "SENGOKU BASARA",
-      "url": "https://open.spotify.com/track/32NJz13iQTkQaPIWaGjSd6"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u30d5\u30ed\u30f3\u30c6\u30a3\u30a2G \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/5V9SaJ7QjH2Gq56Yt8HpXE"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Fukasawa",
-          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
-        }
-      ],
-      "duration_ms": 334800,
-      "name": "\u66b4\u7802\u306e\u5de8\u57ce/\u30aa\u30c7\u30a3\u30d0\u30c8\u30e9\u30b9",
-      "url": "https://open.spotify.com/track/1Tc7rnUznYbFfyGZOPVnLJ"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "E.X.TROOPERS - END OF CONVERSATION",
         "url": "https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F"
       },
@@ -731,6 +699,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "SENGOKU BASARA 15th Anniversary BEST",
+        "url": "https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB"
+      },
+      "artists": [
+        {
+          "name": "CHAMY.Ishi",
+          "url": "https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw"
+        }
+      ],
+      "duration_ms": 117460,
+      "name": "SENGOKU BASARA",
+      "url": "https://open.spotify.com/track/32NJz13iQTkQaPIWaGjSd6"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u30ed\u30c3\u30af\u30de\u30f3 \u30e6\u30fc\u30c8\u30d4\u30a2",
         "url": "https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 265800,
       "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30a2\u30f3\u30b3\u30fc\u30eb (\u30ed\u30c3\u30af\u30de\u30f32\u30e1\u30c9\u30ec\u30fc)",
       "url": "https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u30d5\u30ed\u30f3\u30c6\u30a3\u30a2G \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5V9SaJ7QjH2Gq56Yt8HpXE"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Fukasawa",
+          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
+        }
+      ],
+      "duration_ms": 334800,
+      "name": "\u66b4\u7802\u306e\u5de8\u57ce/\u30aa\u30c7\u30a3\u30d0\u30c8\u30e9\u30b9",
+      "url": "https://open.spotify.com/track/1Tc7rnUznYbFfyGZOPVnLJ"
     },
     {
       "added_at": "2021-06-30 15:18:23",

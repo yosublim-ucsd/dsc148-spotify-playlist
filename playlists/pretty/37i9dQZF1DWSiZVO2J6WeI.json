@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 776075,
+  "num_followers": 776132,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWQ0Zjc3MGNiZWVkMjQ2NTU1ZGE4OGE5MWEzMDYwNmVlYTY0OTk1",
+  "snapshot_id": "MCxhYjYxNjA0MjRhMDM2YzcyY2I2OWFiZjBiZWJkMzU2YWRjODMyY2U3",
   "tracks": [
     {
       "added_at": "2023-08-24 15:10:34",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Midnight Relief",
-        "url": "https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A"
-      },
-      "artists": [
-        {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
-        }
-      ],
-      "duration_ms": 186060,
-      "name": "Midnight Relief",
-      "url": "https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Mane Fluctus",
         "url": "https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 158529,
       "name": "Lux Mane",
       "url": "https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Midnight Relief",
+        "url": "https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 186060,
+      "name": "Midnight Relief",
+      "url": "https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Silk Under Rain",
-        "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
-      },
-      "artists": [
-        {
-          "name": "Mari Cafferty",
-          "url": "https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lively Bluebottle",
-      "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Sigur",
         "url": "https://open.spotify.com/album/5cpKYQ6H4dPM4RNArtaR0l"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 176500,
       "name": "Sigur",
       "url": "https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Silk Under Rain",
+        "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
+      },
+      "artists": [
+        {
+          "name": "Mari Cafferty",
+          "url": "https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lively Bluebottle",
+      "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Next to Nothing",
-        "url": "https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp"
-      },
-      "artists": [
-        {
-          "name": "Gaia Rosica",
-          "url": "https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h"
-        }
-      ],
-      "duration_ms": 166678,
-      "name": "Next to Nothing",
-      "url": "https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Ascendent",
         "url": "https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 159250,
       "name": "Stargaze",
       "url": "https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Next to Nothing",
+        "url": "https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp"
+      },
+      "artists": [
+        {
+          "name": "Gaia Rosica",
+          "url": "https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h"
+        }
+      ],
+      "duration_ms": 166678,
+      "name": "Next to Nothing",
+      "url": "https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Desiderio",
-        "url": "https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk"
-      },
-      "artists": [
-        {
-          "name": "Artemio Li Fonti",
-          "url": "https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Desiderio",
-      "url": "https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Evolving",
         "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 194919,
       "name": "Evolving",
       "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Desiderio",
+        "url": "https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk"
+      },
+      "artists": [
+        {
+          "name": "Artemio Li Fonti",
+          "url": "https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Desiderio",
+      "url": "https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy"
-      },
-      "artists": [
-        {
-          "name": "Eriao",
-          "url": "https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "C\u00edes",
         "url": "https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC"
       },
@@ -927,34 +911,18 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Miho no Matsubara",
-        "url": "https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN"
+        "name": "Away",
+        "url": "https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy"
       },
       "artists": [
         {
-          "name": "Miu Hayashi",
-          "url": "https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS"
+          "name": "Eriao",
+          "url": "https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU"
         }
       ],
-      "duration_ms": 173750,
-      "name": "Miho no Matsubara",
-      "url": "https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
-        "name": "Ethereal Spaces Pt 2",
-        "url": "https://open.spotify.com/album/7hET4nANrxoMHd7ysLsdCC"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 490000,
-      "name": "Ethereal Spaces Pt 2",
-      "url": "https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1"
+      "duration_ms": 166000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -975,18 +943,18 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Amulet",
-        "url": "https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl"
+        "name": "Ethereal Spaces Pt 2",
+        "url": "https://open.spotify.com/album/7hET4nANrxoMHd7ysLsdCC"
       },
       "artists": [
         {
-          "name": "Kazuhiro Hotaru",
-          "url": "https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W"
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
         }
       ],
-      "duration_ms": 185780,
-      "name": "Source of Wind",
-      "url": "https://open.spotify.com/track/0T07s204fGJju5AXG66q9T"
+      "duration_ms": 490000,
+      "name": "Ethereal Spaces Pt 2",
+      "url": "https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1007,6 +975,38 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
+        "name": "Amulet",
+        "url": "https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl"
+      },
+      "artists": [
+        {
+          "name": "Kazuhiro Hotaru",
+          "url": "https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W"
+        }
+      ],
+      "duration_ms": 185780,
+      "name": "Source of Wind",
+      "url": "https://open.spotify.com/track/0T07s204fGJju5AXG66q9T"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Miho no Matsubara",
+        "url": "https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN"
+      },
+      "artists": [
+        {
+          "name": "Miu Hayashi",
+          "url": "https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Miho no Matsubara",
+      "url": "https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
         "name": "Painted Illusions",
         "url": "https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Neda",
-        "url": "https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw"
-      },
-      "artists": [
-        {
-          "name": "Xiada",
-          "url": "https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc"
-        }
-      ],
-      "duration_ms": 155426,
-      "name": "Neda",
-      "url": "https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Ich W\u00fcnsche",
         "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 179727,
       "name": "Unendlich",
       "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Neda",
+        "url": "https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw"
+      },
+      "artists": [
+        {
+          "name": "Xiada",
+          "url": "https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc"
+        }
+      ],
+      "duration_ms": 155426,
+      "name": "Neda",
+      "url": "https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Eternalis",
-        "url": "https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx"
-      },
-      "artists": [
-        {
-          "name": "Arctic Pulse",
-          "url": "https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi"
-        }
-      ],
-      "duration_ms": 192038,
-      "name": "Arriving",
-      "url": "https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 213250,
       "name": "Muer",
       "url": "https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Eternalis",
+        "url": "https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx"
+      },
+      "artists": [
+        {
+          "name": "Arctic Pulse",
+          "url": "https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi"
+        }
+      ],
+      "duration_ms": 192038,
+      "name": "Arriving",
+      "url": "https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Jubran's Lake (432hz)",
-        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Jubran's Lake (432hz) - No Ambience",
-      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "What If",
         "url": "https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 181500,
       "name": "396 Hz Peace and Tranquility",
       "url": "https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Jubran's Lake (432hz)",
+        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Jubran's Lake (432hz) - No Ambience",
+      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "New Wings",
-        "url": "https://open.spotify.com/album/0tcXLgBa6sgwaOk9SHnHQl"
-      },
-      "artists": [
-        {
-          "name": "Isac Hadland",
-          "url": "https://open.spotify.com/artist/0B9vzGBy9HZjDXCyD8Vd3n"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "New Wings",
-      "url": "https://open.spotify.com/track/2rawFRlajMpLMK1kD6Uvu0"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 181000,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "New Wings",
+        "url": "https://open.spotify.com/album/0tcXLgBa6sgwaOk9SHnHQl"
+      },
+      "artists": [
+        {
+          "name": "Isac Hadland",
+          "url": "https://open.spotify.com/artist/0B9vzGBy9HZjDXCyD8Vd3n"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "New Wings",
+      "url": "https://open.spotify.com/track/2rawFRlajMpLMK1kD6Uvu0"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Cygnus A",
-        "url": "https://open.spotify.com/album/0D4vISbqnNZPeEl9lEN2Dc"
-      },
-      "artists": [
-        {
-          "name": "Galaxy River",
-          "url": "https://open.spotify.com/artist/368DFiSRV82OfD2QC0HUkC"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Malin 1",
-      "url": "https://open.spotify.com/track/49rlIN0XGY8jRlKgIBKvJe"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Well Spent",
         "url": "https://open.spotify.com/album/0csVx6TAPydWGWXoUpnHO6"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 165517,
       "name": "Well Spent",
       "url": "https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Cygnus A",
+        "url": "https://open.spotify.com/album/0D4vISbqnNZPeEl9lEN2Dc"
+      },
+      "artists": [
+        {
+          "name": "Galaxy River",
+          "url": "https://open.spotify.com/artist/368DFiSRV82OfD2QC0HUkC"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Malin 1",
+      "url": "https://open.spotify.com/track/49rlIN0XGY8jRlKgIBKvJe"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Enlightened",
-        "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Enlightened",
-      "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Incondizionatamente",
         "url": "https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 170624,
       "name": "Incondizionatamente",
       "url": "https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Enlightened",
+        "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Enlightened",
+      "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
     },
     {
       "added_at": "2023-08-24 15:10:34",

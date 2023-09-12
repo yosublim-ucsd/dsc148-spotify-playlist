@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring seye\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,275 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,285 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,25 +32,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 22 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 |
 | 23 | [Maserati](https://open.spotify.com/track/3t0h2OtMpbqVWhrufC416b) | [Duriex](https://open.spotify.com/artist/2UFkq8zMMnNeb6uCXpCGVW) | [Maserati](https://open.spotify.com/album/6ei6hWVQat2jzul7fVIhyc) | 2:20 |
 | 24 | [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 |
-| 25 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
-| 26 | [Mi mundo es green](https://open.spotify.com/track/7t27DBmMV1SFeOwPjqqv0u) | [Alhan](https://open.spotify.com/artist/02QNEBlXtyzZB4ahTYd7NZ) | [Mi mundo es green](https://open.spotify.com/album/1t11RHfmdLRICQsrWoGUar) | 3:42 |
-| 27 | [Quién de los Dos?](https://open.spotify.com/track/1WBGCcudqtHXZnhWrgj4Ux) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3) | [Quién de los Dos?](https://open.spotify.com/album/2mdqWQ24e2vx8qjEq7CbwD) | 3:30 |
-| 28 | [SOL](https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [SOL](https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj) | 2:49 |
+| 25 | [Mi mundo es green](https://open.spotify.com/track/7t27DBmMV1SFeOwPjqqv0u) | [Alhan](https://open.spotify.com/artist/02QNEBlXtyzZB4ahTYd7NZ) | [Mi mundo es green](https://open.spotify.com/album/1t11RHfmdLRICQsrWoGUar) | 3:42 |
+| 26 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
+| 27 | [SOL](https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [SOL](https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj) | 2:49 |
+| 28 | [Quién de los Dos?](https://open.spotify.com/track/1WBGCcudqtHXZnhWrgj4Ux) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3) | [Quién de los Dos?](https://open.spotify.com/album/2mdqWQ24e2vx8qjEq7CbwD) | 3:30 |
 | 29 | [Anónima](https://open.spotify.com/track/3mwhbf8aypMYfjfsIdVw5B) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Anónima](https://open.spotify.com/album/3AOroc2h1q3VAJz7Kbi7R7) | 4:37 |
 | 30 | [Secuela](https://open.spotify.com/track/43XwC379JnUYhLhqVfpIls) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Secuela](https://open.spotify.com/album/6lLNACOJ7QWeOUgKQdGUXP) | 2:42 |
-| 31 | [Estás Aquí](https://open.spotify.com/track/48bK7pREsOWZC7Y8Jl78zu) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [Estás Aquí](https://open.spotify.com/album/7nY3pbZRnpn74B2EjV3c9n) | 3:58 |
-| 32 | [A Oscuras](https://open.spotify.com/track/06y5t4RZDzeTR4oO1FSfFL) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [Ramiro Sagasti](https://open.spotify.com/artist/1Sj0iRkHTI1Z1gNSM7l4Lz) | [La Sed](https://open.spotify.com/album/5yTIFCOtnQYxnqrPFPgx4z) | 4:28 |
-| 33 | [Recordar es detener el tiempo con imágenes que se borran y se inventan](https://open.spotify.com/track/3DCiLbKCJCIIKRrmydjPcW) | [Azain](https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8) | [Recordar es detener el tiempo con imágenes que se borran y se inventan](https://open.spotify.com/album/682yr0r8UvqD52yWJ5Zn08) | 3:17 |
+| 31 | [Recordar es detener el tiempo con imágenes que se borran y se inventan](https://open.spotify.com/track/3DCiLbKCJCIIKRrmydjPcW) | [Azain](https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8) | [Recordar es detener el tiempo con imágenes que se borran y se inventan](https://open.spotify.com/album/682yr0r8UvqD52yWJ5Zn08) | 3:17 |
+| 32 | [Estás Aquí](https://open.spotify.com/track/48bK7pREsOWZC7Y8Jl78zu) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [Estás Aquí](https://open.spotify.com/album/7nY3pbZRnpn74B2EjV3c9n) | 3:58 |
+| 33 | [A Oscuras](https://open.spotify.com/track/06y5t4RZDzeTR4oO1FSfFL) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [Ramiro Sagasti](https://open.spotify.com/artist/1Sj0iRkHTI1Z1gNSM7l4Lz) | [La Sed](https://open.spotify.com/album/5yTIFCOtnQYxnqrPFPgx4z) | 4:28 |
 | 34 | [YANOTAPAMI](https://open.spotify.com/track/5pBgufBR4YzppbObNhZlPv) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Patrick Luna](https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy) | [YANOTAPAMI](https://open.spotify.com/album/1SdTw9lD3L4fKzqyGkYlnt) | 3:07 |
-| 35 | [DTB](https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [DTB](https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU) | 3:05 |
-| 36 | [Cae la noche](https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Cae la noche](https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB) | 4:04 |
+| 35 | [Cae la noche](https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Cae la noche](https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB) | 4:04 |
+| 36 | [DTB](https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [DTB](https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU) | 3:05 |
 | 37 | [MADRID](https://open.spotify.com/track/4HAnXvCFV9RHwrxFmFH1vv) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [MADRID](https://open.spotify.com/album/5Jok2lUjxOPWG2P9G7qHnl) | 4:04 |
 | 38 | [La Fórmula Secreta](https://open.spotify.com/track/5t1JVeRtaLtNHcGkfWywho) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:13 |
 | 39 | [la piedad](https://open.spotify.com/track/4WRT9VV9YcsdMJEFJbHX8J) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [peek!](https://open.spotify.com/album/33BXeFZabK1YWgJCKfGeF8) | 3:38 |
 | 40 | [Te Gusta, Me Gusta](https://open.spotify.com/track/1BZZhlU3Mdab6jIMgM6gu8) | [Neysa Blay](https://open.spotify.com/artist/221r7E6QASURKauguQwGWw) | [Te Gusta, Me Gusta](https://open.spotify.com/album/6NzxWW8X0f5Eye27bOMBWB) | 3:02 |
 | 41 | [Llevo un Vino](https://open.spotify.com/track/7yGKZQrS0WYTyjhKGJnxnE) | [Pels](https://open.spotify.com/artist/2ILYFO9yLlXG5SgjtWxMXZ) | [Un Perro Verde](https://open.spotify.com/album/6zYM7YzVGfLZoQMupKMvys) | 3:41 |
-| 42 | [Surrounds Me](https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [Surrounds Me](https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD) | 2:49 |
-| 43 | [Pulso](https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm) | [Laila Farinola](https://open.spotify.com/artist/7nWb2WA5wQLANBcbqGodwW), [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [Pulso](https://open.spotify.com/album/1h6yv9q7OlvXW62MDGEJLS) | 4:21 |
+| 42 | [Pulso](https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm) | [Laila Farinola](https://open.spotify.com/artist/7nWb2WA5wQLANBcbqGodwW), [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [Pulso](https://open.spotify.com/album/1h6yv9q7OlvXW62MDGEJLS) | 4:21 |
+| 43 | [Surrounds Me](https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [Surrounds Me](https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD) | 2:49 |
 | 44 | [Todo lo que fuimos](https://open.spotify.com/track/3tGInrZripAkRKj8KgruHz) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq) | [0\-800 HOY \(Deluxe\)](https://open.spotify.com/album/17zcfndRvY3EBMYRfqXwED) | 3:08 |
 | 45 | [Exhalarte](https://open.spotify.com/track/0Q4PtIhtlS5lsFuP7qAyqQ) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Exhalarte](https://open.spotify.com/album/2p1JDY337Px8ZRDSxtEWV9) | 3:13 |
 | 46 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Conmigo](https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Conmigo](https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV) | 3:35 |
 | 50 | [R4M3N](https://open.spotify.com/track/30Vs827iqq9MEURBgExhH8) | [RedLivah](https://open.spotify.com/artist/5xIJUBPCV72HC9aUjiNZX8) | [R4M3N](https://open.spotify.com/album/6RxZDazJaN5OdMBxnqZUFp) | 2:01 |
 
-Snapshot ID: `MCw2YzMxZmQyMzc3MjAzYTMzODcyZjhlOTljM2U2N2QwOGQ0YTg4N2Uw`
+Snapshot ID: `MCwyNDFmYjAwYmY3OGExYjA2MzI2NTFjOGVkMmYwZTUzMWEzNTlkZWUy`

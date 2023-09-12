@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-238 songs - 12 hr 47 min
+240 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Diamond Music](https://open.spotify.com/track/7vMYlYEwHJzoty4G6rk1Sy) | [Tim Neumark](https://open.spotify.com/artist/1gMahg1KJ2Jtco7DOfjlwN) | [Biography \- Solo Piano](https://open.spotify.com/album/7bn4mVvun1woWQzt3KtXw2) | 3:51 | 2019-04-17 | 2022-02-05 |
 | [DNA](https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [In The Dark Woods](https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw) | 5:16 | 2019-04-17 | 2022-02-05 |
 | [Doria \- Island Songs VII](https://open.spotify.com/track/4zbGUPGTQglrXIcQR9lZAt) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Island Songs](https://open.spotify.com/album/3ooKjBzYmRKLV4qSccKjiO) | 3:22 | 2019-04-17 | 2022-02-05 |
+| [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 | 2023-09-11 |  |
 | [Ecartele: Less than a Year](https://open.spotify.com/track/5su3HmfnFlFVwnR7Ap2tkU) | [Damian Marhulets](https://open.spotify.com/artist/2bzUwRIvjNRifTD3PgjwJO), [Szymanowski Quartet](https://open.spotify.com/artist/4GkW3hfTCOdalWw1kJOLcD), [Marina Baranova](https://open.spotify.com/artist/01nevKNRkYwwRvEkA2LUQi) | [Ecartele](https://open.spotify.com/album/4y3ypkK6i0hujVdW1eoGbg) | 3:43 | 2019-04-17 | 2022-02-05 |
 | [Embers](https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Embers](https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn) | 2:37 | 2022-02-04 |  |
 | [Embrace Me](https://open.spotify.com/track/4XcCAB5G21D6BZzobQBZMw) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Embrace Me](https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt) | 2:36 | 2023-07-05 |  |
@@ -105,7 +106,7 @@
 | [Home](https://open.spotify.com/track/7eTDwpm5XKKssoMhMbo67y) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Beauty Inside \(Original Film Score\)](https://open.spotify.com/album/0gdEKp8PUuksujg3BpVBiP) | 2:40 | 2019-04-17 | 2022-02-05 |
 | [Hommage](https://open.spotify.com/track/2wlbSliKIPyvsLJUJ62pDH) | [Martin Jacoby](https://open.spotify.com/artist/72qByvYD0AYmKVzM2KzkyF) | [Plexus](https://open.spotify.com/album/6WrQm8DtMHWic57fssjfrx) | 4:39 | 2019-04-17 | 2022-02-05 |
 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 | 2022-02-04 |  |
-| [how we sleep](https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP) | 3:02 | 2022-06-10 |  |
+| [how we sleep](https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP) | 3:02 | 2022-06-10 | 2023-09-12 |
 | [Hurricane](https://open.spotify.com/track/55V1T1cUIWJYJPI77asAat) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Costero](https://open.spotify.com/album/0aZQPebZglo48PyhfElOt1) | 5:31 | 2019-04-17 | 2022-02-05 |
 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 | 2022-02-04 |  |
 | [Illumination](https://open.spotify.com/track/5VyPybbYHpq8gsqP5ulovn) | [Dmitry Evgrafov](https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8) | [Illumination](https://open.spotify.com/album/5Lx6sbhSHFdBfMmP4JxBmi) | 2:32 | 2022-09-20 |  |
@@ -118,6 +119,7 @@
 | [In the morning I'll be with you](https://open.spotify.com/track/5230WkrhnhKfON5eDtxkgI) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC) | [In the morning I'll be with you](https://open.spotify.com/album/78Y71A3EU2xbov3KAtDdEr) | 2:43 | 2019-04-17 | 2022-02-05 |
 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 | 2022-02-04 |  |
 | [Innocence \- From "Free The Mind" Soundtrack](https://open.spotify.com/track/3zxT39EqRCqelkW905AsCA) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Mercy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DV6e43XHzDFXctbjmZ8bT) | 1:10 | 2019-04-17 | 2022-02-05 |
+| [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 | 2023-09-11 |  |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-02-04 |  |
 | [Lately \(Interlude\)](https://open.spotify.com/track/3mZg4qv8X55kolcHiQw2hy) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [FreeDumb](https://open.spotify.com/album/3DgKFCcChPWJrDACBf9Wi4) | 0:56 | 2019-04-17 | 2022-02-05 |
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 | 2022-02-04 |  |
@@ -175,7 +177,7 @@
 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 | 2022-03-04 |  |
 | [Quietly Quietly](https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [Quietly Quietly](https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4) | 3:22 | 2022-02-04 |  |
 | [Quintessence](https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Quintessence](https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI) | 2:24 | 2022-02-18 | 2023-07-06 |
-| [Rain](https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:23 | 2022-02-04 |  |
+| [Rain](https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:23 | 2022-02-04 | 2023-09-12 |
 | [Re](https://open.spotify.com/track/6teNxpsKa9WL8lknJ0b3Gf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Screws](https://open.spotify.com/album/2EaigzcT1RHV3ILasIOfJz) | 3:50 | 2019-04-17 | 2022-02-05 |
 | [Reflections](https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Reflections](https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX) | 1:50 | 2022-07-01 | 2023-08-16 |
 | [Reiu](https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Reiu](https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu) | 2:04 | 2023-08-15 |  |

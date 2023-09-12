@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Yahritza y Su Esencia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,876 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,930 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 13 | [El Corrido De Monterrey](https://open.spotify.com/track/6rCSbemp7ZuaVbyZsJElI5) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/7yUfXtRIpBZK5bggQsQohI), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [El Corrido De Monterrey](https://open.spotify.com/album/6VEhypUcJUnv5JrVDvHebk) | 3:18 |
 | 14 | [Si Quieres Tenerme](https://open.spotify.com/track/4QySH8h00ZPwM179EGNBrU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Si Quieres Tenerme](https://open.spotify.com/album/2D84Tp24QGHfBcqlwkIDoL) | 3:20 |
 | 15 | [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 |
-| 16 | [Viaje Especial](https://open.spotify.com/track/27uKuvKPSWHJ6zyELDth3Q) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Viaje Especial](https://open.spotify.com/album/1m7DcBH5EVLi1wR2eJIlpD) | 3:27 |
+| 16 | [Viaje Espacial](https://open.spotify.com/track/27uKuvKPSWHJ6zyELDth3Q) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Viaje Espacial](https://open.spotify.com/album/1m7DcBH5EVLi1wR2eJIlpD) | 3:27 |
 | 17 | [Ella No Quiero Bato](https://open.spotify.com/track/1KU0kkUgIgLn8Azh1dw9mi) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Ella No Quiere Bato](https://open.spotify.com/album/2E02rxQHMEMZvnpaC6y3Iu) | 2:27 |
 | 18 | [Piensa En Mi](https://open.spotify.com/track/2JSmFHR2FpruHXgF5udA1l) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Piensa En Mi](https://open.spotify.com/album/3QvltqphdmNGv93YoM310C) | 3:24 |
 | 19 | [La Cantina \- Remix](https://open.spotify.com/track/1BLceHxSV6Wx1MRC4gkt3f) | [Hernan Gómez](https://open.spotify.com/artist/0l7EOx40o81pCVpGwizH9I), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Cantina \(Remix\)](https://open.spotify.com/album/5b6smqZoLVbL7loTzYddRp) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Siempre Positivo](https://open.spotify.com/track/445jYn10j2xdbUQ7GGaYkN) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Siempre Positivo](https://open.spotify.com/album/7eEHmzTeNoJWeJ3ZPeFYyV) | 3:29 |
 | 50 | [Qué De Raro Tiene](https://open.spotify.com/track/4yTCWlsJHi4eQLbD5uRmKc) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué De Raro Tiene](https://open.spotify.com/album/1HGDJVqncehIpoJpmUguAC) | 3:11 |
 
-Snapshot ID: `MCxhYzcxNTEwODk1NGM4MzU2MmQ5ZmE1ZWJiNDIzZDI0OWQ3ODUwNjg3`
+Snapshot ID: `MCxiOTRhYmZjZGY2MDg2MjM4NzU5ZGYxNWYxMjc4YjIzZTdmMGViYjI5`

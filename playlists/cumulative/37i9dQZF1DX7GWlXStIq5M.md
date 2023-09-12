@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Lexa, Thiago Pantaleão
 
-539 songs - 1 day 3 hr 48 min
+540 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Desculpa te Ligar](https://open.spotify.com/track/6GuDzz9fKErz0GknIFSzRP) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Todas pra você que me fez sofrer](https://open.spotify.com/album/3LSLhIdXsWmGosIm15nsMn) | 1:56 | 2023-03-31 | 2023-07-29 |
 | [DEZ EM DEZ](https://open.spotify.com/track/7B2R72DIxC8tftZY0eSTcU) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [DEZ EM DEZ](https://open.spotify.com/album/2EvPoH55P6BNg7gn3RFFmE) | 1:57 | 2023-07-21 | 2023-09-09 |
 | [Dia Azul](https://open.spotify.com/track/3SHl55xRIt6VYxifFmqYAi) | [CALI](https://open.spotify.com/artist/58XX830AG7eO98Od1VXwC8) | [Dia Azul](https://open.spotify.com/album/2Webb4pLc4PtWCraYpOOab) | 3:08 | 2023-04-07 | 2023-05-27 |
-| [Dia de Paz](https://open.spotify.com/track/6RwAnu45njj1fG1ml9aRaG) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o), [Blanc Sec](https://open.spotify.com/artist/50IfORdVnvR5MdG57ZhNEF) | [Dia de Paz](https://open.spotify.com/album/4tg21Jv8yIvQZjpr4euznW) | 3:37 | 2023-09-08 |  |
+| [Dia de Paz](https://open.spotify.com/track/6RwAnu45njj1fG1ml9aRaG) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o), [Blanc Sec](https://open.spotify.com/artist/50IfORdVnvR5MdG57ZhNEF) | [Dia de Paz](https://open.spotify.com/album/4tg21Jv8yIvQZjpr4euznW) | 3:37 | 2023-09-08 | 2023-09-12 |
 | [Difícil De Esquecer](https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE) | [Difícil De Esquecer](https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA) | 2:29 | 2023-06-23 | 2023-08-05 |
 | [Digdin](https://open.spotify.com/track/0XWVsGfQMBbvGDYddqP07n) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Fé Na Caminhada](https://open.spotify.com/album/41eYp9Mqs7dmd6Ad9ziR6F) | 2:39 | 2023-08-04 |  |
 | [Direitos Autorais](https://open.spotify.com/track/5Q1eeOx96R2xG6ErEZLKeo) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Direitos Autorais](https://open.spotify.com/album/3W3tNGlAHMISLuM6x8BbOa) | 2:28 | 2023-08-17 | 2023-09-09 |
@@ -367,6 +367,7 @@
 | [perigo !!!](https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [facetime](https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN) | 3:01 | 2023-02-14 | 2023-03-25 |
 | [Pesadona](https://open.spotify.com/track/54z8ZGkUgcpzHkm5Q0DsLL) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Castilhol](https://open.spotify.com/artist/5cM1DddgtQvDn421Wer6dI) | [Pesadona](https://open.spotify.com/album/0ioWJwPJLYgIOsvQ5HUclP) | 2:16 | 2023-06-16 | 2023-07-08 |
 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 | 2023-03-13 |  |
+| [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 | 2023-09-11 |  |
 | [Pipa Voada \(feat\. Emicida\)](https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 | 2020-10-20 | 2023-01-27 |
 | [Plaqtudum](https://open.spotify.com/track/6TLHo63Z3wqHkW6adVeEwZ) | [Recayd Mob](https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [Plaqtudum](https://open.spotify.com/album/7wELyO14kBKEMrimHEOxuW) | 2:55 | 2020-10-20 | 2022-07-28 |
 | [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 | 2023-02-14 | 2023-07-22 |

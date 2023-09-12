@@ -4,7 +4,7 @@
 
 > Uma viagem no tempo através de grandes clássicos do Rock!
 
-50 songs - 2 hr 15 min
+51 songs - 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,9 +45,10 @@
 | [Reet Petite](https://open.spotify.com/track/533NW3XHuW3MjO4vLqY2iV) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 2:42 | 2023-07-21 |  |
 | [Rock Around the Clock](https://open.spotify.com/track/41iti2jnVYqhlxWMcGsDa8) | [Bill Haley](https://open.spotify.com/artist/2XBzvyw3fwtZu4iUz12x0G) | [Las Grandes Leyendas Del Rock, Vol\. 1](https://open.spotify.com/album/2ZNgoadxsSj7Iobb7B1zJq) | 2:12 | 2023-07-21 |  |
 | [Rock'A \- Billy](https://open.spotify.com/track/5jtS8QypkXqhiwFOL46w8D) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [Singin' The Blues](https://open.spotify.com/album/5VyTvjkzmIWhO25EuBc0nO) | 2:10 | 2023-07-21 |  |
-| [Rockin' Robin](https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt) | [Bobby Day](https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj) | [Rockin' Robin](https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y) | 2:40 | 2023-07-21 |  |
+| [Rockin' Robin](https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt) | [Bobby Day](https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj) | [Rockin' Robin](https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y) | 2:40 | 2023-07-21 | 2023-09-12 |
 | [Roll Over Beethoven](https://open.spotify.com/track/6C7aTTCUWRK7dD379yUT3W) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:24 | 2023-07-21 |  |
 | [Shake, Rattle And Roll \- Single Version](https://open.spotify.com/track/2McHF33C9Tx4lfwKBefE4n) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Best Of Bill Haley & His Comets: 20th Century Masters: The Millennium Collection](https://open.spotify.com/album/4pPyO5FgPmrBkmZ76tXXjJ) | 2:31 | 2023-07-21 |  |
+| [Splish Splash](https://open.spotify.com/track/6yVgsfuJMIfJIxQ6bRnOla) | [Charlie Drake](https://open.spotify.com/artist/4wI66rq9yElydiZgNL8lHA) | [Hello My Darlings!](https://open.spotify.com/album/47QlvxKuYDTprR8jVQYuRU) | 2:26 | 2023-07-21 |  |
 | [Stupid Cupid](https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:13 | 2023-07-21 |  |
 | [Summertime Blues](https://open.spotify.com/track/44XGMLszaOWD7k4LsJMcWa) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 2:01 | 2023-07-21 |  |
 | [Sweet Little Sixteen](https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 3:00 | 2023-07-21 |  |

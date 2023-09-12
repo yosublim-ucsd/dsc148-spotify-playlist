@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um?si=Fm\_HvuHsRYGF3SWmRdep9A">Ayrton Day</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,425 likes - 99 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,466 likes - 99 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Aleluya \(Gloria al Rey\) \- Live](https://open.spotify.com/track/4L7IkK1GvTd36H4tOBkIIT) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Armando Sánchez](https://open.spotify.com/artist/0u5GpuQQC8Vr2l648shvcC), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Aleluya \(Gloria al Rey\) \[Live\]](https://open.spotify.com/album/1dWPC7jkHgkohBmPz3zwZm) | 5:57 |
 | 99 | [Norte](https://open.spotify.com/track/1ZBdpl8fz2OalbjVcU7gjV) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Norte](https://open.spotify.com/album/1tXUORxELDD7HMsAz4Ns8t) | 8:13 |
 
-Snapshot ID: `MCw1NDY2YTY4Y2JhMDAwYmRkMjA2MGQ4NDRjNGM5NDAyZmRiNmZiMDU0`
+Snapshot ID: `MCwyM2I4ODBjMjhjNTIwZjBiMzAxZDY0NzdjOTRlZGI5ZGRmMTEyYzMw`

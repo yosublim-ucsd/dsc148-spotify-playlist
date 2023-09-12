@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring seye. Updates every Wednesday.",
-  "num_followers": 172275,
+  "num_followers": 172285,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzMxZmQyMzc3MjAzYTMzODcyZjhlOTljM2U2N2QwOGQ0YTg4N2Uw",
+  "snapshot_id": "MCwyNDFmYjAwYmY3OGExYjA2MzI2NTFjOGVkMmYwZTUzMWEzNTlkZWUy",
   "tracks": [
     {
       "added_at": "2023-09-06 04:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "El Rio",
-        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 134884,
-      "name": "El Rio",
-      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Mi mundo es green",
         "url": "https://open.spotify.com/album/1t11RHfmdLRICQsrWoGUar"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Qui\u00e9n de los Dos?",
-        "url": "https://open.spotify.com/album/2mdqWQ24e2vx8qjEq7CbwD"
+        "name": "El Rio",
+        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
       },
       "artists": [
         {
-          "name": "palma",
-          "url": "https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 210190,
-      "name": "Qui\u00e9n de los Dos?",
-      "url": "https://open.spotify.com/track/1WBGCcudqtHXZnhWrgj4Ux"
+      "duration_ms": 134884,
+      "name": "El Rio",
+      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -479,6 +463,22 @@
       "duration_ms": 169000,
       "name": "SOL",
       "url": "https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Qui\u00e9n de los Dos?",
+        "url": "https://open.spotify.com/album/2mdqWQ24e2vx8qjEq7CbwD"
+      },
+      "artists": [
+        {
+          "name": "palma",
+          "url": "https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3"
+        }
+      ],
+      "duration_ms": 210190,
+      "name": "Qui\u00e9n de los Dos?",
+      "url": "https://open.spotify.com/track/1WBGCcudqtHXZnhWrgj4Ux"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
+        "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
+        "url": "https://open.spotify.com/album/682yr0r8UvqD52yWJ5Zn08"
+      },
+      "artists": [
+        {
+          "name": "Azain",
+          "url": "https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8"
+        }
+      ],
+      "duration_ms": 197700,
+      "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
+      "url": "https://open.spotify.com/track/3DCiLbKCJCIIKRrmydjPcW"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
         "name": "Est\u00e1s Aqu\u00ed",
         "url": "https://open.spotify.com/album/7nY3pbZRnpn74B2EjV3c9n"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
-        "url": "https://open.spotify.com/album/682yr0r8UvqD52yWJ5Zn08"
-      },
-      "artists": [
-        {
-          "name": "Azain",
-          "url": "https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8"
-        }
-      ],
-      "duration_ms": 197700,
-      "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
-      "url": "https://open.spotify.com/track/3DCiLbKCJCIIKRrmydjPcW"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "YANOTAPAMI",
         "url": "https://open.spotify.com/album/1SdTw9lD3L4fKzqyGkYlnt"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "DTB",
-        "url": "https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
-        }
-      ],
-      "duration_ms": 185305,
-      "name": "DTB",
-      "url": "https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Cae la noche",
         "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 244144,
       "name": "Cae la noche",
       "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "DTB",
+        "url": "https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
+        }
+      ],
+      "duration_ms": 185305,
+      "name": "DTB",
+      "url": "https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Surrounds Me",
-        "url": "https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD"
-      },
-      "artists": [
-        {
-          "name": "Danny Bonilla",
-          "url": "https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Surrounds Me",
-      "url": "https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Pulso",
         "url": "https://open.spotify.com/album/1h6yv9q7OlvXW62MDGEJLS"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 261019,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Surrounds Me",
+        "url": "https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD"
+      },
+      "artists": [
+        {
+          "name": "Danny Bonilla",
+          "url": "https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Surrounds Me",
+      "url": "https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n"
     },
     {
       "added_at": "2023-09-06 04:00:00",

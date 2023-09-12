@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 
 > Songs for a broken heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,717,328 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,718,074 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 | 79 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 |
 | 80 | [Boyfriend Of The Year \(Sadder\)](https://open.spotify.com/track/07vp6uxlDyqDPhjLWhFbSI) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Boyfriend Of The Year \(Sadder\)](https://open.spotify.com/album/74TSVzcVGWahrH8YahztM2) | 3:21 |
 
-Snapshot ID: `MCwyN2ZkZjRhYzE5OWFjNmI3MTdmYzU5YTNhMWI1NThiZGNjZTY3MDA4`
+Snapshot ID: `MCxhOWIyY2ZiOTIxZDcwMWMwNTdhOWVkZjEzNjIwZGI0ZGNiODc0YjE4`

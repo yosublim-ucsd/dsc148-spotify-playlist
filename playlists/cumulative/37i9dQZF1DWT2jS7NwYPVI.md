@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Teen Jesus and the Jean Teasers
 
-1,767 songs - 3 day 20 hr 57 min
+1,769 songs - 3 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1224,8 +1224,9 @@
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-09-23 | 2022-10-15 |
 | [quicksand](https://open.spotify.com/track/4DCOB50S9PAUQlCW3nPcLA) | [Dead Lakes](https://open.spotify.com/artist/0e14x1G9pTcCmLLzkFDhE0) | [daydreamer](https://open.spotify.com/album/7MMD03ebDqfnFhSSDkCyoF) | 3:51 | 2023-03-31 | 2023-04-15 |
 | [Quitter](https://open.spotify.com/track/3npfbIcnm5abhKJOij4drN) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Quitter](https://open.spotify.com/album/1IKphIpjbnypIId4buiW9y) | 2:27 | 2023-04-14 | 2023-06-03 |
-| [Racecar](https://open.spotify.com/track/61TahHsLdwY2tk3GAT2ZKQ) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Racecar](https://open.spotify.com/album/3czaepL4PjwRRD8v2Gp4Lp) | 3:09 | 2023-08-18 |  |
+| [Racecar](https://open.spotify.com/track/61TahHsLdwY2tk3GAT2ZKQ) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Racecar](https://open.spotify.com/album/3czaepL4PjwRRD8v2Gp4Lp) | 3:09 | 2023-08-18 | 2023-09-12 |
 | [Racecar](https://open.spotify.com/track/76pfVPGA4aLABgTmxIECdy) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Racecar](https://open.spotify.com/album/23hXAexOyAYC7ib8DBqNnu) | 3:09 | 2023-08-11 | 2023-08-20 |
+| [Racecar](https://open.spotify.com/track/7z5B2QlL2XUL0Q0mmScv14) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a), [LOOSEY](https://open.spotify.com/artist/1FoT7J7IGM1b34GNr51VFB) | [BRAND NEW SOUL](https://open.spotify.com/album/1shl6JL6IJcBat7yMjydU5) | 3:09 | 2023-09-08 |  |
 | [Radio Face](https://open.spotify.com/track/6mH2fb0nWB5fZtqnfYDTzi) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl) | [Radio Face](https://open.spotify.com/album/4fQpdEpugotYCRA5BQWnjm) | 3:01 | 2023-01-06 | 2023-01-28 |
 | [Radio Reject](https://open.spotify.com/track/5e2nKdiIRq7bNt8xkhvJhX) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:22 | 2022-11-04 | 2023-02-25 |
 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:50 | 2023-03-10 | 2023-05-13 |
@@ -1651,6 +1652,7 @@
 | [Unlovable](https://open.spotify.com/track/43wZfR5xALfBTKWolvDmya) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Unlovable](https://open.spotify.com/album/3feABk2LYfvJgfSXyjgqU8) | 3:30 | 2022-08-12 | 2022-10-22 |
 | [Unrequitable](https://open.spotify.com/track/5EqKaM925TBDBSEsYaTi9C) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Venus in Love](https://open.spotify.com/album/42CnVADwqa1d1xOAK9GZP2) | 3:15 | 2023-05-12 | 2023-06-17 |
 | [Up Against It](https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Up Against It](https://open.spotify.com/album/5qpNqPxwizc4AKeVjAPPpD) | 3:06 | 2023-01-20 | 2023-02-18 |
+| [Up and Comer](https://open.spotify.com/track/0yMfUaFL7LDT38c648msAM) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Up and Comer](https://open.spotify.com/album/4auUOEEMRz5Uox3n79ip6M) | 3:46 | 2023-09-11 |  |
 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 | 2022-02-18 | 2022-05-20 |
 | [Upside Down](https://open.spotify.com/track/4evQcauyfeqJDYM6RT60Hr) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [Upside Down](https://open.spotify.com/album/2fhkx9t9afX0tBcxNHPjLh) | 2:43 | 2023-08-18 |  |
 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:05 | 2022-10-07 | 2022-11-19 |

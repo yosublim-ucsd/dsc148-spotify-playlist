@@ -2,9 +2,9 @@
 
 ### [Mollywood Gold](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
 
-> Your ultimate playlist for the best in Mollywood!<br/>Cover: Thallumala
+> Your ultimate playlist for the best in Mollywood!<br/>Cover: King of Kotha
 
-145 songs - 9 hr 38 min
+146 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Jil Jil Jil](https://open.spotify.com/track/3DTtRxqlIhnWKW9WjRQnGj) | [Varsha Renjith](https://open.spotify.com/artist/2CJl46UZja5lOhOegAkQRb), [Meera Prakash](https://open.spotify.com/artist/7j6IFEqEjhyCZ7orLZDP8Y) | [Sulaikha Manzil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KEn6h4Pr8FJ3vHyS3DfvH) | 5:36 | 2023-05-15 |  |
 | [Kahla Ain Kahla Ain \(From "Ayisha"\)](https://open.spotify.com/track/3Kjd1qfKSGJP7YAAze71DJ) | [Hajar](https://open.spotify.com/artist/2pdJLLncuaxQzDw9zLjEgQ), [M\. Jayachandran](https://open.spotify.com/artist/67ra8R8hw9NkDyBaJBS2j6), [Dr\. Noora AlMarzooqi](https://open.spotify.com/artist/5s6pgNo3QkWxPG4ly7YPwf) | [Kahla Ain Kahla Ain \(From "Ayisha"\) \- Single](https://open.spotify.com/album/5NaiyWPXcTCS7aKLBKMV1O) | 3:53 | 2022-10-25 | 2022-11-13 |
 | [Kalakkatha](https://open.spotify.com/track/667y08kCQ18lpjvdLK5wQi) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [ANJU BRAMASMI](https://open.spotify.com/artist/2kr25HqZPrVzGq992qkH75) | [Ayyappanum Koshiyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GWt8AypWByLvy3G0oWIAH) | 2:04 | 2022-07-22 |  |
+| [Kalapakkaara \(From "King of Kotha"\)](https://open.spotify.com/track/554RItg5afQv3ODGQMT29x) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Joe Paul](https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t) | [Kalapakkaara \(From "King of Kotha"\)](https://open.spotify.com/album/3Q8tsdSTnGhjJ61mIWkmRf) | 4:11 | 2023-09-11 |  |
 | [Kamini](https://open.spotify.com/track/5sC8JC6dHcEifGMB8xPbbO) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Anugraheethan Antony](https://open.spotify.com/album/2DJyACvp30UFBGAvk9UGmL) | 3:58 | 2022-05-17 |  |
 | [Kannil \- From "Kappela"](https://open.spotify.com/track/6udtQS1L6UDpRnLyN2eKZh) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Kannil \(From "Kappela"\)](https://open.spotify.com/album/23atj8mL091k6v1gRzXYEj) | 3:28 | 2022-05-17 | 2023-02-08 |
 | [Kannil Kannil](https://open.spotify.com/track/380y4r3fjQgSnU8pOZ2qzi) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Sita Ramam \(Malayalam\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1HdSDboFX4pSoZ6pEsjCPl) | 3:52 | 2022-11-07 | 2023-02-03 |

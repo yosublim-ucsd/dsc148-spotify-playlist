@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Aldo",
+        "url": "https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131265,
+      "name": "aldo",
+      "url": "https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst"
+    },
+    {
+      "album": {
         "name": "Alicia",
         "url": "https://open.spotify.com/album/3EKrndHJAeEkQdLkaVqcvR"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 120000,
       "name": "around the corner",
       "url": "https://open.spotify.com/track/1jKd41pjgl4eBBs223STVJ"
@@ -11298,7 +11316,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 99375,
       "name": "Ladron Lover",
       "url": "https://open.spotify.com/track/3XhzJPeuzAEAaZAVKsmkky"
@@ -20391,6 +20409,24 @@
     },
     {
       "album": {
+        "name": "Summer rain",
+        "url": "https://open.spotify.com/album/0pI2S9DzvTZgdWgl2ZgRyZ"
+      },
+      "artists": [
+        {
+          "name": "Mr Argyle",
+          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Summer rain",
+      "url": "https://open.spotify.com/track/7HWM9W8rJ6Hj4sCGecvZCh"
+    },
+    {
+      "album": {
         "name": "lofi cafe",
         "url": "https://open.spotify.com/album/5VFel9xgsCTME5frlsDRPn"
       },
@@ -21804,7 +21840,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 107749,
       "name": "the moment we knew",
       "url": "https://open.spotify.com/track/5aY7IoXvyXqCGAnjgWivlu"
@@ -24458,7 +24494,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 118588,
       "name": "You Up?",
       "url": "https://open.spotify.com/track/3YcM62cCaGGlf25Rr1TujM"

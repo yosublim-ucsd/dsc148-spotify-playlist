@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Shakira",
-  "num_followers": 920303,
+  "num_followers": 920247,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjU0ZjlkN2JlY2M5ZmE3NDdiZmRmNmE3OGMwMmUyYjFjODhhZDkz",
+  "snapshot_id": "MCwyZTg2YmQ5MmRjNzY1ODJlZGY2MGIwYmFjZDg2NTk3ZTZiZTY2MmIy",
   "tracks": [
     {
       "added_at": "2023-09-06 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "DEL\u0130",
-        "url": "https://open.spotify.com/album/6UUYyNcEYx5zaSgjEgqIr9"
-      },
-      "artists": [
-        {
-          "name": "Elanur",
-          "url": "https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1"
-        }
-      ],
-      "duration_ms": 108380,
-      "name": "DEL\u0130",
-      "url": "https://open.spotify.com/track/3dqetJY7RPBoXOC1nv8cX0"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A"
+        "name": "DEL\u0130",
+        "url": "https://open.spotify.com/album/6UUYyNcEYx5zaSgjEgqIr9"
       },
       "artists": [
         {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+          "name": "Elanur",
+          "url": "https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1"
         }
       ],
-      "duration_ms": 155750,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e"
+      "duration_ms": 108380,
+      "name": "DEL\u0130",
+      "url": "https://open.spotify.com/track/3dqetJY7RPBoXOC1nv8cX0"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -443,6 +427,22 @@
       "duration_ms": 180057,
       "name": "MARIA PRZED O\u0141TARZEM",
       "url": "https://open.spotify.com/track/5sobLosz9Iylv99EoX6759"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "No a co",
-        "url": "https://open.spotify.com/album/5V0dLUYIqjDQkVSMvJ6EW3"
-      },
-      "artists": [
-        {
-          "name": "Ewa Farna",
-          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
-        }
-      ],
-      "duration_ms": 163705,
-      "name": "No a co",
-      "url": "https://open.spotify.com/track/5JMz22e5dypbfB5avDjrFy"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "HYPNOTIC",
         "url": "https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 134260,
       "name": "HYPNOTIC",
       "url": "https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "No a co",
+        "url": "https://open.spotify.com/album/5V0dLUYIqjDQkVSMvJ6EW3"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "duration_ms": 163705,
+      "name": "No a co",
+      "url": "https://open.spotify.com/track/5JMz22e5dypbfB5avDjrFy"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Alles Weggegeven",
-        "url": "https://open.spotify.com/album/1Rt0CA8bfzHQbGYGUMplwp"
-      },
-      "artists": [
-        {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        }
-      ],
-      "duration_ms": 245159,
-      "name": "Alles Weggegeven",
-      "url": "https://open.spotify.com/track/25J6xA9QCLjqN2QdTlOGD1"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Mon Coeur",
         "url": "https://open.spotify.com/album/1ryq3HSnSHPVRdJfBArDUF"
       },
@@ -755,34 +739,18 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Amores Pasajeros",
-        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
+        "name": "Alles Weggegeven",
+        "url": "https://open.spotify.com/album/1Rt0CA8bfzHQbGYGUMplwp"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
         }
       ],
-      "duration_ms": 161739,
-      "name": "Belize",
-      "url": "https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
-        "name": "Sweet Memories",
-        "url": "https://open.spotify.com/album/4f9dQRwzon9EU1MNBZpu0f"
-      },
-      "artists": [
-        {
-          "name": "Jolianne",
-          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
-        }
-      ],
-      "duration_ms": 184373,
-      "name": "Sweet Memories",
-      "url": "https://open.spotify.com/track/1xgI05DNppXfcLxCAQkwUB"
+      "duration_ms": 245159,
+      "name": "Alles Weggegeven",
+      "url": "https://open.spotify.com/track/25J6xA9QCLjqN2QdTlOGD1"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -803,6 +771,38 @@
       "duration_ms": 239711,
       "name": "One Nation Under Love",
       "url": "https://open.spotify.com/track/2AoHZl4LY1AppFWiVGtYEO"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Sweet Memories",
+        "url": "https://open.spotify.com/album/4f9dQRwzon9EU1MNBZpu0f"
+      },
+      "artists": [
+        {
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+        }
+      ],
+      "duration_ms": 184373,
+      "name": "Sweet Memories",
+      "url": "https://open.spotify.com/track/1xgI05DNppXfcLxCAQkwUB"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Amores Pasajeros",
+        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Belize",
+      "url": "https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "El Regalito",
-        "url": "https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl"
-      },
-      "artists": [
-        {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
-        }
-      ],
-      "duration_ms": 151444,
-      "name": "El Regalito",
-      "url": "https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Fred",
         "url": "https://open.spotify.com/album/79w4GV92g3rM9bSyjW1sE5"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 201000,
       "name": "Fred",
       "url": "https://open.spotify.com/track/4VoPD81pxeb9OyZRW2iXRm"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "El Regalito",
+        "url": "https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl"
+      },
+      "artists": [
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "El Regalito",
+      "url": "https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -939,6 +939,22 @@
       "duration_ms": 198807,
       "name": "In Over My Head",
       "url": "https://open.spotify.com/track/2ATO6c4e7hdwgOPIt4TU8s"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Ahora Vienes A Llorar",
+        "url": "https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2"
+      },
+      "artists": [
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Ahora Vienes A Llorar",
+      "url": "https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -995,18 +1011,18 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Ahora Vienes A Llorar",
-        "url": "https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2"
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
       },
       "artists": [
         {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
         }
       ],
-      "duration_ms": 182282,
-      "name": "Ahora Vienes A Llorar",
-      "url": "https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1"
+      "duration_ms": 188149,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 159000,
       "name": "NEK\u00cf UGYAN\u00daGY",
       "url": "https://open.spotify.com/track/7jZs5dDDXK5O8zY4ekvogp"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
-      },
-      "artists": [
-        {
-          "name": "Jem Cassar-Daley",
-          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
-        }
-      ],
-      "duration_ms": 188149,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
     },
     {
       "added_at": "2023-09-06 04:00:00",

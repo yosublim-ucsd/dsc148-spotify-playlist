@@ -1,12 +1,12 @@
 {
   "description": "Legendary euro- trance & progressive tracks  from the 90s and 00s.",
-  "num_followers": 169017,
+  "num_followers": 169178,
   "original_name": "Dreamy Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2U3NDlkNmY2ODI1NmE0NWFmNmIxYjA0OTFjMDdjYzYwMTYyNjcw",
+  "snapshot_id": "MCxmNmQ1NTczMDA3Mzg0MGY1NTQ1ZTBjMjE2ZDJjYjE0NjYwNzA3Yzkx",
   "tracks": [
     {
       "added_at": "2022-06-10 12:01:48",
@@ -179,42 +179,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "Produced & Remixed",
-        "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
-      },
-      "artists": [
-        {
-          "name": "Rui Da Silva",
-          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
-        }
-      ],
-      "duration_ms": 515173,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
-        "name": "Greece 2000",
-        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
-      },
-      "artists": [
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        },
-        {
-          "name": "Three Drives",
-          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Greece 2000",
-      "url": "https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "L'Amour Toujours",
         "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
       },
@@ -247,6 +211,42 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "Produced & Remixed",
+        "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
+      },
+      "artists": [
+        {
+          "name": "Rui Da Silva",
+          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
+        }
+      ],
+      "duration_ms": 515173,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
+      },
+      "artists": [
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "Sound & Vision",
-        "url": "https://open.spotify.com/album/5bufgo4oxHsA6FygJvKFFG"
-      },
-      "artists": [
-        {
-          "name": "La Cream",
-          "url": "https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6bzK2GKOYigsZIcjic64pa"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "Caf\u00e9 Del Mar (The Anthems Edits)",
         "url": "https://open.spotify.com/album/0LHBQ8so2kllbgWjfBk7tY"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 229600,
       "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
       "url": "https://open.spotify.com/track/2w9Yfj0FcyKcPCIkzsRSwD"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "Sound & Vision",
+        "url": "https://open.spotify.com/album/5bufgo4oxHsA6FygJvKFFG"
+      },
+      "artists": [
+        {
+          "name": "La Cream",
+          "url": "https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6bzK2GKOYigsZIcjic64pa"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "Sound & Vision",
-        "url": "https://open.spotify.com/album/5bufgo4oxHsA6FygJvKFFG"
-      },
-      "artists": [
-        {
-          "name": "La Cream",
-          "url": "https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1epnoXa2XpGrQXaKxzrfLb"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "LP",
         "url": "https://open.spotify.com/album/7DItYlCOQS3UKW6scIHoDA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 208040,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "Sound & Vision",
+        "url": "https://open.spotify.com/album/5bufgo4oxHsA6FygJvKFFG"
+      },
+      "artists": [
+        {
+          "name": "La Cream",
+          "url": "https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1epnoXa2XpGrQXaKxzrfLb"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "Toca Me",
-        "url": "https://open.spotify.com/album/0rurUxYPrhh8DlTEFcvi4Q"
-      },
-      "artists": [
-        {
-          "name": "Fragma",
-          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
-        }
-      ],
-      "duration_ms": 346466,
-      "name": "Toca Me - Clubmix",
-      "url": "https://open.spotify.com/track/4OGrLEjSTGoc0dSNE49w49"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "At The Rebels Room",
         "url": "https://open.spotify.com/album/153xLyo7yD307pl84VRrFG"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 206053,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0hHvlq1VgIGd2Y6Zclxd5V"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "Toca Me",
+        "url": "https://open.spotify.com/album/0rurUxYPrhh8DlTEFcvi4Q"
+      },
+      "artists": [
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "duration_ms": 346466,
+      "name": "Toca Me - Clubmix",
+      "url": "https://open.spotify.com/track/4OGrLEjSTGoc0dSNE49w49"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -963,22 +963,6 @@
       "duration_ms": 212546,
       "name": "Be Cool - Radio Edit",
       "url": "https://open.spotify.com/track/2Qzq9wJtrEYdWgxXiUFjsP"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
-        "name": "Paradoxx (Special Edition)",
-        "url": "https://open.spotify.com/album/0O4qBIZ7IKKuPzLftLxA92"
-      },
-      "artists": [
-        {
-          "name": "666",
-          "url": "https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr"
-        }
-      ],
-      "duration_ms": 237040,
-      "name": "Paradoxx - Original Album Version",
-      "url": "https://open.spotify.com/track/5qF7pHGeAns5TtLZDMLJ2F"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
+        "name": "Paradoxx (Special Edition)",
+        "url": "https://open.spotify.com/album/0O4qBIZ7IKKuPzLftLxA92"
+      },
+      "artists": [
+        {
+          "name": "666",
+          "url": "https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr"
+        }
+      ],
+      "duration_ms": 237040,
+      "name": "Paradoxx - Original Album Version",
+      "url": "https://open.spotify.com/track/5qF7pHGeAns5TtLZDMLJ2F"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
         "name": "Another Chance",
         "url": "https://open.spotify.com/album/1KyaCwJ2Hcz1M5g7qQcmue"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "50 Best Trance Hits Ever",
-        "url": "https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW"
-      },
-      "artists": [
-        {
-          "name": "Out Of Grace",
-          "url": "https://open.spotify.com/artist/1K1PVQs3jikxllrn5lS9Xi"
-        }
-      ],
-      "duration_ms": 206140,
-      "name": "Anglia",
-      "url": "https://open.spotify.com/track/1x6L3Khb0mdYrT7WP0mp05"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "The Xpander E.P.",
         "url": "https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 690373,
       "name": "Xpander",
       "url": "https://open.spotify.com/track/76mh0rcSJpNhoCCqazptWm"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "50 Best Trance Hits Ever",
+        "url": "https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW"
+      },
+      "artists": [
+        {
+          "name": "Out Of Grace",
+          "url": "https://open.spotify.com/artist/1K1PVQs3jikxllrn5lS9Xi"
+        }
+      ],
+      "duration_ms": 206140,
+      "name": "Anglia",
+      "url": "https://open.spotify.com/track/1x6L3Khb0mdYrT7WP0mp05"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "Perfect World",
-        "url": "https://open.spotify.com/album/7qcPuZtuCMxMwJLKeZZZlc"
-      },
-      "artists": [
-        {
-          "name": "Richi M.",
-          "url": "https://open.spotify.com/artist/2ebMpthf4U0DaF5G82G92b"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "Perfect World - Richi's Single Version",
-      "url": "https://open.spotify.com/track/1QhpilbZHay4zqXmx5TGS1"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "The Anthem 2002",
         "url": "https://open.spotify.com/album/088t7VuRO6VQFSgogK23rk"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 173133,
       "name": "The Anthem 2002 - Radio Edit",
       "url": "https://open.spotify.com/track/24ojHsvYBzAkhcL25yJqY3"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/7qcPuZtuCMxMwJLKeZZZlc"
+      },
+      "artists": [
+        {
+          "name": "Richi M.",
+          "url": "https://open.spotify.com/artist/2ebMpthf4U0DaF5G82G92b"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "Perfect World - Richi's Single Version",
+      "url": "https://open.spotify.com/track/1QhpilbZHay4zqXmx5TGS1"
     },
     {
       "added_at": "2022-06-10 12:01:48",

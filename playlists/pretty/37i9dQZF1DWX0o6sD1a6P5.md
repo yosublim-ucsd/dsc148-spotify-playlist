@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Jungeli
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,935 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,278 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Bloqué \- Tableau n°2](https://open.spotify.com/track/1xD2uyZqKFAtP4sFb5azYt) | [Dr\. Yaro & La Folie](https://open.spotify.com/artist/7lR8WBYvyK9iTHuv5HwUpe) | [Bloqué \(Tableau n°2\)](https://open.spotify.com/album/5ZBphS1rQyDJgijNZWAjqr) | 2:32 |
 | 50 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 
-Snapshot ID: `MCxhNjQ0Y2UyNGUwODlhNWE3NTg5ZTQ1ZmE0OTk1ODkwYjAzZjIzNzVm`
+Snapshot ID: `MCxkMjUyNDNiZTI3YWE0YmQ4OTYyNTZmMDVlMjczZjBhZDdmMmJmNzg0`

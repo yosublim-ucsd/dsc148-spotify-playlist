@@ -5192,10 +5192,28 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-12",
       "duration_ms": 140726,
       "name": "WATCH YO STEP",
       "url": "https://open.spotify.com/track/3BaUHlNriR6sfHBasJ6ssZ"
+    },
+    {
+      "album": {
+        "name": "PUNK TACTICS",
+        "url": "https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140726,
+      "name": "WATCH YO STEP",
+      "url": "https://open.spotify.com/track/5k3Hpt2vvj4gRL5ORwJFsm"
     },
     {
       "album": {
