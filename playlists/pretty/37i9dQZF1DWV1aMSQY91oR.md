@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: A Boogie Wit Da Hoodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,627 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,642 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Missy Elliott](https://open.spotify.com/track/7GJDF5t0khjWjisyzc7vcc) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Missy Elliott](https://open.spotify.com/album/3OrrFK9Yvfewlle3b8ETsA) | 2:07 |
 | 50 | [Wizardry \(feat\. TriState\)](https://open.spotify.com/track/2OfPxzSe8hh277FG2CD47K) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE), [Planet Asia](https://open.spotify.com/artist/7dGfoIWAb0h9eGpl3vEkVo), [Tri\-State](https://open.spotify.com/artist/01Hb5Bz8ljvh8LE8EjRkhP) | [Sardines](https://open.spotify.com/album/7Dy3CVigHGifPEHkAbMbaD) | 3:32 |
 
-Snapshot ID: `MCxkNDdjYmRmMjk5ODY3NjQxYzNlNWM2YTUxZWZhY2Y3MWFmNzgzNWUz`
+Snapshot ID: `MCwzODllZjk4MzExNjIyZjQzOGM1NjA3ZDQ2ODY4ZWY5MTRlNDMxYjc2`

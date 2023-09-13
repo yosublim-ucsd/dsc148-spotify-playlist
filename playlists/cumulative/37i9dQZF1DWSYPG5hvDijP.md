@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-146 songs - 8 hr 0 min
+147 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [BADNAAM](https://open.spotify.com/track/3KDD0ynijMr5VaJGxxUk92) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:52 | 2023-03-29 |  |
 | [Banger Pro Max](https://open.spotify.com/track/60HDV0rmiKQ9ZriK4PHdos) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Banger Pro Max](https://open.spotify.com/album/0sOjlH4Z8glH3OzQItLZjk) | 2:36 | 2023-03-29 | 2023-07-21 |
 | [Bas Ke Bahar](https://open.spotify.com/track/6p6HR5HKDBLqiT4jH4dMpu) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Bas Ke Bahar](https://open.spotify.com/album/4LuJ0yiuHkZyGo5RjbE6jW) | 3:09 | 2023-03-29 | 2023-04-17 |
+| [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-12 |  |
 | [Beast Mode](https://open.spotify.com/track/5zNASHCNyoKgVoPN1Rq9HI) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Beast Mode](https://open.spotify.com/album/2Nl4A1lvPTUWluWq80vjjy) | 2:34 | 2023-04-28 |  |
 | [Bevda Freestyle](https://open.spotify.com/track/63Bssbm8a8ZGaXrnCrFD0K) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Bevda Freestyle](https://open.spotify.com/album/3RSQ2zXVBcZdHTjUKdEnug) | 2:14 | 2023-03-29 | 2023-06-02 |
 | [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 | 2023-07-04 |  |

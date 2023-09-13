@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del norte\u00f1o en vivo. Remmy Valenzuela en portada.",
-  "num_followers": 35875,
+  "num_followers": 35934,
   "original_name": "Norte\u00f1o en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzQ4YWQ4OTE2MjE2ZGJiZGJjZGEzY2RjYTExYzU3ZGZmZGQ3YjYx",
+  "snapshot_id": "MCxhMDhlOTYyZThkN2FiM2UxMWM4YjFhZWYwZjMyODY2NmE2ZDRkOWRl",
   "tracks": [
     {
       "added_at": "2023-06-09 19:49:25",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
+        "name": "En Vivo Desde la Paz",
+        "url": "https://open.spotify.com/album/2lytKS4AnSzjNUD00xzA6f"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 458442,
+      "name": "Popurri Boleros Cadetes - En Vivo",
+      "url": "https://open.spotify.com/track/5Lia7C8L7kLH0xQOwOY8pG"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
         "name": "PALOMAZO NORTE\u00d1O (En Vivo Desde El Domo Care)",
         "url": "https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 268282,
       "name": "Ense\u00f1ame a Olvidar (En Vivo Desde El Domo Care)",
       "url": "https://open.spotify.com/track/17NvNZU6xNjXgpFwwGpdhf"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
-        "name": "En Vivo Desde la Paz",
-        "url": "https://open.spotify.com/album/2lytKS4AnSzjNUD00xzA6f"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 458442,
-      "name": "Popurri Boleros Cadetes - En Vivo",
-      "url": "https://open.spotify.com/track/5Lia7C8L7kLH0xQOwOY8pG"
     },
     {
       "added_at": "2023-06-09 19:49:25",

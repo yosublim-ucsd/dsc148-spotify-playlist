@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: The Rolling Stones
 
-4,416 songs - 10 day 10 hr 26 min
+4,417 songs - 10 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,8 @@
 | [Be Happy \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/7zTpZWlzYFkBfDLPXmIatU) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Complete Collapse](https://open.spotify.com/album/1gWJtOk76VzVKiIKp1cCtd) | 3:18 | 2022-10-14 | 2022-10-22 |
 | [Be My Blues](https://open.spotify.com/track/5O8B5mYkwOCEVjV9P3qgy1) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Be My Blues](https://open.spotify.com/album/7aoVRsO2rD7sqDlW5JvWfG) | 3:53 | 2023-06-02 | 2023-06-10 |
 | [Be Someone](https://open.spotify.com/track/3vwVTPchxj7PTXB8PKjF4L) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Be Someone](https://open.spotify.com/album/5RnY0EL3Ywr0QvoWD7GQFD) | 3:50 | 2022-11-11 | 2022-11-19 |
-| [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 | 2023-09-08 |  |
+| [Be That Girl](https://open.spotify.com/track/3ohEnx3hSZfRMA5RRTq7OX) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:56 | 2023-09-08 |  |
+| [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 | 2023-09-08 | 2023-09-13 |
 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 | 2023-05-12 | 2023-05-20 |
 | [Beatin'](https://open.spotify.com/track/5FVFZ5CDMZXqsZhNNe2aZX) | [SCREEEWS](https://open.spotify.com/artist/5CUqscnBkpCR2lOSs8cJyG) | [Beatin'](https://open.spotify.com/album/7E1Qc1TZxgOafd2EBraaJD) | 4:05 | 2021-12-16 | 2022-01-07 |
 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 | 2022-06-30 | 2022-07-09 |

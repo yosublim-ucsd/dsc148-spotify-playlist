@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195674,
+  "num_followers": 195700,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjliNzFkMmQxOTkzZjIxYjZmMzUwMGRiNDhjMWM3YTcxZTU5Mzdi",
+  "snapshot_id": "MCxhMDMyNTA4OTVhODk2YTdkNTgxNjY3MWM2YzMyNjI2YmUyMWQyNmIw",
   "tracks": [
     {
       "added_at": "2023-09-08 22:10:11",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-08 22:10:11",
       "album": {
-        "name": "Sweet Tea",
-        "url": "https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 247957,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr"
-    },
-    {
-      "added_at": "2023-09-08 22:10:11",
-      "album": {
         "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
         "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 183764,
       "name": "Heaven med dig",
       "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
+    },
+    {
+      "added_at": "2023-09-08 22:10:11",
+      "album": {
+        "name": "Sweet Tea",
+        "url": "https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 247957,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr"
     },
     {
       "added_at": "2023-09-08 22:10:11",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-09-08 22:10:11",
       "album": {
+        "name": "FEMININE ENERGY",
+        "url": "https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 171265,
+      "name": "FEMININE ENERGY",
+      "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
+    },
+    {
+      "added_at": "2023-09-08 22:10:11",
+      "album": {
         "name": "Tusen g\u00e5nger om (feat. Newkid)",
         "url": "https://open.spotify.com/album/6MW4cZxYvBtl4ptt5cODZ2"
       },
@@ -1079,6 +1095,42 @@
     {
       "added_at": "2023-09-08 22:10:11",
       "album": {
+        "name": "Vi \u00e4lskar vackert",
+        "url": "https://open.spotify.com/album/0mouZHcfoMeCWzNXq0ZP2z"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "Vi \u00e4lskar vackert",
+      "url": "https://open.spotify.com/track/5qEvvzHzBwv7kLcx5iqhkS"
+    },
+    {
+      "added_at": "2023-09-08 22:10:11",
+      "album": {
+        "name": "Som ett minne blott",
+        "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Som ett minne blott",
+      "url": "https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e"
+    },
+    {
+      "added_at": "2023-09-08 22:10:11",
+      "album": {
         "name": "All My Friends",
         "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
       },
@@ -1111,6 +1163,22 @@
     {
       "added_at": "2023-09-08 22:10:11",
       "album": {
+        "name": "I Feel It In The Wind",
+        "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 213717,
+      "name": "I Feel It In The Wind",
+      "url": "https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg"
+    },
+    {
+      "added_at": "2023-09-08 22:10:11",
+      "album": {
         "name": "Call Me By Your Name",
         "url": "https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO"
       },
@@ -1131,26 +1199,6 @@
     {
       "added_at": "2023-09-08 22:10:11",
       "album": {
-        "name": "Som ett minne blott",
-        "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Som ett minne blott",
-      "url": "https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e"
-    },
-    {
-      "added_at": "2023-09-08 22:10:11",
-      "album": {
         "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
         "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
       },
@@ -1167,22 +1215,6 @@
     {
       "added_at": "2023-09-08 22:10:11",
       "album": {
-        "name": "I Feel It In The Wind",
-        "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 213717,
-      "name": "I Feel It In The Wind",
-      "url": "https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg"
-    },
-    {
-      "added_at": "2023-09-08 22:10:11",
-      "album": {
         "name": "Genom eld (Spotify Singles)",
         "url": "https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n"
       },
@@ -1195,38 +1227,6 @@
       "duration_ms": 166875,
       "name": "Genom eld - Spotify Singles",
       "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
-    },
-    {
-      "added_at": "2023-09-08 22:10:11",
-      "album": {
-        "name": "Vi \u00e4lskar vackert",
-        "url": "https://open.spotify.com/album/0mouZHcfoMeCWzNXq0ZP2z"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "Vi \u00e4lskar vackert",
-      "url": "https://open.spotify.com/track/5qEvvzHzBwv7kLcx5iqhkS"
-    },
-    {
-      "added_at": "2023-09-08 22:10:11",
-      "album": {
-        "name": "FEMININE ENERGY",
-        "url": "https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 171265,
-      "name": "FEMININE ENERGY",
-      "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
     },
     {
       "added_at": "2023-09-08 22:10:11",
@@ -1259,22 +1259,6 @@
       "duration_ms": 192970,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6"
-    },
-    {
-      "added_at": "2023-09-08 22:10:11",
-      "album": {
-        "name": "She Fell In Love In The Summer",
-        "url": "https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 172215,
-      "name": "She Fell In Love In The Summer",
-      "url": "https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv"
     },
     {
       "added_at": "2023-09-08 22:10:11",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2023-09-08 22:10:11",
       "album": {
+        "name": "She Fell In Love In The Summer",
+        "url": "https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 172215,
+      "name": "She Fell In Love In The Summer",
+      "url": "https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv"
+    },
+    {
+      "added_at": "2023-09-08 22:10:11",
+      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-09-08 22:10:11",
       "album": {
-        "name": "LESS",
-        "url": "https://open.spotify.com/album/5W7XuGuj82QHTEBds6DO6X"
+        "name": "Du f\u00f6rtj\u00e4nar det",
+        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
       },
       "artists": [
         {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
         }
       ],
-      "duration_ms": 193565,
-      "name": "LESS",
-      "url": "https://open.spotify.com/track/08p0RXW7VhUlAVNmjfRsk9"
+      "duration_ms": 199657,
+      "name": "Du f\u00f6rtj\u00e4nar det",
+      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
     },
     {
       "added_at": "2023-09-08 22:10:11",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-09-08 22:10:11",
       "album": {
-        "name": "Du f\u00f6rtj\u00e4nar det",
-        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
+        "name": "LESS",
+        "url": "https://open.spotify.com/album/5W7XuGuj82QHTEBds6DO6X"
       },
       "artists": [
         {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
         }
       ],
-      "duration_ms": 199657,
-      "name": "Du f\u00f6rtj\u00e4nar det",
-      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
+      "duration_ms": 193565,
+      "name": "LESS",
+      "url": "https://open.spotify.com/track/08p0RXW7VhUlAVNmjfRsk9"
     },
     {
       "added_at": "2023-09-08 22:10:11",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-09-08 22:10:11",
       "album": {
-        "name": "Sun In Her Eyes",
-        "url": "https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 200016,
-      "name": "Sun In Her Eyes",
-      "url": "https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN"
-    },
-    {
-      "added_at": "2023-09-08 22:10:11",
-      "album": {
         "name": "Hatar att du l\u00e4t oss g\u00e5",
         "url": "https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 169178,
       "name": "Hatar att du l\u00e4t oss g\u00e5",
       "url": "https://open.spotify.com/track/7EisBw1WTPVZBFZlO6gYm9"
+    },
+    {
+      "added_at": "2023-09-08 22:10:11",
+      "album": {
+        "name": "Sun In Her Eyes",
+        "url": "https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 200016,
+      "name": "Sun In Her Eyes",
+      "url": "https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN"
     },
     {
       "added_at": "2023-09-08 22:10:11",

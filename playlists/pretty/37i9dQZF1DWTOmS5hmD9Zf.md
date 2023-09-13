@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 
 > Cause I'm a person just like you but I got better things to do.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,472 likes - 105 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,538 likes - 105 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 | 4 | [True Till Death](https://open.spotify.com/track/5lqOhHKw9WzRmPCgY6cBYh) | [Chain Of Strength](https://open.spotify.com/artist/1zLeNHq4M54hoXRnm6n9tM) | [The One Thing That Still Holds True](https://open.spotify.com/album/0hnswSr8phfJBcDFWl7e2K) | 2:23 |
 | 5 | [Fed up!](https://open.spotify.com/track/37zEVfh1UaWVfR0gQsJtOx) | [Judge](https://open.spotify.com/artist/2FjHrXsNltj2EKpHqXgkq9) | [New York Crew](https://open.spotify.com/album/3FQ6iCmtLOjbO9aJXNlSfs) | 1:45 |
 | 6 | [Firestorm](https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Forever True \(1991\-2001\)](https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh) | 3:51 |
-| 7 | [Nailed to the X](https://open.spotify.com/track/5cllHY4a3YCOGM5CRTN3jC) | [Bold](https://open.spotify.com/artist/18TAmMhE82KJZDg3lnrB5r) | [Speak Out](https://open.spotify.com/album/59ZSX3Lhqq3UkaPn8fwUvi) | 2:03 |
+| 7 | [Nailed to the X \- Remastered](https://open.spotify.com/track/5cllHY4a3YCOGM5CRTN3jC) | [Bold](https://open.spotify.com/artist/18TAmMhE82KJZDg3lnrB5r) | [Speak Out \(Remastered\)](https://open.spotify.com/album/59ZSX3Lhqq3UkaPn8fwUvi) | 2:03 |
 | 8 | [Youth Crew](https://open.spotify.com/track/3pU0zhuy1zrJKSZSCMxpaS) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Can't Close My Eyes](https://open.spotify.com/album/1jIewpVSOM4Z0WNk3fnfie) | 2:33 |
 | 9 | [Hold Your Ground](https://open.spotify.com/track/5VxEAEUiym5NWPzgznkflW) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Gorilla Biscuits](https://open.spotify.com/album/0wdSgG5H0SMly5ffNLgANL) | 2:02 |
 | 10 | [Arms Of The Few](https://open.spotify.com/track/5xJQS0UkqrhQIHRXXCVbzW) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [One Truth](https://open.spotify.com/album/4m2MsEhNED3mz5560f6Zug) | 2:09 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 | 24 | [See The Damage](https://open.spotify.com/track/2JkwgQw7Yrl3tVV6V1B7P8) | [Path Of Resistance](https://open.spotify.com/artist/7rwAzWCZf9UexTAHgIeypU) | [Who Dares Wins](https://open.spotify.com/album/0AppmnvZHcZBTHDXl0vLvR) | 2:49 |
 | 25 | [Death Disguised As Salvation](https://open.spotify.com/track/3ra3moWwtFEGzn2TP24bEk) | [Until The End](https://open.spotify.com/artist/4z6EdG9lHbRCFE3Q6FgKxy) | [Blood In the Ink](https://open.spotify.com/album/1twP5Gk7IMmkmqsKWduDqA) | 2:53 |
 | 26 | [Break Down the Walls](https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:04 |
-| 27 | [Wise Up](https://open.spotify.com/track/3yOujepHVT0Gb3QtY8P7Z4) | [Bold](https://open.spotify.com/artist/18TAmMhE82KJZDg3lnrB5r) | [Speak Out](https://open.spotify.com/album/59ZSX3Lhqq3UkaPn8fwUvi) | 2:20 |
+| 27 | [Wise Up \- Remastered](https://open.spotify.com/track/3yOujepHVT0Gb3QtY8P7Z4) | [Bold](https://open.spotify.com/artist/18TAmMhE82KJZDg3lnrB5r) | [Speak Out \(Remastered\)](https://open.spotify.com/album/59ZSX3Lhqq3UkaPn8fwUvi) | 2:20 |
 | 28 | [Still Here](https://open.spotify.com/track/3zJQ6YwttoSKX3iRWj0LAo) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [Nothing To Prove](https://open.spotify.com/album/3H9sm3WSsS3avhblXQeodK) | 1:53 |
 | 29 | [Where I Stand](https://open.spotify.com/track/7HMxHCPOteWGgzlPxqu4xZ) | [Ten Yard Fight](https://open.spotify.com/artist/3SCf9Y2HTbV2LmafwL8EFb) | [Hardcore Pride](https://open.spotify.com/album/0o0RkPPVu3z5cE1WtZt9vS) | 1:37 |
 | 30 | [New Direction](https://open.spotify.com/track/7CdGO6KJg20UAAXl7CW8q6) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:29 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 | 104 | [C.M.F.](https://open.spotify.com/track/5Z8dVMeWUaatSXb42imEgC) | [Minority Unit](https://open.spotify.com/artist/4zr6dHfZKuO0HvwuqexH9y) | [Demo 2011](https://open.spotify.com/album/0fYJXgU3koIgD7MwnkPbsz) | 0:57 |
 | 105 | [First Offense](https://open.spotify.com/track/0erCLOl8aSItDjv57l6PNN) | [Boston Strangler](https://open.spotify.com/artist/0jcLanwiSXfVgAcsY2mPd4) | [Primitive](https://open.spotify.com/album/5WYYfUoh9Gskv6IZ3ownam) | 1:19 |
 
-Snapshot ID: `MCxhNTUxMTFmOGE1NjRkOTViNTMxZTMzMDhmY2RkMzIzNThjODBjNGYw`
+Snapshot ID: `MCwxMGNkYTQwZWUzNGUwNmJkMDNjMmZjZjU1YmZiZWE0NTcxOWVhOTE2`

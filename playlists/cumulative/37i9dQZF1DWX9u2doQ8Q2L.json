@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "A+B=C",
+        "url": "https://open.spotify.com/album/0l7AACwqmbndNL9ALRg05C"
+      },
+      "artists": [
+        {
+          "name": "Maika Loubt\u00e9",
+          "url": "https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "A+B=C",
+      "url": "https://open.spotify.com/track/6SpX6WLTYuw5VYWtXBZVgf"
+    },
+    {
+      "album": {
         "name": "A.O.U",
         "url": "https://open.spotify.com/album/70bw8vjpWZbDxqEBqrOax8"
       },
@@ -850,7 +868,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 176166,
       "name": "apart",
       "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
@@ -3514,7 +3532,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 319422,
       "name": "Eye of the hurricane",
       "url": "https://open.spotify.com/track/6KPVwLMVSWwhxFvJDzMOlJ"
@@ -3586,7 +3604,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 171000,
       "name": "F.N.A.P.",
       "url": "https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l"
@@ -5159,6 +5177,24 @@
     },
     {
       "album": {
+        "name": "Hikari no Machi",
+        "url": "https://open.spotify.com/album/4QgRX4IxQhOEfSUL1LnaPW"
+      },
+      "artists": [
+        {
+          "name": "Shin Rizumu",
+          "url": "https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346923,
+      "name": "Hikari no Machi",
+      "url": "https://open.spotify.com/track/66QFHJUNaD4w22PKw6h6u8"
+    },
+    {
+      "album": {
         "name": "Hikari no Niwa to Sakana no Yume",
         "url": "https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB"
       },
@@ -5653,6 +5689,24 @@
     },
     {
       "album": {
+        "name": "I miss you",
+        "url": "https://open.spotify.com/album/71TBx1zpwtpEloucwkZuTS"
+      },
+      "artists": [
+        {
+          "name": "IN-SIST",
+          "url": "https://open.spotify.com/artist/6XwyDqYyioszjLHLOSt6mt"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256476,
+      "name": "I miss you",
+      "url": "https://open.spotify.com/track/3F1ch9CjkQdaSYIzo5LTf6"
+    },
+    {
+      "album": {
         "name": "I Need U ~\u541b\u306b\u983c\u3063\u3066\u3082\u3044\u3044?~",
         "url": "https://open.spotify.com/album/5R0qqaGPA0rGhpmzehMjOr"
       },
@@ -5816,6 +5870,24 @@
       "duration_ms": 185291,
       "name": "I'm With You",
       "url": "https://open.spotify.com/track/2K4goyAH4A39JmYjS2tTTB"
+    },
+    {
+      "album": {
+        "name": "I.W.S.P",
+        "url": "https://open.spotify.com/album/4ik3vEY9isnVmH3wfdnsfN"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "I.W.S.P",
+      "url": "https://open.spotify.com/track/4JAP7z3MSFFcSiW66Lr9J3"
     },
     {
       "album": {
@@ -6068,7 +6140,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 287000,
       "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
       "url": "https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w"
@@ -6254,7 +6326,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 191867,
       "name": "Joy",
       "url": "https://open.spotify.com/track/4Y8TqlBfP2p4vWxCPrYLzj"
@@ -9841,6 +9913,24 @@
     },
     {
       "album": {
+        "name": "WE'LL DIE THIS WAY",
+        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "PRO",
+      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
+    },
+    {
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn"
       },
@@ -10352,6 +10442,24 @@
       "duration_ms": 274583,
       "name": "REFERENCE - Original Mix",
       "url": "https://open.spotify.com/track/67MF4RXq1oFbZMCVm65Xf3"
+    },
+    {
+      "album": {
+        "name": "Regrets",
+        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265961,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
     },
     {
       "album": {
@@ -10913,6 +11021,28 @@
     },
     {
       "album": {
+        "name": "save my heart",
+        "url": "https://open.spotify.com/album/6xrL5KuTTNMQrJDOOCrtSJ"
+      },
+      "artists": [
+        {
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164310,
+      "name": "save my heart",
+      "url": "https://open.spotify.com/track/3aekc2jvxdSDXGUrwXBbmw"
+    },
+    {
+      "album": {
         "name": "Save Yourself",
         "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
       },
@@ -11080,6 +11210,24 @@
       "duration_ms": 198076,
       "name": "September - Daydream Remix -",
       "url": "https://open.spotify.com/track/3UVNNLapPN64OWvWk3nwD6"
+    },
+    {
+      "album": {
+        "name": "Shady Bitch",
+        "url": "https://open.spotify.com/album/6GSJnk3Xg91cdfBdLFs5Bd"
+      },
+      "artists": [
+        {
+          "name": "FiJA",
+          "url": "https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308495,
+      "name": "Shady Bitch",
+      "url": "https://open.spotify.com/track/6VAnUL6Btt9kSaRKc32HWZ"
     },
     {
       "album": {
@@ -13627,6 +13775,24 @@
     },
     {
       "album": {
+        "name": "trank",
+        "url": "https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177259,
+      "name": "trank",
+      "url": "https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu"
+    },
+    {
+      "album": {
         "name": "Trash into The Sea (re-arranged by JunIzawa)",
         "url": "https://open.spotify.com/album/0jYL5BHGkwG5nss3ajyTO9"
       },
@@ -15448,7 +15614,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 157924,
       "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
       "url": "https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO"
@@ -15680,7 +15846,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 264963,
       "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
       "url": "https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC"
@@ -16300,7 +16466,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 224808,
       "name": "\u30ca\u30a4\u30c8\u30df\u30b9\u30c6\u30a3\u30d1\u30fc\u30af - feat. Kanna Sato",
       "url": "https://open.spotify.com/track/6NKVkUE6NslKKkWXPTmxNc"
@@ -16870,7 +17036,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 357684,
       "name": "\u30ed\u30ad\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/04Yf680EEYr5VJI7APa7Sn"

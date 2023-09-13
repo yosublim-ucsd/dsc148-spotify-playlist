@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 112312,
+  "num_followers": 112361,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmI1ODQ1YTNlYzYyMTczZmYzYTlhNGUyMDNhOTk2OTNlY2Q4NjBi",
+  "snapshot_id": "MCxiZTQ0MmY5YmMwMmNiM2UwNzAzODEyZGY3YzU1NmE2YmFhZDdhODI0",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+        "name": "Dans la seconde",
+        "url": "https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx"
       },
       "artists": [
         {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Sweetpie",
-      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+      "duration_ms": 273000,
+      "name": "L'\u00e9chafaud",
+      "url": "https://open.spotify.com/track/4rfqSbkpuX1LFT0urfeGi8"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Sweetpie",
+      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Petite plage",
         "url": "https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 201557,
       "name": "Tu trembleras encore",
       "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Dans la seconde",
-        "url": "https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx"
-      },
-      "artists": [
-        {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "L'\u00e9chafaud",
-      "url": "https://open.spotify.com/track/4rfqSbkpuX1LFT0urfeGi8"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "La Fin du Monde",
-        "url": "https://open.spotify.com/album/1Mftp1y25xbwPnIVumAo6o"
-      },
-      "artists": [
-        {
-          "name": "Joseph Carr\u00e9",
-          "url": "https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44"
-        }
-      ],
-      "duration_ms": 218532,
-      "name": "La Fin du Monde",
-      "url": "https://open.spotify.com/track/1yvOuYHUOrFWMk3k5dUjvi"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Trait d'union",
         "url": "https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 245250,
       "name": "Trait d'union",
       "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "La Fin du Monde",
+        "url": "https://open.spotify.com/album/1Mftp1y25xbwPnIVumAo6o"
+      },
+      "artists": [
+        {
+          "name": "Joseph Carr\u00e9",
+          "url": "https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44"
+        }
+      ],
+      "duration_ms": 218532,
+      "name": "La Fin du Monde",
+      "url": "https://open.spotify.com/track/1yvOuYHUOrFWMk3k5dUjvi"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Heavy Stone",
-        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
-      },
-      "artists": [
-        {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
-        }
-      ],
-      "duration_ms": 188027,
-      "name": "Heavy Stone",
-      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 215560,
       "name": "L'\u00eele \u00e0 vingt-cinq sous",
       "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Heavy Stone",
+        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "duration_ms": 188027,
+      "name": "Heavy Stone",
+      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Dans la for\u00eat num\u00e9rique",
-        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me Mini\u00e8re",
-          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Nos corps",
-      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Ceci est une esp\u00e8ce aim\u00e9e",
         "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 299320,
       "name": "Morceaux",
       "url": "https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Dans la for\u00eat num\u00e9rique",
+        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Nos corps",
+      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
-      },
-      "artists": [
-        {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
-        }
-      ],
-      "duration_ms": 200005,
-      "name": "Le Tour",
-      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "La nuit est une panth\u00e8re",
         "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 177116,
       "name": "Platane",
       "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "duration_ms": 200005,
+      "name": "Le Tour",
+      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
     },
     {
       "added_at": "2023-09-08 04:01:00",

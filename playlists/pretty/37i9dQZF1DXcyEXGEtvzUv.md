@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap em 2022\. Foto: Dillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,203 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,225 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 49 | [RockNRoll](https://open.spotify.com/track/1Hsxz3THpMGPlUfs6ut8kv) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [CL](https://open.spotify.com/artist/4i1KqPb9iJ51vS7BhXn0U0), [XIXO503](https://open.spotify.com/artist/0jJKdlK7cMSI6YFFCI7khz) | [RockNRoll](https://open.spotify.com/album/41fW2ux0CwJF85Qk183l2c) | 4:03 |
 | 50 | [Apaga o Meu Número](https://open.spotify.com/track/5YSq0fJUZXWeFG5RwCd5F9) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [DOSYE KRI](https://open.spotify.com/album/3m8UQ1Fenv6Tjoobg6QSfP) | 2:56 |
 
-Snapshot ID: `MCxlYmQyZWU3MDJjMjYxMDQ2NmViNTc4NzEzMzkwZDhlYmY2YWM2YTM2`
+Snapshot ID: `MCxmOGU1ZWFlNmVmYzljZTE3MGE2MmZiZDQwZGZjOGU1NWI3NDM0Njc5`

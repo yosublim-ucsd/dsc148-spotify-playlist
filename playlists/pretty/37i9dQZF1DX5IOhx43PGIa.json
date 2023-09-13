@@ -1,12 +1,12 @@
 {
   "description": "Wasia Project takes over Jasmine in celebration of ESEA Month in the UK!",
-  "num_followers": 277128,
+  "num_followers": 277388,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzkxYzIxN2I5MGNiYjU0OTE3ODVmMjkzOWIxMDA2OTc1MjljNzli",
+  "snapshot_id": "MCw3NDlmMWQxYzk3ODI5NTg2YzA3MTc1ZDI1N2NlNjhkZjViM2U0Yzgx",
   "tracks": [
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
+        "name": "Like Me, Like Me",
+        "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Like Me, Like Me",
+      "url": "https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
         "name": "happy im",
         "url": "https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 234736,
       "name": "When We Were Younger (feat. Cavetown)",
       "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
-        "name": "Like Me, Like Me",
-        "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Like Me, Like Me",
-      "url": "https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "House on a Hill",
-        "url": "https://open.spotify.com/album/0h8Vq0ZgnV8W5H3skqwArY"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "House on a Hill",
-      "url": "https://open.spotify.com/track/45j87ToTmijZzMNxtotmXa"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
+        "name": "House on a Hill",
+        "url": "https://open.spotify.com/album/0h8Vq0ZgnV8W5H3skqwArY"
       },
       "artists": [
         {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 201022,
-      "name": "Candlelight - Spotify Singles",
-      "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
+      "duration_ms": 198973,
+      "name": "House on a Hill",
+      "url": "https://open.spotify.com/track/45j87ToTmijZzMNxtotmXa"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1643,50 +1627,18 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Trail Mix Tape",
-        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
         }
       ],
-      "duration_ms": 187850,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
-        "name": "character development",
-        "url": "https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 55133,
-      "name": "walls",
-      "url": "https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
-        "name": "Silly Love Songs",
-        "url": "https://open.spotify.com/album/5FZm6Nj2ulvZCo63obL8rx"
-      },
-      "artists": [
-        {
-          "name": "Jack Kwon",
-          "url": "https://open.spotify.com/artist/1PkM8pZQFryMO4FNSgs3Ld"
-        }
-      ],
-      "duration_ms": 118526,
-      "name": "Silly Love Songs",
-      "url": "https://open.spotify.com/track/6KEF78ngLEdX2lZ1kgiqOZ"
+      "duration_ms": 201022,
+      "name": "Candlelight - Spotify Singles",
+      "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1711,6 +1663,54 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
+        "name": "Trail Mix Tape",
+        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 187850,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "Silly Love Songs",
+        "url": "https://open.spotify.com/album/5FZm6Nj2ulvZCo63obL8rx"
+      },
+      "artists": [
+        {
+          "name": "Jack Kwon",
+          "url": "https://open.spotify.com/artist/1PkM8pZQFryMO4FNSgs3Ld"
+        }
+      ],
+      "duration_ms": 118526,
+      "name": "Silly Love Songs",
+      "url": "https://open.spotify.com/track/6KEF78ngLEdX2lZ1kgiqOZ"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "character development",
+        "url": "https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 55133,
+      "name": "walls",
+      "url": "https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
         "name": "Lovegod",
         "url": "https://open.spotify.com/album/2KEC2u2Q3nhAeXeZb6Ptq7"
       },
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "HATELOVE",
-        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "HATELOVE",
-      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "locket",
         "url": "https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 104850,
       "name": "locket",
       "url": "https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "HATELOVE",
+        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "HATELOVE",
+      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
+        "name": "TENNESSEE",
+        "url": "https://open.spotify.com/album/1FExYW4kwoxuHmCGgRYm8o"
+      },
+      "artists": [
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "TENNESSEE",
+      "url": "https://open.spotify.com/track/2AFwCOahN4s0NlODlXLRFa"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
         "name": "Trigger Warning (feat. Wolftyla & MIYACHI)",
         "url": "https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 151559,
       "name": "Trigger Warning (feat. Wolftyla & MIYACHI)",
       "url": "https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
-        "name": "TENNESSEE",
-        "url": "https://open.spotify.com/album/1FExYW4kwoxuHmCGgRYm8o"
-      },
-      "artists": [
-        {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "TENNESSEE",
-      "url": "https://open.spotify.com/track/2AFwCOahN4s0NlODlXLRFa"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Future Reference",
-        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        },
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 152058,
-      "name": "Care (feat. Bakar)",
-      "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim"
       },
@@ -1999,6 +1979,26 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
+        "name": "Future Reference",
+        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        },
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 152058,
+      "name": "Care (feat. Bakar)",
+      "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
         "name": "see you in hell",
         "url": "https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM"
       },
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "I Just Wanna Know",
-        "url": "https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 144489,
-      "name": "I Just Wanna Know",
-      "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "9 to 5",
         "url": "https://open.spotify.com/album/4dNCzcO3RUpc3aZkIomzVr"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 183774,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/0aLAwhKDqPl7ZtOS9BWElO"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "I Just Wanna Know",
+        "url": "https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "I Just Wanna Know",
+      "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -2111,22 +2111,22 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
-        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
+        "name": "Thinkin Of U",
+        "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
       },
       "artists": [
         {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
         },
         {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
         }
       ],
-      "duration_ms": 218581,
-      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
-      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
+      "duration_ms": 121682,
+      "name": "Thinkin Of U",
+      "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
     }
   ],
   "unique_name": "Jasmine",

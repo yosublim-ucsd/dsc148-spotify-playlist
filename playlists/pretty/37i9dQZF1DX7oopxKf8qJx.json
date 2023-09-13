@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 70757,
+  "num_followers": 70849,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDhhMjU5ODM0Yzk4MWI3NDI1NDRjZjMyMGI3YjBjZGU0ZWZiMjFj",
+  "snapshot_id": "MCxiMWI0MDQ5ZTJhYTk4Njg4NTdhY2U1MTZmNWNiYjA5OWVkYmM3OWJj",
   "tracks": [
     {
       "added_at": "2023-09-01 09:29:43",
@@ -127,22 +127,18 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "The Third Man - Cinema Gala",
-        "url": "https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn"
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
       },
       "artists": [
         {
           "name": "Henry Mancini",
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "Mantovani",
-          "url": "https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Moon River - From \"Breakfast At Tiffanys\"",
-      "url": "https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8"
+      "duration_ms": 207640,
+      "name": "The Summer Knows (From \"Summer of '42\")",
+      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -279,18 +275,22 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
+        "name": "The Third Man - Cinema Gala",
+        "url": "https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn"
       },
       "artists": [
         {
           "name": "Henry Mancini",
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "Mantovani",
+          "url": "https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle"
         }
       ],
-      "duration_ms": 207640,
-      "name": "The Summer Knows (From \"Summer of '42\")",
-      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
+      "duration_ms": 160000,
+      "name": "Moon River - From \"Breakfast At Tiffanys\"",
+      "url": "https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "Paris When It Sizzles",
-        "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
+        "name": "The Piano Legend (Remastered)",
+        "url": "https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Russ Conway",
+          "url": "https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60"
         }
       ],
-      "duration_ms": 166706,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
+      "duration_ms": 203973,
+      "name": "Theme from Picnic - Remastered",
+      "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "The Piano Legend (Remastered)",
-        "url": "https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV"
+        "name": "Paris When It Sizzles",
+        "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
       },
       "artists": [
         {
-          "name": "Russ Conway",
-          "url": "https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60"
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 203973,
-      "name": "Theme from Picnic - Remastered",
-      "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
+      "duration_ms": 166706,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "West of Sunset",
-        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Capri Serenade",
-      "url": "https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB"
-    },
-    {
-      "added_at": "2023-09-01 09:29:43",
-      "album": {
         "name": "Big Band Bash!",
         "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 163400,
       "name": "My Last Affair",
       "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
+    },
+    {
+      "added_at": "2023-09-01 09:29:43",
+      "album": {
+        "name": "West of Sunset",
+        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Capri Serenade",
+      "url": "https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB"
     },
     {
       "added_at": "2023-09-01 09:29:43",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> Bringing in the heat every Thursday\. 🔥 Listen to all the mixtapes <ahref="https://open.spotify.com/genre/0JQ5DAqbMKFNhzOQgaEZ0b">here</a>\. Cover: Cruz Cafuné
+> Bringing in the heat every Thursday\. 🔥 Listen to all the mixtapes <a href="https://open.spotify.com/genre/0JQ5DAqbMKFNhzOQgaEZ0b">here</a>\. Cover: Cruz Cafuné
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,910,855 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,910,937 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [No Dice Na'](https://open.spotify.com/track/1JZ8bH1RCRqepLSR8HLcfr) | [DreamyBaby](https://open.spotify.com/artist/0eoD8oTKamUPrgSKNxRewE) | [CUMPLEAÑOS](https://open.spotify.com/album/4hhZgb0s5TtKFazP2Vo9vr) | 3:48 |
 | 25 | [jukiada](https://open.spotify.com/track/1o069EXYorALqprEPFrjqu) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [jukiada](https://open.spotify.com/album/2mch4cEQ6AiGuDeTfqFr3A) | 3:15 |
 
-Snapshot ID: `MCw1MmQyYmE2NDI2OWQyNzYzZGYyMTE1ZDM0MWU4MmJjYmQxMjRhZWE3`
+Snapshot ID: `MCw4MWVhNWEzNDdkNzE5OTk4YmYyY2E3MDNlNDczYjc1NDA1YzU3ZDE2`

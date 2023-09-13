@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 381456,
+  "num_followers": 381602,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2E5ZWQxY2FkNjg0YjY4NjI3Mjg4MGUyZmNkOGNhMWNlYTJhZTcx",
+  "snapshot_id": "MCwyZmQxYmQ4ODQ5NTg3MzkyZGVkNzA1ZDQ2MTY4NTliYWQ5NTRkZmNm",
   "tracks": [
     {
       "added_at": "2023-09-07 14:00:00",
@@ -251,22 +251,22 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "New Fires",
-        "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
+        "name": "Wishing Well / Cimmerian",
+        "url": "https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
         },
         {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
         }
       ],
-      "duration_ms": 251591,
-      "name": "New Fires",
-      "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
+      "duration_ms": 216198,
+      "name": "Cimmerian",
+      "url": "https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -287,22 +287,22 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Wishing Well / Cimmerian",
-        "url": "https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf"
+        "name": "New Fires",
+        "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         },
         {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
         }
       ],
-      "duration_ms": 216198,
-      "name": "Cimmerian",
-      "url": "https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK"
+      "duration_ms": 251591,
+      "name": "New Fires",
+      "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -775,26 +775,22 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Red Lights (EMBRZ Remix)",
-        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         },
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Red Lights - EMBRZ Remix",
-      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -819,22 +815,26 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+        "name": "Red Lights (EMBRZ Remix)",
+        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         }
       ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+      "duration_ms": 206000,
+      "name": "Red Lights - EMBRZ Remix",
+      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Grapevine",
-        "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 381463,
-      "name": "Grapevine",
-      "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 230163,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "Grapevine",
+        "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 381463,
+      "name": "Grapevine",
+      "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Not Worthy (feat. Nonso Amadi)",
-        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 192208,
-      "name": "Not Worthy (feat. Nonso Amadi)",
-      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
         "name": "Making Time",
         "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
       },
@@ -1215,22 +1195,22 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "All the Good Times Never Die",
-        "url": "https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL"
+        "name": "Not Worthy (feat. Nonso Amadi)",
+        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
         },
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         }
       ],
-      "duration_ms": 188800,
-      "name": "All the Good Times Never Die",
-      "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
+      "duration_ms": 192208,
+      "name": "Not Worthy (feat. Nonso Amadi)",
+      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -1251,6 +1231,26 @@
       "duration_ms": 167009,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "All the Good Times Never Die",
+        "url": "https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        },
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "All the Good Times Never Die",
+      "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
     },
     {
       "added_at": "2023-09-07 14:00:00",

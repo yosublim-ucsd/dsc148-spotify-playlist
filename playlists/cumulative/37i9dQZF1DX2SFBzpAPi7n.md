@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Young K\) \(핫한 국내 록 음악을 만나보세요!\)
 
-524 songs - 1 day 8 hr 13 min
+525 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [HUSH](https://open.spotify.com/track/3ytqIDBXmnKD62m2ezyH5I) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [Won't Forget You](https://open.spotify.com/album/5YAKoVELgEDXMao7RHtft9) | 3:42 | 2022-05-03 | 2022-07-25 |
 | [I AM FINE](https://open.spotify.com/track/3B7f8nNtTeZ2KGwnK2Yc9Q) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [I AM FINE](https://open.spotify.com/album/4e29onVlOB70Pr4fsO7yJX) | 2:47 | 2022-06-18 | 2022-07-26 |
 | [I Don’t Want To Live Without You](https://open.spotify.com/track/0OJmMcuSinPLXoWSb1MOLN) | [The Midnight Romance](https://open.spotify.com/artist/0pBFhZQVWFUZF6ChBiEsBi) | [I Don’t Want To Live Without You](https://open.spotify.com/album/1BzaYuNzCpY49BouMw53KL) | 4:56 | 2022-04-12 | 2022-05-16 |
-| [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 | 2022-05-11 |  |
+| [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 | 2022-05-11 | 2023-09-13 |
 | [I Like You](https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:26 | 2022-10-18 | 2023-01-05 |
 | [I Loved You](https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:54 | 2023-06-13 |  |
 | [I Loved You](https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:54 | 2022-04-22 | 2023-06-07 |
@@ -315,6 +315,7 @@
 | [Pianissimo \- 2022 Remixed Remastered](https://open.spotify.com/track/4bukywaDtuziUGdNOeMK3o) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Rocksteric](https://open.spotify.com/album/3HWyyy6xnbKLRuLv5skOnJ) | 3:49 | 2022-12-26 | 2023-01-03 |
 | [Pigeon 비둘기](https://open.spotify.com/track/33UpKCuBBaqJNkewD79QZN) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Pigeon 비둘기](https://open.spotify.com/album/5ohbhyXCdiKJ6ONWztPqy2) | 3:30 | 2022-04-22 | 2022-07-18 |
 | [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 | 2022-07-22 | 2023-08-01 |
+| [PIRI](https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 3:26 | 2023-09-08 |  |
 | [Pisces](https://open.spotify.com/track/7ix35I3PNAN63JeV7feOG9) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Pisces](https://open.spotify.com/album/2xX2M89Ep7wZGhExNjtMIK) | 3:47 | 2022-05-24 | 2022-07-29 |
 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 | 2022-08-17 | 2022-10-01 |
 | [PLAYLIST](https://open.spotify.com/track/12kMpvtjefa3ocd8BOj3k9) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [PLAYLIST](https://open.spotify.com/album/49v8k8cmufM9Lhz4TkrpcI) | 3:54 | 2022-07-08 | 2022-07-23 |

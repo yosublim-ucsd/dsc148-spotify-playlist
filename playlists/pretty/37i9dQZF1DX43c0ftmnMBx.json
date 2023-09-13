@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 225176,
+  "num_followers": 225295,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjM4NDllZThmOTI4Y2E2NmQ5YWM3MmUzYWY1NDIxYTAwYzFjYWJm",
+  "snapshot_id": "MCxiYTA2YmE4NjFiY2JlNTI0OTUwYmI2NmRiYmRlNmNkYzZkMWExY2Qx",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
+        "name": "Mil historias Edici\u00f3n De Lujo",
+        "url": "https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ"
       },
       "artists": [
         {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
         }
       ],
-      "duration_ms": 239866,
-      "name": "No Tengo Suerte En El Amor",
-      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
+      "duration_ms": 251428,
+      "name": "Estoy Perdido",
+      "url": "https://open.spotify.com/track/5a7AwolGAcBjZgNQDhRrLm"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Mil historias Edici\u00f3n De Lujo",
-        "url": "https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ"
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
       },
       "artists": [
         {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
         }
       ],
-      "duration_ms": 251428,
-      "name": "Estoy Perdido",
-      "url": "https://open.spotify.com/track/5a7AwolGAcBjZgNQDhRrLm"
+      "duration_ms": 239866,
+      "name": "No Tengo Suerte En El Amor",
+      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Llora Alma Mia",
-        "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 261519,
-      "name": "Llora Alma M\u00eda",
-      "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Canciones Inmortales Bachatas",
         "url": "https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 212584,
       "name": "Fecha de Vencimiento",
       "url": "https://open.spotify.com/track/06YEsAMgIA37hKjmdBhmrE"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Llora Alma Mia",
+        "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "duration_ms": 261519,
+      "name": "Llora Alma M\u00eda",
+      "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Morir Solo",
         "url": "https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb"
       },
@@ -1079,18 +1063,34 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
+        "name": "Alma Perdida",
+        "url": "https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "El Varon de la bachata",
+          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
         }
       ],
-      "duration_ms": 372733,
-      "name": "P\u00e9game Tu Vicio",
-      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
+      "duration_ms": 248600,
+      "name": "No Es Brujeria",
+      "url": "https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Alma Perdida",
-        "url": "https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu"
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
       },
       "artists": [
         {
-          "name": "El Varon de la bachata",
-          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 248600,
-      "name": "No Es Brujeria",
-      "url": "https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D"
+      "duration_ms": 372733,
+      "name": "P\u00e9game Tu Vicio",
+      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
     },
     {
       "added_at": "2023-04-27 23:54:49",

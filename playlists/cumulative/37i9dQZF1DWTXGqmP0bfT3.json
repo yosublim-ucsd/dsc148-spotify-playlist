@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 477013,
       "name": "All Nightmare Long",
       "url": "https://open.spotify.com/track/5w3TTTAo6DIEjQYO3vKZq0"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 208226,
       "name": "Angus Mcfife",
       "url": "https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv"
@@ -522,6 +522,24 @@
       "duration_ms": 253346,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk"
+    },
+    {
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257969,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT"
     },
     {
       "album": {
@@ -846,6 +864,24 @@
       "duration_ms": 335093,
       "name": "Curse of Darkness",
       "url": "https://open.spotify.com/track/3LUFvlVXNOm2CAmVF11Xbl"
+    },
+    {
+      "album": {
+        "name": "Cycle Of Hurting",
+        "url": "https://open.spotify.com/album/2VpUANQDj0xi2A57MejBzy"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229636,
+      "name": "Cycle Of Hurting",
+      "url": "https://open.spotify.com/track/4xLGcvIrAtVaN8FYhd6poT"
     },
     {
       "album": {
@@ -1526,7 +1562,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 396736,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa"
@@ -2478,7 +2514,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 167509,
       "name": "Mama Said Knock You Out",
       "url": "https://open.spotify.com/track/0hpTN7rjsTGbfiafU3fEq7"
@@ -2705,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Fatalism",
+        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268269,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
+    },
+    {
+      "album": {
         "name": "Venom (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF"
       },
@@ -2914,7 +2968,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 227866,
       "name": "Over It",
       "url": "https://open.spotify.com/track/7qFlhASAQGN8AQUH5CXB8O"
@@ -3641,6 +3695,28 @@
     },
     {
       "album": {
+        "name": "Take Shape (feat. Billy Corgan)",
+        "url": "https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        },
+        {
+          "name": "Billy Corgan",
+          "url": "https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204226,
+      "name": "Take Shape (feat. Billy Corgan)",
+      "url": "https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4"
+    },
+    {
+      "album": {
         "name": "The Poison",
         "url": "https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM"
       },
@@ -3710,6 +3786,24 @@
       "duration_ms": 230887,
       "name": "The Anomaly",
       "url": "https://open.spotify.com/track/0Bjyo7tRKigcNn29B1aCo2"
+    },
+    {
+      "album": {
+        "name": "The Dirt I'm Buried In",
+        "url": "https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr"
+      },
+      "artists": [
+        {
+          "name": "Avatar",
+          "url": "https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244597,
+      "name": "The Dirt I'm Buried In",
+      "url": "https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6"
     },
     {
       "album": {

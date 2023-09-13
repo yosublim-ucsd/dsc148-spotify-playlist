@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-508 songs - 1 day 4 hr 46 min
+509 songs - 1 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,12 +236,12 @@
 | [Knights](https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68) | [Bazz](https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr) | [Montaime, Vol\. 1](https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP) | 6:09 | 2022-11-04 | 2023-07-05 |
 | [Knights](https://open.spotify.com/track/5aRFAxPWHQRYMNVDFciuP2) | [Bazz](https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr) | [Montaime, Vol\. 1](https://open.spotify.com/album/4GicNIw4wPNv9rxqf9cvHN) | 6:09 | 2022-08-12 | 2022-11-05 |
 | [Kokubu](https://open.spotify.com/track/6DtwXIO6J9eqtrZeFdMyLN) | [Setka](https://open.spotify.com/artist/6zWSsWEezov5znjRLPM3qf), [M A R Iマリくん](https://open.spotify.com/artist/0NZMuRJ9tC39RKj6DtqsjF) | [Pink Sea](https://open.spotify.com/album/1xgG8BgbfQvDG1nCjtFrY3) | 2:30 | 2022-06-08 | 2022-08-09 |
-| [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 | 2021-12-08 | 2023-09-12 |
+| [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 | 2021-12-08 |  |
 | [Kusunoki](https://open.spotify.com/track/7wpCCglXrFoiGPIgQp0SRV) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [Kusunoki](https://open.spotify.com/album/4nvMY6IcVhbzB8yKG22sob) | 2:28 | 2022-01-25 | 2022-06-08 |
 | [Kuudere Crush](https://open.spotify.com/track/2POY4U4R7lxUM61ryNHRmL) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Kuudere Crush](https://open.spotify.com/album/30yExUgU7Q1AItAXaSKBaf) | 3:03 | 2021-12-08 | 2022-07-16 |
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ) | 2:49 | 2022-03-04 | 2022-03-12 |
 | [La la la](https://open.spotify.com/track/0FHBSf6b8BMiBHklvEHfqk) | [Tui](https://open.spotify.com/artist/5bGWwQe5HEzyeWZOPlWKdP) | [Castto IV](https://open.spotify.com/album/1zY5IszNk3TilG9zBF4bMa) | 3:45 | 2022-01-25 | 2022-06-01 |
-| [La Musique](https://open.spotify.com/track/1kT2lldHeWUXUzCWRql3ey) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [ERA](https://open.spotify.com/album/2Kcqp44sybZLCjNxIgD322) | 3:11 | 2022-11-04 |  |
+| [La Musique](https://open.spotify.com/track/1kT2lldHeWUXUzCWRql3ey) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [ERA](https://open.spotify.com/album/2Kcqp44sybZLCjNxIgD322) | 3:11 | 2022-11-04 | 2023-09-13 |
 | [La Musique](https://open.spotify.com/track/7iyb4S0aR3dmvRTNn6dHKo) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Era](https://open.spotify.com/album/26pAoDv2hi7pjc6vcuIkiz) | 3:11 | 2022-02-27 | 2023-04-12 |
 | [Lady Paradise](https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Paradise Break](https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf) | 2:55 | 2022-04-12 | 2022-04-21 |
 | [Laser Beams](https://open.spotify.com/track/6LF3nHngr3WiJoapILAw9W) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Edges](https://open.spotify.com/album/0Mjm737nZYCZsEnc2TIots) | 4:16 | 2021-12-08 | 2022-07-11 |
@@ -265,6 +265,7 @@
 | [Love is Gonna Getcha \- Remix](https://open.spotify.com/track/7u9ZodRGYQS1msK9a6IOaL) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO), [Mr\. Hoosteen](https://open.spotify.com/artist/7CKVr2XbCTLoGfc0l4wuoH) | [Love Is Gonna Getcha](https://open.spotify.com/album/2oDU4wTymbWe6tsRs1aFnx) | 4:55 | 2022-04-12 | 2022-07-26 |
 | [Love Trip](https://open.spotify.com/track/3c6RcZ3WAjZ9ifW2dYr4v6) | [Ikyoto](https://open.spotify.com/artist/5gtDrrVDdpH9S5xLuAOISl) | [Future Frequencies](https://open.spotify.com/album/3sbcdq6cG7gRiLocZ7f0M1) | 3:56 | 2022-07-15 | 2022-08-18 |
 | [love u!!](https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [love u!!](https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C) | 2:30 | 2021-12-08 | 2023-08-26 |
+| [love u!!](https://open.spotify.com/track/0JQkrkQIIoBYnEQ2lla9e0) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [SUGAR RUSH](https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe) | 2:30 | 2023-07-18 |  |
 | [Lovely Road](https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 1:43 | 2022-04-12 |  |
 | [Lover](https://open.spotify.com/track/6RrxIc1TzDcUE0vaIYaNQL) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Lover](https://open.spotify.com/album/6RsxQBaT4Is0CkuN05nwoa) | 3:27 | 2022-08-12 | 2022-10-29 |
 | [Lovin' Is Everywhere](https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:53 | 2022-07-15 |  |
@@ -400,7 +401,7 @@
 | [Sonic Boom](https://open.spotify.com/track/5HooTABpv8hlCKCzJ74LTo) | [ED.](https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM), [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Sonic Boom](https://open.spotify.com/album/0iWcaH2ElYZfTJTELwwYrL) | 3:39 | 2021-12-08 | 2022-07-26 |
 | [Soul](https://open.spotify.com/track/7LoZEGOrU0h8nY6YK4fywE) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Soul](https://open.spotify.com/album/6DmxMwMs19UtWdxXwCnYr5) | 3:00 | 2021-12-08 | 2022-07-29 |
 | [SOULLL](https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/6WDrx0SJVfuDoJrLwG9Hye) | 2:56 | 2021-12-08 | 2022-10-20 |
-| [SOULLL](https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg) | 2:56 | 2022-11-04 |  |
+| [SOULLL](https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg) | 2:56 | 2022-11-04 | 2023-09-13 |
 | [Sparky \(Original\)](https://open.spotify.com/track/04vGT4j9W8RWBRmIgHJsIL) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD) | [Sunrise](https://open.spotify.com/album/548ClvNMwySekhhDeV8nn5) | 2:28 | 2021-12-08 | 2022-07-29 |
 | [Special \- Original Mix](https://open.spotify.com/track/4SkzxyoJk7oCX4uBEPaLma) | [Chesus](https://open.spotify.com/artist/3MjemMX99kp1QLaHVQt20N) | [Monster Munch EP](https://open.spotify.com/album/3HSrY3PGXumB7OqqjjxKwH) | 7:08 | 2022-03-04 | 2022-03-12 |
 | [Square Two](https://open.spotify.com/track/7nGEutN0d98FkCfn25IjPS) | [RobClemz](https://open.spotify.com/artist/4Nkb0v2WNspZl2YD9WItri) | [Square Two](https://open.spotify.com/album/6m4ldqdG7f6GNhgrgHDRy0) | 3:48 | 2021-12-08 | 2022-07-29 |

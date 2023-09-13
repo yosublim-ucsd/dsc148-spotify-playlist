@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 36578,
+  "num_followers": 36692,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzMxZDgyZTBiM2RiMzliYTVkZTI3NTg4ZDMxZjUyMWU0ODY4N2U0",
+  "snapshot_id": "MCxmZmRlMjhhMzQ4NWUzMjdhZGEwNzQ4ZTFmZDcyYmFmMmM1OTI1NThk",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -571,6 +571,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Someday (Latroit Edition)",
         "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 201656,
       "name": "Someday (Latroit Edition)",
       "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Where did you go",
-        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Where did you go",
-      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 239021,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
-        }
-      ],
-      "duration_ms": 141371,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Forever, Now",
         "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 274795,
       "name": "Elenore",
       "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "duration_ms": 141371,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "My Favourite Game",
-        "url": "https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV"
-      },
-      "artists": [
-        {
-          "name": "LVNDSCAPE",
-          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "My Favourite Game",
-      "url": "https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Feel Alive (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM"
       },
@@ -1551,22 +1535,34 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
+        "name": "My Favourite Game",
+        "url": "https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV"
       },
       "artists": [
         {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        },
-        {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+          "name": "LVNDSCAPE",
+          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
         }
       ],
-      "duration_ms": 220644,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+      "duration_ms": 221500,
+      "name": "My Favourite Game",
+      "url": "https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     }
   ],
   "unique_name": "Dance Chill",

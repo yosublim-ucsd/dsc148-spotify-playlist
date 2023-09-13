@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: BM & La Champions Liga.",
-  "num_followers": 557956,
+  "num_followers": 558089,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjRkZjk4OTE5YTgzZDIyZDA3ZmNkOTFlYjVmZjZjM2FkYmU5MmNh",
+  "snapshot_id": "MCxkZTE4YjBmZTc2MjlkZTVhZjE1YjdjNzEzOWJmYmI3NDIxNmE3ZmEy",
   "tracks": [
     {
       "added_at": "2023-09-08 11:49:12",
@@ -95,22 +95,18 @@
     {
       "added_at": "2023-09-08 11:49:12",
       "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
         }
       ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2023-09-08 11:49:12",
@@ -167,18 +163,22 @@
     {
       "added_at": "2023-09-08 11:49:12",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
       "artists": [
         {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
         }
       ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
       "added_at": "2023-09-08 11:49:12",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-09-08 11:49:12",
       "album": {
-        "name": "CALLEJERO FINO | Mission 10",
-        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "CALLEJERO FINO | Mission 10",
-      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
-    },
-    {
-      "added_at": "2023-09-08 11:49:12",
-      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
+    },
+    {
+      "added_at": "2023-09-08 11:49:12",
+      "album": {
+        "name": "CALLEJERO FINO | Mission 10",
+        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 168994,
+      "name": "CALLEJERO FINO | Mission 10",
+      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
       "added_at": "2023-09-08 11:49:12",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-09-08 11:49:12",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
-    },
-    {
-      "added_at": "2023-09-08 11:49:12",
-      "album": {
         "name": "FUMAN TWO",
         "url": "https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 114860,
       "name": "FUMAN TWO",
       "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
+    },
+    {
+      "added_at": "2023-09-08 11:49:12",
+      "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
     },
     {
       "added_at": "2023-09-08 11:49:12",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-09-08 11:49:12",
       "album": {
-        "name": "Volver\u00e1s",
-        "url": "https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 176169,
-      "name": "Si Me Vez Fumando una Seca por Vos",
-      "url": "https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV"
-    },
-    {
-      "added_at": "2023-09-08 11:49:12",
-      "album": {
         "name": "Rompe el Party (Remix)",
         "url": "https://open.spotify.com/album/1h6s34Zj3EstmoMgn3J4ZV"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 207673,
       "name": "Rompe el Party (Remix)",
       "url": "https://open.spotify.com/track/0bpzKlI1oiRYp9UnK90qcV"
+    },
+    {
+      "added_at": "2023-09-08 11:49:12",
+      "album": {
+        "name": "Volver\u00e1s",
+        "url": "https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Si Me Vez Fumando una Seca por Vos",
+      "url": "https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV"
     },
     {
       "added_at": "2023-09-08 11:49:12",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-09-08 11:49:12",
       "album": {
-        "name": "Puro Movimiento",
-        "url": "https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 293041,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup"
-    },
-    {
-      "added_at": "2023-09-08 11:49:12",
-      "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 229500,
       "name": "Sin Ayuda",
       "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
+    },
+    {
+      "added_at": "2023-09-08 11:49:12",
+      "album": {
+        "name": "Puro Movimiento",
+        "url": "https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 293041,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup"
     },
     {
       "added_at": "2023-09-08 11:49:12",

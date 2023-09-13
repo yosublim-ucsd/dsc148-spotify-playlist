@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "CU4TRO",
+        "url": "https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281959,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/25cvmtRrMtNwUwxFc05ps8"
+    },
+    {
+      "album": {
         "name": "Costumbres",
         "url": "https://open.spotify.com/album/6J2K7NA4m8O3NuaFYpeFWz"
       },
@@ -506,7 +524,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 284421,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/0isfyPlYuItuJ0C43tIBM4"

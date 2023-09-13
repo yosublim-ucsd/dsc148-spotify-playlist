@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,231 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,449 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 35 | [Highs & Lows](https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III \(Studio Sessions\)](https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z) | 5:52 |
 | 36 | [Intimidade](https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Vagner Dida](https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri) | [Intimidade](https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H) | 3:21 |
 | 37 | [Olhar de Longe](https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Olhar de Longe](https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ) | 3:32 |
-| 38 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 |
-| 39 | [Dear God \- Acoustic](https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Anna Asbury](https://open.spotify.com/artist/7p0xoVWYGEFjgCsAaD0eHB) | [Dear God \(Acoustic\)](https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m) | 3:37 |
+| 38 | [Dear God \- Acoustic](https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Anna Asbury](https://open.spotify.com/artist/7p0xoVWYGEFjgCsAaD0eHB) | [Dear God \(Acoustic\)](https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m) | 3:37 |
+| 39 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 |
 | 40 | [Abençoada](https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Abençoada](https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW) | 3:09 |
 | 41 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
 | 42 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 68 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
 | 69 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 |
 
-Snapshot ID: `MCxlN2ZhNjE3ZDlhOGVjNTcyYzQyNzdjN2JlMWI4YjU4MTc1ODhiNTJk`
+Snapshot ID: `MCw2YmIxYTE3NzVlNzAwMGNiNzU5ZjhmMGQ4ZmY2ZDE0YTk4YWVhNzc3`

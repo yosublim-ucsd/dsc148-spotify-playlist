@@ -1,13 +1,33 @@
 {
   "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 15195,
+  "num_followers": 15197,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NjAxMyxmODZkMjNlZTRmM2UxMGJmZGRlZjVjYzA2NTk0NTEwZmU0MWY5OGMz",
+  "snapshot_id": "NjAzMCxmMTVkOTY0ZGZjYTU5ZTc3NjdhNmI4NTI1N2U0NjU5OWM1NjhiZGM3",
   "tracks": [
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Matte Grey Wrap",
+        "url": "https://open.spotify.com/album/5OUaX2hFd7lYwSOMEYNsO6"
+      },
+      "artists": [
+        {
+          "name": "CASISDEAD",
+          "url": "https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs"
+        },
+        {
+          "name": "Desire",
+          "url": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "Matte Grey Wrap",
+      "url": "https://open.spotify.com/track/5k1Je66n7fGCiNFNnGepcH"
+    },
     {
       "added_at": "2023-08-22 17:21:38",
       "album": {
@@ -27,6 +47,310 @@
       "duration_ms": 196006,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2jQgJAsAIzvc0hGQVbqboI"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0nczSj6as1uJ8fZ91xsOLr"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "New Heart Designs",
+        "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 222741,
+      "name": "Alien Love Call",
+      "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Obnoxious",
+        "url": "https://open.spotify.com/album/34W7Bx90BslIcJKcNvTotp"
+      },
+      "artists": [
+        {
+          "name": "NEY LIQA",
+          "url": "https://open.spotify.com/artist/4O5Ly3iCRwSJuxyDMPePV7"
+        }
+      ],
+      "duration_ms": 140434,
+      "name": "Obnoxious",
+      "url": "https://open.spotify.com/track/3ySuHw0Filn4xta0Q03iSb"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Not a Dream But a Controlled Explosion",
+        "url": "https://open.spotify.com/album/5uvivxzouY63yfvY7I4Iqg"
+      },
+      "artists": [
+        {
+          "name": "Iceboy Violet",
+          "url": "https://open.spotify.com/artist/2MWAoLoDTgex9peOU2Uc4C"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Pablo's Cathedral",
+      "url": "https://open.spotify.com/track/3cv1agqSmxNsS3O3lbxCK1"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/2AnvT3mLawbY7YWgZTJJun"
+      },
+      "artists": [
+        {
+          "name": "Slew",
+          "url": "https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3"
+        }
+      ],
+      "duration_ms": 197583,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/1yB3sZNrVjnIKCFr0Q4lxe"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "My Type!",
+        "url": "https://open.spotify.com/album/3mYIMAIoDmYCRHGCcSotON"
+      },
+      "artists": [
+        {
+          "name": "Manso\u0336u\u0336r\u0336",
+          "url": "https://open.spotify.com/artist/7v35h8e1RtPkx7IfAqf6iM"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "My Type!",
+      "url": "https://open.spotify.com/track/6rSlhcRXLNjtAOyp7DC8ho"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/6K816lpo5jh0WnnLXHE2uC"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 235508,
+      "name": "Elixir",
+      "url": "https://open.spotify.com/track/4p5QTMGRzKYKxf8P1X88ve"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "J'adore",
+        "url": "https://open.spotify.com/album/1WUIUtEcyOdIjnjosifXK0"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "duration_ms": 182827,
+      "name": "J'adore",
+      "url": "https://open.spotify.com/track/3ZspQSOFcZZfRZhNoYDPLs"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Subliminal",
+        "url": "https://open.spotify.com/album/78S20bvtAt6N8vPO3Mnl50"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        },
+        {
+          "name": "Sammy",
+          "url": "https://open.spotify.com/artist/2K2ulcqPr7kB2ZwzLmx3vp"
+        }
+      ],
+      "duration_ms": 202956,
+      "name": "Subliminal",
+      "url": "https://open.spotify.com/track/3WoxM5hRv3lkLDoowGCJKu"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Kiero K Me Kieras (Nick Le\u00f3n Remix)",
+        "url": "https://open.spotify.com/album/1CSCY5P4EWmfYDHvSLAsvw"
+      },
+      "artists": [
+        {
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+        },
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        }
+      ],
+      "duration_ms": 315428,
+      "name": "Kiero K Me Kieras - Nick Le\u00f3n Remix",
+      "url": "https://open.spotify.com/track/4TalxMJMtl5j8Qp6nwDPvS"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Soundcheck",
+        "url": "https://open.spotify.com/album/4VpEFNlWfQiS8Jsm8OkskA"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        }
+      ],
+      "duration_ms": 405390,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/5dQdnw6G1URbrpwnDOyZxt"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Love Hallucination",
+        "url": "https://open.spotify.com/album/2uB92XqtrzI9tf2J0wIzgQ"
+      },
+      "artists": [
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/2ISgPZPN45LDjkrRx3ASaO"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "i MiSS THE HOMiES",
+        "url": "https://open.spotify.com/album/2HETZiifilRemcQio8wjLr"
+      },
+      "artists": [
+        {
+          "name": "Elijah Aike",
+          "url": "https://open.spotify.com/artist/4tyLbXqEsOsTXlBlF0wKqC"
+        },
+        {
+          "name": "Lingani",
+          "url": "https://open.spotify.com/artist/0vLbHensjEKRB43bP9UBKy"
+        }
+      ],
+      "duration_ms": 75294,
+      "name": "RADiO",
+      "url": "https://open.spotify.com/track/39ZT1pv3zTepUP9I6s8zLk"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "RikiTiti",
+        "url": "https://open.spotify.com/album/4lvSopsEzEiYzhVsD4mcNS"
+      },
+      "artists": [
+        {
+          "name": "KD One",
+          "url": "https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb"
+        },
+        {
+          "name": "Jacool",
+          "url": "https://open.spotify.com/artist/3UWafz15NIdPY0n1NDSQcF"
+        }
+      ],
+      "duration_ms": 136271,
+      "name": "RikiTiti",
+      "url": "https://open.spotify.com/track/2d432JBk9r2pjdpDem94Mj"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Loco Sin Ti",
+        "url": "https://open.spotify.com/album/7DxzYjWfYNElCMF7pDdWnW"
+      },
+      "artists": [
+        {
+          "name": "Cash Bently",
+          "url": "https://open.spotify.com/artist/6yjpnGMq2yiLvJCSIVBwzd"
+        }
+      ],
+      "duration_ms": 185656,
+      "name": "Loco Sin Ti",
+      "url": "https://open.spotify.com/track/4zRg9RKqphhp8tabUDLzFs"
+    },
+    {
+      "added_at": "2023-09-12 16:50:12",
+      "album": {
+        "name": "Fly or Die Fly or Die Fly or Die ((world war))",
+        "url": "https://open.spotify.com/album/5ZsaI40anT5k996hefFl51"
+      },
+      "artists": [
+        {
+          "name": "Jaimie Branch",
+          "url": "https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "bolinko bass",
+      "url": "https://open.spotify.com/track/7uErrM5LmCyvhrk9KtNjiy"
     },
     {
       "added_at": "2023-08-03 12:17:36",

@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1980s that will make you dance all summer long!",
-  "num_followers": 220731,
+  "num_followers": 221006,
   "original_name": "Summer Hits of the 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmY0OTJhNDFlMGVmOGEyMmI2NjU0OTMwYjYzN2EyNjA4ZDFlZjVi",
+  "snapshot_id": "MCw4NDY5N2U1ZGQwNjI0YzZhNzRmZWQzMjBjYTQ5ZWNlMzFjNmNlMDIx",
   "tracks": [
     {
       "added_at": "2022-04-16 03:27:52",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 246440,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 323346,
-      "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
-    },
-    {
       "added_at": "2022-04-18 23:08:04",
       "album": {
         "name": "The Very Best of Billy Ocean",
@@ -899,6 +883,22 @@
       "duration_ms": 244426,
       "name": "Caribbean Queen (No More Love On the Run)",
       "url": "https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 323346,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
-        "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
-      },
-      "artists": [
-        {
-          "name": "Kaoma",
-          "url": "https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Lambada - Original Version 1989",
-      "url": "https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 352906,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
+        "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
+      },
+      "artists": [
+        {
+          "name": "Kaoma",
+          "url": "https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Lambada - Original Version 1989",
+      "url": "https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Once in a Lifetime - 2005 Remaster",
-      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "The Mike Oldfield Collection",
         "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 218186,
       "name": "Moonlight Shadow",
       "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
     },
     {
       "added_at": "2022-04-16 03:27:52",

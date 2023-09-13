@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,214 likes - 101 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,300 likes - 101 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 100 | [Heart by Heart](https://open.spotify.com/track/3xOt8ADrsq52yDivtBZfS6) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Heart by Heart](https://open.spotify.com/album/35lPmfsSzeu5pgEIlO2Ntv) | 4:03 |
 | 101 | [500 Miles](https://open.spotify.com/track/7Im3HTE5xwZHJnHEgVBX6E) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:30 |
 
-Snapshot ID: `MCw1MzAxYjg3YWUyNjc3NTcyOTVkY2JmMmE4YTA5NTZmNWFhYTlmMDc2`
+Snapshot ID: `MCwzMDdjYmE1YjY1N2FmZmI5Yjg3YWE1OGQ4NjNlYmZiMGFkMTI4MjEw`

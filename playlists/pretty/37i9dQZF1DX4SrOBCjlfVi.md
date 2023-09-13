@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Cardi B, Megan The Stallion and more\. Cover: A Boogie Wit Da Hoodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,455 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,560 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Confidential](https://open.spotify.com/track/03q7ekI0qZyqAA2c7ZkX6B) | [Legend Yae](https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ) | [Confidential](https://open.spotify.com/album/08FfwKwQ636xnAX5xePTVK) | 2:05 |
 | 50 | [Kat Food](https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks) | 4:46 |
 
-Snapshot ID: `MCw5YjhlMTg3MWEyNDdjMzg1NGU3YjNhZWFiMDlhMzg1ZjI3N2I4YzU4`
+Snapshot ID: `MCw2ZDg1NjkyZTIwZjYyYjBlMjYyZTMzODVjMWUzM2I2ZGE1YzBlOWM0`

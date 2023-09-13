@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 106027,
+  "num_followers": 106200,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JkNWQyNDVjMzdhNjhiNzBiZDE2ZDQ1MDIyNTQ1ODY0YTAzYzRm",
+  "snapshot_id": "MCxlYzE3ZGQyYmM1NjBmMmNlNTNlYTJlNzZmZDJkZDFlMzRkNGJhMGI4",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Politics",
-        "url": "https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Tellier",
-          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
-        }
-      ],
-      "duration_ms": 454480,
-      "name": "La ritournelle",
-      "url": "https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 283406,
       "name": "C-Side",
       "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Politics",
+        "url": "https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "duration_ms": 454480,
+      "name": "La ritournelle",
+      "url": "https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "The Return of The Durutti Column",
-        "url": "https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW"
-      },
-      "artists": [
-        {
-          "name": "The Durutti Column",
-          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Sketch for Summer",
-      "url": "https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 216506,
       "name": "One Evening",
       "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "The Return of The Durutti Column",
+        "url": "https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Sketch for Summer",
+      "url": "https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "sketches of transition",
+        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 243213,
+      "name": "sketches",
+      "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Icare",
         "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 222631,
       "name": "Icare",
       "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "sketches of transition",
-        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 243213,
-      "name": "sketches",
-      "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Weather Storm",
+      "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Indoor Fireworks (Re-Release)",
         "url": "https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 505453,
       "name": "Caf\u00e9 de Flore",
       "url": "https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Weather Storm",
-      "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Keep Smiling [Remastered] (Remastered Version)",
-        "url": "https://open.spotify.com/album/04bsO604edaafFrGyDcaFy"
-      },
-      "artists": [
-        {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
-        }
-      ],
-      "duration_ms": 512080,
-      "name": "Fly Away / Walking in the Sunshine - 2008 Remaster",
-      "url": "https://open.spotify.com/track/39HnpKxGPzP3EUlXvs4VBQ"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Soleil Kr\u00e9yol",
         "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 167493,
       "name": "Pa L\u00e9",
       "url": "https://open.spotify.com/track/2nK0JwkBzP8wb6BTwsL6yv"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Keep Smiling [Remastered] (Remastered Version)",
+        "url": "https://open.spotify.com/album/04bsO604edaafFrGyDcaFy"
+      },
+      "artists": [
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+        }
+      ],
+      "duration_ms": 512080,
+      "name": "Fly Away / Walking in the Sunshine - 2008 Remaster",
+      "url": "https://open.spotify.com/track/39HnpKxGPzP3EUlXvs4VBQ"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
-        {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
-        }
-      ],
-      "duration_ms": 359586,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Le Fruit Disco",
         "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 215080,
       "name": "maracuya massage",
       "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "duration_ms": 359586,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Mutual Feelin' (Edit)",
-        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
       "artists": [
         {
-          "name": "Somethin' Sanctified",
-          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Mutual Feelin' - Edit",
-      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Camino Del Sol",
         "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 222680,
       "name": "Camino Del Sol",
       "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Mutual Feelin' (Edit)",
+        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
+      },
+      "artists": [
+        {
+          "name": "Somethin' Sanctified",
+          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Mutual Feelin' - Edit",
+      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Single Malt",
-        "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
-      },
-      "artists": [
-        {
-          "name": "TOSZ",
-          "url": "https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Single Malt - Radio Edit",
-      "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "E.P.",
         "url": "https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 372640,
       "name": "You Rock Me - Long Version",
       "url": "https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Single Malt",
+        "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
+      },
+      "artists": [
+        {
+          "name": "TOSZ",
+          "url": "https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Single Malt - Radio Edit",
+      "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
     },
     {
       "added_at": "2023-07-14 11:01:37",

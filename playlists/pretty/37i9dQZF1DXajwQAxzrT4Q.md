@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,805 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,898 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 27 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH) | 1:57 |
 | 28 | [Love Like That](https://open.spotify.com/track/22haNP7zwUCrqPJIjfgOjx) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [Love Like That](https://open.spotify.com/album/1ewhccVD32md195nWwLG3u) | 2:46 |
 | 29 | [miles \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [miles](https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO) | 2:42 |
-| 30 | [BULLET](https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [BULLET](https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv) | 1:38 |
-| 31 | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM) | [5Star](https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw) | 2:44 |
+| 30 | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM) | [5Star](https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw) | 2:44 |
+| 31 | [BULLET](https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [BULLET](https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv) | 1:38 |
 | 32 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:38 |
 | 33 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 |
 | 34 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
 | 75 | [Dream \(Jersey Club\)](https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM) | [DJ T Marq](https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO) | [Dream \(Jersey Club\)](https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie) | 2:03 |
 
-Snapshot ID: `MCxkMjQzMmYzMmQ5NDNlMTI4MzUwODg5ZWViNzc4MDExNWM3Yzk1NTcz`
+Snapshot ID: `MCw2ZmZiZWE2ZTkyMDUxZjUyM2QxNGViMjRlOWQwNWU3NDZiMDIwZGZm`

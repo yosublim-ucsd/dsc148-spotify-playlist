@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,203 likes - 140 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,315 likes - 140 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 139 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 |
 | 140 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 |
 
-Snapshot ID: `MCxkZDg2ZWRjN2EwZDgxZDYxNmY2Yjg1NjBiM2Q1OWRlOTM0YmM5MzJi`
+Snapshot ID: `MCw0OTM3MDc2NmI2YWFkNDljYjY2MWJkODNhOTZlZDQ1NTkzNWUxZTVk`

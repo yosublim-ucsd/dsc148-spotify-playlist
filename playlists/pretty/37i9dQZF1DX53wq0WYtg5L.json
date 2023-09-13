@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 549410,
+  "num_followers": 549751,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTk5YjNlMGU3Mzc2ODY1ZWViMWNhMjBiOGZiZDdmZTViMTg1Nzg1",
+  "snapshot_id": "MCwxYmE1YmUyMTAxODU4YTM3NGNlOGJiZGNjNGY3NDhmNjgzZDU0NmRl",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "La Nueva Era Del Mariachi Sol De Mexico De Jose Hernandez",
-        "url": "https://open.spotify.com/album/3ETUQcvUlT4UglcgLeEJoE"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol De Mexico",
-          "url": "https://open.spotify.com/artist/6TWAmC8OsAPKl8kgNVwAe1"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Mi Jalisco",
-      "url": "https://open.spotify.com/track/1JLOGUtJV9IL3KxxZvpckg"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Sones",
         "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 204538,
       "name": "Fiesta Charra",
       "url": "https://open.spotify.com/track/17Y6WieNYdlMAC5QKyzFOT"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "La Nueva Era Del Mariachi Sol De Mexico De Jose Hernandez",
+        "url": "https://open.spotify.com/album/3ETUQcvUlT4UglcgLeEJoE"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol De Mexico",
+          "url": "https://open.spotify.com/artist/6TWAmC8OsAPKl8kgNVwAe1"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Mi Jalisco",
+      "url": "https://open.spotify.com/track/1JLOGUtJV9IL3KxxZvpckg"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
+        "name": "La Voz de M\u00e9xico (Remastered)",
+        "url": "https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "El Herradero - Remastered",
+      "url": "https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
         "name": "Mariachi Sol: Viva Mexico",
         "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 165506,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/67kE2nwzQzr9v7OOWfireQ"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "La Voz de M\u00e9xico (Remastered)",
-        "url": "https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "Huapango Torero - Remastered",
-      "url": "https://open.spotify.com/track/0Hl5ZPb8lAk5Bx0NTUfhNQ"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -963,54 +963,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Las 100 Clasicas Vol. 1",
-        "url": "https://open.spotify.com/album/1i8CmdQ0aYkeP9nlNuyQ1Y"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Virgencita de Zapopan",
-      "url": "https://open.spotify.com/track/3aKGVttskmuUXIvewY5Tca"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "La Voz de M\u00e9xico (Remastered)",
-        "url": "https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "El Herradero - Remastered",
-      "url": "https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 117333,
-      "name": "La Adelita",
-      "url": "https://open.spotify.com/track/2GQUkQXwOgt3ZaQHLEuCfx"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Mariachi: Mi Nombre Es M\u00e9xico",
         "url": "https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV"
       },
@@ -1055,6 +1007,54 @@
       "duration_ms": 173800,
       "name": "Mi Nombre Es M\u00e9xico",
       "url": "https://open.spotify.com/track/5TavsDOCbpycDklaALq2dH"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 1",
+        "url": "https://open.spotify.com/album/1i8CmdQ0aYkeP9nlNuyQ1Y"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Virgencita de Zapopan",
+      "url": "https://open.spotify.com/track/3aKGVttskmuUXIvewY5Tca"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "La Adelita",
+      "url": "https://open.spotify.com/track/2GQUkQXwOgt3ZaQHLEuCfx"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "La Voz de M\u00e9xico (Remastered)",
+        "url": "https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "Huapango Torero - Remastered",
+      "url": "https://open.spotify.com/track/0Hl5ZPb8lAk5Bx0NTUfhNQ"
     },
     {
       "added_at": "2022-09-12 17:32:54",

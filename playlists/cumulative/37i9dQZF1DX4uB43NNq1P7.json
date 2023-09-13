@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Miyazaki's rain",
+        "url": "https://open.spotify.com/album/42sr6wwHVuwmAJHREXpK4x"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Lundberg",
+          "url": "https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Miyazaki's rain",
+      "url": "https://open.spotify.com/track/4HtAAcEvxbv28AOoHC2fDw"
+    },
+    {
+      "album": {
         "name": "Baby Lullaby Piano Rain Sounds",
         "url": "https://open.spotify.com/album/1Kdxf8bKGcVsXX8LhlxL2f"
       },

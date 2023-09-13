@@ -333,6 +333,46 @@
     },
     {
       "album": {
+        "name": "Blanket",
+        "url": "https://open.spotify.com/album/4wZkCnUWUfZd2ZZmwq1GWl"
+      },
+      "artists": [
+        {
+          "name": "Umitaro Abe",
+          "url": "https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b"
+        },
+        {
+          "name": "Kaori Takeda",
+          "url": "https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Blanket",
+      "url": "https://open.spotify.com/track/69kYLxvCWgkWA6kUFdObtq"
+    },
+    {
+      "album": {
+        "name": "Blowing Wind",
+        "url": "https://open.spotify.com/album/53qmbgFkO4QwHE6qIgWWBC"
+      },
+      "artists": [
+        {
+          "name": "Haruka Strings",
+          "url": "https://open.spotify.com/artist/5OycqAeoJSots0lHem0k3b"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371354,
+      "name": "Blowing Wind",
+      "url": "https://open.spotify.com/track/0hGvzqv9R8bcWrlnCNK9DX"
+    },
+    {
+      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2mI6ZbZAPtlUMF5vqo0knl"
       },
@@ -814,7 +854,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
@@ -1376,7 +1416,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 356973,
       "name": "Lady - 2020",
       "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
@@ -2468,7 +2508,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 357073,
       "name": "Soil",
       "url": "https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD"
@@ -5538,6 +5578,24 @@
       "duration_ms": 359893,
       "name": "\u8ab0\u3082\u77e5\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/7CimRPvAQ7bCNfBrrRQ4NU"
+    },
+    {
+      "album": {
+        "name": "\u8f2a\u90ed",
+        "url": "https://open.spotify.com/album/5XdfH9IsxJxmVwYT7rpKrC"
+      },
+      "artists": [
+        {
+          "name": "\u5e83\u702c\u54b2\u697d",
+          "url": "https://open.spotify.com/artist/6yeUkhrcup2C8moSddE9et"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279194,
+      "name": "\u8f2a\u90ed",
+      "url": "https://open.spotify.com/track/0skmyRXzwNAiZ9IarqQsGF"
     },
     {
       "album": {

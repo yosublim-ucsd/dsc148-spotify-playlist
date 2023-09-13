@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=prRrjUtGQxujNJuF3xT1rA\">Sarz </a> and <a href=\"https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb?si=QFltAuFqR8-u3XDwv85AeQ\"> Crayon </a>   ",
-  "num_followers": 70759,
+  "num_followers": 70824,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mzk2YTUzY2ZlNjA2Y2MxYTIyMTkzZjZmZDg0MTY2ZTk0MDkxNjY1",
+  "snapshot_id": "MCxhNzRmNGVjYTVhYzIwNTA0MWZkYjhkNTE3NGMyZjNjYjE0OTRkYzQ3",
   "tracks": [
     {
       "added_at": "2023-09-08 07:06:25",
@@ -943,22 +943,18 @@
     {
       "added_at": "2023-09-08 07:06:25",
       "album": {
-        "name": "Loju (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8"
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },
       "artists": [
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 174226,
-      "name": "Loju (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
     },
     {
       "added_at": "2023-09-08 07:06:25",
@@ -979,18 +975,22 @@
     {
       "added_at": "2023-09-08 07:06:25",
       "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+        "name": "Loju (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+      "duration_ms": 174226,
+      "name": "Loju (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
     },
     {
       "added_at": "2023-09-08 07:06:25",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-08 07:06:25",
       "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
-    },
-    {
-      "added_at": "2023-09-08 07:06:25",
-      "album": {
         "name": "Many Things",
         "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 167881,
       "name": "Many Things",
       "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
+    },
+    {
+      "added_at": "2023-09-08 07:06:25",
+      "album": {
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
     },
     {
       "added_at": "2023-09-08 07:06:25",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2023-09-08 07:06:25",
       "album": {
+        "name": "Grit & Lust",
+        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153523,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
+    },
+    {
+      "added_at": "2023-09-08 07:06:25",
+      "album": {
         "name": "Dada (feat. Davido) [Remix]",
         "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
       },
@@ -1399,26 +1419,6 @@
     {
       "added_at": "2023-09-08 07:06:25",
       "album": {
-        "name": "Grit & Lust",
-        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 153523,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
-    },
-    {
-      "added_at": "2023-09-08 07:06:25",
-      "album": {
         "name": "Folake",
         "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
       },
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-09-08 07:06:25",
       "album": {
-        "name": "Colors (My Baby) / Loyal",
-        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 164240,
-      "name": "Colors (My Baby)",
-      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
+      "duration_ms": 138034,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
     }
   ],
   "unique_name": "Gbedu",

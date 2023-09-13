@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-136 songs - 7 hr 44 min
+137 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Oru Theniyin Kadhal](https://open.spotify.com/track/25pEd2JmX87sckTCxRFwDU) | [RK Vilasini](https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy) | [Oru Theniyin Kadhal](https://open.spotify.com/album/4RPjQ9C8VwrCvjzGNawgwX) | 4:11 | 2023-03-21 | 2023-07-25 |
 | [Oru Uvamai](https://open.spotify.com/track/5UMeOW8eAD5XRI9JnqG1Ta) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Oru Uvamai](https://open.spotify.com/album/1OJk6AwLsV8dqT4xLmDgAD) | 3:02 | 2023-03-21 | 2023-08-03 |
 | [Pachai Theeyee](https://open.spotify.com/track/6Fk5Qx8BEqWXQscWFwO1ws) | [Joshua Surya](https://open.spotify.com/artist/23A4fV8TTszu4fVRgMkO9s), [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Pachai Theeyee](https://open.spotify.com/album/2OdFUCAvA9dVqO40q9VvFJ) | 3:32 | 2023-07-19 | 2023-09-05 |
+| [Piriyaadhe](https://open.spotify.com/track/2sPa31owePFGZi8je18YkE) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Piriyaadhe](https://open.spotify.com/album/6kQd4SMnVuHWvQ0XMRFiWh) | 1:27 | 2023-09-12 |  |
 | [Poidhana](https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Maalvika](https://open.spotify.com/artist/6UGmA04lkO3B7IyUbEE6sC) | [Poidhana](https://open.spotify.com/album/2vGdxvemzIKac1YXhLoEFP) | 2:55 | 2023-06-16 |  |
 | [Pona Pongadi](https://open.spotify.com/track/44EKpEa7RPINMRh70iJiRZ) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Pona Pongadi](https://open.spotify.com/album/30WzaLds8K34mD3vvVkaAg) | 3:18 | 2023-04-03 | 2023-07-25 |
 | [Pongal Puliyodharai](https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [RamGanesh K](https://open.spotify.com/artist/3qAXnWDWUgfGyD2TGS5t5M) | [Pongal Puliyodharai](https://open.spotify.com/album/5wViXAX88oexvwv18gE447) | 2:49 | 2023-04-03 | 2023-09-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 255 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 3 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
 | 4 | [Ultralight Beam](https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:20 |
 | 5 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 |
-| 6 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
-| 7 | [Agape](https://open.spotify.com/track/2IvnDjlgH8yy70Nz99UdcJ) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [If Beale Street Could Talk \(Original Motion Picture Score\)](https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT) | 2:55 |
+| 6 | [Agape](https://open.spotify.com/track/2IvnDjlgH8yy70Nz99UdcJ) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [If Beale Street Could Talk \(Original Motion Picture Score\)](https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT) | 2:55 |
+| 7 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
 | 8 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 |
 | 9 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 |
 | 10 | [No Woman, No Cry](https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 49 | [Gold](https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 3:27 |
 | 50 | [The Passion](https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Passion Of The Christ: Songs](https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF) | 5:45 |
 
-Snapshot ID: `MCw3MzFkYjNhMzMxY2FiNTY0NzAxYzE2NmM4MjE0YzcwNTA5YzU4NDc0`
+Snapshot ID: `MCxiMWRlYTkxYWNmMWUwNzBjYTYwYTc4OTUxNGJhMGRiNjc5YTIzNmIy`

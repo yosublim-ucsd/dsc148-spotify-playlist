@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,925 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,937 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 22 | [Agricultural Revolution](https://open.spotify.com/track/2zKv5S3cllj2aGXZbX4N9V) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs) | 5:07 |
 | 23 | [ساري الليل](https://open.spotify.com/track/3vjHJ9U0YkrR4QRDs5sy25) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [ساري الليل](https://open.spotify.com/album/6r8vCGqbxWAMj6TK1cdAI6) | 3:01 |
 | 24 | [Bringi](https://open.spotify.com/track/6j6RB7ohZG8vPwornVd5KO) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Bringi](https://open.spotify.com/album/1wDrVmraB9J80VV0X7JBWq) | 2:19 |
-| 25 | [Azara Alhai](https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Sudaniyat](https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5) | 6:27 |
+| 25 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 |
 | 26 | [pretty kitten](https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [pretty kitten](https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm) | 2:22 |
-| 27 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 |
+| 27 | [Azara Alhai](https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Sudaniyat](https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5) | 6:27 |
 | 28 | [Kandaka](https://open.spotify.com/track/7GiLIZ1JNiq2EAzlI5pNXM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Kandaka](https://open.spotify.com/album/3HWMN3fMzjLCmHlbJYybdH) | 3:01 |
 | 29 | [النار ولعت \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/0tSLeFVhJ7zfXzJJpFhoI7) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [النار ولعت \(feat\. Ali Naseraldeen\)](https://open.spotify.com/album/5Qm9D2Cgs5yKNuSReeLvTw) | 1:19 |
 | 30 | [Habsha \(feat\. Flippter\)](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha \(feat\. Flippter\)](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 43 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 |
 | 44 | [III IV V](https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [III IV V](https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY) | 3:12 |
 | 45 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 |
-| 46 | [Game Over](https://open.spotify.com/track/15y6KCjCHdmOsgAdVgXEk9) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/6HOywAUSITHmBdCSOIFjga) | 3:26 |
+| 46 | [Fan3](https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Fan3](https://open.spotify.com/album/0RTNur3c132jazOHMua1wU) | 2:19 |
 | 47 | [Blue \- COLORS Sudan](https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Blue \- COLORS Sudan](https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1) | 2:46 |
-| 48 | [Fan3](https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Fan3](https://open.spotify.com/album/0RTNur3c132jazOHMua1wU) | 2:19 |
+| 48 | [Game Over](https://open.spotify.com/track/15y6KCjCHdmOsgAdVgXEk9) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/6HOywAUSITHmBdCSOIFjga) | 3:26 |
 | 49 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
 | 50 | [Picasso \(Outro\)](https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [Picasso \(Outro\)](https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw) | 4:00 |
 
-Snapshot ID: `MCw4MTdmN2Y3OGY5ZmY2OGUxZGJmNDU4Y2E5MDFiZTE1Mzg5ZWIwMDY2`
+Snapshot ID: `MCwxMWVkOTY0MzA0NWJlNzg1YjEzMzMwNjc3ZWMyNGIyZjQzOTNiZGFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,936 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,979 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 38 | [Popurri De Cumbias](https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Popurries Tropicales Con Las Mejores](https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH) | 6:34 |
 | 39 | [Salón México](https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Danzones a la Mexicana](https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW) | 2:32 |
 | 40 | [Huapango 2 El Violin](https://open.spotify.com/track/72yAnJRLVJOjim7NUHa9XO) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3Yy1uofnPXBT03X7ZQBkg4), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Mariachi Vol\. 2](https://open.spotify.com/album/12k9uBRmZFFLMajKtlNKDu) | 1:45 |
-| 41 | [Que Rico Mambo](https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Que Rico Mambo](https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l) | 3:56 |
-| 42 | [Pagina Blanca](https://open.spotify.com/track/30R25rIDDtXKCTXGwvg8rz) | [Los Fantasmas](https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK) | [Recordando a](https://open.spotify.com/album/3kh1YRFggMYWLTBM4aaZCE) | 3:08 |
+| 41 | [Pagina Blanca](https://open.spotify.com/track/30R25rIDDtXKCTXGwvg8rz) | [Los Fantasmas](https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK) | [Recordando a](https://open.spotify.com/album/3kh1YRFggMYWLTBM4aaZCE) | 3:08 |
+| 42 | [Que Rico Mambo](https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Que Rico Mambo](https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l) | 3:56 |
 | 43 | [Nereidas](https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf) | [Los Mejores Danzones De Todos Los Tiempos](https://open.spotify.com/artist/4jY7nNhjSj8d39IhJjjEMm) | [El Danzón Nunca Muere](https://open.spotify.com/album/3qJpBRCr2V3XDEQ4TlOHOi) | 3:05 |
 | 44 | [Dónde Estás Yolanda](https://open.spotify.com/track/4J2EPwzxdv2ellgx5E4QnP) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 3:07 |
 | 45 | [Pancha Baila en Turcos](https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:08 |
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 52 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
 | 53 | [La Diablesa del rock](https://open.spotify.com/track/4DOdwPPUnIDZETau5hO9P5) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 2:48 |
 | 54 | [El Orangutan](https://open.spotify.com/track/21nUw0WwlwdjMkFctzcs2v) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 2:54 |
-| 55 | [Mucha Muchacha](https://open.spotify.com/track/1OjPNeudZAsKgMvuw04due) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Cabaret Manana](https://open.spotify.com/album/4iusuKgQWQPNAWsIX7r5wJ) | 2:18 |
-| 56 | [Juana La Cubana](https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0) | 3:13 |
+| 55 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
+| 56 | [Mucha Muchacha](https://open.spotify.com/track/1OjPNeudZAsKgMvuw04due) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Cabaret Manana](https://open.spotify.com/album/4iusuKgQWQPNAWsIX7r5wJ) | 2:18 |
 | 57 | [Pasito Tun Tun](https://open.spotify.com/track/6vXP8taf6h8VGQYeBpt644) | [J.L.B\. Y Cía](https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R) | [Espuma De Mar](https://open.spotify.com/album/0X8f23dP4XuKPgM8xaTisW) | 2:55 |
 | 58 | [El Cha Cha Cha de los Borrachitos](https://open.spotify.com/track/3TGYtWgHY0KjnrUiHGcvYC) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 |
 | 59 | [Campanario](https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Algo Nuevo en Danzon](https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP) | 3:42 |
-| 60 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
+| 60 | [Juana La Cubana](https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0) | 3:13 |
 | 61 | [El Restaurantito](https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [El Pasado](https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC) | 2:50 |
 | 62 | [Sábado D.F.](https://open.spotify.com/track/2CoCTWNwmcDsTMPxG4CmMP) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [Los Éxitos de Chava Flores en la Voz de Chava Flores y Fernando Rosas](https://open.spotify.com/album/6T1qoWlqTnzh8668YTyKSL) | 2:48 |
 | 63 | [Despedida](https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [Orquesta Pedro Flores](https://open.spotify.com/artist/35ePrAW1vdWYsrYywU6Mps) | [40 Temas Originales](https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [La Cocaleca](https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 3:06 |
 | 100 | [Botecito de Vela](https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 3:04 |
 
-Snapshot ID: `MCxhMTJkZmI5NmQ4NTFmZmU1OGQ1NTRkYjdjYTgyMDgwNzNiOGViN2My`
+Snapshot ID: `MCxhNzJmZjc1Mjg2MWUxNWQ0N2NiMWNmZjM2YWU0YzA1NjJjMDI1ZTJh`

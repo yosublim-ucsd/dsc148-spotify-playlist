@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Cardi B, Megan Thee Stallion and Young Nudy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,617,436 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,618,737 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Half Doin Dope \(with BabyTron feat\. Lil Yachty\)](https://open.spotify.com/track/1J0O3RqCeoMcXbayQZDZXL) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [BlakkBoyz present Half Doin Dope/Van Gogh](https://open.spotify.com/album/19BajLbOujVKO4BPCTIzoc) | 3:28 |
 | 50 | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/track/1v4trJXb9eBsIewxan0TBP) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/album/4juZyT9LN9kiBGRlkL5w2a) | 2:18 |
 
-Snapshot ID: `MCw0YzMwNGZjMmMwMDQ3ODI0Mjg4MTg3OGEyZjhhZjQxYjkwZDJkODgw`
+Snapshot ID: `MCxkMDUyMGMyYWQ3MzI0NTk2ZjE0M2UxNDc4ODM5MDYxNjkxNTljNmVh`

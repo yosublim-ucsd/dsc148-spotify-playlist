@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Dan + Shay",
-  "num_followers": 450428,
+  "num_followers": 450501,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDJkOWIxMmE1MjFlMzYxZDhlNjE3ZTk3YTZhYmI1MTM2ZTZjZTRj",
+  "snapshot_id": "MCxmMTE2NGE5NGVjMWQyNTRmNWQxZDcxOWQ5OGEzMzE1NzFmZTlmYjE5",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "If I Was a Cowboy",
+      "url": "https://open.spotify.com/track/7eqCfMp6Lle7Ij3QjOwrya"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "No Bad Days (featuring Jimmie Allen)",
         "url": "https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 190451,
       "name": "Same Boat",
       "url": "https://open.spotify.com/track/4HD9SLK4s9rwRyuFt3n8N7"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "If I Was a Cowboy",
-      "url": "https://open.spotify.com/track/7eqCfMp6Lle7Ij3QjOwrya"
     },
     {
       "added_at": "2023-09-08 04:01:00",

@@ -1263,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "Cherry Delight",
+        "url": "https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy"
+      },
+      "artists": [
+        {
+          "name": "1000 Beasts",
+          "url": "https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9"
+        },
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Cherry Delight",
+      "url": "https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN"
+    },
+    {
+      "album": {
         "name": "Cherry Ice Cream Sundae",
         "url": "https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0"
       },
@@ -7446,7 +7468,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 169546,
       "name": "Seconds",
       "url": "https://open.spotify.com/track/7brqqadnLsTc56YzyQ1QQk"

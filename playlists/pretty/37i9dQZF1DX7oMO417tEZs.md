@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > carving their own lane\. James Blake on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,924 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,939 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [X\-8](https://open.spotify.com/track/6svSVekX57s5RFxt4qDWg3) | [sineila](https://open.spotify.com/artist/0RWXZoAIcqlzCwMc9Tv4lh) | [X\-8](https://open.spotify.com/album/4X77dbBWhmyNOU5O1ramMb) | 1:51 |
 | 100 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 |
 
-Snapshot ID: `MCxkZjg1ZWE2NTViNmZlN2JjZmIzNjJkNzVkMTE3ODFmZWY3N2I5NmJm`
+Snapshot ID: `MCxiZTU1ZWY2ODIyZDFiYzU3NjlkOTNkYzQ2YmM5MThlMjkyZjY2NWIz`

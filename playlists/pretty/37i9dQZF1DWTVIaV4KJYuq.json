@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 688780,
+  "num_followers": 688855,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmViZjM5OWMwZDllMmQ4NjAwODQ5MTc2MjA5NWMwZGJiOTU4N2Q5",
+  "snapshot_id": "MCw4ZDJhYzM4YTg2NzhlZGRkZTk4MzI3OWRmZGJmOTAyOWEzY2QwYmI2",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "I Can Help",
-        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 218225,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "I Melt with You",
         "url": "https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 217344,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "I Can Help",
+        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 218225,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "A Whiter Shade of Pale",
+        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 285428,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Helplessly Hoping",
         "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 180866,
       "name": "Eye Of The Tiger",
       "url": "https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "A Whiter Shade of Pale",
-        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 285428,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Greatest Hits And Others",
-        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Judah & The Lion (Live)",
         "url": "https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 227600,
       "name": "I Won't Back Down - Live",
       "url": "https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Greatest Hits And Others",
+        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Strangers (From \"Life In A Day\")",
+        "url": "https://open.spotify.com/album/2R1whJdo3obmdC009WcaYC"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 192963,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/4rhqHKUFyeXBfdGUcbYVCQ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 345773,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Strangers (From \"Life In A Day\")",
-        "url": "https://open.spotify.com/album/2R1whJdo3obmdC009WcaYC"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 192963,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/4rhqHKUFyeXBfdGUcbYVCQ"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Mercy Mercy Me (The Ecology)",
-        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
+        "name": "You'll Never Walk Alone",
+        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
       },
       "artists": [
         {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 190885,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
+      "duration_ms": 118476,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
     }
   ],
   "unique_name": "Classic Covers",

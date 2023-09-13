@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 120000,
       "name": "Dil Mangda",
       "url": "https://open.spotify.com/track/6tH1CdDgvrxKJRKaJ7jNLd"
@@ -9647,6 +9647,32 @@
     },
     {
       "album": {
+        "name": "Ni Kude (From \"Gaddi Jaandi Ae Chalaangaan Maardi\")",
+        "url": "https://open.spotify.com/album/5dGhb0mUfqMwwOwbnyDxtR"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        },
+        {
+          "name": "N Vee",
+          "url": "https://open.spotify.com/artist/4O58hOXQfK7tmXXhg5i1BL"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Ni Kude - From \"Gaddi Jaandi Ae Chalaangaan Maardi\"",
+      "url": "https://open.spotify.com/track/15jmhEIowlDZ2i9LYP9M59"
+    },
+    {
+      "album": {
         "name": "Ni Mai Tera (From \"Television\")",
         "url": "https://open.spotify.com/album/2SquNcbWkgMseCOKsWQjO9"
       },
@@ -13846,7 +13872,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 193200,
       "name": "Tasbih",
       "url": "https://open.spotify.com/track/4hFoqtvjxZK65wCO7s7hvT"

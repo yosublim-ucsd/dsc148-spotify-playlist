@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 113165,
+  "num_followers": 113251,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWEzNWFkNjI2MWQ3OTk2ZjM2M2JjNGUyZTg3NzI1ZGUwOTBhMzk3",
+  "snapshot_id": "MCwzYWUwZTJmYjBlM2YwYzJjZWU1NmJlNWU1MjgzYjA3YmU3YTJiMzgw",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -415,6 +415,30 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Eu Confio Em Ti (Remix)",
+        "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
+      },
+      "artists": [
+        {
+          "name": "Duda Santos Oficial",
+          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
+        },
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "MAYK",
+          "url": "https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa"
+        }
+      ],
+      "duration_ms": 235468,
+      "name": "Eu Confio Em Ti - Remix",
+      "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Joquebede (Remix)",
         "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
       },
@@ -447,30 +471,6 @@
       "duration_ms": 158733,
       "name": "A Sertaneja de Jesus",
       "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Eu Confio Em Ti (Remix)",
-        "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
-      },
-      "artists": [
-        {
-          "name": "Duda Santos Oficial",
-          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
-        },
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "MAYK",
-          "url": "https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa"
-        }
-      ],
-      "duration_ms": 235468,
-      "name": "Eu Confio Em Ti - Remix",
-      "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
     },
     {
       "added_at": "2023-09-08 03:00:00",

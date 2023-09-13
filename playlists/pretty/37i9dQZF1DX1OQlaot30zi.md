@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Mikush, Villabanks, Paky, Simba La Rue e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,014 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,046 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 74 | [POSSESSIVA](https://open.spotify.com/track/4eBr8d1QaWnsiHs9durMSV) | [Marlon](https://open.spotify.com/artist/7M7GtzszIlcS03qCa03oqh), [SEEKER](https://open.spotify.com/artist/0pEzJIVWyMgjuDM44DZ55A), [2nd world](https://open.spotify.com/artist/5WMWuJLN6grX3KQ42wKEZj) | [POSSESSIVA](https://open.spotify.com/album/4ML9hFDI6zrasEmSJX27qE) | 2:59 |
 | 75 | [C VUO](https://open.spotify.com/track/5vpPOHCj3KgQwa8ZuIr5m1) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [C VUO](https://open.spotify.com/album/5JsxOA21rxBnItVyMzXHFk) | 2:42 |
 
-Snapshot ID: `MCw0MmNlZGI0NzhkZTJhMGNmN2IwODhlMTdjNmQxYTk1MzNjZjViNzU4`
+Snapshot ID: `MCxjYWI2NGFhYTI3NDU4MThjZDlhNjU4NDExZjliNWNkODAxOTdmNTI4`

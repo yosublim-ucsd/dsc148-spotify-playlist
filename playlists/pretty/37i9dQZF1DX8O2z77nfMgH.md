@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Residente y WOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,455 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,493 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 33 | [El Pobre](https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [El Pobre](https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo) | 3:05 |
 | 34 | [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 |
 | 35 | [Flechitas](https://open.spotify.com/track/4TROb8ERAEvpOiy4WzX1uB) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Flechitas](https://open.spotify.com/album/4elWgbMK11iz1cFxgCpPeJ) | 3:20 |
-| 36 | [GIRO 180](https://open.spotify.com/track/2GWFiSNw8elbIt0emwTbyg) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [GIRO 180](https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ) | 4:26 |
+| 36 | [GIRO 180](https://open.spotify.com/track/2GWFiSNw8elbIt0emwTbyg) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [GIRO 180](https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ) | 4:24 |
 | 37 | [Dia Feliz](https://open.spotify.com/track/2yo0tZjSJrIxI4lNZqHVYh) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Dia Feliz](https://open.spotify.com/album/6XPPdkSzI1t6xc4aIcuR3C) | 2:48 |
 | 38 | [Freud](https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Ecolocalización](https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P) | 1:56 |
 | 39 | [Mojito](https://open.spotify.com/track/6nusnc9ti1EhH4hD8fGhh2) | [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf), [Marigaby](https://open.spotify.com/artist/6T1uXUwkOXS5v70yZduarI), [Da Silva](https://open.spotify.com/artist/6vuVged7VF8wges7fJU2s5), [JC Segura](https://open.spotify.com/artist/7rGmBkTZ2s0M3hZUVIbW3D) | [Mojito](https://open.spotify.com/album/0JEnpjW2rO3gvdyvPpcDzm) | 2:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG), [Roni Bruno](https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1), [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7) | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL) | 2:15 |
 | 60 | [Lili](https://open.spotify.com/track/50xFGBuVecb9LQ6a5evQJg) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Terra Preta](https://open.spotify.com/artist/5ngE7XJPqw9CoOq3agu5FP) | [Lili](https://open.spotify.com/album/51W9VxFae3lbK4AhwLzB0L) | 4:00 |
 
-Snapshot ID: `MCxjZWUwMmY5YjQ3ZGNmZDI4NzA5ODNkYzcxZmVjOGNhN2NkZTE0OTE4`
+Snapshot ID: `MCw2NjQzYmNmM2UwMTk0NjhkODJjOWU3MGRmZWM0YTI0MDMwNDQwMzI2`

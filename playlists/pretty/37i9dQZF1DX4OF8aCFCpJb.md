@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,069 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,078 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 34 | [Hög standard](https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe) | [Peps Blodsband](https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD) | [Hög standard](https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi) | 5:16 |
 | 35 | [Snapphaneklanen](https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Upphovsmännen Till Den Skånska Raggan](https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg) | 3:51 |
 | 36 | [Jag Minns](https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:57 |
-| 37 | [Enda Vägen Fram](https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Folkets Röst](https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw) | 3:13 |
-| 38 | [Full fokus](https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [Mellan Raderna](https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE) | 3:11 |
+| 37 | [Full fokus](https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [Mellan Raderna](https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE) | 3:11 |
+| 38 | [Enda Vägen Fram](https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Folkets Röst](https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw) | 3:13 |
 | 39 | [Under samma himmel](https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Under samma himmel](https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA) | 4:13 |
 | 40 | [Wayback](https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3) | [O\-Hund](https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo), [Wha Gwaan Band](https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG) | [Wayback](https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B) | 3:28 |
 | 41 | [Kontakt](https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY), [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Kalibreraren](https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
 | 50 | [Du Vill Så Du Kan](https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma) | 4:05 |
 
-Snapshot ID: `MCxkMGZlODBiYWM0ZGY5YjQ5N2JkZTZkN2NjOTEzYmVjZDYxNGZhM2Mz`
+Snapshot ID: `MCw2ODI4MTg1MWFmYWQwNjEzZTY5ZDFiNDJlY2I0YWMyYTVkZmIzOWRh`

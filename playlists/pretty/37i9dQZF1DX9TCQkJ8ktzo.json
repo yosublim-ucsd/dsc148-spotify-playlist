@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 28014,
+  "num_followers": 28071,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDYxMDFjYzZmN2RiNWY0YWFlNGE3NjFhNDg5OTdlMzIwYmU2MTUw",
+  "snapshot_id": "MCw5YjgyMDE5ZTJkNjUwNmE4NTk5NjdhZDY2MTAyMjQ3YmI5MTc0YWI4",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:27",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
-      },
-      "artists": [
-        {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Suspenso Infernal",
-      "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Guantanamera",
         "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
       },
@@ -255,18 +239,34 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP"
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
         }
       ],
-      "duration_ms": 163120,
-      "name": "El Malquerido",
-      "url": "https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD"
+      "duration_ms": 172160,
+      "name": "Suspenso Infernal",
+      "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Son con Guaguanc\u00f3",
+        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Son con Guaguanc\u00f3",
-        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 211866,
-      "name": "Bemba Color\u00e1",
-      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
+      "duration_ms": 163120,
+      "name": "El Malquerido",
+      "url": "https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD"
     },
     {
       "added_at": "2023-02-17 20:56:27",

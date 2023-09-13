@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,320 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,360 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 18 | [This Is What I Mean](https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 5:25 |
 | 19 | [E.N.K.R](https://open.spotify.com/track/2ZHm36ojzqkGPOfpkNpcJ4) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [E.N.K.R](https://open.spotify.com/album/6fUW1ADYZQIxY81HfkxKEf) | 0:55 |
 | 20 | [018](https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [018](https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1) | 3:15 |
-| 21 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
-| 22 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 |
-| 23 | [Do I](https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Do I](https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk) | 2:35 |
+| 21 | [Do I](https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Do I](https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk) | 2:35 |
+| 22 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
+| 23 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 |
 | 24 | [Dog Eat Dog](https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dog Eat Dog](https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH) | 2:29 |
 | 25 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 |
 | 26 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
 | 50 | [Hate Me](https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Hate Me](https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p) | 3:19 |
 
-Snapshot ID: `MCwwMmU4YzQ5NDRlOTc0MmIwNzhlMmM2NTNhYjk5NTUyMTIxYjEyMzhl`
+Snapshot ID: `MCw4MDk3YjU5ZjRjYTdjMTQzNWQyOTJmOWM3NmQwYWI0NzNhZWZjZDM3`

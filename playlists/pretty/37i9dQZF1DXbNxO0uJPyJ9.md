@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,474 likes - 80 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,726 likes - 80 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 11 | [Somebody's Watching Me](https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me](https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw) | 4:58 |
 | 12 | [Der Kommissar](https://open.spotify.com/track/3TBRJsLCcwroEkA3tD4u2N) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Einzelhaft](https://open.spotify.com/album/4713DwyqNIrkyj17Q5Rsde) | 3:52 |
 | 13 | [Rhythm Is A Dancer \- 12'' Version](https://open.spotify.com/track/6NLAzDPHSlV2bl7XbmivOq) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [Rhythm Is a Dancer 2008](https://open.spotify.com/album/0fCSmPLktcURKcwkO06qeN) | 5:16 |
-| 14 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
-| 15 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 |
+| 14 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 |
+| 15 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
 | 16 | [I Feel Love \- 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 8:15 |
 | 17 | [Sounds Like a Melody \- 2019 Remaster](https://open.spotify.com/track/4yDCTzaFfr7YOuYKpwgidL) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:46 |
 | 18 | [Red Red Wine](https://open.spotify.com/track/1tOE1dIyIjsfLJWiQ4ZRJW) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love](https://open.spotify.com/album/5kxx0oDspXVyGCOjdDjSFi) | 5:20 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 49 | [Flashback](https://open.spotify.com/track/1EOlxJCq3fXCIvqWJm1xrO) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [Body Talk](https://open.spotify.com/album/10Y664SOGkLTvzcP2xrET6) | 4:35 |
 | 50 | [Voyage voyage \- Maxi](https://open.spotify.com/track/1i8isuRSQWFX9qKnaI5hrt) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 6:43 |
 | 51 | [Baker Street \- Extended Mix](https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70) | [Undercover](https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7) | [Baker Street](https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW) | 5:11 |
-| 52 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
-| 53 | [You Spin Me Round \(Like a Record\) \- Murder Mix](https://open.spotify.com/track/6gIBeNdhyrT2nt1zEILoxc) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [That's The Way I Like It: The Best of Dead Or Alive](https://open.spotify.com/album/1FhVoVBXXXJuZr3GwdOgPS) | 8:01 |
+| 52 | [You Spin Me Round \(Like a Record\) \- Murder Mix](https://open.spotify.com/track/6gIBeNdhyrT2nt1zEILoxc) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [That's The Way I Like It: The Best of Dead Or Alive](https://open.spotify.com/album/1FhVoVBXXXJuZr3GwdOgPS) | 8:01 |
+| 53 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
 | 54 | [Always on My Mind / In My House \- 2018 Remaster](https://open.spotify.com/track/21akfkoBT6W38XFeNYX57d) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective \(2018 Remaster\)](https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH) | 9:04 |
 | 55 | [It's My Life \- Extended Mix; 2003 Remaster](https://open.spotify.com/track/4nfSUYBf9XJxctw71Q17FZ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf), [Tim Friese\-Greene](https://open.spotify.com/artist/7Dx9xrykZrUZd5aemucBMi) | [Remixed \(2003 Remaster\)](https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4) | 6:19 |
 | 56 | [Relax \- New York Mix](https://open.spotify.com/track/4UIUegq1Mp3XFXW0M9b4im) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Bang! \(Here Comes A Supernova\)](https://open.spotify.com/album/5LpKLoUmnnE3TVzoEjdrmm) | 7:23 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 59 | [Rock Me Amadeus \- 12" American Edit](https://open.spotify.com/track/5SjPfAiNn5rqPkQNcglgVR) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus 30th Anniversary](https://open.spotify.com/album/31VIlWUGdK4a3ZqEC9efJO) | 5:50 |
 | 60 | [Love](https://open.spotify.com/track/1kSORioLYEnTW7VEuBAoFG) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [Daft](https://open.spotify.com/album/5zPJjpbtL6TGmm0JDlW42R) | 7:01 |
 | 61 | [So Many Men, So Little Time](https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9) | [Miquel Brown](https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G) | [So Many Men](https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX) | 8:14 |
-| 62 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 |
-| 63 | [Maria Magdalena \- Extended Version](https://open.spotify.com/track/5FZfFEb6seV2NzTF7SVChR) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [So80s Presents Sandra \- Curated By Blank & Jones](https://open.spotify.com/album/3AZeLA6zVLTEfUCVG7fdFP) | 7:11 |
+| 62 | [Maria Magdalena \- Extended Version](https://open.spotify.com/track/5FZfFEb6seV2NzTF7SVChR) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [So80s Presents Sandra \- Curated By Blank & Jones](https://open.spotify.com/album/3AZeLA6zVLTEfUCVG7fdFP) | 7:11 |
+| 63 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 |
 | 64 | [Letter From My Heart \- Original 12" Version](https://open.spotify.com/track/1m2Nhacm0P7zxEia9xMMme) | [Steve Allen](https://open.spotify.com/artist/2RsnV5tqDGDBOooPbpSVdS) | [Letter From My Heart](https://open.spotify.com/album/3dLFdLwD6YULEAKZT0WjG4) | 5:25 |
 | 65 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
 | 66 | [Pale Shelter \- Long Version](https://open.spotify.com/track/1UfMmncg5kMuPBRlAx8Jtd) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 7:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Lessons In Love \- Shep Pettibone Remix](https://open.spotify.com/track/1rjF5gX73nMKe4xfgVv97j) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 7:49 |
 | 80 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:48 |
 
-Snapshot ID: `MCxhMjg4NGIyNDg0NjE1YmZiOWJhY2VmYmRmYzNlYjUxMjdkMGEzYzk0`
+Snapshot ID: `MCxkMDRiOWYyNjJmNDExZGVhOGQ1NzE5ODc1YWM2MDlhNWM2MDgyZjUz`

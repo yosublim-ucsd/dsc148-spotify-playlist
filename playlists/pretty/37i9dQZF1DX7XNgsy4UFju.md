@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,332 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,360 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 84 | [Big Things Small Seeds](https://open.spotify.com/track/45FP5aLLS4NiCKtsacYQ0i) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Big Things Small Seeds](https://open.spotify.com/album/5a8MxBKU9rzJJxC7pFtIRA) | 3:18 |
 | 85 | [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 |
 | 86 | [Never Apart](https://open.spotify.com/track/1ku2wcKgP7y0gQmLMUsp0D) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Never Apart](https://open.spotify.com/album/1cwSdbCXfll0VQjKEQv3c9) | 4:07 |
-| 87 | [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 |
+| 87 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 |
 | 88 | [Going Under](https://open.spotify.com/track/5Qu0vk5db6nygY3B9Aa90H) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Going Under](https://open.spotify.com/album/1a914TVEVrPr8HjljjPgGu) | 3:29 |
 | 89 | [The Beach](https://open.spotify.com/track/1nPphsH386vi13IEenaQi0) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [The Beach](https://open.spotify.com/album/60fgp2GJAd5zdTelbURJSl) | 4:53 |
 | 90 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Grace](https://open.spotify.com/track/0PkULtfgErOmg562Jkoj7q) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf) | [Sunshine State of a Happy Camper](https://open.spotify.com/album/0CDDoR9TpkCc2rGVhGB71B) | 3:29 |
 | 100 | [Ancestors Too Young](https://open.spotify.com/track/2R68ppaS9ZRhOCGIcL1vPX) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Ancestors Too Young](https://open.spotify.com/album/4FWTMFOoW2fhvPcNatxqQt) | 5:27 |
 
-Snapshot ID: `MCw1OTYzODhhYmEzNDY5ZjQ0MTYzOWI4YzViZTNlMWI5YTVkMDM4YmEx`
+Snapshot ID: `MCxjZjg4MmFiZTNlYTczZmQ0MzFiZTM4NWFjMzFhNjc3ODFlYzZjM2Ex`

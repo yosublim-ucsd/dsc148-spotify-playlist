@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 150853,
+  "num_followers": 150960,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTk3NWNjZmJlNWEwYmIyZTA5YzI2NDc1NzNlYmVkMDUyOWZkNWQx",
+  "snapshot_id": "MCxlNTRmZTU0OTk5NGIyYThjN2NiNDlmZWNmYjM5M2I2NmU4MTIyMTI1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Italian Ice",
-        "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
-      },
-      "artists": [
-        {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
-        }
-      ],
-      "duration_ms": 243769,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Cheers",
         "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 228707,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Italian Ice",
+        "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
+      },
+      "artists": [
+        {
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+        }
+      ],
+      "duration_ms": 243769,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 140164,
-      "name": "Hippo",
-      "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Panther in the Dollhouse",
         "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 203319,
       "name": "Nighthawks",
       "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 140164,
+      "name": "Hippo",
+      "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
     },
     {
       "added_at": "2023-08-18 04:01:00",

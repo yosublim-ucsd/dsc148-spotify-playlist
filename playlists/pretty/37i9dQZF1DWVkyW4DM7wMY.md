@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,807 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,813 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 59 | [Let's Be Dead Together](https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 3:19 |
 | 60 | [I Give Her Love](https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Herbert Ssensamba](https://open.spotify.com/artist/551y4ECPYt7eD0EIlew8sg) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 4:38 |
 | 61 | [Kampala](https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Kampala](https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG) | 3:09 |
-| 62 | [Lollipop](https://open.spotify.com/track/4UHMy4KxMAAEu4dSSHMe8h) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Lollipop](https://open.spotify.com/album/5kZxneIXl7kwSMClNweMki) | 3:26 |
+| 62 | [Lollipop](https://open.spotify.com/track/5Hh5KET3Dm5fXck2bfGXsT) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Lollipop](https://open.spotify.com/album/2LIfepdFpCjRtKIOZJTmMX) | 3:26 |
 | 63 | [100 Times](https://open.spotify.com/track/0FxaztVEQJyGXagfrVU3V4) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Sorry](https://open.spotify.com/album/7hPdbpMDpAjhEyBlHtOv8P) | 2:13 |
 | 64 | [Entebbe](https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Entebbe](https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub) | 3:52 |
 | 65 | [Sana](https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7) | [Sana](https://open.spotify.com/album/6DIKpG4tLCzL3VXkohDwrR) | 2:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [Chaser 2.0](https://open.spotify.com/track/2HGsCutOKv0mC7R0EoiSfP) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Chaser 2.0](https://open.spotify.com/album/1dvm9UdT2HzJeEZzR1HDUz) | 3:00 |
 | 70 | [Sugar My](https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [Sugar My](https://open.spotify.com/album/1d8R1bjpHCMEAK3FH9pGEf) | 3:06 |
 
-Snapshot ID: `MCxkMzIzOGZhMTA2MmE2MmZjOTU0ZWJjMjFiM2MxZDBhODE3NzQ4MTFh`
+Snapshot ID: `MCwxM2M0MTY0MGMxZDJhN2FhOTBlMDMyOWU5MDk5YWU1NjRjMDZiZjRl`

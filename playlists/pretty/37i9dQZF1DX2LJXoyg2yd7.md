@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,793 likes - 40 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,807 likes - 40 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 12 | [فائق الغزلان](https://open.spotify.com/track/48OuCA67DLWGPuPAIy7cZm) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [حبيب ولا غريب](https://open.spotify.com/album/0aUs2ZwUVpT1xr8KIhwF3V) | 5:02 |
 | 13 | [عاده صغير](https://open.spotify.com/track/6QJLJ7LhunlxbwkobbjJBx) | [Faysal Alawi](https://open.spotify.com/artist/4PRa5qwOK0FRxd0JnutD8x) | [يا بدر يا غصن](https://open.spotify.com/album/63qgOooIYqQ8bLuK4Xw4td) | 9:00 |
 | 14 | [ياورد ياكاذي](https://open.spotify.com/track/2Q7LfXzspve6Iza70Itbak) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [حفلة نجران](https://open.spotify.com/album/0Q6xLBvxom21S1iQ44yWD7) | 9:42 |
-| 15 | [يابنات ارقصين](https://open.spotify.com/track/4C7VConVsTBdMdfTgiwcZf) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [زفه 1998](https://open.spotify.com/album/6jwfmfbRJctCKQPcsE4iJe) | 6:03 |
-| 16 | [أنا اليماني](https://open.spotify.com/track/2crXyiPYfYTJrgU4i7a0FJ) | [Ammar Alazaki](https://open.spotify.com/artist/6TLBFfFm6S2e9lAL8eDkkR) | [أنا اليماني](https://open.spotify.com/album/4N6IOBbQyfPVD9sOC2s2TN) | 4:08 |
+| 15 | [أنا اليماني](https://open.spotify.com/track/2crXyiPYfYTJrgU4i7a0FJ) | [Ammar Alazaki](https://open.spotify.com/artist/6TLBFfFm6S2e9lAL8eDkkR) | [أنا اليماني](https://open.spotify.com/album/4N6IOBbQyfPVD9sOC2s2TN) | 4:08 |
+| 16 | [يا بنات اليمن](https://open.spotify.com/track/0RGaeMrWP2ounpiQwEMXdf) | [Khaled Al Dhabry](https://open.spotify.com/artist/3KuRxM5CLQd8eX6YAJhSwM) | [زفة 2002](https://open.spotify.com/album/3l80ii05quIHR1eINTKMZu) | 4:05 |
 | 17 | [Galow Ashyaa](https://open.spotify.com/track/65ZfHeY07AKmkSN1KzRZEW) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Galow Ashyaa](https://open.spotify.com/album/7Ca717RPn43npVbckSmQ4e) | 3:00 |
 | 18 | [Ya Saher Aleainain](https://open.spotify.com/track/569GHmdXGxgsAgvqZFx4jF) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Sirr Hobbi](https://open.spotify.com/album/3VntSLELrNgNlPiJbTnB0W) | 6:46 |
 | 19 | [Habibti](https://open.spotify.com/track/3ZK3sfXR0qal1vdu30AMcw) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Habibti](https://open.spotify.com/album/6rWsWm2XEgvvZens32Bl2C) | 4:44 |
-| 20 | [يا بنات اليمن](https://open.spotify.com/track/0RGaeMrWP2ounpiQwEMXdf) | [Khaled Al Dhabry](https://open.spotify.com/artist/3KuRxM5CLQd8eX6YAJhSwM) | [زفة 2002](https://open.spotify.com/album/3l80ii05quIHR1eINTKMZu) | 4:05 |
+| 20 | [يابنات ارقصين](https://open.spotify.com/track/4C7VConVsTBdMdfTgiwcZf) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [زفه 1998](https://open.spotify.com/album/6jwfmfbRJctCKQPcsE4iJe) | 6:03 |
 | 21 | [يا مهاجر](https://open.spotify.com/track/7lCGZKNM9OzhPtRTyamcbN) | [Mohamed Moshajeal](https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd) | [ريم البوادي](https://open.spotify.com/album/0gB9Upr1MXZgfkdg534ny1) | 8:32 |
 | 22 | [Habibti](https://open.spotify.com/track/3dwHet5JjKR4gS8aY2plg6) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Habibti](https://open.spotify.com/album/57JFtx9zHfzT39a1rlP4RK) | 3:24 |
 | 23 | [حبيبي ظلمني](https://open.spotify.com/track/2z9zAeVlLl81e9pkRC0lkN) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 6:01 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 39 | [Eih Ahebak](https://open.spotify.com/track/0g5EJbRnkDaXyWBhAk7qat) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Eih Ahebak](https://open.spotify.com/album/50KvxvqYsNgNjTSEW3FjEl) | 3:30 |
 | 40 | [الحب مرة](https://open.spotify.com/track/34mjeaxGP6p6MWDTEnX81I) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [شفقدك](https://open.spotify.com/album/6vOiseLRxaKHLE2rdsOYjT) | 5:29 |
 
-Snapshot ID: `MCw0NzU5YTljM2I0NzE5MGFkZmY4OGZmOWE5Y2NhMTg5ZTg1ZmM1ZWIw`
+Snapshot ID: `MCwzNjUxMjcyNjMzZmY5Mjc4NmRmMGU0NmRkYmQxMzE3NjMxNWRkNjIw`

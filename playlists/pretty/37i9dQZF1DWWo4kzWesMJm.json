@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 83157,
+  "num_followers": 83291,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWQ1YTkyNzBhYjJjMGNlMTdlODgwOTVjMzc2OGIyNGU2MjhhMDc2",
+  "snapshot_id": "MCwyODI2NTNlYzlmY2U0ZWZmMWYyN2VkODViMTM3NTUyZDUwOGQ5ZWNh",
   "tracks": [
     {
       "added_at": "2023-05-23 12:45:45",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Montagnes Russes",
-        "url": "https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN"
-      },
-      "artists": [
-        {
-          "name": "Lujipeka",
-          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
-        }
-      ],
-      "duration_ms": 159173,
-      "name": "Poup\u00e9e Russe",
-      "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Cure",
         "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 184840,
       "name": "Kid",
       "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Montagnes Russes",
+        "url": "https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN"
+      },
+      "artists": [
+        {
+          "name": "Lujipeka",
+          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
+        }
+      ],
+      "duration_ms": 159173,
+      "name": "Poup\u00e9e Russe",
+      "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "L'attrape-r\u00eaves",
         "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 250480,
       "name": "Il est o\u00f9 le bonheur",
       "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Le reste",
-      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Mon paradis",
         "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 209000,
       "name": "Belle demoiselle",
       "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Le reste",
+      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -727,38 +727,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Coco C\u00e2line",
-      "url": "https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "In\u00e9dits 1968-1998",
-        "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "Laissons entrer le soleil",
-      "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Vari\u00e9ty",
         "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 219933,
       "name": "Ding Dang Dong (Ringing at Your Bell)",
       "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Coco C\u00e2line",
+      "url": "https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+        "name": "In\u00e9dits 1968-1998",
+        "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
         }
       ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
+      "duration_ms": 224240,
+      "name": "Laissons entrer le soleil",
+      "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -819,6 +803,22 @@
       "duration_ms": 294173,
       "name": "Un jour au mauvais endroit",
       "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Le Premier Jour",
-        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Le Premier jour (Du reste de ta vie)",
-      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Palais d'argile",
         "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 214464,
       "name": "Monde Nouveau",
       "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Le Premier Jour",
+        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Le Premier jour (Du reste de ta vie)",
+      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Meilleurs souvenirs - Best Of",
-        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
-      },
-      "artists": [
-        {
-          "name": "Les Innocents",
-          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "L'autre finist\u00e8re",
-      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Brigitte Bardot",
         "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Seul",
-        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
+        "name": "Meilleurs souvenirs - Best Of",
+        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
       },
       "artists": [
         {
-          "name": "Garou",
-          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+          "name": "Les Innocents",
+          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
         }
       ],
-      "duration_ms": 281373,
-      "name": "Seul",
-      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
+      "duration_ms": 249666,
+      "name": "L'autre finist\u00e8re",
+      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1027,6 +1011,22 @@
       "duration_ms": 197691,
       "name": "La recette",
       "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Animaux fragiles",
-        "url": "https://open.spotify.com/album/0bM7IqCH0vPrYCrhFiScY6"
-      },
-      "artists": [
-        {
-          "name": "Ycare",
-          "url": "https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB"
-        },
-        {
-          "name": "Zaz",
-          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
-        }
-      ],
-      "duration_ms": 195002,
-      "name": "Animaux fragiles",
-      "url": "https://open.spotify.com/track/4yWP2IC6gq5Hl8bVouCvMs"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Cats On Trees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 176618,
       "name": "Jimmy",
       "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Animaux fragiles",
+        "url": "https://open.spotify.com/album/0bM7IqCH0vPrYCrhFiScY6"
+      },
+      "artists": [
+        {
+          "name": "Ycare",
+          "url": "https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB"
+        },
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "duration_ms": 195002,
+      "name": "Animaux fragiles",
+      "url": "https://open.spotify.com/track/4yWP2IC6gq5Hl8bVouCvMs"
     },
     {
       "added_at": "2023-05-23 12:45:45",

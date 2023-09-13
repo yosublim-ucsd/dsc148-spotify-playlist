@@ -1,12 +1,12 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 132130,
+  "num_followers": 132140,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTEyOWQ0NzBhYjllODBiMjEwN2QyZmI4ZGNhNDU3YWY1YjUyOWVi",
+  "snapshot_id": "MCwwYmJmNjdiZjlhMGY1YjI1YWExYThlMDgyMWU4ZGNmYTU5OTU4OWM2",
   "tracks": [
     {
       "added_at": "2023-09-11 02:04:58",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-09-11 02:04:58",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 161811,
-      "name": "Summer Baby",
-      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
-    },
-    {
-      "added_at": "2023-09-11 02:04:58",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2023-09-11 02:04:58",
       "album": {
-        "name": "SOUTHSIDE",
-        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 162546,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY"
+      "duration_ms": 161811,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
     },
     {
       "added_at": "2023-09-11 02:04:58",
@@ -587,6 +571,22 @@
       "duration_ms": 198053,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+    },
+    {
+      "added_at": "2023-09-11 02:04:58",
+      "album": {
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY"
     },
     {
       "added_at": "2023-09-11 02:04:58",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-09-11 02:04:58",
       "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "added_at": "2023-09-11 02:04:58",
+      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 186761,
       "name": "Lottery (feat. LU KALA)",
       "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
-    },
-    {
-      "added_at": "2023-09-11 02:04:58",
-      "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2023-09-11 02:04:58",
@@ -743,30 +743,6 @@
     {
       "added_at": "2023-09-11 02:04:58",
       "album": {
-        "name": "Despacito Feat. Justin Bieber (Remix)",
-        "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 228826,
-      "name": "Despacito - Remix",
-      "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
-    },
-    {
-      "added_at": "2023-09-11 02:04:58",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2023-09-11 02:04:58",
+      "album": {
+        "name": "Despacito Feat. Justin Bieber (Remix)",
+        "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "Despacito - Remix",
+      "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
     },
     {
       "added_at": "2023-09-11 02:04:58",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-09-11 02:04:58",
       "album": {
-        "name": "Know Your Worth",
-        "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 181436,
-      "name": "Know Your Worth",
-      "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
-    },
-    {
-      "added_at": "2023-09-11 02:04:58",
-      "album": {
         "name": "Voicenotes",
         "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 180493,
       "name": "Done for Me (feat. Kehlani)",
       "url": "https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7"
+    },
+    {
+      "added_at": "2023-09-11 02:04:58",
+      "album": {
+        "name": "Know Your Worth",
+        "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 181436,
+      "name": "Know Your Worth",
+      "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
     },
     {
       "added_at": "2023-09-11 02:04:58",
@@ -1127,6 +1127,22 @@
       "duration_ms": 219053,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
+    },
+    {
+      "added_at": "2023-09-11 02:04:58",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 182895,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
     },
     {
       "added_at": "2023-09-11 02:04:58",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2023-09-11 02:04:58",
       "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 182895,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
-    },
-    {
-      "added_at": "2023-09-11 02:04:58",
-      "album": {
         "name": "Donavon Frankenreiter",
         "url": "https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-11 02:04:58",
       "album": {
-        "name": "2002",
-        "url": "https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
-    },
-    {
-      "added_at": "2023-09-11 02:04:58",
-      "album": {
         "name": "Free Spirit",
         "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 177066,
       "name": "Outta My Head (with John Mayer)",
       "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
+    },
+    {
+      "added_at": "2023-09-11 02:04:58",
+      "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
     },
     {
       "added_at": "2023-09-11 02:04:58",

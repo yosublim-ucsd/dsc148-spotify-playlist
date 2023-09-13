@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,726 likes - 113 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,727 likes - 113 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 112 | [One Call Away](https://open.spotify.com/track/67UjkyO4EGpgcm7srfTgii) | [Dad Harmony](https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX) | [One Call Away](https://open.spotify.com/album/09xHldkA5GfhNwPBjJV9n4) | 3:00 |
 | 113 | [Lugna daj](https://open.spotify.com/track/2nkkFrcJi3B5chRct8XcKX) | [Elecktra](https://open.spotify.com/artist/6vPnczhe7eoUlRdBrkISoK) | [Lugna daj](https://open.spotify.com/album/453yxtkxqCsa6w8Yi2GPcP) | 3:06 |
 
-Snapshot ID: `MCw5OTEwMmM2NzgxNjdlNjA3MzI3ZmJmMTkwNDUzOTJiNjgwYzE0YzU5`
+Snapshot ID: `MCxjYmI5ODkxOTM2NmRjYWU1YjJiNTg3ZjJmMDI0ZjUzZjA0YmIyNDM0`

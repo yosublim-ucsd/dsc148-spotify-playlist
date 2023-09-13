@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: Tizrah",
-  "num_followers": 865538,
+  "num_followers": 865651,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGMwMTU3ZmJiMGY1ZjZmODczMDdjODg1YTIwNTQ3NzhiZTUzZGM0",
+  "snapshot_id": "MCwxOWFlYzYyZTlhZGJiNDZhNjhiMjA5ODNmN2NiODE2MmIyZmE0Yzhm",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Heartquake",
         "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -809,6 +809,22 @@
       "url": "https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl"
     },
     {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Fire Of Mercy",
@@ -831,18 +847,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
+        "name": "JOY (Head To The Sky)",
+        "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
       },
       "artists": [
         {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
         }
       ],
-      "duration_ms": 172319,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
+      "duration_ms": 230650,
+      "name": "JOY (Head To The Sky)",
+      "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -867,22 +883,6 @@
       "duration_ms": 186795,
       "name": "Waiting Forever",
       "url": "https://open.spotify.com/track/0wABBgkiamVDvK04MUvHkU"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "JOY (Head To The Sky)",
-        "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 230650,
-      "name": "JOY (Head To The Sky)",
-      "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Light Places",
         "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 241804,
       "name": "Feels Just Like It",
       "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1185,6 +1185,26 @@
       "url": "https://open.spotify.com/track/74KoMmEZUjg01KyqNlrr5E"
     },
     {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "The Mall",
@@ -1207,22 +1227,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Sisyphus",
-        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
       },
       "artists": [
         {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
+      "duration_ms": 117539,
+      "name": "Si Te Portas Bonito - Edit",
+      "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Si Te Portas Bonito",
-        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 117539,
-      "name": "Si Te Portas Bonito - Edit",
-      "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "All The Things We Say / Move Me",
         "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 231105,
       "name": "All The Things We Say",
       "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/5slmjDmkuBgIkl3HPc3GHw"
+      },
+      "artists": [
+        {
+          "name": "SAFIA",
+          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2vHCoBojKudmRjFUnPsKys"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 229960,
       "name": "Replacements (feat. La Roux)",
       "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Float",
-        "url": "https://open.spotify.com/album/5slmjDmkuBgIkl3HPc3GHw"
-      },
-      "artists": [
-        {
-          "name": "SAFIA",
-          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/2vHCoBojKudmRjFUnPsKys"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Be Quiet, They're Listening",
-        "url": "https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ"
-      },
-      "artists": [
-        {
-          "name": "OTR",
-          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "In The Summer",
-      "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "Studio 54",
@@ -1459,6 +1443,22 @@
       "duration_ms": 166289,
       "name": "Studio 54",
       "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Be Quiet, They're Listening",
+        "url": "https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ"
+      },
+      "artists": [
+        {
+          "name": "OTR",
+          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "In The Summer",
+      "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Best of Me",
-        "url": "https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 262427,
-      "name": "Best of Me",
-      "url": "https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "hollatchu",
         "url": "https://open.spotify.com/album/6v2Carq39870pglhzZeHqx"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 242711,
       "name": "hollatchu",
       "url": "https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Best of Me",
+        "url": "https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 262427,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2jXg4NPRQFiJRoQtuEoh3H"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 216278,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/1XUcmMksyUn0HwGaE7smrz"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "RISE (Darius Remix)",
         "url": "https://open.spotify.com/album/11H0eAX1PYOz4XENIBHmRL"
       },
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/2jXg4NPRQFiJRoQtuEoh3H"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 216278,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/1XUcmMksyUn0HwGaE7smrz"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/7wfRiLLgR2anjPEaesqAtr"
       },
@@ -1735,6 +1735,22 @@
       "duration_ms": 178138,
       "name": "Is That How You Feel It",
       "url": "https://open.spotify.com/track/1KjMr1ay272SjjNYKf9FY4"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/4UuBmnyUz9drMXyjGgKTor"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 190414,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2wgdQxxB6k5WdDE6U0Dkxl"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1759,18 +1775,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/4UuBmnyUz9drMXyjGgKTor"
+        "name": "Moonlighting \u2013 AstroJazz Vol.1",
+        "url": "https://open.spotify.com/album/4UaAyjTwG1k7X6qJkwYoAy"
       },
       "artists": [
         {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+          "name": "Astrocolor",
+          "url": "https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD"
         }
       ],
-      "duration_ms": 190414,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2wgdQxxB6k5WdDE6U0Dkxl"
+      "duration_ms": 215056,
+      "name": "Star Swing",
+      "url": "https://open.spotify.com/track/3aZI3XL8QULBURRSg2O7rr"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1791,22 +1807,6 @@
       "duration_ms": 243521,
       "name": "Staring In The Dark",
       "url": "https://open.spotify.com/track/7JAVF82CR6L7SZzxiPPOM2"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Icy",
-        "url": "https://open.spotify.com/album/3oV5TP7EKHrkcz6lS99u4g"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Icy",
-      "url": "https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Humans (Elevated Mix)",
-        "url": "https://open.spotify.com/album/2BPV9ZHTm0HxIQ3QBC1edp"
+        "name": "Icy",
+        "url": "https://open.spotify.com/album/3oV5TP7EKHrkcz6lS99u4g"
       },
       "artists": [
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
         }
       ],
-      "duration_ms": 252962,
-      "name": "Humans - Elevated Mix",
-      "url": "https://open.spotify.com/track/4vCrLKs6M10bLbMFRXEbJ6"
+      "duration_ms": 214653,
+      "name": "Icy",
+      "url": "https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP"
     }
   ],
   "unique_name": "metropolis",

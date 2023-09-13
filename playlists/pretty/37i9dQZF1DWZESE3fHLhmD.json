@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Gem\u00fctlichkeit, K\u00fcrbisse und lange Herbstspazierg\u00e4nge.",
-  "num_followers": 1274066,
+  "num_followers": 1274055,
   "original_name": "Herbstgef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWVjNWMzMjE4MTQ5ODU1ODI2MjNjMDA0ZjZmMzdmYzg0YjgxODU5",
+  "snapshot_id": "MCwwMzUyMGEyZjA2MjYzYWYzODIzMWJlOWRhNTY1OGI4ZmYxYmI5Njhi",
   "tracks": [
     {
       "added_at": "2023-09-08 13:17:55",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-08 13:17:55",
       "album": {
-        "name": "Only For A Moment",
-        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
-      },
-      "artists": [
-        {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Only For A Moment",
-      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
-    },
-    {
-      "added_at": "2023-09-08 13:17:55",
-      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-09-08 13:17:55",
       "album": {
+        "name": "Only For A Moment",
+        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Only For A Moment",
+      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
+    },
+    {
+      "added_at": "2023-09-08 13:17:55",
+      "album": {
         "name": "Sie",
         "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
       },
@@ -1159,22 +1159,18 @@
     {
       "added_at": "2023-09-08 13:17:55",
       "album": {
-        "name": "More To This Life",
-        "url": "https://open.spotify.com/album/4GAoGetqEAbfALqARE0s4I"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
       "artists": [
         {
-          "name": "Max Giesinger",
-          "url": "https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe"
-        },
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 200840,
-      "name": "More To This Life",
-      "url": "https://open.spotify.com/track/6zPyE3kqAboGKv2iKNOEcR"
+      "duration_ms": 217125,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     }
   ],
   "unique_name": "Herbstgef\u00fchle",

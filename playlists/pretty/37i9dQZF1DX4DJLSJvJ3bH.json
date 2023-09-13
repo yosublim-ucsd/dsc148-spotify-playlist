@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 104085,
+  "num_followers": 104083,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjBhNjc3Zjg5ZWExMzJjNTdhNTc2MmYxOTUxYmQ2NjYzMGY5MDFj",
+  "snapshot_id": "MCw2MmU1NTA3MjgxNjc1OGNlZTI0MGE3MTYxNGFkZDJmNTdkZDBjMzU5",
   "tracks": [
     {
       "added_at": "2023-08-17 06:57:19",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 175893,
-      "name": "(There's No Place Like) Home for the Holidays - 1959 Version",
-      "url": "https://open.spotify.com/track/0hvN2v6fAcB6xWyW7UaooA"
-    },
-    {
-      "added_at": "2023-08-17 06:57:19",
-      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/74pI1XqEAgFfo1T2UGDEZs"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 153720,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/6uVCqvznAx7pOYHTNlxulb"
+    },
+    {
+      "added_at": "2023-08-17 06:57:19",
+      "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "(There's No Place Like) Home for the Holidays - 1959 Version",
+      "url": "https://open.spotify.com/track/0hvN2v6fAcB6xWyW7UaooA"
     },
     {
       "added_at": "2023-08-17 06:57:19",
@@ -351,22 +351,18 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
-        "name": "Louis Wishes You a Cool Yule",
-        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+        "name": "Feliz navidad",
+        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "The Commanders",
-          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
         }
       ],
-      "duration_ms": 176699,
-      "name": "Cool Yule",
-      "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
+      "duration_ms": 123786,
+      "name": "Feliz navidad",
+      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
     },
     {
       "added_at": "2023-08-17 06:57:19",
@@ -387,22 +383,6 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
-        "name": "Feliz navidad",
-        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
-      },
-      "artists": [
-        {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
-        }
-      ],
-      "duration_ms": 123786,
-      "name": "Feliz navidad",
-      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
-    },
-    {
-      "added_at": "2023-08-17 06:57:19",
-      "album": {
         "name": "Happy Christmas, Little Friend",
         "url": "https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 320071,
       "name": "You're All I Want For Christmas",
       "url": "https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx"
+    },
+    {
+      "added_at": "2023-08-17 06:57:19",
+      "album": {
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "The Commanders",
+          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
+        }
+      ],
+      "duration_ms": 176699,
+      "name": "Cool Yule",
+      "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
     },
     {
       "added_at": "2023-08-17 06:57:19",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
-        "name": "Behold",
-        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 267092,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/5M6I00Mt7AQrqFcF4WWZDz"
-    },
-    {
-      "added_at": "2023-08-17 06:57:19",
-      "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 101102,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
+    },
+    {
+      "added_at": "2023-08-17 06:57:19",
+      "album": {
+        "name": "Behold",
+        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 267092,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5M6I00Mt7AQrqFcF4WWZDz"
     },
     {
       "added_at": "2023-08-17 06:57:19",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
+        "name": "The Singles Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "I'd Like You For Christmas",
+      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
+    },
+    {
+      "added_at": "2023-08-17 06:57:19",
+      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 191093,
       "name": "I've Got My Love To Keep Me Warm",
       "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
-    },
-    {
-      "added_at": "2023-08-17 06:57:19",
-      "album": {
-        "name": "The Singles Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "I'd Like You For Christmas",
-      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
     },
     {
       "added_at": "2023-08-17 06:57:19",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
-        "name": "Reflections III Christmas",
-        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
-      },
-      "artists": [
-        {
-          "name": "Sissel",
-          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
-        }
-      ],
-      "duration_ms": 213889,
-      "name": "Make Me a Present of You",
-      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
-    },
-    {
-      "added_at": "2023-08-17 06:57:19",
-      "album": {
         "name": "Christmas With The Andrews Sisters",
         "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
+        "name": "Reflections III Christmas",
+        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
       },
       "artists": [
         {
-          "name": "The Mills Brothers",
-          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+          "name": "Sissel",
+          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
         }
       ],
-      "duration_ms": 166666,
-      "name": "You Don't Have To Be A Santa Claus (When Christmas Comes Around)",
-      "url": "https://open.spotify.com/track/4lsCXRfZRJYuD9zCHZhFav"
+      "duration_ms": 213889,
+      "name": "Make Me a Present of You",
+      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
     },
     {
       "added_at": "2023-08-17 06:57:19",
@@ -1467,6 +1451,22 @@
       "duration_ms": 220133,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/6Xji4YF3AEfSetv2rn7Wlx"
+    },
+    {
+      "added_at": "2023-08-17 06:57:19",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "You Don't Have To Be A Santa Claus (When Christmas Comes Around)",
+      "url": "https://open.spotify.com/track/4lsCXRfZRJYuD9zCHZhFav"
     },
     {
       "added_at": "2023-08-17 06:57:19",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx"
-    },
-    {
-      "added_at": "2023-08-17 06:57:19",
-      "album": {
         "name": "Joe Pass - Six String Santa",
         "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 275745,
       "name": "Angels We Have Heard on High / Joy to the World",
       "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
+    },
+    {
+      "added_at": "2023-08-17 06:57:19",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx"
     },
     {
       "added_at": "2023-08-17 06:57:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Paulo Cesar Baruk, Marcela Tais
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,863 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,125 likes - 80 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 23 | [Eu Te Vejo Em Tudo \- Acoustic Session](https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig) | 4:40 |
 | 24 | [Paz da Minha Alma](https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Paz da Minha Alma](https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l) | 4:38 |
 | 25 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Em Teus Braços \(Acústico\)](https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik) | 4:15 |
-| 26 | [Deus Cuida de Mim](https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn) | 3:44 |
-| 27 | [Algo Novo](https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta](https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm) | 5:16 |
+| 26 | [Algo Novo](https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta](https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm) | 5:16 |
+| 27 | [Deus Cuida de Mim](https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn) | 3:44 |
 | 28 | [Recomeçar](https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Recomeçar](https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv) | 3:50 |
 | 29 | [A Casa É Sua \- Acoustic Session](https://open.spotify.com/track/2KF9qAiNUBdCAkFb1tiyk5) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig) | 5:42 |
 | 30 | [Não Mais Escravos \- Acústico](https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Não Mais Escravos \(Acústico\)](https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3) | 4:06 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 76 | [Me Enche de Amor \- Acústico](https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [Me Enche de Amor \(Acústico\)](https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f) | 5:09 |
 | 77 | [Ele É Exaltado \- Acústico](https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1) | [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs), [Tavinho](https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW) | [Ele É Exaltado \(Acústico\)](https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI) | 2:15 |
 | 78 | [Ele é Exaltado](https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4) | [Marcelo Cacilias](https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV) | [Instrumental Acoustic Worship II](https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q) | 5:31 |
-| 79 | [No Secreto](https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [No Secreto](https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K) | 6:50 |
-| 80 | [Falar Com Deus \- Faixa Bônus](https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [On Tape \(Ao Vivo\)](https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL) | 3:48 |
+| 79 | [Falar Com Deus \- Faixa Bônus](https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [On Tape \(Ao Vivo\)](https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL) | 3:48 |
+| 80 | [No Secreto](https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [No Secreto](https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K) | 6:50 |
 
-Snapshot ID: `MCxkYmU5ZDNkNjNkNGIwYzJlNWZlMzU4ODMyZTM0ZDVlYjQyMmE2NDMx`
+Snapshot ID: `MCwxNjE0OTk4YjE1NzgzMDU4YTNmZjkxOWEyYzg3MzIwNzdjMWVjZWFh`

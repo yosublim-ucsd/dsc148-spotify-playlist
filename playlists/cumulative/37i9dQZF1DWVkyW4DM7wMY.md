@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-170 songs - 8 hr 50 min
+171 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Let Me Lose My Mind In Peace](https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [The Journey Continues...](https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl) | 3:02 | 2022-11-10 |  |
 | [Let's Be Dead Together](https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 3:19 | 2022-03-03 |  |
 | [Lights Down Low](https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Riunga](https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN) | [R\-/LBT](https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc) | 3:50 | 2022-10-27 |  |
-| [Lollipop](https://open.spotify.com/track/4UHMy4KxMAAEu4dSSHMe8h) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Lollipop](https://open.spotify.com/album/5kZxneIXl7kwSMClNweMki) | 3:26 | 2022-02-24 |  |
+| [Lollipop](https://open.spotify.com/track/4UHMy4KxMAAEu4dSSHMe8h) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Lollipop](https://open.spotify.com/album/5kZxneIXl7kwSMClNweMki) | 3:26 | 2022-02-24 | 2023-09-13 |
+| [Lollipop](https://open.spotify.com/track/5Hh5KET3Dm5fXck2bfGXsT) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Lollipop](https://open.spotify.com/album/2LIfepdFpCjRtKIOZJTmMX) | 3:26 | 2023-09-01 |  |
 | [Lonely In Nairobi](https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Lonely In Nairobi](https://open.spotify.com/album/3O3f7B13CuboRb9Pbv505l) | 3:09 | 2021-12-09 | 2023-04-22 |
 | [Lorn](https://open.spotify.com/track/3xJP7Xi4hmhkDLev7KyMrX) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Lorn](https://open.spotify.com/album/5XgH8gmjANlwLv4w4k9NnO) | 3:39 | 2021-10-15 | 2022-02-05 |
 | [Love Being Used](https://open.spotify.com/track/2W2lVHqOlwpEi41EKlu0o1) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Love Being Used](https://open.spotify.com/album/04JP41K4j9UmDMnG5Glmg4) | 1:29 | 2021-10-15 | 2022-01-28 |

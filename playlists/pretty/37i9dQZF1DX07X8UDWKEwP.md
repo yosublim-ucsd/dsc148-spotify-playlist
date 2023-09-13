@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Joey Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,803 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,846 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 42 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 |
 | 43 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 |
 | 44 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
-| 45 | [Carcelero](https://open.spotify.com/track/4BgbRqOMBkEzTXuhHyaLjC) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:23 |
-| 46 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
-| 47 | [Volando](https://open.spotify.com/track/6JIbCbVg76NIZQIVaHxnr2) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Volando](https://open.spotify.com/album/4XScnOn4HGNKln5l5xi6Tx) | 3:15 |
-| 48 | [Soy](https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Soy](https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL) | 4:23 |
-| 49 | [Mucho Flow](https://open.spotify.com/track/1y6irl8tnTXw8pvaIfRoTp) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Mucho Flow](https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV) | 2:56 |
-| 50 | [Si Tu La Ves](https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Si Tu La Ves](https://open.spotify.com/album/4YViEFHtIfrWhgV6JTDUNN) | 3:13 |
+| 45 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
+| 46 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
+| 47 | [Carcelero](https://open.spotify.com/track/4BgbRqOMBkEzTXuhHyaLjC) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:23 |
+| 48 | [Volando](https://open.spotify.com/track/6JIbCbVg76NIZQIVaHxnr2) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Volando](https://open.spotify.com/album/4XScnOn4HGNKln5l5xi6Tx) | 3:15 |
+| 49 | [Soy](https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Soy](https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL) | 4:23 |
+| 50 | [Mucho Flow](https://open.spotify.com/track/1y6irl8tnTXw8pvaIfRoTp) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Mucho Flow](https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV) | 2:56 |
 
-Snapshot ID: `MCw5YzdlOWIwYzIyNmQ0YTFkNjNjNDBkN2RkODJlOTAxMWNjZDIzMzZk`
+Snapshot ID: `MCxiYWJkNDAxMWI4N2E2OWIwNmNjMzkwNjg3ZWM5Y2FhZWFiODYxM2U2`

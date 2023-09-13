@@ -1,12 +1,12 @@
 {
   "description": "masquerades, moonlit encounters, and locking eyes across the ballroom",
-  "num_followers": 413001,
+  "num_followers": 413313,
   "original_name": "royalcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTRhYTIzMGRkY2M2OWQ3YzRiZTJmMWQ1ZTQ1MmY0YTlkY2FlNWMx",
+  "snapshot_id": "MCw1YTMyNjgxMGM2MTlhZDlhMDlhNmMyN2Y4ZjNmMmI1ZWZlMjIyYmU2",
   "tracks": [
     {
       "added_at": "2023-08-11 04:01:00",
@@ -107,6 +107,26 @@
       "duration_ms": 410440,
       "name": "Pavane, Op. 50",
       "url": "https://open.spotify.com/track/5700nhstgxCJ15lTVPH88z"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Rimsky-Korsakov: Scheherezade",
+        "url": "https://open.spotify.com/album/3QXtNXmOyrOfZ2mWG4rw9v"
+      },
+      "artists": [
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Lars Hjalmar Joakim",
+          "url": "https://open.spotify.com/artist/0k5uXmuyASwY2Cwi5TQki4"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Scheherazade: The Tale of the Kalendar Prince",
+      "url": "https://open.spotify.com/track/04eShjKTWijeJJqGnhxpYK"
     },
     {
       "added_at": "2023-08-11 04:01:00",

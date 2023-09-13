@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Duquesa e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,457 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,482 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 36 | [Novinha do Peito Bicudo](https://open.spotify.com/track/48t7p44DDZoJpHq0NDgGdG) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Novinha do Peito Bicudo](https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa) | 2:57 |
 | 37 | [Concreto](https://open.spotify.com/track/0j3wFKPtHef1d6ode3mzKk) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [Concreto](https://open.spotify.com/album/0484Oh2IFxPJEyEQfdxg5g) | 2:16 |
 | 38 | [O Preço da Guerra](https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 4:49 |
-| 39 | [KEN ELAS QUER](https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [KEN ELAS QUER](https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL) | 2:01 |
-| 40 | [A noite toda](https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq) | [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [A noite toda](https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL) | 3:04 |
+| 39 | [A noite toda](https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq) | [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [A noite toda](https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL) | 3:04 |
+| 40 | [KEN ELAS QUER](https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [KEN ELAS QUER](https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL) | 2:01 |
 | 41 | [Kenner](https://open.spotify.com/track/0dEGVX5UFsNnaIKmSX8qDj) | [Jovem Sam](https://open.spotify.com/artist/7hfaFlTC5hnlL2F2lto6Aq), [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [shots!](https://open.spotify.com/artist/3EGzDrdM5hC1GYCf980b49) | [OCF](https://open.spotify.com/album/2KNYVqOm36goIRn810YdJL) | 2:12 |
 | 42 | [1 Minuto](https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 2](https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI) | 2:42 |
 | 43 | [Ofício de Cantante](https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Ofício de Cantante](https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Jóias](https://open.spotify.com/track/2LFnuYFKk2O6UNBZ8RlSy9) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [Jóias](https://open.spotify.com/album/3ojD5UfxoV48LKMWCywqfO) | 2:24 |
 | 50 | [Solteira Desapegada](https://open.spotify.com/track/2VA2YomrRj8hHJ7wmpoDeZ) | [Vulgo Junet](https://open.spotify.com/artist/3127oLqTIUfvCVr5y8RZ4M), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Solteira Desapegada](https://open.spotify.com/album/0nN1rl6bAR0Wocif2BkNUf) | 2:47 |
 
-Snapshot ID: `MCwzNjZiMDhlMTRmOGI3NmI1NTc5OWFlY2I2NTE4OTk2Y2U1YTdiZmFl`
+Snapshot ID: `MCw2MzE2M2ZkYjkwYTVkZDBjMTA2NTRiZTMyY2U0Mzg4MzQ1ZmUyNzhm`

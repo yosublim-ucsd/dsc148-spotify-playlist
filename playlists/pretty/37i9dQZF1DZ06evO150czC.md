@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,271 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,305 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 27 | [O Preço Foi de Sangue](https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:36 |
 | 28 | [Deus Proverá](https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B) | [Casa do Oleiro Adoração](https://open.spotify.com/artist/6lGPisEkgq8UJDUPcKr0Fv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Deus Proverá](https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC) | 5:10 |
 | 29 | [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 |
-| 30 | [Não Haverá Vergonha](https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Haverá Vergonha](https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX) | 5:16 |
-| 31 | [Entre Para o Templo](https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Entre Para o Templo](https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u) | 4:22 |
-| 32 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
-| 33 | [Tá Chorando Por Quê? \(Ao Vivo\)](https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Rayssa Barros](https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:32 |
+| 30 | [Entre Para o Templo](https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Entre Para o Templo](https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u) | 4:22 |
+| 31 | [Não Haverá Vergonha](https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Haverá Vergonha](https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX) | 5:16 |
+| 32 | [Tá Chorando Por Quê? \(Ao Vivo\)](https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Rayssa Barros](https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:32 |
+| 33 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
 | 34 | [500 Graus \- Drive In](https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [500 Graus \- Drive In](https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t) | 7:09 |
-| 35 | [Shekinah](https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:46 |
-| 36 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
+| 35 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
+| 36 | [Shekinah](https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:46 |
 | 37 | [Eu Vim Te Adorar](https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:37 |
 | 38 | [Eu Vou Viver Uma Virada \(Ao Vivo\)](https://open.spotify.com/track/5Iy6cU3emGAnZZGdzLfJN7) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Celebração \(Ao Vivo\)](https://open.spotify.com/album/1rDYWku4mzowwmwg0l0lbJ) | 4:48 |
 | 39 | [Vida aos Sepulcros \(Ao Vivo\)](https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 49 | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB) | 6:53 |
 | 50 | [No Pares](https://open.spotify.com/track/6lhq52ulpv88jIYpqrZBFQ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [No Pares](https://open.spotify.com/album/3OKxWsolYmrGBYJjWGIH0H) | 4:46 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDAwOGYwNjY1ZDU3Y2FjZjBmYjE3NzczZmQ1ODUwZWZkZg==`
+Snapshot ID: `MjgyNDIwMzcsMDAwMDAwMDAyOTVmM2RjYjE5OGNlNGQ3Nzg2Njk0NGVkNzVkYjExOQ==`

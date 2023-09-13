@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: cakal",
-  "num_followers": 1290369,
+  "num_followers": 1291200,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDVlODk2OGQxM2U0M2JjYjU5ZGZiNDkyNTNiMGVlMDM5NjQ5MDc0",
+  "snapshot_id": "MCw5M2FlZGU1YzRmYmRlNjQ1ZThmZTM0Y2JkYjQzYzRhZThlNmZhZGZh",
   "tracks": [
     {
       "added_at": "2023-09-07 21:00:00",
@@ -171,26 +171,6 @@
     {
       "added_at": "2023-09-07 21:00:00",
       "album": {
-        "name": "Anakonda",
-        "url": "https://open.spotify.com/album/5PdecLrUNj8a5PDpDyCuGD"
-      },
-      "artists": [
-        {
-          "name": "Burry Soprano",
-          "url": "https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD"
-        },
-        {
-          "name": "BLED",
-          "url": "https://open.spotify.com/artist/7dPBhuvHmNtxMx5pqZJnbN"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Anakonda",
-      "url": "https://open.spotify.com/track/5zhOvr9rLo3e29nhLDWSsm"
-    },
-    {
-      "added_at": "2023-09-07 21:00:00",
-      "album": {
         "name": "Caney",
         "url": "https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN"
       },
@@ -223,18 +203,18 @@
     {
       "added_at": "2023-09-07 21:00:00",
       "album": {
-        "name": "BAYBAY",
-        "url": "https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o"
+        "name": "KAFAMA G\u00d6RE",
+        "url": "https://open.spotify.com/album/0umpW0vx4KSlwunhKUW0MD"
       },
       "artists": [
         {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
         }
       ],
-      "duration_ms": 191275,
-      "name": "BAYBAY",
-      "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
+      "duration_ms": 165227,
+      "name": "KAFAMA G\u00d6RE",
+      "url": "https://open.spotify.com/track/4FbfcDH6i1YeSm6ilNHXAw"
     },
     {
       "added_at": "2023-09-07 21:00:00",
@@ -255,22 +235,6 @@
     {
       "added_at": "2023-09-07 21:00:00",
       "album": {
-        "name": "KAFAMA G\u00d6RE",
-        "url": "https://open.spotify.com/album/0umpW0vx4KSlwunhKUW0MD"
-      },
-      "artists": [
-        {
-          "name": "ElMusto",
-          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
-        }
-      ],
-      "duration_ms": 165227,
-      "name": "KAFAMA G\u00d6RE",
-      "url": "https://open.spotify.com/track/4FbfcDH6i1YeSm6ilNHXAw"
-    },
-    {
-      "added_at": "2023-09-07 21:00:00",
-      "album": {
         "name": "Arayamad\u0131m",
         "url": "https://open.spotify.com/album/2rhtOoRuVEhPE91NqO6yaI"
       },
@@ -283,6 +247,22 @@
       "duration_ms": 141757,
       "name": "Arayamad\u0131m",
       "url": "https://open.spotify.com/track/1yqsRQmiXPw0KI1Zu1qTGW"
+    },
+    {
+      "added_at": "2023-09-07 21:00:00",
+      "album": {
+        "name": "BAYBAY",
+        "url": "https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 191275,
+      "name": "BAYBAY",
+      "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
     },
     {
       "added_at": "2023-09-07 21:00:00",
@@ -319,6 +299,26 @@
       "duration_ms": 173987,
       "name": "DEFOL",
       "url": "https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I"
+    },
+    {
+      "added_at": "2023-09-07 21:00:00",
+      "album": {
+        "name": "Anakonda",
+        "url": "https://open.spotify.com/album/5PdecLrUNj8a5PDpDyCuGD"
+      },
+      "artists": [
+        {
+          "name": "Burry Soprano",
+          "url": "https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD"
+        },
+        {
+          "name": "BLED",
+          "url": "https://open.spotify.com/artist/7dPBhuvHmNtxMx5pqZJnbN"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Anakonda",
+      "url": "https://open.spotify.com/track/5zhOvr9rLo3e29nhLDWSsm"
     },
     {
       "added_at": "2023-09-07 21:00:00",
@@ -367,26 +367,6 @@
       "duration_ms": 144744,
       "name": "BABA",
       "url": "https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA"
-    },
-    {
-      "added_at": "2023-09-07 21:00:00",
-      "album": {
-        "name": "F\u0130LM \u015eER\u0130D\u0130",
-        "url": "https://open.spotify.com/album/2VPfh6D7kpnM3KsHYt0Ej8"
-      },
-      "artists": [
-        {
-          "name": "Baneva",
-          "url": "https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e"
-        },
-        {
-          "name": "Reynmen",
-          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "F\u0130LM \u015eER\u0130D\u0130",
-      "url": "https://open.spotify.com/track/3OYDt4fhreJ5JITOciY4Ch"
     },
     {
       "added_at": "2023-09-07 21:00:00",
@@ -503,18 +483,22 @@
     {
       "added_at": "2023-09-07 21:00:00",
       "album": {
-        "name": "Asosyal",
-        "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
+        "name": "F\u0130LM \u015eER\u0130D\u0130",
+        "url": "https://open.spotify.com/album/2VPfh6D7kpnM3KsHYt0Ej8"
       },
       "artists": [
         {
-          "name": "Batuflex",
-          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+          "name": "Baneva",
+          "url": "https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e"
+        },
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
         }
       ],
-      "duration_ms": 130951,
-      "name": "Asosyal",
-      "url": "https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi"
+      "duration_ms": 136800,
+      "name": "F\u0130LM \u015eER\u0130D\u0130",
+      "url": "https://open.spotify.com/track/3OYDt4fhreJ5JITOciY4Ch"
     },
     {
       "added_at": "2023-09-07 21:00:00",
@@ -579,6 +563,22 @@
       "duration_ms": 137270,
       "name": "ROMANT\u0130K",
       "url": "https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY"
+    },
+    {
+      "added_at": "2023-09-07 21:00:00",
+      "album": {
+        "name": "Asosyal",
+        "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "duration_ms": 130951,
+      "name": "Asosyal",
+      "url": "https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi"
     },
     {
       "added_at": "2023-09-07 21:00:00",

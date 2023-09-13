@@ -9423,6 +9423,24 @@
     },
     {
       "album": {
+        "name": "Summertime Friends",
+        "url": "https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136586,
+      "name": "Summertime Friends",
+      "url": "https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9"
+    },
+    {
+      "album": {
         "name": "Banish The Banshee",
         "url": "https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk"
       },
@@ -11134,7 +11152,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 187653,
       "name": "Your Side of Town",
       "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"

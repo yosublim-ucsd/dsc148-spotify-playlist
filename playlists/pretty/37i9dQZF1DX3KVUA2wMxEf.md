@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,801 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,844 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 20 | [Tu Eres Como el Fuego](https://open.spotify.com/track/3Lz5e2T5LK7k6QcUqvoFIF) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Indica Sound](https://open.spotify.com/artist/64ztB1HA4yaTmSsfcmNWUr) | [Tu Eres Como el Fuego](https://open.spotify.com/album/4WfZ8y9zEy9z1VCZM88fm9) | 3:31 |
 | 21 | [Véngase I](https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:22 |
 | 22 | [Con Vos](https://open.spotify.com/track/0UYtcbHyTJYuWLTHBx9GGe) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Vibrasound](https://open.spotify.com/album/1x5SELdr0eqHfNDMsMJnv6) | 5:16 |
-| 23 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 |
+| 23 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
 | 24 | [Tu Presencia](https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:41 |
-| 25 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
+| 25 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 |
 | 26 | [Un Poquito De Ti \(feat\. Movimiento Original\)](https://open.spotify.com/track/3axbIOoM5lUXADunn5WVos) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Alma](https://open.spotify.com/album/5oX7WtRFG6PnzhIRgmlTY7) | 5:01 |
 | 27 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 |
 | 28 | [Felicidad](https://open.spotify.com/track/34Uygh7OsoZdlzzDbHgjgb) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 5:40 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 46 | [Tu Amor](https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:29 |
 | 47 | [Mi Princesa](https://open.spotify.com/track/4JN86HHZDQJNd8amda2rR6) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Pincoya Calipso \- Pasado, Presente y Futuro](https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6) | 4:23 |
 | 48 | [Besándote](https://open.spotify.com/track/4loEDSI6ev2ZAD4tnWOmv4) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Pety](https://open.spotify.com/artist/1KIAFzs3T8c4RanxT9GjZL), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Auténticos Reggaementes](https://open.spotify.com/album/3A4mYFF7YY2mZsucLHdEzr) | 3:24 |
-| 49 | [Me Late](https://open.spotify.com/track/04YwRl721VNa4LOaADJ0uS) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Coleccion Suprema](https://open.spotify.com/album/5F7Go5CAykVMnhdnIA8MFZ) | 3:24 |
-| 50 | [Llegaste a Mi](https://open.spotify.com/track/2HFIOrC4KVKwzHgr7MMmvK) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [El Poder de Tu Alma](https://open.spotify.com/album/6kxX6U45Ugsj26KlhEFNMY) | 3:50 |
+| 49 | [Llegaste a Mi](https://open.spotify.com/track/2HFIOrC4KVKwzHgr7MMmvK) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [El Poder de Tu Alma](https://open.spotify.com/album/6kxX6U45Ugsj26KlhEFNMY) | 3:50 |
+| 50 | [Me Late](https://open.spotify.com/track/04YwRl721VNa4LOaADJ0uS) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Coleccion Suprema](https://open.spotify.com/album/5F7Go5CAykVMnhdnIA8MFZ) | 3:24 |
 | 51 | [Dicen](https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños De La Playa](https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp) | 2:49 |
-| 52 | [Me cambiaste la vida](https://open.spotify.com/track/2WhlxYJTtXQHYWG6CcnBam) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una cosa es el ska y otra cosa es el rocksteady](https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C) | 3:29 |
-| 53 | [No Me Dejes De Querer](https://open.spotify.com/track/3P75lxnADvxMQw81uF4V60) | [Isza](https://open.spotify.com/artist/1tfNf2ifQq25aQvlVxXvlj), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [No Me Dejes de Querer](https://open.spotify.com/album/1LJ3HPkh4xk1SzSGw8svfs) | 3:57 |
+| 52 | [No Me Dejes De Querer](https://open.spotify.com/track/3P75lxnADvxMQw81uF4V60) | [Isza](https://open.spotify.com/artist/1tfNf2ifQq25aQvlVxXvlj), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [No Me Dejes de Querer](https://open.spotify.com/album/1LJ3HPkh4xk1SzSGw8svfs) | 3:57 |
+| 53 | [Me cambiaste la vida](https://open.spotify.com/track/2WhlxYJTtXQHYWG6CcnBam) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una cosa es el ska y otra cosa es el rocksteady](https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C) | 3:29 |
 | 54 | [Placer](https://open.spotify.com/track/6VDVW9NnhfB0J9AzTdyyQq) | [Dos Garza](https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8) | [Placer](https://open.spotify.com/album/0e1ZAcg5owwo6xy9lOCiP7) | 2:53 |
 | 55 | [Por Ti](https://open.spotify.com/track/6ZC7xd02NYawCQnAYLdLGt) | [Kalacawas](https://open.spotify.com/artist/3dEiQw6wbcXR3VaoYRNXc1) | [Todo Se Puede](https://open.spotify.com/album/5GZWJDXkfDLVRvYsUo0TlD) | 3:59 |
 | 56 | [Así](https://open.spotify.com/track/1I2aoG0klUhom3xnQvz6IV) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 59 | [El Árbol](https://open.spotify.com/track/1q2GWueMnvjzYGksW2SBPJ) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [El Árbol](https://open.spotify.com/album/5K0vKNaWvRSNKf0EbgUhSu) | 3:31 |
 | 60 | [Sensación](https://open.spotify.com/track/6LbMjdYpQvJxDTgAVqNM0T) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC), [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 3:49 |
 
-Snapshot ID: `MCwyYjc0YWI4OTg1NWJkMDQ1OTgzYjMwYmI4ZDE1NmRmMjQ1ZmJiOGUy`
+Snapshot ID: `MCw3YTQyZjE1MTc0MGJiMTM0Yzc2ZjZmYzIyOThhNDlhNWE3Y2M5YTVk`

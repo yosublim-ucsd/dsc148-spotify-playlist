@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=D2brSPxsTCqTMm6uQK4wQg\"> BNXN</a> ",
-  "num_followers": 511443,
+  "num_followers": 511846,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWJlNzdmNWY1NTIxNjUwZjU3OGM5MGRmZjkzNmQ2Y2Q3ZGMyMDQx",
+  "snapshot_id": "MCxiZDc1YWMxOGQwMjhkYjAzNGNjYzJiZmI1OGFiNzg4NzJiY2YzNTRl",
   "tracks": [
     {
       "added_at": "2023-09-08 06:09:09",
@@ -27,22 +27,18 @@
     {
       "added_at": "2023-09-08 06:09:09",
       "album": {
-        "name": "Who Told You (feat. Drake)",
-        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 208917,
-      "name": "Who Told You (feat. Drake)",
-      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
       "added_at": "2023-09-08 06:09:09",
@@ -119,18 +115,22 @@
     {
       "added_at": "2023-09-08 06:09:09",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
       "added_at": "2023-09-08 06:09:09",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-09-08 06:09:09",
       "album": {
-        "name": "DNK (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
+        "name": "Baby Riddim",
+        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Bisous",
-      "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
+      "duration_ms": 190677,
+      "name": "Baby Riddim",
+      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
       "added_at": "2023-09-08 06:09:09",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-09-08 06:09:09",
       "album": {
-        "name": "Baby Riddim",
-        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+        "name": "DNK (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
       },
       "artists": [
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 190677,
-      "name": "Baby Riddim",
-      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+      "duration_ms": 163253,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
     },
     {
       "added_at": "2023-09-08 06:09:09",
@@ -867,22 +867,6 @@
       "duration_ms": 181224,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
-    },
-    {
-      "added_at": "2023-09-08 06:09:09",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
     },
     {
       "added_at": "2023-09-08 06:09:09",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-09-08 06:09:09",
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "added_at": "2023-09-08 06:09:09",
+      "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 147363,
       "name": "reason",
       "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
+    },
+    {
+      "added_at": "2023-09-08 06:09:09",
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
     },
     {
       "added_at": "2023-09-08 06:09:09",
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2023-09-08 06:09:09",
       "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+      "duration_ms": 183349,
+      "name": "All Of Us (Ashawo)",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
     },
     {
       "added_at": "2023-09-08 06:09:09",
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2023-09-08 06:09:09",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 183349,
-      "name": "All Of Us (Ashawo)",
-      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2023-09-08 06:09:09",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-09-08 06:09:09",
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
-    },
-    {
-      "added_at": "2023-09-08 06:09:09",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2023-09-08 06:09:09",
-      "album": {
-        "name": "Duffel Bag",
-        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 127067,
-      "name": "Duffel Bag",
-      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     },
     {
       "added_at": "2023-09-08 06:09:09",
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-09-08 06:09:09",
       "album": {
-        "name": "Jonzing Boy",
-        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
+        "name": "Duffel Bag",
+        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 185660,
-      "name": "Jonzing Boy",
-      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
+      "duration_ms": 127067,
+      "name": "Duffel Bag",
+      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     },
     {
       "added_at": "2023-09-08 06:09:09",
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2023-09-08 06:09:09",
       "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+        "name": "Jonzing Boy",
+        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+      "duration_ms": 185660,
+      "name": "Jonzing Boy",
+      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
     },
     {
       "added_at": "2023-09-08 06:09:09",
@@ -1259,6 +1243,22 @@
       "duration_ms": 167881,
       "name": "Many Things",
       "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
+    },
+    {
+      "added_at": "2023-09-08 06:09:09",
+      "album": {
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
     }
   ],
   "unique_name": "Afropop",

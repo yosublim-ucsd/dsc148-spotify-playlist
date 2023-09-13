@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Bo Staloch \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,259 likes - 102 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,346 likes - 102 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

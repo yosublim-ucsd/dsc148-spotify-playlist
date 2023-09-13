@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked and nourishing.",
-  "num_followers": 124441,
+  "num_followers": 124530,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTgzZjRlZWFjZWU4MWY5MzE1ZDdmN2UwOWQ3Y2NkODI4NGY2YTkz",
+  "snapshot_id": "MCwwY2I5ZmNjYzc4OWEyZmVmODRiYTJkNjgwZTc3ZmEyZWVhN2YyOWE1",
   "tracks": [
     {
       "added_at": "2023-08-04 20:15:09",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
         "name": "Where Are Your Kids Tonight? (feat. John Grant)",
         "url": "https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 326093,
       "name": "Where Are Your Kids Tonight? (feat. John Grant)",
       "url": "https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 235872,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
         "name": "Alco",
         "url": "https://open.spotify.com/album/1kty4m9JKEsD5NZaacdL16"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 230747,
       "name": "Up Granville",
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
-        "name": "I Can't Let Go",
-        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 235872,
-      "name": "Wild Side",
-      "url": "https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Headlands",
         "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 282794,
       "name": "Headlands",
       "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Walking Backwards",
-        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 319986,
-      "name": "Walking Backwards",
-      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Bedroom",
         "url": "https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 226467,
       "name": "Gush",
       "url": "https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Walking Backwards",
+        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 319986,
+      "name": "Walking Backwards",
+      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Unconditional I (Lookout Kid)",
-        "url": "https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Unconditional I (Lookout Kid)",
-      "url": "https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Anyway",
         "url": "https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 223231,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Unconditional I (Lookout Kid)",
+        "url": "https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "Unconditional I (Lookout Kid)",
+      "url": "https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Garment Bag",
-        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 145308,
-      "name": "Garment Bag",
-      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Truth or Consequences",
         "url": "https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
+        "name": "Garment Bag",
+        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 145308,
+      "name": "Garment Bag",
+      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
         "name": "Manta Rays",
         "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 211826,
       "name": "Manta Rays",
       "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Big Picture",
+        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Pick",
+      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Big Picture",
-        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Pick",
-      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Mountain",
         "url": "https://open.spotify.com/album/17Y9wzA3ofGRyTWxRVphQV"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Roccastrada",
-        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Roccastrada",
-      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Things Take Time, Take Time",
         "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 271206,
       "name": "Rae Street",
       "url": "https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Roccastrada",
+        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
+      },
+      "artists": [
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Roccastrada",
+      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 156333,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Can't Stop The Dawn",
         "url": "https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 198250,
       "name": "Pink Pools",
       "url": "https://open.spotify.com/track/01IeBj8Ep24Pgeh2WilK3E"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Bad girl",
-      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Never Coming Home",
         "url": "https://open.spotify.com/album/5rGjW2lMjnC8slwNarPvpS"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 240000,
       "name": "Never Coming Home",
       "url": "https://open.spotify.com/track/0N0WwX2M7mN4TiLXRyKkCR"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Bad girl",
+      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
     },
     {
       "added_at": "2023-08-04 20:15:09",

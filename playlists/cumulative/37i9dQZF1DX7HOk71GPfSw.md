@@ -4,7 +4,7 @@
 
 > Cover: A\. G\. Cook
 
-1,828 songs - 3 day 11 hr 6 min
+1,830 songs - 3 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,6 +875,7 @@
 | [insomnia](https://open.spotify.com/track/24Y6ZUvXsrLW9eIQUulaSn) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU), [AViT](https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp) | [insomnia](https://open.spotify.com/album/0owheNQcz97Bxij45JGoja) | 1:33 | 2021-01-23 | 2021-11-13 |
 | [Instant Sobriety](https://open.spotify.com/track/75Kx1FtkVw9EWYTWV9stYG) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [Instant Sobriety](https://open.spotify.com/album/5ZbTu1z6JDR8eyqDYkgCmR) | 2:27 | 2021-10-29 | 2022-01-29 |
 | [Intrusive](https://open.spotify.com/track/04ga1GTMPJPYTBTVCrDts8) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Intrusive](https://open.spotify.com/album/4GC9GlW36nuWLHospvejOq) | 2:04 | 2022-05-27 | 2022-07-25 |
+| [invrgaveup](https://open.spotify.com/track/6pg7IHuovPxvnuWnU8EojX) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [invrgaveup](https://open.spotify.com/album/3IkfKrGOH8bOVS0emRt3xg) | 2:32 | 2023-09-12 |  |
 | [IPHONE](https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [IPHONE](https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3) | 2:38 | 2020-10-13\* | 2021-01-08 |
 | [IPHONE](https://open.spotify.com/track/721DqX2YMrtKcjcydyrjwq) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/0jJEiaA2W9eFhTXC1EGMqG) | 2:38 | 2021-02-10 | 2021-11-13 |
 | [IRIS](https://open.spotify.com/track/0YrewJziQkJ1jsoM0fjLg9) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [mortal](https://open.spotify.com/album/5ZbQXbqd5O0JeOVRSeVjf9) | 1:42 | 2023-03-15 | 2023-07-05 |
@@ -1326,6 +1327,7 @@
 | [red](https://open.spotify.com/track/2tbctL38V8BM83TH9urnzk) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [111](https://open.spotify.com/album/3jSStTGrRtsCkIHJ30vbm1) | 2:11 | 2023-02-03 | 2023-02-09 |
 | [red](https://open.spotify.com/track/3fqC2P9K6zmYKJ2sAmOdse) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [111](https://open.spotify.com/album/0Evr5vaROxhu2I01MzqlU1) | 2:11 | 2023-02-03 | 2023-06-10 |
 | [Red Bottom Sky](https://open.spotify.com/track/2WloLsoUqp1A0xxNAwoiwh) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Stranger](https://open.spotify.com/album/6pbfofGywFkDyt1HoKYnRd) | 5:03 | 2021-10-16 | 2021-11-13 |
+| [Red Eye](https://open.spotify.com/track/35U5ZWVge94oHMCOAwwWYf) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Taylor Skye](https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2), [IAN STARR](https://open.spotify.com/artist/5BTyrWm7ePzkLX9czUxsWc) | [Red Eye](https://open.spotify.com/album/4K50blng8D0LMocyf08grh) | 1:57 | 2023-09-12 |  |
 | [RED EYES BLACK DRAGON CHAIN](https://open.spotify.com/track/2FamzT4tqyhS7an6OQ2gwo) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [RED EYES BLACK DRAGON CHAIN](https://open.spotify.com/album/0UNvwXC5LQsyMlqUxCveUG) | 1:52 | 2023-04-28 | 2023-08-19 |
 | [RED EYES BLACK DRAGON CHAIN](https://open.spotify.com/track/3dQtwcynncDonT1X0tBQLI) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [RED EYES BLACK DRAGON CHAIN](https://open.spotify.com/album/1wZaulbKWyLIiXod84AOqv) | 1:52 | 2023-04-28 | 2023-06-10 |
 | [redemption arc](https://open.spotify.com/track/3ZqStclSxlGItjISkfVo2d) | [Lil Wet Wet](https://open.spotify.com/artist/3E4Auo7RcMp3BgGnwKNSXZ), [keyblayde808](https://open.spotify.com/artist/06SF4BIHG5xinTaS2x59qG), [Haloes](https://open.spotify.com/artist/1TEfU1pT7BStxlbU8a7Hmw) | [redemption arc](https://open.spotify.com/album/1ZoGPj3iFtZuKM0faSjpqu) | 2:09 | 2021-06-05 | 2021-06-21 |

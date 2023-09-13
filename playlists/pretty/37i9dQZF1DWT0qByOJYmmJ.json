@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 636685,
+  "num_followers": 636826,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY4MzYxMmUyYTBkMTY2ZTQyZGFhODJmMGMwYzBmNWE2YjIzMDE5",
+  "snapshot_id": "MCxjYTljNzkwMDM3OGJlM2JiNDg0YWQzMzZiZjAzY2IzYzM0YWQzYTQ0",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -815,22 +815,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+        "name": "Es Verdad",
+        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
       },
       "artists": [
         {
           "name": "Daniel, Me Est\u00e1s Matando",
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+      "duration_ms": 161813,
+      "name": "Es Verdad",
+      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -943,18 +939,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Es Verdad",
-        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
       "artists": [
         {
           "name": "Daniel, Me Est\u00e1s Matando",
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Es Verdad",
-      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "Despu\u00e9s de la tormenta",
         "url": "https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 158500,
       "name": "Despedida",
       "url": "https://open.spotify.com/track/0f2n03VQWtlXKQmeIKazYF"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 168125,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
     },
     {
       "added_at": "2023-02-24 17:40:22",

@@ -4,7 +4,7 @@
 
 > The unforgettable romantic Jazz songs\. Cover: Nat King Cole
 
-147 songs - 8 hr 27 min
+148 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [From This Moment On](https://open.spotify.com/track/6eSkVenOm7gkZ9nD1SnNht) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:18 | 2022-01-12 | 2022-10-05 |
 | [Hallelujah, I Love Him So](https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Peggy Lee](https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX) | 2:30 | 2022-01-12 |  |
 | [Have You Met Miss Jones](https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Can't Resist You \- My Summer Love](https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K) | 2:05 | 2022-02-25 | 2023-07-09 |
+| [Have You Met Miss Jones](https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [You Are Free](https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7) | 2:05 | 2023-08-29 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 | 2021-12-02 |  |
 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 | 2021-12-02 |  |
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:14 | 2021-12-02 |  |
@@ -130,7 +131,7 @@
 | [Too Marvelous For Words](https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 2:12 | 2022-01-12 | 2023-05-11 |
 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 | 2021-12-02 |  |
 | [Until The Real Thing Comes Along \- Remastered/1998](https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:02 | 2021-12-02 |  |
-| [Wait 'Til You See Her](https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM) | [Matt Dennis](https://open.spotify.com/artist/518N7qPrUx1WQJTl0IZC3I) | [Matt Dennis \- Four Complete Albums](https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR) | 2:46 | 2021-12-02 |  |
+| [Wait 'Til You See Her](https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM) | [Matt Dennis](https://open.spotify.com/artist/518N7qPrUx1WQJTl0IZC3I) | [Matt Dennis \- Four Complete Albums](https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR) | 2:46 | 2021-12-02 | 2023-09-13 |
 | [We'll Be Together Again](https://open.spotify.com/track/3dn8g7gDYKEZxtcRQlEV67) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 3:40 | 2022-02-25 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/772lBovJFWwQdjQn5WnhhY) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Blame It On My Youth](https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un) | 4:46 | 2021-12-02 | 2022-02-26 |
 | [What a Difference a Day Makes](https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Winners](https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr) | 3:36 | 2022-02-25 |  |

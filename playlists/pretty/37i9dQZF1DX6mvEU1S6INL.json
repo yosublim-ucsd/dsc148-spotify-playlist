@@ -1,12 +1,12 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1128027,
+  "num_followers": 1128175,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTk4OWI3ZDQ3OWVmMGEzNWVlMzM0M2Q2YWFmY2YxMjE2ZGExMjE5",
+  "snapshot_id": "MCwxZDQ0NzFhMGRmZTQ4OTRmZTk4Y2YxMmEwYWU1NDA4NTY4NGQzM2U3",
   "tracks": [
     {
       "added_at": "2023-07-28 16:40:26",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-07-28 16:40:26",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 262623,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5"
-    },
-    {
-      "added_at": "2023-07-28 16:40:26",
-      "album": {
         "name": "You're Somebody Else",
         "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 218883,
       "name": "You're Somebody Else",
       "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
+    },
+    {
+      "added_at": "2023-07-28 16:40:26",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 262623,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5"
     },
     {
       "added_at": "2023-07-28 16:40:26",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-28 16:40:26",
       "album": {
-        "name": "Morning View",
-        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz"
-    },
-    {
-      "added_at": "2023-07-28 16:40:26",
-      "album": {
         "name": "Stateless",
         "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 313800,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
+    },
+    {
+      "added_at": "2023-07-28 16:40:26",
+      "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz"
     },
     {
       "added_at": "2023-07-28 16:40:26",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-07-28 16:40:26",
       "album": {
-        "name": "Shake! Shake! Shake!",
-        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
-      },
-      "artists": [
-        {
-          "name": "Bronze Radio Return",
-          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
-        }
-      ],
-      "duration_ms": 163236,
-      "name": "Shake, Shake, Shake",
-      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
-    },
-    {
-      "added_at": "2023-07-28 16:40:26",
-      "album": {
         "name": "Petals For Armor",
         "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 212894,
       "name": "Crystal Clear",
       "url": "https://open.spotify.com/track/3fV4kgcQzh2aLGSJbSAtoV"
+    },
+    {
+      "added_at": "2023-07-28 16:40:26",
+      "album": {
+        "name": "Shake! Shake! Shake!",
+        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
+      },
+      "artists": [
+        {
+          "name": "Bronze Radio Return",
+          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
+        }
+      ],
+      "duration_ms": 163236,
+      "name": "Shake, Shake, Shake",
+      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
     },
     {
       "added_at": "2023-07-28 16:40:26",

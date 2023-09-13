@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a generation of party starters\. Cover: FISHER & Kita Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,513 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,607 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 56 | [Never Miss A Beat](https://open.spotify.com/track/1VJLgFrfKrckuOb0DrvcQn) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN) | [Never Miss A Beat](https://open.spotify.com/album/6jTdaQKWxgkfEO5gLPMRDC) | 2:31 |
 | 57 | [Only You](https://open.spotify.com/track/2gcgwomqMF4Z92EZAPv3Ic) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Only You](https://open.spotify.com/album/4IdRKmgd3lPeH5NuwDpi6i) | 3:29 |
 | 58 | [FLUTE](https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO) | [MONSS](https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz) | [FLUTE](https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF) | 3:17 |
-| 59 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
-| 60 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
+| 59 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
+| 60 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
 | 61 | [Paradise](https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Paradise](https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ) | 3:02 |
 | 62 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 |
 | 63 | [Hawt](https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Hawt](https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM) | 2:37 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 66 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 | 67 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
 | 68 | [Excuses](https://open.spotify.com/track/2gvIIpYdM9x1rdekmQMXCL) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Excuses](https://open.spotify.com/album/5IgB6Fk5htrX4vQAcmw4ga) | 2:52 |
-| 69 | [Spaceship](https://open.spotify.com/track/25JgFc6e28yXV6B9IizfgC) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Spaceship](https://open.spotify.com/album/3q6IkJ4jV6qX4g6ZM9UQVs) | 3:18 |
-| 70 | [Balling](https://open.spotify.com/track/2fHWxn8NyuJJ9c8ZkjWXZq) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Balling](https://open.spotify.com/album/1l6wrvsYeH8wiXDEVVeoEv) | 3:40 |
+| 69 | [Balling](https://open.spotify.com/track/2fHWxn8NyuJJ9c8ZkjWXZq) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Balling](https://open.spotify.com/album/1l6wrvsYeH8wiXDEVVeoEv) | 3:40 |
+| 70 | [Spaceship](https://open.spotify.com/track/25JgFc6e28yXV6B9IizfgC) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Spaceship](https://open.spotify.com/album/3q6IkJ4jV6qX4g6ZM9UQVs) | 3:18 |
 | 71 | [Ecstasy \(Over & Over\)](https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Ecstasy \(Over & Over\)](https://open.spotify.com/album/4IMEWyvS2r1mpnTYD8j4Sb) | 3:36 |
 | 72 | [Gold](https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Gold](https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq) | 2:03 |
 | 73 | [Living My Life \(Golden\)](https://open.spotify.com/track/76NUmCZmMu1BODL1aL8Nz0) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Living My Life \(Golden\)](https://open.spotify.com/album/6IW0oyAHzdQbWsBlU5HBzQ) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 79 | [Living](https://open.spotify.com/track/5EdYBFZarevg1JlmzmTYnA) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [NOVODOR](https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY) | [Living](https://open.spotify.com/album/5cSslgXPIBdWdvneiyt35H) | 3:25 |
 | 80 | [Don't Call Me Baby](https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/1ftEO2e4IeKrafQOczpfpC) | 3:07 |
 
-Snapshot ID: `MCw5NWIyZWE1OGRjNWFjM2JkNDZjYzU1Y2E3YzRlZDJmNjE1ZWIwMjZj`
+Snapshot ID: `MCw2MjQwZGIwYzQ5NDhmOTUzZjIwNGNiNzZiZjk5YmNkNzcyYjI2ZDIw`

@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Lil Durk",
-  "num_followers": 447129,
+  "num_followers": 447432,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDNiNTdlMjU0MmEwNDg4NGQyYzA1YWIwZmFmMDFjYjNlNTFlYjhj",
+  "snapshot_id": "MCxlY2RkMTU1NmRkYjkyMzQwZTRiYjhiM2E3OGM0OTE2YTA0MzQ2OGU3",
   "tracks": [
     {
       "added_at": "2023-09-08 13:44:03",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-09-08 13:44:03",
       "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 169344,
-      "name": "Transportin'",
-      "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
-    },
-    {
-      "added_at": "2023-09-08 13:44:03",
-      "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 153626,
       "name": "Out Of Love (feat. Internet Money)",
       "url": "https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx"
+    },
+    {
+      "added_at": "2023-09-08 13:44:03",
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 169344,
+      "name": "Transportin'",
+      "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
     },
     {
       "added_at": "2023-09-08 13:44:03",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-09-08 13:44:03",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
-    },
-    {
-      "added_at": "2023-09-08 13:44:03",
-      "album": {
         "name": "Beat the Odds",
         "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 150000,
       "name": "Beat the Odds",
       "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
+    },
+    {
+      "added_at": "2023-09-08 13:44:03",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
       "added_at": "2023-09-08 13:44:03",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-09-08 13:44:03",
       "album": {
+        "name": "Give You What You Want",
+        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 159330,
+      "name": "Give You What You Want",
+      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
+    },
+    {
+      "added_at": "2023-09-08 13:44:03",
+      "album": {
         "name": "Bamba (feat. Aitch & BIA)",
         "url": "https://open.spotify.com/album/3cOBmVLauHdg4S3F7sJHyF"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 203255,
       "name": "Bamba (feat. Aitch & BIA)",
       "url": "https://open.spotify.com/track/7nFJSfGvvV0WjatTZN6QYi"
-    },
-    {
-      "added_at": "2023-09-08 13:44:03",
-      "album": {
-        "name": "Give You What You Want",
-        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 159330,
-      "name": "Give You What You Want",
-      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
     },
     {
       "added_at": "2023-09-08 13:44:03",
@@ -1847,30 +1847,6 @@
     {
       "added_at": "2023-09-08 13:44:03",
       "album": {
-        "name": "Only Built For Infinity Links",
-        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 283196,
-      "name": "To The Bone (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
-    },
-    {
-      "added_at": "2023-09-08 13:44:03",
-      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -1891,6 +1867,30 @@
       "duration_ms": 224466,
       "name": "Savior",
       "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
+    },
+    {
+      "added_at": "2023-09-08 13:44:03",
+      "album": {
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 283196,
+      "name": "To The Bone (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
     },
     {
       "added_at": "2023-09-08 13:44:03",

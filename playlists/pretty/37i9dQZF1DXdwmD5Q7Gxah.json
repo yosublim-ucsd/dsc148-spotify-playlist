@@ -1,12 +1,12 @@
 {
   "description": "you too have the opportunity to put Olivia Rodrigo and flyingfish in the same playlist. Slow Pulp is on the cover. ",
-  "num_followers": 1108172,
+  "num_followers": 1108608,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWFiYWQwMWQzZmViOGRmNDU5ZDk4YTAyNjdjYTkzZDQ5YjUzYjM3",
+  "snapshot_id": "MCwyOTM4NTMyMmQxMmJkYThjNTc0MzhiMDNkMWExNzVhODg2OGJhMGY3",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -75,6 +75,22 @@
       "duration_ms": 186466,
       "name": "Slugs",
       "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
+    },
+    {
+      "added_at": "2023-09-12 17:33:50",
+      "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -209,6 +225,22 @@
       "url": "https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL"
     },
     {
+      "added_at": "2023-09-11 18:44:29",
+      "album": {
+        "name": "It's In My Head",
+        "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 181792,
+      "name": "It's In My Head",
+      "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
+    },
+    {
       "added_at": "2023-08-31 12:00:00",
       "album": {
         "name": "Calico",
@@ -291,8 +323,8 @@
     {
       "added_at": "2023-08-31 15:10:31",
       "album": {
-        "name": "Back On 74",
-        "url": "https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
       "artists": [
         {
@@ -302,7 +334,7 @@
       ],
       "duration_ms": 209482,
       "name": "Back On 74",
-      "url": "https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca"
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2023-09-01 21:02:27",
@@ -487,22 +519,6 @@
       "duration_ms": 139920,
       "name": "inferno - Edit",
       "url": "https://open.spotify.com/track/2ACM0DK5xXBJlHZ8JQc9M5"
-    },
-    {
-      "added_at": "2023-08-28 22:25:59",
-      "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-08-25 04:48:26",
@@ -907,22 +923,6 @@
       "duration_ms": 214922,
       "name": "Roommates",
       "url": "https://open.spotify.com/track/1PJe0Vt9p0QaV4ZNHUwml0"
-    },
-    {
-      "added_at": "2023-07-25 17:52:53",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 415969,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
     },
     {
       "added_at": "2023-08-25 04:48:26",

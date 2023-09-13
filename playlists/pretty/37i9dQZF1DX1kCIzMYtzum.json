@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 185076,
+  "num_followers": 185376,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDIzZTZmMDMxOTQ4ZmVhNWQyNjNlOTk3MGM4MjFmZjc1OTg1ZTBh",
+  "snapshot_id": "MCw1ZWI5YTg2NDAzNWU0ODBiYTIwYmM3OWFhYjhmZTRhMGE0MmZmOWI1",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "A Milli (SIDEPIECE Remix)",
-        "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "A Milli - SIDEPIECE Remix",
-      "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "This Feeling",
         "url": "https://open.spotify.com/album/1sumCybVSXAHHhMtfW3iFB"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 196440,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/79SrdoXn93tgSzksq73X2y"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "A Milli (SIDEPIECE Remix)",
+        "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "A Milli - SIDEPIECE Remix",
+      "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1291,6 +1291,42 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+        }
+      ],
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Lucid Dream",
+        "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 193235,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Good Morning (feat. YOU)",
         "url": "https://open.spotify.com/album/1t4MBrJVFvOEPYt6fXf6r0"
       },
@@ -1315,22 +1351,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Lucid Dream",
-        "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 193235,
-      "name": "Lucid Dream",
-      "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 153508,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
-        }
-      ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1499,26 +1499,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Where You Are (Zedd Remix)",
-        "url": "https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B"
+        "name": "You Can\u2019t Change Me (feat. Raye)",
+        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         },
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 184649,
-      "name": "Where You Are - Zedd Remix",
-      "url": "https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO"
+      "duration_ms": 170859,
+      "name": "You Can\u2019t Change Me (feat. Raye)",
+      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1547,26 +1547,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "You Can\u2019t Change Me (feat. Raye)",
-        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
+        "name": "Where You Are (Zedd Remix)",
+        "url": "https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         },
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         }
       ],
-      "duration_ms": 170859,
-      "name": "You Can\u2019t Change Me (feat. Raye)",
-      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+      "duration_ms": 184649,
+      "name": "Where You Are - Zedd Remix",
+      "url": "https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1583,6 +1583,26 @@
       "duration_ms": 228620,
       "name": "Beyond the Fire",
       "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Gangster",
+        "url": "https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Gangster",
+      "url": "https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1607,26 +1627,6 @@
       "duration_ms": 160887,
       "name": "The Race",
       "url": "https://open.spotify.com/track/3cv2fSTYRr42WM90C9dswx"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Gangster",
-        "url": "https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Gangster",
-      "url": "https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 148086,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Judgement Day",
         "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 146076,
       "name": "Fool 4 U (feat. Enisa)",
       "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 148086,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "All For Nothing",
-        "url": "https://open.spotify.com/album/42CesxC3CLpCu2Z01Plmum"
-      },
-      "artists": [
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        },
-        {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
-        }
-      ],
-      "duration_ms": 206612,
-      "name": "All For Nothing",
-      "url": "https://open.spotify.com/track/0XYQShep48eEFHg7hcPndl"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/7brW7G3kHHkhr3eu838HhH"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 245413,
       "name": "Human",
       "url": "https://open.spotify.com/track/5i9khhoOkeogB49q54KOIz"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "All For Nothing",
+        "url": "https://open.spotify.com/album/42CesxC3CLpCu2Z01Plmum"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "duration_ms": 206612,
+      "name": "All For Nothing",
+      "url": "https://open.spotify.com/track/0XYQShep48eEFHg7hcPndl"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2107,22 +2107,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Atlantis (Robin Schulz Presents KOPPY)",
-        "url": "https://open.spotify.com/album/0RNI2RAuIHHNMDF4AuqkKz"
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/1I5VgwayPR20EfIw8Hxemg"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
         },
         {
-          "name": "KOPPY",
-          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+          "name": "Dimitri Vangelis & Wyman",
+          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+        },
+        {
+          "name": "Barefoot",
+          "url": "https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Atlantis (Robin Schulz Presents KOPPY)",
-      "url": "https://open.spotify.com/track/5TdnT5EfvkF6K3jHDe7toT"
+      "duration_ms": 170714,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/3KDAuFwxWf79cVOJrndpBh"
     }
   ],
   "unique_name": "EDM 2023",

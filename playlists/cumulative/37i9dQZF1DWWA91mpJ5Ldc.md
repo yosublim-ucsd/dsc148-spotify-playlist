@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-234 songs - 14 hr 19 min
+235 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Miragem \(Sem Razão\)](https://open.spotify.com/track/3fBBXSsUH2MD43REllyCIo) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Xenia](https://open.spotify.com/album/0elgFvQyeueOn9Z3dbkA7b) | 3:51 | 2022-03-22 | 2022-04-16 |
 | [Mistério Stereo](https://open.spotify.com/track/503OjD3MWV3qFkKj769fte) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Japan Pop Show](https://open.spotify.com/album/69ltPvQJmyU3OZLyDHG032) | 4:07 | 2022-03-22 | 2022-04-21 |
 | [Moqueca](https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2ZQLiEqJgQeNAVuZpMP8iA) | 4:04 | 2022-09-06 | 2023-01-10 |
+| [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 | 2023-09-01 |  |
 | [Morada Boa Featuring Nina Miranda](https://open.spotify.com/track/5x4KSfOm9Bc1ugelLYe4AG) | [3 Na Massa](https://open.spotify.com/artist/1swmzlKgFluITKhxSV9ixX) | [3 Na Massa](https://open.spotify.com/album/5scnXOM54hVJw0mkDgBGs8) | 3:46 | 2022-03-22 | 2022-04-17 |
 | [Moça Vem Cá](https://open.spotify.com/track/1xVYmo2RtOWgENpW7YSAEK) | [Tom Karabachian](https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW) | [Moça Vem Cá](https://open.spotify.com/album/5Nb8vwGAJM6QmT5pCCc6kh) | 3:18 | 2022-02-04 | 2022-07-27 |
 | [Mulher Sem Razão](https://open.spotify.com/track/5EGaYaDIsqNn0caVrmnE5w) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Cazuza Exagerado](https://open.spotify.com/album/3awiXs3c4O3q7xoR2ohwOP) | 3:35 | 2022-03-22 | 2022-04-20 |
@@ -167,7 +168,7 @@
 | [O Tambor](https://open.spotify.com/track/7ARjyeK4lXOwKzQu7c2Xvz) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Existe Amor](https://open.spotify.com/album/0SeIP7LbyFTNlmdFKH8zHi) | 3:25 | 2022-03-14 | 2022-09-17 |
 | [Ocitocina \(Charged\)](https://open.spotify.com/track/5nvPxu5QkaWGDivXEz0tA8) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Apká!](https://open.spotify.com/album/2SWt1KSJ7rJ2XkWHlrZL1s) | 5:07 | 2022-03-22 | 2022-04-21 |
 | [Old Boy \- Deluxe](https://open.spotify.com/track/2lMOAEnNI5MBcujViIHjuM) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Dancê \(Deluxe\)](https://open.spotify.com/album/23E2TrYE7Z8hDId9ANyWrk) | 4:56 | 2022-03-22 | 2022-04-21 |
-| [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 | 2022-03-22 |  |
+| [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 | 2022-03-22 | 2023-09-13 |
 | [Onde Estará](https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG) | 3:37 | 2023-01-13 |  |
 | [Onde Estará](https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot) | 3:37 | 2022-02-04 | 2023-01-19 |
 | [Pangea](https://open.spotify.com/track/1ZSml83SQNnsK6kAtoMnQg) | [Arosa](https://open.spotify.com/artist/08KoaBKxVAtpKRB58YWuYx) | [Pangea](https://open.spotify.com/album/5SEct449bwIwrPtagzfhZE) | 4:06 | 2022-03-22 | 2022-04-20 |

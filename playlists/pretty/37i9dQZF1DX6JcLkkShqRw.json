@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Cris Mj & DJ Tao.",
-  "num_followers": 311451,
+  "num_followers": 311640,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTkxZmIxNDM3ZTY4ZjA4MjdmMDU5Y2QyY2ZiZmVmNWM2YWFjY2My",
+  "snapshot_id": "MCw3NTZkYTU1MjJhZGMwYzMwZTA1MjY4NmM1MDMwNjhlZWViMjhhNjNh",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -348,7 +348,7 @@
           "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
         }
       ],
-      "duration_ms": 266925,
+      "duration_ms": 264888,
       "name": "GIRO 180",
       "url": "https://open.spotify.com/track/2GWFiSNw8elbIt0emwTbyg"
     },
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "SHERATON",
-        "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "SHERATON",
-      "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Duki: Bzrp Music Sessions, Vol. 50",
         "url": "https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 221303,
       "name": "Duki: Bzrp Music Sessions, Vol. 50",
       "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "SHERATON",
+        "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "SHERATON",
+      "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "OJAL\u00c1",
-        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160482,
-      "name": "OJAL\u00c1",
-      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "YSYSMO",
         "url": "https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 134581,
       "name": "C\u00d3MO CHILLA ELLA",
       "url": "https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "OJAL\u00c1",
+        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160482,
+      "name": "OJAL\u00c1",
+      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1547,26 +1547,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "RICKY RICON",
-        "url": "https://open.spotify.com/album/2TBtnMTQ5WPxMBtCiNc1f5"
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
       "artists": [
         {
-          "name": "Aqua VS",
-          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         },
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Lewis Somes",
-          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 127200,
-      "name": "RICKY RICON",
-      "url": "https://open.spotify.com/track/5iPk6ylNdN0Rw8bMtQzIgh"
+      "duration_ms": 168508,
+      "name": "intoxicao",
+      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1591,22 +1587,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+        "name": "RICKY RICON",
+        "url": "https://open.spotify.com/album/2TBtnMTQ5WPxMBtCiNc1f5"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
         }
       ],
-      "duration_ms": 168508,
-      "name": "intoxicao",
-      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
+      "duration_ms": 127200,
+      "name": "RICKY RICON",
+      "url": "https://open.spotify.com/track/5iPk6ylNdN0Rw8bMtQzIgh"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "511",
+        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 106095,
+      "name": "TOI HECHO",
+      "url": "https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Glocko",
         "url": "https://open.spotify.com/album/7sBFofbqWdbYEe5SDv7X1b"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 192043,
       "name": "Glocko",
       "url": "https://open.spotify.com/track/0zvrARWIZQD5M4WWH8mhsX"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "511",
-        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 106095,
-      "name": "TOI HECHO",
-      "url": "https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/2pumbIwYfxXbt13whkgdXt"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/3pbySFbqs0u2nhhti6PhGQ"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Dime T\u00fa",
         "url": "https://open.spotify.com/album/5RdU0FElotMIDYbY8zKiHx"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 225864,
       "name": "Dime T\u00fa",
       "url": "https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/2pumbIwYfxXbt13whkgdXt"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/3pbySFbqs0u2nhhti6PhGQ"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 155380,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Prende la C\u00e1mara RMX",
         "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 212629,
       "name": "Prende la C\u00e1mara RMX",
       "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
     },
     {
       "added_at": "2023-09-08 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,447 likes - 33 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,798 likes - 33 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

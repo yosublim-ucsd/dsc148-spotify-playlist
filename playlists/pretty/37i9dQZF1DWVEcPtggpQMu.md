@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=AlPVOAANSamLzpwGn6X3cw">Cassper Nyovest</a>, <a href="https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=R1LeGL67Q7GKMJl0tNIVmg">Maglera Doe Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,558 likes - 61 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,650 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 60 | [THANK YOU JESUS](https://open.spotify.com/track/0CHrwFE4sBRp8t1y1aZ1dA) | [FLVME](https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r) | [THE LOST PACK:, Vol\. 1](https://open.spotify.com/album/3RFcqfqeIHjtQstdNcBbdF) | 1:46 |
 | 61 | [I Want It](https://open.spotify.com/track/37dSZbFDX85ofQGof9rM5E) | [Moyoza](https://open.spotify.com/artist/3zgGyPGv8x75epEqghdIfl) | [I Want It](https://open.spotify.com/album/52FHTjYYBHX7M9ncrUC7Ux) | 2:17 |
 
-Snapshot ID: `MCw4MWRlODk3ZWM2YzUyNGZmZDgzNWZiMjI4Y2JmYTFhNTMzNTY2OTIy`
+Snapshot ID: `MCwxODJkZjJkZTFkYzY0NWVhODI2ZTViYjk2ZWI2OGMxZjg3MjBkZjk3`

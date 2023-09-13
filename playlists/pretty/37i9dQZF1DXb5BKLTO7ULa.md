@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Suzan & Freek en Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,352 likes - 96 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,361 likes - 96 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 64 | [Ik Ben Jij](https://open.spotify.com/track/1nfbxZYGqSmHhi8PDE7X0Y) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Ik Ben Jij](https://open.spotify.com/album/5YcRkwaP4xkAiliHuJumPs) | 3:46 |
 | 65 | [How Does It Feel](https://open.spotify.com/track/1yaPQsSFLirklNeowhPAN0) | [Josh Island](https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4) | [How Does It Feel](https://open.spotify.com/album/1G28S2qoTYaYHdEv2DUkfC) | 3:00 |
 | 66 | [Ray\-Bans](https://open.spotify.com/track/75Krgu40syJQZMrrU853Kp) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Ray\-Bans](https://open.spotify.com/album/7KHyrCP5S4FmyawTNyGk7x) | 3:25 |
-| 67 | [Let Them Talk \(feat\. Phuong\)](https://open.spotify.com/track/6WxEIrublpvMnODpMlMxFo) | [Ryan.Song](https://open.spotify.com/artist/4ShjGwqyIe0f3jKTJYcAfu), [Phuong](https://open.spotify.com/artist/54liAPychr5OuCwOTEHy2P) | [Abusive](https://open.spotify.com/album/4eCY29BQgkbaUGuwQzb8wz) | 3:09 |
+| 67 | [Let Them Talk \(feat\. Phuong\)](https://open.spotify.com/track/6WxEIrublpvMnODpMlMxFo) | [Ryan.Song](https://open.spotify.com/artist/4ShjGwqyIe0f3jKTJYcAfu), [PHUONG](https://open.spotify.com/artist/3LdIzQVieEWvK2dmxwyT7A) | [Abusive](https://open.spotify.com/album/4eCY29BQgkbaUGuwQzb8wz) | 3:09 |
 | 68 | [Yo Fam!](https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Yo Fam!](https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3) | 2:41 |
 | 69 | [Dreaming](https://open.spotify.com/track/7oKcK43owb4FnfOTLQQrTF) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Dreaming](https://open.spotify.com/album/2dMzewYgORjajV2nLV0iwV) | 3:25 |
 | 70 | [Room Full Of Love](https://open.spotify.com/track/5zthp0rjPhiX8Vty5tmbzF) | [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2), [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO) | [Room Full Of Love](https://open.spotify.com/album/0NqK6iQuCSulrXQ9hr6oKO) | 3:59 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 95 | [Push Away](https://open.spotify.com/track/3Gu05tamNHX02lvRjFJN8w) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Push Away](https://open.spotify.com/album/0oe3obymHRQJktSEwneMzf) | 2:46 |
 | 96 | [God Couldn't Save The Queen](https://open.spotify.com/track/043e0nbJwyhmUDzrGArGHU) | [Subterranean Street Society](https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe) | [God Couldn't Save The Queen](https://open.spotify.com/album/7iJXnDBAlVkoUZJuwKSi7y) | 3:24 |
 
-Snapshot ID: `MCw5ZmEyZWRhYjVjMDBhYjc3YTg2YzkzMjkxODFjODQ5NWVlZTk3MTE5`
+Snapshot ID: `MCxkYjFmNTdlYmZhNTljZTc1ZmFhNmEwNjc0ZTFjZDlkN2IxYjgyODdj`

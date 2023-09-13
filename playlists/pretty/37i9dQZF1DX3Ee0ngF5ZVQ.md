@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,091 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,262 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 34 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
 | 35 | [If I Had a Dollar](https://open.spotify.com/track/4PDiHpPfI0qr0HhIOyUNQn) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [If I Had a Dollar](https://open.spotify.com/album/25Y4FqiX9zxgeWepeu2sd6) | 4:52 |
 | 36 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 |
-| 37 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 |
-| 38 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 |
+| 37 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 |
+| 38 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 |
 | 39 | [How The Hurtin' Goes](https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa) | [Curtis Grimes](https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP) | [How The Hurtin' Goes](https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly) | 2:50 |
 | 40 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
 | 41 | [Heartfelt](https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Heartfelt](https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge) | 3:15 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 54 | [Dust](https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu) | 3:06 |
 | 55 | [Diamondhead](https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Diamondhead](https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc) | 3:07 |
 | 56 | [Barstool Boys](https://open.spotify.com/track/72F4ZWhDZ5Raxt4TyWjS1L) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Barstool Boys](https://open.spotify.com/album/0YDTwf2SqOD0oAKz5qrYZY) | 2:45 |
-| 57 | [My Heart You'll Tend](https://open.spotify.com/track/3po9LDXpTQyJCPc5O1RUut) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [My Heart You'll Tend](https://open.spotify.com/album/1KpJBUETISSfAToyFkBDDA) | 3:53 |
-| 58 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 |
+| 57 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 |
+| 58 | [My Heart You'll Tend](https://open.spotify.com/track/3po9LDXpTQyJCPc5O1RUut) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [My Heart You'll Tend](https://open.spotify.com/album/1KpJBUETISSfAToyFkBDDA) | 3:53 |
 | 59 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 |
 | 60 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
 | 61 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 66 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 |
 | 67 | [Bend](https://open.spotify.com/track/1hd2FhXKSbH7X6DsGZWPmw) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Bend](https://open.spotify.com/album/076D8t21jWpx0yLOZYyBWe) | 3:26 |
 | 68 | [When the Good Ol Boys Age Out](https://open.spotify.com/track/5LAbNvWjVcWgVCkiLdTrfR) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [When the Good Ol Boys Age Out](https://open.spotify.com/album/4XeY6zjxs6rQ19UeeNo6jY) | 4:16 |
-| 69 | [Hell I Am](https://open.spotify.com/track/4WeR5cSR8JJLB81D8Ccmgu) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Hell I Am](https://open.spotify.com/album/2JS808o99F8IorC0P8DPXj) | 4:00 |
-| 70 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
+| 69 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
+| 70 | [Hell I Am](https://open.spotify.com/track/4WeR5cSR8JJLB81D8Ccmgu) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Hell I Am](https://open.spotify.com/album/2JS808o99F8IorC0P8DPXj) | 4:00 |
 | 71 | [Madison](https://open.spotify.com/track/33BaBCFqa8DrV9pj2pUDer) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [Madison](https://open.spotify.com/album/6WA8s9UiGc4r7WJWz66VZc) | 4:44 |
 | 72 | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/track/6mPpuNKf0wPSoOCD3rFbdz) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/album/3r9sGBc6fpTs96wv1eXkwG) | 3:15 |
 | 73 | [When You Love Me](https://open.spotify.com/track/2Z3b4wnusCLmYFPQG7TLvZ) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [When You Love Me](https://open.spotify.com/album/6RkNkSfZSQOEq7Gq5Z0Qsv) | 3:16 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 76 | [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 |
 | 77 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 |
 | 78 | [9 To 5 \(feat\. Kylie Frey\)](https://open.spotify.com/track/1fVv9DVpLNiobkGlE1LrtH) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [9 To 5](https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v) | 2:16 |
-| 79 | [Shooting Hand](https://open.spotify.com/track/0Ce7IONNgK3YPWcHPBIu0P) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 3](https://open.spotify.com/album/2uCfOVYQX0MJZ0OoLOA4Vx) | 4:05 |
-| 80 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
+| 79 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
+| 80 | [Shooting Hand](https://open.spotify.com/track/0Ce7IONNgK3YPWcHPBIu0P) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 3](https://open.spotify.com/album/2uCfOVYQX0MJZ0OoLOA4Vx) | 4:05 |
 | 81 | [Lowdown & Lonesome](https://open.spotify.com/track/4fRtgLI8kltC4EdU37Cahx) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Lowdown & Lonesome](https://open.spotify.com/album/7e8Ka3g62QpJTm23DYLLm5) | 4:31 |
 | 82 | [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 |
 | 83 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [The Ride](https://open.spotify.com/track/3uE5rVJPkJilTKs6ixpI6B) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [The Ride](https://open.spotify.com/album/3yJ9rQ9PHhdCGzCbTWvmlO) | 3:16 |
 | 100 | [jackson](https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [What Else Can She Do](https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX) | 3:54 |
 
-Snapshot ID: `MCwwM2JmOGNmZDkxYjk3M2EyNDNlMjNmNDQxMmYwZDM1MGNlYWE4MDk2`
+Snapshot ID: `MCxkMGJjMjg3YzZmMmUwOWNjMDQzNDdmNjljODU1ZWJmMWZjZmNhYTJk`

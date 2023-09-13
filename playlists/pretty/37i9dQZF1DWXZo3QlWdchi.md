@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,637 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,741 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 6 | [Come As You Are \- Live](https://open.spotify.com/track/3sYWyVGfPuit80szWXhrRA) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:13 |
 | 7 | [Os Cegos do Castelo \- Ao Vivo](https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Acústico MTV](https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8) | 4:56 |
 | 8 | [Não Olhe Pra Trás \(feat\. Lenine\) \- Ao Vivo](https://open.spotify.com/track/7CGbTwDDVA3TEj5sCVMfhb) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Capital Inicial Acústico NYC \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2t5g2yjLy9HIhWF0JskZTQ) | 4:16 |
-| 9 | [Basket Case \- 4\-track demo](https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary 4\-Track Demos\)](https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd) | 3:07 |
-| 10 | [Tarde Vazia \(feat\. Samuel Rosa\) \- Versão Acústica](https://open.spotify.com/track/6tFiwRosuePm2v0DQTyGpj) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:18 |
+| 9 | [Tarde Vazia \(feat\. Samuel Rosa\) \- Versão Acústica](https://open.spotify.com/track/6tFiwRosuePm2v0DQTyGpj) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:18 |
+| 10 | [Basket Case \- 4\-track demo](https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary 4\-Track Demos\)](https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd) | 3:07 |
 | 11 | [A Mais Pedida \- Ao Vivo \| Acústico](https://open.spotify.com/track/6kCGzPmsyJkzs0UnbXjply) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:42 |
 | 12 | [Black \- Live MTV Unplugged](https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [MTV Unplugged](https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX) | 5:30 |
 | 13 | [Pescador de ilusões \- Ao vivo](https://open.spotify.com/track/5ytWdfs7iGpu42VQyAQyvY) | [O Rappa](https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f) | [O Rappa \- Acústico Oficina Francisco Brennand \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR) | 6:09 |
-| 14 | [Agora Só Falta Você \- Ao Vivo](https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Acustico \(Live\)](https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s) | 3:32 |
-| 15 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
-| 16 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 |
-| 17 | [O Girassol \- Versão Acústica](https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:07 |
+| 14 | [O Girassol \- Versão Acústica](https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:07 |
+| 15 | [Agora Só Falta Você \- Ao Vivo](https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Acustico \(Live\)](https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s) | 3:32 |
+| 16 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
+| 17 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 |
 | 18 | [Ironic \- Live / Unplugged](https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 3:53 |
 | 19 | [Take On Me \- MTV Unplugged / Edit](https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(MTV Unplugged / Edit\)](https://open.spotify.com/album/3wzeAwO1FHJbdBhmoc9LST) | 3:42 |
 | 20 | [Mulher de Fases \- Ao Vivo \| Acústico](https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ), [Dinho Ouro Preto](https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 4:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 74 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/0brP1QBsJiMoqt3jqEHZaN) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Pop Brasil das Antigas](https://open.spotify.com/album/1hszah1arYRilCMPwvB6Ib) | 4:00 |
 | 75 | [Proibida Pra Mim \(Grazon\) \- Ao Vivo](https://open.spotify.com/track/1ChjgMHSdaPiWGSMmsIECN) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Acústico Nacional](https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm) | 2:31 |
 
-Snapshot ID: `MCwxZGEzMDA3MmRiZDczYWIyNjdiMmI1MDZhZjUwNmRlNWQ4MjM5MTEx`
+Snapshot ID: `MCxlYTY2MzAzOGQ0NDFjNzU2ZTIwM2JjMzJhODYwMGM3ZDhiMmZjMGI5`

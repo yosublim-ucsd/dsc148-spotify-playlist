@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Gato e\u2019 Monte.",
-  "num_followers": 116173,
+  "num_followers": 116214,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDZiZDk1ZmI5MDMwZDJkZTU0ZjZmYTgxYTMyMjA1NzM5ODlhOTgz",
+  "snapshot_id": "MCxhZjc2OTAzNzdmODljY2YxMmZlOGY2NDNmYzIyYTE5OTYxNjE2ODhl",
   "tracks": [
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
+        "name": "Las Bestias Que Me Acompa\u00f1an",
+        "url": "https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "duration_ms": 222428,
+      "name": "Las Bestias Que Me Acompa\u00f1an",
+      "url": "https://open.spotify.com/track/7u7dzBVfptwhsuNqKHMBXn"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
         "name": "Inmensamente Fr\u00e1gil",
         "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 200213,
       "name": "Tu Casa",
       "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "Las Bestias Que Me Acompa\u00f1an",
-        "url": "https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9"
-      },
-      "artists": [
-        {
-          "name": "Andrea Santiago",
-          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
-        }
-      ],
-      "duration_ms": 222428,
-      "name": "Las Bestias Que Me Acompa\u00f1an",
-      "url": "https://open.spotify.com/track/7u7dzBVfptwhsuNqKHMBXn"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
+        "name": "San Juan",
+        "url": "https://open.spotify.com/album/6fcoytjtpLguNPlNxGi2HC"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 208509,
+      "name": "San Juan",
+      "url": "https://open.spotify.com/track/7CpSbpb0Rq5Yq5yMtUGLRX"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
         "name": "tal vez, no s\u00e9",
         "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 224599,
       "name": "tal vez, no s\u00e9",
       "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "San Juan",
-        "url": "https://open.spotify.com/album/6fcoytjtpLguNPlNxGi2HC"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 208509,
-      "name": "San Juan",
-      "url": "https://open.spotify.com/track/7CpSbpb0Rq5Yq5yMtUGLRX"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "La Certeza del Dolor",
-        "url": "https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5"
+        "name": "poquito",
+        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
       },
       "artists": [
         {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 212203,
-      "name": "Nadie me lo ense\u00f1\u00f3",
-      "url": "https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl"
+      "duration_ms": 219681,
+      "name": "poquito",
+      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "poquito",
-        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
+        "name": "La Certeza del Dolor",
+        "url": "https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
         }
       ],
-      "duration_ms": 219681,
-      "name": "poquito",
-      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+      "duration_ms": 212203,
+      "name": "Nadie me lo ense\u00f1\u00f3",
+      "url": "https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 322242,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
         "name": "1990",
         "url": "https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 236756,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 322242,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Me Voy a Valpara\u00edso",
-        "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        }
-      ],
-      "duration_ms": 240576,
-      "name": "Me Voy a Valpara\u00edso",
-      "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "El Perro Feroz",
         "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
       },
@@ -1723,18 +1703,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+        "name": "Me Voy a Valpara\u00edso",
+        "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
       },
       "artists": [
         {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
         }
       ],
-      "duration_ms": 229901,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+      "duration_ms": 240576,
+      "name": "Me Voy a Valpara\u00edso",
+      "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1771,6 +1755,22 @@
       "duration_ms": 232357,
       "name": "Tabaibas",
       "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 229901,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
     },
     {
       "added_at": "2023-08-18 12:43:48",

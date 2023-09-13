@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 108363,
+  "num_followers": 108406,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzc3ODE2ZjBhNWRmZWRjOGM2NGQ1YzBkYzMxN2Y2ZTFkYjEwNGUw",
+  "snapshot_id": "MCw4YTBkY2VjYmI0YTQ1OTM1Yzc5NDZiZTdjNjUwMTM0ODE2OTU5ODM4",
   "tracks": [
     {
       "added_at": "2023-08-17 21:53:42",
@@ -311,22 +311,18 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 203464,
-      "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi"
+      "duration_ms": 204181,
+      "name": "Dieznoches",
+      "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -363,18 +359,22 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "ENTROP\u00cdA",
-        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+        "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
       },
       "artists": [
         {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 204181,
-      "name": "Dieznoches",
-      "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
+      "duration_ms": 203464,
+      "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
         "name": "Canciones Tristes",
         "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "La Pared",
-        "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
-      },
-      "artists": [
-        {
-          "name": "Cupido",
-          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
-        }
-      ],
-      "duration_ms": 289762,
-      "name": "La Pared",
-      "url": "https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "no estabas cerca",
         "url": "https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 70465,
       "name": "no estabas cerca",
       "url": "https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "La Pared",
+        "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "duration_ms": 289762,
+      "name": "La Pared",
+      "url": "https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+        "name": "Nada de Nada",
+        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
       },
       "artists": [
         {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
         }
       ],
-      "duration_ms": 168125,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
+      "duration_ms": 217500,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Nada de Nada",
-        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
       },
       "artists": [
         {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Nada de Nada",
-      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1103,22 +1119,6 @@
       "duration_ms": 145418,
       "name": "TE PERD\u00cd",
       "url": "https://open.spotify.com/track/1Pe2xnS2FndbzQ0TNAFwXk"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
         "name": "Ausente",
         "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "En L\u00ednea",
         "url": "https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6"
       },
@@ -1247,26 +1247,6 @@
       "duration_ms": 177391,
       "name": "el jardinero",
       "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
-        "name": "Directo en mi habitacion <3",
-        "url": "https://open.spotify.com/album/3uw4KJSWPNDuW5PIjrXYhq"
-      },
-      "artists": [
-        {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
-        },
-        {
-          "name": "Juan Azul",
-          "url": "https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw"
-        }
-      ],
-      "duration_ms": 347306,
-      "name": "Corazon partio - En directo",
-      "url": "https://open.spotify.com/track/5sNLvOP38aQxpjUeJ2VQsP"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1307,6 +1287,26 @@
       "duration_ms": 188901,
       "name": "Galerna",
       "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "Directo en mi habitacion <3",
+        "url": "https://open.spotify.com/album/3uw4KJSWPNDuW5PIjrXYhq"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        },
+        {
+          "name": "Juan Azul",
+          "url": "https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw"
+        }
+      ],
+      "duration_ms": 347306,
+      "name": "Corazon partio - En directo",
+      "url": "https://open.spotify.com/track/5sNLvOP38aQxpjUeJ2VQsP"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "cansada de verte en todas partes",
-        "url": "https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 170803,
-      "name": "cansada de verte en todas partes",
-      "url": "https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "La Banqueta",
         "url": "https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
+        "name": "cansada de verte en todas partes",
+        "url": "https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 170803,
+      "name": "cansada de verte en todas partes",
+      "url": "https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
         "name": "Nada Es Igual",
         "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Amor Insustancial",
-        "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
-      },
-      "artists": [
-        {
-          "name": "Jordano",
-          "url": "https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW"
-        }
-      ],
-      "duration_ms": 205450,
-      "name": "Se que te iras",
-      "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 213440,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "Amor Insustancial",
+        "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
+      },
+      "artists": [
+        {
+          "name": "Jordano",
+          "url": "https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW"
+        }
+      ],
+      "duration_ms": 205450,
+      "name": "Se que te iras",
+      "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
     },
     {
       "added_at": "2023-08-17 21:53:42",

@@ -1,12 +1,12 @@
 {
   "description": "Life in plastic is fantastic ",
-  "num_followers": 251004,
+  "num_followers": 252706,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGY1YzRkODJhNjc0MzBhYzMzMWNjMDE4YWQ1OWJlYmUwYmRmMTIz",
+  "snapshot_id": "MCwwODU3Mzg1OTRmYzJjZTQ1YTQ4NTFiZTA1MWUwODRhN2U0NDFiNjQ1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 166882,
       "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Birds of Prey: The Album",
-        "url": "https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Paris (U.S. Standard Version)",
         "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 236600,
       "name": "Stars Are Blind",
       "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Birds of Prey: The Album",
+        "url": "https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i"
     },
     {
       "added_at": "2023-08-18 04:01:00",

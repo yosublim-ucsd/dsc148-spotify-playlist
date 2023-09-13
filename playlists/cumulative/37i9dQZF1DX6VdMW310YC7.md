@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,520 songs - 4 day 8 hr 42 min
+1,521 songs - 4 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,7 +900,7 @@
 | [Mr\. Skitters](https://open.spotify.com/track/4XE9Ggjr33rRGbjDHbGaTQ) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Mr\. Skitters](https://open.spotify.com/album/5XuDagNAjYRu9qriplCt6q) | 3:02 | 2020-03-20 | 2021-03-06 |
 | [Mug Life](https://open.spotify.com/track/3tQuLgGuNUQgq971xQHcLQ) | [Kiso](https://open.spotify.com/artist/3okpOKUI8vvwAYi4cDoXdZ) | [Mug Life EP](https://open.spotify.com/album/3ZWyhCqlZoknPCbTKtPVj2) | 5:46 | 2020-05-18 | 2020-07-03 |
 | [Musica](https://open.spotify.com/track/4FoH1JTnWMZtciVi1V8ifa) | [Joy Kitikonti](https://open.spotify.com/artist/4JrU565LFXyKjDaHhdmPR6), [Luca Pechino](https://open.spotify.com/artist/2VhenOnDslFVCrnDN6KlsZ) | [Musica](https://open.spotify.com/album/4gpO4UMyIxvAOBWgOodgBi) | 6:42 | 2021-09-10 | 2021-09-11 |
-| [Must Be Dreaming](https://open.spotify.com/track/16ux7RA90OUcVqhgrad44r) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [Must Be Dreaming](https://open.spotify.com/album/7bplOyFHY3tfZUgUr1KcCp) | 3:53 | 2023-09-08 |  |
+| [Must Be Dreaming](https://open.spotify.com/track/16ux7RA90OUcVqhgrad44r) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [Must Be Dreaming](https://open.spotify.com/album/7bplOyFHY3tfZUgUr1KcCp) | 3:53 | 2023-09-08 | 2023-09-13 |
 | [My Beautiful Blue Sky](https://open.spotify.com/track/1GCpvGwduaJ8uDelrJAcLL) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Ambient](https://open.spotify.com/album/5mq5dYBCJO9AfSTylR2v6b) | 5:19 | 2020-05-24 | 2020-10-09 |
 | [My Breath](https://open.spotify.com/track/3TUErt7xP33VW48HHtfcOM) | [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [My Breath](https://open.spotify.com/album/2rGwPVULt73kHrtB3rsIOs) | 3:01 | 2021-02-19 | 2022-12-29 |
 | [My House \- Chill Mix](https://open.spotify.com/track/0TVMVtaGg7KUqWGlI9zwjs) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [My House \(Chill Mix\)](https://open.spotify.com/album/4qZo3KMdvmsQNbtCsu3OcK) | 2:58 | 2020-08-06 | 2020-10-09 |
@@ -1426,6 +1426,7 @@
 | [Wairau Bay](https://open.spotify.com/track/3cUUVRG0w6BmUgd4Jvq7MZ) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Wairau Bay](https://open.spotify.com/album/35AOYl5R2XTsif5NyiOi5g) | 3:28 | 2021-09-17 | 2022-12-29 |
 | [Wait](https://open.spotify.com/track/38JpoTvf4geJB16Pj7et3I) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Wait](https://open.spotify.com/album/3d5Ea4e5NS5SbiJ6eRQfn1) | 4:15 | 2022-02-04 | 2022-02-10 |
 | [Waiting](https://open.spotify.com/track/4x9nVGF0fDaffc1LkBmgNP) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Waiting](https://open.spotify.com/album/1zPy3ijCe4ykKVsq4rBdxx) | 3:48 | 2020-03-20 | 2022-04-20 |
+| [Waiting All My Life](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Waiting All My Life](https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O) | 3:13 | 2023-09-08 |  |
 | [Waiting For The Sun](https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Waiting For The Sun](https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4) | 3:42 | 2023-09-08 |  |
 | [Waiting for You](https://open.spotify.com/track/2L0wPdpLIZBSMmkS8RDFtw) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Waiting for You](https://open.spotify.com/album/3p9GXL95N0rNtU2t0bqXPS) | 2:32 | 2020-03-17 | 2021-03-06 |
 | [Wake Up \- BAILE Remix](https://open.spotify.com/track/3BCaiamID008P5wudGP5Yh) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [Wake Up \(BAILE Remix\)](https://open.spotify.com/album/2lb9R2jTgHus3J1QnF3xF5) | 3:50 | 2021-06-11 | 2022-09-24 |

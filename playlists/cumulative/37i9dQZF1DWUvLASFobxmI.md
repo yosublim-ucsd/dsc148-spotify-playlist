@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. De Parranda en portada.
 
-379 songs - 20 hr 30 min
+380 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [El Malo](https://open.spotify.com/track/2UIlgB8kZVaSCc7mFJckAW) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Malo](https://open.spotify.com/album/0QGJMzZa6EbFWhWaEdARxg) | 2:54 | 2023-08-25 |  |
 | [El Mayor](https://open.spotify.com/track/1O6V373NcGqZ27jpCtGdsP) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Mayor](https://open.spotify.com/album/3VwSLI8R7PAzDHfqG7pEWX) | 2:48 | 2022-07-01 | 2022-08-06 |
 | [El Mero Jefe](https://open.spotify.com/track/7x8zB0fCcGX2Laz7aOdX8d) | [Grupo DH](https://open.spotify.com/artist/1hsSik9MaFxsUbimuleDxZ), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Mero Jefe](https://open.spotify.com/album/7I18KlTao7kD9zzaiHJA0U) | 2:50 | 2023-01-13 | 2023-01-21 |
+| [El Morro Pirata](https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [El Morro Pirata](https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ) | 2:38 | 2023-09-08 |  |
 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 | 2023-05-26 | 2023-09-12 |
 | [El Pescuezo Del Pollo \(En Vivo\)](https://open.spotify.com/track/0N3dAhEqj3zTeHJcDuA5fB) | [Los Juniors de La Montaña](https://open.spotify.com/artist/304T5qiPITdwBthiURWORg) | [El Pescuezo Del Pollo \(En Vivo\)](https://open.spotify.com/album/24X2SfIgfDI6fBWDM9OaHy) | 4:24 | 2023-04-14 | 2023-06-08 |
 | [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 | 2023-01-13 | 2023-04-15 |
@@ -238,7 +239,7 @@
 | [Mi Historia](https://open.spotify.com/track/0yj2kjBVyzV4uuFolZf6t5) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Mi Historia](https://open.spotify.com/album/1zJhuy5sDc94mjr96UG9hD) | 2:52 | 2022-09-02 | 2022-09-20 |
 | [Mi Lugar Seguro](https://open.spotify.com/track/6DNmkuQgl7qNdWKRmNPGI0) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [Mi Lugar Seguro](https://open.spotify.com/album/322tfMVUK6G6DHH30mifP4) | 2:46 | 2023-02-24 | 2023-03-09 |
 | [Mi Padre \(Versión Acústica\)](https://open.spotify.com/track/5PyKNGmzN7zyEEC61muPA8) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [Mi Padre \(Versión Acústica\)](https://open.spotify.com/album/3s9uOOgCgsAFPfw8lZeWmq) | 3:18 | 2022-07-01 | 2022-07-28 |
-| [Mi Persona Favorita](https://open.spotify.com/track/0SxuYEU9W9gmiQfSacWg7X) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mi Persona Favorita](https://open.spotify.com/album/4pF5NjEqkWXMPSbhNZWuPZ) | 2:49 | 2023-01-20 |  |
+| [Mi Persona Favorita](https://open.spotify.com/track/0SxuYEU9W9gmiQfSacWg7X) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mi Persona Favorita](https://open.spotify.com/album/4pF5NjEqkWXMPSbhNZWuPZ) | 2:49 | 2023-01-20 | 2023-09-13 |
 | [Mi Recaída en Los Excesos](https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mi Recaída en Los Excesos](https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9) | 3:03 | 2023-06-16 |  |
 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 | 2022-07-01 | 2023-08-12 |
 | [Millennial](https://open.spotify.com/track/1XCotAsDLWl4Xv1hy9qaiG) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Millennial](https://open.spotify.com/album/2eTrKUYyEnLdvN6awc6PK4) | 2:44 | 2022-09-30 | 2022-12-03 |

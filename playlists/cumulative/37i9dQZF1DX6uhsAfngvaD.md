@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-361 songs - 22 hr 34 min
+362 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [For You](https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC) | 3:47 | 2023-03-24 |  |
 | [For You](https://open.spotify.com/track/7FX5YbkSnFCOLASH7MLxjU) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V) | 3:47 | 2020-08-09 | 2022-11-09 |
 | [Fortunes](https://open.spotify.com/track/0sKMqfLQfT5py9Rzo3w0ge) | [HANYA](https://open.spotify.com/artist/3Wx8eakM1zk8tWXy2HOGT9) | [Fortunes](https://open.spotify.com/album/2LJ33cu5e1lxnZVBdZbH2B) | 3:46 | 2021-10-13 | 2022-07-14 |
+| [French Movie](https://open.spotify.com/track/0C2CSeNBBss4JSFG0xHy7z) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [French Movie](https://open.spotify.com/album/3hw3rAKNU6a22R3qxxMQip) | 3:19 | 2023-07-21 |  |
 | [French Movie](https://open.spotify.com/track/5neke7wAgH6BT43KoYgowg) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [French Movie](https://open.spotify.com/album/2QssHYT1JHXe84cDGPgXDb) | 3:19 | 2023-03-24 | 2023-08-23 |
 | [From the Subway Train \- Extended Version](https://open.spotify.com/track/5W0A4ImAco1tw5bZnWk9gy) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Silver Lake Listening Companion](https://open.spotify.com/album/0l1A462jfLO3ZYWMzZcZH0) | 2:21 | 2023-03-24 |  |
 | [Fuzz Captain](https://open.spotify.com/track/4QgIkSyVxv6FmsWO2dZz4J) | [Micra](https://open.spotify.com/artist/0riJKpNDw4fboGdUimavkK) | [Fuzz Captain](https://open.spotify.com/album/5iuMY4LG0VhuRzDUep1uJm) | 4:04 | 2019-11-19\* | 2022-07-29 |
@@ -359,7 +360,7 @@
 | [Wrong At Last](https://open.spotify.com/track/3bseWERc5aydzlM6B9o7bp) | [Melpo Mene](https://open.spotify.com/artist/6Ur5BsJW8sUICtONqIqfwj) | [Wrong At Last](https://open.spotify.com/album/2Ss6Lv2PF0RvhdfJE2PGzC) | 3:28 | 2021-03-29 | 2022-06-19 |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2022-07-06 |  |
 | [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 | 2021-03-26 | 2022-06-14 |
-| [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 | 2021-02-26 |  |
+| [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 | 2021-02-26 | 2023-09-13 |
 | [You Were Bored](https://open.spotify.com/track/5BIWF6L3DnPkcuEuZmLHDz) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [You Were Bored](https://open.spotify.com/album/6N35D3J6BIw7ulHo6mrzkj) | 4:23 | 2020-07-31 | 2021-03-06 |
 | [You'd Be Mine](https://open.spotify.com/track/3bcrlAFw712dO397aCAmle) | [Boshe](https://open.spotify.com/artist/2qFtSSi6zc8jGg8P1CXyAl), [Sam Shaw](https://open.spotify.com/artist/0BmKEHacAbCKmzCGvwZ2sw) | [You'd Be Mine](https://open.spotify.com/album/2vrqOyI5qUVebBhVhiajE0) | 2:59 | 2021-02-06 | 2022-07-27 |
 | [You're Lookin' at My Guy](https://open.spotify.com/track/2f2gL9OPgMnW8ogzU3w6xa) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [You're Lookin' at My Guy](https://open.spotify.com/album/0j2euZ9XdjyniLdvaZBuq3) | 2:54 | 2020-08-09 | 2021-02-26 |

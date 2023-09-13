@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2723,
+  "num_followers": 2726,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjM1NzE4NTA0MjY2NDExN2M0MTg3MjczYzA3ZWY2ZTkxODBkMjE1",
+  "snapshot_id": "MCw2OTJlN2M4NzAyMTQ0MDc3NjdiMDRkNjE5MTFjYmZlY2NhMzQwMDI4",
   "tracks": [
     {
       "added_at": "2023-07-17 06:14:28",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
+        "name": "Cobalt Blue",
+        "url": "https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "duration_ms": 201003,
+      "name": "\ud750\ub974\ub294 \uc2dc\uac04 \uc18d\uc5d0 \uc6b0\ub9ac\ub294 \uc544\ub984\ub2e4\uc6cc What A Beautiful Night",
+      "url": "https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
         "name": "How To Love (Feat.Paul Kim)",
         "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 180000,
       "name": "How To Love (Feat.Paul Kim)",
       "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
-        "name": "Cobalt Blue",
-        "url": "https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x"
-      },
-      "artists": [
-        {
-          "name": "WISUE",
-          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
-        }
-      ],
-      "duration_ms": 201003,
-      "name": "\ud750\ub974\ub294 \uc2dc\uac04 \uc18d\uc5d0 \uc6b0\ub9ac\ub294 \uc544\ub984\ub2e4\uc6cc What A Beautiful Night",
-      "url": "https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
+        "name": "I Love You Enough to Die Now",
+        "url": "https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf"
       },
       "artists": [
         {
-          "name": "\ubc15\uc9c0\uc6d0",
-          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
         }
       ],
-      "duration_ms": 203386,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
+      "duration_ms": 186493,
+      "name": "I Love You Enough to Die Now",
+      "url": "https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "I Love You Enough to Die Now",
-        "url": "https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf"
+        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
       },
       "artists": [
         {
-          "name": "Chawoo",
-          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+          "name": "\ubc15\uc9c0\uc6d0",
+          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
         }
       ],
-      "duration_ms": 186493,
-      "name": "I Love You Enough to Die Now",
-      "url": "https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr"
+      "duration_ms": 203386,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
       "added_at": "2023-07-17 06:14:28",

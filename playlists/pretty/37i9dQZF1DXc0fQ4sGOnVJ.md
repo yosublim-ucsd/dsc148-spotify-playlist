@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,280 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,296 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 45 | [Slow Rollin'](https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 2:44 |
 | 46 | [Trailer Park Barbie](https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Trailer Park Barbie.](https://open.spotify.com/album/5Ir7SKNW8KpB1QLpqKUBhL) | 2:50 |
 | 47 | [Rippin It up \(feat\. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz\)](https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG) | [Jawga Sparxxx](https://open.spotify.com/artist/4Tmi4eRiBmTkJCEJuFnKuP), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Boondock Kingz](https://open.spotify.com/artist/5t1SNVbHSuaQWZ0FXnLGcK), [Porch Matthews](https://open.spotify.com/artist/6mzpnqqXaw7OEOXKXJtPp7), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Muddy Days Drunken Nights](https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK) | 3:12 |
-| 48 | [Redneck Dirt Road Riders](https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Hick Hop 101](https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE) | 3:32 |
+| 48 | [Bumpy Road](https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Kuntry Livin'](https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0) | 2:50 |
 | 49 | [Work That](https://open.spotify.com/track/4k0Gpz3QD12vVV6XJF7uOy) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Work That](https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD) | 3:04 |
-| 50 | [Bumpy Road](https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Kuntry Livin'](https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0) | 2:50 |
+| 50 | [Redneck Dirt Road Riders](https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Hick Hop 101](https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE) | 3:32 |
 | 51 | [Out Here](https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Outlaw In Me](https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr) | 4:39 |
 | 52 | [Po\-Dunk](https://open.spotify.com/track/4IYnTLWG9mP1MNeFNjZm7T) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Po\-Dunk](https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR) | 4:31 |
 | 53 | [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Slow Cookin'](https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Slow Cookin' & Soul Food: The 2 Piece Combo](https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC) | 3:28 |
 
-Snapshot ID: `MCxjNTgwNmU1NzkxMmQ1ZDBhMTVjNWQyMmJiNjNjMjU0YzM2MmZiNGQy`
+Snapshot ID: `MCxlNDI4NDg3YTMwMDVkNjc2ZTlkNWQ0ZmZjZWEzM2MzMzU0ZTFmYzI1`

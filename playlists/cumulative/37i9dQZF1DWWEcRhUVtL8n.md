@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: boyish
 
-1,663 songs - 3 day 15 hr 39 min
+1,664 songs - 3 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [enknee1](https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [enknee1](https://open.spotify.com/album/6JiMKfzT4R5xfT2yXZ1pci) | 3:44 | 2023-08-25 |  |
 | [Enough](https://open.spotify.com/track/3wJYYJMdAAfMc2eKA4gxj6) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Enough](https://open.spotify.com/album/5qbW5namU5OjOws5zMfcKD) | 2:15 | 2020-10-15 | 2020-11-15 |
 | [Eraser](https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Eraser](https://open.spotify.com/album/38zJIoiflwVxYFpQX1II64) | 3:03 | 2023-04-07 |  |
+| [Eulogy for Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-12 |  |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-07-29 |
 | [every wave](https://open.spotify.com/track/1cr2jfBMyyGlo2DBiLA3KN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 2:49 | 2021-10-11 | 2021-10-12 |
 | [everybody's fine but me](https://open.spotify.com/track/0r9vj3shKehGiJqlmkZSnR) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [everybody's fine but me](https://open.spotify.com/album/49ARfwZ0TaxWu7pzxTfSi1) | 2:26 | 2021-09-24 | 2022-04-16 |
@@ -1334,7 +1335,7 @@
 | [Soft](https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Soft](https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps) | 2:58 | 2021-02-13 | 2022-04-15 |
 | [Solar Power](https://open.spotify.com/track/2WKjP0l2Y25Tp14RPjIAqJ) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4nLTdxvGBp9ykHIvY5QJFS) | 3:12 | 2021-06-11 | 2022-04-14 |
 | [Solar System](https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Boa Constrictors](https://open.spotify.com/artist/5pF04WnpEzab0at7YVjixz) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 3:32 | 2022-07-22 | 2022-08-06 |
-| [Some Things You’ll Never Know](https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Euphoric](https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf) | 2:49 | 2023-08-02 |  |
+| [Some Things You’ll Never Know](https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Euphoric](https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf) | 2:49 | 2023-08-02 | 2023-09-13 |
 | [Some Type of Way \(feat\. Savage Ga$p, Salina Killa & Valentine\)](https://open.spotify.com/track/2F1qP6hBiaBeHjwDtBdVPP) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Salina Killa](https://open.spotify.com/artist/5dmNompaODMC0v2jhwEzS0), [Valentine](https://open.spotify.com/artist/4K3iYJtLjJcsfUlODo4bzS) | [BUFFET](https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV) | 2:26 | 2021-11-19 | 2022-04-15 |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2021-02-25 | 2021-05-19 |
 | [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-28 | 2023-07-31 |

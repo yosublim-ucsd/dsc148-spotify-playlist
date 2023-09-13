@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kFZpD.md) - [plain]
 
 > This is Raveena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,078 likes - 31 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,093 likes - 31 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kFZpD.md) - [plain]
 | 9 | [Honey](https://open.spotify.com/track/6ohzjop0VYBRZ12ichlwg5) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Honey](https://open.spotify.com/album/2htW3Yk7JUL2bS9C7AjzTe) | 4:32 |
 | 10 | [Floating \(feat\. Hope Tala\)](https://open.spotify.com/track/4cwJYLZeVMTjF6o0Nzk9nq) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:50 |
 | 11 | [Starflower](https://open.spotify.com/track/4gQRvISGFcf9zKowPzd7M6) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 2:37 |
-| 12 | [No Better](https://open.spotify.com/track/0DXlHWi8pqB5R2gfzlZx2i) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 4:02 |
-| 13 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 |
+| 12 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 |
+| 13 | [No Better](https://open.spotify.com/track/0DXlHWi8pqB5R2gfzlZx2i) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 4:02 |
 | 14 | [Petal](https://open.spotify.com/track/12Aq4Ryc1rZQ0hWnT8wZNe) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 3:07 |
-| 15 | [Johnny It's the Last Time](https://open.spotify.com/track/6dykAIAUe10GWeNUs0Rsre) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Johnny It's the Last Time](https://open.spotify.com/album/6iz6kClVQTu8MBWh166XwT) | 3:13 |
-| 16 | [Headaches](https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Headaches](https://open.spotify.com/album/3ue7xLhaMzW4VS2wD5CsO9) | 5:11 |
+| 15 | [Headaches](https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Headaches](https://open.spotify.com/album/3ue7xLhaMzW4VS2wD5CsO9) | 5:11 |
+| 16 | [Johnny It's the Last Time](https://open.spotify.com/track/6dykAIAUe10GWeNUs0Rsre) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Johnny It's the Last Time](https://open.spotify.com/album/6iz6kClVQTu8MBWh166XwT) | 3:13 |
 | 17 | [Spell](https://open.spotify.com/track/57Z0jiN8guMUcCIvdbM0aQ) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Spell](https://open.spotify.com/album/2xfS3bSr9szVU6BR1cZT7V) | 3:13 |
 | 18 | [Stronger](https://open.spotify.com/track/7qKWAtneIWuObMgaj57yvx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:11 |
 | 19 | [Mystery](https://open.spotify.com/track/7tCmUu18EkTlGhGV2wmE7x) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 4:00 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kFZpD.md) - [plain]
 | 30 | [Secret \(feat\. Vince Staples\)](https://open.spotify.com/track/1taBEywFZlZO7xiEEIyajF) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:22 |
 | 31 | [Rush](https://open.spotify.com/track/3XE2o2cDDT16Oq2fcM4sOe) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:05 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDBiZDUxNzBkMjQ3NmFhMjQ3MmNiYzg1NzhmODk1ZThmMg==`
+Snapshot ID: `MjgyNDIwMzcsMDAwMDAwMDAxOGZhNzdhM2JlYmI1ZmJkNDliNDI3OWE2MzRhYjVhNA==`

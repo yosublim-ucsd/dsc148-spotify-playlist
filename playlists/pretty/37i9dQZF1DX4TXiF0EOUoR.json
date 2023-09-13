@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 141182,
+  "num_followers": 141442,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjA5NDM3YmI2ZDJiOTlmMmQ1MTEyYzFmY2M4MzgwZWIxZmI2OWE5",
+  "snapshot_id": "MCxhYWE1NDk1ZGJhNjhiYWJiM2E0OGQ5YmZiZjVjNWUxYWQ1YzI4NzMz",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Una No Es Ninguna",
-        "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
-      "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "La Parranda De Los Amigos (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 441000,
       "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
       "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Una No Es Ninguna",
+        "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
+      "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
-        "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
+        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
+        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
       },
       "artists": [
         {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 165146,
-      "name": "El Son de los Ocampo",
-      "url": "https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M"
+      "duration_ms": 220453,
+      "name": "Cinco De T\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
-        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
+        "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
+        "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
         }
       ],
-      "duration_ms": 220453,
-      "name": "Cinco De T\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
+      "duration_ms": 165146,
+      "name": "El Son de los Ocampo",
+      "url": "https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Bicentenario",
-        "url": "https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "El Toro Viejo",
-      "url": "https://open.spotify.com/track/0i14Ax87IW9ClGPk6hY0eV"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
         "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 264693,
       "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
       "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Bicentenario",
+        "url": "https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "El Toro Viejo",
+      "url": "https://open.spotify.com/track/0i14Ax87IW9ClGPk6hY0eV"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Pal Rancho 100% Chicoteadas",
-        "url": "https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik"
-      },
-      "artists": [
-        {
-          "name": "Tamborazo Caliente",
-          "url": "https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi"
-        }
-      ],
-      "duration_ms": 211121,
-      "name": "Rumbo A La Canada",
-      "url": "https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Homenaje a un Grande",
         "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 167133,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Pal Rancho 100% Chicoteadas",
+        "url": "https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik"
+      },
+      "artists": [
+        {
+          "name": "Tamborazo Caliente",
+          "url": "https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi"
+        }
+      ],
+      "duration_ms": 211121,
+      "name": "Rumbo A La Canada",
+      "url": "https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Como Loco Alucino",
-        "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "La Vaquilla",
-      "url": "https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
         "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 274064,
       "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
       "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Como Loco Alucino",
+        "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "La Vaquilla",
+      "url": "https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf"
     },
     {
       "added_at": "2022-12-30 18:59:47",

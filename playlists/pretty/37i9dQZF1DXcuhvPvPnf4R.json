@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 6948,
+  "num_followers": 6972,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzE4ZmM1ZTMyYmQ4ZmM2ZTkzZGZjN2Q3N2U3NWJkYzZkZTZjMjkw",
+  "snapshot_id": "MCwwNmQ0YTAzY2ViOWRkN2QzOWQ1MWM3ODI5NTRlOTNjNmRjMWQ3MWJl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -323,22 +323,18 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
       },
       "artists": [
         {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ"
+      "duration_ms": 279240,
+      "name": "Mary Jane (All Night Long)",
+      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -359,18 +355,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         }
       ],
-      "duration_ms": 279240,
-      "name": "Mary Jane (All Night Long)",
-      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
+      "duration_ms": 183829,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ"
     },
     {
       "added_at": "2022-10-01 16:43:03",

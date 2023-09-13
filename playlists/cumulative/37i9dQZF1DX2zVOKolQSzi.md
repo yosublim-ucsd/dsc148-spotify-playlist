@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2zVOKolQSzi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2zVOKolQSzi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2zVOKolQSzi)
 
-### [I Love My '10s Funk](https://open.spotify.com/playlist/37i9dQZF1DX2zVOKolQSzi)
+### [I Love My 10s Funk](https://open.spotify.com/playlist/37i9dQZF1DX2zVOKolQSzi)
 
-> The best and finest '10s Funk\. Cover: Pharrell Williams.
+> The best and finest 10s Funk\. Cover: Pharrell Williams.
 
 83 songs - 5 hr 48 min
 

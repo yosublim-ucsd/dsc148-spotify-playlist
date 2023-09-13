@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 165108,
+  "num_followers": 165361,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNThhMTkzOWY4NGE0ZDU4NzA0ZDY3NzM4MmNiODJhMDYwOGE3NzI5",
+  "snapshot_id": "MCwyMDQyZDE3MGY1ZjA0YzgzNmI4ZTU3Y2E4NTEwYjJhODExZDBkYmMz",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "The Royal They",
-        "url": "https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH"
-      },
-      "artists": [
-        {
-          "name": "The Royal They",
-          "url": "https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2"
-        }
-      ],
-      "duration_ms": 183994,
-      "name": "Full Metal Black",
-      "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Demo 2015",
         "url": "https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 91249,
       "name": "G.L.O.S.S. (We're from the Future)",
       "url": "https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "The Royal They",
+        "url": "https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH"
+      },
+      "artists": [
+        {
+          "name": "The Royal They",
+          "url": "https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2"
+        }
+      ],
+      "duration_ms": 183994,
+      "name": "Full Metal Black",
+      "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Total 90",
-        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
-      },
-      "artists": [
-        {
-          "name": "DITZ",
-          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
-        }
-      ],
-      "duration_ms": 163867,
-      "name": "Total 90",
-      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Quitter",
         "url": "https://open.spotify.com/album/59PEcpy0wVxQJLcrdFTVwn"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 182477,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/2ekn27DjITVI4vSudrxpdX"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Total 90",
+        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
+      },
+      "artists": [
+        {
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
+        }
+      ],
+      "duration_ms": 163867,
+      "name": "Total 90",
+      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
     },
     {
       "added_at": "2023-05-25 14:38:53",

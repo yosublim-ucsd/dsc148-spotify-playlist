@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 241289,
+  "num_followers": 241476,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2Y0OWFiYzVjNWYzMjM2MTRlNTAwNDA4NjViYjdiMjIwNzUyYjAw",
+  "snapshot_id": "MCw2N2MxODljMGZmMTA3ZDUwZjM1NjM2NzVkNDJmYzEwNjhjNmE1ZmFh",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -279,6 +279,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
+      },
+      "artists": [
+        {
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        }
+      ],
+      "duration_ms": 380316,
+      "name": "Precioso Jes\u00fas",
+      "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Proezas",
         "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 99093,
       "name": "El Se\u00f1or Es Mi Rey (feat. Tony Perez)",
       "url": "https://open.spotify.com/track/7APlp9ZOXPuv9CzONC68T8"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 380316,
-      "name": "Precioso Jes\u00fas",
-      "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -415,22 +415,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Proezas",
-        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 269746,
-      "name": "Los Muros Caer\u00e1n",
-      "url": "https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Mu\u00e9strame Tu Gloria",
         "url": "https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF"
       },
@@ -463,18 +447,38 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Irreversible",
-        "url": "https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV"
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
       },
       "artists": [
         {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
         }
       ],
-      "duration_ms": 260363,
-      "name": "No Crezcas Mas",
-      "url": "https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm"
+      "duration_ms": 445906,
+      "name": "Qu\u00e9 Se Abra El Cielo",
+      "url": "https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 269746,
+      "name": "Los Muros Caer\u00e1n",
+      "url": "https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -511,38 +515,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vuelve a Casa",
-        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
+        "name": "Irreversible",
+        "url": "https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV"
       },
       "artists": [
         {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
         }
       ],
-      "duration_ms": 254066,
-      "name": "Si Puedes Creer",
-      "url": "https://open.spotify.com/track/03zBrLi4BWMlf09IoK9TIJ"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
-        }
-      ],
-      "duration_ms": 445906,
-      "name": "Qu\u00e9 Se Abra El Cielo",
-      "url": "https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv"
+      "duration_ms": 260363,
+      "name": "No Crezcas Mas",
+      "url": "https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -559,6 +543,22 @@
       "duration_ms": 330973,
       "name": "Soy Un Altar",
       "url": "https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Vuelve a Casa",
+        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "Si Puedes Creer",
+      "url": "https://open.spotify.com/track/03zBrLi4BWMlf09IoK9TIJ"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -583,6 +583,22 @@
       "duration_ms": 450875,
       "name": "Dios de Lo Imposible",
       "url": "https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Gloria En Lo Alto",
+      "url": "https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -655,22 +671,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "De Vuelta Al Jardin",
-        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Gloria En Lo Alto",
-      "url": "https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR"
       },
@@ -703,26 +703,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Pura Sal",
-        "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "Vivir\u00e9",
-      "url": "https://open.spotify.com/track/7DWyJ2oYpAGq5B9qSc1jEx"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Creo en Ti",
         "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
       },
@@ -735,6 +715,22 @@
       "duration_ms": 319920,
       "name": "Vengo A Adorarte",
       "url": "https://open.spotify.com/track/0c7KZFqrJwvIlaVtmTsJh3"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 258640,
+      "name": "\u00c9l Nos Ama",
+      "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -771,6 +767,26 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Pura Sal",
+        "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "Vivir\u00e9",
+      "url": "https://open.spotify.com/track/7DWyJ2oYpAGq5B9qSc1jEx"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Me Has Hecho Libre",
         "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
       },
@@ -787,34 +803,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "De Vuelta Al Jardin",
-        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+        "name": "La Compilaci\u00f3n",
+        "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
       },
       "artists": [
         {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 258640,
-      "name": "\u00c9l Nos Ama",
-      "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Recopilaci\u00f3n",
-        "url": "https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl"
-      },
-      "artists": [
-        {
-          "name": "Luigi Castro",
-          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
-        }
-      ],
-      "duration_ms": 313078,
-      "name": "Anhelo Conocerte Espiritu Santo",
-      "url": "https://open.spotify.com/track/7ylsvpGbWJNgXUbqEyrxtk"
+      "duration_ms": 245893,
+      "name": "Iglesia",
+      "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -835,18 +835,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "La Compilaci\u00f3n",
-        "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
+        "name": "Recopilaci\u00f3n",
+        "url": "https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl"
       },
       "artists": [
         {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+          "name": "Luigi Castro",
+          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
         }
       ],
-      "duration_ms": 245893,
-      "name": "Iglesia",
-      "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
+      "duration_ms": 313078,
+      "name": "Anhelo Conocerte Espiritu Santo",
+      "url": "https://open.spotify.com/track/7ylsvpGbWJNgXUbqEyrxtk"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Al Que Vive",
-        "url": "https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ"
+        "name": "En Las Alas Del Amor",
+        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
       },
       "artists": [
         {
-          "name": "Gadiel Espinoza",
-          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
         }
       ],
-      "duration_ms": 266538,
-      "name": "Te Vi Llegar",
-      "url": "https://open.spotify.com/track/5axhzyUPdFRhf2xBL00Ira"
+      "duration_ms": 260295,
+      "name": "El No Pereci\u00f3",
+      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "En Las Alas Del Amor",
-        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
+        "name": "Al Que Vive",
+        "url": "https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ"
       },
       "artists": [
         {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+          "name": "Gadiel Espinoza",
+          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
         }
       ],
-      "duration_ms": 260295,
-      "name": "El No Pereci\u00f3",
-      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
+      "duration_ms": 266538,
+      "name": "Te Vi Llegar",
+      "url": "https://open.spotify.com/track/5axhzyUPdFRhf2xBL00Ira"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM"
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/203hB61YfdDgcnW4w2ODMr"
       },
       "artists": [
         {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
         }
       ],
-      "duration_ms": 499411,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R"
+      "duration_ms": 237557,
+      "name": "Se Mueven las Aguas",
+      "url": "https://open.spotify.com/track/3LtpWjUOqFGG4rFWGBn8MD"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/203hB61YfdDgcnW4w2ODMr"
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM"
       },
       "artists": [
         {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 237557,
-      "name": "Se Mueven las Aguas",
-      "url": "https://open.spotify.com/track/3LtpWjUOqFGG4rFWGBn8MD"
+      "duration_ms": 499411,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R"
     },
     {
       "added_at": "2020-11-24 13:23:38",

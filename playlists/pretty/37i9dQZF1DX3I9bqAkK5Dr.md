@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,587 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,606 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 4 | [Prasthanam](https://open.spotify.com/track/20aEMdNcA7b4m8Xr2gLadc) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Lekha](https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf) | 3:56 |
 | 5 | [The Soul Of Satya \(From "Satya"\) \[TELUGU\]](https://open.spotify.com/track/1FwF89xLm0SThXHlTrQe6a) | [Shruthi Ranjani](https://open.spotify.com/artist/6Sg0TKAUBbrcX1AiLFOERM) | [The Soul Of Satya \(From "Satya"\) \[TELUGU\]](https://open.spotify.com/album/6NlUx836rbce4OF48YIFXC) | 4:30 |
 | 6 | [Shashi](https://open.spotify.com/track/34LZWWbtsf1EeuHFFXCh4j) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Shashi](https://open.spotify.com/album/4M7U0wd17LfToupjlmn4GZ) | 4:02 |
-| 7 | [Sitakokaciluka](https://open.spotify.com/track/78qGxoitQzG6JnamlP1bjN) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/1535QxiyC32YhsagUl8Wkm) | 3:57 |
+| 7 | [Sitakokaciluka](https://open.spotify.com/track/0fWRLW7TcgYJ2M4vTuIzo3) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/7yuHkxh8ZUvYEnFhw2T5Pu) | 3:57 |
 | 8 | [Bullettu Bandi](https://open.spotify.com/track/4oBhE31sIakxf8bSPHuRT1) | [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD) | [Bullettu Bandi](https://open.spotify.com/album/6sapVBhAdDDnyElCsUwEwn) | 4:42 |
 | 9 | [Nuvve Kada Na Pranam](https://open.spotify.com/track/2qi73fWzCmtgf6ObJEvliy) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nuvve Kada Na Pranam](https://open.spotify.com/album/5mBu2KuE00fe7FBxUKyXR2) | 3:50 |
 | 10 | [Vennela](https://open.spotify.com/track/4HBt90cOQlUJvMC2eBFHCV) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vennela](https://open.spotify.com/album/4DQjhzGpFMaoL5MEj9aqEK) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 | 75 | [Neetho](https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Neetho](https://open.spotify.com/album/3y6i5WWXLRBlVAoUGO3SmF) | 4:25 |
 
-Snapshot ID: `MCw1YzFhMWUzMmU5YWZmNTk1NGY0N2E1YjBiMDcyY2FjYmI3ZDUyNWYx`
+Snapshot ID: `MCw4OWJjOTYxNDE5NTM3ZTM2YzdiMzQyMjJiYTk0NGJjYWM3ZjJkODY0`

@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 153308,
+  "num_followers": 153467,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2ViM2QxNWJkNDk1M2FlY2QzYmUyNDAwYjQ1MTUwMWNjMWYwMTc3",
+  "snapshot_id": "MCwzMDdjZTYxYWE1MmZiYjU2YzUxN2NjZTdjYmZlNDQzNGQzZmQ0Y2Fk",
   "tracks": [
     {
       "added_at": "2023-06-16 16:57:29",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Cruz De Madera",
-        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Sonora Y Sus Ojos Negros",
-      "url": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Orgullo De Mujer",
         "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 243933,
       "name": "Insensible A Ti (Me Pone A Mil)",
       "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Cruz De Madera",
+        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Sonora Y Sus Ojos Negros",
+      "url": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
-        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
+        "name": "Que Te Vaya Bonito",
+        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
       },
       "artists": [
         {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 176520,
-      "name": "Sin Fortuna",
-      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
+      "duration_ms": 159333,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/78SCz6GkX5zPta7X1DsZnZ"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Que Te Vaya Bonito",
-        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 159333,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/78SCz6GkX5zPta7X1DsZnZ"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 160720,
       "name": "Un Viejo Amor",
       "url": "https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
+        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "Sin Fortuna",
+      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "El Envidioso",
         "url": "https://open.spotify.com/album/0IY2lt6FzBz9PRmw8tWwkw"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 191996,
       "name": "El Envidioso",
       "url": "https://open.spotify.com/track/3cExeifTyKQSMLLwG70wIo"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "45 Anos De Exitos",
-        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Busca Otro Amor (1968)",
-      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "A 10 a\u00f1os....un recuerdo permanente",
         "url": "https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 195480,
       "name": "Paloma negra",
       "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "45 Anos De Exitos",
+        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Busca Otro Amor (1968)",
+      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Despedida Con Mariachi",
+      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "15 Exitos Inmortales",
         "url": "https://open.spotify.com/album/5F97yxlWDURcyfLJJfDplk"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 164973,
-      "name": "Despedida Con Mariachi",
-      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
+      "duration_ms": 231418,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1559,22 +1575,6 @@
       "duration_ms": 216189,
       "name": "Mejor Me Voy",
       "url": "https://open.spotify.com/track/7lmqbcwP3LO9fG5UwiMeLE"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 231418,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Recordando a Mi Padre",
+      "url": "https://open.spotify.com/track/50lcxH1ijpYjxqKlLSbwCn"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx"
-      },
-      "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        }
-      ],
-      "duration_ms": 245773,
-      "name": "Recordando a Mi Padre",
-      "url": "https://open.spotify.com/track/50lcxH1ijpYjxqKlLSbwCn"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Besos Y Caricias",
         "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Ya Pa'que",
-        "url": "https://open.spotify.com/album/4IHpbUl6G1dneIv8EM8Qt3"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Cuatro Meses",
-      "url": "https://open.spotify.com/track/16TDGlrQ3h4qpdyOwaRp1i"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Exitos De Oro",
         "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 184200,
       "name": "Tu Delirio",
       "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Ya Pa'que",
+        "url": "https://open.spotify.com/album/4IHpbUl6G1dneIv8EM8Qt3"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Cuatro Meses",
+      "url": "https://open.spotify.com/track/16TDGlrQ3h4qpdyOwaRp1i"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 164337,
-      "name": "Son las Dos de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "El Amo del Imperio",
         "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
       },
@@ -1819,18 +1803,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Un Hombre Derecho",
-        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
         }
       ],
-      "duration_ms": 188604,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
+      "duration_ms": 164337,
+      "name": "Son las Dos de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1847,6 +1831,22 @@
       "duration_ms": 194066,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Un Hombre Derecho",
+        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1895,22 +1895,6 @@
       "duration_ms": 222360,
       "name": "Cuando Yo Quer\u00eda Ser Grande",
       "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "El Campesino y el Sol",
-        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "El Campesino Y El Sol",
-      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1979,6 +1963,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "El Campesino y el Sol",
+        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "El Campesino Y El Sol",
+      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "Casas De Madera (Remasterizado)",
         "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
       },
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Payaso",
-        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 166933,
-      "name": "Cuatro Cirios",
-      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
+      "duration_ms": 158275,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2075,18 +2075,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+        "name": "Payaso",
+        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
       },
       "artists": [
         {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 158275,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
+      "duration_ms": 166933,
+      "name": "Cuatro Cirios",
+      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Ojitos Verdes",
-        "url": "https://open.spotify.com/album/12NMZGKX68Z4Y0AcrbNiRi"
-      },
-      "artists": [
-        {
-          "name": "Dueto Las Palomas",
-          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
-        }
-      ],
-      "duration_ms": 147080,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/14VZC2EXvzZxRKOIFmo35b"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Sigo de Frente",
         "url": "https://open.spotify.com/album/1QQUq5FgJwXYxKGF3UtUJl"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 206074,
       "name": "Oye Viejo",
       "url": "https://open.spotify.com/track/6YoqWcSeTpxJz8iYqboOFd"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Ojitos Verdes",
+        "url": "https://open.spotify.com/album/12NMZGKX68Z4Y0AcrbNiRi"
+      },
+      "artists": [
+        {
+          "name": "Dueto Las Palomas",
+          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/14VZC2EXvzZxRKOIFmo35b"
     },
     {
       "added_at": "2023-06-16 16:57:29",

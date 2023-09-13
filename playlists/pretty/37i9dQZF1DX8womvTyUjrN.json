@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: ELENA ROSE",
-  "num_followers": 284635,
+  "num_followers": 284725,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmRjMjk3ZDc2YTZlZTE3MzUxODBkNjZhYTM5Y2I3ZGUyOGY3MmNl",
+  "snapshot_id": "MCw5ZWI2ZWQxMTM1M2ZhNmYxNGJmNWU0MzAxMWJhZTIxOTQwNzMxODNj",
   "tracks": [
     {
       "added_at": "2023-09-08 18:36:12",
@@ -589,7 +589,7 @@
         }
       ],
       "duration_ms": 198214,
-      "name": "5 Estrellas",
+      "name": "5 estrellas",
       "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
     },
     {
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-09-08 18:36:12",
       "album": {
-        "name": "MUCHO TXT",
-        "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 149777,
-      "name": "Multiverso (feat. Jay Wheeler)",
-      "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
-    },
-    {
-      "added_at": "2023-09-08 18:36:12",
-      "album": {
         "name": "Demasiado",
         "url": "https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 170250,
       "name": "Demasiado",
       "url": "https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H"
+    },
+    {
+      "added_at": "2023-09-08 18:36:12",
+      "album": {
+        "name": "MUCHO TXT",
+        "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 149777,
+      "name": "Multiverso (feat. Jay Wheeler)",
+      "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
     },
     {
       "added_at": "2023-09-08 18:36:12",
@@ -899,22 +899,18 @@
     {
       "added_at": "2023-09-08 18:36:12",
       "album": {
-        "name": "Nunca Deja De Llover",
-        "url": "https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I"
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0"
       },
       "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
         {
           "name": "TIM\u00d8",
           "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 170389,
-      "name": "Nunca Deja de Llover",
-      "url": "https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC"
+      "duration_ms": 206546,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61"
     }
   ],
   "unique_name": "el nuevo pop",

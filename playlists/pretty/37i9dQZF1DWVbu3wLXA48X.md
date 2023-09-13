@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Sparklehorse
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,773 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,793 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 |
 | 75 | [Pet Rock](https://open.spotify.com/track/3rmTtAIJydBOPohvykKubn) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Pet Rock](https://open.spotify.com/album/6OhhcYS7IB3M7gtNucP8Iz) | 2:45 |
 
-Snapshot ID: `MCxiYzljYjIxNTcwYmQ2YTllNzc1OTM5ZjE2Yjc1ZGJkN2JlYjQ2MjQ0`
+Snapshot ID: `MCxlZTczMTJmZmVjOTVhNzJkN2UwYTQwNjQ0MDYzNmQ5ODdjMmM2NTI4`

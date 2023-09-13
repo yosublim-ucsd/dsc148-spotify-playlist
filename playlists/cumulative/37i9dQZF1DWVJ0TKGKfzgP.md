@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVJ0TKGKfzgP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVJ0TKGKfzgP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVJ0TKGKfzgP)
 
-### [I Love My '80s Funk](https://open.spotify.com/playlist/37i9dQZF1DWVJ0TKGKfzgP)
+### [I Love My 80s Funk](https://open.spotify.com/playlist/37i9dQZF1DWVJ0TKGKfzgP)
 
-> The best and finest '80s Funk\. Cover: Bootsy Collins.
+> The best and finest 80s Funk\. Cover: Bootsy Collins.
 
 119 songs - 10 hr 32 min
 

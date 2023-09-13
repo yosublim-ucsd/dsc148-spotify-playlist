@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-112 songs - 7 hr 39 min
+113 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Estoy Con Otro en la Cama](https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [Estoy Con Otro en la Cama](https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1) | 3:19 | 2023-09-08 |  |
 | [Estuve / Que Bonito / Nadie, Nadie \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/71z1ZW6RS5apxcjKrwSs0w) | [Los Inseparables](https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm) | [Estuve / Que Bonito / Nadie, Nadie \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/3hFCnihuYyAjHumLe6hJ7i) | 9:32 | 2023-05-29 |  |
 | [Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Bebí Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...](https://open.spotify.com/track/3TnTaLEn3NxgjGGrxoMXZE) | [La Banda Tropikal de Vallenar](https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD), [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq), [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Bebí Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...](https://open.spotify.com/album/7bfnVwfy8GY8jqllhKkDFp) | 8:13 | 2023-03-03 |  |
+| [FUE DIFICIL](https://open.spotify.com/track/2aE0HrYHGbyXpgOnMY03Id) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Difícil](https://open.spotify.com/album/0sdLIL3OnkBlM48PzdSSGW) | 3:44 | 2023-09-08 |  |
 | [Fue Dificil](https://open.spotify.com/track/6ntuD3ofO39wHlPqu27p0M) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Dificil](https://open.spotify.com/album/0yzcxrxkFt98m6kGeWSaVb) | 3:44 | 2023-03-03 | 2023-06-18 |
 | [Furia Loca \(Mujer Cósmica\)](https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT) | [La Gran Magia Tropical](https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP) | [Furia Loca](https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S) | 3:10 | 2023-03-03 |  |
 | [Fué Difícil](https://open.spotify.com/track/0gvzdBfwfcHbqAmAL1ioZy) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Difícil](https://open.spotify.com/album/5fFxoM29guUMA4jbiE4GHr) | 3:44 | 2023-05-29 | 2023-09-09 |
@@ -59,7 +60,7 @@
 | [La Guaracha del Fay Fay](https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt) | [Rene Inostroza](https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O) | [Lo Mejor 25 Éxitos](https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4) | 2:34 | 2023-03-03 |  |
 | [La Mesa 20](https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Por una Yegua No Se para la Trilla](https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm) | 3:13 | 2023-03-03 |  |
 | [La Pagarás](https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Pagarás](https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz) | 3:52 | 2023-05-29 |  |
-| [La Paliza](https://open.spotify.com/track/4qWBPa4f21TTCtrDI95IrG) | [Josepth el Ranchero](https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT) | [Pisando Fuerte](https://open.spotify.com/album/73FNvltKoEE8HeZ9eO5j9Y) | 3:56 | 2023-03-03 |  |
+| [La Paliza](https://open.spotify.com/track/4qWBPa4f21TTCtrDI95IrG) | [Josepth el Ranchero](https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT) | [Pisando Fuerte](https://open.spotify.com/album/73FNvltKoEE8HeZ9eO5j9Y) | 3:56 | 2023-03-03 | 2023-09-13 |
 | [La Pareja Ideal](https://open.spotify.com/track/5QEvWvmJ8G2Gda219wCY9x) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 4:40 | 2023-03-03 |  |
 | [La Puntada](https://open.spotify.com/track/494ZDmO4zk9knBfI0o3Wn8) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Trayectoria](https://open.spotify.com/album/47HtfhXmNErmARr7h9Wx9g) | 2:54 | 2023-03-03 |  |
 | [La Rumbera](https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL) | [Los Cumbieros](https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF) | [12 Años de Historia](https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn) | 2:58 | 2023-03-03 |  |

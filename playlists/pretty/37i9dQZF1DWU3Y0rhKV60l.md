@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 
 > Keep your focus and drown out distracting sounds with white noise from the oceans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,121 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,149 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 27 | [Stormy Ocean Sounds](https://open.spotify.com/track/5VH0Pf6E9PvCH1d6HH9g5q) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:17 |
 | 28 | [Heavy Oceans](https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 2:36 |
 | 29 | [Close to the Shores](https://open.spotify.com/track/243lmQ66EFqpi10PJa5JU4) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of Waves](https://open.spotify.com/album/27CDKjjwubPm4ZAQVNqsPq) | 4:40 |
-| 30 | [Big Waves](https://open.spotify.com/track/4LMB7JZy59tKfOkqAmnd8W) | [Beach Wave Explosion](https://open.spotify.com/artist/1DNNwqmuY6iopjc3F9uLLN) | [Windy Beach](https://open.spotify.com/album/5aENLHyxg8CXD3WHtUjIrL) | 3:10 |
-| 31 | [Relaxing Waves](https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Waves \- vol.1](https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9) | 3:49 |
+| 30 | [Relaxing Waves](https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Waves \- vol.1](https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9) | 3:49 |
+| 31 | [Big Waves](https://open.spotify.com/track/4LMB7JZy59tKfOkqAmnd8W) | [Beach Wave Explosion](https://open.spotify.com/artist/1DNNwqmuY6iopjc3F9uLLN) | [Windy Beach](https://open.spotify.com/album/5aENLHyxg8CXD3WHtUjIrL) | 3:10 |
 | 32 | [Miami Beach Waves](https://open.spotify.com/track/12Dq3g5lnKjg6sgtQITuUw) | [Chill Bees](https://open.spotify.com/artist/317OsNvmAmolBVu7dLWhhD) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:23 |
 | 33 | [Soothing Ocean Sound](https://open.spotify.com/track/2ACz2tjRaxwK2v7Gsmm5X2) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Soothing Ocean Sound](https://open.spotify.com/album/6YwzxAxdw92YooMgYSLbeq) | 2:49 |
 | 34 | [Bali Beach Waves](https://open.spotify.com/track/6AiS3Vw8NbfUvrgbMeRC1V) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Coastal Clifftop Waves](https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj) | 4:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 59 | [Luscious Waves](https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx) | [Focus 365](https://open.spotify.com/artist/3zMGPjG6X1Rw0JGeBOoEV2) | [Luscious Waves](https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8) | 2:48 |
 | 60 | [Windy Beach 3](https://open.spotify.com/track/7ge6TRJoEc97N5Aa3rS59U) | [Surrounded by Sound](https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i) | [Ocean Waves Volume 2](https://open.spotify.com/album/1UIjE0VjMi2pvv8GP2EzpR) | 2:38 |
 
-Snapshot ID: `MCwzMTVmYWFiMGUzZTM4NTA3ZDZhZDViNjY2NzFlYmJmZDhhMmU4MTll`
+Snapshot ID: `MCw3YWMyOTg1MTY0ZmY5MzEwNWU4OTc5ZjZiYzFjNTI5ZDI2OTBmZjVk`

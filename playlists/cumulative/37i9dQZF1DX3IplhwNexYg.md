@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Nieve Ella
 
-473 songs - 1 day 2 hr 31 min
+474 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 | 2022-10-13 |  |
 | [Hey Sis](https://open.spotify.com/track/18BngYNbP0xadmssigycDH) | [Labradors](https://open.spotify.com/artist/4kf8k9dopDL5PK5q0ufGkG) | [Retriever](https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk) | 3:18 | 2022-01-17 | 2022-08-19 |
 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 | 2023-06-30 |  |
+| [Holdup](https://open.spotify.com/track/0l8o0hshn4qrihNPvvJu2l) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Got Him!](https://open.spotify.com/album/6rBt5RO5Yb4sfMwGpWXjyU) | 2:35 | 2023-08-17 |  |
 | [Hollywood](https://open.spotify.com/track/7nhHhAK4luQGM6yxIAZcF4) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Hollywood](https://open.spotify.com/album/5HBRejbP2IlsqHNQDQb2oy) | 3:51 | 2022-01-17 | 2022-08-19 |
 | [Hollywood Ending](https://open.spotify.com/track/4swwHP8APaMGiBiD2RpLQi) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Hollywood Ending](https://open.spotify.com/album/2AVfB4purBhdmqpoR25zp1) | 3:26 | 2021-03-09 | 2022-01-17 |
 | [Hollywood Factory](https://open.spotify.com/track/6mr4kZOSDLgyTdzsUDySdQ) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [The Make It All Show](https://open.spotify.com/album/0PaV2cQZJLbjYjnZRoYq2f) | 2:55 | 2021-03-09 | 2022-01-17 |
@@ -448,7 +449,7 @@
 | [Veronica](https://open.spotify.com/track/7uAlf2KtylpPbXCqaB38EJ) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Veronica](https://open.spotify.com/album/2n1i0zYQTMmmj8b8nJpVPA) | 2:15 | 2023-01-13 | 2023-08-05 |
 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 | 2023-06-30 |  |
 | [Wake Up](https://open.spotify.com/track/50EaTSirqX6hZS1W2Ja75H) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [World I Understand](https://open.spotify.com/album/3M7gwBCWbgPuHdLPazTJd9) | 3:22 | 2022-01-21 | 2022-08-19 |
-| [Walking Backwards](https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Walking Backwards](https://open.spotify.com/album/1HeTs1M70blCYgELW08khg) | 5:19 | 2023-05-18 |  |
+| [Walking Backwards](https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Walking Backwards](https://open.spotify.com/album/1HeTs1M70blCYgELW08khg) | 5:19 | 2023-05-18 | 2023-09-13 |
 | [Want What You Got](https://open.spotify.com/track/7wBWg3hTj2MUFe02GhMBkA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [The Professional](https://open.spotify.com/album/4pQU5z5Y0CT1aR0AW6QDDL) | 4:28 | 2021-03-09 | 2022-01-17 |
 | [Waste My Life](https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH) | 2:40 | 2023-08-17 |  |
 | [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 | 2023-01-20 | 2023-08-13 |

@@ -1,12 +1,12 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 229228,
+  "num_followers": 229437,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2FkMzIzZjMwYjYzNzQ3MGM5ZDkxMmY2YThkMWY0Y2U4ZGZmZThi",
+  "snapshot_id": "MCwxNWNmZDg3NDdhY2YzZGMwNWFlOGU3MmEyZDc2ODE4ZjA3MGJlMTQ3",
   "tracks": [
     {
       "added_at": "2021-09-23 20:29:34",
@@ -105,22 +105,6 @@
       "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
     },
     {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "The Gambler",
-        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "The Gambler",
-      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
-    },
-    {
       "added_at": "2021-12-06 15:54:08",
       "album": {
         "name": "Cars (Original Motion Picture Soundtrack)",
@@ -139,18 +123,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+        "name": "The Gambler",
+        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+      "duration_ms": 214880,
+      "name": "The Gambler",
+      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -167,6 +151,22 @@
       "duration_ms": 190160,
       "name": "Take Me Home, Country Roads - Original Version",
       "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "John Michael Montgomery",
         "url": "https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 152186,
       "name": "Sold (The Grundy County Auction Incident)",
       "url": "https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Diamond Rio",
-        "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
-      },
-      "artists": [
-        {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Meet In the Middle",
-      "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Everything I Love",
         "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+        "name": "Diamond Rio",
+        "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
         }
       ],
-      "duration_ms": 232106,
-      "name": "Tim McGraw",
-      "url": "https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa"
+      "duration_ms": 198333,
+      "name": "Meet In the Middle",
+      "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -891,6 +875,22 @@
       "duration_ms": 214293,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Tim McGraw",
+      "url": "https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Little Bit Of Life",
         "url": "https://open.spotify.com/album/1xG8gT4MixyJTNlvvXbU4F"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 228653,
       "name": "International Harvester",
       "url": "https://open.spotify.com/track/0Ta3jOf8m9yCSWMVwd8Qlf"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+        "name": "You Do Your Thing",
+        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
       },
       "artists": [
         {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
+      "duration_ms": 256600,
+      "name": "Something to Be Proud Of",
+      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "You Do Your Thing",
-        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
       },
       "artists": [
         {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
         }
       ],
-      "duration_ms": 256600,
-      "name": "Something to Be Proud Of",
-      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Martina",
-        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
       "artists": [
         {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 243160,
-      "name": "This One's for the Girls",
-      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     }
   ],
   "unique_name": "Raised on Country",

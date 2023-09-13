@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 282338,
+  "num_followers": 282518,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzg5NWFjOTMzMzJlZjA4NWUwMmRlMWMyMjA5OTExN2QzYjNiZDlh",
+  "snapshot_id": "MCxjNGE2MGZiODQzNTNkODQ3MTU1ZGJhN2UyZTQyNmJmYTk5YjY3NjYz",
   "tracks": [
     {
       "added_at": "2023-09-07 07:00:03",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
         "name": "Cough (Odo)",
         "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 176134,
       "name": "Cough (Odo)",
       "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2023-09-07 07:00:03",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
-        "name": "No Bad Songz",
-        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Philkeyz",
-          "url": "https://open.spotify.com/artist/4f2Osmfrp1z54Y2d7Nf8vf"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Nesesari",
-      "url": "https://open.spotify.com/track/1yOt3NUFWpYbnFW6ISj59h"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 153946,
       "name": "i'm a mess",
       "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
+        "name": "No Bad Songz",
+        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Philkeyz",
+          "url": "https://open.spotify.com/artist/4f2Osmfrp1z54Y2d7Nf8vf"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Nesesari",
+      "url": "https://open.spotify.com/track/1yOt3NUFWpYbnFW6ISj59h"
     },
     {
       "added_at": "2023-09-07 07:00:03",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2023-09-07 07:00:03",
       "album": {
-        "name": "Touch It (Remix)",
-        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Touch It - Remix",
-      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
-    },
-    {
-      "added_at": "2023-09-07 07:00:03",
-      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 198678,
       "name": "Jam (feat. Wizkid)",
       "url": "https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0"
+    },
+    {
+      "added_at": "2023-09-07 07:00:03",
+      "album": {
+        "name": "Touch It (Remix)",
+        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Touch It - Remix",
+      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
     },
     {
       "added_at": "2023-09-07 07:00:03",

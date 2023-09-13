@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 456220,
+  "num_followers": 456262,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTM1N2FiYTNlNDg2ZjQwZTRiNTNhNGFiM2RhZWFmZTBhNjIwMjdh",
+  "snapshot_id": "MCxjOTE1NjUwNjY4YzQzYjU3ZDJhNDg0Y2FkMDFmMTliOTBmNGFmMjc0",
   "tracks": [
     {
       "added_at": "2023-09-01 04:21:36",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "Where Do You Go?",
-        "url": "https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 147067,
-      "name": "Where Do You Go?",
-      "url": "https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
         "name": "Por qu\u00e9 te quiero tanto?",
         "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 231109,
       "name": "Por qu\u00e9 te quiero tanto?",
       "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
+        "name": "Where Do You Go?",
+        "url": "https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "duration_ms": 147067,
+      "name": "Where Do You Go?",
+      "url": "https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "Pelo Negro",
-        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
       },
       "artists": [
         {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
         }
       ],
-      "duration_ms": 192340,
-      "name": "Pelo Negro",
-      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
+      "duration_ms": 197511,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "Talk Too Much",
-        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
       },
       "artists": [
         {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
         }
       ],
-      "duration_ms": 197511,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
+      "duration_ms": 192340,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH"
-      },
-      "artists": [
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        }
-      ],
-      "duration_ms": 332546,
-      "name": "Rompecabezas",
-      "url": "https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "duration_ms": 332546,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "qu\u00e9 bueno!",
-        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 157394,
-      "name": "qu\u00e9 bueno!",
-      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
         "name": "Para No Verte M\u00e1s",
         "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 185007,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
+        "name": "qu\u00e9 bueno!",
+        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "qu\u00e9 bueno!",
+      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "fantasies",
-        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "fantasies",
-      "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "fantasies",
+      "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "Flower Moon",
-        "url": "https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 173374,
-      "name": "Feel it Now",
-      "url": "https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
         "name": "inigualable",
         "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 158211,
       "name": "Todo Pasa",
       "url": "https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
+        "name": "Flower Moon",
+        "url": "https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 173374,
+      "name": "Feel it Now",
+      "url": "https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM"
     },
     {
       "added_at": "2023-09-01 04:21:36",

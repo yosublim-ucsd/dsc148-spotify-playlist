@@ -1,12 +1,12 @@
 {
   "description": "tunes for walking, driving, running, flying, etc",
-  "num_followers": 182732,
+  "num_followers": 182861,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTkwOGRkN2YzOGIxMDNjNzQwMjc3N2FjZmE2YTg2MDVkYzYxZjc2",
+  "snapshot_id": "MCw4YzBlNGE0NWQ0MTFjNzdhY2JjMzE4OGZhOWRlOTAxYmNmN2YxOWI4",
   "tracks": [
     {
       "added_at": "2023-08-09 21:18:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "You and Your Friends (Deluxe)",
-        "url": "https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Psychics in LA",
-      "url": "https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "play pretend",
         "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 117774,
       "name": "play pretend",
       "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "You and Your Friends (Deluxe)",
+        "url": "https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Psychics in LA",
+      "url": "https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "House of FM",
-        "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 235263,
-      "name": "Losing Touch",
-      "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "ALLIGATOR",
         "url": "https://open.spotify.com/album/2fS7BLnNrjXc9s7WmGmyoH"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 154730,
       "name": "ELECTRIFY TONIGHT",
       "url": "https://open.spotify.com/track/0nifVdzF4R6WT2qITFJKeu"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "House of FM",
+        "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 235263,
+      "name": "Losing Touch",
+      "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Hannah (the sun)",
+        "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 196796,
+      "name": "Hannah (the sun)",
+      "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Andromeda (feat. D.R.A.M.) [Purple Disco Machine Remix]",
         "url": "https://open.spotify.com/album/106oSRdZYwswMFOAPwROxf"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 363091,
       "name": "Andromeda (feat. DRAM) - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/2LczIiNTOfbD4yxohajgjB"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Hannah (the sun)",
-        "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 196796,
-      "name": "Hannah (the sun)",
-      "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx"
-      },
-      "artists": [
-        {
-          "name": "Miloe",
-          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
-        }
-      ],
-      "duration_ms": 145186,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "NEVER CRY AGAIN",
         "url": "https://open.spotify.com/album/1uYX907pgQI6YblNc087rK"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 164573,
       "name": "NEVER CRY AGAIN",
       "url": "https://open.spotify.com/track/4oHUV9PR1jCJNqZ35xuSZ1"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx"
+      },
+      "artists": [
+        {
+          "name": "Miloe",
+          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
+        }
+      ],
+      "duration_ms": 145186,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/2l44jK6Q5tnQjCUHwmnv28"
-      },
-      "artists": [
-        {
-          "name": "Wild Painting",
-          "url": "https://open.spotify.com/artist/4XJBPKlKZKYlkgjxOPgo69"
-        }
-      ],
-      "duration_ms": 268238,
-      "name": "Impressions",
-      "url": "https://open.spotify.com/track/4k1cdJCIcMXp2GzBZrI4AD"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Too Sensitive",
         "url": "https://open.spotify.com/album/69mfyem8nlCqn02JURApPo"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 161176,
       "name": "Too Sensitive",
       "url": "https://open.spotify.com/track/4uqcGAE67v9zW5X1QBKtxz"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/2l44jK6Q5tnQjCUHwmnv28"
+      },
+      "artists": [
+        {
+          "name": "Wild Painting",
+          "url": "https://open.spotify.com/artist/4XJBPKlKZKYlkgjxOPgo69"
+        }
+      ],
+      "duration_ms": 268238,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/4k1cdJCIcMXp2GzBZrI4AD"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "The Lost Grooves EP",
-        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
-      },
-      "artists": [
-        {
-          "name": "In Deep We Trust",
-          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Ba:sen - Pool Party Dub Mix",
-      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Summer\u2019s For Lovers",
         "url": "https://open.spotify.com/album/2t3WmVBLUufwXg0kkIQIDi"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Miss Understood",
-        "url": "https://open.spotify.com/album/1yEmup5WjP7csxxFpL7rln"
+        "name": "The Lost Grooves EP",
+        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
       },
       "artists": [
         {
-          "name": "HYRA",
-          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+          "name": "In Deep We Trust",
+          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
         }
       ],
-      "duration_ms": 150142,
-      "name": "Miss Understood",
-      "url": "https://open.spotify.com/track/7iwjDxeB0ZcLaprOzS4Bg0"
+      "duration_ms": 349000,
+      "name": "Ba:sen - Pool Party Dub Mix",
+      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Miss Understood",
+        "url": "https://open.spotify.com/album/1yEmup5WjP7csxxFpL7rln"
+      },
+      "artists": [
+        {
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+        }
+      ],
+      "duration_ms": 150142,
+      "name": "Miss Understood",
+      "url": "https://open.spotify.com/track/7iwjDxeB0ZcLaprOzS4Bg0"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Love Your Neighbors",
         "url": "https://open.spotify.com/album/2LcHvU3Yzrd7SMMHhZcdfe"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds"
-      },
-      "artists": [
-        {
-          "name": "Baseball Game",
-          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
-        }
-      ],
-      "duration_ms": 190346,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "BOYFRIEND KILLER",
         "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 194526,
       "name": "BOYFRIEND KILLER",
       "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds"
+      },
+      "artists": [
+        {
+          "name": "Baseball Game",
+          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Pigeons & Planes presents: See You Next Year",
+        "url": "https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm"
+      },
+      "artists": [
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 152843,
+      "name": "Mean Girl",
+      "url": "https://open.spotify.com/track/3sbjrdgu7GEau6kvjWGL54"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "frenemy",
         "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
       },
@@ -1379,22 +1399,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Rot",
-        "url": "https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo"
-      },
-      "artists": [
-        {
-          "name": "Tennyson",
-          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
-        }
-      ],
-      "duration_ms": 274026,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "My Demise",
         "url": "https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot"
       },
@@ -1407,6 +1411,22 @@
       "duration_ms": 136363,
       "name": "My Demise",
       "url": "https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Rot",
+        "url": "https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo"
+      },
+      "artists": [
+        {
+          "name": "Tennyson",
+          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+        }
+      ],
+      "duration_ms": 274026,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1463,26 +1483,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Pigeons & Planes presents: See You Next Year",
-        "url": "https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm"
-      },
-      "artists": [
-        {
-          "name": "See You Next Year",
-          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
-        },
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 152843,
-      "name": "Mean Girl",
-      "url": "https://open.spotify.com/track/3sbjrdgu7GEau6kvjWGL54"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "love deluxe",
         "url": "https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8"
       },
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 290564,
+      "name": "Cherry Pit",
+      "url": "https://open.spotify.com/track/6A99m7rCQHZ1Len8QlPfOf"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "magic wand",
         "url": "https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 204688,
       "name": "magic wand",
       "url": "https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 290564,
-      "name": "Cherry Pit",
-      "url": "https://open.spotify.com/track/6A99m7rCQHZ1Len8QlPfOf"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "VERY ALONE",
-        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
-      },
-      "artists": [
-        {
-          "name": "Zaia",
-          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
-        }
-      ],
-      "duration_ms": 172973,
-      "name": "WONDER",
-      "url": "https://open.spotify.com/track/4JhDtr4ygpM2EsNJCepEna"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Sad Night Dynamite",
         "url": "https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 263213,
       "name": "Mountain Jack",
       "url": "https://open.spotify.com/track/0PmE2X02ocdGWQDNq6UaoI"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "VERY ALONE",
+        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
+      },
+      "artists": [
+        {
+          "name": "Zaia",
+          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
+        }
+      ],
+      "duration_ms": 172973,
+      "name": "WONDER",
+      "url": "https://open.spotify.com/track/4JhDtr4ygpM2EsNJCepEna"
     }
   ],
   "unique_name": "omw",

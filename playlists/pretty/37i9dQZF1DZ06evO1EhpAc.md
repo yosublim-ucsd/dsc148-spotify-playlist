@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,536 likes - 29 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,544 likes - 29 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 28 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 |
 | 29 | [When in Summer, I Forget About the Winter \- Bonus Track](https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 3:17 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDA0YzViZjljNTllMTQ1Yzk5YTU1MjUzODc2YWZmNDUwYQ==`
+Snapshot ID: `MjgyNDIwMzcsMDAwMDAwMDA3YmRmNDZiNzg0NDU2ZTEzNDUzNjk3Mjk0MWYzMTFjYQ==`

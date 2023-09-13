@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 348784,
+  "num_followers": 348812,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWNlY2ZjYjFkZmJmMDRlM2Y5OWZkYWJmYTU5Y2YxZTI1MjlmMjA0",
+  "snapshot_id": "MCxiYWZlY2UyNTliNDE3YWNiNzJlYTBhM2E0ZTc4MmMyNGEzNWZlNGMy",
   "tracks": [
     {
       "added_at": "2023-09-08 18:02:33",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-09-08 18:02:33",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-09-08 18:02:33",
-      "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "added_at": "2023-09-08 18:02:33",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-09-08 18:02:33",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-08 18:02:33",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y"
-    },
-    {
-      "added_at": "2023-09-08 18:02:33",
-      "album": {
         "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2023-09-08 18:02:33",
       "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y"
+    },
+    {
+      "added_at": "2023-09-08 18:02:33",
+      "album": {
         "name": "The Best Is Yet to Come",
         "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 166874,
       "name": "The Best Is Yet to Come",
       "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
-    },
-    {
-      "added_at": "2023-09-08 18:02:33",
-      "album": {
-        "name": "Put A Little Love On Me",
-        "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224585,
-      "name": "Put A Little Love On Me",
-      "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
     },
     {
       "added_at": "2023-09-08 18:02:33",
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-09-08 18:02:33",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+        "name": "Put A Little Love On Me",
+        "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Carry Me Away",
-      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
+      "duration_ms": 224585,
+      "name": "Put A Little Love On Me",
+      "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
     },
     {
       "added_at": "2023-09-08 18:02:33",
@@ -923,6 +907,22 @@
       "duration_ms": 131970,
       "name": "Te Amar Demais",
       "url": "https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM"
+    },
+    {
+      "added_at": "2023-09-08 18:02:33",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
     },
     {
       "added_at": "2023-09-08 18:02:33",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-09-08 18:02:33",
       "album": {
-        "name": "I Follow",
-        "url": "https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6"
-      },
-      "artists": [
-        {
-          "name": "Loi",
-          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
-        }
-      ],
-      "duration_ms": 169405,
-      "name": "I Follow",
-      "url": "https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB"
-    },
-    {
-      "added_at": "2023-09-08 18:02:33",
-      "album": {
         "name": "Daddy\u2019s Eyes",
         "url": "https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 182969,
       "name": "Daddy's Eyes",
       "url": "https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu"
+    },
+    {
+      "added_at": "2023-09-08 18:02:33",
+      "album": {
+        "name": "I Follow",
+        "url": "https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "duration_ms": 169405,
+      "name": "I Follow",
+      "url": "https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB"
     },
     {
       "added_at": "2023-09-08 18:02:33",

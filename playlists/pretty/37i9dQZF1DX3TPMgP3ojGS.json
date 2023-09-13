@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 372021,
+  "num_followers": 372379,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTg4MmVjNDZiNTM5ZWQ2MTE5MjQ3NjExNDViNWEzMDRiNzQzYjY4",
+  "snapshot_id": "MCw3MWI1YzU0MTM4NjE5ZGI0ZmU1YzdmMDc0MGJiZDE1ZmU5N2YyODlm",
   "tracks": [
     {
       "added_at": "2023-09-05 02:32:39",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
+        "name": "Tranquillity waltz",
+        "url": "https://open.spotify.com/album/3QMb20fXVrYo4PcZVlkmbq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Perceval",
+          "url": "https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5"
+        }
+      ],
+      "duration_ms": 118624,
+      "name": "Tranquillity waltz",
+      "url": "https://open.spotify.com/track/4httQXCwO5j2i57mmJZvFL"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
         "name": "Under",
         "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 137642,
       "name": "Release from silence",
       "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
-        "name": "Tranquillity waltz",
-        "url": "https://open.spotify.com/album/3QMb20fXVrYo4PcZVlkmbq"
-      },
-      "artists": [
-        {
-          "name": "Thomas Perceval",
-          "url": "https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5"
-        }
-      ],
-      "duration_ms": 118624,
-      "name": "Tranquillity waltz",
-      "url": "https://open.spotify.com/track/4httQXCwO5j2i57mmJZvFL"
     },
     {
       "added_at": "2023-09-05 02:32:39",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/1FIwOBM5t5dIuJNXH5VaPT"
-      },
-      "artists": [
-        {
-          "name": "Junie Graziano",
-          "url": "https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT"
-        }
-      ],
-      "duration_ms": 114232,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/4p1twb8bM9ZmWE2msuH8E8"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/1FIwOBM5t5dIuJNXH5VaPT"
+      },
+      "artists": [
+        {
+          "name": "Junie Graziano",
+          "url": "https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT"
+        }
+      ],
+      "duration_ms": 114232,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/4p1twb8bM9ZmWE2msuH8E8"
     },
     {
       "added_at": "2023-09-05 02:32:39",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
+        "name": "Passeggiata Serale",
+        "url": "https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Fiore",
+          "url": "https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8"
+        }
+      ],
+      "duration_ms": 132930,
+      "name": "Passeggiata Serale",
+      "url": "https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
         "name": "Act Of Reconciling",
         "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 180874,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
-        "name": "Passeggiata Serale",
-        "url": "https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Fiore",
-          "url": "https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8"
-        }
-      ],
-      "duration_ms": 132930,
-      "name": "Passeggiata Serale",
-      "url": "https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX"
     },
     {
       "added_at": "2023-09-05 02:32:39",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
-        "name": "Printemps",
-        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
-      },
-      "artists": [
-        {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
-        }
-      ],
-      "duration_ms": 137424,
-      "name": "Printemps",
-      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 143000,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
+        "name": "Printemps",
+        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "duration_ms": 137424,
+      "name": "Printemps",
+      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
     },
     {
       "added_at": "2023-09-05 02:32:39",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
+        "name": "Shizukana",
+        "url": "https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep"
+      },
+      "artists": [
+        {
+          "name": "Isshi Matsuriza",
+          "url": "https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Shizukana",
+      "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
         "name": "Entangled (Ole-Bj\u00f8rn Talstad Rework)",
         "url": "https://open.spotify.com/album/01gAuQyr7X51xepWCsi4az"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
-        "name": "Shizukana",
-        "url": "https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep"
+        "name": "M\u00e1 sestra",
+        "url": "https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe"
       },
       "artists": [
         {
-          "name": "Isshi Matsuriza",
-          "url": "https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi"
+          "name": "Jani Lechleiter",
+          "url": "https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU"
         }
       ],
-      "duration_ms": 131786,
-      "name": "Shizukana",
-      "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
+      "duration_ms": 125055,
+      "name": "M\u00e1 sestra",
+      "url": "https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb"
     },
     {
       "added_at": "2023-09-05 02:32:39",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
-        "name": "M\u00e1 sestra",
-        "url": "https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe"
-      },
-      "artists": [
-        {
-          "name": "Jani Lechleiter",
-          "url": "https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU"
-        }
-      ],
-      "duration_ms": 125055,
-      "name": "M\u00e1 sestra",
-      "url": "https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
         "name": "Estelle",
         "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 118500,
       "name": "Estelle",
       "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
+        "name": "La grande Nue",
+        "url": "https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 184235,
+      "name": "La grande Nue",
+      "url": "https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6"
     },
     {
       "added_at": "2023-09-05 02:32:39",
@@ -1119,22 +1135,6 @@
       "duration_ms": 155704,
       "name": "Distance",
       "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
-        "name": "La grande Nue",
-        "url": "https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
-        }
-      ],
-      "duration_ms": 184235,
-      "name": "La grande Nue",
-      "url": "https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6"
     },
     {
       "added_at": "2023-09-05 02:32:39",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
+        "name": "A Midnight Sun",
+        "url": "https://open.spotify.com/album/5j5ZhmEGBX5jMDsRTXb8fh"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Nestico",
+          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
+        }
+      ],
+      "duration_ms": 154962,
+      "name": "A Midnight Sun",
+      "url": "https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -1215,6 +1231,22 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
+        "name": "Sun sinking at dusk",
+        "url": "https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "duration_ms": 153306,
+      "name": "Sun sinking at dusk",
+      "url": "https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0"
     },
     {
       "added_at": "2023-09-05 02:32:39",
@@ -1251,22 +1283,6 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
-        "name": "Sun sinking at dusk",
-        "url": "https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI"
-      },
-      "artists": [
-        {
-          "name": "Noemi Lucas",
-          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
-        }
-      ],
-      "duration_ms": 153306,
-      "name": "Sun sinking at dusk",
-      "url": "https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
         "name": "Spring Thaw",
         "url": "https://open.spotify.com/album/0gRqyyHAowMXdyIKD9Wouy"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 180371,
       "name": "Spring Thaw",
       "url": "https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
-        "name": "A Midnight Sun",
-        "url": "https://open.spotify.com/album/5j5ZhmEGBX5jMDsRTXb8fh"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Nestico",
-          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
-        }
-      ],
-      "duration_ms": 154962,
-      "name": "A Midnight Sun",
-      "url": "https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX"
     },
     {
       "added_at": "2023-09-05 02:32:39",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c"
-      },
-      "artists": [
-        {
-          "name": "Aeyes Libe",
-          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
-        }
-      ],
-      "duration_ms": 148874,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
         "name": "As I Dream",
         "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c"
+      },
+      "artists": [
+        {
+          "name": "Aeyes Libe",
+          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+        }
+      ],
+      "duration_ms": 148874,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
         "name": "San Remo",
         "url": "https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 170966,
       "name": "San Siro",
       "url": "https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
+        "name": "land in sight",
+        "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "land in sight",
+      "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
     },
     {
       "added_at": "2023-09-05 02:32:39",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
-        "name": "Nowesind",
-        "url": "https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X"
-      },
-      "artists": [
-        {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
-        }
-      ],
-      "duration_ms": 119120,
-      "name": "Nowesind",
-      "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
         "name": "Twilights",
         "url": "https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 137647,
       "name": "Twilights",
       "url": "https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
+        "name": "Nowesind",
+        "url": "https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "duration_ms": 119120,
+      "name": "Nowesind",
+      "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
     },
     {
       "added_at": "2023-09-05 02:32:39",
@@ -1555,6 +1571,22 @@
     {
       "added_at": "2023-09-05 02:32:39",
       "album": {
+        "name": "Relaxing Piano (Neoclassical Sessions)",
+        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
+      },
+      "artists": [
+        {
+          "name": "Kalen Elmsley",
+          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
+        }
+      ],
+      "duration_ms": 184220,
+      "name": "Spheroidal",
+      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
+    },
+    {
+      "added_at": "2023-09-05 02:32:39",
+      "album": {
         "name": "Ved",
         "url": "https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg"
       },
@@ -1583,38 +1615,6 @@
       "duration_ms": 130889,
       "name": "T\u00f4t le matin",
       "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
-        "name": "Relaxing Piano (Neoclassical Sessions)",
-        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
-      },
-      "artists": [
-        {
-          "name": "Kalen Elmsley",
-          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
-        }
-      ],
-      "duration_ms": 184220,
-      "name": "Spheroidal",
-      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
-    },
-    {
-      "added_at": "2023-09-05 02:32:39",
-      "album": {
-        "name": "land in sight",
-        "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
-      },
-      "artists": [
-        {
-          "name": "Alfons Daiminger",
-          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "land in sight",
-      "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
     }
   ],
   "unique_name": "Coffee and Piano",

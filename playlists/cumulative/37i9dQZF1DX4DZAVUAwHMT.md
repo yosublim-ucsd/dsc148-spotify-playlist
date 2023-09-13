@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Måneskin
 
-306 songs - 16 hr 44 min
+307 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 | 2023-02-17 | 2023-06-02 |
 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 | 2023-09-07 |  |
 | [Barbaric](https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF) | 4:08 | 2023-07-20 | 2023-07-28 |
-| [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 | 2023-09-07 |  |
+| [Be That Girl](https://open.spotify.com/track/3ohEnx3hSZfRMA5RRTq7OX) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:56 | 2023-09-07 |  |
+| [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 | 2023-09-07 | 2023-09-13 |
 | [Begin Again](https://open.spotify.com/track/60LKpOJR8e1rentSnw7hzx) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Begin Again](https://open.spotify.com/album/7bZ2dfnfp3tdDUe63e55Vr) | 2:53 | 2023-06-01 | 2023-08-25 |
 | [Better Way Out](https://open.spotify.com/track/2OVvGwLJ9IYY9wxPzissxv) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Better Way Out](https://open.spotify.com/album/1i1rVDmckHqPKFtxDrHM8d) | 4:36 | 2023-06-29 | 2023-08-11 |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-03 |  |

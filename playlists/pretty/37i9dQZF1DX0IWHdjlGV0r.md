@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Certi amori bruciano di più\. Cover: Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,720 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,830 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 74 | [Topless](https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog) | [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Topless](https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X) | 3:00 |
 | 75 | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H) | 2:25 |
 
-Snapshot ID: `MCwyYmNhM2FmZGM3NTNiOGIwNjA5YTQ5ZTZlMjQwNmU5MTdhYzJkNWIy`
+Snapshot ID: `MCwzMDhiYTEzMDRjMDUzOTNhYjA2YzE4OGVlNDU3ZTQ5YjIyMjlmNTc1`

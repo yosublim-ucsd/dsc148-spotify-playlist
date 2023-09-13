@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3619,
+  "num_followers": 3620,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2VmZDZhMzA0MDE4OTg1ZTUyZWMyZDQwMmEzNWI1MzgwZDE0MTQ2",
+  "snapshot_id": "MCwwYjkxM2FhM2UyOWQzY2ZjM2NmOGVjMTNlYjA2M2VhNTQwNTRkYWNj",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -467,6 +467,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Saratoga",
+        "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
+      },
+      "artists": [
+        {
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+        }
+      ],
+      "duration_ms": 297133,
+      "name": "Oublie pas",
+      "url": "https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Comme une odeur de d\u00e9clin",
         "url": "https://open.spotify.com/album/0B46PUCUbNH1lJJPVAmJ8s"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 192653,
       "name": "Dans le ruisseau",
       "url": "https://open.spotify.com/track/0pP4TkjbnooOW2OQ4qamkO"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Saratoga",
-        "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
-      },
-      "artists": [
-        {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
-        }
-      ],
-      "duration_ms": 297133,
-      "name": "Oublie pas",
-      "url": "https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Dire combien je t'aime",
-        "url": "https://open.spotify.com/album/1LMHYa88eFjdK4s9aYvUFf"
-      },
-      "artists": [
-        {
-          "name": "Luce Dufault",
-          "url": "https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v"
-        }
-      ],
-      "duration_ms": 247692,
-      "name": "Le c\u0153ur de l'oc\u00e9an",
-      "url": "https://open.spotify.com/track/5tKlcROrtIMfKul9x4Uxzd"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Tous Les Sens",
         "url": "https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 321426,
       "name": "Pers\u00e9ides",
       "url": "https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Dire combien je t'aime",
+        "url": "https://open.spotify.com/album/1LMHYa88eFjdK4s9aYvUFf"
+      },
+      "artists": [
+        {
+          "name": "Luce Dufault",
+          "url": "https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v"
+        }
+      ],
+      "duration_ms": 247692,
+      "name": "Le c\u0153ur de l'oc\u00e9an",
+      "url": "https://open.spotify.com/track/5tKlcROrtIMfKul9x4Uxzd"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La Voix III",
-        "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Holubowski",
-          "url": "https://open.spotify.com/artist/3eNjAR5L6dFBT9YMI1mYcT"
-        }
-      ],
-      "duration_ms": 158280,
-      "name": "Feuille d'argent et feuille d'or",
-      "url": "https://open.spotify.com/track/43yPS3BdegZwA2x47ux291"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "\u00c9tienne d'ao\u00fbt",
         "url": "https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 312666,
       "name": "Elton d'ao\u00fbt - Remix",
       "url": "https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La Voix III",
+        "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Holubowski",
+          "url": "https://open.spotify.com/artist/3eNjAR5L6dFBT9YMI1mYcT"
+        }
+      ],
+      "duration_ms": 158280,
+      "name": "Feuille d'argent et feuille d'or",
+      "url": "https://open.spotify.com/track/43yPS3BdegZwA2x47ux291"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Lovers in No Mind's Land",
-        "url": "https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh"
-      },
-      "artists": [
-        {
-          "name": "Slow Fade Sailors",
-          "url": "https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "One Final Drink, One Final Smoke",
-      "url": "https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Fatale",
         "url": "https://open.spotify.com/album/0RB7JoaGx5mcCcDbMDyRM9"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Lovers in No Mind's Land",
+        "url": "https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh"
+      },
+      "artists": [
+        {
+          "name": "Slow Fade Sailors",
+          "url": "https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "One Final Drink, One Final Smoke",
+      "url": "https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "27 fois l'aurore",
         "url": "https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La grande nuit vid\u00e9o",
-        "url": "https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv"
-      },
-      "artists": [
-        {
-          "name": "Philippe B",
-          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
-        }
-      ],
-      "duration_ms": 204704,
-      "name": "Rouge-gorge",
-      "url": "https://open.spotify.com/track/7MVdiX7zo5AnRDmaL0Loc4"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les amours parall\u00e8les",
         "url": "https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 218935,
       "name": "L\u2019oiseau m\u00e9canique",
       "url": "https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La grande nuit vid\u00e9o",
+        "url": "https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv"
+      },
+      "artists": [
+        {
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+        }
+      ],
+      "duration_ms": 204704,
+      "name": "Rouge-gorge",
+      "url": "https://open.spotify.com/track/7MVdiX7zo5AnRDmaL0Loc4"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "And The Boys",
-        "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "And The Boys - French Version",
-      "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Sentiments humains",
         "url": "https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 237200,
       "name": "Nous restions l\u00e0",
       "url": "https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "And The Boys",
+        "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "And The Boys - French Version",
+      "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh"
-      },
-      "artists": [
-        {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
-        }
-      ],
-      "duration_ms": 304040,
-      "name": "Les derniers jours",
-      "url": "https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le plein de r\u00e9confort",
         "url": "https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh"
       },
       "artists": [
         {
-          "name": "Jason Bajada",
-          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
         }
       ],
-      "duration_ms": 285026,
-      "name": "Pour Le Reste De Ma Vie",
-      "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
+      "duration_ms": 304040,
+      "name": "Les derniers jours",
+      "url": "https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1411,6 +1395,22 @@
       "duration_ms": 186215,
       "name": "Rien ne se perd, rien ne se cr\u00e9e",
       "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
+      },
+      "artists": [
+        {
+          "name": "Jason Bajada",
+          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
+        }
+      ],
+      "duration_ms": 285026,
+      "name": "Pour Le Reste De Ma Vie",
+      "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Bleu Soleil",
-        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
-      },
-      "artists": [
-        {
-          "name": "Charles-Antoine Gosselin",
-          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Il m'en aura fallu du temps",
-      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le courant",
         "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 194042,
       "name": "Le courant",
       "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Bleu Soleil",
+        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
+      },
+      "artists": [
+        {
+          "name": "Charles-Antoine Gosselin",
+          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Il m'en aura fallu du temps",
+      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "M\u00e9lodica",
-        "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
-      },
-      "artists": [
-        {
-          "name": "Steve Marin",
-          "url": "https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Habiter l'avenir",
-      "url": "https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Vall\u00e9e d'argent",
         "url": "https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 284000,
       "name": "Samara",
       "url": "https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "M\u00e9lodica",
+        "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
+      },
+      "artists": [
+        {
+          "name": "Steve Marin",
+          "url": "https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Habiter l'avenir",
+      "url": "https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg"
     },
     {
       "added_at": "2021-02-06 03:12:40",

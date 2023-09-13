@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Zach Bryan",
-  "num_followers": 48189,
+  "num_followers": 48341,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmI3MjAxNjQ2MGMxNmM0YzkwNmJmNWJjYThiNDlkN2FjNGExODdm",
+  "snapshot_id": "MCxiZDgwOTNjMWI2MDk0ZTUwODU0NzlmY2E4OWRiMjI3Zjg3NzhmZDhm",
   "tracks": [
     {
       "added_at": "2023-09-08 18:16:20",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-08 18:16:20",
       "album": {
-        "name": "Hey Moon (A Campfire Song)",
-        "url": "https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj"
-      },
-      "artists": [
-        {
-          "name": "Joel Plaskett",
-          "url": "https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC"
-        }
-      ],
-      "duration_ms": 290733,
-      "name": "Hey Moon (A Campfire Song)",
-      "url": "https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd"
-    },
-    {
-      "added_at": "2023-09-08 18:16:20",
-      "album": {
         "name": "Eye For An Eye",
         "url": "https://open.spotify.com/album/60lPRUPJv9WBKCVhPh76FD"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 181018,
       "name": "Eye For An Eye",
       "url": "https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo"
+    },
+    {
+      "added_at": "2023-09-08 18:16:20",
+      "album": {
+        "name": "Hey Moon (A Campfire Song)",
+        "url": "https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj"
+      },
+      "artists": [
+        {
+          "name": "Joel Plaskett",
+          "url": "https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC"
+        }
+      ],
+      "duration_ms": 290733,
+      "name": "Hey Moon (A Campfire Song)",
+      "url": "https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd"
     },
     {
       "added_at": "2023-09-08 18:16:20",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-09-08 18:16:20",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 339040,
-      "name": "Pretending",
-      "url": "https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF"
-    },
-    {
-      "added_at": "2023-09-08 18:16:20",
-      "album": {
         "name": "Resurrection Day",
         "url": "https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 169570,
       "name": "Resurrection Day",
       "url": "https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U"
+    },
+    {
+      "added_at": "2023-09-08 18:16:20",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 339040,
+      "name": "Pretending",
+      "url": "https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF"
     },
     {
       "added_at": "2023-09-08 18:16:20",
@@ -1299,6 +1299,38 @@
     {
       "added_at": "2023-09-08 18:16:20",
       "album": {
+        "name": "Reasons Why",
+        "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 213248,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf"
+    },
+    {
+      "added_at": "2023-09-08 18:16:20",
+      "album": {
+        "name": "Nightroamer",
+        "url": "https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 166248,
+      "name": "Talkin' to Myself",
+      "url": "https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP"
+    },
+    {
+      "added_at": "2023-09-08 18:16:20",
+      "album": {
         "name": "Say What You Like",
         "url": "https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf"
       },
@@ -1327,22 +1359,6 @@
       "duration_ms": 270806,
       "name": "Better Off High",
       "url": "https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz"
-    },
-    {
-      "added_at": "2023-09-08 18:16:20",
-      "album": {
-        "name": "Nightroamer",
-        "url": "https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
-        }
-      ],
-      "duration_ms": 166248,
-      "name": "Talkin' to Myself",
-      "url": "https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP"
     },
     {
       "added_at": "2023-09-08 18:16:20",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2023-09-08 18:16:20",
       "album": {
-        "name": "Reasons Why",
-        "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 213248,
-      "name": "So Easy",
-      "url": "https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf"
-    },
-    {
-      "added_at": "2023-09-08 18:16:20",
-      "album": {
         "name": "Smashed Up My Fender",
         "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
       },
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-09-08 18:16:20",
       "album": {
-        "name": "This Mess We're In",
-        "url": "https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9"
+        "name": "Pretty Archie",
+        "url": "https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI"
       },
       "artists": [
         {
-          "name": "Arlo McKinley",
-          "url": "https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa"
+          "name": "Pretty Archie",
+          "url": "https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW"
         }
       ],
-      "duration_ms": 203659,
-      "name": "To Die For",
-      "url": "https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH"
+      "duration_ms": 278639,
+      "name": "Maritime",
+      "url": "https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA"
     },
     {
       "added_at": "2023-09-08 18:16:20",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-09-08 18:16:20",
       "album": {
-        "name": "Pretty Archie",
-        "url": "https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI"
+        "name": "This Mess We're In",
+        "url": "https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9"
       },
       "artists": [
         {
-          "name": "Pretty Archie",
-          "url": "https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW"
+          "name": "Arlo McKinley",
+          "url": "https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa"
         }
       ],
-      "duration_ms": 278639,
-      "name": "Maritime",
-      "url": "https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA"
+      "duration_ms": 203659,
+      "name": "To Die For",
+      "url": "https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH"
     },
     {
       "added_at": "2023-09-08 18:16:20",

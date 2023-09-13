@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Miles Kane
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,115 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,154 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 40 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
 | 41 | [3AM](https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [3AM](https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx) | 3:31 |
 | 42 | [Baggio](https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Baggio](https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg) | 3:41 |
-| 43 | [MESSED UP KIDS](https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [MESSED UP KIDS](https://open.spotify.com/album/403yzeLnFgqPP27o8Y8l0L) | 2:57 |
-| 44 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 |
+| 43 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 |
+| 44 | [MESSED UP KIDS](https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [MESSED UP KIDS](https://open.spotify.com/album/403yzeLnFgqPP27o8Y8l0L) | 2:57 |
 | 45 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
 | 46 | [Landmines](https://open.spotify.com/track/7BN61WUSYSHP8OrGfTqdI8) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Landmines](https://open.spotify.com/album/0mtjOk14meeRpSlVpbUzpa) | 4:43 |
 | 47 | [What a Shame](https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [What a Shame](https://open.spotify.com/album/6B45cam0D4Uw3NfleBOPrb) | 2:58 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 57 | [Skirts & Salads](https://open.spotify.com/track/1hU13my44YNmIVuNor31Te) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Skirts & Salads](https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go) | 2:24 |
 | 58 | [Good Luck Charm](https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [Good Luck Charm](https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf) | 3:07 |
 | 59 | [Lazy Brain](https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Deepest Blue](https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl) | 3:38 |
-| 60 | [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 |
-| 61 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 |
+| 60 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 |
+| 61 | [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 |
 | 62 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 |
 | 63 | [little victories](https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [nothing's on but everyone's watching](https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd) | 2:54 |
 | 64 | [Wave](https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V) | 3:08 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 82 | [What You Want](https://open.spotify.com/track/4UyXpL9yyJb9t2FGAyDzjC) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [How It Feels](https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0) | 3:22 |
 | 83 | [King of My Head](https://open.spotify.com/track/6AIDWsvlNJMVOwVzf04mu2) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [King of My Head](https://open.spotify.com/album/5auDLhlDrX07I0K3SHsH0H) | 3:40 |
 | 84 | [The Enemy](https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/4t250HKL2vikczwZILscU5) | 3:08 |
-| 85 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 |
+| 85 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 |
 | 86 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 |
-| 87 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 |
+| 87 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 |
 | 88 | [Boys Like Me](https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS) | [Retro Video Club](https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3) | [SITUATIONS](https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5) | 2:59 |
 | 89 | [Bleachers Yard](https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt) | [Cucamaras](https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T) | [Buck Rogers Time](https://open.spotify.com/album/1omvo1hvCG4XzDRmreWjLJ) | 4:34 |
 | 90 | [Slowly Break My Heart](https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD) | [Frankie Beetlestone](https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH) | [Slowly Break My Heart](https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 99 | [Time Comes Around](https://open.spotify.com/track/0c5RPTaGarzbe2aMltCHji) | [Liam Fender](https://open.spotify.com/artist/32F0MPkMvvQEeYt4IqFdW6) | [Time Comes Around](https://open.spotify.com/album/0mNncGLnd5QVfpRjrILdXC) | 4:32 |
 | 100 | [Be Someone](https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 3:50 |
 
-Snapshot ID: `MCxmN2NlODA3NjE3N2Q4ZmZjMTM2NjM1YWMwNmExNjY5Mzc5NGU5ZTdm`
+Snapshot ID: `MCw4ZGVlZWNkNjMzZWNjZDdlNDEzMDVjZjcyNzQ0YTZmYjY4MDgyYjY1`

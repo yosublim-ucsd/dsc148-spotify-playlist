@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,907 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,916 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 99 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 |
 | 100 | [Same Sunrise](https://open.spotify.com/track/6iyQhBdM54KoOdIfi8BDtX) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:31 |
 
-Snapshot ID: `MCwxYmRlYjc5Yjk2NjJhNWQ2MmZlZTI2ZDA1NGNkN2I1NzFmN2Y5Nzhh`
+Snapshot ID: `MCwzZWNlZDFiMGRiNzA3M2E1ODBjYjIxNDQ0Y2RhNDhkZmQ3YmVjYzUx`

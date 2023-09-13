@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,378 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,610 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [This Is Me \- Dave Audé Remix; from "The Greatest Showman"](https://open.spotify.com/track/1NNhZKNrg8WVmU6Ok8TDtO) | [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [This Is Me \(Dave Audé Remix; from "The Greatest Showman"\)](https://open.spotify.com/album/1bbOecKvywdyRfSBxKbbCO) | 3:36 |
 | 50 | [Thursday \- Nicky Romero Remix](https://open.spotify.com/track/7r4nPsLToVIPdsiEeZKF6Y) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Thursday \(Nicky Romero Remix\)](https://open.spotify.com/album/0PMD7JbA1zLWuiC4ikRYxR) | 3:37 |
 
-Snapshot ID: `MCxiZWE5MTEwMDMwZTU2ODM3ZjgzNDJkZjRiMmJmM2Q0NDNjYjgyZjE5`
+Snapshot ID: `MCxlZWI5NDViZjAzMWIxNDk2OWNmZGRmM2MxZDM0N2M2ZGNiZWFiZDg0`

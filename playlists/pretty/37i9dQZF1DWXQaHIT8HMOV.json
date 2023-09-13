@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1792,
+  "num_followers": 1795,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWU0NmQzMjhhNGQxMzhiY2M0MzA4ZjMwZjdiZTk5NGNlMTFkZDM4",
+  "snapshot_id": "MCw2NGZiZGE5MDVjZmU2OGM0NDkyNjE1ZjlhNWI5ZTI4YzdiZDYzZDY4",
   "tracks": [
     {
       "added_at": "2023-09-07 20:59:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Sembera",
-        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
-      },
-      "artists": [
-        {
-          "name": "Geosteady",
-          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Sembera",
-      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
         "name": "Nkujjukira",
         "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
       },
@@ -363,22 +347,18 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Shabada",
-        "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
       },
       "artists": [
         {
-          "name": "Mudra D Viral",
-          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
-        },
-        {
-          "name": "Ava Peace",
-          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
         }
       ],
-      "duration_ms": 196858,
-      "name": "Shabada",
-      "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -399,6 +379,26 @@
       "duration_ms": 132857,
       "name": "Captain",
       "url": "https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Shabada",
+        "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
+      },
+      "artists": [
+        {
+          "name": "Mudra D Viral",
+          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
+        },
+        {
+          "name": "Ava Peace",
+          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+        }
+      ],
+      "duration_ms": 196858,
+      "name": "Shabada",
+      "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
+        "name": "Nkwata Bulungi (Bailamos)",
+        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Nkwata Bulungi (Bailamos)",
+      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
         "name": "Nfa",
         "url": "https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 217021,
       "name": "Ekyama",
       "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
-        "name": "Nkwata Bulungi (Bailamos)",
-        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Nkwata Bulungi (Bailamos)",
-      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
+        "name": "Kika Buka",
+        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 156961,
+      "name": "Kika Buka",
+      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
         "name": "Fertilizer",
         "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 175072,
       "name": "Fertilizer",
       "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
-        "name": "Kika Buka",
-        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 156961,
-      "name": "Kika Buka",
-      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Wanting Me",
-        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 165283,
-      "name": "Wanting Me",
-      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
         "name": "Chai We Njaye",
         "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 165015,
       "name": "Chai We Njaye",
       "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Wanting Me",
+        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 165283,
+      "name": "Wanting Me",
+      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Don't Stopp",
-        "url": "https://open.spotify.com/album/5vAVcLMZjwc3gQGfRSW1y9"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 174759,
-      "name": "Dont-Stopp",
-      "url": "https://open.spotify.com/track/7t1UWWVjom7keLZLzW8Wex"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
         "name": "Bbuba",
         "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 204289,
       "name": "Bbuba",
       "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Don't Stopp",
+        "url": "https://open.spotify.com/album/5vAVcLMZjwc3gQGfRSW1y9"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 174759,
+      "name": "Dont-Stopp",
+      "url": "https://open.spotify.com/track/7t1UWWVjom7keLZLzW8Wex"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -911,18 +911,22 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+        "name": "Sam Wange",
+        "url": "https://open.spotify.com/album/7DrWFE1PLDlV6LKavisV20"
       },
       "artists": [
         {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
+      "duration_ms": 220632,
+      "name": "Sam Wange",
+      "url": "https://open.spotify.com/track/1jYqTG4ARaCyfFoy9bgpH8"
     }
   ],
   "unique_name": "Made In Uganda",

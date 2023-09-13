@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,245 likes - 70 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,528 likes - 70 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 11 | [Deus Proverá](https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Proverá](https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN) | 5:58 |
 | 12 | [Eu Te Vejo Em Tudo](https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [A Casa É Sua](https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR) | 5:46 |
 | 13 | [Raridade](https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:57 |
-| 14 | [Jó](https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:11 |
-| 15 | [Espírito, Enche A Minha Vida / Ao Único](https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:36 |
+| 14 | [Espírito, Enche A Minha Vida / Ao Único](https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:36 |
+| 15 | [Jó](https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:11 |
 | 16 | [Girassol](https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj) | [Priscilla](https://open.spotify.com/artist/2kAllRyiZRNrD6nty4j3IV), [Whindersson Nunes](https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF) | [Girassol](https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO) | 3:44 |
 | 17 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 |
 | 18 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 38 | [Yeshua](https://open.spotify.com/track/6466PQ9yTWUsEr1sWBpH2w) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Yeshua](https://open.spotify.com/album/5CJfvaEHC43XbIFCDRN97k) | 5:43 |
 | 39 | [Minha Vez](https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Minha Vez](https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j) | 3:51 |
 | 40 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 |
-| 41 | [Eu Escolho Deus \- Ao Vivo](https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 4:00 |
-| 42 | [Volte a Sonhar](https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 3:53 |
+| 41 | [Volte a Sonhar](https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 3:53 |
+| 42 | [Eu Escolho Deus \- Ao Vivo](https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 4:00 |
 | 43 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 |
 | 44 | [Oceanos \(Onde Meus Pés Podem Falhar\) \[Oceans Where Feet May Fail\] \- Ao Vivo](https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Não Me Deixes Desistir \(Ao Vivo\)](https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6) | 8:15 |
 | 45 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 56 | [Tudo a Ver Com Ele](https://open.spotify.com/track/726jL4DA03vptKr05so4Zu) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Tudo a Ver Com Ele](https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn) | 6:25 |
 | 57 | [Cicatrizes](https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:20 |
 | 58 | [Casa do Pai](https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:44 |
-| 59 | [Oh Quão Lindo Esse Nome É \(What a Beautiful Name\) \[Sony Music Live\]](https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Kemuel \(Sony Music Live\)](https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1) | 5:14 |
+| 59 | [Deus Vai Fazer \(feat\. Damaris Brandão\)](https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Damaris Brandão](https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:35 |
 | 60 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eterno Presente \(Ao Vivo\)](https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf) | 8:38 |
-| 61 | [Deus Vai Fazer \(feat\. Damaris Brandão\)](https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Damaris Brandão](https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:35 |
+| 61 | [Oh Quão Lindo Esse Nome É \(What a Beautiful Name\) \[Sony Music Live\]](https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Kemuel \(Sony Music Live\)](https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1) | 5:14 |
 | 62 | [Há um Lugar](https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Andando na Luz](https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK) | 5:48 |
 | 63 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 | 64 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 | 70 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Preciso de Ti \- Diante do Trono 4 \(Ao Vivo\)](https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN) | 15:19 |
 
-Snapshot ID: `MCw2YTc0ZTMzODBiYmRkODY3MWQxMjMxOTlkMTU5ZDhlYmYwOTFhMzhk`
+Snapshot ID: `MCxlOGM5YWFhZTgzNjMxNjMzNDcwZTk1ZmJkM2IxMjU2NmNhODM5Y2Rl`

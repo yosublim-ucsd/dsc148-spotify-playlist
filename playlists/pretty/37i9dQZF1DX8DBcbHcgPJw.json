@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Roman el Original, Agapornis, El Reja & Piola Vago. ",
-  "num_followers": 1215110,
+  "num_followers": 1215222,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjM0MjNjZGVkN2RjZDRiOGI4ZDNkNmFjN2M2MWE2NmYxYzhjMDlk",
+  "snapshot_id": "MCw0ZDk0ZWVmNjkxYmJmOWM1NmQyMjllZDAxY2Q4YzQwMGM3MWIwZDll",
   "tracks": [
     {
       "added_at": "2023-09-08 11:57:30",
@@ -463,18 +463,22 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+        "name": "Mal de Amores",
+        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+      "duration_ms": 188333,
+      "name": "Mal de Amores",
+      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -495,22 +499,18 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "Mal de Amores",
-        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Mal de Amores",
-      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "Ya No Quiero Verte",
-        "url": "https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS"
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        },
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
         }
       ],
-      "duration_ms": 165634,
-      "name": "Ya No Quiero Verte",
-      "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -691,18 +687,22 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+        "name": "Ya No Quiero Verte",
+        "url": "https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS"
       },
       "artists": [
         {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
         }
       ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+      "duration_ms": 165634,
+      "name": "Ya No Quiero Verte",
+      "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
+        "name": "Ya No Llora",
+        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 120638,
+      "name": "Ya No Llora",
+      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
+    },
+    {
+      "added_at": "2023-09-08 11:57:30",
+      "album": {
         "name": "Que Locura Fue Enamorarme de Ti (Remix)",
         "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 141453,
       "name": "Que Locura Fue Enamorarme de Ti (Remix)",
       "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
-    },
-    {
-      "added_at": "2023-09-08 11:57:30",
-      "album": {
-        "name": "Ya No Llora",
-        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 120638,
-      "name": "Ya No Llora",
-      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "Aunque Te Enamores",
-        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 130212,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
-    },
-    {
-      "added_at": "2023-09-08 11:57:30",
-      "album": {
         "name": "Si Tu Supieras",
         "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 175263,
       "name": "Flasheaste Amor",
       "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
+    },
+    {
+      "added_at": "2023-09-08 11:57:30",
+      "album": {
+        "name": "Aunque Te Enamores",
+        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 130212,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 156325,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
-    },
-    {
-      "added_at": "2023-09-08 11:57:30",
-      "album": {
         "name": "Cumbia Baby!",
         "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 199495,
       "name": "La Noche No Es para Dormir",
       "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
+    },
+    {
+      "added_at": "2023-09-08 11:57:30",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -1191,6 +1191,42 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
+        "name": "Cumbia Baby!",
+        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+      },
+      "artists": [
+        {
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "El Equivocado",
+      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
+    },
+    {
+      "added_at": "2023-09-08 11:57:30",
+      "album": {
+        "name": "La Gira",
+        "url": "https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "La Gira",
+      "url": "https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6"
+    },
+    {
+      "added_at": "2023-09-08 11:57:30",
+      "album": {
         "name": "NO ES LO QUE PARECE",
         "url": "https://open.spotify.com/album/1pMv2WnLf6GSiSL3pVki7O"
       },
@@ -1223,26 +1259,6 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "La Gira",
-        "url": "https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "La Gira",
-      "url": "https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6"
-    },
-    {
-      "added_at": "2023-09-08 11:57:30",
-      "album": {
         "name": "Dame un Besito",
         "url": "https://open.spotify.com/album/2KephD8YhQRMfagIcLI7r8"
       },
@@ -1259,6 +1275,22 @@
       "duration_ms": 195000,
       "name": "Dame un Besito",
       "url": "https://open.spotify.com/track/2Vl1IkovKwtLBAVUdOqZ0a"
+    },
+    {
+      "added_at": "2023-09-08 11:57:30",
+      "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -1283,34 +1315,18 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+        "name": "Piel a Piel",
+        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
         }
       ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
-    },
-    {
-      "added_at": "2023-09-08 11:57:30",
-      "album": {
-        "name": "Cumbia Baby!",
-        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
-      },
-      "artists": [
-        {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "El Equivocado",
-      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
+      "duration_ms": 155350,
+      "name": "Piel a Piel",
+      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "Piel a Piel",
-        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
-      },
-      "artists": [
-        {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
-        }
-      ],
-      "duration_ms": 155350,
-      "name": "Piel a Piel",
-      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
-    },
-    {
-      "added_at": "2023-09-08 11:57:30",
-      "album": {
         "name": "La Dif\u00edcil",
         "url": "https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ"
       },
@@ -1359,30 +1359,6 @@
       "duration_ms": 145056,
       "name": "La Dif\u00edcil",
       "url": "https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2"
-    },
-    {
-      "added_at": "2023-09-08 11:57:30",
-      "album": {
-        "name": "Nuestro Amor Regresa",
-        "url": "https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "Nuestro Amor Regresa",
-      "url": "https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -1459,6 +1435,30 @@
       "duration_ms": 149160,
       "name": "Hasta la luna",
       "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
+    },
+    {
+      "added_at": "2023-09-08 11:57:30",
+      "album": {
+        "name": "Nuestro Amor Regresa",
+        "url": "https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Nuestro Amor Regresa",
+      "url": "https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -1575,26 +1575,22 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "Se Pic\u00f3",
-        "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
+        "name": "Que Rico Baila",
+        "url": "https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp"
       },
       "artists": [
         {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         },
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 139430,
-      "name": "Se Pic\u00f3",
-      "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
+      "duration_ms": 178233,
+      "name": "Que Rico Baila",
+      "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -1619,22 +1615,26 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "Que Rico Baila",
-        "url": "https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp"
+        "name": "Se Pic\u00f3",
+        "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
       },
       "artists": [
         {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
         },
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
         }
       ],
-      "duration_ms": 178233,
-      "name": "Que Rico Baila",
-      "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"
+      "duration_ms": 139430,
+      "name": "Se Pic\u00f3",
+      "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
+        "name": "CUMBIA DE BARRIO",
+        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 181354,
+      "name": "CUMBIA DE BARRIO",
+      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
+    },
+    {
+      "added_at": "2023-09-08 11:57:30",
+      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
       },
@@ -1711,18 +1727,18 @@
     {
       "added_at": "2023-09-08 11:57:30",
       "album": {
-        "name": "CUMBIA DE BARRIO",
-        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
+        "name": "Fuego en la Noche",
+        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
       },
       "artists": [
         {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
         }
       ],
-      "duration_ms": 181354,
-      "name": "CUMBIA DE BARRIO",
-      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
+      "duration_ms": 147960,
+      "name": "Chica Brasile\u00f1a",
+      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
     },
     {
       "added_at": "2023-09-08 11:57:30",
@@ -1743,22 +1759,6 @@
       "duration_ms": 192000,
       "name": "Lo Intentamos (feat. Grupo Play)",
       "url": "https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr"
-    },
-    {
-      "added_at": "2023-09-08 11:57:30",
-      "album": {
-        "name": "Fuego en la Noche",
-        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
-      },
-      "artists": [
-        {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Chica Brasile\u00f1a",
-      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
     },
     {
       "added_at": "2023-09-08 11:57:30",

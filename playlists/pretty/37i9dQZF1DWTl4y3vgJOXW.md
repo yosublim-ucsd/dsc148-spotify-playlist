@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Coco Gauff
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Xavier Gipson
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,913,686 likes - 76 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,915,052 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 75 | [Paper Route \(ft\. Young Dolph\)](https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Mention My Name](https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB) | 3:23 |
 | 76 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 |
 
-Snapshot ID: `MCxhNWI0OTMzMDJiZDllOWJjZDk4NjhkZmE3MmFmNGQ4MDlhMWRjYTBi`
+Snapshot ID: `MCw0ZDI1NDhkMmU1NWI3ZmQ3ZDViNDJmNTMwNmVlMjMxM2FkMDNiZDU0`

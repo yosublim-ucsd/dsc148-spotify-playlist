@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,843 likes - 53 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,860 likes - 53 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 14 | [Her Wings](https://open.spotify.com/track/19Wz8xYiIcD4yjUiUUexp9) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [The Noble Art Of Self Destruction](https://open.spotify.com/album/3aiw4bCQVAeJXZYJh74zAF) | 2:58 |
 | 15 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
 | 16 | [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 |
-| 17 | [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 |
+| 17 | [Be That Girl](https://open.spotify.com/track/3ohEnx3hSZfRMA5RRTq7OX) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:56 |
 | 18 | [hot girls in hell](https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [hot girls in hell](https://open.spotify.com/album/7Cg3eGiwQB6KVfVoEMWi8y) | 2:50 |
 | 19 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 |
 | 20 | [Let's Get To Work](https://open.spotify.com/track/456sTgUGjvqvmYr7GqMFnG) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Let's Get To Work](https://open.spotify.com/album/7cnBwqsBiHUPFQZtCJE0uN) | 3:00 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 52 | [dose no\. 2](https://open.spotify.com/track/1oRTzF2rBqLGm1goxeflIm) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [The Maine](https://open.spotify.com/album/40ptDph9mAXMnkZJKRe3UM) | 2:54 |
 | 53 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 |
 
-Snapshot ID: `MCxlYjZjZDFkNjE4ZDc4NjYxNDA1MmQxMGY3NzE5M2Q2YmYzZjQwZDMy`
+Snapshot ID: `MCw4MmNmNjU5YjQ2NDg5NDZjYjhhYTkxNDZiNDk1Nzk5OThjNWFmYmM1`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 167995,
+  "num_followers": 167991,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjAyMWQyNWY1ZGNkOGZhYTBjYzk4ODkzYjdiYTdhZGNiNDIyYjY5",
+  "snapshot_id": "MCxhZDBlYWM1OTU5Yzc1ZWU1M2UxYTNlNzBlYmZhMTk0NjYxMWRjMzNl",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas in Baltimore",
-        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Favorite Time of Year",
-      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "A Special Christmas",
@@ -979,6 +963,22 @@
       "duration_ms": 229400,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas in Baltimore",
+        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Favorite Time of Year",
+      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1011,6 +1011,26 @@
       "duration_ms": 232840,
       "name": "What Child Is This?",
       "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Motown Christmas",
+        "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Chrisette Michele",
+          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1047,26 +1067,6 @@
       "duration_ms": 308640,
       "name": "O Come",
       "url": "https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Motown Christmas",
-        "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Chrisette Michele",
-          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Angels We Have Heard On High",
-      "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 276960,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Spotify Singles - Holiday",
@@ -1323,6 +1307,22 @@
       "duration_ms": 171056,
       "name": "Under the Mistletoe (with Kendra Jae)",
       "url": "https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 276960,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
     },
     {
       "added_at": "2021-12-15 17:30:29",

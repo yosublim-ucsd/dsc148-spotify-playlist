@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-506 songs - 1 day 3 hr 46 min
+507 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Celestial](https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 2:53 | 2023-01-27 |  |
 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 | 2023-05-12 |  |
 | [CHERIMOYA](https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [CHERIMOYA](https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5) | 2:09 | 2023-02-10 |  |
+| [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 | 2023-09-08 |  |
 | [Cherry Ice Cream Sundae](https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Cherry Ice Cream Sundae](https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0) | 3:12 | 2021-12-15 | 2022-07-29 |
 | [Chevy Chase Drive](https://open.spotify.com/track/6mR3TfiZ6ZflkZyvu0VGIL) | [Eleaze](https://open.spotify.com/artist/1JHJf5BahbFUJxKvVeeuXF), [itsonlyha](https://open.spotify.com/artist/6BnPL6xFNq6krnKjdN8Ezo) | [Tales Never Told](https://open.spotify.com/album/1JHXQLaL4dPhiIjytfkv5e) | 4:18 | 2022-02-11 | 2022-07-29 |
 | [Childs Play \(feat\. Chance the Rapper\)](https://open.spotify.com/track/7GPstnufSTScEaw9dMxO9H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:36 | 2021-12-15 | 2022-09-17 |
@@ -389,7 +390,7 @@
 | [say im ur luv](https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:31 | 2023-01-27 | 2023-08-12 |
 | [Say It](https://open.spotify.com/track/65Z2lFJMMVdHpBCL0k5Qub) | [Oliv Blu](https://open.spotify.com/artist/68iX9SpJQmbuaDfBjJSOlr) | [Say It](https://open.spotify.com/album/3s7NZeo46K9lNNre5Cvpdw) | 3:33 | 2021-12-15 | 2022-07-26 |
 | [Scrimmage \- Remix](https://open.spotify.com/track/4RLpPmjpcuXdOVqizQVnc5) | [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu), [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Scrimmage \(Remix\)](https://open.spotify.com/album/29QSUuMItml4GM3ktc4M2m) | 4:43 | 2021-12-15 | 2022-07-29 |
-| [Seconds](https://open.spotify.com/track/7brqqadnLsTc56YzyQ1QQk) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Seconds](https://open.spotify.com/album/0DXyNcS7WjGAVJsCMv6Pco) | 2:49 | 2023-03-10 |  |
+| [Seconds](https://open.spotify.com/track/7brqqadnLsTc56YzyQ1QQk) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Seconds](https://open.spotify.com/album/0DXyNcS7WjGAVJsCMv6Pco) | 2:49 | 2023-03-10 | 2023-09-13 |
 | [Secrets](https://open.spotify.com/track/23DcYVHH5f9yuttqSrZ8YI) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Secrets](https://open.spotify.com/album/5hUNtJVGbyh8eJfulPr7Sx) | 3:26 | 2023-03-24 | 2023-08-30 |
 | [Shadow Man](https://open.spotify.com/track/5RZ9Tlmiy9NioldpMCZvaN) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [telefone](https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M) | 5:11 | 2022-09-05 | 2022-11-17 |
 | [Shadow Man](https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC) | [Noname feat\. Smino, Phoelix, Saba](https://open.spotify.com/artist/0sN6V0DZiCbB1exRjapMNo) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 5:11 | 2022-11-09 | 2023-01-28 |

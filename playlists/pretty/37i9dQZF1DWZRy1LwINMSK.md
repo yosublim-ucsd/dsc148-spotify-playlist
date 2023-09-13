@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,296 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,418 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 2 | [Queremo Ma](https://open.spotify.com/track/6fguZ8G9c3TvJsjM1oEgwH) | [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Queremo Ma](https://open.spotify.com/album/1semEeAcwPUyW9ad6OU7mA) | 2:33 |
 | 3 | [Seguimo Joseando](https://open.spotify.com/track/6YSh5DU0imcpCUrQzCINiq) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Benjita Montana](https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X) | [Seguimo Joseando](https://open.spotify.com/album/6HHzPGjMBG81HSMb3g1u8L) | 3:03 |
 | 4 | [Vibras](https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:34 |
-| 5 | [GIRO 180](https://open.spotify.com/track/2GWFiSNw8elbIt0emwTbyg) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [GIRO 180](https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ) | 4:26 |
+| 5 | [GIRO 180](https://open.spotify.com/track/2GWFiSNw8elbIt0emwTbyg) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [GIRO 180](https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ) | 4:24 |
 | 6 | [X Dinero](https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Trap Life](https://open.spotify.com/album/20TTxQ5tBU35RYiAghI6uf) | 2:54 |
 | 7 | [Perco Con Mari](https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Perco Con Mari](https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA) | 3:59 |
 | 8 | [Mi Bruja](https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Mi Bruja](https://open.spotify.com/album/5Ol2T2oQpuxa9JZMij9ES6) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [Aborrecio](https://open.spotify.com/track/3ADriUpeN2lGE8tfcAr1oP) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Nikxz](https://open.spotify.com/artist/1hQJhlI1r2oa893f8N6wcg) | [Aborrecio](https://open.spotify.com/album/3mvr64wBs7lsr2jwzwlWKR) | 4:02 |
 | 100 | [AKRI TU ERE UN XULO](https://open.spotify.com/track/6eAB8tVW7rhRgggH472v9U) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 2:26 |
 
-Snapshot ID: `MCwzNjFhNjU2M2QwNTQ2YzBlYzViMDY0YjhiYzdkYjlkYjY0N2U3OTIw`
+Snapshot ID: `MCwwMTAwOTU2YjZiZmZjNjhmNWFmOWY4ZDg0Y2VkNWZmMmE0OTc4Yzdm`

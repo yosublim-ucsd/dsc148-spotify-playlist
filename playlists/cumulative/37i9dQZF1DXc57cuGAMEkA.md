@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Olivia Rodrigo, The Rolling Stones, The Chainsmokers, James Blake and more! Cover: Olivia Rodrigo
 
-2,770 songs - 6 day 13 hr 25 min
+2,771 songs - 6 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1002,6 +1002,7 @@
 | [Hollywood Bowl](https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9) | 4:13 | 2023-06-09 | 2023-06-16 |
 | [Hollywood Bowl](https://open.spotify.com/track/1DAIGVQoOruWmlVYmpC0B7) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hollywood Bowl](https://open.spotify.com/album/7plBFX9EbmkHZnBbRtzKkA) | 4:13 | 2023-06-08 | 2023-06-10 |
 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 | 2023-03-09 | 2023-03-18 |
+| [Home Is Where The Hurt Is](https://open.spotify.com/track/7ujyUurqKZiltLgXroP3Z3) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Home Is Where The Hurt Is](https://open.spotify.com/album/2ibB2OyjmvKTmOOo2GgORh) | 4:00 | 2023-09-07 |  |
 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 | 2023-06-01 | 2023-06-09 |
 | [home2u](https://open.spotify.com/track/6QNnOrCZ0HWmn2pefRxtG9) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [we were so beautiful](https://open.spotify.com/album/2SPNwu2eMczhNIDK1bL3B5) | 2:45 | 2023-07-20 | 2023-07-28 |
 | [Honest](https://open.spotify.com/track/7MpAJjJbMrmeLJbrDJ0wHh) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Honest](https://open.spotify.com/album/2aF3BH9F5BBznxDYZskdDz) | 3:01 | 2023-04-20 | 2023-04-28 |

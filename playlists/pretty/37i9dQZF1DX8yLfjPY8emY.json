@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 1069182,
+  "num_followers": 1069550,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzRkNzA5NTJmMmI1ZDVlYjk0ZjczZTcwNzYzNzNjOTBjNmNjYmNm",
+  "snapshot_id": "MCxmMTFmODAwMmE5NTdhNWQxZGMxNmI4MDgyZTlmYjY0ZTNmZDNhMWZj",
   "tracks": [
     {
       "added_at": "2023-06-09 06:35:00",
@@ -131,18 +131,18 @@
     {
       "added_at": "2023-06-09 06:35:00",
       "album": {
-        "name": "Sonido Subtropical",
-        "url": "https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV"
+        "name": "Los Yaguaru",
+        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
       "artists": [
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 310295,
-      "name": "Inocente",
-      "url": "https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3"
+      "duration_ms": 234945,
+      "name": "Suavemente Amor",
+      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
     },
     {
       "added_at": "2023-06-09 06:35:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-06-09 06:35:00",
       "album": {
-        "name": "Los Yaguaru",
-        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
+        "name": "Sonido Subtropical",
+        "url": "https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV"
       },
       "artists": [
         {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         }
       ],
-      "duration_ms": 234945,
-      "name": "Suavemente Amor",
-      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
+      "duration_ms": 310295,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3"
     },
     {
       "added_at": "2023-06-09 06:35:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-09 06:35:00",
       "album": {
-        "name": "Sueno Latino",
-        "url": "https://open.spotify.com/album/1hgd43q4QftJJ9RLkz6cz5"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Pavas",
-          "url": "https://open.spotify.com/artist/5iCx0rNkZzVivaykkSXLZm"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/415WOC7qIqb1pvOOhe90si"
-    },
-    {
-      "added_at": "2023-06-09 06:35:00",
-      "album": {
         "name": "Sue\u00f1o Cumplido",
         "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 200893,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
+    },
+    {
+      "added_at": "2023-06-09 06:35:00",
+      "album": {
+        "name": "Sueno Latino",
+        "url": "https://open.spotify.com/album/1hgd43q4QftJJ9RLkz6cz5"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Pavas",
+          "url": "https://open.spotify.com/artist/5iCx0rNkZzVivaykkSXLZm"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/415WOC7qIqb1pvOOhe90si"
     },
     {
       "added_at": "2023-06-09 06:35:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-06-09 06:35:00",
       "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
-    },
-    {
-      "added_at": "2023-06-09 06:35:00",
-      "album": {
         "name": "No Te Voy A Perdonar, Vol. 4",
         "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 232609,
       "name": "No Te Voy a Perdonar",
       "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
+    },
+    {
+      "added_at": "2023-06-09 06:35:00",
+      "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
     },
     {
       "added_at": "2023-06-09 06:35:00",

@@ -604,7 +604,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 160212,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
@@ -1822,6 +1822,24 @@
       "duration_ms": 153560,
       "name": "D\u00f3nde Est\u00e1s",
       "url": "https://open.spotify.com/track/16DNJ8y6k97DxuMyV49W7V"
+    },
+    {
+      "album": {
+        "name": "D\u00f3nde Est\u00e1s",
+        "url": "https://open.spotify.com/album/3uwIRMTeueP92bS46L6d7q"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153560,
+      "name": "D\u00f3nde Est\u00e1s",
+      "url": "https://open.spotify.com/track/71nkNlFUY4d9mBvTAyV9ig"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-867 songs - 1 day 15 hr 22 min
+868 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,8 @@
 | [MEAN GIRLS](https://open.spotify.com/track/5KLo5emoCJT8Xk8MeOrSm5) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MEAN GIRLS](https://open.spotify.com/album/7BNrJv8BcbLsUlvKXrTBvl) | 2:10 | 2021-07-31 | 2022-07-26 |
 | [Meant To Be](https://open.spotify.com/track/6mtgVR9MNoWwjCxlKSruw7) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Meant To Be](https://open.spotify.com/album/63lAGUA7Muw8sviOb03TVI) | 3:06 | 2020-12-13\* | 2021-02-27 |
 | [medicine](https://open.spotify.com/track/38cHoGUA4FvEXiGRwZ32nM) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw), [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [medicine](https://open.spotify.com/album/0fXWPB2QCWc7uf7uG9lAOM) | 2:02 | 2021-09-17 | 2022-04-21 |
-| [MELODY](https://open.spotify.com/track/6WyFtGksVSqcA4nW37lV74) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [MELODY](https://open.spotify.com/album/3010O0T0Imh2k7wSbVqgZo) | 2:54 | 2023-09-01 |  |
+| [MELODY](https://open.spotify.com/track/6WyFtGksVSqcA4nW37lV74) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [MELODY](https://open.spotify.com/album/3010O0T0Imh2k7wSbVqgZo) | 2:54 | 2023-09-01 | 2023-09-13 |
+| [MELODY](https://open.spotify.com/track/1NfjUyoSiqliAy40rR9CVv) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [MELODY](https://open.spotify.com/album/0rbnod5eDoqsgg8rBWUD1i) | 2:54 | 2023-09-01 |  |
 | [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 | 2021-06-19 |  |
 | [Memory](https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Memory](https://open.spotify.com/album/0vqbFCVFfruEwtG4Au08yD) | 2:14 | 2021-01-15 |  |
 | [memory\_lo55](https://open.spotify.com/track/2yyApFUUVm7G4ujRr0MT8B) | [Oliver Francis](https://open.spotify.com/artist/0WvTK38rXqPCD5pZMDuX20) | [memory\_lo55\_reloaded](https://open.spotify.com/album/0hsdw1CBoxDAHt33NyfkGP) | 4:23 | 2022-06-10 | 2022-06-17 |

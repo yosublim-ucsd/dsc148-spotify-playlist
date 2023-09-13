@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,021 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,086 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [Señor Sereno \- En Vivo](https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Ismael Miranda \(En Vivo\)](https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk) | 5:30 |
 | 50 | [Sueño Contigo \- En Vivo](https://open.spotify.com/track/1ACoCw1B1BRNg0gaLQmdJQ) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Intimamente Salsero \(En Vivo\)](https://open.spotify.com/album/5Reuqd1mwQDQOdx0vFvOXm) | 4:58 |
 
-Snapshot ID: `MCxhOWQ5MWJhZmQ3ZDkxNWY1MzNjOTFjMzllOTMyNGY1MzIxOTY3ZWU4`
+Snapshot ID: `MCxiZWYyMDQ1MmIyNzNkMTZjYjExYzQwNzI3YzI2YjIxMDJmNDNjMWRl`

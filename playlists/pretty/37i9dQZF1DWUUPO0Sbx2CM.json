@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 173376,
+  "num_followers": 173570,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTY2OTg3NDJmZTczZjgwYWNmNGE4ODFmNGVlNjAxZDhjNTFmN2Ew",
+  "snapshot_id": "MCxjMDQwNzU2MjVkYjE4MjI1Nzg5NTJiODQwNjY2NTcwMTdhOTQ5Zjg1",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:21",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Always Will Be",
-        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Always Will Be",
-      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Love Me Back to Life",
         "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 167617,
       "name": "Love Me Back to Life",
       "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Always Will Be",
+        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Always Will Be",
+      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "FOUGHT 4 LOVE",
-        "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
-      },
-      "artists": [
-        {
-          "name": "Vision of Leo",
-          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "FOUGHT 4 LOVE",
-      "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "FOUGHT 4 LOVE",
+        "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
+      },
+      "artists": [
+        {
+          "name": "Vision of Leo",
+          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "FOUGHT 4 LOVE",
+      "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1m14FZAOUPoSBjBxl6QHZ7"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 146254,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6p82wKhnbSRJ5UZhua9ENg"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 185510,
       "name": "Down (Remix)",
       "url": "https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1m14FZAOUPoSBjBxl6QHZ7"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 146254,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6p82wKhnbSRJ5UZhua9ENg"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -967,18 +967,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Don't Ever Let Me Go",
-        "url": "https://open.spotify.com/album/1uUGt8Msil3gO0zLN8bi3H"
+        "name": "Tell All My Friends",
+        "url": "https://open.spotify.com/album/76bktOoiugu5TovvBanrIZ"
       },
       "artists": [
         {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Sydney James",
+          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
         }
       ],
-      "duration_ms": 174626,
-      "name": "Don't Ever Let Me Go",
-      "url": "https://open.spotify.com/track/435gxdlRxZktZoVE1AmH6Q"
+      "duration_ms": 216146,
+      "name": "Tell All My Friends",
+      "url": "https://open.spotify.com/track/5MOEQnIL7s1FIA31n3gMqu"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Tell All My Friends",
-        "url": "https://open.spotify.com/album/76bktOoiugu5TovvBanrIZ"
+        "name": "Don't Ever Let Me Go",
+        "url": "https://open.spotify.com/album/1uUGt8Msil3gO0zLN8bi3H"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Sydney James",
-          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
         }
       ],
-      "duration_ms": 216146,
-      "name": "Tell All My Friends",
-      "url": "https://open.spotify.com/track/5MOEQnIL7s1FIA31n3gMqu"
+      "duration_ms": 174626,
+      "name": "Don't Ever Let Me Go",
+      "url": "https://open.spotify.com/track/435gxdlRxZktZoVE1AmH6Q"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Worship",
-        "url": "https://open.spotify.com/album/4XYdo6BWkLGi8Ib8FbS59L"
-      },
-      "artists": [
-        {
-          "name": "Jesus Loves Electro",
-          "url": "https://open.spotify.com/artist/6OP8EQDkqXBMT6CY9Rsngp"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 155887,
-      "name": "This Time",
-      "url": "https://open.spotify.com/track/4BMfCr1ltbxM1BTF7hyvnK"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF"
       },
@@ -1151,26 +1131,6 @@
       "duration_ms": 226281,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Unashamed",
-        "url": "https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey"
-      },
-      "artists": [
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        },
-        {
-          "name": "HGHTS",
-          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
-        }
-      ],
-      "duration_ms": 178928,
-      "name": "Unashamed",
-      "url": "https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1195,6 +1155,26 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/4XYdo6BWkLGi8Ib8FbS59L"
+      },
+      "artists": [
+        {
+          "name": "Jesus Loves Electro",
+          "url": "https://open.spotify.com/artist/6OP8EQDkqXBMT6CY9Rsngp"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 155887,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/4BMfCr1ltbxM1BTF7hyvnK"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 178587,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Unashamed",
+        "url": "https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey"
+      },
+      "artists": [
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        },
+        {
+          "name": "HGHTS",
+          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
+        }
+      ],
+      "duration_ms": 178928,
+      "name": "Unashamed",
+      "url": "https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Jireh (Reyer Remix)",
         "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "More Than Halfway",
         "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
       },
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Only Ever Always",
+        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "duration_ms": 179420,
+      "name": "Only Ever Always",
+      "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Step Into The Fight (Gregatron Remix)",
         "url": "https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Only Ever Always",
-        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
       "artists": [
         {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
         }
       ],
-      "duration_ms": 179420,
-      "name": "Only Ever Always",
-      "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1419,22 +1435,6 @@
       "duration_ms": 137990,
       "name": "Fake It - Warehouse Mix",
       "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "I Will Follow You (Live)",
+        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 231123,
+      "name": "I Will Follow You - Live",
+      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "The Same Jesus (Reyer Remix)",
         "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 181661,
       "name": "The Same Jesus - Reyer Remix",
       "url": "https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "I Will Follow You (Live)",
-        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 231123,
-      "name": "I Will Follow You - Live",
-      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "It's Coming",
+        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "duration_ms": 154305,
+      "name": "It's Coming",
+      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Glory Fills This Room",
         "url": "https://open.spotify.com/album/3hoJ8FJip2vvCaWqwd6NwW"
       },
@@ -1735,34 +1751,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "It's Coming",
-        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
       },
       "artists": [
         {
-          "name": "Jet Trouble",
-          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
         }
       ],
-      "duration_ms": 154305,
-      "name": "It's Coming",
-      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Be Kind",
-        "url": "https://open.spotify.com/album/2GbksNrWXt7UVM8fm9HVjV"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 218458,
-      "name": "Be Kind",
-      "url": "https://open.spotify.com/track/35Rv7CrSzt4McenP0Cb7Xi"
+      "duration_ms": 151168,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
     }
   ],
   "unique_name": "Christian Dance Party",

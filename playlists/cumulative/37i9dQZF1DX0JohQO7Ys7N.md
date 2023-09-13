@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Xenia Manasseh
 
-136 songs - 7 hr 38 min
+137 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Kama Wee](https://open.spotify.com/track/78wPzvhmbDQfFce0lmntj7) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Miss Kuria](https://open.spotify.com/artist/1S6ZwQApF4OfFpelqSepUi) | [Odes by Queens](https://open.spotify.com/album/3eTbgi6s1WKIjSfDq5TJPh) | 3:35 | 2021-12-28 | 2023-04-07 |
 | [Kesho](https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Kesho](https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK) | 2:37 | 2023-05-26 |  |
 | [Kesho Kutwa](https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Kesho Kutwa](https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt) | 4:12 | 2021-12-28 |  |
-| [Kimbiza](https://open.spotify.com/track/0mEGPS01c0t5RcGVleRoPS) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Kimbiza](https://open.spotify.com/album/1k7kX0dbWzM0RnZYxc9iyL) | 3:16 | 2022-09-22 |  |
+| [Kimbiza](https://open.spotify.com/track/5TJ1BbqzcX1XVtFvHR98mD) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Kimbiza](https://open.spotify.com/album/6ABgs6XJzcvk7uxlpF6TKs) | 3:14 | 2023-09-07 |  |
+| [Kimbiza](https://open.spotify.com/track/0mEGPS01c0t5RcGVleRoPS) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Kimbiza](https://open.spotify.com/album/1k7kX0dbWzM0RnZYxc9iyL) | 3:16 | 2022-09-22 | 2023-09-13 |
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 |  |
 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-03-24 | 2022-11-25 |
 | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 | 2022-08-18 | 2023-04-07 |

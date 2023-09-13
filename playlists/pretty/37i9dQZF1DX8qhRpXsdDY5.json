@@ -1,12 +1,12 @@
 {
   "description": "Classic Latin tunes to get you in the Christmas spirit. Cover: Jos\u00e9 Feliciano",
-  "num_followers": 195425,
+  "num_followers": 195417,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzYwZWFiM2EyMWNkYjMxNjI4YTQxN2E1MjNkZjdkODVlYmRlZTIz",
+  "snapshot_id": "MCxiYWQzNTk4Y2U3MjY5NzBmYWYwODI1YWQyMGIzN2RjOTA0NjE4NzY5",
   "tracks": [
     {
       "added_at": "2022-12-19 23:50:20",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 221302,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
         "name": "Love & Christmas",
         "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 217024,
       "name": "Viva La Navidad",
       "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 221302,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
     },
     {
       "added_at": "2022-12-19 23:50:20",

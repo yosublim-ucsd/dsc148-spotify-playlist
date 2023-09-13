@@ -7085,6 +7085,24 @@
     },
     {
       "album": {
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ"
+      },
+      "artists": [
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "Pilgrim",
+      "url": "https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG"
+    },
+    {
+      "album": {
         "name": "The Witness EP",
         "url": "https://open.spotify.com/album/5rCCueOoszcB562Okhz13f"
       },
@@ -7960,7 +7978,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 215541,
       "name": "Sinnerman (Henrik Schwarz Remix)",
       "url": "https://open.spotify.com/track/6R8Wd6RO7P2wQ0Lhdjx82e"

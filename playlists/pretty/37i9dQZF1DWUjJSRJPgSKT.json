@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 14367,
+  "num_followers": 14455,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTkzODY2YjgwMGU3NjY4OWM5MjEyMTY2ZmZjMDg0YjBlZDcyN2Vi",
+  "snapshot_id": "MCwzOWViZTBkNzliMTdkNThkOGVkMmI3MzY4MTkzMTc4YzczZjMyYWQ0",
   "tracks": [
     {
       "added_at": "2023-09-01 09:42:16",
@@ -43,6 +43,26 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
+        "name": "Study In Brown",
+        "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        }
+      ],
+      "duration_ms": 344293,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/0BNrLm5na6f7witHj8769E"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
         "name": "Bird And Diz (Expanded Edition)",
         "url": "https://open.spotify.com/album/28R4xxdsuM5J9k8LekSnrK"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 157306,
       "name": "Leap Frog - Take 11 / Take 6 / Master Take",
       "url": "https://open.spotify.com/track/7xZLIErdMaUV0GmtsRclS5"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
-        "name": "Study In Brown",
-        "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
-        }
-      ],
-      "duration_ms": 344293,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/0BNrLm5na6f7witHj8769E"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
+        "name": "Now He Sings, Now He Sobs",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 388160,
+      "name": "Matrix",
+      "url": "https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
         "name": "Clifford Brown And Max Roach",
         "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 245400,
       "name": "Daahoud",
       "url": "https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
-        "name": "Now He Sings, Now He Sobs",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 388160,
-      "name": "Matrix",
-      "url": "https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -747,6 +747,26 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
+        "name": "Know What I Mean?",
+        "url": "https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 306626,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/67oiijmAnyuUHAyM1k9vYW"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
         "name": "Now He Sings, Now He Sobs",
         "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 359933,
       "name": "The Bridge - Remastered",
       "url": "https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
-        "name": "Know What I Mean?",
-        "url": "https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 306626,
-      "name": "Toy",
-      "url": "https://open.spotify.com/track/67oiijmAnyuUHAyM1k9vYW"
     },
     {
       "added_at": "2023-09-01 09:42:16",

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-421 songs - 1 day 12 hr 43 min
+423 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Mellow](https://open.spotify.com/track/5dhQJgHeU8xa1OtEbPebVr) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Mellow](https://open.spotify.com/album/4uZzlvqWYyF8erhXX85QmB) | 7:56 | 2021-12-08 | 2022-05-22 |
 | [Memories](https://open.spotify.com/track/3wNi79QD5Jkz9yWFSGEeBl) | [LJ MASE](https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Memories](https://open.spotify.com/album/2eVjPnHAVEhHd4povh4dRg) | 5:06 | 2021-12-08 | 2022-11-17 |
 | [Midnight \- Original Mix](https://open.spotify.com/track/5jAAoKfKfENn8EfjqfItKX) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Midnight EP](https://open.spotify.com/album/0IO4rC04ohE3akbw7dQX8v) | 6:59 | 2022-05-03 |  |
+| [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 | 2023-09-08 |  |
 | [Mine To Love](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Azure EP](https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU) | 3:42 | 2023-03-03 |  |
 | [Moment](https://open.spotify.com/track/2Zk9i8ayiwYLZIEJemuhl9) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Moment](https://open.spotify.com/album/4zvb6dFdrfPFHcLGtMdCXr) | 3:12 | 2022-01-14 | 2022-02-22 |
 | [Moment In Time](https://open.spotify.com/track/0mqObq0LCWmM0P0zLQd1eh) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Moment In Time](https://open.spotify.com/album/29wquy11Iersljz5usyVA2) | 3:57 | 2021-12-08 |  |
@@ -295,12 +296,12 @@
 | [Remember](https://open.spotify.com/track/5pRH7tcR0X86sU1wAsY5fA) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Remember](https://open.spotify.com/album/12Qmk2p1qBQvqqwnvNb10K) | 5:02 | 2022-05-03 |  |
 | [Remember to Love \- Extended Mix](https://open.spotify.com/track/6cyzz6IwvfjbPiNreeMhZ0) | [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr), [Sattam](https://open.spotify.com/artist/6iyc6BGLOwF8ZZIfcaLVP7) | [Remember to Love](https://open.spotify.com/album/7yEq7FYgBKTzdGAkc6l45b) | 5:04 | 2021-12-08 | 2022-11-17 |
 | [Reminds Me Of Her](https://open.spotify.com/track/51m6hGfXZwpx9YBbcryUpD) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Reminds Me Of Her](https://open.spotify.com/album/3cpziZcx5ENSn60NopxwT0) | 6:25 | 2021-12-08 | 2023-07-02 |
-| [Renaissance](https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Renaissance](https://open.spotify.com/album/7wENbWzIAZEOmj2a7m4mlZ) | 7:39 | 2021-12-08 |  |
+| [Renaissance](https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Renaissance](https://open.spotify.com/album/7wENbWzIAZEOmj2a7m4mlZ) | 7:39 | 2021-12-08 | 2023-09-13 |
 | [Renaissance \- Manuel Riva Remix](https://open.spotify.com/track/6kiVi4iXhooHmaty1G5vV5) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Renaissance \(Manuel Riva Remix\)](https://open.spotify.com/album/0InymYk58sowWFJCdLDk1Q) | 3:46 | 2021-12-08 | 2023-01-06 |
 | [Resurface](https://open.spotify.com/track/4ztZ2DZsuwUbaeQdvpY78Z) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Resurface](https://open.spotify.com/album/3M73zMomIlYvJfsqoIPmOl) | 7:33 | 2021-12-08 | 2022-02-22 |
 | [Rewind](https://open.spotify.com/track/3KOdeL8kLUYBpM10XMZ2iy) | [Lorenzo De Blanck](https://open.spotify.com/artist/3Px9ffXH2SBEcJWr5fSojM) | [Rewind](https://open.spotify.com/album/387eFJ2wv7ctzaNg645oET) | 6:35 | 2021-12-08 | 2022-07-29 |
 | [Ride](https://open.spotify.com/track/00aNyosmX1zpR0TjJV0Dte) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Drown](https://open.spotify.com/album/4Y7YibFvq0L8ZJTgwgg0dH) | 7:15 | 2022-05-03 | 2023-01-06 |
-| [Rio Secreto](https://open.spotify.com/track/4kVs5d1P8daSnqzPEWoPZC) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Rio Secreto](https://open.spotify.com/album/4z5eQMzC2Z98HvWknjKbMs) | 6:14 | 2021-12-08 |  |
+| [Rio Secreto](https://open.spotify.com/track/4kVs5d1P8daSnqzPEWoPZC) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Rio Secreto](https://open.spotify.com/album/4z5eQMzC2Z98HvWknjKbMs) | 6:14 | 2021-12-08 | 2023-09-13 |
 | [Rise & Shine](https://open.spotify.com/track/7D6pcC9xM2HJl9A9XrHbYA) | [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Rise & Shine](https://open.spotify.com/album/6BjaQ5LvXt38L2gfwfBIbd) | 2:17 | 2021-12-08 | 2023-01-06 |
 | [Robots With Soul Part 1 \- Original Mix](https://open.spotify.com/track/6VR7ss1z27BJr67VrL4hC6) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 7:59 | 2021-12-08 | 2022-07-29 |
 | [Robots With Soul Part 2 \- Original Mix](https://open.spotify.com/track/5y6CnB9Q3WDQvVG5rwoYZ1) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 8:54 | 2021-12-08 | 2022-07-29 |
@@ -342,6 +343,7 @@
 | [Spectrum \- Original](https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV) | [Collective Machine](https://open.spotify.com/artist/0NV3zEAzzAFy1vf5BWGlGL) | [Spectrum EP](https://open.spotify.com/album/5I5VAP5dHV0ZRZdDRv6VXH) | 6:55 | 2021-12-08 | 2022-07-28 |
 | [Spring](https://open.spotify.com/track/1yD1YZMizn5MnINHhN4Hwr) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Spring](https://open.spotify.com/album/0xHQKa8pDmELqR2fOd3y31) | 4:22 | 2023-03-03 | 2023-06-22 |
 | [Spring Embers](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Spring Embers](https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU) | 3:32 | 2023-04-21 |  |
+| [Stay](https://open.spotify.com/track/5ippmCJ4ZQBow7qef2PK8I) | [Baril](https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot) | [For You, Forever](https://open.spotify.com/album/6VD0r8s4NhjszZzoZxcf6S) | 3:53 | 2023-09-08 |  |
 | [Stop That Man](https://open.spotify.com/track/4uQulCB1pHX0i3dppzZ1PQ) | [FootRocket](https://open.spotify.com/artist/7BPFKaQl9MDa4rmv9QZh5L) | [Stop That Man](https://open.spotify.com/album/2XFXFozuoCAtegfasbZezP) | 2:50 | 2021-12-08 | 2022-02-22 |
 | [Storyteller](https://open.spotify.com/track/2hWkEkHNeR1xCTbNKYWX6D) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm) | [Storyteller](https://open.spotify.com/album/3A2GoNrK3bQVtZTtFFq3OY) | 7:05 | 2023-01-06 |  |
 | [Sumatra \- Lstn Remix](https://open.spotify.com/track/23jieIC481GBJSSisCISOj) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Sumatra \(Lstn Remix\)](https://open.spotify.com/album/0VDPMeq01iUSHoUOm5CGef) | 3:21 | 2021-12-08 | 2022-02-22 |

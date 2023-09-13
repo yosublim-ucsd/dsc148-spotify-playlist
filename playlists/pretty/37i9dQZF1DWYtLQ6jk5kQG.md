@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 
 > Celebramos las voces extraordinarias del siglo XX, recordando a Diego Verdaguer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,177 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,383 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 | 30 | [Dueño de Nada](https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [La Historia del Puma](https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY) | 5:13 |
 | 31 | [Al Final](https://open.spotify.com/track/3yeT1oIBRGuEhOb3OCvL2z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 3:40 |
 | 32 | [El Día Que Me Quieras](https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 4:01 |
-| 33 | [Pequena y Fragil](https://open.spotify.com/track/66cURA7Ngk7rkrQ5hI46kL) | [Sabu](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [15 Originales](https://open.spotify.com/album/3oWuzkgyLf8EjSfTAt5Heg) | 4:07 |
+| 33 | [Pequena y Fragil](https://open.spotify.com/track/66cURA7Ngk7rkrQ5hI46kL) | [Sabú](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [15 Originales](https://open.spotify.com/album/3oWuzkgyLf8EjSfTAt5Heg) | 4:07 |
 | 34 | [Uno de Tantos \(Uno Dei Tanti\)](https://open.spotify.com/track/0pfZCtCDHwLqKShDp4uDsZ) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [15 Exitos De Enrique Guzman Vol\. ll](https://open.spotify.com/album/5Y0jl26HDiRVf7G4uBJV8y) | 3:40 |
 | 35 | [Bésame Mucho](https://open.spotify.com/track/2neFW5nfgUrRxonX7oW8Fr) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Pedro Vargas En El Carnegie Hall](https://open.spotify.com/album/5jvBrYHrtUggTCPNMdtvnt) | 2:49 |
 | 36 | [Amor de Mis Amores](https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Cada Noche Un Amor](https://open.spotify.com/album/3mqlr428rzRpER555YbBJN) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 | 74 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 |
 | 75 | [Te Voy a Enseñar a Querer](https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:16 |
 
-Snapshot ID: `MCw3MzA5ZGVhMmMwNzY5YmE3NzMzYjhhOWVmZDIyNjIwNzI4Nzc1MjFl`
+Snapshot ID: `MCw0Yzg5OGQwNTJhZTljNTFjMGYyMzY5MDZmYWU0MjU3MTAwYzQ2ODkx`

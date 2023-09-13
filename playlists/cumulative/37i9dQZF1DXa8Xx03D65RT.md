@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-686 songs - 1 day 4 hr 50 min
+687 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Aurskog](https://open.spotify.com/track/4Xy7g0dikhYyNhdHyzBBr6) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Aurskog](https://open.spotify.com/album/1NdMcghLOelX6u0Mz8smaG) | 2:05 | 2022-05-27 |  |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2022-05-27 | 2022-07-21 |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2022-05-27 | 2022-07-21 |
+| [Avignon](https://open.spotify.com/track/5TAVI2qJFJMSsfR3qB5Bub) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Avignon](https://open.spotify.com/album/6y7OWImxz4xSyspxzKsLvl) | 2:43 | 2023-09-11 |  |
 | [Awake](https://open.spotify.com/track/6V2eoMA4cXsnYHfi058ZbX) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Awake](https://open.spotify.com/album/5ps7k2SYP9UhkCtHjscR28) | 2:29 | 2023-08-21 |  |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-05-27 | 2023-03-14 |
 | [Balance](https://open.spotify.com/track/1HVU6DOb7GB4UPpf7TgfVL) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Balance](https://open.spotify.com/album/6zuVowgH43GihK6JnkLxKe) | 2:26 | 2022-05-27 | 2022-09-24 |
@@ -362,7 +363,7 @@
 | [Marée](https://open.spotify.com/track/30OJqSJ1sxV2E8eWt9ONQD) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Marée](https://open.spotify.com/album/22dbfN4ag9uCzk6ic7TH8V) | 3:02 | 2022-05-27 | 2022-09-24 |
 | [mathilde](https://open.spotify.com/track/5iZp32nOmq9h1vIMVtjkAR) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [mathilde](https://open.spotify.com/album/2s1gEWS04b7A2SmAwO5ijP) | 2:18 | 2023-05-09 |  |
 | [Maybe Next Year](https://open.spotify.com/track/4v3KzDgX0tZtzUnrZEAszB) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Maybe Next Year](https://open.spotify.com/album/5RHFc1SZP0TqZLWYsY5hIe) | 2:59 | 2023-05-19 |  |
-| [Meditation: I\. Promise](https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Karen LeFrak: Interlude, Vol\. 3 – Gratitude](https://open.spotify.com/album/17pzfCMTtp0AnuccfsoUvy) | 2:00 | 2022-05-27 |  |
+| [Meditation: I\. Promise](https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Karen LeFrak: Interlude, Vol\. 3 – Gratitude](https://open.spotify.com/album/17pzfCMTtp0AnuccfsoUvy) | 2:00 | 2022-05-27 | 2023-09-13 |
 | [Memoir](https://open.spotify.com/track/6VVNMAwMNKSUcHOsvXsi1d) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Memoir](https://open.spotify.com/album/3JBl5z5I7CHQeVh1JV62RB) | 2:27 | 2022-05-27 | 2022-09-24 |
 | [Memories](https://open.spotify.com/track/14ThDvcp8xYaSj9LFlDnJk) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Memories](https://open.spotify.com/album/4ss6KnP645o4i24DLltoR7) | 2:49 | 2022-05-27 | 2022-07-21 |
 | [Memories In Red](https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Memories In Red](https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y) | 2:15 | 2022-05-27 | 2023-09-08 |

@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53802,
+  "num_followers": 53799,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY4YTFjMmU3OTA5ZmY2ZWVjYzJiZGEwNjM1NzJhYmIyZDgzODg2",
+  "snapshot_id": "MCwwNzBhNDgxZTFiZDJiMzNjYWQwOTk5N2Q5MmI4ZjA2NjNkN2Q2Zjg0",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -707,6 +707,26 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Something Has To Break (feat. Karen Clark Sheard)",
+        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 347752,
+      "name": "Something Has To Break (feat. Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Rock Of Ages (Live)",
         "url": "https://open.spotify.com/album/2ZVALp4oOugoRpRjLLAV7S"
       },
@@ -739,26 +759,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Something Has To Break (feat. Karen Clark Sheard)",
-        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 347752,
-      "name": "Something Has To Break (feat. Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Trin-i-tee 5:7",
         "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 308000,
       "name": "Mary Don't You Weep",
       "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Already Won - Live",
-      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -807,6 +791,22 @@
       "duration_ms": 392639,
       "name": "The Blessing (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Already Won - Live",
+      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live... This Is Your House",
-        "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
-      },
-      "artists": [
-        {
-          "name": "The Brooklyn Tabernacle Choir",
-          "url": "https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs"
-        },
-        {
-          "name": "Robin Giles",
-          "url": "https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5"
-        }
-      ],
-      "duration_ms": 380866,
-      "name": "Jesus I Love You (Live)",
-      "url": "https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 130214,
       "name": "Raised to Life (feat. The Walls Group)",
       "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Live... This Is Your House",
+        "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
+      },
+      "artists": [
+        {
+          "name": "The Brooklyn Tabernacle Choir",
+          "url": "https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs"
+        },
+        {
+          "name": "Robin Giles",
+          "url": "https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5"
+        }
+      ],
+      "duration_ms": 380866,
+      "name": "Jesus I Love You (Live)",
+      "url": "https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "He Got Up",
+        "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
+      },
+      "artists": [
+        {
+          "name": "Deacon D.A.S.",
+          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
+        },
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "He Got Up",
+      "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "He Got Up",
-        "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
-      },
-      "artists": [
-        {
-          "name": "Deacon D.A.S.",
-          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
-        },
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "He Got Up",
-      "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Alone In His Presence",
         "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 277533,
       "name": "Blood Medley",
       "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Trip Down Memory Lane",
-        "url": "https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h"
-      },
-      "artists": [
-        {
-          "name": "James Hall Worship & Praise",
-          "url": "https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB"
-        }
-      ],
-      "duration_ms": 443466,
-      "name": "The Blood",
-      "url": "https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Live in Concert",
         "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 573933,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Trip Down Memory Lane",
+        "url": "https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h"
+      },
+      "artists": [
+        {
+          "name": "James Hall Worship & Praise",
+          "url": "https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB"
+        }
+      ],
+      "duration_ms": 443466,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF"
     },
     {
       "added_at": "2023-04-09 08:49:39",

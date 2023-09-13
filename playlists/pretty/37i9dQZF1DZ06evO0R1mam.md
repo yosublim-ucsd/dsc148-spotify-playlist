@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,337 likes - 46 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,354 likes - 46 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 12 | [Bless The Lord \(Son Of Man\)](https://open.spotify.com/track/1iAn7QNrwCvHndzxU84CoR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:31 |
 | 13 | [My Worship \- Live](https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:40 |
 | 14 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 |
-| 15 | [Immanuel](https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 4:43 |
-| 16 | [Everything Part I, Part II / Bow Before the King \- Live](https://open.spotify.com/track/3RGTo92TDaI3t6HKLTD4pQ) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 4:22 |
+| 15 | [Everything Part I, Part II / Bow Before the King \- Live](https://open.spotify.com/track/3RGTo92TDaI3t6HKLTD4pQ) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 4:22 |
+| 16 | [Immanuel](https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 4:43 |
 | 17 | [Only One Night Tho \- Live](https://open.spotify.com/track/69A3RyQQwoHMkNgqxBtSMG) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 10:25 |
 | 18 | [Most High God \(Lude\)](https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 1:41 |
 | 19 | [Anyhow \- Radio Edit](https://open.spotify.com/track/4YYMP4WMs75a36aHeMOBEX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Anyhow](https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6) | 3:58 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 45 | [Stand Out](https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:42 |
 | 46 | [I Want More \- Live](https://open.spotify.com/track/7wIkV5aBDfYDgmhr7x2IrY) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Sharon Willingham](https://open.spotify.com/artist/7CmRu1RssDhfWHaW9YS0o1) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 7:42 |
 
-Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDA0Y2UyYjcwYmQyMDk5N2FlYzE5MzgwZTljNTVlYWIyNQ==`
+Snapshot ID: `MjgyNDIwMzcsMDAwMDAwMDAyMTJjYzkzMDQ1MjQwMDc2OGFkYWVhYTZjMDEzNTUxZQ==`

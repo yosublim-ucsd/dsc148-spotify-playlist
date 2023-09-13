@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Elvis Crespo & Miriam Cruz",
-  "num_followers": 386472,
+  "num_followers": 386518,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDk1ZDMzNDM4MGJlNzIwMjk4ZGM5OWYzZDFlZGJlZDQ2Y2M3YTVm",
+  "snapshot_id": "MCxkOTUxNDllYWQ1NmZmYjg4ZDcyYWE5MTNiNDBiOGZlNjYwMmJkOTQy",
   "tracks": [
     {
       "added_at": "2023-09-08 20:58:23",
@@ -219,38 +219,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
-        "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra y 440",
-          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
-        }
-      ],
-      "duration_ms": 257265,
-      "name": "Me Enamoro de Ella",
-      "url": "https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
-        "name": "Ni Es Lo Mismo Ni Es Igual",
-        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "El Ni\u00e1gara en Bicicleta",
-      "url": "https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "No Es Normal",
         "url": "https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163"
       },
@@ -271,6 +239,38 @@
       "duration_ms": 181894,
       "name": "No Es Normal",
       "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Ni Es Lo Mismo Ni Es Igual",
+        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "El Ni\u00e1gara en Bicicleta",
+      "url": "https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
+        "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra y 440",
+          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+        }
+      ],
+      "duration_ms": 257265,
+      "name": "Me Enamoro de Ella",
+      "url": "https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Sandy & Papo MC",
-        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
-      },
-      "artists": [
-        {
-          "name": "Sandy & Papo",
-          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "La Hora De Bailar",
-      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
         "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 233720,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/1fdvF8aq4sagcs8eabTjDR"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Sandy & Papo MC",
+        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
+      },
+      "artists": [
+        {
+          "name": "Sandy & Papo",
+          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
+        }
+      ],
+      "duration_ms": 290226,
+      "name": "La Hora De Bailar",
+      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Mi Ni\u00f1a Bonita (Remastered 2020 / 10 Anniversary)",
-        "url": "https://open.spotify.com/album/1jvT4Qd5XX0D3VEEX9IAam"
-      },
-      "artists": [
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "Ni\u00f1a Bonita - Remastered 2020",
-      "url": "https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "Mucho Flow",
         "url": "https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+        "name": "Mi Ni\u00f1a Bonita (Remastered 2020 / 10 Anniversary)",
+        "url": "https://open.spotify.com/album/1jvT4Qd5XX0D3VEEX9IAam"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
         }
       ],
-      "duration_ms": 249813,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
+      "duration_ms": 215960,
+      "name": "Ni\u00f1a Bonita - Remastered 2020",
+      "url": "https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -671,6 +655,22 @@
       "duration_ms": 205693,
       "name": "Como Yo",
       "url": "https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Juntos Con Sus \u00c9xitos",
-        "url": "https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd"
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
       },
       "artists": [
         {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
         }
       ],
-      "duration_ms": 290800,
-      "name": "Ya Viene el Lunes",
-      "url": "https://open.spotify.com/track/1v1P2PoDr2JQEx2ruuS8yG"
+      "duration_ms": 163349,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1231,6 +1231,22 @@
       "duration_ms": 211098,
       "name": "Sin Rumbo",
       "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Juntos Con Sus \u00c9xitos",
+        "url": "https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 290800,
+      "name": "Ya Viene el Lunes",
+      "url": "https://open.spotify.com/track/1v1P2PoDr2JQEx2ruuS8yG"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1299,38 +1315,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 163349,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "Trancazos Bailables, Vol. 4",
         "url": "https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 378533,
       "name": "Frutos Del Carnaval",
       "url": "https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Back In Town",
+        "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
+      },
+      "artists": [
+        {
+          "name": "Mala Fe",
+          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Jilila Kimbolo",
+      "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Back In Town",
-        "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
       },
       "artists": [
         {
-          "name": "Mala Fe",
-          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 258746,
-      "name": "Jilila Kimbolo",
-      "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Como Los Rayos Del Sol",
-        "url": "https://open.spotify.com/album/7460LMvayest0YKVf9u052"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Como Los Rayos Del Sol",
-      "url": "https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 164250,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Como Los Rayos Del Sol",
+        "url": "https://open.spotify.com/album/7460LMvayest0YKVf9u052"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Como Los Rayos Del Sol",
+      "url": "https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1667,8 +1667,8 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Lo Mejor de Lo Mejor - Tropical",
-        "url": "https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i"
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
       "artists": [
         {
@@ -1676,9 +1676,9 @@
           "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 286026,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
+      "duration_ms": 302213,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
     }
   ],
   "unique_name": "Merengue Mania",

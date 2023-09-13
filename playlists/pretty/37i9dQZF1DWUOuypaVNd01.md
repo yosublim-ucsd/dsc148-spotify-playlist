@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,624 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,675 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 45 | [Chavão](https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok) | [Ney Rodrí](https://open.spotify.com/artist/10SGtgEezop7sV6Le4UoLf), [DANDARO$](https://open.spotify.com/artist/2cJn9KL6C7AkdgsCV7XTCR) | [Chavão](https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN) | 1:58 |
 | 46 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
 | 47 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
-| 48 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
-| 49 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
+| 48 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
+| 49 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 50 | [Uma Fase](https://open.spotify.com/track/6xkKyZinrWXX4FVUuuBeSD) | [Afree](https://open.spotify.com/artist/218HbunxGqD47MTClAmg6s), [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl) | [Uma Fase](https://open.spotify.com/album/1B56BdIqTZvCMk0UOhkDbY) | 3:18 |
 
-Snapshot ID: `MCwxNDE1ODU3MTFlYjg1OGE1NzU4YTgxOTQ3MDAyOWQzYjkyNzIyZTdh`
+Snapshot ID: `MCxkOTI5ZDVmMTEzMTBjNjYxYzllZTU1NzQxZDYxMzdkZDcwZGU4YThh`

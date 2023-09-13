@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1YOtPUCxcAM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1YOtPUCxcAM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1YOtPUCxcAM)
 
-### [I Love My '90s Funk](https://open.spotify.com/playlist/37i9dQZF1DX1YOtPUCxcAM)
+### [I Love My 90s Funk](https://open.spotify.com/playlist/37i9dQZF1DX1YOtPUCxcAM)
 
-> The best and finest '90s Funk\. Cover: The Brand New Heavies.
+> The best and finest 90s Funk\. Cover: The Brand New Heavies.
 
 102 songs - 8 hr 19 min
 

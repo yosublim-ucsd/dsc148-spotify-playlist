@@ -1,12 +1,12 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 63859,
+  "num_followers": 64057,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODliOGUyZWZlYjMwNWE0NTczMjRjMzZlMDQwMDJjMjdjYjBhYWI0",
+  "snapshot_id": "MCw0Yjk0MzgwNjNlZjkzM2M3N2Q1YmIwNDgxYjkyZTdmMmY0ZmY0MTQy",
   "tracks": [
     {
       "added_at": "2023-02-18 04:59:55",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "O Brother, Where Art Thou? (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "I'll Fly Away",
-      "url": "https://open.spotify.com/track/4rJtUMlnhJzlzlnxyoc3tb"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 393360,
       "name": "Another In The Fire - Live",
       "url": "https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "O Brother, Where Art Thou? (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/4rJtUMlnhJzlzlnxyoc3tb"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Yours Alone",
-        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 207487,
-      "name": "Nothing but the Blood of Jesus",
-      "url": "https://open.spotify.com/track/7tNCnbltD6bemXgTuh8JPk"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "The Longing EP No. 3",
         "url": "https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 355320,
       "name": "Called Me Higher",
       "url": "https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Yours Alone",
+        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 207487,
+      "name": "Nothing but the Blood of Jesus",
+      "url": "https://open.spotify.com/track/7tNCnbltD6bemXgTuh8JPk"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Come Thou Fount Of Every Blessing",
-      "url": "https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/2ZlyhJR1Y2Ik5cvkw6nx8I"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 327000,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/5B58hgrfK6gaN5FxNyUeSJ"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Come Thou Fount Of Every Blessing",
+      "url": "https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "There Is a Cloud",
         "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Starlight (Live)",
         "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "It Is Well With My Soul",
-      "url": "https://open.spotify.com/track/3VBqIpJOTtauueKPLl20wn"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Hymns, Vol. 1",
         "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 283986,
       "name": "The House Of God, Forever",
       "url": "https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "It Is Well With My Soul",
+      "url": "https://open.spotify.com/track/3VBqIpJOTtauueKPLl20wn"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Age to Age",
-        "url": "https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        },
-        {
-          "name": "Moriah Hazeltine",
-          "url": "https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR"
-        }
-      ],
-      "duration_ms": 282771,
-      "name": "There Came a Light",
-      "url": "https://open.spotify.com/track/4qBzmRgakEiYxjLBCFE6Mr"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi"
       },
@@ -1507,38 +1487,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Praise 8 - As The Deer",
-        "url": "https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG"
+        "name": "Age to Age",
+        "url": "https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj"
       },
       "artists": [
         {
-          "name": "Maranatha! Music",
-          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "As The Deer",
-      "url": "https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "The Beauty Between",
-        "url": "https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
         },
         {
-          "name": "Braille",
-          "url": "https://open.spotify.com/artist/6RYTz1tFNDF2qP0mwqEwDO"
+          "name": "Moriah Hazeltine",
+          "url": "https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR"
         }
       ],
-      "duration_ms": 282160,
-      "name": "Safe Retreat (feat. Braille)",
-      "url": "https://open.spotify.com/track/6ygVhMeWmK6uW7IPQKdrnq"
+      "duration_ms": 282771,
+      "name": "There Came a Light",
+      "url": "https://open.spotify.com/track/4qBzmRgakEiYxjLBCFE6Mr"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1563,6 +1527,26 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "The Beauty Between",
+        "url": "https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        },
+        {
+          "name": "Braille",
+          "url": "https://open.spotify.com/artist/6RYTz1tFNDF2qP0mwqEwDO"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "Safe Retreat (feat. Braille)",
+      "url": "https://open.spotify.com/track/6ygVhMeWmK6uW7IPQKdrnq"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "The Undoing",
         "url": "https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 244479,
       "name": "Cecie's Lullaby",
       "url": "https://open.spotify.com/track/4swc1KilG2ZCsF26hvz3Cq"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Praise 8 - As The Deer",
+        "url": "https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Music",
+          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "As The Deer",
+      "url": "https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Fire and Stone",
-        "url": "https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 264480,
-      "name": "Far Kingdom",
-      "url": "https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Even So Come: A Worship Album",
         "url": "https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 318566,
       "name": "You Are My All In All",
       "url": "https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Fire and Stone",
+        "url": "https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 264480,
+      "name": "Far Kingdom",
+      "url": "https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v"
     },
     {
       "added_at": "2023-02-18 04:59:55",

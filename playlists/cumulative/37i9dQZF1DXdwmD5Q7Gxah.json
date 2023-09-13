@@ -3337,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "album": {
         "name": "Back On 74",
         "url": "https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s"
       },
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca"
@@ -19113,6 +19131,24 @@
     },
     {
       "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+    },
+    {
+      "album": {
         "name": "Hard Times / Bad Trips",
         "url": "https://open.spotify.com/album/1FVfYBlG0W1RDyUReije3t"
       },
@@ -20702,6 +20738,24 @@
       "duration_ms": 279066,
       "name": "It's Good To Be In Love",
       "url": "https://open.spotify.com/track/7tOLOdepEnR3yZidN6tdnT"
+    },
+    {
+      "album": {
+        "name": "It's In My Head",
+        "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181792,
+      "name": "It's In My Head",
+      "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
     },
     {
       "album": {
@@ -28408,7 +28462,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 415969,
       "name": "Older",
       "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
@@ -41624,7 +41678,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 182778,
       "name": "Valley Ghoul",
       "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"

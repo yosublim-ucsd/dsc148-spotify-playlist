@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 
 > This is Slipknot\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,592 likes - 47 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,297 likes - 47 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 | 46 | [All Hope Is Gone](https://open.spotify.com/track/431a6o9W8aYTQWNGmdgDm0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:44 |
 | 47 | [Death March](https://open.spotify.com/track/1LeHl5s8Bep4Ngl238B9Cm) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Adderall](https://open.spotify.com/album/0E3OlFC9aoCO37szpGrqfH) | 1:04 |
 
-Snapshot ID: `MjgyMzkwNzgsMDAwMDAwMDA1YmE0ZTU4NDI1YmI1MmYxZmYwOWE3YmYwZjJjODg3Yw==`
+Snapshot ID: `MjgyNDIwMzcsMDAwMDAwMDBkOGM2YWI0MTk3Njc4ZTkxMjVjZWE5MmQwY2I0NzI5ZA==`

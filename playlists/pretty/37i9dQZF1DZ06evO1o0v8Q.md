@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,009 likes - 35 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,067 likes - 35 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 7 | [Drop](https://open.spotify.com/track/2RUlE7rP0oKPQE5fI6nQMk) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 1:36 |
 | 8 | [I Don't Wanna Be Blind](https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:04 |
 | 9 | [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 |
-| 10 | [The Things You Do](https://open.spotify.com/track/7oSetY84ZklreUXX4eFdP0) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 1:03 |
-| 11 | [7](https://open.spotify.com/track/6VHhnEVCYvxlQQr5kbWd5i) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 1:37 |
+| 10 | [7](https://open.spotify.com/track/6VHhnEVCYvxlQQr5kbWd5i) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 1:37 |
+| 11 | [The Things You Do](https://open.spotify.com/track/7oSetY84ZklreUXX4eFdP0) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 1:03 |
 | 12 | [Big Smile](https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:29 |
 | 13 | [UNDERWATER BOI](https://open.spotify.com/track/4pV11quzVm52tULYj6ITD2) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 3:04 |
 | 14 | [Gravity](https://open.spotify.com/track/47BhgqJy3oRTGzjNTgf3hq) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 3:10 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 20 | [High Pressure](https://open.spotify.com/track/6chFS0M9e67gNlHY11wnDm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 |
 | 21 | [ENDLESS](https://open.spotify.com/track/6yzMX2L7bjFbklJPfBIO3o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 1:58 |
 | 22 | [Can't Deny It](https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:44 |
-| 23 | [Better Way](https://open.spotify.com/track/0AfcDu9FosOBh8HtoEVxHE) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:31 |
+| 23 | [Pushing Me Away](https://open.spotify.com/track/2lko49bKOuj6hsh7byOXIz) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:12 |
 | 24 | [Moon](https://open.spotify.com/track/1r1MOC7jMhvTua0TV8FpgO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:53 |
 | 25 | [Harder On You](https://open.spotify.com/track/6EI3gG0eNw2Cniu6RZOUvU) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Move Thru Me](https://open.spotify.com/album/6UOOi8etpSCbXlWHtpDIgL) | 1:04 |
 | 26 | [Love Lasso](https://open.spotify.com/track/0jN0nHXkh1hJt3RlN2tgVk) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 1:48 |
-| 27 | [Pushing Me Away](https://open.spotify.com/track/2lko49bKOuj6hsh7byOXIz) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:12 |
+| 27 | [Better Way](https://open.spotify.com/track/0AfcDu9FosOBh8HtoEVxHE) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:31 |
 | 28 | [New Rules](https://open.spotify.com/track/41qY7F57ob5JSwboHiPoBk) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 2:36 |
 | 29 | [Fuck Me Blind](https://open.spotify.com/track/7G4MQxc8gZXUKlErhIDgxR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Move Thru Me](https://open.spotify.com/album/6UOOi8etpSCbXlWHtpDIgL) | 2:22 |
 | 30 | [Yes I Need My Generator](https://open.spotify.com/track/4vFicRRBJFCC5UofT5sWAT) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Mall Grab](https://open.spotify.com/artist/6zOjgckldodS8u8cZoY3cc) | [Share A View](https://open.spotify.com/album/5pxz1toBQ4J9WIkaXHJprU) | 5:08 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 34 | [Heavy Hand](https://open.spotify.com/track/5crhehni76VWBAk1h5KRtE) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 2:55 |
 | 35 | [Pressure to Succeed](https://open.spotify.com/track/6lgwU51adM1hZwgFWLF2nh) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 3:13 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDAyMTA4MGFhYjJhZGZiMTRkMjg0ZjM1ZmQxMjQ2YzgxMg==`
+Snapshot ID: `MjgyNDIwMzcsMDAwMDAwMDA4NWUwNGQ5MWQ0N2UxZWMzZjQ1MDljODJlYWU0MzBmMw==`

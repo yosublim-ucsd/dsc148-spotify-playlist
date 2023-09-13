@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 
 > Form a circle and hold hands, it's time to Dabke! Cover: Mohammad Assaf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,846 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,891 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 23 | [Ya Tarek](https://open.spotify.com/track/1jlzJZAMqbHOVYyOtWN8hQ) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [Ya Tarek](https://open.spotify.com/album/2x58mqnuGWYA5Cl4NNIwZy) | 3:26 |
 | 24 | [E7na Bleil Lyerheb Gomra Mix](https://open.spotify.com/track/2PwHprShITN9kAmuDG9Jco) | [Sara Najem](https://open.spotify.com/artist/2uwfRi0iENQZ0ewGhcRK51) | [E7na Bleil Lyerheb Gomra Mix](https://open.spotify.com/album/4G6g8g8vdXgbC0tLRj7nU4) | 3:25 |
 | 25 | [Ya Kel El Deni](https://open.spotify.com/track/5UrUxKn9CvUDp3wlenYAzk) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Chou Btaamel Bel Nas](https://open.spotify.com/album/0IiamaJrO8K6nDoX188mLD) | 4:08 |
-| 26 | [Dabke Wdalouna](https://open.spotify.com/track/5XyULdxiS7pNVX8LR4amiv) | [Walid Sarkiss](https://open.spotify.com/artist/1Q9U9i2Hwtub6Ug9ITHlVS) | [Eid El Arz](https://open.spotify.com/album/4L4fxwLWcK7pyGIyyCPE1X) | 9:28 |
-| 27 | [Wateeni](https://open.spotify.com/track/2Rfc5rGytAEfFXwVgFxs2A) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Wateeni](https://open.spotify.com/album/5x0Un1ohxzt2DnKXNqE7Oe) | 3:42 |
+| 26 | [Wateeni](https://open.spotify.com/track/2Rfc5rGytAEfFXwVgFxs2A) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Wateeni](https://open.spotify.com/album/5x0Un1ohxzt2DnKXNqE7Oe) | 3:42 |
+| 27 | [Dabke Wdalouna](https://open.spotify.com/track/5XyULdxiS7pNVX8LR4amiv) | [Walid Sarkiss](https://open.spotify.com/artist/1Q9U9i2Hwtub6Ug9ITHlVS) | [Eid El Arz](https://open.spotify.com/album/4L4fxwLWcK7pyGIyyCPE1X) | 9:28 |
 | 28 | [Dalaa Dalouna](https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Dalaa Dalouna](https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX) | 3:19 |
 | 29 | [Malyoun Bhebik Malyoun](https://open.spotify.com/track/1vBGLgXsG7jd7niTMSmdw9) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Malyoun Bhebik Malyoun](https://open.spotify.com/album/2OKOEoTkaYc1i2y5SUPXlI) | 4:18 |
 | 30 | [Sawt Rbaba](https://open.spotify.com/track/099SGdbqStuQ6xRE4pOe4J) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 5:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 59 | [Yekhreb Baytak](https://open.spotify.com/track/4lwBgydZb1EqpHccZgBuXU) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [Yekhreb Baytak](https://open.spotify.com/album/6Sjd3uTgHYAJBJEG429fft) | 3:49 |
 | 60 | [Halali Ya Mali \- original](https://open.spotify.com/track/2SqOPpcVQbWYTZpTbWMYQw) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL), [Tamim Asadi](https://open.spotify.com/artist/3ESHX6bPM5q2x8McjsZEMG) | [Afrah](https://open.spotify.com/album/5COJbBMySaSZseXXFFq6mh) | 6:55 |
 
-Snapshot ID: `MCxkYzY5Mzk3ZjkxNjY2N2JiZDM4MTlkMmY3ODQ3NmRiNmMyOTU2MTNi`
+Snapshot ID: `MCw4NjFjYTNkNTI2NzE5ZjJlZmMyY2QyNWQyYThhZGM2ZGVhN2E1OGUx`

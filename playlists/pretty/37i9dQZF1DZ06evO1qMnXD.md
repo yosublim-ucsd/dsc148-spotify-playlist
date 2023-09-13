@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 
 > This is Mitski\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,548 likes - 42 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,969 likes - 42 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 | 17 | [Heaven](https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 3:44 |
 | 18 | [Once More to See You](https://open.spotify.com/track/3NE5nGm06kB8QQbQqJaOke) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:00 |
 | 19 | [Why Didn't You Stop Me?](https://open.spotify.com/track/2nifujUVU1XyhTSHI2kQ8g) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:21 |
-| 20 | [Jobless Monday](https://open.spotify.com/track/3ngZf8e29zHlW4gNMQb6IR) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:06 |
+| 20 | [Last Words of a Shooting Star](https://open.spotify.com/track/7gn3NdQez9Pwbqak4gspz5) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:44 |
 | 21 | [Class of 2013](https://open.spotify.com/track/39bPZbBmJfBgNJUtbOua0D) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 1:49 |
 | 22 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
 | 23 | [Pink in the Night](https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:16 |
-| 24 | [Last Words of a Shooting Star](https://open.spotify.com/track/7gn3NdQez9Pwbqak4gspz5) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:44 |
+| 24 | [Jobless Monday](https://open.spotify.com/track/3ngZf8e29zHlW4gNMQb6IR) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:06 |
 | 25 | [Real Men](https://open.spotify.com/track/1BkQ2tVHP4VATMyuu7KU8Z) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:41 |
 | 26 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 |
 | 27 | [Crack Baby](https://open.spotify.com/track/0I0MPzbmzsjpttpkqWgNyx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 4:52 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 | 41 | [Heat Lightning](https://open.spotify.com/track/01vuMD0IeeHeQTSUk0f7iK) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:51 |
 | 42 | [Valentine, Texas](https://open.spotify.com/track/21r4kosHuDosz3AIdXqUGk) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:35 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDA5YjZkZWNmOTNlNWFlZmQwZjYwZTdjMWU5N2I3MTNmNA==`
+Snapshot ID: `MjgyNDIwMzcsMDAwMDAwMDA3MGZkYjdkNDdlYjg3MTJlMTJhZTk4ZTE0YzIxNDc1Yg==`

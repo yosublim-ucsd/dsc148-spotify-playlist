@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 40535,
+  "num_followers": 40555,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDNlZGU4OTI2ZTkzNzZkYjQ2MzkxMmY0ZTlhYTU4NjRjNTA1OTBm",
+  "snapshot_id": "MCwzNmQyZTBlZDkxOWIyMGY5ZGQxZDg4ZGNhMDdkYzI4NWY2ZGNiMTEx",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -247,18 +247,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 204014,
-      "name": "Hot Rod",
-      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
+      "duration_ms": 286773,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -295,18 +295,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 286773,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm"
+      "duration_ms": 204014,
+      "name": "Hot Rod",
+      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 153871,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 153871,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fallingwater",
-      "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 366066,
       "name": "Posthumous Forgiveness",
       "url": "https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fallingwater",
+      "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
     },
     {
       "added_at": "2022-09-16 04:53:36",

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 | 2021-04-30 | 2023-08-20 |
+| [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 | 2021-04-30 |  |
 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 | 2021-10-08 |  |
 | [A House Made of You](https://open.spotify.com/track/69ZO6imfpWPajcjFeU5kNI) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Happy Before We Get Old](https://open.spotify.com/album/0ZROSmXfCd7Yf0hNTLmlEs) | 3:24 | 2021-07-30 |  |
 | [A House Made of You](https://open.spotify.com/track/6j8pohtxOHlzWiFoDrLuvm) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [A House Made of You](https://open.spotify.com/album/1lbYoxRtqskeEYucArTbTj) | 3:24 | 2021-07-30 | 2022-07-29 |
@@ -113,7 +113,7 @@
 | [Time Is Cold \(Coffee House Version\)](https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Time Is Cold \(Coffee House Version\)](https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL) | 3:08 | 2021-04-30 | 2022-12-06 |
 | [Two Story House](https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ) | 3:19 | 2021-08-06 |  |
 | [Wait Up For Me](https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:45 | 2021-04-30 |  |
-| [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 | 2021-04-30 |  |
+| [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 | 2021-04-30 | 2023-09-13 |
 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 | 2022-08-26 | 2022-08-30 |
 | [what do i](https://open.spotify.com/track/2LTKYNBYZMOcyQNtRXUUxl) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [what do i](https://open.spotify.com/album/0ohO8xT0avwVSfMqaOzoMq) | 3:43 | 2021-04-30 | 2022-07-29 |
 | [what do i](https://open.spotify.com/track/2qG34SPqlVutAZwWe3q6iF) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/4fjTSlU3zj9tH4Doq38C3S) | 3:43 | 2021-04-30 | 2022-10-13 |

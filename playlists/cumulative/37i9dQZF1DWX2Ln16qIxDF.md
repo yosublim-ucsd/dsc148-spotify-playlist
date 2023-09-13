@@ -4,7 +4,7 @@
 
 > Emilia está en el Top 🔥
 
-219 songs - 11 hr 22 min
+220 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Ex \(con La Joaqui\)](https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 3:04 | 2023-07-21 |  |
 | [Extrañándote](https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Extrañándote](https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO) | 3:05 | 2023-07-07 | 2023-07-29 |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2023-05-12 |  |
+| [FLECHAZO EN EL CENTRO](https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [TU DUO FAVORITO](https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ) | 3:05 | 2023-09-12 |  |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-05-19 |  |
 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 | 2023-07-28 |  |
 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-06-23 | 2023-07-08 |
@@ -130,7 +131,7 @@
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-05-12 | 2023-06-03 |
 | [MERCHO REMIX](https://open.spotify.com/track/1vRkS74lAQEucagUBmUryC) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO REMIX](https://open.spotify.com/album/2Y8A4aFDGPXqQpmJbLOuzK) | 3:21 | 2023-06-30 | 2023-08-19 |
 | [Messirve Mix 5](https://open.spotify.com/track/41VOCbJ4ronoGiRg4bWvV6) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Messirve Mix 5](https://open.spotify.com/album/4RftZP7sXCsFIADpppavzS) | 5:12 | 2023-05-12 | 2023-08-05 |
-| [MI CIUDAD](https://open.spotify.com/track/4CQmxttSVcdfdf0B7cWqJR) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [MI CIUDAD](https://open.spotify.com/album/05uxQGOTCeBXhdofQ9U15S) | 3:40 | 2023-09-01 |  |
+| [MI CIUDAD](https://open.spotify.com/track/4CQmxttSVcdfdf0B7cWqJR) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [MI CIUDAD](https://open.spotify.com/album/05uxQGOTCeBXhdofQ9U15S) | 3:40 | 2023-09-01 | 2023-09-13 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-18 |  |
 | [Micro TDH \| Mission 14](https://open.spotify.com/track/4luCj8YMb6kTGqYvxGEkC3) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Micro TDH \| Mission 14](https://open.spotify.com/album/4UW05TcoOWP70UxbU2BJMg) | 2:28 | 2023-05-12 | 2023-06-24 |
 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 | 2023-05-12 | 2023-06-30 |

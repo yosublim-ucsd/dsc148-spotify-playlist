@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Poppy",
-  "num_followers": 647628,
+  "num_followers": 647976,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmUwZmQwYzFmYjRjOWY0ZGNlN2Y5NGMxOGViMjI1ODQ2NWM4M2E0",
+  "snapshot_id": "MCxjM2Q5N2EyODhmYzRjNjZiMTMyNjZmMDAyNTA3NDkzMmYwZDQ0MWZk",
   "tracks": [
     {
       "added_at": "2023-08-07 15:18:08",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 139728,
       "name": "Clique",
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "welcome2paradise",
-        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "Archangel",
         "url": "https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 203373,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "welcome2paradise",
+        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "I Wish A Bitch Would",
-        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
-      },
-      "artists": [
-        {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
-        }
-      ],
-      "duration_ms": 206617,
-      "name": "I Wish A Bitch Would",
-      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "Looking for You",
         "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 233472,
       "name": "Lay All Your Love on Me",
       "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
+        "name": "The Cost of Greatness",
+        "url": "https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja"
+      },
+      "artists": [
+        {
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+        }
+      ],
+      "duration_ms": 188388,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
         "name": "Death By Rock And Roll",
         "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "The Cost of Greatness",
-        "url": "https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja"
+        "name": "Chapter I - Monarchy",
+        "url": "https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX"
       },
       "artists": [
         {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+          "name": "Ad Infinitum",
+          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
         }
       ],
-      "duration_ms": 188388,
-      "name": "Bring It On",
-      "url": "https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn"
+      "duration_ms": 229880,
+      "name": "See You In Hell",
+      "url": "https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -899,22 +915,6 @@
       "duration_ms": 199672,
       "name": "Bottom of a Bottle",
       "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
-        "name": "Chapter I - Monarchy",
-        "url": "https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX"
-      },
-      "artists": [
-        {
-          "name": "Ad Infinitum",
-          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "See You In Hell",
-      "url": "https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Sleeping with the Enemy",
-        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
       },
       "artists": [
         {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+          "name": "Stitched Up Heart",
+          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
         }
       ],
-      "duration_ms": 212927,
-      "name": "Sleeping with the Enemy",
-      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
+      "duration_ms": 189773,
+      "name": "My Demon",
+      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1015,22 +1015,6 @@
       "duration_ms": 155342,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
-      },
-      "artists": [
-        {
-          "name": "Stitched Up Heart",
-          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "My Demon",
-      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Reeling",
-        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
+        "name": "Sleeping with the Enemy",
+        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
       },
       "artists": [
         {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
         }
       ],
-      "duration_ms": 170373,
-      "name": "Life's a Bitch (But I Like it So Much)",
-      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
+      "duration_ms": 212927,
+      "name": "Sleeping with the Enemy",
+      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1095,6 +1079,22 @@
       "duration_ms": 188823,
       "name": "Tsunami (11:11)",
       "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "Reeling",
+        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "Life's a Bitch (But I Like it So Much)",
+      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "Stigmata Itch",
         "url": "https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN"
       },
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Cover You",
-        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 181853,
-      "name": "Cover You",
-      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
       },
@@ -1239,6 +1207,38 @@
       "duration_ms": 210848,
       "name": "Yeah Right",
       "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "Cover You",
+        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 181853,
+      "name": "Cover You",
+      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Faking It",
-        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
-      },
-      "artists": [
-        {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
-        }
-      ],
-      "duration_ms": 328015,
-      "name": "Faking It",
-      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "Salma Hayek",
         "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 219630,
       "name": "Salma Hayek",
       "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "Faking It",
+        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
     },
     {
       "added_at": "2023-08-07 15:18:08",

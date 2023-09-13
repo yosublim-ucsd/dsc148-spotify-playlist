@@ -2449,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "emotionally unavailable",
+        "url": "https://open.spotify.com/album/2rLlb5HAK5vwXc1zqDfcGZ"
+      },
+      "artists": [
+        {
+          "name": "Taipei Tapes",
+          "url": "https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125129,
+      "name": "emotionally unavailable",
+      "url": "https://open.spotify.com/track/71vPGvp1ANV3iDpA9wFQ0v"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/60PDH7dPB8olXH5IC5gcEj"
       },
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 110312,
       "name": "Growing",
       "url": "https://open.spotify.com/track/1hM0bs3CbgCeZXpchcKfZk"
@@ -5796,6 +5814,24 @@
       "duration_ms": 126131,
       "name": "NASA",
       "url": "https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM"
+    },
+    {
+      "album": {
+        "name": "Natural Midst",
+        "url": "https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL"
+      },
+      "artists": [
+        {
+          "name": "Illum Noyz",
+          "url": "https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Natural Midst",
+      "url": "https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf"
     },
     {
       "album": {
@@ -10476,7 +10512,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 86236,
       "name": "yesterday floor",
       "url": "https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 85,912 likes - 100 songs - 5 hr 7 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 85,910 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 10 | [African Vibes](https://open.spotify.com/track/5k1EMCwlkW9uCFnz5G8JZG) | [Karasso](https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn) | [African Vibes](https://open.spotify.com/album/1QPmme7H2Xy7SGnDuf4n2o) | 3:06 |
 | 11 | [Flight](https://open.spotify.com/track/67keGyFWWzCELxtVSBi1em) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Flight](https://open.spotify.com/album/1sLPzmdbfT9UvHuOvBe9yE) | 2:30 |
 | 12 | [ROOTS](https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [ROOTS](https://open.spotify.com/album/0tJtaoY8U81yyKCbXDean8) | 2:58 |
-| 13 | [Break This Heart](https://open.spotify.com/track/3bQ4fFG9lBksBns3YyCdfX) | [Couddio](https://open.spotify.com/artist/0QgrbtBh2X2FOL0FCvYhEY), [MasterBangg](https://open.spotify.com/artist/0OR0HHn3OGSrPxFO0ea6W5), [PRYVT RYN](https://open.spotify.com/artist/6zq6KNF09GUIFltBdxaSb0) | [Break This Heart](https://open.spotify.com/album/6DztBxiOPt4pVtKI72I5tj) | 3:23 |
+| 13 | [Break This Heart](https://open.spotify.com/track/3bQ4fFG9lBksBns3YyCdfX) | [Couddio](https://open.spotify.com/artist/0QgrbtBh2X2FOL0FCvYhEY), [MasterBangg](https://open.spotify.com/artist/0OR0HHn3OGSrPxFO0ea6W5), [PRYVT RYN](https://open.spotify.com/artist/6zq6KNF09GUIFltBdxaSb0) | [Break This Heart](https://open.spotify.com/album/6DztBxiOPt4pVtKI72I5tj) | 3:26 |
 | 14 | [Obsession](https://open.spotify.com/track/2aHVgbOvMaYhbEAaHilYdd) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm) | [Trilogy EP](https://open.spotify.com/album/7pe7aBKsYDFEpSSZjw0L5C) | 3:15 |
 | 15 | [Breathless](https://open.spotify.com/track/4kydVCpanDuAzoGuHMNZBZ) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Karasso](https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn), [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB) | [Breathless](https://open.spotify.com/album/4YNvCzLe7cq4CVIrzg976s) | 3:10 |
 | 16 | [Sally](https://open.spotify.com/track/5Ph7rbBvW3MZrP4xp1a2uc) | [ZYNØX](https://open.spotify.com/artist/3Nc1RtEZe9VXTAjR8yZVdY), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Sally](https://open.spotify.com/album/0QG1rYChZFp2aB9JgMvbuD) | 3:12 |

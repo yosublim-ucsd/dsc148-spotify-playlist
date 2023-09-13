@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6vmXrF8Shld.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6vmXrF8Shld) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6vmXrF8Shld)
 
-### [I Love My '60s Funk](https://open.spotify.com/playlist/37i9dQZF1DX6vmXrF8Shld)
+### [I Love My 60s Funk](https://open.spotify.com/playlist/37i9dQZF1DX6vmXrF8Shld)
 
-> The best and finest '60s Funk\. Cover: The Meters.
+> The best and finest 60s Funk\. Cover: The Meters.
 
 80 songs - 4 hr 5 min
 

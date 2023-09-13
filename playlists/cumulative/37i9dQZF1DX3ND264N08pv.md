@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-187 songs - 10 hr 42 min
+188 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Antidote](https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Masters Of Hardcore Chapter XLIV](https://open.spotify.com/album/2Y0PWBnphib2osozApxHou) | 3:42 | 2023-09-01 |  |
 | [Attack](https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Attack](https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i) | 3:14 | 2022-12-08 |  |
 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 | 2022-12-08 |  |
-| [Battle For The Mind](https://open.spotify.com/track/348gfv2I7vLLE3qZuRM10N) | [Hardbouncer](https://open.spotify.com/artist/1ODM6xNS8Osji0prNFRK9H), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Battle For The Mind EP](https://open.spotify.com/album/4cnqX9Xi3GeQVsf1gVHmvk) | 3:20 | 2023-07-13 |  |
+| [Battle For The Mind](https://open.spotify.com/track/348gfv2I7vLLE3qZuRM10N) | [Hardbouncer](https://open.spotify.com/artist/1ODM6xNS8Osji0prNFRK9H), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Battle For The Mind EP](https://open.spotify.com/album/4cnqX9Xi3GeQVsf1gVHmvk) | 3:20 | 2023-07-13 | 2023-09-13 |
 | [Battle Tonight](https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Battle Tonight](https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ) | 4:08 | 2022-12-08 | 2023-06-02 |
 | [BE LOUDER](https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [BE LOUDER](https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg) | 2:51 | 2023-08-31 |  |
 | [Be The Light](https://open.spotify.com/track/3WaMpSz8UDnFIoDgtehaR4) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Be The Light](https://open.spotify.com/album/0hJkfPlK8XUaIPHchvZDB9) | 3:15 | 2022-12-08 | 2022-12-13 |
@@ -52,6 +52,7 @@
 | [Die For This](https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Die For This](https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1) | 4:00 | 2022-12-08 |  |
 | [Dikke Rave Beat](https://open.spotify.com/track/164XRnFMsUiPCYkGmG5481) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Dikke Rave Beat](https://open.spotify.com/album/5Wacg5kAJnOxxQvbguCflC) | 2:53 | 2023-06-01 | 2023-06-27 |
 | [Dirty Thoughts](https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Dirty Thoughts](https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U) | 2:38 | 2023-04-20 |  |
+| [Disruption](https://open.spotify.com/track/0Zxzg3AzI2tJKaCGVJ3yrz) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Disruption](https://open.spotify.com/album/1aEvgZoBSKhQEpE6bIiij3) | 3:00 | 2023-09-07 |  |
 | [Dope Sh!t](https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Eclipse](https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8) | 3:41 | 2022-12-08 |  |
 | [Double D](https://open.spotify.com/track/7izn5XTRDSyaari83OE4XM) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Double D](https://open.spotify.com/album/1Es6YZUlA57Wq9qu6YkCsK) | 3:28 | 2022-12-08 | 2023-09-02 |
 | [Drifting Away](https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Drifting Away](https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi) | 3:03 | 2023-01-19 |  |

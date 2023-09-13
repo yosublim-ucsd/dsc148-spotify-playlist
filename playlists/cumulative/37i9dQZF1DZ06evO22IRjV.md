@@ -4,7 +4,7 @@
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-96 songs - 6 hr 19 min
+97 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [虹の空 \-Album Ver\-](https://open.spotify.com/track/2s6rDhIa7l0UKvZGMOkSNs) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:44 | 2022-06-09 | 2023-07-23 |
 | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT) | 3:09 | 2023-02-10 |  |
 | [贈る言葉 \(single version\)](https://open.spotify.com/track/4MYNEFBZXSUViahKeSAVaa) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:12 | 2022-06-09 | 2023-02-11 |
-| [遥か彼方](https://open.spotify.com/track/13MlxWYb0Ig6FeOxzxk3Ln) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [遥か彼方](https://open.spotify.com/album/4PkwzfB3XD9gu8gb4UIzrT) | 4:02 | 2023-06-15 |  |
+| [遥か彼方](https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 4:02 | 2023-09-12 |  |
+| [遥か彼方](https://open.spotify.com/track/13MlxWYb0Ig6FeOxzxk3Ln) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [遥か彼方](https://open.spotify.com/album/4PkwzfB3XD9gu8gb4UIzrT) | 4:02 | 2023-06-15 | 2023-09-13 |
 | [音色](https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [音色 / Break it down](https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm) | 4:38 | 2022-06-09 | 2023-09-03 |
 | [風ノ唄](https://open.spotify.com/track/5y8mKpDw0khxf6WMyJi14w) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:20 | 2022-06-09 |  |
 | [風ノ唄 \-TV Size\-](https://open.spotify.com/track/7kVgMFdMrTN48KZmAM1opl) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [「風ノ唄 / BURN」Special Edition](https://open.spotify.com/album/4ZBpseaR2Lzz6U58chlrk4) | 1:31 | 2022-06-11 | 2023-09-10 |

@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Papina de Palma",
-  "num_followers": 55027,
+  "num_followers": 55041,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTFjMmRiYTE4ZDBjZGFjNjgyZmRkYjIzNWE4YmFhMGQ1OTI4MTNm",
+  "snapshot_id": "MCxkNWI5YWVmMmY1OGVmNGQyZDUxOTU0ZDA3Y2E2Y2U3ZjM0MDAyN2M0",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Dolor",
-        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 168037,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Cuando Empec\u00e9 a Quererte",
         "url": "https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 185866,
       "name": "Cuando Empec\u00e9 a Quererte",
       "url": "https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 168037,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "traves\u00eda",
-        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "y las flores? (en bruto 1/2)",
-      "url": "https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Negro",
         "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 245217,
       "name": "Negro",
       "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "traves\u00eda",
+        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "y las flores? (en bruto 1/2)",
+      "url": "https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "El Olvido",
-        "url": "https://open.spotify.com/album/4CoRBu3efY2P1QkJENdAg3"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        }
-      ],
-      "duration_ms": 184559,
-      "name": "El Olvido",
-      "url": "https://open.spotify.com/track/6AAZTWONcwtb1exqHb4Qp6"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Track",
         "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 204241,
       "name": "Track Track",
       "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/4CoRBu3efY2P1QkJENdAg3"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "duration_ms": 184559,
+      "name": "El Olvido",
+      "url": "https://open.spotify.com/track/6AAZTWONcwtb1exqHb4Qp6"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Una Temporada M\u00e1s",
-        "url": "https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Una Temporada M\u00e1s",
-      "url": "https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 244689,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Una Temporada M\u00e1s",
+        "url": "https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Una Temporada M\u00e1s",
+      "url": "https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1395,6 +1395,62 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "UY!",
+        "url": "https://open.spotify.com/album/26eLXyKicJJrQDxqg4RB25"
+      },
+      "artists": [
+        {
+          "name": "Juku Ares",
+          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
+        },
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        }
+      ],
+      "duration_ms": 136959,
+      "name": "UY!",
+      "url": "https://open.spotify.com/track/3xzbZlEFziTKAT9Id5oVdg"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "En Lo Que Llega La Primavera",
+        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 251199,
+      "name": "Como una Flecha",
+      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "La Melancol\u00eda",
         "url": "https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t"
       },
@@ -1423,22 +1479,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "UY!",
-        "url": "https://open.spotify.com/album/26eLXyKicJJrQDxqg4RB25"
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
       },
       "artists": [
         {
-          "name": "Juku Ares",
-          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
-        },
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
         }
       ],
-      "duration_ms": 136959,
-      "name": "UY!",
-      "url": "https://open.spotify.com/track/3xzbZlEFziTKAT9Id5oVdg"
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1459,58 +1511,6 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "En Lo Que Llega La Primavera",
-        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 251199,
-      "name": "Como una Flecha",
-      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1791,22 +1791,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "No Ves Tal Vez",
-        "url": "https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv"
+        "name": "Como un Guiri en Barcelona",
+        "url": "https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm"
       },
       "artists": [
         {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Jono McCleery",
-          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 209829,
-      "name": "No Ves Tal Vez",
-      "url": "https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN"
+      "duration_ms": 200973,
+      "name": "Como un Guiri en Barcelona",
+      "url": "https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p"
     }
   ],
   "unique_name": "mandarina",

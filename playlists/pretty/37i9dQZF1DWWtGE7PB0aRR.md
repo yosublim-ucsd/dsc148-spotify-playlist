@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,126 likes - 65 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,214 likes - 65 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 |
 | 65 | [Still a Fool \- Single Edit](https://open.spotify.com/track/4lYuosKr9Iux8wgkRkJGSN) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ for the Groundhogs: The Liberty Years 1968\-1972](https://open.spotify.com/album/2xpmn3S9CKC1HnnbsHw2mD) | 4:11 |
 
-Snapshot ID: `MCxiMTIyZTdmY2Q2ODI4NmQ3ODJhYmJiNmFhMDBmZTdlYzQ1YTFiNDU5`
+Snapshot ID: `MCwwZWYxMzg1NWZhMDVhNmY5ODgwNDIwNTI4MjNlMmI3NTMxZTliZDQ2`

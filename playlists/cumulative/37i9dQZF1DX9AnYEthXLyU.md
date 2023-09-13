@@ -4,7 +4,7 @@
 
 > when things just feel heavy.
 
-61 songs - 3 hr 25 min
+62 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Me in My Own Head](https://open.spotify.com/track/41h0mngXd81kGbYN5yeqnU) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disgusting](https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV) | 3:26 | 2023-05-03 |  |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF) | 3:06 | 2023-05-03 | 2023-08-09 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/63zxu4C2P5QZeXbn5ShjVB) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5psFkUUBPPrN1yPoHOUPDy) | 3:06 | 2023-06-26 |  |
+| [Mirror](https://open.spotify.com/track/4Mszk8p6xU2h6mhVoIp4io) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Mirror](https://open.spotify.com/album/60HJcRHTQSVVGn6sJ57DWd) | 3:59 | 2023-09-12 |  |
 | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/track/5tsBGhl0yosGxoj992WtjJ) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/album/3iGGzFgQvqNXc9E6Qnyvol) | 4:09 | 2023-05-03 |  |
 | [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 | 2023-05-03 |  |
 | [NO WAY OUT](https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [MONOMANIA](https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f) | 3:35 | 2023-05-03 |  |

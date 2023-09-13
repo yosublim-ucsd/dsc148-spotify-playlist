@@ -4329,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Stereo Love (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4M7Z0H4Bvl8zKCMINicWrz"
+      },
+      "artists": [
+        {
+          "name": "Stereo Lovers",
+          "url": "https://open.spotify.com/artist/2weQgeRFnIk3MXcWadk10U"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157355,
+      "name": "Stereo Love - Sped Up Version",
+      "url": "https://open.spotify.com/track/7AjU3sce5VrGGxHjGDy7ZZ"
+    },
+    {
+      "album": {
         "name": "Stolen Dance (Speed Version)",
         "url": "https://open.spotify.com/album/5BlFBLahe9vzioXLZ9KY9F"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees — and past winners — from the 95th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,999 likes - 56 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,994 likes - 56 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 38 | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx) | 4:32 |
 | 39 | [Al otro lado del río](https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Al otro lado del rio](https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi) | 3:14 |
 | 40 | [\(I'm Gonna\) Love Me Again](https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Rocketman \(Music From The Motion Picture\)](https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8) | 4:10 |
-| 41 | [Gravity](https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:35 |
-| 42 | [Wakanda](https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:20 |
-| 43 | [Fight For You \- From the Original Motion Picture "Judas and the Black Messiah"](https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Judas and the Black Messiah](https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR) | [Fight For You \(From the Original Motion Picture "Judas and the Black Messiah"\)](https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP) | 4:30 |
+| 41 | [Fight For You \- From the Original Motion Picture "Judas and the Black Messiah"](https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Judas and the Black Messiah](https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR) | [Fight For You \(From the Original Motion Picture "Judas and the Black Messiah"\)](https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP) | 4:30 |
+| 42 | [Gravity](https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:35 |
+| 43 | [Wakanda](https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:20 |
 | 44 | [Falling Slowly](https://open.spotify.com/track/2rqU6isUjWk7s2y0ZEkmhb) | [Steve Kazee](https://open.spotify.com/artist/2E0WuV49YeVlDWrmLf4jKK), [Cristin Milioti](https://open.spotify.com/artist/0KV9UzwJbLgC8QdOAxKlTU), [Once Ensemble](https://open.spotify.com/artist/28Tjtr1MQlXJwcNVgcwOTG) | [Once: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6BBjG9s1OPJXQh0dAiLwKN) | 4:26 |
 | 45 | [Things Have Changed \- Single Version](https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Side Tracks](https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY) | 5:07 |
 | 46 | [The Shape Of Water](https://open.spotify.com/track/2VzJH2QeNO1PiZwXZMvx7g) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Shape Of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/058fiqH1NYYmur8cicws4l) | 3:42 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 55 | [Father Comes Home](https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 3:18 |
 | 56 | [Sooner or Later](https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:20 |
 
-Snapshot ID: `MCwxYWQzOTgzMTg1Zjk4NGY2OGZmNzc5M2U1NmM5NWNmMTYzYjJiMDMx`
+Snapshot ID: `MCxhOGZkNjBiMjM3ZDA3MDc3Yzc3NDc2ZmI2MTk0M2Q4ZDFmYzlmNGQ0`

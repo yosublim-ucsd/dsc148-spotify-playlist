@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 198729,
       "name": "Adentro",
       "url": "https://open.spotify.com/track/4CROIfMRtC28Wx9otPTPER"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 95408,
       "name": "Afraid Of Loose",
       "url": "https://open.spotify.com/track/3opXoc8xrxcRhOPvjmpaH6"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 273492,
       "name": "alife",
       "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 288226,
       "name": "Amaneciendo",
       "url": "https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 226535,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/0zmd3kkK4FL9qYBXhWiOKW"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 226735,
       "name": "Angry",
       "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 443558,
       "name": "Big Business / I Zimbra (Live) - 2023 Remaster",
       "url": "https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 224800,
       "name": "Christie Rd. - Outtake",
       "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 545706,
       "name": "Coney Island Baby - Live",
       "url": "https://open.spotify.com/track/5KP5MAyH27baIHYWu5Bj6y"
@@ -3144,7 +3144,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 210897,
       "name": "Dead Don't Dance",
       "url": "https://open.spotify.com/track/320MEFOasIIowsnaPPbdNa"
@@ -4888,7 +4888,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 180076,
       "name": "Hallelujah - Live From Digital Ghost",
       "url": "https://open.spotify.com/track/6Ei0vUXTpLhXGgasCTceha"
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/4GBMd137VlyG371NlP4f0p"
@@ -5644,6 +5644,28 @@
       "duration_ms": 198867,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
+    },
+    {
+      "album": {
+        "name": "Hymn to the Sun. Russian Piano Treasures",
+        "url": "https://open.spotify.com/album/78gkqBuNtsEifuyrBD4CQL"
+      },
+      "artists": [
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Manuel del Corral",
+          "url": "https://open.spotify.com/artist/1399uZh5GCbxPwTfXkx6mb"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230380,
+      "name": "Hymn to the Sun",
+      "url": "https://open.spotify.com/track/70XVkRO1xd2vnECuo68hzq"
     },
     {
       "album": {
@@ -5894,7 +5916,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 403373,
       "name": "I Need Your Loving - Dub Version",
       "url": "https://open.spotify.com/track/0qAkT5XnQCdYxFR1WvTCUx"
@@ -6256,7 +6278,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 190635,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/3CzoVCSPGjuxwUyC3Md3g2"
@@ -6570,10 +6592,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 169920,
       "name": "Insatiable",
       "url": "https://open.spotify.com/track/7KjJ57W4JJopQt1GBwxPE2"
+    },
+    {
+      "album": {
+        "name": "Insatiable (Early Mix)",
+        "url": "https://open.spotify.com/album/3POJdMPw5gqcHSKvhuqsoQ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481900,
+      "name": "Insatiable (Early Mix)",
+      "url": "https://open.spotify.com/track/44DsZlTn7qgFUZtPFewHXW"
     },
     {
       "album": {
@@ -6684,7 +6724,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 213972,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/2sC3I1IHuoBsxop2wMUFfq"
@@ -6720,7 +6760,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 173061,
       "name": "It Wouldn't Be Me - Single Mix",
       "url": "https://open.spotify.com/track/5ZV4A6QiFIoB6wqcvP9YeG"
@@ -7484,7 +7524,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 253486,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/5QzEl5meby6CHMwERcZEHV"
@@ -7838,7 +7878,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 161101,
       "name": "Los Ni\u00f1os Cuicos No Saben Rockear",
       "url": "https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR"
@@ -9894,7 +9934,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 412500,
       "name": "Outlanders (Deutsche Version)",
       "url": "https://open.spotify.com/track/552tYF5hhRIH9knOGDzqhV"
@@ -10248,7 +10288,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 89306,
       "name": "Pictures at an Exhibition: Limoges, Le March\u00e9 (La Grande Nouvelle)",
       "url": "https://open.spotify.com/track/5ABTnhxDDJFR0atcICWIMR"
@@ -11014,7 +11054,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 111746,
       "name": "Resting Substantial",
       "url": "https://open.spotify.com/track/18jT89Dl3ij6ErGIgjJmWY"
@@ -11396,7 +11436,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 207602,
       "name": "Salt (feat. Dayseeker)",
       "url": "https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44"
@@ -11480,7 +11520,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 181266,
       "name": "Same Old Song And Dance - Single Version",
       "url": "https://open.spotify.com/track/3xZBnPiemUbyxVeCB9MB6w"
@@ -11856,7 +11896,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 333440,
       "name": "She's My Best Friend - Live",
       "url": "https://open.spotify.com/track/1v0au4U2fSOC7MpV8GvCxs"
@@ -11950,6 +11990,24 @@
       "duration_ms": 94000,
       "name": "Showered With Knowledge",
       "url": "https://open.spotify.com/track/75fMzs6cY7DTKcg8VH2v37"
+    },
+    {
+      "album": {
+        "name": "Live In El Paso 1980",
+        "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63226,
+      "name": "Sick Things - Live",
+      "url": "https://open.spotify.com/track/6mlAOexwC7hQkmHCDnFADP"
     },
     {
       "album": {
@@ -12578,7 +12636,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 154386,
       "name": "Stinkfinger",
       "url": "https://open.spotify.com/track/0vRQ5rTpJbQ3s35sDridvo"
@@ -12804,7 +12862,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 163493,
       "name": "S\u2019old",
       "url": "https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi"
@@ -12880,7 +12938,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 210226,
       "name": "Te juro que volver\u00e9",
       "url": "https://open.spotify.com/track/4g9BWkumIqN1lbH3g0h24F"
@@ -13096,7 +13154,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 185196,
       "name": "The Craziest Thing (Lost Boy Remix) - Official Song European Table Tennis Championship 2023",
       "url": "https://open.spotify.com/track/4XnZDTY6faWn4KNpJH5dcf"
@@ -13364,7 +13422,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 231960,
       "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
       "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
@@ -13954,7 +14012,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 439029,
       "name": "Time",
       "url": "https://open.spotify.com/track/1HmQba8msCjjirMPh3wOKY"
@@ -14960,6 +15018,24 @@
       "duration_ms": 307133,
       "name": "Walking in Memphis - (Shut Up and Dance Vocal Mix) [2023 Remaster]",
       "url": "https://open.spotify.com/track/1WGBQmC9tipRx7WDeQbX2f"
+    },
+    {
+      "album": {
+        "name": "Dookie (30th Anniversary Outtakes)",
+        "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169773,
+      "name": "Walking the Dog (demo) - Outtake",
+      "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
     },
     {
       "album": {

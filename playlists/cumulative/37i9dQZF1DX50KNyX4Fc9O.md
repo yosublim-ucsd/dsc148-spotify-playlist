@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Luca George
 
-295 songs - 15 hr 8 min
+296 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Hold My Hand](https://open.spotify.com/track/0aOY075fZdCkovTY8j27r0) | [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Hold My Hand](https://open.spotify.com/album/2hfiRL8VAW7v2S16LUidPi) | 3:02 | 2023-06-15 | 2023-07-07 |
 | [Hold My Hand](https://open.spotify.com/track/3guViWlEmxEmxD4XNfehe9) | [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Hold My Hand](https://open.spotify.com/album/3GBlqBwDypuKt94dwQUTx8) | 3:02 | 2023-07-06 | 2023-07-14 |
 | [Home](https://open.spotify.com/track/1OZX3YkWr1hrmNGsAF4Hes) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/0xRAs3x5scH14n4sAIqWw3) | 4:12 | 2023-06-15 | 2023-07-28 |
+| [Home Is Where The Hurt Is](https://open.spotify.com/track/7ujyUurqKZiltLgXroP3Z3) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Home Is Where The Hurt Is](https://open.spotify.com/album/2ibB2OyjmvKTmOOo2GgORh) | 4:00 | 2023-09-07 |  |
 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 | 2023-06-15 | 2023-07-14 |
 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 | 2023-08-17 |  |
 | [Hot One](https://open.spotify.com/track/1HGYijnaimWpxBkxwNOQko) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Hot One](https://open.spotify.com/album/6mdumRNcYvRzSX8T8im1VZ) | 1:50 | 2023-06-29 | 2023-07-28 |

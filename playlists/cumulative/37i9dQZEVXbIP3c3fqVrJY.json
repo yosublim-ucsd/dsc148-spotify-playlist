@@ -4198,7 +4198,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -6488,7 +6488,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD"
@@ -9502,7 +9502,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 119722,
       "name": "Jsem Optimista",
       "url": "https://open.spotify.com/track/1K0njELsVmFeAZhDZNZmhJ"
@@ -9972,6 +9972,28 @@
       "duration_ms": 242019,
       "name": "Ka\u017edej N\u011bco Hled\u00e1",
       "url": "https://open.spotify.com/track/54fF7wRD5X2jimDfgiSdFm"
+    },
+    {
+      "album": {
+        "name": "KA\u017dDEJ Z V\u00c1S",
+        "url": "https://open.spotify.com/album/2MCYJLMEJ4DrHwAYRlHjE2"
+      },
+      "artists": [
+        {
+          "name": "Smack",
+          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
+        },
+        {
+          "name": "Huclberry",
+          "url": "https://open.spotify.com/artist/0TugplS9T5YUowNlX8MRZt"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "KA\u017dDEJ Z V\u00c1S",
+      "url": "https://open.spotify.com/track/3Gz4w5eLusaC7pdbmX1YTB"
     },
     {
       "album": {
@@ -14482,7 +14504,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 130520,
       "name": "Nikdy Nic Nebylo",
       "url": "https://open.spotify.com/track/3rKPRnYJ5b89bv5ZsLrogK"
@@ -17584,7 +17606,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 153402,
       "name": "Samota (with Sofian Medjmedj)",
       "url": "https://open.spotify.com/track/76LbBQHtxDetE9fCVEZqK0"
@@ -18804,7 +18826,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -19584,7 +19606,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -21626,7 +21648,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 214736,
       "name": "Virtu\u00e1ln\u00ed drogy",
       "url": "https://open.spotify.com/track/7E8LK4R9gAkSG4CD1kqvsX"
@@ -22292,7 +22314,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Whip",
       "url": "https://open.spotify.com/track/7rOUkuZOT4BnGNz7YbUORD"

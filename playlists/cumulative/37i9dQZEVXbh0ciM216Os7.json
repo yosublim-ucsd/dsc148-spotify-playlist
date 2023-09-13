@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 226735,
       "name": "Angry",
       "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
@@ -2070,7 +2070,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 224800,
       "name": "Christie Rd. - Outtake",
       "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
@@ -3578,7 +3578,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 192144,
       "name": "Endless Fashion (with Nicki Minaj) - sped up version",
       "url": "https://open.spotify.com/track/5DxOt3uyfE2kGWuTXp6xaG"
@@ -4278,7 +4278,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 205497,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/1B7s6X81lZVSSP7adOBxaM"
@@ -4548,7 +4548,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 329160,
       "name": "Gimme Three Steps - Live At The Ryman Theatre, Nashville, TN - November 13, 2022",
       "url": "https://open.spotify.com/track/68M6DDAbPBYzEdTQeEhDQm"
@@ -5382,7 +5382,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 190285,
       "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
@@ -6042,7 +6042,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 164911,
       "name": "JUMPIN - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/527d6VKNmBHr22HhprrEm2"
@@ -6170,7 +6170,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 194962,
       "name": "Keep It Rising",
       "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
@@ -6422,7 +6422,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 175020,
       "name": "Le d\u00e9part",
       "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
@@ -6448,6 +6448,28 @@
       "duration_ms": 98308,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/291m2ycvir538AGXzVhHbx"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1XGxp9TXJQUNw2gbybZHKm"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156306,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1tYTIFvg7nCrVnmiK88yOr"
     },
     {
       "album": {
@@ -6762,6 +6784,28 @@
       "duration_ms": 306000,
       "name": "Losin' My Touch - Remastered 2023",
       "url": "https://open.spotify.com/track/3YKLYbUclwf9kmFcxa8Ab1"
+    },
+    {
+      "album": {
+        "name": "LOVELY BASTARDS",
+        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116104,
+      "name": "LOVELY BASTARDS",
+      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
     },
     {
       "album": {
@@ -7706,7 +7750,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 273626,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/3JHNieO8JATU24quh4tbPf"
@@ -7778,7 +7822,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 284475,
       "name": "Murmaider III",
       "url": "https://open.spotify.com/track/4i1XGa9WE8B2JQUwrZN5Gz"
@@ -8438,7 +8482,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 183157,
       "name": "Painted Houses (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
@@ -8474,7 +8518,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 135250,
       "name": "Past and Present",
       "url": "https://open.spotify.com/track/6WavI8LQ7DdAuuYN4IuDOV"
@@ -8877,6 +8921,32 @@
     },
     {
       "album": {
+        "name": "Prada (Clean)",
+        "url": "https://open.spotify.com/album/3pREnOwWzy0GqsOoum2LsZ"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5vR56XmFwKehzvCl0XHdRw"
+    },
+    {
+      "album": {
         "name": "Pretty People (feat. INJI)",
         "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
       },
@@ -8932,7 +9002,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 215717,
       "name": "Puerto Rico",
       "url": "https://open.spotify.com/track/3wyBkA7dOMJX0zqW3iIKu8"
@@ -9294,6 +9364,24 @@
       "duration_ms": 322307,
       "name": "Retina Show - Unreleased Demo",
       "url": "https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3"
+    },
+    {
+      "album": {
+        "name": "I'm Done",
+        "url": "https://open.spotify.com/album/3c9nI13kCbfkFJqaPJRGcs"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Right Here, For Now",
+      "url": "https://open.spotify.com/track/5nWVm4yn8GACYSsLvTGT7L"
     },
     {
       "album": {
@@ -10466,6 +10554,24 @@
       "duration_ms": 172981,
       "name": "Stimulation - Audiotree Live version",
       "url": "https://open.spotify.com/track/0HjsxcdrfdR2X7oC9DSWTQ"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "album": {
@@ -11698,7 +11804,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 173557,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/4xRXYFnpN6gRyHXXH9N0wC"
@@ -12677,6 +12783,24 @@
     },
     {
       "album": {
+        "name": "Dookie (30th Anniversary Outtakes)",
+        "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169773,
+      "name": "Walking the Dog (demo) - Outtake",
+      "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
+    },
+    {
+      "album": {
         "name": "Warpaint",
         "url": "https://open.spotify.com/album/2MTwOiCBBadJ9gqhw5dyie"
       },
@@ -12896,7 +13020,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 796202,
       "name": "Weather Report Suite (Take 8) [Slated] - 8/17/73",
       "url": "https://open.spotify.com/track/1m5AjMi3MMw9jiNlCeWgNz"
@@ -13259,6 +13383,24 @@
     },
     {
       "album": {
+        "name": "First of a Kind (From the Amazon Original Series)",
+        "url": "https://open.spotify.com/album/6vMzmr8k0HL8Ci9Y0VUbvu"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154554,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0MyvagqpsWPDPLX7I2U2ri"
+    },
+    {
+      "album": {
         "name": "Work That",
         "url": "https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD"
       },
@@ -13356,7 +13498,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 295755,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4pvvJGvOvtGje3rbKhGZJz"

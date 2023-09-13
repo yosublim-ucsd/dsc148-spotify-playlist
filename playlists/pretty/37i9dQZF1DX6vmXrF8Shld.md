@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain](/playlists/plain/37i9dQZF1DX6vmXrF8Shld) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6vmXrF8Shld)
 
-### [I Love My '60s Funk](https://open.spotify.com/playlist/37i9dQZF1DX6vmXrF8Shld)
+### [I Love My 60s Funk](https://open.spotify.com/playlist/37i9dQZF1DX6vmXrF8Shld)
 
-> The best and finest '60s Funk\. Cover: The Meters.
+> The best and finest 60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,608 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,682 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 68 | [No Way](https://open.spotify.com/track/6TlXKWSyZuHMS4qANLwVgE) | [Boogaloo Joe Jones](https://open.spotify.com/artist/4BEDs63hGcprptqZt11a3J) | [No Way!](https://open.spotify.com/album/4HgaispO1KpzuYAKljvrgM) | 7:17 |
 | 69 | [The Horse](https://open.spotify.com/track/2FCiuaXNE1kjwSoAvso4vT) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/5zXj6vdiMbqMXTL9oCqruD) | 2:26 |
 
-Snapshot ID: `MCw1ZWNlZjY1MTVlYzZjMDZkYmQ1OTMzMDA2ZDI5MzUxMGFiZDNjZGMz`
+Snapshot ID: `MCxkOTA3M2MwMjJkNzUzMWNkNTM2NzE4MzE2OTkyYTQ0MTdiZjIzYmZh`

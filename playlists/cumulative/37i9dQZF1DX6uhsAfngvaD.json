@@ -2116,6 +2116,24 @@
     {
       "album": {
         "name": "French Movie",
+        "url": "https://open.spotify.com/album/3hw3rAKNU6a22R3qxxMQip"
+      },
+      "artists": [
+        {
+          "name": "Bubble Tea and Cigarettes",
+          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "French Movie",
+      "url": "https://open.spotify.com/track/0C2CSeNBBss4JSFG0xHy7z"
+    },
+    {
+      "album": {
+        "name": "French Movie",
         "url": "https://open.spotify.com/album/2QssHYT1JHXe84cDGPgXDb"
       },
       "artists": [
@@ -6446,7 +6464,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"

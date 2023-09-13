@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Sofía Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,133 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,226 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 25 | [Gatando la Funda](https://open.spotify.com/track/3eadQDgUDkKCPy2TgfPvuc) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Sam Diem](https://open.spotify.com/artist/30mf4QuWQgYhbwf4bj8pGn), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [Gatando la Funda](https://open.spotify.com/album/2hsgCqphv4KLN3P2BlkUs4) | 2:50 |
 | 26 | [Traigan Alcohol](https://open.spotify.com/track/1wZnKMALjutPTCALbEd5Ts) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Traigan Alcohol](https://open.spotify.com/album/3n4kXxq7xNDcp8DOLGJiTq) | 2:13 |
 | 27 | [God Sent Me](https://open.spotify.com/track/3VqL2RJp5hNK15zqlPJXp8) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [God Sent Me](https://open.spotify.com/album/4jmh0u6tK0BD3kfmuDCCqc) | 2:44 |
-| 28 | [GIRO 180](https://open.spotify.com/track/2GWFiSNw8elbIt0emwTbyg) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [GIRO 180](https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ) | 4:26 |
+| 28 | [GIRO 180](https://open.spotify.com/track/2GWFiSNw8elbIt0emwTbyg) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [GIRO 180](https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ) | 4:24 |
 | 29 | [OTRA VEZ](https://open.spotify.com/track/674LHLeZo1zNy1NECXyScY) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [OTRA VEZ](https://open.spotify.com/album/6NnPID2acgwxuhjYWm7vkw) | 2:11 |
 | 30 | [El Pobre](https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [El Pobre](https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo) | 3:05 |
 | 31 | [Tus Mentiras](https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Tus Mentiras](https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ) | 2:43 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [PLAYA DE ARO](https://open.spotify.com/track/7guhuzqeDVw3mk9Zpesz6h) | [VYPERR](https://open.spotify.com/artist/3hOzu5VKgQuAtVt2OOL4Wt) | [PLAYA DE ARO](https://open.spotify.com/album/7ayvQdqCPj1MWDkINedpzf) | 2:07 |
 | 51 | [MODA](https://open.spotify.com/track/4x6WlBCITrqjZZUHl1Dnhh) | [MÓRY](https://open.spotify.com/artist/5FdrFhHWZupu9cqlWAg2WR) | [MODA](https://open.spotify.com/album/6ggoPcqaldJe77m7h1I1Ag) | 2:21 |
 
-Snapshot ID: `MCwxMWQyNGU3MTMwMDAzZmM5Yjg1YjlkOTE2ZTIwZTA5YWRkMjQzNDQ1`
+Snapshot ID: `MCxjNjJiNWQ4YzZiNzM3YTljMjNhZjQwNTZkZDZlNThmYmJmM2U3YWM4`

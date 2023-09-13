@@ -4,11 +4,12 @@
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-143 songs - 6 hr 32 min
+144 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 | 2023-01-24 |  |
+| [A Free Spirit \(Nature\)](https://open.spotify.com/track/2qO76Y8tZnBOCRRhOWMjhr) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit \(Nature\)](https://open.spotify.com/album/12cFEQ1sasH0DJnZjeUJ9Q) | 2:48 | 2023-09-12 |  |
 | [A New Beginning](https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A New Beginning](https://open.spotify.com/album/7HmJNzgf80p5RjNz56qSgC) | 2:40 | 2023-03-13 |  |
 | [Adrift \(Meditation\)](https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY) | [Treter](https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN) | [Adrift \(Meditation\)](https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh) | 2:25 | 2023-09-01 | 2023-09-05 |
 | [Allegro](https://open.spotify.com/track/36jgt8ZFkqy2nqiD8DGdSz) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Allegro](https://open.spotify.com/album/4eykRomPItwi8yylcsHXC9) | 2:11 | 2023-03-13 | 2023-03-21 |
@@ -130,7 +131,7 @@
 | [Stilte](https://open.spotify.com/track/7JmuwjQIrdufPz4y7hQyfF) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Stilte](https://open.spotify.com/album/06VoObxzlK0aRzVpHm8FBE) | 3:14 | 2023-03-28 |  |
 | [Summer Breeze](https://open.spotify.com/track/6WeBzOmaFwsWN4Svwg6p1F) | [Ambient Stream](https://open.spotify.com/artist/49wJGRXonVaTLd77rtGBYA) | [Summer Breeze](https://open.spotify.com/album/1j30XDwij7ZewdsszR43AJ) | 2:14 | 2023-01-24 |  |
 | [Sun\-drenched Greenery](https://open.spotify.com/track/3NNQpaLBsVHJrumz9inhFf) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Sun\-drenched Greenery](https://open.spotify.com/album/0mF5YSe2ziMY1EpNX4im50) | 3:24 | 2023-09-05 |  |
-| [Take A Breath](https://open.spotify.com/track/5mBJ1WB5syIHpn9LAh53hl) | [Moderato Aredo](https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj) | [Take A Breath](https://open.spotify.com/album/2AjcwMmxfCdh0siTZOOdJw) | 2:21 | 2023-09-05 |  |
+| [Take A Breath](https://open.spotify.com/track/5mBJ1WB5syIHpn9LAh53hl) | [Moderato Aredo](https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj) | [Take A Breath](https://open.spotify.com/album/2AjcwMmxfCdh0siTZOOdJw) | 2:21 | 2023-09-05 | 2023-09-13 |
 | [Tantra](https://open.spotify.com/track/2yxNtcqRXXLPpUroUaKYAh) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tantra](https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1) | 1:46 | 2023-02-13 |  |
 | [Tears in Heaven & Relaxing Mornings](https://open.spotify.com/track/3xxEgKyzXdz1N7SoyFq2f8) | [Liam Gray](https://open.spotify.com/artist/3nSFyO3JTPhzXGJnR7wI1j) | [Relaxing Mornings, Vol\. IV](https://open.spotify.com/album/5gTdlkIcQC0N2dDbfkU8qJ) | 1:42 | 2023-01-24 |  |
 | [Temptavi](https://open.spotify.com/track/6pAbtZUtsX7jo1QATy9yqK) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Temptavi](https://open.spotify.com/album/42bxu81Q5B6FnuwiwjjFbo) | 2:59 | 2023-03-13 |  |

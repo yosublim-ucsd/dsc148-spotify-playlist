@@ -1,12 +1,12 @@
 {
   "description": "~ have a lovely time ~",
-  "num_followers": 140310,
+  "num_followers": 140440,
   "original_name": "The Picnic List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzJmMmI2ZjQ5ZGUzZjc3OWU4YjNmOWYzNmQxM2UxYjUxMjFmNGQw",
+  "snapshot_id": "MCw4NDVhZGQzYmNkNDlkZjBhZTViYzI2OTZiNGUwYjcyYmZjMjAzNDk3",
   "tracks": [
     {
       "added_at": "2023-08-24 14:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2023-08-24 14:00:00",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2023-08-24 14:00:00",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
     },
     {
       "added_at": "2023-08-24 14:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
         }
       ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2023-08-24 14:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
+    },
+    {
+      "added_at": "2023-08-24 14:00:00",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 254466,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
-    },
-    {
-      "added_at": "2023-08-24 14:00:00",
-      "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 246213,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
     },
     {
       "added_at": "2023-08-24 14:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2023-08-24 14:00:00",
-      "album": {
         "name": "SHE IS COMING",
         "url": "https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 233654,
       "name": "Slide Away",
       "url": "https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9"
+    },
+    {
+      "added_at": "2023-08-24 14:00:00",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2023-08-24 14:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+    },
+    {
+      "added_at": "2023-08-24 14:00:00",
+      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
-    },
-    {
-      "added_at": "2023-08-24 14:00:00",
-      "album": {
         "name": "First Collection 2006-2009",
         "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
-    },
-    {
-      "added_at": "2023-08-24 14:00:00",
-      "album": {
         "name": "Typical of Me EP",
         "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 164277,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/5zQR0qoA4S1Iwj2bAwW03a"
+    },
+    {
+      "added_at": "2023-08-24 14:00:00",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": "2023-08-24 14:00:00",

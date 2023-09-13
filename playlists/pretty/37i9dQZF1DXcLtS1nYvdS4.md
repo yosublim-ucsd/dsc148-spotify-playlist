@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLtS1nYvdS4.md) - [plain]
 
 > This energy\-filled mix by <a href="spotify:artist:1V3VTM7VspiQjcmRhC010n">Quintino</a><br/>is stacked with big room tracks and euphoric melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,178 likes - 15 songs - 46 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,188 likes - 15 songs - 46 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLtS1nYvdS4.md) - [plain]
 | 14 | [Make It Louder \- Mixed](https://open.spotify.com/track/4B2Sk8KkEmmaEMyID5pWOy) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Make It Louder \(Mixed\)](https://open.spotify.com/album/2mzAX1qkgR8g5HJE9VKsaV) | 2:48 |
 | 15 | [Back to the Oldskool \- Mixed](https://open.spotify.com/track/6liuBZqyroS94FHhYs1b0m) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Back to the Oldskool \(Mixed\)](https://open.spotify.com/album/1RgiJkJhlMf3v2hZ66Zhwn) | 2:57 |
 
-Snapshot ID: `MCw1NmQwZGVmZjExMzI4ODFmYjg5MzYzMWRmNDM3MzBhODgyYmEyMGZm`
+Snapshot ID: `MCw2ZmQ5NzZmYTVjMWE5MmIyOTdmYWYzMGMxNjdlZGI1NTNlMDFmM2Vi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,229 likes - 120 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,623 likes - 120 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 74 | [Underlying Feeling \- Adam K & Soha Radio Edit](https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb) | [Sylvia Tosun](https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1) | [Underlying Feeling](https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u) | 3:44 |
 | 75 | [Believer \(feat\. Wynter Gordon\) \- Radio Edit](https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7) | [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR), [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Believer \(feat\. Wynter Gordon\) \[Club Mixes\]](https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR) | 3:09 |
 | 76 | [I Am Free \- Radio Edit](https://open.spotify.com/track/1cSOchpDSHvJjtBHLVrxT1) | [The Mackenzie](https://open.spotify.com/artist/2ldC3ttdH00Mhsxwp6LMeP), [Jessy](https://open.spotify.com/artist/1mstPPE7LtpbNpOYihsCzj) | [I Am Free](https://open.spotify.com/album/0OIyUH1v56TJsEXh1HywyN) | 3:27 |
-| 77 | [Fight For You \- Sultan & Ned Shephard Remix Radio Edit](https://open.spotify.com/track/2YdJ7ZnaXUMZcGe46eCiER) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Fight For You](https://open.spotify.com/album/3ICJTj5U5bm2mql3QduFLb) | 3:56 |
-| 78 | [Find Yourself](https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 2:31 |
+| 77 | [Find Yourself](https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 2:31 |
+| 78 | [Fight For You \- Sultan & Ned Shephard Remix Radio Edit](https://open.spotify.com/track/2YdJ7ZnaXUMZcGe46eCiER) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Fight For You](https://open.spotify.com/album/3ICJTj5U5bm2mql3QduFLb) | 3:56 |
 | 79 | [Somewhere \(feat\. Sarah Lynn\) \- Radio Edit](https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M) | [DJ Mog](https://open.spotify.com/artist/1hi6iazfUhvaqpt9f0kCcF), [Sarah Lynn](https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K) | [Somewhere \(feat\. Sarah Lynn\)](https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH) | 3:55 |
 | 80 | [Feel Your Love \- Radio Edit with Intro](https://open.spotify.com/track/3gB5UMJqzC8Mt6ZBvGH8sP) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Feel Your Love](https://open.spotify.com/album/4yJ9bCIWrzwwC4P6VuesIu) | 3:20 |
 | 81 | [Fire](https://open.spotify.com/track/1lJUIg0FtOqApq4XPQqjrk) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Simon Lebon](https://open.spotify.com/artist/7pHJTrmyl1pzvdUTMVll6J) | [L.E.F.](https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69) | 4:31 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Chemistry \- Radio Edit](https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Chemistry](https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q) | 3:44 |
 | 120 | [Awaken \- Ron Reeser & Dan Saenz Radio Edit](https://open.spotify.com/track/6XWIwu69Yu7BwQJzDajYRY) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Ron Reeser](https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY), [Dan Saenz](https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8) | [Awaken \(Part 2\)](https://open.spotify.com/album/00CaQlX78h86BkRvuUnAnT) | 3:44 |
 
-Snapshot ID: `MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx`
+Snapshot ID: `MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz`

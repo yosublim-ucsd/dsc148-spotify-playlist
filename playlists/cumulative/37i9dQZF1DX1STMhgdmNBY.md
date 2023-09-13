@@ -4,7 +4,7 @@
 
 > For body and mind, blues straight from the soul.
 
-95 songs - 7 hr 8 min
+96 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Ain't Nobody's Business](https://open.spotify.com/track/6wDGgiUZIpC7eCgrSoguie) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX) | 5:11 | 2022-05-25 | 2022-07-29 |
 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 | 2022-06-29 |  |
 | [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [Sam Maghett](https://open.spotify.com/artist/1xSXnf7mFuxNF0CMyQmpX2), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 | 2022-05-25 |  |
-| [Anyhow](https://open.spotify.com/track/13SV6q70zRxTJR3yEAqh2C) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 6:54 | 2023-05-05 |  |
+| [Anyhow](https://open.spotify.com/track/13SV6q70zRxTJR3yEAqh2C) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 6:54 | 2023-05-05 | 2023-09-13 |
 | [As The Years Go Passing By](https://open.spotify.com/track/71auWR3IZdhDv3M8RZsqIF) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 3:46 | 2022-06-29 |  |
 | [As The Years Go Passing By](https://open.spotify.com/track/6QDzMajkYRpG6DCNeILr48) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa) | 3:48 | 2022-05-25 | 2022-07-29 |
 | [As The Years Go Passing By](https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 7:44 | 2022-05-25 |  |
@@ -70,6 +70,7 @@
 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 | 2022-05-25 |  |
 | [Lonesome In My Bedroom](https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx) | [Luther Johnson](https://open.spotify.com/artist/1fgNJ5TmN4k8Kf1zdaSBoV) | [They Call Me the Popcorn Man \(France 1975\) \[Blues Reference\]](https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm) | 6:25 | 2022-05-25 |  |
 | [Long Way Home](https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:38 | 2022-05-25 |  |
+| [Love & Devotion](https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms) | [HeavyDrunk](https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp) | [You Don't Know Me](https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC) | 3:30 | 2023-08-23 |  |
 | [Lucille](https://open.spotify.com/track/1zckZa6uz1eoYh9JIw6fm4) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Anthology](https://open.spotify.com/album/1LzYzoyDpRjM8o5GDha0yN) | 10:12 | 2022-05-25 | 2022-07-29 |
 | [Lucille](https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 10:16 | 2022-06-29 |  |
 | [Married To The Blues](https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 7:12 | 2022-05-25 |  |

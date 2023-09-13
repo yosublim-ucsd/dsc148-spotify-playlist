@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 153962,
       "name": "Commando",
       "url": "https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 180062,
       "name": "What I Want II",
       "url": "https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp"
@@ -1684,6 +1684,28 @@
       "duration_ms": 629497,
       "name": "Who Is on the Lord's Side",
       "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
+    },
+    {
+      "album": {
+        "name": "WINNING",
+        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
+      },
+      "artists": [
+        {
+          "name": "Harmini",
+          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
+        },
+        {
+          "name": "Chud'e",
+          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152622,
+      "name": "WINNING",
+      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
     },
     {
       "album": {
@@ -1768,6 +1790,36 @@
       "duration_ms": 156196,
       "name": "Yeshua (Extended)",
       "url": "https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7"
+    },
+    {
+      "album": {
+        "name": "Yesu (Jesus)",
+        "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Guya",
+          "url": "https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235559,
+      "name": "Yesu (Jesus)",
+      "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 55548,
+  "num_followers": 55655,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTdmNjUxNjhjNDNhYzY3ZDkxZWZlZGU5OTNkZDQwNmNjN2RhMDcz",
+  "snapshot_id": "MCw0M2Y5NjRiN2RkZTdlMmE3NWRkY2M2ZDE4YTU3MmZlZWE5MzBmNjFj",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 240146,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Humbug Mountain Song",
-      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Old Sea Brigade",
         "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 307697,
       "name": "Should Have Known Better",
       "url": "https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Humbug Mountain Song",
+      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Writing of Blues and Yellows (Deluxe Version)",
         "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 187266,
       "name": "La Lune",
       "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "The Bottom of It",
-      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Imaginary Man",
         "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 230786,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "The Bottom of It",
+      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "A Face Like Mine",
+        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "The Wild Swan",
         "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 255853,
       "name": "Love is All",
       "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "A Face Like Mine",
-        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Ancient Transition",
-        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Our Remains",
-      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "No Rain, No Rose",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 313078,
       "name": "I Am California",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Ancient Transition",
+        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Our Remains",
+      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 264320,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Burn Your Fire For No Witness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 125440,
       "name": "Unfucktheworld",
       "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 264320,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 303386,
-      "name": "Helplessness Blues",
-      "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Turn Out the Lights",
         "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
       },
@@ -1783,18 +1767,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
       "artists": [
         {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 236453,
-      "name": "Valleys (My Love)",
-      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
+      "duration_ms": 303386,
+      "name": "Helplessness Blues",
+      "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1811,6 +1795,22 @@
       "duration_ms": 213666,
       "name": "Rose Petals",
       "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Valleys (My Love)",
+      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 222817,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 222817,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP"
     },
     {
       "added_at": "2022-02-04 21:53:01",

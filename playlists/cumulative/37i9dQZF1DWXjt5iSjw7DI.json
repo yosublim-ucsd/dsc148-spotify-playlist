@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Mickey Gilley",
+        "url": "https://open.spotify.com/album/3mrArYIsNdASsv8aZrDIH7"
+      },
+      "artists": [
+        {
+          "name": "Mickey Gilley",
+          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166146,
+      "name": "A Headache Tomorrow (Or a Heartache Tonight) - Live",
+      "url": "https://open.spotify.com/track/75vGJz1j1PAuN3QiCMEShY"
+    },
+    {
+      "album": {
         "name": "Dwight Live",
         "url": "https://open.spotify.com/album/0MGkyfLKh6k0D0uAa59QXy"
       },
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 222346,
       "name": "Gettin' By",
       "url": "https://open.spotify.com/track/3jBzXVNSgRPvpGRenSkvL1"

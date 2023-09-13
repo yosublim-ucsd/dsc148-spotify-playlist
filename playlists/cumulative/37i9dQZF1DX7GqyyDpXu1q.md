@@ -4,7 +4,7 @@
 
 > Southern rock swagger served neat\. Cover: Chris Stapleton
 
-212 songs - 13 hr 1 min
+214 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [All I Need](https://open.spotify.com/track/0KHRg7jmV3xsoXGIymWtCY) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [All I Need](https://open.spotify.com/album/27qUt9dftUV8GpHGInKY21) | 3:02 | 2022-06-03 |  |
 | [Any Way The Wind Blows](https://open.spotify.com/track/06v3DtMzR1u8XwNkEy8OEp) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Any Way The Wind Blows](https://open.spotify.com/album/1uPRDVR48w703zWvbd0Jt5) | 3:01 | 2020-08-21 | 2023-01-06 |
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 | 2022-11-19 |
-| [As Cool As You Try](https://open.spotify.com/track/6a3nBvlRcPSc9Sv05jX7kE) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [As Cool As You Try](https://open.spotify.com/album/3yJPJxyBaXk2zNTCEkWLxu) | 3:36 | 2021-08-20 |  |
+| [As Cool As You Try](https://open.spotify.com/track/6a3nBvlRcPSc9Sv05jX7kE) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [As Cool As You Try](https://open.spotify.com/album/3yJPJxyBaXk2zNTCEkWLxu) | 3:36 | 2021-08-20 | 2023-09-13 |
 | [BAD AT LOVE \- 2021 Mix](https://open.spotify.com/track/4acnzhPESUEQJBuLg3giSb) | [Smith & Myers](https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe) | [BAD AT LOVE \(2021 Mix\)](https://open.spotify.com/album/5zrL2ksIQGzkwNmgW3GOHv) | 3:26 | 2021-06-11 | 2022-08-17 |
 | [Bad Guy](https://open.spotify.com/track/4X1hvTh0fBleqUlVkuoS5I) | [GrandVille](https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK) | [Bad Guy](https://open.spotify.com/album/1ARK8ZV5u7JcZcEpUG0Ux8) | 5:13 | 2022-01-04 | 2023-07-15 |
 | [Bad Spell](https://open.spotify.com/track/3KXN0yyh3iy665jdKFFQXZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k) | 3:15 | 2022-10-28 | 2022-11-13 |
@@ -67,10 +67,11 @@
 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 | 2021-07-02 |  |
 | [Death Wish](https://open.spotify.com/track/7pcI3En42dUc6HV6XmhbGx) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:30 | 2023-06-09 |  |
 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 | 2023-06-09 | 2023-06-12 |
+| [Devil You Know](https://open.spotify.com/track/2sKvfN6Kdjf9FA2yDWHQ6J) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Devil You Know](https://open.spotify.com/album/5HMTkM7veGMMg8sxammkYr) | 2:58 | 2023-09-12 |  |
 | [Dig A Hole](https://open.spotify.com/track/5sl5dwbfQqkigMNUjQQ4PI) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Dig A Hole](https://open.spotify.com/album/6Qj4bkL3XK29fR6qcT7Kyb) | 4:12 | 2023-08-25 |  |
 | [DLTGYD](https://open.spotify.com/track/474bbaCVDM80WEg9iSvkYb) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [DLTGYD](https://open.spotify.com/album/7FnG6OJfxnWf3YdYqt4jv9) | 4:30 | 2021-08-27 | 2023-06-08 |
 | [DLTGYD](https://open.spotify.com/track/7qfdFKdEZFuOf2X4cID8jS) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:30 | 2023-05-12 |  |
-| [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 | 2020-08-21 |  |
+| [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 | 2020-08-21 | 2023-09-13 |
 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 | 2021-06-11 |  |
 | [Down To The Devil](https://open.spotify.com/track/0cHOVlDO5vNuJOaTTO29Z6) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Georgiana](https://open.spotify.com/album/1ygRWLYPXMKn1MyyThyzpK) | 3:26 | 2023-07-21 |  |
 | [Down to the Devil](https://open.spotify.com/track/1KqEnSyj7ZFUfN2HddUZMe) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/08FkK7BlweOZ7PFct99fMo) | 3:26 | 2021-09-10 | 2022-07-29 |
@@ -90,7 +91,7 @@
 | [God’s Gonna Cut You Down](https://open.spotify.com/track/5Qt4tTjY5bjhKa3OGNVP2J) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:48 | 2023-05-12 |  |
 | [Good Life](https://open.spotify.com/track/0dmJKXSpzkNbxnoCJDJ1ZV) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Good Life](https://open.spotify.com/album/1k5RtNRhskf6DG3mX7Oh6Y) | 3:12 | 2022-06-14 | 2023-03-21 |
 | [Good Life](https://open.spotify.com/track/1wsUe3xzuhB5FB8HpFvZjA) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Good Life](https://open.spotify.com/album/7LIyBPr7s9Gb2b4TG4Qe2B) | 3:12 | 2021-11-05 | 2022-07-29 |
-| [Good Life](https://open.spotify.com/track/3A7HkIU9cVYrT5ZopIxH09) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Lost in the Valley of Hate & Love Vol\. I](https://open.spotify.com/album/66FdUWpsGaziwlkZivqOUP) | 3:12 | 2023-01-06 |  |
+| [Good Life](https://open.spotify.com/track/3A7HkIU9cVYrT5ZopIxH09) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Lost in the Valley of Hate & Love Vol\. I](https://open.spotify.com/album/66FdUWpsGaziwlkZivqOUP) | 3:12 | 2023-01-06 | 2023-09-13 |
 | [Good Night Down in Georgia](https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/4C75RzJVeSN3s1K0cwZTpY) | 4:10 | 2021-08-13 |  |
 | [Got Me Feeling Good](https://open.spotify.com/track/4RuCWaWlvXHwM39EZMYtBT) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Got Me Feeling Good](https://open.spotify.com/album/0C1KjdzzSIg1iDvGhIAfFn) | 4:12 | 2021-03-26 | 2022-01-05 |
 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-09-03 | 2023-06-08 |
@@ -195,6 +196,7 @@
 | [Survivor](https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:01 | 2022-06-14 | 2023-06-10 |
 | [Survivor](https://open.spotify.com/track/2TSiZ6ZtA4x5NbQgGpYrVU) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Survivor](https://open.spotify.com/album/5OVhDxr9XYs8WRHR0Njiad) | 4:01 | 2021-08-20 | 2022-07-29 |
 | [Survivor](https://open.spotify.com/track/1wBtnfOFCMmr6yOy1dE5VM) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/4gZGUfedFjMS22PzjDzscJ) | 4:02 | 2021-05-21 |  |
+| [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 | 2023-09-12 |  |
 | [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 | 2020-11-06 |  |
 | [Take It Slow](https://open.spotify.com/track/5A3BUCtrD3uhS92TQikslR) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Take It Slow](https://open.spotify.com/album/1m2RClhmLRK87mXiFtAMiP) | 4:01 | 2021-06-04 | 2022-01-05 |
 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 | 2022-06-14 |  |

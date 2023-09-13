@@ -1,12 +1,12 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos con Fito Paez.",
-  "num_followers": 1158566,
+  "num_followers": 1158817,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTBjMGUwZWNiMjllODZlYjA5YWI3MWUxM2RkMWJjNzY3MDcxNzEx",
+  "snapshot_id": "MCxlYjAwOGM5NTJlZWNjZmVhOWMxM2MxMDFhNDA3MmIzY2U4MzAyOTIw",
   "tracks": [
     {
       "added_at": "2023-05-03 13:45:22",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
-        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 377399,
-      "name": "Mujer Amante - Vivo",
-      "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -831,8 +815,24 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "Cordero Atado",
-        "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
+        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 377399,
+      "name": "Mujer Amante - Vivo",
+      "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 176840,
-      "name": "Yo Can\u00edbal",
-      "url": "https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb"
+      "duration_ms": 212400,
+      "name": "El Pibe de los Astilleros",
+      "url": "https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -951,8 +951,8 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
+        "name": "Cordero Atado",
+        "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 212400,
-      "name": "El Pibe de los Astilleros",
-      "url": "https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp"
+      "duration_ms": 176840,
+      "name": "Yo Can\u00edbal",
+      "url": "https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb"
     },
     {
       "added_at": "2023-05-03 13:45:22",

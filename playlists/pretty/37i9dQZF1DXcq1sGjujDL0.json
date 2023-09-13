@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3 pra quem usa a colher de pau como microfone.",
-  "num_followers": 174983,
+  "num_followers": 175045,
   "original_name": "Cantando na Cozinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWM4Y2E4ZGVhNGI5ZjljMDU0YTAwNGM5MTBiNzY3MWQ5NTlhN2E5",
+  "snapshot_id": "MCxiNzdlNTJjY2M4N2E5M2I3OWU3NjVhYzM3MjJjMjZjMDAxNzQ5NDY0",
   "tracks": [
     {
       "added_at": "2022-06-30 13:51:59",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
+        "name": "St. Elsewhere",
+        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
-        "name": "St. Elsewhere",
-        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
-      },
-      "artists": [
-        {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
     },
     {
       "added_at": "2022-06-30 13:51:59",

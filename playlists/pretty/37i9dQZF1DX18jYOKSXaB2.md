@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > consider this an RSVP to littest wedding parties
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,430 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,429 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gyal Like You](https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Kizz Daniel](https://open.spotify.com/artist/11uLyqFpFnASRiuARez0w3) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:12 |
+| 1 | [Gyal Like You](https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Kizz Daniel](https://open.spotify.com/artist/627kAlU9VnbfhMjyUvhqxU) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:12 |
 | 2 | [Waiting](https://open.spotify.com/track/3hVQchy4lN19vboyrroadH) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [Waiting](https://open.spotify.com/album/6saJgecnDEVbH0qsGETqKV) | 2:26 |
 | 3 | [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 |
 | 4 | [Assurance](https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:09 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 51 | [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 |
 | 52 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
 
-Snapshot ID: `MCw2MmZlMWRiM2Q0MTg0ZTgxOThmNDk2Yjk0M2JiY2JlNTljMDlkNTk4`
+Snapshot ID: `MCw3OWRhNTc3YjViMjliYmExZWI2OGM0NTRlNjQyY2IwMzgwMTFjY2Jh`

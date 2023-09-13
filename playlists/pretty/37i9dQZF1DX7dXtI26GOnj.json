@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: KAROL G",
-  "num_followers": 158517,
+  "num_followers": 158763,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDMxZWQyNGI1NWIxZDdkNjBkZWQ1ZjVmYzg4Mjc0NTBhOTIwMWRh",
+  "snapshot_id": "MCxmNjU0ODg2OTZlMDAyYTcxMTBkZTE0YzBmNDM2ZTk0Yzk0YzQ2Y2Jl",
   "tracks": [
     {
       "added_at": "2023-09-08 17:33:20",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-09-08 17:33:20",
       "album": {
-        "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Aldo Ranks",
-          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
-        }
-      ],
-      "duration_ms": 166882,
-      "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
-    },
-    {
-      "added_at": "2023-09-08 17:33:20",
-      "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
+    },
+    {
+      "added_at": "2023-09-08 17:33:20",
+      "album": {
+        "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "duration_ms": 166882,
+      "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
     },
     {
       "added_at": "2023-09-08 17:33:20",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-09-08 17:33:20",
       "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2023-09-08 17:33:20",
+      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -715,26 +731,6 @@
     {
       "added_at": "2023-09-08 17:33:20",
       "album": {
-        "name": "69",
-        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 221935,
-      "name": "69",
-      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
-    },
-    {
-      "added_at": "2023-09-08 17:33:20",
-      "album": {
         "name": "VENTE CONMIGO",
         "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
       },
@@ -767,18 +763,22 @@
     {
       "added_at": "2023-09-08 17:33:20",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+        "name": "69",
+        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+      "duration_ms": 221935,
+      "name": "69",
+      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
     },
     {
       "added_at": "2023-09-08 17:33:20",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-08 17:33:20",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
-    },
-    {
-      "added_at": "2023-09-08 17:33:20",
-      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2023-09-08 17:33:20",
       "album": {
-        "name": "Un Cigarrillo",
-        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
       },
       "artists": [
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 184266,
-      "name": "Un Cigarrillo",
-      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
     },
     {
       "added_at": "2023-09-08 17:33:20",
@@ -875,6 +859,22 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2023-09-08 17:33:20",
+      "album": {
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
     },
     {
       "added_at": "2023-09-08 17:33:20",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2023-09-08 17:33:20",
       "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "added_at": "2023-09-08 17:33:20",
+      "album": {
         "name": "Coming Your Way (with Anne-Marie & Becky G)",
         "url": "https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg"
       },
@@ -1271,6 +1291,26 @@
     {
       "added_at": "2023-09-08 17:33:20",
       "album": {
+        "name": "Palpita",
+        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Palpita",
+      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
+    },
+    {
+      "added_at": "2023-09-08 17:33:20",
+      "album": {
         "name": "Perfecta (Versi\u00f3n 2023)",
         "url": "https://open.spotify.com/album/66H0ONEidLsiliImzsMkeM"
       },
@@ -1291,46 +1331,6 @@
       "duration_ms": 221053,
       "name": "Perfecta (Versi\u00f3n 2023)",
       "url": "https://open.spotify.com/track/6ABLjztDyv49ZSZYDexYtc"
-    },
-    {
-      "added_at": "2023-09-08 17:33:20",
-      "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
-    },
-    {
-      "added_at": "2023-09-08 17:33:20",
-      "album": {
-        "name": "Palpita",
-        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Palpita",
-      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
     },
     {
       "added_at": "2023-09-08 17:33:20",

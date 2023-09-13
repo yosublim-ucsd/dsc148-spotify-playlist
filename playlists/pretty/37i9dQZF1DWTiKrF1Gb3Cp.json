@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 160215,
+  "num_followers": 160346,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzA2MzJiYWM0YTY1OGU5ZWQ3ZTkxZTQ4OWI1NWNlN2YxM2E3OTdi",
+  "snapshot_id": "MCxhOTBkNWY1OTk2MWRlYmM4MWI0MjQ5ZDI4ZWNmZjQxZjViZjk4MTI4",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -607,22 +607,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Adentro de la Disco (feat. Myke Towers)",
-        "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
+        "name": "Qui\u00faboles Que!",
+        "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 192720,
-      "name": "Adentro de la Disco (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
+      "duration_ms": 221541,
+      "name": "Qui\u00faboles Que",
+      "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -643,22 +643,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Qui\u00faboles Que!",
-        "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
+        "name": "Adentro de la Disco (feat. Myke Towers)",
+        "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
       },
       "artists": [
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         },
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 221541,
-      "name": "Qui\u00faboles Que",
-      "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+      "duration_ms": 192720,
+      "name": "Adentro de la Disco (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Clasificacion C Vol.1",
+        "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 228092,
+      "name": "Un Par De Balas",
+      "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -743,6 +759,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "En La Nube",
+        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "En La Nube",
+      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "IceWeed-Man",
         "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
       },
@@ -759,42 +791,6 @@
       "duration_ms": 252000,
       "name": "Desvielados",
       "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Clasificacion C Vol.1",
-        "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 228092,
-      "name": "Un Par De Balas",
-      "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Mi T\u00edo Snoop",
-        "url": "https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "Mi T\u00edo Snoop",
-      "url": "https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -835,18 +831,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "En La Nube",
-        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
+        "name": "Mi T\u00edo Snoop",
+        "url": "https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 212519,
-      "name": "En La Nube",
-      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
+      "duration_ms": 203946,
+      "name": "Mi T\u00edo Snoop",
+      "url": "https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -931,30 +931,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+        "name": "No Te Metas",
+        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "Muelas De Gallo",
-          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
-        },
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         }
       ],
-      "duration_ms": 289913,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/07V6yFnZ8a6N35IzuIsUGl"
+      "duration_ms": 219452,
+      "name": "No Te Metas",
+      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -979,26 +971,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "No Te Metas",
-        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 219452,
-      "name": "No Te Metas",
-      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Barrio (with Lefty Sm)",
         "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
       },
@@ -1015,6 +987,34 @@
       "duration_ms": 144414,
       "name": "Barrio (with Lefty Sm)",
       "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "duration_ms": 289913,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/07V6yFnZ8a6N35IzuIsUGl"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Lolita Ayala",
-          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
-        }
-      ],
-      "duration_ms": 108266,
-      "name": "Tocando Tierra",
-      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Locofon\u00edas",
         "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
       },
@@ -1203,22 +1183,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Diente Por Diente",
-        "url": "https://open.spotify.com/album/0zAMOPf1pBCNUNjrlMfUMu"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+          "name": "Lolita Ayala",
+          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
         }
       ],
-      "duration_ms": 138057,
-      "name": "Diente Por Diente",
-      "url": "https://open.spotify.com/track/40KRjKXp92bnyOvNjDcYuS"
+      "duration_ms": 108266,
+      "name": "Tocando Tierra",
+      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1235,6 +1215,26 @@
       "duration_ms": 278181,
       "name": "Ni Miedo Ni Piedad",
       "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Diente Por Diente",
+        "url": "https://open.spotify.com/album/0zAMOPf1pBCNUNjrlMfUMu"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 138057,
+      "name": "Diente Por Diente",
+      "url": "https://open.spotify.com/track/40KRjKXp92bnyOvNjDcYuS"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 181765,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1343,22 +1323,6 @@
       "duration_ms": 237760,
       "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
       "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Rolemos Otro",
-        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 187106,
-      "name": "Ya Te la Cypress",
-      "url": "https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1395,8 +1359,40 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "VRGCRA",
-        "url": "https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx"
+        "name": "Rolemos Otro",
+        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 187106,
+      "name": "Ya Te la Cypress",
+      "url": "https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 200754,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Qui\u00e9n?",
+        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
       },
       "artists": [
         {
@@ -1404,9 +1400,9 @@
           "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 238666,
-      "name": "VRGCRA",
-      "url": "https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W"
+      "duration_ms": 226560,
+      "name": "Qui\u00e9n?",
+      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1443,22 +1439,6 @@
       "duration_ms": 252533,
       "name": "La Feria Drogas y Muerte",
       "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 200754,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1587,8 +1567,28 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Qui\u00e9n?",
-        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 181765,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "VRGCRA",
+        "url": "https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx"
       },
       "artists": [
         {
@@ -1596,9 +1596,9 @@
           "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 226560,
-      "name": "Qui\u00e9n?",
-      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
+      "duration_ms": 238666,
+      "name": "VRGCRA",
+      "url": "https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "My Name",
-        "url": "https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji"
-      },
-      "artists": [
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "My Name",
-      "url": "https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Se Rumora",
         "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 252923,
       "name": "Se Rumora",
       "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "My Name",
+        "url": "https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 141904,
+      "name": "Modo Bestia",
+      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Sabadrugs",
         "url": "https://open.spotify.com/album/4DjsNnuINp4iwMarVMSvJC"
       },
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 141904,
-      "name": "Modo Bestia",
-      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Robot Montana",
         "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
       },
@@ -1871,22 +1871,6 @@
       "duration_ms": 175730,
       "name": "Mariguana & Tequila",
       "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Fe",
-      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1911,6 +1895,22 @@
       "duration_ms": 227495,
       "name": "Pa Los Barrios Y Las Clikas",
       "url": "https://open.spotify.com/track/722FnPcAf2KnbXzdokciiz"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Followers",
+      "url": "https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "WARZONE FREESTYLE",
         "url": "https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P"
       },
@@ -1979,22 +1995,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9"
-      },
-      "artists": [
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Followers",
-      "url": "https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Derrochando Estilo",
         "url": "https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt"
       },
@@ -2011,18 +2011,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "El Ni\u00f1o Malo",
-        "url": "https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z"
+        "name": "Miami Beach",
+        "url": "https://open.spotify.com/album/56scR1Ng2zgHTcDcK9BwzF"
       },
       "artists": [
         {
-          "name": "El Moreno Mexicano",
-          "url": "https://open.spotify.com/artist/0MGiXwNhSs1mRuy31cgvNz"
+          "name": "R1 La Esencia",
+          "url": "https://open.spotify.com/artist/6fDScz7zLUrQFSRy4Tn7Ff"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 183353,
-      "name": "El Ni\u00f1o Malo",
-      "url": "https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU"
+      "duration_ms": 185253,
+      "name": "Miami Beach",
+      "url": "https://open.spotify.com/track/65QkoILdc0nkAlSErb5ZDZ"
     }
   ],
   "unique_name": "Gaming Malandro",

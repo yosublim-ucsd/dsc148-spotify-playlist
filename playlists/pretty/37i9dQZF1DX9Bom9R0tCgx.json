@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 319243,
+  "num_followers": 319788,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjFlZDQ3NGZmNTZmMWJlYzQwMmM4N2JmNTM5YjhiZDhhOGYxM2Fh",
+  "snapshot_id": "MCw1ZDRmNzZiNDA0OTVjOWYyM2VmMGJlYjVhYzc4Y2NiMmQwNjk0NmE5",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Because The Night",
         "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 201330,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Shockwave (with Afrojack)",
         "url": "https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ"
       },
@@ -1179,26 +1199,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Annihilate",
         "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
       },
@@ -1211,6 +1211,26 @@
       "duration_ms": 165000,
       "name": "Annihilate",
       "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Love Is A Drug",
+        "url": "https://open.spotify.com/album/0GopSmATK0Dk4PN7KDskBJ"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Love Is A Drug",
+      "url": "https://open.spotify.com/track/4Yyho5h1ABXsvFyuEvyoke"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1259,26 +1279,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Can You Feel My Heart",
         "url": "https://open.spotify.com/album/5DUeygGSuFifWXYp68l8cD"
       },
@@ -1295,22 +1295,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Love Is A Drug",
-        "url": "https://open.spotify.com/album/0GopSmATK0Dk4PN7KDskBJ"
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
         }
       ],
-      "duration_ms": 200625,
-      "name": "Love Is A Drug",
-      "url": "https://open.spotify.com/track/4Yyho5h1ABXsvFyuEvyoke"
+      "duration_ms": 163124,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "duration_ms": 130412,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Hardcore Vibes",
         "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
       },
@@ -1503,22 +1523,38 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         }
       ],
-      "duration_ms": 130412,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 152015,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1563,42 +1599,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Techno Sound",
-        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Techno Sound",
-      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 152015,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -1623,22 +1623,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Stamp On The Ground",
-        "url": "https://open.spotify.com/album/2it6wVltq5zEsSf21OhnrV"
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/7tYL9vmWTgy5l6XN2yMnYc"
       },
       "artists": [
         {
-          "name": "Jim Yosef",
-          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Scarlett",
-          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "24h",
+          "url": "https://open.spotify.com/artist/0gySpejfRTyfba7i8uok3K"
         }
       ],
-      "duration_ms": 136503,
-      "name": "Stamp On The Ground",
-      "url": "https://open.spotify.com/track/5QdWSor8wZmWyWWEOaJ4Fz"
+      "duration_ms": 204250,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/2HXX7sAKE71YbJ5Wysju9e"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1663,6 +1667,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Stamp On The Ground",
+        "url": "https://open.spotify.com/album/2it6wVltq5zEsSf21OhnrV"
+      },
+      "artists": [
+        {
+          "name": "Jim Yosef",
+          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+        }
+      ],
+      "duration_ms": 136503,
+      "name": "Stamp On The Ground",
+      "url": "https://open.spotify.com/track/5QdWSor8wZmWyWWEOaJ4Fz"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Donkers",
         "url": "https://open.spotify.com/album/06SEttic5htIY70LgIXuQR"
       },
@@ -1679,30 +1703,6 @@
       "duration_ms": 304500,
       "name": "Donkers",
       "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Superman",
-        "url": "https://open.spotify.com/album/7tYL9vmWTgy5l6XN2yMnYc"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "24h",
-          "url": "https://open.spotify.com/artist/0gySpejfRTyfba7i8uok3K"
-        }
-      ],
-      "duration_ms": 204250,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/2HXX7sAKE71YbJ5Wysju9e"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1887,6 +1887,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/3MOCPhpSF2KOfh1eE688mI"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "duration_ms": 160472,
+      "name": "Romeo & Juliet",
+      "url": "https://open.spotify.com/track/4t2BiyPhaMpf2bzOdUoTD5"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Tell Me Secrets",
         "url": "https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW"
       },
@@ -1907,26 +1927,6 @@
       "duration_ms": 136299,
       "name": "Tell Me Secrets",
       "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Romeo & Juliet",
-        "url": "https://open.spotify.com/album/3MOCPhpSF2KOfh1eE688mI"
-      },
-      "artists": [
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 160472,
-      "name": "Romeo & Juliet",
-      "url": "https://open.spotify.com/track/4t2BiyPhaMpf2bzOdUoTD5"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/08iADb785FvYBSDrV72JHQ"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 240570,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/1imk5L7Oxi3KeAgfvC6PA7"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Outer Space",
         "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
@@ -2071,6 +2055,26 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "RMB",
+          "url": "https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z"
     }
   ],
   "unique_name": "Bass Explosion",

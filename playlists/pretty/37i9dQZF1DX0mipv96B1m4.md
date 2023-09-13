@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 764 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 766 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 33 | [Hot Like Dat](https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Hot Like Dat](https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj) | 2:46 |
 | 34 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
 | 35 | [Sunset](https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Kisses at Midnight](https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye) | 3:16 |
-| 36 | [Born To Love You \- 2020 Remix](https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Keicy](https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW), [BEN](https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [We Can](https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC) | 3:40 |
+| 36 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 |
 | 37 | [Bwonjagala](https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [Bwonjagala](https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q) | 2:58 |
-| 38 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 |
+| 38 | [Born To Love You \- 2020 Remix](https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Keicy](https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW), [BEN](https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [We Can](https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC) | 3:40 |
 | 39 | [I Need Your Love](https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [I Need Your Love](https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb) | 2:49 |
 | 40 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 |
 | 41 | [Stupid](https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Stupid](https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 49 | [Best Friend](https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [King Saha](https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3) | [Kokonya](https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS) | 3:49 |
 | 50 | [Wi Di Best \(feat\. Bebe Cool & Sumi Crazy\)](https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81), [Sumi Crazy](https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB) | [Nothing to Something](https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv) | 3:38 |
 
-Snapshot ID: `MCw4NGNjY2NlNWFmMGQwZTcyOGJlZWUxM2JlMzNmMmUxZmIxMjBjMWM2`
+Snapshot ID: `MCw4MDRiZWZmZjIxM2M2YTRmZGQ2ZjE4NDc1YmJiN2JjZjE1NTMyNmRl`

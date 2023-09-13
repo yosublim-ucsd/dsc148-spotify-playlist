@@ -884,10 +884,28 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 185769,
       "name": "Khel",
       "url": "https://open.spotify.com/track/20WIpyoAX8iR465ejJlFLT"
+    },
+    {
+      "album": {
+        "name": "Khel",
+        "url": "https://open.spotify.com/album/6DpVdeBeVUn4L68JZWDcN3"
+      },
+      "artists": [
+        {
+          "name": "Praagya",
+          "url": "https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185769,
+      "name": "Khel",
+      "url": "https://open.spotify.com/track/36yzu4OVMizmwxR6aF1BKe"
     },
     {
       "album": {

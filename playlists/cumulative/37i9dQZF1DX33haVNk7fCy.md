@@ -4,7 +4,7 @@
 
 > When everything around you is falling apart.
 
-78 songs - 5 hr 12 min
+79 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Kajal](https://open.spotify.com/track/0YVpNFgaEt2NFBAcUBiZU0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 2:41 | 2023-06-06 | 2023-06-24 |
 | [Kal Ho Naa Ho](https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:21 | 2023-06-29 |  |
 | [Kami Hai](https://open.spotify.com/track/731U0IOIp83sTQWbQeA67N) | [Abhin & Tanish](https://open.spotify.com/artist/5o13dCj1WVvMFMcnoBEMYo) | [Kami Hai](https://open.spotify.com/album/4rvB7pU7ikqxucUAFbTQrh) | 4:12 | 2023-05-15 |  |
-| [Khel](https://open.spotify.com/track/20WIpyoAX8iR465ejJlFLT) | [Praagya](https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP) | [Khel](https://open.spotify.com/album/6HTOdI0GLCGQGkKlAYcUeZ) | 3:05 | 2023-08-09 |  |
+| [Khel](https://open.spotify.com/track/20WIpyoAX8iR465ejJlFLT) | [Praagya](https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP) | [Khel](https://open.spotify.com/album/6HTOdI0GLCGQGkKlAYcUeZ) | 3:05 | 2023-08-09 | 2023-09-13 |
+| [Khel](https://open.spotify.com/track/36yzu4OVMizmwxR6aF1BKe) | [Praagya](https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP) | [Khel](https://open.spotify.com/album/6DpVdeBeVUn4L68JZWDcN3) | 3:05 | 2023-09-12 |  |
 | [Khud Se](https://open.spotify.com/track/5hL9yKGJAMUxfwsjFnJ0aR) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Wahaan](https://open.spotify.com/album/0sIWkQuV1D7PDH2icX4KvL) | 3:08 | 2023-05-15 |  |
 | [Khush to Hai Na](https://open.spotify.com/track/2bGCXKKxk0FyTwYeJooaJH) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Khush to Hai Na](https://open.spotify.com/album/6mgPdNVamEDDLXbbe0dtiT) | 3:11 | 2023-05-15 |  |
 | [Kitna Tha Roka](https://open.spotify.com/track/5P6xN9gXr14GLfxr3F4Rua) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/2fFlhMvx7IMrgnz79ZJ52j) | [Kitna Tha Roka](https://open.spotify.com/album/4ZW08VKjCR3P3Z3ENLMLm8) | 3:17 | 2023-05-15 |  |

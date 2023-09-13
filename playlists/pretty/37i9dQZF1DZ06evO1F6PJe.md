@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,771 likes - 52 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,843 likes - 52 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,18 +23,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 13 | [When Will I Let Her Go](https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 4:06 |
 | 14 | [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 |
 | 15 | [The Heart That Never Waits \(Live\)](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 |
-| 16 | [Twenty\-Four Hour Blues](https://open.spotify.com/track/1Ja2Xe08CmSIQBKm3OZLLO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues](https://open.spotify.com/album/4e8QhJyFdcmPsrqOSTmRnl) | 4:32 |
+| 16 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
 | 17 | [Mountain Climbing](https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:43 |
-| 18 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
+| 18 | [Twenty\-Four Hour Blues](https://open.spotify.com/track/1Ja2Xe08CmSIQBKm3OZLLO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues](https://open.spotify.com/album/4e8QhJyFdcmPsrqOSTmRnl) | 4:32 |
 | 19 | [Like a Prayer](https://open.spotify.com/track/4fpSzZ1mXIc3Yg42KIlV4e) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Hunter](https://open.spotify.com/artist/79xCRaEpYC3kdfmZWGRNjX), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Like a Prayer](https://open.spotify.com/album/2x7O0SauXii2wEaV01VZx4) | 3:01 |
 | 20 | [I'll Play The Blues For You \(Live\)](https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 6:14 |
 | 21 | [The Valley Runs Low](https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 4:03 |
 | 22 | [Back in Black](https://open.spotify.com/track/3QbM1s2qg68bKEByp0Uvh8) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Joanna Jones](https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Back in Black](https://open.spotify.com/album/736B83hbqftdlB7yewbdOF) | 3:12 |
 | 23 | [Driving Wheel](https://open.spotify.com/track/4Lvby06863caCqrmISPYp3) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:33 |
 | 24 | [I Want To Shout About It](https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want To Shout About It](https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl) | 4:12 |
-| 25 | [Black Lung Heartache](https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:14 |
+| 25 | [Another Kind of Love](https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:09 |
 | 26 | [Cradle Rock](https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cradle Rock](https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA) | 3:50 |
-| 27 | [Another Kind of Love](https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:09 |
+| 27 | [Black Lung Heartache](https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:14 |
 | 28 | [We're All In This Together](https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [We're All In This Together](https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw) | 7:57 |
 | 29 | [Stone Cold](https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j) | 6:52 |
 | 30 | [You Upset Me Baby](https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:35 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 51 | [Pilgrimage](https://open.spotify.com/track/0SN7oedJQF4Lisqp61Qt5c) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 0:55 |
 | 52 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDA2ZDQ2MjJlNmE3OWNhOTUzM2IxM2E5ZDFlYjBjNzJhOA==`
+Snapshot ID: `MjgyNDIwMzcsMDAwMDAwMDAyMGVjYzhlODFjM2UwMzNkOTAzYWQzODEwYTg5NGViNg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,488 likes - 150 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,584 likes - 150 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 52 | [Me Olvide De Vivir](https://open.spotify.com/track/5WFPqx5vttozDdrlGbZgOC) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Me Olvide de Vivir](https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD) | 5:51 |
 | 53 | [Que Pasara](https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Amor](https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3) | 3:38 |
 | 54 | [Merenguero Hasta la Tambora \- Radio Version](https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [Mis Favoritas](https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO) | 3:04 |
-| 55 | [Asesina](https://open.spotify.com/track/4GBckDRx31bcHW13OCV61W) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:45 |
-| 56 | [Si Una Vez](https://open.spotify.com/track/20FcKeDZBAClUtEZVU1OVe) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0emzue2WXBfqL4jtZWurLP) | 4:48 |
+| 55 | [Si Una Vez](https://open.spotify.com/track/20FcKeDZBAClUtEZVU1OVe) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0emzue2WXBfqL4jtZWurLP) | 4:48 |
+| 56 | [Asesina](https://open.spotify.com/track/4GBckDRx31bcHW13OCV61W) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:45 |
 | 57 | [A Donde Vayas](https://open.spotify.com/track/0TjzFXuvwu0cOytRilofzz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr) | 4:27 |
 | 58 | [Celoso](https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Explosivo](https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ) | 4:03 |
 | 59 | [Jenny](https://open.spotify.com/track/5uLGkinVFCTlB4BaqUveE2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Y Mas](https://open.spotify.com/album/2i8ck7yEbr1MCqzKeJckke) | 4:08 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 83 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 |
 | 84 | [Amor Magico](https://open.spotify.com/track/1YF3dkRtuuvO6QdP6X26P9) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Siempre Yo](https://open.spotify.com/album/3ZO68h9osfe7RruzO0bhJG) | 4:30 |
 | 85 | [El Cantante del Amor](https://open.spotify.com/track/6Tj7rpzgCrQxK9r6WgZk81) | [El Zafiro](https://open.spotify.com/artist/7gkL5E5Ci6Lrq9cjvwMUXA) | [El Cantante del Amor](https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G) | 3:45 |
-| 86 | [Cal y Arena](https://open.spotify.com/track/7q2CSLVdQxU3GOk51Ojdhx) | [Los Hijos Del Rey](https://open.spotify.com/artist/6GzYE02GejB3ufs6CaW2Ou) | [Autenticos](https://open.spotify.com/album/3wXoEtRuDmnMrUG52cod5Z) | 4:52 |
-| 87 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4tOZ6QhFaUwvUItGpe6FkF) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [La Fiesta Del Merengue Mixeao](https://open.spotify.com/album/3lp1LMYZaFmR1MqVGdaaho) | 4:26 |
+| 86 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4tOZ6QhFaUwvUItGpe6FkF) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [La Fiesta Del Merengue Mixeao](https://open.spotify.com/album/3lp1LMYZaFmR1MqVGdaaho) | 4:26 |
+| 87 | [Cal y Arena](https://open.spotify.com/track/7q2CSLVdQxU3GOk51Ojdhx) | [Los Hijos Del Rey](https://open.spotify.com/artist/6GzYE02GejB3ufs6CaW2Ou) | [Autenticos](https://open.spotify.com/album/3wXoEtRuDmnMrUG52cod5Z) | 4:52 |
 | 88 | [Que Ganas De No Verte Nunca Más](https://open.spotify.com/track/35ioxGCu3Yc07YhhQfDxQe) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Siempre Diva](https://open.spotify.com/album/33KbyTdwcz7jwntBp7svfb) | 4:31 |
 | 89 | [Susana](https://open.spotify.com/track/5FHQXLRtTEnuHrnx76umZV) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Merengues Limpio](https://open.spotify.com/album/771HsH0BQNvh1S8iYiX1Ss) | 4:52 |
 | 90 | [Te Seguire Queriendo](https://open.spotify.com/track/4GfiJSv9MHToznRilFWYeh) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2) | 5:00 |
@@ -117,9 +117,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 107 | [Cometa Blanca](https://open.spotify.com/track/2oZ1qKVTkE7oGgkWXiYmFy) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Indetenibles](https://open.spotify.com/album/3kFLjfTZAl87oog3QwiHFc) | 4:11 |
 | 108 | [Tu Mujer](https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:01 |
 | 109 | [Faltaste A La Cita](https://open.spotify.com/track/0WOv22FFFEg5wgYdWA61Hg) | [Nando Galan](https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 4:27 |
-| 110 | [Enamorar](https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [16 Exitos de Sandy Reyes](https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi) | 4:05 |
+| 110 | [Esa Loca](https://open.spotify.com/track/2icXGdgNtEVvSw7uHCFBXu) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Siempre Diva](https://open.spotify.com/album/33KbyTdwcz7jwntBp7svfb) | 4:03 |
 | 111 | [No Me Importa, No](https://open.spotify.com/track/5Ea8d3nnfWqDGrFvtvS6ts) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Duro](https://open.spotify.com/album/3vSjCbYqpdImv7l7EP8hgj) | 3:55 |
-| 112 | [Esa Loca](https://open.spotify.com/track/2icXGdgNtEVvSw7uHCFBXu) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Siempre Diva](https://open.spotify.com/album/33KbyTdwcz7jwntBp7svfb) | 4:03 |
+| 112 | [Enamorar](https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [16 Exitos de Sandy Reyes](https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi) | 4:05 |
 | 113 | [Te Compro Tu Novia](https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Fiesta Latina](https://open.spotify.com/album/2QB6lzbYjwCmzWliRTPSau) | 4:25 |
 | 114 | [Hipocresía](https://open.spotify.com/track/0k8nK5uk57o3gYEjy8KDEv) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 5:15 |
 | 115 | [Te Odio y Te Quiero](https://open.spotify.com/track/14L7HV9ybYWOTD784H3oxy) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT) | 3:26 |
@@ -150,13 +150,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 140 | [Por Que Hemos Cambiado](https://open.spotify.com/track/6842NuQSyOymfndMDbGeSw) | [Jochy Hernandez](https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231) | [Merengues Clasicos Hit](https://open.spotify.com/album/6GIRcvaohM4ivHgG9ybdvB) | 4:32 |
 | 141 | [Yo me siento enamorao](https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY) | [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [Merengues Clasicos Vol 2](https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh) | 6:15 |
 | 142 | [Cuando Llegara](https://open.spotify.com/track/17PhuPpYpMv2Jnb6HOHdYb) | [La Gran Manzana](https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/6a2IqhC6p4EExbsoMrYpso) | 4:12 |
-| 143 | [Oye Abre Tus Ojos](https://open.spotify.com/track/1B8MHKKYkqrnmv8QDMat4Z) | [July Mateo Rasputin](https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi) | [Exitos](https://open.spotify.com/album/4ZXAcZ2oYaLj2Xpq8PvbTa) | 4:25 |
-| 144 | [Tu Belleza](https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI) | 3:39 |
+| 143 | [Tu Belleza](https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI) | 3:39 |
+| 144 | [Oye Abre Tus Ojos](https://open.spotify.com/track/1B8MHKKYkqrnmv8QDMat4Z) | [July Mateo Rasputin](https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi) | [Exitos](https://open.spotify.com/album/4ZXAcZ2oYaLj2Xpq8PvbTa) | 4:25 |
 | 145 | [Un Sobrinito de Champagne](https://open.spotify.com/track/7GsUS2pESTQSdyPhWLBwdN) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [Caricias](https://open.spotify.com/album/6G8kLQ5q6j19Ix24xkR8ig) | 3:34 |
 | 146 | [Lo Que Mas Quería](https://open.spotify.com/track/5owjrItInEpNGHrROUV9LQ) | [Carlos Manuel 'El Zafiro'](https://open.spotify.com/artist/4zonLJKAX1W7yrQZcGxRqo) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:23 |
 | 147 | [Con las Manos en la Masa](https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 4:02 |
 | 148 | [Cobarde Cobarde](https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Con Mucho Swing](https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV) | 5:13 |
-| 149 | [Peluche](https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f) | [Los Reyes Del Caribe](https://open.spotify.com/artist/52xfmIPS4Adi3h7AhRNMSe) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 3:50 |
-| 150 | [Nuestro Amor](https://open.spotify.com/track/4sEqK8SeihEwDySmsf2Zed) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/0ZtKfpi3mUYi1T2n8SMoh5) | 3:40 |
+| 149 | [Nuestro Amor](https://open.spotify.com/track/4sEqK8SeihEwDySmsf2Zed) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/0ZtKfpi3mUYi1T2n8SMoh5) | 3:40 |
+| 150 | [Peluche](https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f) | [Los Reyes Del Caribe](https://open.spotify.com/artist/52xfmIPS4Adi3h7AhRNMSe) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 3:50 |
 
-Snapshot ID: `MCxmOTQxZWUzNGUwMWQ2ZTMzNGE3OTQxMDdhYjk1NTA3YjA1Y2Y5MGVm`
+Snapshot ID: `MCw3ODY5M2U4YzlmZWVjOTcxZDdlNDIyNzYxYmYzZGM3NWQ1MmQ4ZTYw`

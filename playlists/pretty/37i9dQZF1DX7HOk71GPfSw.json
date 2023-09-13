@@ -1,12 +1,12 @@
 {
   "description": "Cover: A. G. Cook",
-  "num_followers": 420346,
+  "num_followers": 420473,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWY2MDcwZmU0ODdkOTBiZTg4MGJhMTkxMzJjYmMzODNmOWRkZjli",
+  "snapshot_id": "MCwxMzBkZGEwODZhMzkzYzc2NmFmYWVmMTVlNTA1N2MwOGFlNDc2MzE1",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -93,6 +93,30 @@
       "url": "https://open.spotify.com/track/1Rnf34dNuOVfc5TCr6yE9d"
     },
     {
+      "added_at": "2023-09-12 19:35:34",
+      "album": {
+        "name": "Red Eye",
+        "url": "https://open.spotify.com/album/4K50blng8D0LMocyf08grh"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        },
+        {
+          "name": "Taylor Skye",
+          "url": "https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2"
+        },
+        {
+          "name": "IAN STARR",
+          "url": "https://open.spotify.com/artist/5BTyrWm7ePzkLX9czUxsWc"
+        }
+      ],
+      "duration_ms": 117438,
+      "name": "Red Eye",
+      "url": "https://open.spotify.com/track/35U5ZWVge94oHMCOAwwWYf"
+    },
+    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "dopamine crash!",
@@ -147,6 +171,22 @@
       "duration_ms": 111360,
       "name": "Every Summer",
       "url": "https://open.spotify.com/track/1lz2s7GiXZcMypSpMCkjmJ"
+    },
+    {
+      "added_at": "2023-09-12 19:41:32",
+      "album": {
+        "name": "invrgaveup",
+        "url": "https://open.spotify.com/album/3IkfKrGOH8bOVS0emRt3xg"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "invrgaveup",
+      "url": "https://open.spotify.com/track/6pg7IHuovPxvnuWnU8EojX"
     },
     {
       "added_at": "2023-08-25 04:00:00",

@@ -4,7 +4,7 @@
 
 > ESPN is turning up the heat this season as the Rockstars of Racing embark on a world tour\. Listen to the drivers favorite tracks here.
 
-325 songs - 21 hr 20 min
+327 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Black Ice \(Sky High\) \(feat\. Outkast\)](https://open.spotify.com/track/0Uu8BPsWQGZk5AiRN3uBwn) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Still Standing](https://open.spotify.com/album/0MMxX1jX2lwR1iKRuB7yG7) | 3:25 | 2022-05-16 | 2022-06-24 |
 | [Bling Bling](https://open.spotify.com/track/5q186AzhWeOEoFnApajHgR) | [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS) | [Chopper City In The Ghetto](https://open.spotify.com/album/71UI6dxPwSUiJUH4DM226k) | 5:12 | 2022-05-16 | 2022-06-24 |
 | [BOSS](https://open.spotify.com/track/4F8V44j8cbjHnXjfW2HruU) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:04 | 2022-05-16 | 2022-06-24 |
+| [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 | 2023-09-12 |  |
 | [Brave](https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:40 | 2022-06-23 | 2022-08-06 |
 | [Break Ya Neck](https://open.spotify.com/track/0svl7cK07gK1ia5ainczU5) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/1FH8ruELaU1kthrFvdcSmt) | 3:51 | 2022-05-16 | 2022-06-24 |
 | [Breathe](https://open.spotify.com/track/7fuoqve1SOEBmhc2PoQTF0) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Real Talk \(123\)](https://open.spotify.com/album/0852dsZQyLOGmvotlvOvoA) | 4:28 | 2022-05-16 | 2022-06-24 |
@@ -78,6 +79,7 @@
 | [Dust To Diamonds ft\. Faouzia](https://open.spotify.com/track/7vwWQtLeXivKmEmZxp7mDI) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Dust To Diamonds ft\. Faouzia](https://open.spotify.com/album/1XWa4jdqez6cJQYkZ6t4gT) | 3:25 | 2022-06-23 | 2022-08-06 |
 | [Décembre](https://open.spotify.com/track/5yzH31eVQS7ctEcvYIwdTk) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Décembre](https://open.spotify.com/album/3jYj8yDBVr3Opb71BldBns) | 2:19 | 2023-05-03 |  |
 | [Fantastic Voyage](https://open.spotify.com/track/3QlTzofanSqDWywxEzGGE2) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [It Takes a Thief](https://open.spotify.com/album/3AZYNdRI9wD3xaRYuqMmZB) | 5:34 | 2020-05-11 | 2022-05-17 |
+| [Feel Good Inc.](https://open.spotify.com/track/7gpJcEEkStG0MadpeorAs2) | [Johanna Is Eye](https://open.spotify.com/artist/3dZBCLBiS7wsZpyz81arEc), [SoundBreakers](https://open.spotify.com/artist/796HnSZpFMJptXpGBB3ye3) | [Feel Good Inc.](https://open.spotify.com/album/6OvzrMbhRZCk2ssaBxmMEc) | 3:14 | 2023-09-12 |  |
 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 | 2022-06-23 | 2022-08-06 |
 | [Finish Line](https://open.spotify.com/track/0Vua3a4EZaEiGTfbUGImXf) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Finish Line](https://open.spotify.com/album/3i1RQtutPgn8oR8fZtZgK9) | 3:36 | 2022-06-23 | 2022-08-06 |
 | [Flipside](https://open.spotify.com/track/3dSsqTvkWZLQ7V4y4ftFgV) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [Peedi Crakk](https://open.spotify.com/artist/3jdZ2CpOnEmspXf9CyVkmK) | [Philadelphia Freeway](https://open.spotify.com/album/41guLY5GEPG3GLREh0ck19) | 3:56 | 2022-05-16 | 2022-06-24 |

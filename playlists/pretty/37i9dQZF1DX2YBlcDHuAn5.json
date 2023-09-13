@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 4110,
+  "num_followers": 4133,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjY1NDkwNDE5MTlhYzFkODE0MTFkOGIzNjdkNTA2YzQ0ODQzMzcw",
+  "snapshot_id": "MCwzMjZmMDFlNTBjMjlkY2Q2MmJlODJiN2ZjN2JlNmQ2YTgwNDA0Yzc3",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Love Is A Place",
+        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Russell County Line",
         "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Built And Broken",
         "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Love Is A Place",
-        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
       },
       "artists": [
         {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 185542,
-      "name": "Love Is A Place",
-      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Burlesque Desert Window",
-        "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
+        "name": "Wandering Soul",
+        "url": "https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
         }
       ],
-      "duration_ms": 179573,
-      "name": "Burlesque Desert Window",
-      "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
+      "duration_ms": 152590,
+      "name": "Gravel Road",
+      "url": "https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A"
     }
   ],
   "unique_name": "Route Americana",

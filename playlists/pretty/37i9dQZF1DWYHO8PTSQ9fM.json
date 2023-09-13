@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : Lartiste",
-  "num_followers": 343920,
+  "num_followers": 344901,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjkwNWM3ZjkzYjM1OGM5YTcxMzgxOGNjMTk0NjgyNjhmZGI4NTAy",
+  "snapshot_id": "MCwxNDg4ODIwN2FkMzI3ODY2ZTgwNDFhNDE0YWZiZDdhYzY5NzY3NDU2",
   "tracks": [
     {
       "added_at": "2023-09-11 13:36:30",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-09-11 13:36:30",
       "album": {
-        "name": "Femme forte",
-        "url": "https://open.spotify.com/album/1yvh0jrG804Om3izynaGKa"
-      },
-      "artists": [
-        {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
-        }
-      ],
-      "duration_ms": 192580,
-      "name": "Demain",
-      "url": "https://open.spotify.com/track/1Msk9wZdpAWCTtMy6OSbTj"
-    },
-    {
-      "added_at": "2023-09-11 13:36:30",
-      "album": {
         "name": "Rmadi",
         "url": "https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 202000,
       "name": "3DABI",
       "url": "https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA"
+    },
+    {
+      "added_at": "2023-09-11 13:36:30",
+      "album": {
+        "name": "Femme forte",
+        "url": "https://open.spotify.com/album/1yvh0jrG804Om3izynaGKa"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "duration_ms": 192580,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/1Msk9wZdpAWCTtMy6OSbTj"
     },
     {
       "added_at": "2023-09-11 13:36:30",
@@ -231,6 +231,26 @@
       "duration_ms": 161506,
       "name": "Tek Tek (feat. MHD)",
       "url": "https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1"
+    },
+    {
+      "added_at": "2023-09-11 13:36:30",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
     },
     {
       "added_at": "2023-09-11 13:36:30",
@@ -327,26 +347,6 @@
       "duration_ms": 259627,
       "name": "Se Grita",
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
-    },
-    {
-      "added_at": "2023-09-11 13:36:30",
-      "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
     },
     {
       "added_at": "2023-09-11 13:36:30",

@@ -4,7 +4,7 @@
 
 > 150%
 
-258 songs - 11 hr 22 min
+259 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Soweto \- Sped Up \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/3SaF6WLUiyfcOM5sTvUEOb) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \- Sped Up \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/album/1zVOL86YEfEat6U0XYpByc) | 3:03 | 2023-04-25 |  |
 | [Stay \(Speed\)](https://open.spotify.com/track/3YTyhP9JRvG5MvMVk5PJ9I) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel \(Speed\)](https://open.spotify.com/album/6dTmErMYMBPJsC6GUUqOxq) | 2:19 | 2022-11-18 | 2023-02-25 |
 | [Step On Me \- Sped Up Version](https://open.spotify.com/track/7r28jv8dtlXDOoulEIPP04) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Step On Me \(Sped Up Version\)](https://open.spotify.com/album/4Hvhn8Llylsg57osaLEVcJ) | 3:26 | 2023-04-13 | 2023-06-10 |
+| [Stereo Love \- Sped Up Version](https://open.spotify.com/track/7AjU3sce5VrGGxHjGDy7ZZ) | [Stereo Lovers](https://open.spotify.com/artist/2weQgeRFnIk3MXcWadk10U) | [Stereo Love \(Sped Up Version\)](https://open.spotify.com/album/4M7Z0H4Bvl8zKCMINicWrz) | 2:37 | 2023-09-12 |  |
 | [Stolen Dance \- Speed Version](https://open.spotify.com/track/58UDGnjRXZhHeeNxZYI6c5) | [Sped\-O](https://open.spotify.com/artist/41Bwy7d6vdqhuKe0Rw5wes) | [Stolen Dance \(Speed Version\)](https://open.spotify.com/album/5BlFBLahe9vzioXLZ9KY9F) | 4:15 | 2022-08-18 | 2023-04-29 |
 | [Stranded \- Sped Up](https://open.spotify.com/track/2kTUAhtgq8ZFacu37QbAnB) | [Keno Carter](https://open.spotify.com/artist/3njjFO9Dqt73ww33mCT8Ua), [dray tyg](https://open.spotify.com/artist/30aAOvtwTUh7fK8epTWqro) | [Stranded](https://open.spotify.com/album/2MNi9oHEvD6y25bzPvzBb9) | 2:36 | 2023-03-03 | 2023-04-26 |
 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 | 2022-06-09 | 2023-04-29 |

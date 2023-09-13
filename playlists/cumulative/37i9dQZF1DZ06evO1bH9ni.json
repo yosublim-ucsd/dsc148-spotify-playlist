@@ -1190,10 +1190,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 231839,
       "name": "Te Vas a Arrepentir",
       "url": "https://open.spotify.com/track/2uAqlWmMNq1CJSezD2b2Fj"
+    },
+    {
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231839,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/54hFP1zeT7EGieLj0rABLm"
     },
     {
       "album": {

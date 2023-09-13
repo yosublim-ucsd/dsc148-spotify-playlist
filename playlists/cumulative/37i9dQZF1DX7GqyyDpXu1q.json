@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 216854,
       "name": "As Cool As You Try",
       "url": "https://open.spotify.com/track/6a3nBvlRcPSc9Sv05jX7kE"
@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/5HMTkM7veGMMg8sxammkYr"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/2sKvfN6Kdjf9FA2yDWHQ6J"
+    },
+    {
+      "album": {
         "name": "Dig A Hole",
         "url": "https://open.spotify.com/album/6Qj4bkL3XK29fR6qcT7Kyb"
       },
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 210493,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 192673,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/3A7HkIU9cVYrT5ZopIxH09"
@@ -3484,6 +3502,24 @@
       "duration_ms": 242424,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/1wBtnfOFCMmr6yOy1dE5VM"
+    },
+    {
+      "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
     },
     {
       "album": {

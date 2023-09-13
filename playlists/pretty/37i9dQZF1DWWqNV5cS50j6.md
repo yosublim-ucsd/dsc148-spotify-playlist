@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: 347aidan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,750 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,742 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 74 | [Dizzy Vision](https://open.spotify.com/track/20LTZsoVpBQsbbwkgY9YPb) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Dizzy Vision](https://open.spotify.com/album/2XOFL54zsynsBPicRY3dnX) | 2:47 |
 | 75 | [Suburbia](https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Suburbia](https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB) | 2:59 |
 
-Snapshot ID: `MCxlZWRhODcxZWIyNmFiOTgxMGY2MzI5Njg3YTNiYTgxZjk2ZGE0ZjA3`
+Snapshot ID: `MCxmZGU4YjE0YzE1ZmQ1MDU0MzM5N2VhMjU4YzM3MjdkZjRiZDA2NDZm`

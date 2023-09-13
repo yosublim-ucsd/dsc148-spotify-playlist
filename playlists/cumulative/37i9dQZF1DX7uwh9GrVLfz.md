@@ -2,7 +2,7 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: GUMX
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: WANIMA
 
 620 songs - 1 day 9 hr 30 min
 
@@ -320,7 +320,7 @@
 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 | 2022-05-17 | 2022-07-29 |
 | [ROLLIE](https://open.spotify.com/track/3gt8pHDISoVa9oqaUn7SVn) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [EXPLORING OF THE SPACE](https://open.spotify.com/album/1snGcjfyD9oSQdOcUsr6NG) | 2:56 | 2022-05-19 | 2023-01-04 |
 | [ROSSOMAN](https://open.spotify.com/track/1OdL36eXdoWhN7HaaDLUIv) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [ROSSOMAN](https://open.spotify.com/album/2G0498MGtXceWoTlTmnJMK) | 3:59 | 2022-05-12 | 2022-07-22 |
-| [Sadness Is Over](https://open.spotify.com/track/2eT5hxlWXRal174NX8YrFA) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Sadness Is Over](https://open.spotify.com/album/5ZqzhJQEyLdHcPdtqDWUEx) | 2:43 | 2023-08-17 |  |
+| [Sadness Is Over](https://open.spotify.com/track/2eT5hxlWXRal174NX8YrFA) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Sadness Is Over](https://open.spotify.com/album/5ZqzhJQEyLdHcPdtqDWUEx) | 2:43 | 2023-08-17 | 2023-09-13 |
 | [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 | 2022-07-21 | 2023-06-07 |
 | [SAKURA](https://open.spotify.com/track/7n7DT24H4RZGfMvyMC8Z2s) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R\(e\) BEST](https://open.spotify.com/album/3umPmPd8laHb83g0Wwrq8t) | 4:37 | 2022-06-14 | 2022-07-29 |
 | [Sapphire](https://open.spotify.com/track/3b2zbCDgqGcddzZpE7wJ1E) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sapphire / Back in Action](https://open.spotify.com/album/4ukPyiibVLHwTY7oMTeliC) | 2:51 | 2022-05-12 | 2022-07-20 |
@@ -555,7 +555,7 @@
 | [国家の不正を暴きたい](https://open.spotify.com/track/2tuNtDVgN5cYnFHcOMNB9l) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [セカンドe.p](https://open.spotify.com/album/5IWfQmOJPgOkhYCMJ8vDaL) | 2:57 | 2022-05-12 | 2022-07-25 |
 | [地獄と地獄](https://open.spotify.com/track/4aOQx8r3qqmGXkIT5pbjR3) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [鄙、天国](https://open.spotify.com/album/5qrUsfI8Hre2TH3DYtWUhe) | 1:31 | 2022-11-16 | 2023-03-22 |
 | [境川天国方面](https://open.spotify.com/track/6YDByGDQItlSOFlJCtsuRW) | [樂円音樂](https://open.spotify.com/artist/043ssY1AZoNzcjnxO1BAx0) | [境川天国方面](https://open.spotify.com/album/1RtnqcpFDn9fII1vJ8PPg5) | 3:38 | 2023-06-27 | 2023-07-07 |
-| [夏の日の午後](https://open.spotify.com/track/0EjdWwzbKRIb3xoyVyzLXP) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [旅路ニ季節ガ燃エ落チル](https://open.spotify.com/album/3c2QAlEKyYSei9beAMgOnB) | 5:46 | 2022-05-17 | 2023-09-12 |
+| [夏の日の午後](https://open.spotify.com/track/0EjdWwzbKRIb3xoyVyzLXP) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [旅路ニ季節ガ燃エ落チル](https://open.spotify.com/album/3c2QAlEKyYSei9beAMgOnB) | 5:46 | 2022-05-17 |  |
 | [夏暁](https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [夏暁](https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez) | 3:52 | 2023-09-07 |  |
 | [夜明け待つ](https://open.spotify.com/track/0ttCzije2FUanrpB43DZfB) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [夜明け待つ](https://open.spotify.com/album/2PZtXYPmJ1IsLwyHh7lPI7) | 3:45 | 2022-05-12 | 2022-07-25 |
 | [夢で逢えたら](https://open.spotify.com/track/5rvaDukztuWN4S82JoGd7R) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [DOOR](https://open.spotify.com/album/01i1QV1gvVcfirJNFLQa3a) | 5:01 | 2022-05-12 |  |

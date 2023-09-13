@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Megan Thee Stallion + Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,165 likes - 76 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,252 likes - 76 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 75 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 |
 | 76 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
 
-Snapshot ID: `MCw4ZWMzOTNiNjBlMGEzZjE4NjIxYjllMTI4NmRjNjczMTMyY2IzZjEx`
+Snapshot ID: `MCwzYjFlYzFiYzNhMTJkZDU2ZDJlN2I2MzZhMTZmNmJmYWE1MWE4ZGIx`

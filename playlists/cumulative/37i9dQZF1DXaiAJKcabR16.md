@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-101 songs - 6 hr 44 min
+102 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [So Damn Lucky](https://open.spotify.com/track/4TYu2jojSGxALs2YNWnnwr) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [So Damn Lucky](https://open.spotify.com/album/5qCE1zhNO3S8Vo0nPCXdhu) | 4:03 | 2021-07-30 |  |
 | [The Dirt](https://open.spotify.com/track/19tDNU6hOt4wdXWgv1PUMf) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:35 | 2021-07-30 |  |
 | [The Dirt](https://open.spotify.com/track/5VB9VqBUzxR8lj49Scmly0) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 3:35 | 2021-07-30 | 2022-07-29 |
-| [The Hounds](https://open.spotify.com/track/36PkUgkmr1hVGLY5VJIXJ5) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [The Hounds](https://open.spotify.com/album/1Uoi1Ki0DQxCTWpNuYH7FE) | 4:04 | 2021-07-30 |  |
+| [The Hounds](https://open.spotify.com/track/36PkUgkmr1hVGLY5VJIXJ5) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [The Hounds](https://open.spotify.com/album/1Uoi1Ki0DQxCTWpNuYH7FE) | 4:04 | 2021-07-30 | 2023-09-13 |
+| [The Hounds](https://open.spotify.com/track/6CJv4dLO4XAHdMTqEQJ4Pg) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [The Hounds](https://open.spotify.com/album/45Jd3oIayajc6DgxB9uxmF) | 4:04 | 2023-06-23 |  |
 | [The Mark \- Live Solo](https://open.spotify.com/track/5QJMMpa8ihBI2CFEhhmOi4) | [Cold Specks](https://open.spotify.com/artist/2DMHBCdboDAYJWzt2lDSP5) | [Spotify Session](https://open.spotify.com/album/4Vt7lG6HA70tiPDMkK6Cch) | 2:18 | 2021-07-30 |  |
 | [Thousand Mile Night](https://open.spotify.com/track/7daWU6T6qzj6W2e8wVDg3D) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/61RF8IAtnbqiwQbENoVqQS) | 3:53 | 2023-03-28 |  |
 | [Thousand Mile Night](https://open.spotify.com/track/34Uf3UWc5oUd5f0NxZ1KJR) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/3NrqvphiHgZq1golNdpyKv) | 3:55 | 2021-07-30 | 2022-11-13 |

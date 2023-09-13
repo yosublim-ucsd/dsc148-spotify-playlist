@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 18246,
+  "num_followers": 18252,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTRjNDdkZDg1YzBlZTUwNjU0YWEzOTA1YzRjMGMwY2M3NGJiMTYy",
+  "snapshot_id": "MCxkNjQzODc3OGQ5OGE4YWEzYjA4OWIxMGVjMmVhYjRmZTM3MDc5MWEy",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -475,6 +475,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bart\u00f3k: Complete Works for Piano Solo, Vol. 2 \u2013 The Romantic Bart\u00f3k",
+        "url": "https://open.spotify.com/album/2NYDZNpORZUw9Jon6Z1TYH"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Andreas Bach",
+          "url": "https://open.spotify.com/artist/3mie871VjIKR2EV34P1lhj"
+        }
+      ],
+      "duration_ms": 673800,
+      "name": "4 Piano Pieces, Sz. 22: No. 4. Scherzo",
+      "url": "https://open.spotify.com/track/0tlHSq6tvEB7ohg0aaL58d"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bart\u00f3k: Concerto for Orchestra; Dance Suite; The Miraculous Mandarin",
         "url": "https://open.spotify.com/album/6eeTCx70gi5P31eM2O1pvI"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 1065613,
       "name": "The Miraculous Mandarin, Op. 19, Sz. 73 (Suite)",
       "url": "https://open.spotify.com/track/5fkrNzM7GME9z57bh8RhVj"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bart\u00f3k: Complete Works for Piano Solo, Vol. 2 \u2013 The Romantic Bart\u00f3k",
-        "url": "https://open.spotify.com/album/2NYDZNpORZUw9Jon6Z1TYH"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Andreas Bach",
-          "url": "https://open.spotify.com/artist/3mie871VjIKR2EV34P1lhj"
-        }
-      ],
-      "duration_ms": 673800,
-      "name": "4 Piano Pieces, Sz. 22: No. 4. Scherzo",
-      "url": "https://open.spotify.com/track/0tlHSq6tvEB7ohg0aaL58d"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bartok: Complete String Quartets",
+        "url": "https://open.spotify.com/album/44LynWVVBkG9EyTo05c5IX"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Heath Quartet",
+          "url": "https://open.spotify.com/artist/5MvZXG0LIbhA4XPss20Hvc"
+        }
+      ],
+      "duration_ms": 546920,
+      "name": "String Quartet No. 1, Sz. 40: I. Lento",
+      "url": "https://open.spotify.com/track/3sCKSszvRtvCbIOCGVgXAY"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Prokofiev & Bart\u00f3k: Piano Concertos",
         "url": "https://open.spotify.com/album/1iF9gU2gIbIvWZLUeAqILU"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 793493,
       "name": "Piano Concerto No. 2, Sz. 95: II. Adagio - Presto - Pi\u00f9 adagio",
       "url": "https://open.spotify.com/track/0aDkmWo5wgxyKUsdvkbkqB"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bartok: Complete String Quartets",
-        "url": "https://open.spotify.com/album/44LynWVVBkG9EyTo05c5IX"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Heath Quartet",
-          "url": "https://open.spotify.com/artist/5MvZXG0LIbhA4XPss20Hvc"
-        }
-      ],
-      "duration_ms": 546920,
-      "name": "String Quartet No. 1, Sz. 40: I. Lento",
-      "url": "https://open.spotify.com/track/3sCKSszvRtvCbIOCGVgXAY"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -795,30 +795,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k",
-        "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        }
-      ],
-      "duration_ms": 392000,
-      "name": "Four Orchestral Pieces Op. 12 (Sz 51): I. Preludio",
-      "url": "https://open.spotify.com/track/5SGqUwRIS8ycfFO4iepCMZ"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bartok: Rhapsodies Nos. 1 And 2 / Piano Quintet",
         "url": "https://open.spotify.com/album/3WXg9ApkQ8cDUO2AdpKz6J"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 527400,
       "name": "Piano Quintet, BB 33: Vivace - Scherzando",
       "url": "https://open.spotify.com/track/1ILSqTTfisGu8mgL3kqtca"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k",
+        "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "duration_ms": 392000,
+      "name": "Four Orchestral Pieces Op. 12 (Sz 51): I. Preludio",
+      "url": "https://open.spotify.com/track/5SGqUwRIS8ycfFO4iepCMZ"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bart\u00f3k: Works for Solo Piano, Vol. 4",
+        "url": "https://open.spotify.com/album/1wkpZYx1Fw5KtVrS4JZ8l6"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Out Doors, BB 89, Sz. 81 - Volume 2: 4. The Night's Music",
+      "url": "https://open.spotify.com/track/66to0qDs0qnH0m4I0VWDW0"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
         "url": "https://open.spotify.com/album/4b2Zzk0foPXsLJfsgH9Osk"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 228480,
       "name": "Dance Suite, BB 86b: I. Moderato",
       "url": "https://open.spotify.com/track/169brumljYWVi8tdxHBi21"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bart\u00f3k: Works for Solo Piano, Vol. 4",
-        "url": "https://open.spotify.com/album/1wkpZYx1Fw5KtVrS4JZ8l6"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Zolt\u00e1n Kocsis",
-          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Out Doors, BB 89, Sz. 81 - Volume 2: 4. The Night's Music",
-      "url": "https://open.spotify.com/track/66to0qDs0qnH0m4I0VWDW0"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Mikrokosmos Selections",
-        "url": "https://open.spotify.com/album/6D2ejPr7Ovv7VJxuKUgx5t"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Georges Solchany",
-          "url": "https://open.spotify.com/artist/16U37rLAVgm1h8e0Q0pE0d"
-        }
-      ],
-      "duration_ms": 454880,
-      "name": "Bart\u00f3k: Mikrokosmos, Sz. 107, Book I: Nos. 1 - 23",
-      "url": "https://open.spotify.com/track/20KYbSayqXrYzGCTsGGlwi"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
         "url": "https://open.spotify.com/album/4b2Zzk0foPXsLJfsgH9Osk"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 172133,
       "name": "A csodalatos mandarin (The Miraculous Mandarin), Op. 19, BB 82: The three tramps leap out, seize the Mandarin and tear him away from the girl",
       "url": "https://open.spotify.com/track/5V2TPmELr4IwCKPoWyhCMk"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k: Mikrokosmos Selections",
+        "url": "https://open.spotify.com/album/6D2ejPr7Ovv7VJxuKUgx5t"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Georges Solchany",
+          "url": "https://open.spotify.com/artist/16U37rLAVgm1h8e0Q0pE0d"
+        }
+      ],
+      "duration_ms": 454880,
+      "name": "Bart\u00f3k: Mikrokosmos, Sz. 107, Book I: Nos. 1 - 23",
+      "url": "https://open.spotify.com/track/20KYbSayqXrYzGCTsGGlwi"
     },
     {
       "added_at": "2022-07-01 04:02:00",

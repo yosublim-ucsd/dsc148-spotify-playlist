@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: Slow Pulp
 
-155 songs - 10 hr 17 min
+157 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Hunter](https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7) | 3:48 | 2023-03-31 | 2023-04-30 |
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-08-04 |  |
 | [I Know You're Wrong](https://open.spotify.com/track/25SJcZXOn89sHTfP3g5tsu) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [New Music and Big Pop](https://open.spotify.com/album/5z2BTKi7FQnonynrYUvyEF) | 2:03 | 2023-06-16 |  |
+| [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-12 |  |
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2023-02-23 |  |
 | [Indiana](https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:37 | 2023-02-23 | 2023-09-02 |
 | [Ingrid](https://open.spotify.com/track/3b0W6ug1PR4THfn1WZ4uix) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Vivien Vaucher](https://open.spotify.com/artist/6vxUFxsCMM6r1sFrdMXeJY) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:13 | 2023-02-23 | 2023-07-15 |
@@ -159,6 +160,7 @@
 | [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 | 2023-06-30 |  |
 | [Weekday/Anything](https://open.spotify.com/track/5Gd3XDWIBPJ0lbFPzavKqS) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 6:00 | 2023-04-28 | 2023-07-15 |
 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 | 2023-02-23 | 2023-09-02 |
+| [Wide Open Spaces](https://open.spotify.com/track/0otqLHZ2jLAFYu1LLOZzy8) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Wide Open Spaces](https://open.spotify.com/album/77ETBs8gKb44SezIbEMOp9) | 5:01 | 2023-09-12 |  |
 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 | 2023-02-23 |  |
 | [Yosemite](https://open.spotify.com/track/3WIifw9lqdgSZpt9renBAg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:06 | 2023-05-19 |  |
 | [You Can't Stay The Same](https://open.spotify.com/track/0VwC2KolUyFeL9MmNqJu0K) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 3:35 | 2023-06-16 |  |

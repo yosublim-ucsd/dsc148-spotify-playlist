@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -11601,6 +11601,32 @@
     },
     {
       "album": {
+        "name": "CELLA 5",
+        "url": "https://open.spotify.com/album/1x4jDsXkR5g4j8p72VIVoN"
+      },
+      "artists": [
+        {
+          "name": "Niko Pandetta",
+          "url": "https://open.spotify.com/artist/5H5RWXYleho8amdspskcUb"
+        },
+        {
+          "name": "Tempoxso",
+          "url": "https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq"
+        },
+        {
+          "name": "Janax",
+          "url": "https://open.spotify.com/artist/3liWfHRnSkAv6oHHuF1i74"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165633,
+      "name": "I LOVE YOU",
+      "url": "https://open.spotify.com/track/2ruFYao8Dy8Tx94sxxzlIl"
+    },
+    {
+      "album": {
         "name": "Mediterraneo",
         "url": "https://open.spotify.com/album/2PPHtMDuk5L0lMdxuXkn5w"
       },
@@ -13656,7 +13682,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 162000,
       "name": "LA FINE DEL MONDO",
       "url": "https://open.spotify.com/track/3ZG2jPvRmQDz1LAmpUzVZj"
@@ -22030,7 +22056,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 183840,
       "name": "Que Lo Ke",
       "url": "https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e"

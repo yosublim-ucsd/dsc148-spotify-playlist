@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 309103,
       "name": "Aabaad Barbaad",
       "url": "https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD"
@@ -72,7 +72,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 193997,
       "name": "Aata Majhi Satakli",
       "url": "https://open.spotify.com/track/7Go5unxYBw3RT5XoFGUatF"
@@ -287,6 +287,32 @@
     },
     {
       "album": {
+        "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212832,
+      "name": "Bolna",
+      "url": "https://open.spotify.com/track/7zn5ecZSwGsLTi1wgxyVzd"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
       },
@@ -432,6 +458,28 @@
       "duration_ms": 265995,
       "name": "Chashni (From \"Bharat\")",
       "url": "https://open.spotify.com/track/5X5db3FrBOHbibrFKA02MQ"
+    },
+    {
+      "album": {
+        "name": "Roy",
+        "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros Anjjan",
+          "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
+        },
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246100,
+      "name": "Chittiyaan Kalaiyaan",
+      "url": "https://open.spotify.com/track/6XjJXPP3UiGtAQpYkD01c0"
     },
     {
       "album": {
@@ -1263,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Goliyon Ki Raasleela Ram-Leela",
+        "url": "https://open.spotify.com/album/39DoW3oSM0BCiKtdRNxnhQ"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387169,
+      "name": "Laal Ishq",
+      "url": "https://open.spotify.com/track/0uX0uSqMOav5axpzPODSg7"
+    },
+    {
+      "album": {
         "name": "Mumbai Saga",
         "url": "https://open.spotify.com/album/1A6zSLiNekSSlyPuJmka71"
       },
@@ -1679,6 +1745,28 @@
     },
     {
       "album": {
+        "name": "Goliyon Ki Raasleela Ram-Leela",
+        "url": "https://open.spotify.com/album/39DoW3oSM0BCiKtdRNxnhQ"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Osman Mir",
+          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273256,
+      "name": "Nagada Sang Dhol",
+      "url": "https://open.spotify.com/track/6WyPFYIqwULAkTG9fAx4ox"
+    },
+    {
+      "album": {
         "name": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
         "url": "https://open.spotify.com/album/5D4Ku6tdcAdwiA38FgpgCP"
       },
@@ -1720,7 +1808,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 191239,
       "name": "Najaa (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v"
@@ -2370,7 +2458,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 264805,
       "name": "Tera Yaar Hoon Main",
       "url": "https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg"

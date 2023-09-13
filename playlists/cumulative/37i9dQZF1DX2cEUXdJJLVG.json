@@ -101,6 +101,24 @@
     },
     {
       "album": {
+        "name": "Above Me",
+        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
+    },
+    {
+      "album": {
         "name": "According To You",
         "url": "https://open.spotify.com/album/4ghBbVW4BChwFam44puXov"
       },
@@ -4272,10 +4290,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 235219,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/2gdklwx9RchkYL2L8FeYMs"
+    },
+    {
+      "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/3C2v8s1Wtxx975LpUmz1Q5"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        },
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235241,
+      "name": "SELFISH",
+      "url": "https://open.spotify.com/track/6dVIrBdzowfuvAq1NbLcjW"
     },
     {
       "album": {
@@ -4664,6 +4704,28 @@
       "duration_ms": 200453,
       "name": "Spare Me",
       "url": "https://open.spotify.com/track/2cH0clQUvBwo77M8W2YQ3D"
+    },
+    {
+      "album": {
+        "name": "Spend The Night",
+        "url": "https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193729,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
     },
     {
       "album": {

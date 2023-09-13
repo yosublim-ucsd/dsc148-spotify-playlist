@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Pepe, Samurai Jay
 
-206 songs - 9 hr 32 min
+207 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Così Come Sei](https://open.spotify.com/track/39refPH7JbYZZZ1NrBEa0f) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Così Come Sei](https://open.spotify.com/album/6a4FSCfn5xOXi2TSTH03DR) | 2:28 | 2023-05-25 |  |
 | [Creatura bellissima](https://open.spotify.com/track/0X8RXxTg4p2Uxn1QMaPaqR) | [Drama](https://open.spotify.com/artist/2h16TAqr8VkUs8ddUxOS6w), [PATRIK](https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca) | [Creatura bellissima](https://open.spotify.com/album/2dD8MKY6wdNvCv1hgM3LDX) | 3:39 | 2023-05-18 | 2023-06-09 |
 | [Cuori di ghiaccio](https://open.spotify.com/track/33D5qp6MGqApwcSja17gE1) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY), [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Cuori di ghiaccio](https://open.spotify.com/album/3CmNrgMOnTXUfLQY7TDRtd) | 2:59 | 2023-03-23 | 2023-03-31 |
-| [DA PAURA](https://open.spotify.com/track/5RtW8gQnmnf2tI6XOaxVlb) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [DA PAURA](https://open.spotify.com/album/2Q4126DBdA4sZV5X5xdoiW) | 2:16 | 2023-07-20 |  |
+| [DA PAURA](https://open.spotify.com/track/5RtW8gQnmnf2tI6XOaxVlb) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [DA PAURA](https://open.spotify.com/album/2Q4126DBdA4sZV5X5xdoiW) | 2:16 | 2023-07-20 | 2023-09-13 |
 | [DIECIMILAVOCI \(con ARIETE\)](https://open.spotify.com/track/4XULNbLgh1OiOuYMbPOmyN) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:50 | 2023-03-23 | 2023-07-28 |
 | [DIRTY LOVE](https://open.spotify.com/track/4BEeA6vmhoslMtRqePZMny) | [Wayne](https://open.spotify.com/artist/4FiPwqm4GHYuJyldqILugY) | [DIRTY LOVE](https://open.spotify.com/album/1X1EiUOZEtp2ELLUBF0RMz) | 2:44 | 2023-04-20 | 2023-05-26 |
 | [DISCO DANCE](https://open.spotify.com/track/2Er6snDRbWiaoag3n7fOTS) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [DISCO DANCE](https://open.spotify.com/album/3kS4dybdb45EishQ2DxFvI) | 3:02 | 2023-04-27 | 2023-05-19 |
@@ -170,6 +170,7 @@
 | [ROMA](https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [ROMA](https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI) | 2:30 | 2023-03-23 |  |
 | [ROMANTICA E BUGIARDA](https://open.spotify.com/track/3jZojGbxzsJTihyb1VVrFE) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [ROMANTICA E BUGIARDA](https://open.spotify.com/album/0WE9QOW9r88g2gcPQRADbm) | 2:53 | 2023-06-15 |  |
 | [RONDINI](https://open.spotify.com/track/5qt5YZOEUCejoPMrXFXRQq) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [RONDINI](https://open.spotify.com/album/5MLv3tlurdcQwChX4olC7K) | 2:27 | 2023-04-06 | 2023-04-14 |
+| [RUMORE](https://open.spotify.com/track/7fxAFWmMsl86C60gW5yooG) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [RUMORE](https://open.spotify.com/album/6Lo4MzfKF6e0mwnEGtdGgd) | 2:39 | 2023-09-12 |  |
 | [Scappi da me](https://open.spotify.com/track/75vgIeiaO6DtqrToQby1Qg) | [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck) | [Solo Francesco](https://open.spotify.com/album/6xPawfNwFStXqQHms84B2R) | 2:50 | 2023-03-23 | 2023-04-27 |
 | [Scivola](https://open.spotify.com/track/4xWsKYuIZS3Y5wSk7S5HyS) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [Scivola](https://open.spotify.com/album/2wYSqbGIQePGdEMCcKKufh) | 2:38 | 2023-03-23 | 2023-06-16 |
 | [Scusa](https://open.spotify.com/track/7w9URuxEODwcChkFCpsf5Q) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:55 | 2023-04-13 | 2023-06-09 |

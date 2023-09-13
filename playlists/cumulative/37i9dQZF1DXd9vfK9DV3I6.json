@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 184421,
       "name": "Free",
       "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
@@ -4333,6 +4333,28 @@
     },
     {
       "album": {
+        "name": "Buddha Bar (by Sahal\u00e9 & Ravin)",
+        "url": "https://open.spotify.com/album/4mlRC23hzJ2jl4ajkidikX"
+      },
+      "artists": [
+        {
+          "name": "Sahal\u00e9",
+          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
+        },
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284709,
+      "name": "Sapana",
+      "url": "https://open.spotify.com/track/6Lug1sWzQOhfySNlsmDNkI"
+    },
+    {
+      "album": {
         "name": "Schhh",
         "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
       },
@@ -5064,7 +5086,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 141754,
       "name": "Watra",
       "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"

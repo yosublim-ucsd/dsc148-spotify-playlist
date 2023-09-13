@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 122094,
       "name": "Brain Freeze",
       "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 248811,
       "name": "Slugger 1.4 [2014 Export.WAV]",
       "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
@@ -2820,12 +2820,12 @@
       },
       "artists": [
         {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
           "name": "Flansie",
           "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
         }
       ],
       "date_added": "2023-01-26",

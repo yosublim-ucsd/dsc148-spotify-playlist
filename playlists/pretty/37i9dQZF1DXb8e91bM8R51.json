@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 43432,
+  "num_followers": 43501,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTlmOTI2NTNhNDM5YTQ3ZjdlYjE5MmQ1M2I3MDg1NDI1M2E0MjYy",
+  "snapshot_id": "MCwzMGJiNWFjOTVkZmE1ZmU4ZGNlOTk2NDNlMTkyNzkwNTQ4YzY2ODE4",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Tommy Lee (feat. Post Malone)",
         "url": "https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 224638,
       "name": "Tommy Lee (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 160506,
+      "name": "FUXK (feat. Ski Mask the Slump God)",
+      "url": "https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "My Friends (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 158167,
       "name": "My Friends (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "LOOK AT ME: THE ALBUM",
-        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "FUXK (feat. Ski Mask the Slump God)",
-      "url": "https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "DRILLMATIC Heart vs. Mind",
+        "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Eazy (Feat. Kanye West)",
+      "url": "https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
         "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 227234,
       "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
       "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "DRILLMATIC Heart vs. Mind",
-        "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "Eazy (Feat. Kanye West)",
-      "url": "https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd"
     },
     {
       "added_at": "2023-09-01 03:01:00",

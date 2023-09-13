@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,073 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,565 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 22 | [Bad Day](https://open.spotify.com/track/1hLjDjDukRRGLdqfseaNsa) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Bad Day](https://open.spotify.com/album/4N3ODBFIfU3SrBUfRAVxpo) | 2:15 |
 | 23 | [I Like To Move It](https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [I Like To Move It](https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV) | 2:18 |
 | 24 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 |
-| 25 | [Drinkin](https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Drinkin](https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE) | 2:16 |
-| 26 | [Low](https://open.spotify.com/track/4bAzLbJOkwkZEakSiKd3sZ) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Low](https://open.spotify.com/album/56aYNth1A4q02fd3cUn3QQ) | 2:15 |
+| 25 | [Low](https://open.spotify.com/track/4bAzLbJOkwkZEakSiKd3sZ) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Low](https://open.spotify.com/album/56aYNth1A4q02fd3cUn3QQ) | 2:15 |
+| 26 | [Drinkin](https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Drinkin](https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE) | 2:16 |
 | 27 | [Bailando](https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV) | 2:16 |
 | 28 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 |
 | 29 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 |
 | 50 | [Pump It Up](https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v) | 2:47 |
 
-Snapshot ID: `MCw2MDM0NjM0ZTg1Y2Y0OTk3YjkyMjY5NDkyNzdmNWYyNGEzZDI0NWQ2`
+Snapshot ID: `MCxjMjk2MTgwYjE1NjMwNTI4N2EzMzk0MGZlZTRlZjg3ZTRmYjNhYmI1`

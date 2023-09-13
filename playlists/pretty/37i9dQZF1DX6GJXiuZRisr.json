@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1524509,
+  "num_followers": 1524916,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTVkOWFjZGVlMmMwNjQxMjQwY2RiNTg5ZjU1NDAzYmQ0OTlkOWNm",
+  "snapshot_id": "MCwxMmQyZGY1MmJkNmVmYzA4ZjBhZTAxMTAwODFjZmI1Y2NkY2IyZThm",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Alive (feat. The Moth & The Flame)",
         "url": "https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 308709,
       "name": "Alive (feat. The Moth & The Flame)",
       "url": "https://open.spotify.com/track/1SETgPENHVzsWoD9g79LYI"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Further Away",
-        "url": "https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Further Away",
-      "url": "https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Otherside (Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 207111,
       "name": "Say Hello",
       "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Further Away",
+        "url": "https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Further Away",
+      "url": "https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Breathe Me In",
         "url": "https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc"
       },
@@ -1019,6 +1003,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Coming Home (feat. John Martin)",
+        "url": "https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Coming Home (feat. John Martin)",
+      "url": "https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "The Return (Edit)",
         "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
       },
@@ -1031,6 +1035,22 @@
       "duration_ms": 232380,
       "name": "The Return - Edit",
       "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1059,26 +1079,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Coming Home (feat. John Martin)",
-        "url": "https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Coming Home (feat. John Martin)",
-      "url": "https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
       },
@@ -1095,26 +1095,6 @@
       "duration_ms": 232245,
       "name": "Silenced",
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Ginger",
-          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "I Want You - Edit",
-      "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1143,6 +1123,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Ginger",
+          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "I Want You - Edit",
+      "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "The World You See",
         "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
       },
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 288387,
+      "name": "Rave",
+      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Rave",
-        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 288387,
-      "name": "Rave",
-      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Not Over Yet (feat. Grace Grundy)",
         "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 161904,
       "name": "Not Over Yet (feat. Grace Grundy)",
       "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 286520,
       "name": "About Us (feat. EMME)",
       "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1595,30 +1595,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "To the Sea",
-        "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        },
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 452000,
-      "name": "To the Sea - Einmusik Remix",
-      "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Out Of Reach",
         "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
       },
@@ -1643,6 +1619,46 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "To the Sea",
+        "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 452000,
+      "name": "To the Sea - Einmusik Remix",
+      "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Need To Feel Loved (Cristoph Remix)",
         "url": "https://open.spotify.com/album/68VTCayg2z4pmDf9XjtExN"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 466560,
       "name": "Need To Feel Loved - Cristoph Remix",
       "url": "https://open.spotify.com/track/6jJmzpQaOJmcay1UG4CYm0"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 245881,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Should Have Seen It Coming",
         "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
       },
@@ -1779,18 +1795,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
       "artists": [
         {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
         }
       ],
-      "duration_ms": 245881,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1815,26 +1835,6 @@
       "duration_ms": 460780,
       "name": "Origin",
       "url": "https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
-        }
-      ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Disco Voyager",
-        "url": "https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Disco Voyager",
-      "url": "https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Out Of Control",
         "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
       },
@@ -1951,18 +1935,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+        "name": "Disco Voyager",
+        "url": "https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+      "duration_ms": 190200,
+      "name": "Disco Voyager",
+      "url": "https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1987,6 +1971,22 @@
       "duration_ms": 182400,
       "name": "Discopolis 2.0 - MEDUZA Remix",
       "url": "https://open.spotify.com/track/1zu8sQCLjW5jtzf7JVpGop"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
     },
     {
       "added_at": "2023-09-08 04:00:00",

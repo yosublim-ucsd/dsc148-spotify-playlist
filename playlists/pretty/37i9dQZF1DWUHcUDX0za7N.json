@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ\"> Cheque </a> ",
-  "num_followers": 25473,
+  "num_followers": 25531,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODQ4MGI0YzM2NjAzN2FjOTlmYzEyOTcwMjNiOWUwMDZlMDJhM2I3",
+  "snapshot_id": "MCxmZmVlNzgxNDM1NTdiZjlhZGM5NzY4ODlkNjkxNWY1ZjgyMjcxYTc5",
   "tracks": [
     {
       "added_at": "2023-09-11 11:09:44",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-11 11:09:44",
       "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Reason You",
-      "url": "https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni"
-    },
-    {
-      "added_at": "2023-09-11 11:09:44",
-      "album": {
         "name": "Pattern Gang (feat. Smada)",
         "url": "https://open.spotify.com/album/213CqMDl9DGW41okxo8lZn"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 136842,
       "name": "Pattern Gang (feat. Smada)",
       "url": "https://open.spotify.com/track/0GW4OIKAGftHpBU7q85JHL"
+    },
+    {
+      "added_at": "2023-09-11 11:09:44",
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Reason You",
+      "url": "https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni"
     },
     {
       "added_at": "2023-09-11 11:09:44",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-09-11 11:09:44",
       "album": {
-        "name": "Amdallah",
-        "url": "https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 180584,
-      "name": "Amdallah",
-      "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
-    },
-    {
-      "added_at": "2023-09-11 11:09:44",
-      "album": {
         "name": "Humble Cry",
         "url": "https://open.spotify.com/album/0HAgykkVb3jNd5UFdzIsKI"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 161502,
       "name": "Humble Cry",
       "url": "https://open.spotify.com/track/0iWD2VVQiNnUvYG74mBw4c"
+    },
+    {
+      "added_at": "2023-09-11 11:09:44",
+      "album": {
+        "name": "Amdallah",
+        "url": "https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180584,
+      "name": "Amdallah",
+      "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
     },
     {
       "added_at": "2023-09-11 11:09:44",

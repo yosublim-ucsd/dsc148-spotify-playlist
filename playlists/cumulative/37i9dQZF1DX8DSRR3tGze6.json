@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "DEKKOLETERA 333",
+        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV"
+    },
+    {
+      "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp"
       },
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 148723,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi"

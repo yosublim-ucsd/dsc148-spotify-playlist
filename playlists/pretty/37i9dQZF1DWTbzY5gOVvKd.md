@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,350 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,522 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,16 +58,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 48 | [I've Got You Under My Skin](https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [I've Got You Under My Skin](https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP) | 3:29 |
 | 49 | [We'll Be Together Again](https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 3:54 |
 | 50 | [Let’s Make The Most Of A Beautiful Thing](https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp) | 4:39 |
-| 51 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
-| 52 | [I Only Have Eyes For You](https://open.spotify.com/track/6y80WSyy5Neu2CsrqjQszz) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Sunny Holiday](https://open.spotify.com/artist/2dX157YnbGJAnNclK9HU0X) | [OK Crooner](https://open.spotify.com/album/13yp37PL2hnN1fP25AFB6J) | 3:12 |
+| 51 | [I Only Have Eyes For You](https://open.spotify.com/track/6y80WSyy5Neu2CsrqjQszz) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Sunny Holiday](https://open.spotify.com/artist/2dX157YnbGJAnNclK9HU0X) | [OK Crooner](https://open.spotify.com/album/13yp37PL2hnN1fP25AFB6J) | 3:12 |
+| 52 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
 | 53 | [I'll Be Seeing You](https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 6:07 |
 | 54 | [Language Of Love](https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language Of Love](https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL) | 4:16 |
 | 55 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 |
 | 56 | [For All We Know](https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 2:53 |
 | 57 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
-| 58 | [I Can't Give You Anything](https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Me and My Radio](https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF) | 5:18 |
+| 58 | [Autumn In New York \(feat\. Chris Potter, Bill Cunliffe & Vinnie Colaiuta\)](https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC) | [Andy James](https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [An Evening with/ Andy James & John Patitucci](https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl) | 4:23 |
 | 59 | [Long Ago And Far Away](https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of..\. The Great American Songbook](https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg) | 3:12 |
-| 60 | [Autumn In New York \(feat\. Chris Potter, Bill Cunliffe & Vinnie Colaiuta\)](https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC) | [Andy James](https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [An Evening with/ Andy James & John Patitucci](https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl) | 4:23 |
+| 60 | [I Can't Give You Anything](https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Me and My Radio](https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF) | 5:18 |
 | 61 | [Mind If I Make Love To You](https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [True Love: A Celebration Of Cole Porter](https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR) | 3:29 |
 | 62 | [Monday](https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 2:01 |
 | 63 | [The Man I Love](https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W) | [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [On Holiday](https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [Keep Me From The Cold](https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J) | 4:43 |
 | 100 | [These Things You Are To Me](https://open.spotify.com/track/22rek75QknVrI85tEIUF7a) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz) | 4:23 |
 
-Snapshot ID: `MCw5MjI4ZTE4M2UyMjYzNmNjYjkxYmExNThkZDcxZDIyZmFjZjE2NzM0`
+Snapshot ID: `MCw4MDkwNDU0MzBmMzAzMWIyZmYwZWU5YTcxYzMwNDQ2OTY0NmM1YTg4`

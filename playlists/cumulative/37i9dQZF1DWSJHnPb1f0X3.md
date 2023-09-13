@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-595 songs - 1 day 5 hr 47 min
+596 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-06-30 |  |
 | [Careful What You Wish For \(feat\. Alida\)](https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\)](https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb) | 2:56 | 2023-06-02 | 2023-07-22 |
 | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6) | 2:53 | 2022-06-03 | 2023-03-10 |
-| [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 | 2021-12-17 |  |
+| [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 | 2021-12-17 | 2023-09-13 |
 | [Channel 43 \- Radio Edit](https://open.spotify.com/track/2m9ryxnEcVoQNr22KRxe09) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Channel 43](https://open.spotify.com/album/6GTPauuGqd0apuW1moW6dD) | 3:04 | 2022-03-25 | 2022-04-20 |
 | [Chasing Fire \- Robin Schulz Remix](https://open.spotify.com/track/3gDEo3OPNyAs1jMwSebE24) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Chasing Fire \(Robin Schulz Remix\)](https://open.spotify.com/album/6flXoyvPbgzECC7R4WoCik) | 3:37 | 2022-03-25 | 2022-04-19 |
 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 | 2023-07-21 |  |
@@ -158,6 +158,7 @@
 | [Drunk Calling](https://open.spotify.com/track/3U6YCUCPJ5CxQWx1psJ4Ga) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Drunk Calling](https://open.spotify.com/album/7eGSM40pIFMOEVofCb0r0n) | 2:32 | 2021-12-17 | 2022-04-17 |
 | [Dumb](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Dumb](https://open.spotify.com/album/6doM5nAPNGBRo8yoPM3q9r) | 3:12 | 2021-12-17 | 2022-07-09 |
 | [Dusk](https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Dusk](https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI) | 2:55 | 2022-05-20 | 2022-05-21 |
+| [Easy On My Heart](https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Easy On My Heart](https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab) | 2:58 | 2023-09-01 |  |
 | [edamame \(feat\. Rich Brian\) \- Diplo Remix](https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [edamame \(feat\. Rich Brian\) \[Diplo Remix\]](https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW) | 2:55 | 2022-03-25 | 2022-11-05 |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-12-02 |  |
 | [El Cielo](https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Cielo](https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f) | 3:11 | 2023-06-26 |  |

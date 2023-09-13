@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,880 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,910 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 19 | [Carnival Proclamation](https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6) | [Lord Melody](https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka) | [Lord Melody Sings Calypso](https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e) | 2:43 |
 | 20 | [Mister Give Me de Rent](https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD) | [Mighty Panther](https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG) | [Calypso Legends \- Mighty Panther / Macbeth the Great \(1953 \- 1956\)](https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC) | 2:29 |
 | 21 | [No Melda](https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Doctor Kitch](https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa) | 2:35 |
-| 22 | [Bamboo Dance](https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c) | [Black Czar](https://open.spotify.com/artist/5F5nVgncAcSaCEmtrJQRcn) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:54 |
-| 23 | [One Morning](https://open.spotify.com/track/1LLinCUuJICYx4ozbzdo0X) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:56 |
+| 22 | [One Morning](https://open.spotify.com/track/1LLinCUuJICYx4ozbzdo0X) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:56 |
+| 23 | [Bamboo Dance](https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c) | [Black Czar](https://open.spotify.com/artist/5F5nVgncAcSaCEmtrJQRcn) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:54 |
 | 24 | [Money Is King](https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X) | [The Tiger](https://open.spotify.com/artist/6FiS31AoA7Y5WJhDu282C8) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:59 |
 | 25 | [Poor but Ambitious](https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf) | [Wilmoth Houdini](https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S) | [The Calypso Way](https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR) | 3:07 |
 | 26 | [Meshuggener](https://open.spotify.com/track/48oVuKnl8R6gH5CEjB5qVN) | [John L\. Nichols](https://open.spotify.com/artist/4v5ivzSlS5RaolIHZlKnXc) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 3:25 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 39 | [In the Dew and the Rain](https://open.spotify.com/track/1dnOU5nbW5kpmRBg0uCtqy) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:58 |
 | 40 | [Blow Wind Blow](https://open.spotify.com/track/42FHEJKS0K5eEbY5hQLaAj) | [Lionel Belasco](https://open.spotify.com/artist/4cPFaFsaRAuAdh5qhZHCXf) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:07 |
 
-Snapshot ID: `MCw2N2Y1OWQyOTg3ZDhkYTFhNDEyM2IzNTQyNWYxZTI3OTg4MGVlM2E2`
+Snapshot ID: `MCw2MGMzNzY5ZTk0Yzk4MzA0MDhhMTU1ZDM2YmExNWI3ZjZhZGIzOGRk`

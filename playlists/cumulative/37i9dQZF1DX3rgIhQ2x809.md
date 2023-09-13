@@ -4,7 +4,7 @@
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-113 songs - 6 hr 8 min
+114 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,13 +46,14 @@
 | [Fantasma](https://open.spotify.com/track/2wr5r6QMp2Ps7SZ5og1L9q) | [Dynell](https://open.spotify.com/artist/7oCLjINIMWifuknBBsg3CO) | [Fantasma](https://open.spotify.com/album/2R2kli8pXAeuGsfSd0HeTv) | 3:02 | 2023-06-09 | 2023-07-22 |
 | [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 | 2023-06-09 |  |
 | [G Spot](https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [G Spot](https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc) | 3:31 | 2023-06-09 |  |
+| [gatx](https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 2:58 | 2023-06-09 |  |
 | [Gozo](https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Gozo](https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw) | 3:23 | 2023-06-09 |  |
 | [Gucci Prada](https://open.spotify.com/track/1DpyhxXcebRC3STmwMBXH3) | [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Gucci Prada](https://open.spotify.com/album/5PhmFSll4LVvCaQFWOD8lK) | 3:03 | 2023-06-09 |  |
 | [Hedonismo](https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 3:10 | 2023-06-09 |  |
 | [IDGAF](https://open.spotify.com/track/076GBcif3AM1IHfBJs545o) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [IDGAF](https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA) | 2:14 | 2023-06-09 |  |
 | [Invicta](https://open.spotify.com/track/28yQZfH9hoSvZLOKnEODlU) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [Invicta](https://open.spotify.com/album/164fsq8P3kfsSluv7q21rZ) | 4:46 | 2023-06-09 |  |
 | [Kame Hame](https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Kame Hame](https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8) | 2:47 | 2023-06-09 |  |
-| [La Bebecita](https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc) | [Las Criaturas: El Regreso](https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank) | 3:51 | 2023-06-09 |  |
+| [La Bebecita](https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc) | [Las Criaturas: El Regreso](https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank) | 3:51 | 2023-06-09 | 2023-09-13 |
 | [La Esquina](https://open.spotify.com/track/1FTFsE4Uv7SfmtxW5A3l5b) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [La Esquina](https://open.spotify.com/album/59bdhdLx7R1cThpbZNtyeB) | 4:05 | 2023-06-09 |  |
 | [La Familia](https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj) | [La Familia](https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou) | 3:17 | 2023-06-09 |  |
 | [Labios](https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Labios](https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82) | 2:46 | 2023-06-09 |  |

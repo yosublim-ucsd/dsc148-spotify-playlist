@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-604 songs - 1 day 17 hr 15 min
+607 songs - 1 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Bad Faith \(feat\. Mandy, Indiana\)](https://open.spotify.com/track/5y1yivW0K8a4JqqOKn9WAH) | [Regressive Left](https://open.spotify.com/artist/2MleSirgvp1oX5un0fbgcy), [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Bad Faith](https://open.spotify.com/album/15IAPEq7DhIb7EXeIbY7VK) | 4:02 | 2022-06-08 | 2022-06-30 |
 | [Baker Miller Pink](https://open.spotify.com/track/3ctU6TBfcYdMhcSW4FPxG6) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Harlequin](https://open.spotify.com/album/4KWRSlFGJVcctCYzwyII38) | 3:52 | 2023-01-11 | 2023-02-16 |
 | [balance is gone](https://open.spotify.com/track/5fNzVAFXZH1hk6PvUNWNFY) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [balance is gone](https://open.spotify.com/album/55wZccrNqRIwnbECVp34Dv) | 3:33 | 2022-09-28 | 2022-11-03 |
+| [Ballad Of A Thin Man \- Live at the Royal Albert Hall](https://open.spotify.com/track/6e4MDGtYT35IlplGMmBvep) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [She Belongs To Me / Ballad Of A Thin Man](https://open.spotify.com/album/1eIYNL1JRQXlIum8rNQFNT) | 6:11 | 2023-09-12 |  |
 | [Bang](https://open.spotify.com/track/5XmfmJl6z8B5bvVzhk5vUg) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/2ekIzRVrvwVtjRiK7vrhhU) | 5:10 | 2023-06-28 | 2023-08-03 |
 | [Before We Fell From Grace](https://open.spotify.com/track/0Ifom3QrLplQBsCTP5J4qX) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [Before We Fell From Grace](https://open.spotify.com/album/7xoC815gar0ukkCYPJj36q) | 4:51 | 2023-01-25 | 2023-03-02 |
 | [Beginner's Luck](https://open.spotify.com/track/1aGHJWuMcqXA3occrRcTll) | [Former Champ](https://open.spotify.com/artist/1ntDd3adPrsrlLpiJBPfzM) | [Motherwell](https://open.spotify.com/album/0z388Qszg0TTCt4F2cTlCs) | 2:10 | 2023-08-02 |  |
@@ -409,6 +410,7 @@
 | [Option 8](https://open.spotify.com/track/5dxk732O5asDxSLeW6H0cg) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Versions of Modern Performance](https://open.spotify.com/album/435br4I9UOHTrQI5qbxVbI) | 3:33 | 2022-06-08 | 2022-07-14 |
 | [Our Love Remains](https://open.spotify.com/track/27fhKlrPdZ2V3ifyyM6DiV) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [I'm Not Here](https://open.spotify.com/album/3UuoN91OpPc62Cqiwmwo95) | 3:49 | 2022-06-08 | 2022-07-07 |
 | [Pad](https://open.spotify.com/track/2Wa7vAGPiBI6FZ24YBY727) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Pad](https://open.spotify.com/album/7GRrY0vi5nC0tSKOK3LrOk) | 2:46 | 2022-08-10 | 2022-09-22 |
+| [Palace In My Head](https://open.spotify.com/track/3XXUa6zYeJ7l53goVtH73x) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3), [Alma Jodorowsky](https://open.spotify.com/artist/4DBszooKyAkibrGnhMxKqr) | [Palace In My Head](https://open.spotify.com/album/2BE3sN6vEDb9OIVarVMZZH) | 3:34 | 2023-09-12 |  |
 | [Paradise](https://open.spotify.com/track/7Mcpr4dcL5FIrLQkAl2ThC) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Paradise](https://open.spotify.com/album/5nLHY1doRZ0jVRcRcU8NOw) | 3:39 | 2023-07-05 | 2023-08-31 |
 | [Parody](https://open.spotify.com/track/4oWHRC1mCSSJhNv3YoUlBc) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:06 | 2023-03-22 | 2023-05-04 |
 | [Passed Tense](https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense](https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9) | 4:01 | 2022-08-31 | 2022-10-13 |
@@ -465,6 +467,7 @@
 | [Settled](https://open.spotify.com/track/4aG6n0GqZbCLed4hylmZBZ) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [Settled](https://open.spotify.com/album/5JVJuzodPafoyYiyoG9eqh) | 3:20 | 2022-10-26 | 2022-12-01 |
 | [Shake Her Awake](https://open.spotify.com/track/1ybU61YSLAUO78Hbg5ZF8d) | [Stegosaurus Trap](https://open.spotify.com/artist/3nlYs0cqN8tNZaizF7xA83) | [A Bug in Your Brain](https://open.spotify.com/album/4oHU5W64VT1uXTExj9KtKR) | 3:40 | 2022-12-07 | 2023-01-26 |
 | [Shake The Feeling](https://open.spotify.com/track/7cklNY31Z25gfpNd7S4O6F) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Shake The Feeling](https://open.spotify.com/album/2TJgDkt8xrm7LBPS8Yuzey) | 3:53 | 2022-08-24 | 2022-09-29 |
+| [She Belongs To Me \- Live at the Royal Albert Hall](https://open.spotify.com/track/5SWH0cj1CS3JNinFHiRMjo) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [She Belongs To Me / Ballad Of A Thin Man](https://open.spotify.com/album/1eIYNL1JRQXlIum8rNQFNT) | 4:49 | 2023-09-12 |  |
 | [Short and Round](https://open.spotify.com/track/0fQwcxAWI9dlCQxgzLM6g3) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Short and Round](https://open.spotify.com/album/17nx9wsAyrKerXyQVs8g5P) | 2:40 | 2023-08-02 |  |
 | [Show Business](https://open.spotify.com/track/1ZLJWfXNfCQ8Vh3AvwIYcW) | [Alice Low](https://open.spotify.com/artist/3mSS5RJRziMAKk5aeSyPSI) | [Transatlantic Sugar](https://open.spotify.com/album/4ClmdvEMhHebxxwB7EbJta) | 3:08 | 2023-05-17 | 2023-06-29 |
 | [Sickworld](https://open.spotify.com/track/4YF95ySg5ilyCzPnG6Kskr) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Sickworld](https://open.spotify.com/album/3J1gp2Jd47E7bb5JeQZojv) | 6:42 | 2022-10-20 | 2022-12-01 |

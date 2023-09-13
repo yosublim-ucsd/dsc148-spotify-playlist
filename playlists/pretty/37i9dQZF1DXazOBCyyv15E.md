@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Marika Hackman
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,767 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,837 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 79 | [Dead Submarines](https://open.spotify.com/track/1CfljNbof7L1IDqEH8AAs7) | [Jacob Slater](https://open.spotify.com/artist/2ySjYyLhcKzJFDult8UdYw) | [Pinky, I Love You](https://open.spotify.com/album/1UxVB3EeqH303QRMW24bmG) | 3:31 |
 | 80 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 |
 
-Snapshot ID: `MCw0ZDljMDRiMGUzNWIxMDcxNWYyMGM0ZWI4OGY4Yzk0YWM1ZGFjZWQ2`
+Snapshot ID: `MCxlOTY4YWYyZTQyYmJjOTg3NTQyYjU4YzE3YzBmM2I4ZjgwMmI3YTNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Jab Harry Met Sejal
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,207 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,669 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 14 | [Deewani](https://open.spotify.com/track/1pDvtLmrjzr5FSQItRLWxA) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Deewani](https://open.spotify.com/album/4gRgJLrR888KFtXndMZwox) | 2:54 |
 | 15 | [Love You Zindagi](https://open.spotify.com/track/6k3XXCE1ZzwevQlxf8dNaw) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 3:52 |
 | 16 | [Buddhu Sa Mann](https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:26 |
-| 17 | [Coffee Ke Bahane](https://open.spotify.com/track/16OpfF6l2Q4yNm0saq2gBN) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [KavyaKriti](https://open.spotify.com/artist/1DHwrcQWDQhgbRg4BE9rgr) | [Coffee Ke Bahane](https://open.spotify.com/album/4GaUOWLIyCS4jn3mz4DU77) | 2:58 |
-| 18 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 |
+| 17 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 |
+| 18 | [Gaya Gaya](https://open.spotify.com/track/7hSPAHaEqQwfRvJ0QtvSeu) | [Dorwin John](https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v) | [Gaya Gaya](https://open.spotify.com/album/4uzpAlozW6vtf5nZnMXHiN) | 2:45 |
 | 19 | [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Happy Ending \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tkBjsDswNuXjfVertqYPV) | 4:26 |
 | 20 | [Mere Liye Tum Kaafi Ho](https://open.spotify.com/track/73whmTgxzRFLhPbRMkDnjj) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Shubh Mangal Zyada Saavdhan](https://open.spotify.com/album/1qvic7ic93zptwsWs2nvhU) | 2:12 |
 | 21 | [Saibo](https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Shor in the City \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 49 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 |
 | 50 | [Offo](https://open.spotify.com/track/3f26GAn3yOXfoclLyN8AdD) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 3:33 |
 
-Snapshot ID: `MCw4OGI5ZGI1NmY2ZDZmNDBmOWE3MDE4NzllNDBhMDg0Mzk2NDllOGYy`
+Snapshot ID: `MCxlMzlmMDVjMmU5ZWQwZDk5ZjU0OTMzNjYwNTNhMDc4Y2M0YWU2OGRi`

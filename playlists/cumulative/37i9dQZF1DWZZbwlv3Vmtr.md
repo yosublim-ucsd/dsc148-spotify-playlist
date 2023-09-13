@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-753 songs - 1 day 5 hr 17 min
+755 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Elevated](https://open.spotify.com/track/0G2RKuFx54rmtbhi5CP0VZ) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Elevated](https://open.spotify.com/album/36FHXlNUoSoarwPkzATpun) | 2:30 | 2022-08-19 | 2022-12-10 |
 | [Elevator Vibes](https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo) | [STAY THERE](https://open.spotify.com/artist/169SFNhjiSsCtKYt0APX6r) | [Elevator Vibes](https://open.spotify.com/album/0L2tAWPMwQdUF0fkc6pj8j) | 2:46 | 2022-04-15 |  |
 | [Elysian Fields](https://open.spotify.com/track/7MtTVOpbquSu8SCiNQY0fS) | [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [DJ Lagoa](https://open.spotify.com/artist/4YFewOTyrU36fR7k3LkIY4) | [Elysian Fields](https://open.spotify.com/album/4KM1V8eVOymeKDI64aInfM) | 2:30 | 2022-04-15 |  |
+| [emotionally unavailable](https://open.spotify.com/track/71vPGvp1ANV3iDpA9wFQ0v) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [emotionally unavailable](https://open.spotify.com/album/2rLlb5HAK5vwXc1zqDfcGZ) | 2:05 | 2023-09-08 |  |
 | [Endless Color](https://open.spotify.com/track/4TIULvKSfY1AJ1egulOzfp) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2) | [Endless Color](https://open.spotify.com/album/2HsmtdYEE6Icr99penQsU8) | 2:41 | 2023-01-20 |  |
 | [Engraving](https://open.spotify.com/track/6fwWMZ8ComjwCUepX117Ct) | [Codewav](https://open.spotify.com/artist/1Mbu0fBSAzxejpvhss6A5B) | [Engraving](https://open.spotify.com/album/1PxQ4AVrdIyt8nmEs6VCwB) | 2:00 | 2022-12-16 |  |
 | [Enthalpy](https://open.spotify.com/track/4DLFDmqoAEPAhxjagmRfJq) | [Transparent Man](https://open.spotify.com/artist/5BzOhiTZdq869mBfPYOKST), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Enthalpy](https://open.spotify.com/album/5g95vyYNbRJebBo4O1ACyP) | 2:32 | 2022-04-15 |  |
@@ -234,7 +235,7 @@
 | [Gray or Grey](https://open.spotify.com/track/6tLMDPDjojjIn2dv7KEXco) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Gray or Grey](https://open.spotify.com/album/2IsZrqLuFZHHM46SvrCLOd) | 2:52 | 2022-04-15 |  |
 | [Grey](https://open.spotify.com/track/3GAy161sXmgiMOD7PYzBIA) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Grey](https://open.spotify.com/album/7CUV9YXdh4CdcwLl7K4La6) | 3:16 | 2022-04-15 | 2022-05-20 |
 | [Grey Grey Sky](https://open.spotify.com/track/1Ja3HxkCvHjv4Vi9I7Crp0) | [Low Key Persona](https://open.spotify.com/artist/1c8LSH695KiZELRZeGUbeb) | [Grey Grey Sky](https://open.spotify.com/album/5eUIfgdL6gN8FDwJciEf7E) | 1:54 | 2022-10-28 |  |
-| [Growing](https://open.spotify.com/track/1hM0bs3CbgCeZXpchcKfZk) | [Zane Milo](https://open.spotify.com/artist/1TyAZC5sqnI66MFVzZ4azE) | [Growing](https://open.spotify.com/album/7uYVdPcLmeUMWyfgkuIBIS) | 1:50 | 2022-10-14 |  |
+| [Growing](https://open.spotify.com/track/1hM0bs3CbgCeZXpchcKfZk) | [Zane Milo](https://open.spotify.com/artist/1TyAZC5sqnI66MFVzZ4azE) | [Growing](https://open.spotify.com/album/7uYVdPcLmeUMWyfgkuIBIS) | 1:50 | 2022-10-14 | 2023-09-13 |
 | [Habitat](https://open.spotify.com/track/0VebHKTE4C8pJCP5oqPEM3) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:04 | 2022-04-15 | 2022-09-24 |
 | [Hammerhead](https://open.spotify.com/track/3tofD4yh3XryWokjq2xSwP) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Illuzionary](https://open.spotify.com/artist/2o46d078sJRWBz2evc0WFx) | [Hammerhead](https://open.spotify.com/album/6AcVC73UDJ5iqGIbphhI90) | 1:44 | 2022-12-09 |  |
 | [Hammock in the Clouds](https://open.spotify.com/track/47Gf9pA8pXnr9zQ7zJUNJw) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0) | [Hammock in the Clouds](https://open.spotify.com/album/1aK8vb16U351L2eh8DN9m8) | 2:57 | 2022-09-30 | 2022-11-21 |
@@ -405,6 +406,7 @@
 | [Myself Again](https://open.spotify.com/track/0EZsE0bYkALw8BuUiXrd0c) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Myself Again](https://open.spotify.com/album/30laIP0TNPjhnZkxy0gjr7) | 2:18 | 2022-10-28 | 2022-12-10 |
 | [Nagata Lights](https://open.spotify.com/track/3tI6ByTenOTqT0fIj5digf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Nagata Lights](https://open.spotify.com/album/44QQQMiFBKkV5aVpbIhKUf) | 2:02 | 2022-04-15 | 2022-12-10 |
 | [NANA](https://open.spotify.com/track/4rPKfCe7Rc4uUv9SyVkW8S) | [Big Nose](https://open.spotify.com/artist/6ETg05TrMGqIUd30ehlAvx) | [NANA](https://open.spotify.com/album/1k6DOBPWj02qzFcaMhrEEd) | 2:05 | 2022-10-14 |  |
+| [Natural Midst](https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Natural Midst](https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL) | 2:41 | 2023-09-08 |  |
 | [Nature Walk](https://open.spotify.com/track/7LDwD2SbhQ7GXUek1tIjO5) | [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu) | [Nature Walk](https://open.spotify.com/album/5CzV7Mh1NKDreM1LChVEgr) | 1:54 | 2022-06-24 | 2022-08-19 |
 | [neomatter](https://open.spotify.com/track/5ZOwkvgMAeI0G2USq0cIFQ) | [O k O](https://open.spotify.com/artist/54FTacKE0BxtzKWB19zsem) | [neomatter](https://open.spotify.com/album/0jiIwPCZbyYrhwaQOXMKyR) | 1:44 | 2022-04-15 |  |
 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 | 2022-04-22 |  |
@@ -752,7 +754,7 @@
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2022-04-15 | 2022-06-10 |
 | [yaaas](https://open.spotify.com/track/7FAktFGtxzYbcE6ceIyYzn) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [yaaas](https://open.spotify.com/album/0ftJW9wygyS41Fa3h7RNE0) | 2:35 | 2022-04-15 | 2022-06-10 |
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-04-15 |  |
-| [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 | 2022-11-11 |  |
+| [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 | 2022-11-11 | 2023-09-13 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3SkGlju255xnaTQld9d0DO) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Yesterday's Tomorrow](https://open.spotify.com/album/5yfF9N6Cgy7olJBLPKRkhM) | 2:13 | 2022-12-16 | 2023-02-16 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3TBKlAMde3C7TNQEU7shez) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/2kHc5vqdqza5IlCMGXlGAQ) | 2:13 | 2023-01-20 |  |
 | [Yobidashi](https://open.spotify.com/track/6PV4hjKJ06jVHSH6HKhTkj) | [Aitobaiku](https://open.spotify.com/artist/6gSKO7qtjLIxagi1tfq4xu) | [Yobidashi](https://open.spotify.com/album/6IEc72I4ixBYTjvqRhTalK) | 2:24 | 2022-12-09 |  |

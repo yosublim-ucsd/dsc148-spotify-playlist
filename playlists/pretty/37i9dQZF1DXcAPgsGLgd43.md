@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,442 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,446 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 3 | [Ven Pa Ca](https://open.spotify.com/track/4SvHCX1OJE2g2efnDhMmnf) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Ven Pa Ca](https://open.spotify.com/album/61C9UF3r7Y8GVB6De6rNEo) | 3:02 |
 | 4 | [Morenita](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita](https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW) | 2:56 |
 | 5 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 |
-| 6 | [Mi Casa](https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [Mi Casa](https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt) | 2:47 |
-| 7 | [Mi Amor](https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc) | 3:15 |
+| 6 | [Mi Amor](https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc) | 3:15 |
+| 7 | [Mi Casa](https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [Mi Casa](https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt) | 2:47 |
 | 8 | [Venezuela](https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Rave Radio](https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN) | [Venezuela](https://open.spotify.com/album/3acHknTBxqObDuCc4IMbu9) | 2:36 |
 | 9 | [La Pasion](https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [La Pasion](https://open.spotify.com/album/7t00C3OJQH7o8H4LOzseCb) | 3:07 |
 | 10 | [Viento](https://open.spotify.com/track/0p34Y0tZFOvG3UpZQizOzv) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ) | [Viento](https://open.spotify.com/album/5MoTqDolgs1exn9oq0Cyyl) | 3:48 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 44 | [Calle ft\. Villanueva](https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Villanueva](https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j) | [Calle EP](https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3) | 3:33 |
 | 45 | [Vagabundos](https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Vagabundos](https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j) | 2:37 |
 | 46 | [La Fiesta](https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [La Fiesta](https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u) | 4:26 |
-| 47 | [La Vida](https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [La Vida](https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg) | 3:15 |
-| 48 | [Why Can't We Live Together \- Gregor Salto & Ibitaly Edit](https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ibitaly](https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb) | [Why Can't We Live Together \(Gregor Salto & Ibitaly Remix\)](https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB) | 3:30 |
+| 47 | [Why Can't We Live Together \- Gregor Salto & Ibitaly Edit](https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ibitaly](https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb) | [Why Can't We Live Together \(Gregor Salto & Ibitaly Remix\)](https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB) | 3:30 |
+| 48 | [La Vida](https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [La Vida](https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg) | 3:15 |
 | 49 | [Ay Papi](https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe) | 3:25 |
 | 50 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 |
 
-Snapshot ID: `MCw2MjUyYTBhNTEwMmE3YzJlM2FmNWJhNjFlOTM3MTYyZjcxYmUzNTZi`
+Snapshot ID: `MCw3YjVjYzBlNjVmZmNlMjQxOGRjMDM0NTdjN2E3NWFlNzBlNTJiYTEx`

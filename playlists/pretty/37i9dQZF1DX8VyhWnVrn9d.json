@@ -1,12 +1,12 @@
 {
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
-  "num_followers": 207276,
+  "num_followers": 207433,
   "original_name": "Quebradita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmRkYWFjYWViMDVkMTdmOWUzZjNiN2JiNjM2NTdmMmY4OGQ2MDhm",
+  "snapshot_id": "MCwxN2EyNTBiZDMwNzI2OWVjNGY5ZGRjYTMyN2RjMjM2YjEwMGU5OTc0",
   "tracks": [
     {
       "added_at": "2023-06-19 22:57:24",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Lo Mejor De... (18 Exitos)",
-        "url": "https://open.spotify.com/album/6nAtdGbuJzkgMTsz1ZYsHj"
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
       },
       "artists": [
         {
-          "name": "Banda Rodeo de Morelos",
-          "url": "https://open.spotify.com/artist/3DEQJ5z6j6scYrOHNfbPpu"
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 219893,
-      "name": "El Llanero Solitario - Guillermo Tell",
-      "url": "https://open.spotify.com/track/3NUYbovgQcsNGE3O3IYHtz"
+      "duration_ms": 153520,
+      "name": "El alacr\u00e1n",
+      "url": "https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+        "name": "Lo Mejor De... (18 Exitos)",
+        "url": "https://open.spotify.com/album/6nAtdGbuJzkgMTsz1ZYsHj"
       },
       "artists": [
         {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+          "name": "Banda Rodeo de Morelos",
+          "url": "https://open.spotify.com/artist/3DEQJ5z6j6scYrOHNfbPpu"
         }
       ],
-      "duration_ms": 153520,
-      "name": "El alacr\u00e1n",
-      "url": "https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI"
+      "duration_ms": 219893,
+      "name": "El Llanero Solitario - Guillermo Tell",
+      "url": "https://open.spotify.com/track/3NUYbovgQcsNGE3O3IYHtz"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 210546,
-      "name": "Nosotros Tambien Podemos",
-      "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
         "name": "Funky Town Recordando los Exitos, Vol. 6",
         "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 246653,
       "name": "Funk Town",
       "url": "https://open.spotify.com/track/489KguuubKHZbLtUQSnKK6"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 210546,
+      "name": "Nosotros Tambien Podemos",
+      "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
     },
     {
       "added_at": "2023-06-19 22:57:24",

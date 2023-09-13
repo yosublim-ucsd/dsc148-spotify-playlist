@@ -4,13 +4,13 @@
 
 > Pop para refrescarte los días, featuring Urbøi.
 
-129 songs - 6 hr 30 min
+130 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-01 |  |
 | [1Trago](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1Trago](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 | 2023-04-14 |  |
-| [5 Estrellas](https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [5 estrellas](https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV) | 3:18 | 2023-06-09 |  |
+| [5 estrellas](https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [5 estrellas](https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV) | 3:18 | 2023-06-09 |  |
 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2023-04-04 |  |
 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-04-04 |  |
 | [A Las 3](https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [A Las 3](https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge) | 2:42 | 2023-06-02 |  |
@@ -31,6 +31,7 @@
 | [Celular](https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Celular](https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd) | 2:56 | 2023-07-07 |  |
 | [Centenas De Miles De Años](https://open.spotify.com/track/6xa21lEbZdVtQa41HDkQcY) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Centenas De Miles De Años](https://open.spotify.com/album/2VEb1mzailGntQVRoWqaq9) | 3:12 | 2023-08-04 | 2023-08-09 |
 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 | 2023-07-07 |  |
+| [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 | 2023-09-08 |  |
 | [como te va?](https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [como te va?](https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V) | 2:34 | 2023-05-12 | 2023-06-03 |
 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 | 2023-04-04 |  |
 | [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 | 2023-06-23 |  |
@@ -73,7 +74,7 @@
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2023-04-04 |  |
 | [me conquistaste](https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 2:53 | 2023-07-28 |  |
 | [Me Da Bastante Miedo](https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Me Da Bastante Miedo](https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK) | 3:06 | 2023-05-19 |  |
-| [MEZCALITO](https://open.spotify.com/track/0lDbau6zhXruPIhfRzM936) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 3:08 | 2023-08-04 |  |
+| [MEZCALITO](https://open.spotify.com/track/0lDbau6zhXruPIhfRzM936) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 3:08 | 2023-08-04 | 2023-09-13 |
 | [MEZCALITO](https://open.spotify.com/track/7xGSFJhTdINOPyNKO7BcJk) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 3:08 | 2023-06-05 | 2023-07-09 |
 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 | 2023-08-25 |  |
 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 | 2023-04-28 | 2023-08-19 |

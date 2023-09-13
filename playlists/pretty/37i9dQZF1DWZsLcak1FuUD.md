@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,797 likes - 55 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,851 likes - 55 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 54 | [Vamos a Buscar la Luz](https://open.spotify.com/track/3olst9SIdO6I9lhYa6HyYQ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [40 Obras Fundamentales](https://open.spotify.com/album/3hopYMyIaBFZTU5Fvt91NF) | 3:51 |
 | 55 | [Los Delirios del Mariscal](https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Los Delirios del Mariscal](https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ) | 10:03 |
 
-Snapshot ID: `MCxlMzNhZTRjZTA0NjgxZDllMDM5ODZjNDM5MTRmZDhjZWIwNWNkMTRj`
+Snapshot ID: `MCwzMTIxZDU5MWJjODY4N2MxNzEyMjBjZGI4MDYyYzc1ZWU5YjU5YjNk`

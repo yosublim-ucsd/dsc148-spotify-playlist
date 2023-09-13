@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 29848,
+  "num_followers": 29990,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzEzODhiMjA0ZjViYTk4ODdlNThiYWY3YmU1NTg3OTdmNTRkNzUw",
+  "snapshot_id": "MCwzZjNjYzFhYTgyZThhMjA1M2FjZWM4ZjVjOWI2MjQ4YmE0YTY4OTNi",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Andan Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0"
+      },
+      "artists": [
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Andan Busc\u00e1ndome",
+      "url": "https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
       },
@@ -1439,6 +1459,26 @@
       "duration_ms": 208788,
       "name": "Roto",
       "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "DESPUES QUE TE PERDI",
+        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 247174,
+      "name": "DESPUES QUE TE PERDI",
+      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1467,46 +1507,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "DESPUES QUE TE PERDI",
-        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 247174,
-      "name": "DESPUES QUE TE PERDI",
-      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Andan Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0"
-      },
-      "artists": [
-        {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Andan Busc\u00e1ndome",
-      "url": "https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "INESTABLE",
-        "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
-      },
-      "artists": [
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "INESTABLE",
-      "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Digame Usted",
         "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 141688,
       "name": "Digame Usted",
       "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
     },
     {
       "added_at": "2022-12-09 03:00:00",

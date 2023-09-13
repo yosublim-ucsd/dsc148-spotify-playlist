@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,970 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,084 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 2 | [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 |
 | 3 | [Bobby Babylon](https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 2:27 |
 | 4 | [No No No](https://open.spotify.com/track/6CWghtCtJOgJgP58GyFx2m) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/3RTeh1T46KVNuoSyTYE2Ns) | 4:29 |
-| 5 | [Addis Ababa](https://open.spotify.com/track/7BpfGzM57fK5fIw7Pt0yBO) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/6OuYm1xpB29dhuVXOXT58v) | 2:24 |
-| 6 | [Never Give Your Heart Away](https://open.spotify.com/track/00NZUSWCUszqs2MFEfReTj) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/29SbydyD69yI0qs7Ma3xMs) | 3:05 |
+| 5 | [Never Give Your Heart Away](https://open.spotify.com/track/00NZUSWCUszqs2MFEfReTj) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/29SbydyD69yI0qs7Ma3xMs) | 3:05 |
+| 6 | [Addis Ababa](https://open.spotify.com/track/7BpfGzM57fK5fIw7Pt0yBO) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/6OuYm1xpB29dhuVXOXT58v) | 2:24 |
 | 7 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
 | 8 | [People Make the World Go Round](https://open.spotify.com/track/1XMBtQ6S7DJoj1FDLpFBgq) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/2Q8BPKtSNcI3YHc0gHtW0q) | 3:18 |
 | 9 | [Rudie Bam Bam](https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Winner Of My Heart \- Reggae](https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5) | 2:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Things a Come Up to Bump](https://open.spotify.com/track/1V8TACzzOdmBYczCBBoKwt) | [The Bassies](https://open.spotify.com/artist/0iRfV89CEYWMpwoYb1SUIZ) | [Studio One Groups](https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo) | 2:34 |
 | 60 | [I Man A Rasta](https://open.spotify.com/track/1IgXDScq9yS18nIGnHVoQ2) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
 
-Snapshot ID: `MCwyYWU5ZWNjYjViZTAyMDEwNjU3MTdkYTYzNWRiMWE1MWI0MTMxYmM3`
+Snapshot ID: `MCw5ZTQ1MzQwMWNlZDBiZjQ0ODBjMWU0ZWM1ODEyMzhlNzJiNGYwYTQ0`

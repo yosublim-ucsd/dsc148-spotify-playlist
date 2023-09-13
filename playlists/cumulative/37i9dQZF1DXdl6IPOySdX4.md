@@ -4,7 +4,7 @@
 
 > you up?
 
-403 songs - 22 hr 48 min
+404 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Climax](https://open.spotify.com/track/5pyVqlqThcxI7tPDjHIzPh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Looking 4 Myself \(Expanded Edition\)](https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g) | 3:52 | 2022-03-25 | 2022-04-19 |
 | [Close](https://open.spotify.com/track/2wJhFcye5iiW2mVBpGednz) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Last Year Was Complicated](https://open.spotify.com/album/1J1mjhlth8XnU8ttfRKp5r) | 3:54 | 2022-03-25 | 2022-04-15 |
 | [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 | 2023-06-08 |  |
-| [coffee](https://open.spotify.com/track/6vMpPxLV0F5Diwcs6awI1Z) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Wildheart \(Deluxe Version\)](https://open.spotify.com/album/6W8ZsoinSMViZMh9aYK7gQ) | 4:46 | 2022-03-28 | 2022-04-21 |
+| [coffee](https://open.spotify.com/track/6vMpPxLV0F5Diwcs6awI1Z) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Wildheart \(Deluxe Version\)](https://open.spotify.com/album/6W8ZsoinSMViZMh9aYK7gQ) | 4:46 | 2022-03-28 |  |
 | [Coke & Henny Pt\. 2](https://open.spotify.com/track/6tlan2FHMyIKBRR62zxusZ) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 2 EP](https://open.spotify.com/album/6G7fYS2aqolLZG6B1XJxmf) | 2:37 | 2022-03-25 | 2022-04-20 |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2022-03-28 | 2022-04-20 |
 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2022-12-01 |  |
@@ -197,8 +197,8 @@
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 | 2022-02-11 | 2022-07-07 |
 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 | 2022-10-28 | 2022-11-12 |
 | [Jane Doe](https://open.spotify.com/track/0YHHVezUoKC10MtiLUliqx) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Jane Doe](https://open.spotify.com/album/4dtUttZLZbbkp6cN52zDy2) | 2:44 | 2022-11-11 | 2022-11-19 |
-| [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-18 |  |
-| [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2022-11-09 |  |
+| [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-18 | 2023-09-13 |
+| [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2022-11-09 | 2023-09-13 |
 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 | 2022-06-17 | 2022-06-25 |
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-03-25 | 2022-07-29 |
 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 | 2022-03-25 |  |
@@ -387,6 +387,7 @@
 | [Us](https://open.spotify.com/track/1hjSjUTpe0PaR5LXuQLeW0) | [MOVEMENT](https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX) | [Us](https://open.spotify.com/album/011jHoVOT2w1FN2qwKQGXX) | 3:02 | 2022-03-25 | 2022-04-12 |
 | [Use Somebody](https://open.spotify.com/track/0OcRaDIJXOBj8BKllfp3Fi) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Use Somebody](https://open.spotify.com/album/27pAJ7HDxqaHr2prUTbJL9) | 4:30 | 2022-03-25 | 2022-04-20 |
 | [Used \(feat\. Don Toliver\)](https://open.spotify.com/track/1TweDM3JC49LNeelLVg3yX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:26 | 2022-12-09 | 2023-01-19 |
+| [Uuuu](https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:30 | 2023-09-12 |  |
 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 | 2022-03-28 | 2022-04-17 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-11-09 | 2023-03-09 |
 | [Vibez](https://open.spotify.com/track/6T6D9CIrHkALcHPafDFA6L) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 2:43 | 2022-02-04 | 2022-07-29 |

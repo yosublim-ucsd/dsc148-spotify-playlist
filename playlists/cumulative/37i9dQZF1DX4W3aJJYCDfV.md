@@ -4,7 +4,7 @@
 
 > Brand new music from Olivia Rodrigo \(pictured\), Leigh\-Anne, Romy and more!
 
-5,872 songs - 13 day 4 hr 56 min
+5,873 songs - 13 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,8 @@
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-13 | 2023-01-20 |
 | [Be Somebody](https://open.spotify.com/track/6GLATZeuyPYDhYs5VEOq7s) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Be Somebody](https://open.spotify.com/album/5WOxCncOqb9j4UL44wjJDt) | 4:00 | 2023-05-04 | 2023-05-12 |
 | [Be Someone](https://open.spotify.com/track/541LlFMbD7senXbFuf58mN) | [Man Alive](https://open.spotify.com/artist/75jRB7CtxLRcUPlEr6yCOy) | [Be Someone](https://open.spotify.com/album/56W7SBOLDkmvzdbOhP7wFj) | 3:36 | 2023-06-08 | 2023-06-16 |
-| [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 | 2023-09-07 |  |
+| [Be That Girl](https://open.spotify.com/track/3ohEnx3hSZfRMA5RRTq7OX) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:56 | 2023-09-08 |  |
+| [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 | 2023-09-07 | 2023-09-13 |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-03-30 | 2023-04-07 |
 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 | 2023-01-27 | 2023-02-03 |
 | [Be The One \(with Khalid\)](https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be The One \(with Khalid\)](https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf) | 3:20 | 2023-04-20 | 2023-04-28 |

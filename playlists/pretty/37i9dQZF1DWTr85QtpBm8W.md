@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,196 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,281 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 15 | [Requiem for Dying Mothers, Pt\. 2](https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 7:37 |
 | 16 | [Tears From The Compound Eye](https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 4:03 |
 | 17 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
-| 18 | [Sheets Two](https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 2:38 |
-| 19 | [92982.3](https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk) | 7:03 |
+| 18 | [92982.3](https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk) | 7:03 |
+| 19 | [Sheets Two](https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 2:38 |
 | 20 | [Piano Aquieu](https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 10:56 |
 | 21 | [Oto](https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 3:49 |
 | 22 | [Will She Come Back](https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 5:00 |
@@ -88,13 +88,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 78 | [white mountain](https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [dedication](https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi) | 3:39 |
 | 79 | [Coral Gables](https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Through the Cardial Window](https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU) | 5:50 |
 | 80 | [Further Away](https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [Glider](https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI) | 5:57 |
-| 81 | [The Mist](https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 3:51 |
-| 82 | [Variation IV](https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations: A Movement In Chrome Primitive](https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd) | 9:18 |
+| 81 | [Variation IV](https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations: A Movement In Chrome Primitive](https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd) | 9:18 |
+| 82 | [The Mist](https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 3:51 |
 | 83 | [The Direction Was Foggy or Cloudy](https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:11 |
 | 84 | [Into Stressa](https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 3:56 |
 | 85 | [Wholesome](https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7) | [Philip Jeck](https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK) | [7](https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3) | 8:26 |
-| 86 | [Von Schnäbeln](https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79) | 3:56 |
-| 87 | [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 |
+| 86 | [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 |
+| 87 | [Von Schnäbeln](https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79) | 3:56 |
 | 88 | [Add Infinity](https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 9:10 |
 | 89 | [chessa](https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 6:58 |
 | 90 | [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [De Storm](https://open.spotify.com/track/6mVclchrniUeZKwLxMAT9p) | [Kreng](https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ) | [L’Autopsie Phénoménale de Dieu](https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy) | 3:42 |
 | 100 | [Ripple and Fade](https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:17 |
 
-Snapshot ID: `MCxmNDc3ZWJjYzFmYjhiY2Y4MGZlYTMyYjNhMTY5OGUxM2RhOWI3NjQ5`
+Snapshot ID: `MCxiZTljOWYxNjA4YTAzMzNmYTM5ZDY0NTkxZDMxODExZTEyMWJiODc5`

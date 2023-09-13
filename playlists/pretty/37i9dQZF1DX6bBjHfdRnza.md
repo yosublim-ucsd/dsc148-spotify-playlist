@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: 1tbsp\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,716 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,772 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 9 | [street knowledge.](https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [summer '23](https://open.spotify.com/album/2EbpNouTaGpQLUPQ6xfXJ4) | 6:19 |
 | 10 | [Coup De Grâce](https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [Coup De Grâce](https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx) | 3:43 |
 | 11 | [Take Me Away](https://open.spotify.com/track/505EWywLk3wdwl6Xr0VV90) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [SYNERGY](https://open.spotify.com/album/5AmFYd6nz0KrI1bWNPsSeV) | 3:14 |
-| 12 | [The Only One](https://open.spotify.com/track/46TMFTXUkbZEZmfxjsH5a1) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [The Only One](https://open.spotify.com/album/0Y6zjrRGbHph1lwFeaXKhd) | 3:31 |
+| 12 | [The Only One](https://open.spotify.com/track/46TMFTXUkbZEZmfxjsH5a1) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC) | [The Only One](https://open.spotify.com/album/0Y6zjrRGbHph1lwFeaXKhd) | 3:31 |
 | 13 | [Whine Up](https://open.spotify.com/track/1rG8opGDxjubWjluR7glgJ) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI) | [Whine Up](https://open.spotify.com/album/566bFHgvZBabTrbbInJcSl) | 2:56 |
 | 14 | [Crazy Legs](https://open.spotify.com/track/3sn5ncoXCNl2DTUO17TGj5) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Crazy Legs](https://open.spotify.com/album/4PsMJKf64Fy8kYpPEYgiOv) | 3:39 |
 | 15 | [Music In Our House](https://open.spotify.com/track/5MeImhP9x3i1MXsWBXaWvB) | [Space Jump](https://open.spotify.com/artist/5x4PRwuILsUfpYUa84NwTa) | [Music In Our House](https://open.spotify.com/album/0HQSRt5NNUuQxOZpZfCCIg) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [on the stoop](https://open.spotify.com/track/2FT8LphaA9b9xHW3h1XxTd) | [Vertigeux](https://open.spotify.com/artist/5IxQNpPGtK9EXaak32n1qo) | [on the stoop](https://open.spotify.com/album/2yrjE7efmk2wK9Z0n47p6Q) | 6:14 |
 | 100 | [Space Jazzy](https://open.spotify.com/track/4BLMViT8xaTTa2syan74vK) | [Marco Lazovic](https://open.spotify.com/artist/0CdCqhMPs2jxnerSe30XAa) | [Come To London EP](https://open.spotify.com/album/5iWAUHe5b0uCWsjGcdswph) | 5:38 |
 
-Snapshot ID: `MCwxZjFiYjM0NjE1NDc4ODIzNjc4ZTI2YWY4ZGFhMjVkMDk0ZjAzYWNm`
+Snapshot ID: `MCxmMjdhYmRiOGE1OGQxNzI4NzExZjNlMjlhMjdlYWJkM2E5NzU5NDAy`

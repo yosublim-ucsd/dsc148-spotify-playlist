@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-89 songs - 6 hr 4 min
+90 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bahasa Kalbu](https://open.spotify.com/track/7c98gah3Qah9o76kgkzfrV) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Bahasa Kalbu](https://open.spotify.com/album/4rwf3B24qEi1QgQLz9R1nh) | 5:51 | 2023-02-03 |  |
 | [Benar Orang Bilang](https://open.spotify.com/track/6vHOfjfzvqg5D4HrBe16iT) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Benar Orang Bilang](https://open.spotify.com/album/2M1qUZ2YHHYgthMON0g7al) | 2:55 | 2023-02-03 |  |
 | [Bentuk Cinta](https://open.spotify.com/track/4J12uL4aNKzRco173fPyYQ) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Cerita](https://open.spotify.com/album/4vaUET4fqubUUtx1TuOfjF) | 4:23 | 2023-02-03 |  |
+| [Bercinta Lewat Kata \- OST Jatuh Cinta Seperti di Film\-Film](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(OST Jatuh Cinta Seperti di Film\-Film\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 | 2023-09-12 |  |
 | [Bersamamu](https://open.spotify.com/track/1FVZrAZ6kLrgnaRB9pzYMD) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [Vorfreude](https://open.spotify.com/album/754tHb1pF9v02tc8MQZRzU) | 4:05 | 2023-02-03 | 2023-05-04 |
 | [Biar Mantan Tau](https://open.spotify.com/track/6E6OhmmXOkklCcbqq7XF88) | [3 Composers](https://open.spotify.com/artist/145zDAbvELoocgZ4bZrSXe) | [Biar Mantan Tau](https://open.spotify.com/album/4MX7M5najq0wZTRjcYe4aX) | 3:19 | 2023-02-03 |  |
 | [Cinta Sejati](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 5:02 | 2023-04-17 |  |

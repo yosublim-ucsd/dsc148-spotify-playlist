@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,991 likes - 90 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,033 likes - 90 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 39 | [When Will You Tell Him About Me?](https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [The Chicago Way](https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS) | 4:29 |
 | 40 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
 | 41 | [Waiting For The Dawn](https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:50 |
-| 42 | [It Serves Me Right to Suffer \- Remastered](https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 3:28 |
-| 43 | [Help The Poor](https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At The Regal](https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2) | 2:38 |
-| 44 | [Juice Head Baby](https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 4:35 |
-| 45 | [I Got News For You](https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp) | [Andrew Brown](https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:01 |
+| 42 | [Help The Poor](https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At The Regal](https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2) | 2:38 |
+| 43 | [It Serves Me Right to Suffer \- Remastered](https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 3:28 |
+| 44 | [I Got News For You](https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp) | [Andrew Brown](https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:01 |
+| 45 | [Juice Head Baby](https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 4:35 |
 | 46 | [Please Tell Me Why](https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Jackie Sings The Blues](https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4) | 2:04 |
 | 47 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 |
 | 48 | [I Shall Know Him](https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 3:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 89 | [Use As Needed](https://open.spotify.com/track/0jcyLI0xuoNn2ENh1Vvzxv) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 5:42 |
 | 90 | [Hard Living Alone](https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Marshall Texas Is My Home](https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb) | 3:04 |
 
-Snapshot ID: `MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0`
+Snapshot ID: `MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl`

@@ -4,7 +4,7 @@
 
 > This is Nana Mizuki\. The essential tracks, all in one playlist.
 
-96 songs - 6 hr 50 min
+97 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [innocent starter](https://open.spotify.com/track/1HQC4xCEMH0VZUnj4xkVFu) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:40 | 2022-06-09 | 2023-02-01 |
 | [innocent starter](https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [innocent starter](https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856) | 4:41 | 2023-01-31 |  |
 | [Inside of mind](https://open.spotify.com/track/7yFqZBBIG2rC7OKI89lBPg) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ETERNAL BLAZE](https://open.spotify.com/album/2nvexCedsx1QDH9CuCD0cV) | 4:42 | 2023-02-15 | 2023-02-28 |
-| [Invisible Heat](https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Destiny's Prelude](https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs) | 4:27 | 2022-06-09 |  |
+| [Invisible Heat](https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Destiny's Prelude](https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs) | 4:27 | 2022-06-09 | 2023-09-13 |
 | [Justice to Believe](https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Justice to Believe/アオイイロ](https://open.spotify.com/album/2gA0xxFZ1zlfcIS60xP5Av) | 5:02 | 2022-06-09 | 2023-02-01 |
 | [Link or Chains](https://open.spotify.com/track/100h1Dh7OLkPvvojCBvspd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:45 | 2022-07-23 | 2022-10-07 |
 | [Love Fight!](https://open.spotify.com/track/3U8eJXgb6ciqcb347KYOwm) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 3:27 | 2023-09-09 | 2023-09-11 |
@@ -68,6 +68,7 @@
 | [SECRET AMBITION](https://open.spotify.com/track/5AB3codJ16dli3H2HmJyki) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:23 | 2022-06-09 | 2023-02-04 |
 | [Stand by you](https://open.spotify.com/track/4LXraG9aZEKp0eeIFxs1zU) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 4:31 | 2022-07-09 | 2022-10-13 |
 | [STARTING NOW!](https://open.spotify.com/track/3hAyDY3024JUVmiIaBpcz0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 3:28 | 2022-06-09 | 2022-12-30 |
+| [still in the groove](https://open.spotify.com/track/2s7GsHpgF9GTA6Hfc53FUK) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DREAM SKIPPER](https://open.spotify.com/album/38Va1ns3qc0w6juNJeEaWs) | 4:30 | 2023-09-12 |  |
 | [suddenly\~巡り合えて\~](https://open.spotify.com/track/3Vmcy6TdOR1zYQeNDFzTcV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:31 | 2022-06-09 | 2022-09-17 |
 | [Synchrogazer](https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:27 | 2022-06-09 |  |
 | [Synchrogazer\-Aufwachen Form\-](https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ROCKBOUND NEIGHBORS](https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP) | 5:21 | 2023-02-05 |  |

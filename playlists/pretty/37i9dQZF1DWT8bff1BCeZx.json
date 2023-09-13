@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 5185,
+  "num_followers": 5234,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODQxOTFjYzBjYzc1NGE5ZWI0NTYzZmFmMmM3ZWE3MjBhZWYzNjFm",
+  "snapshot_id": "MCw4MTBjNWY1MzUyMzZmYThhMmM1NWI2OTdkNDdjNmIzOTY5MzM4Y2Iw",
   "tracks": [
     {
       "added_at": "2023-08-11 07:09:25",
@@ -711,18 +711,22 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "Na God I Dey Praise (Craze)",
-        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
       },
       "artists": [
         {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        },
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
         }
       ],
-      "duration_ms": 218644,
-      "name": "Na God I Dey Praise (Craze)",
-      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
+      "duration_ms": 140198,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -763,22 +767,18 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "Halle",
-        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
+        "name": "Na God I Dey Praise (Craze)",
+        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
       },
       "artists": [
         {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
-        },
-        {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
         }
       ],
-      "duration_ms": 140198,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
+      "duration_ms": 218644,
+      "name": "Na God I Dey Praise (Craze)",
+      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -807,6 +807,58 @@
       "duration_ms": 183529,
       "name": "Blessings (Everywhere I Go)",
       "url": "https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "Yesu (Jesus)",
+        "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Guya",
+          "url": "https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH"
+        }
+      ],
+      "duration_ms": 235559,
+      "name": "Yesu (Jesus)",
+      "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "Yeshua (Extended)",
+        "url": "https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "Nikki Laoye",
+          "url": "https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP"
+        },
+        {
+          "name": "Sonny Green",
+          "url": "https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx"
+        }
+      ],
+      "duration_ms": 156196,
+      "name": "Yeshua (Extended)",
+      "url": "https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -843,46 +895,38 @@
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "Commando",
-        "url": "https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn"
+        "name": "WINNING",
+        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
       },
       "artists": [
         {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+          "name": "Harmini",
+          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
         },
         {
-          "name": "Oyije",
-          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Chud'e",
+          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
         }
       ],
-      "duration_ms": 153962,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A"
+      "duration_ms": 152622,
+      "name": "WINNING",
+      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
     },
     {
       "added_at": "2023-09-08 00:01:00",
       "album": {
-        "name": "What I Want II",
-        "url": "https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG"
+        "name": "African Praise",
+        "url": "https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn"
       },
       "artists": [
         {
-          "name": "Elikem Kofi",
-          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Kayode Akojenu",
+          "url": "https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj"
         }
       ],
-      "duration_ms": 180062,
-      "name": "What I Want II",
-      "url": "https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp"
+      "duration_ms": 91760,
+      "name": "We Praise You Lord",
+      "url": "https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -915,46 +959,6 @@
       "duration_ms": 586443,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "Yeshua (Extended)",
-        "url": "https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H"
-      },
-      "artists": [
-        {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
-        },
-        {
-          "name": "Nikki Laoye",
-          "url": "https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP"
-        },
-        {
-          "name": "Sonny Green",
-          "url": "https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx"
-        }
-      ],
-      "duration_ms": 156196,
-      "name": "Yeshua (Extended)",
-      "url": "https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7"
-    },
-    {
-      "added_at": "2023-09-08 00:01:00",
-      "album": {
-        "name": "African Praise",
-        "url": "https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn"
-      },
-      "artists": [
-        {
-          "name": "Kayode Akojenu",
-          "url": "https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj"
-        }
-      ],
-      "duration_ms": 91760,
-      "name": "We Praise You Lord",
-      "url": "https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q"
     },
     {
       "added_at": "2023-09-08 00:01:00",

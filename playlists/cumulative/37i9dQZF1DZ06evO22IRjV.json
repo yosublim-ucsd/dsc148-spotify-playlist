@@ -1761,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242173,
+      "name": "\u9065\u304b\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
+    },
+    {
+      "album": {
         "name": "\u9065\u304b\u5f7c\u65b9",
         "url": "https://open.spotify.com/album/4PkwzfB3XD9gu8gb4UIzrT"
       },
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 242467,
       "name": "\u9065\u304b\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/13MlxWYb0Ig6FeOxzxk3Ln"

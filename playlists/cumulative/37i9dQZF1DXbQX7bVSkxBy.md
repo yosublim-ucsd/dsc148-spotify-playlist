@@ -4,7 +4,7 @@
 
 > Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM?si=sWdXAVp6TZOWClb2rKuidw">Samuel Folabi</a>
 
-98 songs - 9 hr 2 min
+99 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-19 | 2023-08-15 |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2023-05-26 |  |
 | [I Know Who I Am](https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud](https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq) | 6:10 | 2023-04-07 | 2023-08-24 |
+| [I Know Who I Am \- Live](https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud \(Live\)](https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG) | 6:10 | 2023-09-08 |  |
 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 | 2023-04-07 | 2023-05-26 |
 | [Imela](https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You are Great](https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum) | 5:19 | 2023-04-07 |  |
 | [Imela \(feat\. Enitan Adaba\)](https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Enitan Adaba](https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI) | [The Son of God \(& Imela\)](https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn) | 5:54 | 2023-04-07 |  |
@@ -65,7 +66,7 @@
 | [My Soul Says Yes \(Live\)](https://open.spotify.com/track/28XavXJhsBx7nderaFJnDM) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Soundz of Afrika](https://open.spotify.com/album/0AVVqqMkcNbWzJN5DxaMaz) | 9:04 | 2023-04-11 | 2023-04-12 |
 | [My Trust Is in You](https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 3:35 | 2023-04-07 |  |
 | [Na You Be God \(Remix\) \[feat\. Ibk & Xtreme\]](https://open.spotify.com/track/0xmGgQUiXR4OhXi9RWDoRl) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [IBK](https://open.spotify.com/artist/2ux4hl4BNE4i7mfHek88W3), [Xtreme](https://open.spotify.com/artist/0JyPOK4PQYaOEqdSwN16NT) | [Na You Be God \(Remix\) \[feat\. Ibk & Xtreme\]](https://open.spotify.com/album/2wDwXXHbSCdG6qwFtbCX5W) | 5:26 | 2023-04-07 | 2023-04-15 |
-| [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2023-04-07 |  |
+| [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2023-04-07 | 2023-09-13 |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2023-04-07 |  |
 | [Never Let Me Go \- African Worship Medley/Live](https://open.spotify.com/track/5mT9muoaYVBcvpM3UiJZBY) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:22 | 2023-04-07 | 2023-06-09 |
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2023-07-28 |  |

@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-68 songs - 4 hr 24 min
+69 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 | 2023-07-14 |  |
 | [Badariya](https://open.spotify.com/track/5IwDxCbs651v8M1cjlWaWO) | [Reewa Rathod](https://open.spotify.com/artist/0mzRkdWgrhQkFXs2ptJAch), [Swaransh Mishra](https://open.spotify.com/artist/6k8KVEJqdcGiVni3c6WmhY) | [Badariya](https://open.spotify.com/album/1QZeDxNotV0dAOe7KjUSZm) | 4:07 | 2023-05-09 |  |
 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 | 2023-05-09 |  |
+| [Barkha](https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Barkha](https://open.spotify.com/album/0t8oQvb7XfGFYWX0Biu8eP) | 4:21 | 2023-09-12 |  |
 | [Barkha Bahaar](https://open.spotify.com/track/3RasEms9BsZBgdY25u5MVo) | [Krishnakali Saha](https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g) | [Barkha Bahaar](https://open.spotify.com/album/3LA406x4e2QmWlasFedCAp) | 4:04 | 2023-08-22 |  |
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2023-05-09 |  |
 | [Beh Bhi Le](https://open.spotify.com/track/4WBbMC0lSXQ8uu1I3iG8NP) | [Priyansh Paliwal](https://open.spotify.com/artist/3wzlbHYttOCz2NLyovlfXX) | [Sunday](https://open.spotify.com/album/1FUMdT2QZWjOuM4r1Gp5FN) | 4:14 | 2023-05-09 |  |

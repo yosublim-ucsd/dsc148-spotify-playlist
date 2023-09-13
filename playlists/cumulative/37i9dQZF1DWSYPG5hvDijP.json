@@ -371,6 +371,28 @@
     },
     {
       "album": {
+        "name": "Bawli",
+        "url": "https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ"
+      },
+      "artists": [
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        },
+        {
+          "name": "Elvish Yadav",
+          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118857,
+      "name": "Bawli",
+      "url": "https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT"
+    },
+    {
+      "album": {
         "name": "Beast Mode",
         "url": "https://open.spotify.com/album/2Nl4A1lvPTUWluWq80vjjy"
       },

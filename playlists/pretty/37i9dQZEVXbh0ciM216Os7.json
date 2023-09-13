@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMzU3NjAsMDAwMDAwMDAzMDNiN2FmYTJlOTg0NDM5YzFlOTllNmFjMzA4ZmEwNg==",
+  "snapshot_id": "MjgyMzU3NjAsMDAwMDAwMDBiNjE5YWM5ZTgzMDczMTE0ZmE4NzJiNTlhZTQxOWYzYw==",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -20,25 +20,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 224800,
-      "name": "Christie Rd. - Outtake",
-      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Angry",
-        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 226735,
-      "name": "Angry",
-      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
+      "duration_ms": 169773,
+      "name": "Walking the Dog (demo) - Outtake",
+      "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -119,6 +103,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Dirty Diana (Metal Version)",
+        "url": "https://open.spotify.com/album/0rCS3cSTu4NJFPnzMfUk61"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 260495,
+      "name": "Dirty Diana (Metal Version)",
+      "url": "https://open.spotify.com/track/5JB0Ejgsq7Unv4JAzFPyHW"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Reveal",
         "url": "https://open.spotify.com/album/7g09Qn1ZsVdk4V8KusjWUn"
       },
@@ -135,18 +135,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Dirty Diana (Metal Version)",
-        "url": "https://open.spotify.com/album/0rCS3cSTu4NJFPnzMfUk61"
+        "name": "Le d\u00e9part",
+        "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
       },
       "artists": [
         {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
         }
       ],
-      "duration_ms": 260495,
-      "name": "Dirty Diana (Metal Version)",
-      "url": "https://open.spotify.com/track/5JB0Ejgsq7Unv4JAzFPyHW"
+      "duration_ms": 175020,
+      "name": "Le d\u00e9part",
+      "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -223,6 +227,62 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Prada (Clean)",
+        "url": "https://open.spotify.com/album/3pREnOwWzy0GqsOoum2LsZ"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5vR56XmFwKehzvCl0XHdRw"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "I'm Done",
+        "url": "https://open.spotify.com/album/3c9nI13kCbfkFJqaPJRGcs"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Right Here, For Now",
+      "url": "https://open.spotify.com/track/5nWVm4yn8GACYSsLvTGT7L"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "First of a Kind (From the Amazon Original Series)",
+        "url": "https://open.spotify.com/album/6vMzmr8k0HL8Ci9Y0VUbvu"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "duration_ms": 154554,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0MyvagqpsWPDPLX7I2U2ri"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "You Thought (feat. Janelle Mon\u00e1e)",
         "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
       },
@@ -243,30 +303,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Painted Houses (feat. Conway the Machine)",
-        "url": "https://open.spotify.com/album/2jGpmrbzpjpdPPEAeD239b"
-      },
-      "artists": [
-        {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Painted Houses (feat. Conway the Machine)",
-      "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Koala",
         "url": "https://open.spotify.com/album/6TZqWG1Kk5y32ZVdrJM8aK"
       },
@@ -279,26 +315,6 @@
       "duration_ms": 155668,
       "name": "Koala",
       "url": "https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Puerto Rico",
-        "url": "https://open.spotify.com/album/4xfwBnoenPCuV6HCgwisUy"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        }
-      ],
-      "duration_ms": 215717,
-      "name": "Puerto Rico",
-      "url": "https://open.spotify.com/track/3wyBkA7dOMJX0zqW3iIKu8"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -347,34 +363,78 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Dethalbum IV",
-        "url": "https://open.spotify.com/album/0kOvFgwICfLldItMxuJvgC"
+        "name": "Past and Present",
+        "url": "https://open.spotify.com/album/2Ro7ot6kaTFHKToSombkLV"
       },
       "artists": [
         {
-          "name": "Metalocalypse: Dethklok",
-          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+          "name": "Andie Wiess",
+          "url": "https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX"
         }
       ],
-      "duration_ms": 284475,
-      "name": "Murmaider III",
-      "url": "https://open.spotify.com/track/4i1XGa9WE8B2JQUwrZN5Gz"
+      "duration_ms": 135250,
+      "name": "Past and Present",
+      "url": "https://open.spotify.com/track/6WavI8LQ7DdAuuYN4IuDOV"
     },
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Wake of the Flood: The Angel's Share",
-        "url": "https://open.spotify.com/album/3SGhLgl2sZtJaeAkrCAcfL"
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
       },
       "artists": [
         {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 796202,
-      "name": "Weather Report Suite (Take 8) [Slated] - 8/17/73",
-      "url": "https://open.spotify.com/track/1m5AjMi3MMw9jiNlCeWgNz"
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "LOVELY BASTARDS",
+        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "duration_ms": 116104,
+      "name": "LOVELY BASTARDS",
+      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -395,22 +455,6 @@
       "duration_ms": 213694,
       "name": "The Way - Live from London (feat. Mac Miller)",
       "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Castaway",
-        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -439,22 +483,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/5S0eXl1GZ3SAZfQ2HM5QyW"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/3JHNieO8JATU24quh4tbPf"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Live In Tokyo",
         "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"
       },
@@ -471,102 +499,90 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1XGxp9TXJQUNw2gbybZHKm"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
         },
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
         }
       ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+      "duration_ms": 156306,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1tYTIFvg7nCrVnmiK88yOr"
     },
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Gimme Three Steps (Live)",
-        "url": "https://open.spotify.com/album/3GneX3d7xBTbuLzM9ViHMU"
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/4qnDnV8iQYo5PzMhflN838"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "Mayne",
+          "url": "https://open.spotify.com/artist/71864qIP78GhtmqKjYITDm"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 329160,
-      "name": "Gimme Three Steps - Live At The Ryman Theatre, Nashville, TN - November 13, 2022",
-      "url": "https://open.spotify.com/track/68M6DDAbPBYzEdTQeEhDQm"
+      "duration_ms": 173557,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/4xRXYFnpN6gRyHXXH9N0wC"
     },
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Endless Fashion (with Nicki Minaj) [Versions]",
-        "url": "https://open.spotify.com/album/1oeuqGef5PwGCyb6lxPoL4"
+        "name": "JUMPIN (Timmy Trumpet Remix)",
+        "url": "https://open.spotify.com/album/5N10HsZvBZFjzMMJvNp5Gv"
       },
       "artists": [
         {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         }
       ],
-      "duration_ms": 192144,
-      "name": "Endless Fashion (with Nicki Minaj) - sped up version",
-      "url": "https://open.spotify.com/track/5DxOt3uyfE2kGWuTXp6xaG"
+      "duration_ms": 164911,
+      "name": "JUMPIN - Timmy Trumpet Remix",
+      "url": "https://open.spotify.com/track/527d6VKNmBHr22HhprrEm2"
     },
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "You Don't Know How It Feels",
-        "url": "https://open.spotify.com/album/361Hfni1nG1tOrVcJJZrWB"
+        "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+        "url": "https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo"
       },
       "artists": [
         {
-          "name": "Mellodose",
-          "url": "https://open.spotify.com/artist/6nlxcJwoRgruZzDaNLxyjh"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         },
         {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         },
         {
-          "name": "Vibright",
-          "url": "https://open.spotify.com/artist/70IDB3bLrEUCF3s9EvIZp5"
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
         }
       ],
-      "duration_ms": 295755,
-      "name": "You Don't Know How It Feels",
-      "url": "https://open.spotify.com/track/4pvvJGvOvtGje3rbKhGZJz"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Forgiven",
-        "url": "https://open.spotify.com/album/0BAaDFunOx1UkznLUdBMsG"
-      },
-      "artists": [
-        {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
-        }
-      ],
-      "duration_ms": 205497,
-      "name": "Forgiven",
-      "url": "https://open.spotify.com/track/1B7s6X81lZVSSP7adOBxaM"
+      "duration_ms": 190285,
+      "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+      "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

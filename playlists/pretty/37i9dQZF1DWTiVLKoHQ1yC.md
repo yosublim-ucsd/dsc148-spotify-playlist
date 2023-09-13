@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,127 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,320 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 30 | [No Judgement \- Kölsch Remix Edit](https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [No Judgement \(Kölsch Remix Edit\)](https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo) | 4:17 |
 | 31 | [Piece Of Art](https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art](https://open.spotify.com/album/2FxV796hbaU52R033iD7s5) | 3:16 |
 | 32 | [L'owè L'owè](https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [L'owe L'owe](https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG) | 7:29 |
-| 33 | [Vanishing](https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 6:12 |
+| 33 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/16Tsi2k0C9QNpyIXyMBbo6) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 |
 | 34 | [Zeit & Raum](https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Phases EP](https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6) | 4:13 |
-| 35 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/16Tsi2k0C9QNpyIXyMBbo6) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 |
+| 35 | [Vanishing](https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 6:12 |
 | 36 | [How Often \- Ben Böhmer Remix](https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Brightest Lights Remixed](https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW) | 4:55 |
 | 37 | [Need You By My Side](https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You By My Side](https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP) | 3:20 |
 | 38 | [Столица закатов](https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [Столица закатов](https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS) | 4:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 |
 | 60 | [Hope In Balance](https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX) | [Hope In Balance](https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO) | 4:38 |
 
-Snapshot ID: `MCw1MDFiNGY3MzE4NTg3MDNiZDNhNjc2NTE3Mzk3ZWQwYTUxYmJkNmRl`
+Snapshot ID: `MCxlYThiYmYyMzY1YjE4NGI2MzUwMzkzN2JlZDkyYjYwYTRjYTBkYTEy`

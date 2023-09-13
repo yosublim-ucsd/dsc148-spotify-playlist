@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-115 songs - 5 hr 54 min
+116 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Belico](https://open.spotify.com/track/5rCdxvU6IlAE9DrkvXxHuY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Corridones Belicones Duetos](https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz) | 3:15 | 2022-06-01 | 2023-08-02 |
 | [Bien Alerta \- En vivo](https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bien Alerta \(En vivo\)](https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx) | 2:33 | 2022-10-12 | 2023-05-16 |
 | [Bien EnRRedado](https://open.spotify.com/track/6Qld1xtQDQS4FqdhgOQ6V7) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nueva Partida](https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR) | [Bien EnRRedado](https://open.spotify.com/album/1iXDvhAunMV7qEEMFDzCvp) | 2:52 | 2023-06-23 |  |
-| [Botelleo](https://open.spotify.com/track/2X5Po5rj4QpNFlB15Ahj9f) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lunaty](https://open.spotify.com/artist/1ioIJEt6VBdMiQxOTL8Bmv) | [Botelleo](https://open.spotify.com/album/28ktg5hd5Wq6CoobsbOwom) | 2:43 | 2023-08-16 |  |
+| [Botelleo](https://open.spotify.com/track/2X5Po5rj4QpNFlB15Ahj9f) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lunaty](https://open.spotify.com/artist/1ioIJEt6VBdMiQxOTL8Bmv) | [Botelleo](https://open.spotify.com/album/28ktg5hd5Wq6CoobsbOwom) | 2:43 | 2023-08-16 | 2023-09-13 |
 | [Buenas Rachas](https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Buenas Rachas](https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e) | 2:33 | 2023-08-10 |  |
 | [Bélica Como Ninguna](https://open.spotify.com/track/59XObm1gFYaUOdzsg0QApT) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bélica Como Ninguna](https://open.spotify.com/album/2kEeiftlpYDuSfRmlwCh1K) | 2:21 | 2023-08-18 |  |
 | [Chingandole Macizo](https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:34 | 2022-06-01 |  |
@@ -120,7 +120,8 @@
 | [Traigo El Mando](https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Traigo El Mando](https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa) | 3:02 | 2023-09-02 |  |
 | [Tropa del Infierno](https://open.spotify.com/track/414oo6t5s8XI1paph23B3D) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 3:05 | 2022-12-04 | 2023-06-04 |
 | [Un Amor Como Este](https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Un Amor Como Este](https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW) | 3:05 | 2023-03-04 |  |
-| [Viejo Lobo](https://open.spotify.com/track/0lfnjkAemrVz8J9l7khK2t) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:50 | 2023-07-01 |  |
+| [Viejo Lobo](https://open.spotify.com/track/0lfnjkAemrVz8J9l7khK2t) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:50 | 2023-07-01 | 2023-09-13 |
+| [Viejo Lobo](https://open.spotify.com/track/1UwCSHDl10Hga2jswZ6plN) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:50 | 2023-09-12 |  |
 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 | 2022-11-08 |  |
 | [Yo Fui El Choki](https://open.spotify.com/track/1k7BcLftj6rmgBDRuK3bpc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 3:22 | 2022-06-01 | 2022-12-27 |
 

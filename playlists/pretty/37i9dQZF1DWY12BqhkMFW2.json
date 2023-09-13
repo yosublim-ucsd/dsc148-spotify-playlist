@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 348278,
+  "num_followers": 348422,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjBlNWQyODIyNjdjZjUyYmNiYzExNWE1M2Q4MzYzZDlhYTA1M2M2",
+  "snapshot_id": "MCwzMDEwNjA3MzJiYjI3ZjhlZmVlMDYzNTczNmZjYzlmMjFlMDg3YjZi",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 296066,
+      "name": "Yearning For Your Love",
+      "url": "https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "So Amazing: An All-Star Tribute To Luther Vandross",
         "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 250400,
       "name": "So Amazing",
       "url": "https://open.spotify.com/track/4dIlsObD9oacRCF9hJloyA"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 296066,
-      "name": "Yearning For Your Love",
-      "url": "https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve"
     },
     {
       "added_at": "2021-01-15 05:01:00",

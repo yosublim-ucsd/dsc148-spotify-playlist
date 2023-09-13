@@ -4,7 +4,7 @@
 
 > We hear you.
 
-620 songs - 1 day 6 hr 39 min
+621 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,10 +148,11 @@
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-05-25 | 2023-04-27 |
 | [Emerald Eyes](https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:59 | 2022-10-14 |  |
 | [Emerald Eyes](https://open.spotify.com/track/2zRLogAqKnlcMRyOExw3LF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Emerald Eyes](https://open.spotify.com/album/096BfAFZuA5gBkimUSm09A) | 3:59 | 2021-04-02 | 2022-07-21 |
-| [emma, u up?](https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [emma, u up?](https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76) | 2:24 | 2021-04-02 |  |
+| [emma, u up?](https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [emma, u up?](https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76) | 2:24 | 2021-04-02 | 2023-09-13 |
 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2021-04-02 |  |
 | [Empty Room](https://open.spotify.com/track/2YUjJiHEhbb7eO9OWHdarW) | [Rishi](https://open.spotify.com/artist/5q1xsAah3kIdY7ouXeBa08) | [Empty Room](https://open.spotify.com/album/39LG3JcDyjuE9QHVhsL3mR) | 3:25 | 2021-06-25 | 2022-04-17 |
 | [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-20 | 2023-05-08 |
+| [Eulogy for Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-12 |  |
 | [Every Fucking Time](https://open.spotify.com/track/3pcl1nwM7BkNaNcsojvPCz) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Every Fucking Time](https://open.spotify.com/album/5ZivRaxbqlajWwrhA92jAS) | 2:47 | 2023-05-05 | 2023-06-06 |
 | [Everything and More](https://open.spotify.com/track/6qTEh8LELYNp9QCYyYfZS4) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Behind the Clouds](https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh) | 1:59 | 2021-04-02 | 2022-07-03 |
 | [everything i couldn't be](https://open.spotify.com/track/0Fzt24jmCa6G0ED7pW3IM1) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [everything i couldn't be](https://open.spotify.com/album/0OO54Y1nTh8WeZBNuD4AMV) | 2:10 | 2021-04-02 | 2022-07-22 |

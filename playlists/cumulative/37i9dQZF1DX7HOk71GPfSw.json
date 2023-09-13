@@ -17371,6 +17371,24 @@
     },
     {
       "album": {
+        "name": "invrgaveup",
+        "url": "https://open.spotify.com/album/3IkfKrGOH8bOVS0emRt3xg"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "invrgaveup",
+      "url": "https://open.spotify.com/track/6pg7IHuovPxvnuWnU8EojX"
+    },
+    {
+      "album": {
         "name": "IPHONE",
         "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
       },
@@ -26426,6 +26444,32 @@
       "duration_ms": 303412,
       "name": "Red Bottom Sky",
       "url": "https://open.spotify.com/track/2WloLsoUqp1A0xxNAwoiwh"
+    },
+    {
+      "album": {
+        "name": "Red Eye",
+        "url": "https://open.spotify.com/album/4K50blng8D0LMocyf08grh"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        },
+        {
+          "name": "Taylor Skye",
+          "url": "https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2"
+        },
+        {
+          "name": "IAN STARR",
+          "url": "https://open.spotify.com/artist/5BTyrWm7ePzkLX9czUxsWc"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117438,
+      "name": "Red Eye",
+      "url": "https://open.spotify.com/track/35U5ZWVge94oHMCOAwwWYf"
     },
     {
       "album": {

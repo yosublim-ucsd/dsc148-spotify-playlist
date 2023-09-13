@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 278764,
+  "num_followers": 279145,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -227,46 +227,6 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Consolation No. 3 in D-Flat Major, S. 172",
-      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
-        "name": "Field: Complete Nocturnes",
-        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
-      },
-      "artists": [
-        {
-          "name": "John Field",
-          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
-        },
-        {
-          "name": "Elizabeth Joy Roe",
-          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
-        }
-      ],
-      "duration_ms": 221731,
-      "name": "Nocturne No. 1 in E Flat Major, H.24",
-      "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
         "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
@@ -287,6 +247,26 @@
       "duration_ms": 136960,
       "name": "Polovetsian Dances from Prince Igor: Introduzione",
       "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
+        "name": "Field: Complete Nocturnes",
+        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
+      },
+      "artists": [
+        {
+          "name": "John Field",
+          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
+        },
+        {
+          "name": "Elizabeth Joy Roe",
+          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
+        }
+      ],
+      "duration_ms": 221731,
+      "name": "Nocturne No. 1 in E Flat Major, H.24",
+      "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -347,6 +327,26 @@
       "duration_ms": 258466,
       "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
       "url": "https://open.spotify.com/track/2wZktCFcNrvxle7jWXDv8c"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Consolation No. 3 in D-Flat Major, S. 172",
+      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -531,6 +531,26 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
         "name": "Gjeilo: Winter Light",
         "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 85000,
       "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
       "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
-        "name": "Field: Complete Nocturnes",
-        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
-      },
-      "artists": [
-        {
-          "name": "John Field",
-          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
-        },
-        {
-          "name": "Elizabeth Joy Roe",
-          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
-        }
-      ],
-      "duration_ms": 191853,
-      "name": "Nocturne No. 2 in C Minor, H.25",
-      "url": "https://open.spotify.com/track/0r4MwV7YMWcQQdWgWIn9c9"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
         "name": "Works for Solo Piano",
         "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 162374,
       "name": "Faded Leaves Fall",
       "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
+        "name": "Field: Complete Nocturnes",
+        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
+      },
+      "artists": [
+        {
+          "name": "John Field",
+          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
+        },
+        {
+          "name": "Elizabeth Joy Roe",
+          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
+        }
+      ],
+      "duration_ms": 191853,
+      "name": "Nocturne No. 2 in C Minor, H.25",
+      "url": "https://open.spotify.com/track/0r4MwV7YMWcQQdWgWIn9c9"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
+        "name": "Bach, C.P.E.: Sonatas & Rondos",
+        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
+      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -1027,46 +1047,6 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
-        "name": "Bach, C.P.E.: Sonatas & Rondos",
-        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
-      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Goldberg Variations, BWV 988: Variatio 30 Quodlibet. a 1 Clav.",
-      "url": "https://open.spotify.com/track/43kn3bSGdQFhjqyl5bF1EY"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
         "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
         "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
       },
@@ -1087,22 +1067,22 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
-        "name": "Schumann: Album for the Young",
-        "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
       "artists": [
         {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Vladimir Feltsman",
-          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 76746,
-      "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
-      "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
+      "duration_ms": 152160,
+      "name": "Goldberg Variations, BWV 988: Variatio 30 Quodlibet. a 1 Clav.",
+      "url": "https://open.spotify.com/track/43kn3bSGdQFhjqyl5bF1EY"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -1131,30 +1111,6 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
-        "name": "Glass: Tissue No. 7 (Musical Moments)",
-        "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Camille Thomas",
-          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
-        },
-        {
-          "name": "Julien Brocal",
-          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
-        }
-      ],
-      "duration_ms": 195712,
-      "name": "Tissue No. 7",
-      "url": "https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1175,46 +1131,22 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
-        "name": "Saint-Sa\u00ebns: Symphonic Poems",
-        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
+        "name": "Schumann: Album for the Young",
+        "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+          "name": "Vladimir Feltsman",
+          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
         }
       ],
-      "duration_ms": 376560,
-      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
-      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
-        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
-        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
-      },
-      "artists": [
-        {
-          "name": "Snorri Sigf\u00fas Birgisson",
-          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 105386,
-      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
-      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
+      "duration_ms": 76746,
+      "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
+      "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -1263,6 +1195,50 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
+        "name": "Glass: Tissue No. 7 (Musical Moments)",
+        "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Julien Brocal",
+          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
+        }
+      ],
+      "duration_ms": 195712,
+      "name": "Tissue No. 7",
+      "url": "https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
         "name": "Chill With Chopin",
         "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
       },
@@ -1283,22 +1259,46 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
+        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Snorri Sigf\u00fas Birgisson",
+          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
         },
         {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 88573,
-      "name": "Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
+      "duration_ms": 105386,
+      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
+      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
+        "name": "Saint-Sa\u00ebns: Symphonic Poems",
+        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "duration_ms": 376560,
+      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
+      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -1327,6 +1327,50 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        }
+      ],
+      "duration_ms": 88573,
+      "name": "Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
+        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
+        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Jean-Claude Vanden Eynden",
+          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
+        },
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
+      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
         "name": "Mendelssohn",
         "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
       },
@@ -1343,26 +1387,6 @@
       "duration_ms": 169653,
       "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
       "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -1391,30 +1415,6 @@
       "duration_ms": 361493,
       "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
       "url": "https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
-        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
-        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Jean-Claude Vanden Eynden",
-          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
-        },
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
-      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -1523,26 +1523,22 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
-        "name": "Vanhal: Symphonies, Vol. 3",
-        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
+        "name": "J.S. Bach: Partitas Nos. 3-4, BWV 827-828",
+        "url": "https://open.spotify.com/album/19p19pPECnHDX3mtuecf97"
       },
       "artists": [
         {
-          "name": "Johann Baptist Vanhal",
-          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Toronto Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
-        },
-        {
-          "name": "Kevin Mallon",
-          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
         }
       ],
-      "duration_ms": 304813,
-      "name": "Symphony in G Major, Bryan G6: II. Andante molto grazioso",
-      "url": "https://open.spotify.com/track/3DruXfuowq2uyM9FkTt6A4"
+      "duration_ms": 233920,
+      "name": "Partita No. 3 In A Minor, BWV 827 : I. Fantasia",
+      "url": "https://open.spotify.com/track/2rwutsPWAKDybfbVuBRC4L"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -1571,22 +1567,26 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
-        "name": "J.S. Bach: Partitas Nos. 3-4, BWV 827-828",
-        "url": "https://open.spotify.com/album/19p19pPECnHDX3mtuecf97"
+        "name": "Vanhal: Symphonies, Vol. 3",
+        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Johann Baptist Vanhal",
+          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
         },
         {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+          "name": "Toronto Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
         }
       ],
-      "duration_ms": 233920,
-      "name": "Partita No. 3 In A Minor, BWV 827 : I. Fantasia",
-      "url": "https://open.spotify.com/track/2rwutsPWAKDybfbVuBRC4L"
+      "duration_ms": 304813,
+      "name": "Symphony in G Major, Bryan G6: II. Andante molto grazioso",
+      "url": "https://open.spotify.com/track/3DruXfuowq2uyM9FkTt6A4"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -1687,6 +1687,30 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
+        "name": "Vanhal: Symphonies, Vol. 3",
+        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
+      },
+      "artists": [
+        {
+          "name": "Johann Baptist Vanhal",
+          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
+        },
+        {
+          "name": "Toronto Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
+      "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
         "name": "Chopin & Liszt: Piano Works",
         "url": "https://open.spotify.com/album/0RYJ4y07bDSZNkEoXbMSyU"
       },
@@ -1723,30 +1747,6 @@
       "duration_ms": 83960,
       "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
       "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
-        "name": "Vanhal: Symphonies, Vol. 3",
-        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
-      },
-      "artists": [
-        {
-          "name": "Johann Baptist Vanhal",
-          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
-        },
-        {
-          "name": "Toronto Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
-        },
-        {
-          "name": "Kevin Mallon",
-          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
-      "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
-        }
-      ],
-      "duration_ms": 93400,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1883,6 +1863,26 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 161961,
+      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
         "name": "Brasil Piano",
         "url": "https://open.spotify.com/album/2iZUelWbdDCPrAJAazJ5Ku"
       },
@@ -1903,22 +1903,22 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
         }
       ],
-      "duration_ms": 161961,
-      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
+      "duration_ms": 93400,
+      "name": "Invention No. 14 in B-Flat Major, BWV 785",
+      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
     },
     {
       "added_at": "2023-08-18 08:58:13",
@@ -1947,6 +1947,26 @@
     {
       "added_at": "2023-08-18 08:58:13",
       "album": {
+        "name": "Haydn: 3 Piano Sonatas",
+        "url": "https://open.spotify.com/album/5tS0lKJcOU7jWNvtbdUvqd"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "duration_ms": 337000,
+      "name": "Adagio in F, H.XVII No. 9",
+      "url": "https://open.spotify.com/track/59Ym3OL08DzJHzsdqvzRQZ"
+    },
+    {
+      "added_at": "2023-08-18 08:58:13",
+      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1967,26 +1987,6 @@
       "duration_ms": 112440,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: V. Sarabande",
       "url": "https://open.spotify.com/track/3etJfG58ulqDBqjih4kExx"
-    },
-    {
-      "added_at": "2023-08-18 08:58:13",
-      "album": {
-        "name": "Haydn: 3 Piano Sonatas",
-        "url": "https://open.spotify.com/album/5tS0lKJcOU7jWNvtbdUvqd"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Alfred Brendel",
-          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
-        }
-      ],
-      "duration_ms": 337000,
-      "name": "Adagio in F, H.XVII No. 9",
-      "url": "https://open.spotify.com/track/59Ym3OL08DzJHzsdqvzRQZ"
     },
     {
       "added_at": "2023-08-18 08:58:13",

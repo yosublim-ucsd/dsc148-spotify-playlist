@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Kizz Daniel & Becky G",
-  "num_followers": 113803,
+  "num_followers": 113846,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzk0NDI0NzA1ODZhMDVkMjVmMTYxZjFkMWViMDM1ODFiMTJiYThk",
+  "snapshot_id": "MCxjYmUyOTlhMmUwMmY3YjMyZTFiZTA1ZmE0NTliZDllYWY4ZjdiNWIz",
   "tracks": [
     {
       "added_at": "2023-07-20 23:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Baila Kumi",
-        "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Baila Kumi",
-      "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "Don't Rush (Remix)",
         "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 201013,
       "name": "Don't Rush - Remix",
       "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Baila Kumi",
+        "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Baila Kumi",
+      "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -935,30 +935,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
-        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Midnight Boom - with ChocQuibTown & Afro B",
-      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 175000,
       "name": "before",
       "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
+        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Midnight Boom - with ChocQuibTown & Afro B",
+      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
     },
     {
       "added_at": "2023-07-20 23:00:00",

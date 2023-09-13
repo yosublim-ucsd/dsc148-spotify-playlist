@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. トップアイドルを目指す少女達の物語、<a href="http://www.aikatsu.net/01/">アイカツ！</a>の煌めく世界へ。\(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,307 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,312 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 14 | [アイドル活動!](https://open.spotify.com/track/4SrZ9iQpkrb6sRfOUBJblK) | [わか・ふうり・すなお from STAR☆ANIS](https://open.spotify.com/artist/0xzkx0ukfziouCZGRJ54Tx) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS5](https://open.spotify.com/album/6IgXVSugxE7VjOSLgqG7hm) | 4:33 |
 | 15 | [硝子ドール](https://open.spotify.com/track/6rwa5QTCeA2eR7GFYFxDM7) | [もえ・すなお from STAR☆ANIS](https://open.spotify.com/artist/2404HKaozvQG02hkzZ8iFz) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 6:26 |
 | 16 | [オリジナルスター☆彡](https://open.spotify.com/track/0IefsVfeq3sJZJnkROKi3z) | [わか・ふうり・すなお・れみ・もえ・えり・ゆな・りすこ from STAR☆ANIS](https://open.spotify.com/artist/5hwNeskygEMGhykhX2ngk1) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 4:37 |
-| 17 | [Moonlight destiny](https://open.spotify.com/track/1W24U7V23R3EIO1THxED2E) | [りすこ from STAR☆ANIS](https://open.spotify.com/artist/1GNfpNmyWP4gv22gYeUVrc) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 6:29 |
-| 18 | [START DASH SENSATION](https://open.spotify.com/track/1uPdTnKqdbXQTkDJLr1OVO) | [るか・もな・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 4:43 |
+| 17 | [START DASH SENSATION](https://open.spotify.com/track/1uPdTnKqdbXQTkDJLr1OVO) | [るか・もな・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 4:43 |
+| 18 | [Moonlight destiny](https://open.spotify.com/track/1W24U7V23R3EIO1THxED2E) | [りすこ from STAR☆ANIS](https://open.spotify.com/artist/1GNfpNmyWP4gv22gYeUVrc) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 6:29 |
 | 19 | [fashion check!](https://open.spotify.com/track/3EkrkoXhZ47Wuz7YTkpJgL) | [わか・ふうり・すなお・れみ・もえ from STAR☆ANIS](https://open.spotify.com/artist/5luj8dLsbPa7sDj57qTmvK) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 4:43 |
 | 20 | [笑顔のSuncatcher](https://open.spotify.com/track/5gQnhMPISlQItA7Fj8tSAP) | [りすこ・もな from STAR☆ANIS](https://open.spotify.com/artist/6DqNY6UBmepUTJylVFIiva) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS8](https://open.spotify.com/album/532eAwNEHArrJe9zqLgawh) | 4:50 |
 | 21 | [Precious](https://open.spotify.com/track/7G2iYOPtfwnGKXsx04PkX7) | [りすこ・わか・ふうり・もな from STAR☆ANIS](https://open.spotify.com/artist/5nB4kgX7mJ2qOJRV8hFUyE) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 5:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 49 | [STARDOM!](https://open.spotify.com/track/2QTw7OOyAmFjrVPd3nqsto) | [せな](https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd), [りえ](https://open.spotify.com/artist/2qUnKtWqhckozatgC7mEpM) | [アイカツ！シリーズ 10th Anniversary Album Vol.04「Rainbow Canvas」](https://open.spotify.com/album/1toLgIICtmqLpFrlybuV05) | 4:32 |
 | 50 | [いばらの女王](https://open.spotify.com/track/2SXC1p5WZ6WsgjqaXgkOiR) | [もな from STAR☆ANIS](https://open.spotify.com/artist/1KEnYcLDJ6yuuRhIog6cBY) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS11](https://open.spotify.com/album/4dXDb1yg5xqhkrC8Sdyd7X) | 4:05 |
 
-Snapshot ID: `MCxlYTJmM2JlZTYzYjYzMGYyYjczN2MxMDBkZjU5YzUwYWM4M2Y2MWM2`
+Snapshot ID: `MCwyMzEwZjhiMmY5ZDJlZjQ3ZDcwNDQ4NGI5NGM0OGI0MTY0YmNlMTUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > 2022 highlight from the misfits 2.0 universe\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,867 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,861 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 49 | [god sent me as karma](https://open.spotify.com/track/7sUDunSJDK8HnFPJOCtPef) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 3:06 |
 | 50 | [weekends](https://open.spotify.com/track/6rCgN00t4al5TAqo4pNGOk) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Quantum Jumping](https://open.spotify.com/album/1XAzH6OVdH1BlpBEnjMcPk) | 2:52 |
 
-Snapshot ID: `MCw5ZjFkYzU3YTgxMGI3MDJmZWQ3NzhjMzllYmIwODhjNzlmYzYxN2Rj`
+Snapshot ID: `MCw3N2QxOGVkY2FhZWI1ZThkMzI0ZWEwMzA0MTZiMDdhZmZiN2MyMDZl`

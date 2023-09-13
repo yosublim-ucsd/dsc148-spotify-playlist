@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277127,
+  "num_followers": 277161,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTRjZDEzZGMyMWRiMTg3YTkzNWUzZWI1NzI3NWFmNzdkNGMyYWE0",
+  "snapshot_id": "MCwyODI5NmI2MDRkYmQwZTk4ZDJmN2NiODcyYzgzZWYwNzVjMjMzYzkz",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Lift Your Spirit",
         "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 216413,
       "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
       "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Hurricane (Acoustic Version)",
         "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 170882,
       "name": "Hurricane - Acoustic Version",
       "url": "https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Hey (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 156804,
+      "name": "Hey - Acoustic",
+      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1231,26 +1231,18 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
-        "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
+        "name": "Say Nothing (MAY-A\u2019s Version)",
+        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        },
-        {
-          "name": "John Ewbank",
-          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
         }
       ],
-      "duration_ms": 192724,
-      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
-      "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
+      "duration_ms": 217894,
+      "name": "Say Nothing - MAY-A\u2019s Version",
+      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1299,18 +1291,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Say Nothing (MAY-A\u2019s Version)",
-        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
+        "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
+        "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
       },
       "artists": [
         {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        },
+        {
+          "name": "John Ewbank",
+          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
         }
       ],
-      "duration_ms": 217894,
-      "name": "Say Nothing - MAY-A\u2019s Version",
-      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
+      "duration_ms": 192724,
+      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
+      "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Radio (Acoustic)",
-        "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 138048,
-      "name": "Radio - Acoustic",
-      "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Kids in Love (Remixes)",
         "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 245066,
       "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
       "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Radio (Acoustic)",
+        "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 138048,
+      "name": "Radio - Acoustic",
+      "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Violin Covers Pt. II",
+        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
+      },
+      "artists": [
+        {
+          "name": "Daniel Jang",
+          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
+        }
+      ],
+      "duration_ms": 186754,
+      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
+      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Living Without You (Acoustic)",
         "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 187333,
       "name": "Living Without You - Acoustic",
       "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Violin Covers Pt. II",
-        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
-      },
-      "artists": [
-        {
-          "name": "Daniel Jang",
-          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
-        }
-      ],
-      "duration_ms": 186754,
-      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
-      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "They Don't Know Us (Piano Version)",
+        "url": "https://open.spotify.com/album/4rJ12YsAzupoxuVaJYJAh0"
+      },
+      "artists": [
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        }
+      ],
+      "duration_ms": 201762,
+      "name": "They Don't Know Us - Piano Version",
+      "url": "https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Starting Fires",
         "url": "https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM"
       },
@@ -1963,26 +1979,6 @@
       "duration_ms": 229701,
       "name": "Waiting - Strings & Vocals Mix",
       "url": "https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Synchronize (VIP / Acoustic)",
-        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
-      },
-      "artists": [
-        {
-          "name": "Hellberg",
-          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
-        },
-        {
-          "name": "Aaron Richards",
-          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
-        }
-      ],
-      "duration_ms": 228095,
-      "name": "Synchronize - Acoustic",
-      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
     }
   ],
   "unique_name": "mint Acoustic",

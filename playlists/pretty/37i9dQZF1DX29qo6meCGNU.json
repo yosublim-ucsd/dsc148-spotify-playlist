@@ -1,12 +1,12 @@
 {
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 398128,
+  "num_followers": 398338,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGI5N2IxN2RmN2ViY2IwZTdlY2UxMmIxZTQ5NDk2MmViZWYxMjhh",
+  "snapshot_id": "MCwxNWQyNjRkMDEzNDU3ZDUxMzE4MzRmNzcxYTc3MGFjODEwMGU4NDEw",
   "tracks": [
     {
       "added_at": "2023-09-01 03:59:00",
@@ -923,22 +923,18 @@
     {
       "added_at": "2023-09-01 03:59:00",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+      "duration_ms": 142576,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
     },
     {
       "added_at": "2023-09-01 03:59:00",
@@ -963,18 +959,22 @@
     {
       "added_at": "2023-09-01 03:59:00",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 142576,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2023-09-01 03:59:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-09-01 03:59:00",
       "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2023-09-01 03:59:00",
+      "album": {
         "name": "LAS QUE NO IBAN A SALIR",
         "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 209180,
       "name": "CANCI\u00d3N CON YANDEL",
       "url": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R"
-    },
-    {
-      "added_at": "2023-09-01 03:59:00",
-      "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2023-09-01 03:59:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-01 03:59:00",
       "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 141890,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
-    },
-    {
-      "added_at": "2023-09-01 03:59:00",
-      "album": {
         "name": "Historias de un Capricornio",
         "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 221103,
       "name": "Infeliz",
       "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
+    },
+    {
+      "added_at": "2023-09-01 03:59:00",
+      "album": {
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 141890,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
     },
     {
       "added_at": "2023-09-01 03:59:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-09-01 03:59:00",
       "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2023-09-01 03:59:00",
+      "album": {
         "name": "Celular",
         "url": "https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 176017,
       "name": "Celular",
       "url": "https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C"
-    },
-    {
-      "added_at": "2023-09-01 03:59:00",
-      "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2023-09-01 03:59:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-01 03:59:00",
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 184254,
-      "name": "Relaci\u00f3n",
-      "url": "https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ"
-    },
-    {
-      "added_at": "2023-09-01 03:59:00",
-      "album": {
         "name": "Ay, DiOs M\u00edo!",
         "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 189653,
       "name": "Ay, DiOs M\u00edo!",
       "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
+    },
+    {
+      "added_at": "2023-09-01 03:59:00",
+      "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 184254,
+      "name": "Relaci\u00f3n",
+      "url": "https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ"
     },
     {
       "added_at": "2023-09-01 03:59:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-09-01 03:59:00",
       "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/4UAuSUwcvf4CIUW55KlCF2"
-      },
-      "artists": [
-        {
-          "name": "BrunOG",
-          "url": "https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL"
-        }
-      ],
-      "duration_ms": 276993,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/1UGaN3zIsL6ezvaMtOm4EP"
-    },
-    {
-      "added_at": "2023-09-01 03:59:00",
-      "album": {
         "name": "Chica Ideal",
         "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 183240,
       "name": "Chica Ideal",
       "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
+    },
+    {
+      "added_at": "2023-09-01 03:59:00",
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4UAuSUwcvf4CIUW55KlCF2"
+      },
+      "artists": [
+        {
+          "name": "BrunOG",
+          "url": "https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL"
+        }
+      ],
+      "duration_ms": 276993,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/1UGaN3zIsL6ezvaMtOm4EP"
     },
     {
       "added_at": "2023-09-01 03:59:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-09-01 03:59:00",
       "album": {
+        "name": "+Linda",
+        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "+Linda",
+      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
+    },
+    {
+      "added_at": "2023-09-01 03:59:00",
+      "album": {
         "name": "como si no importara",
         "url": "https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr"
       },
@@ -1895,18 +1911,18 @@
     {
       "added_at": "2023-09-01 03:59:00",
       "album": {
-        "name": "+Linda",
-        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
+        "name": "D\u00f3nde Est\u00e1s",
+        "url": "https://open.spotify.com/album/3uwIRMTeueP92bS46L6d7q"
       },
       "artists": [
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 161748,
-      "name": "+Linda",
-      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
+      "duration_ms": 153560,
+      "name": "D\u00f3nde Est\u00e1s",
+      "url": "https://open.spotify.com/track/71nkNlFUY4d9mBvTAyV9ig"
     },
     {
       "added_at": "2023-09-01 03:59:00",
@@ -1927,22 +1943,6 @@
       "duration_ms": 191606,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
-    },
-    {
-      "added_at": "2023-09-01 03:59:00",
-      "album": {
-        "name": "D\u00f3nde Est\u00e1s",
-        "url": "https://open.spotify.com/album/3uwIRMTeueP92bS46L6d7q"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "D\u00f3nde Est\u00e1s",
-      "url": "https://open.spotify.com/track/71nkNlFUY4d9mBvTAyV9ig"
     }
   ],
   "unique_name": "Romantiqueo",

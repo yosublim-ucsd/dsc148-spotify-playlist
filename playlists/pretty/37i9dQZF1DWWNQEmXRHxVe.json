@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Rihanna",
-  "num_followers": 85687,
+  "num_followers": 85731,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjQyYjVmOTBjODI4Mzg2NTI5ODI3NzYyNTk4NGVkMDEwNWI4Zjll",
+  "snapshot_id": "MCwzYTljZmJmNjk2YmI0NDFjNTgwMjk2MzczOTYwNjYxMjJjMmFjZWZk",
   "tracks": [
     {
       "added_at": "2023-01-28 00:44:44",
@@ -363,18 +363,26 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+      "duration_ms": 284906,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -415,26 +423,18 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
       "artists": [
         {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 284906,
-      "name": "California Love - Original Version",
-      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 316813,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
+      "duration_ms": 246400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+      "duration_ms": 316813,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Greatest Hits 1990-1992",
-        "url": "https://open.spotify.com/album/1VvHSKStQBrQV5bOPBsq16"
+        "name": "Order In The Court",
+        "url": "https://open.spotify.com/album/6CUx1FX3ctnbXGieFT7inL"
       },
       "artists": [
         {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+          "name": "Queen Latifah",
+          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
         }
       ],
-      "duration_ms": 159066,
-      "name": "It's A Little Too Late",
-      "url": "https://open.spotify.com/track/0j3Ly6UYhwEgAiXeCERVJM"
+      "duration_ms": 240933,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/5wOFLFoIhXBaKGtgCc62wW"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Order In The Court",
-        "url": "https://open.spotify.com/album/6CUx1FX3ctnbXGieFT7inL"
+        "name": "Greatest Hits 1990-1992",
+        "url": "https://open.spotify.com/album/1VvHSKStQBrQV5bOPBsq16"
       },
       "artists": [
         {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 240933,
-      "name": "Paper",
-      "url": "https://open.spotify.com/track/5wOFLFoIhXBaKGtgCc62wW"
+      "duration_ms": 159066,
+      "name": "It's A Little Too Late",
+      "url": "https://open.spotify.com/track/0j3Ly6UYhwEgAiXeCERVJM"
     },
     {
       "added_at": "2023-01-28 00:44:44",

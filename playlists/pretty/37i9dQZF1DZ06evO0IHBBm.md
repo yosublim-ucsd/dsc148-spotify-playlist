@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,260 likes - 47 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,297 likes - 47 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,20 +13,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 3 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 | 4 | [Consolador](https://open.spotify.com/track/3Eyy7G8uhoZJ1xq5d2wBnZ) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 4:47 |
 | 5 | [A Promessa](https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 4:09 |
-| 6 | [A Dracma e o Seu Dono \(feat\. Thalles Roberto\)](https://open.spotify.com/track/3MURjjREqerGDrYPFt3XOX) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:19 |
-| 7 | [O Leão](https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 |
+| 6 | [O Leão](https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 |
+| 7 | [A Dracma e o Seu Dono \(feat\. Thalles Roberto\)](https://open.spotify.com/track/3MURjjREqerGDrYPFt3XOX) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:19 |
 | 8 | [Um novo Vencedor](https://open.spotify.com/track/5HKjGzpALqUicGjD0vzS1G) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 6:10 |
 | 9 | [A Batalha do Arcanjo](https://open.spotify.com/track/7Iy6r0TWdhMUPfSspCGRKY) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:06 |
-| 10 | [A Tenda \(Ao Vivo\)](https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Tenda \(Ao Vivo\)](https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9) | 7:50 |
-| 11 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 |
+| 10 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 |
+| 11 | [A Tenda \(Ao Vivo\)](https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Tenda \(Ao Vivo\)](https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9) | 7:50 |
 | 12 | [Sacrifício e Adoração](https://open.spotify.com/track/0oAksCragvUN6QRcAIMic9) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 5:45 |
 | 13 | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/track/0vDhtdj7GlEWspnNvxTqb2) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 5:58 |
-| 14 | [Eu Quero Ver o Seu Milagre](https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 4:33 |
-| 15 | [Terceiro Céu](https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:28 |
+| 14 | [Terceiro Céu](https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:28 |
+| 15 | [Eu Quero Ver o Seu Milagre](https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 4:33 |
 | 16 | [Na Mesa do Rei](https://open.spotify.com/track/6SqZpvMfE3VlK5DFyRs1Wn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 4:49 |
 | 17 | [Apocalipse](https://open.spotify.com/track/3VSH4Sf48KMwRzt788M5B7) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 6:42 |
-| 18 | [Diário de um Vencedor](https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diário de um Vencedor](https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco) | 5:24 |
-| 19 | [O Noivo Virá](https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:29 |
+| 18 | [O Noivo Virá](https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:29 |
+| 19 | [Diário de um Vencedor](https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diário de um Vencedor](https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco) | 5:24 |
 | 20 | [Diamante](https://open.spotify.com/track/6ER3frVW05ALc50ffXLRrv) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 6:11 |
 | 21 | [Milagre](https://open.spotify.com/track/3S2tOr5qzFpVAQhVMiEUYW) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:55 |
 | 22 | [Pode Ser Hoje](https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:40 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 46 | [Sou o Que Sou](https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Obra Prima](https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5) | 5:23 |
 | 47 | [Vou Louvar](https://open.spotify.com/track/35lexxTpnonCNyIq6cS5yZ) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Obra Prima](https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5) | 3:56 |
 
-Snapshot ID: `MjgyMzkwNzcsMDAwMDAwMDAwNmQyNjhiNzQwMGRmMzM5ZjUzNTgwNWM1ODRiZWJlZg==`
+Snapshot ID: `MjgyNDIwMzcsMDAwMDAwMDBkODhlNGI5ZjZhMzVlMDcwYTU4N2M3Yzc1ZDNlMmQyNw==`

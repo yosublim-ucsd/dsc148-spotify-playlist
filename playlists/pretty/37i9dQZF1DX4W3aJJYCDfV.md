@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Olivia Rodrigo \(pictured\), Leigh\-Anne, Romy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,312 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,336 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 47 | [It's a Lundun Thing](https://open.spotify.com/track/7qrMjn2fFd0b08q4HKea4k) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [It's a Lundun Thing](https://open.spotify.com/album/4YIpVmWXnt1FCF2p72fapK) | 4:11 |
 | 48 | [Teeth](https://open.spotify.com/track/368TV7O9qxwJcDilBt68iz) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Teeth](https://open.spotify.com/album/0rOsqiiI0Ek08YYv3jEm3U) | 3:52 |
 | 49 | [No Gimmicks](https://open.spotify.com/track/0R5Dl3GxGA3JIg4zDcoFUK) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ) | [No Gimmicks](https://open.spotify.com/album/01OXWQFGf5spPBsFtvXM0P) | 3:24 |
-| 50 | [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 |
+| 50 | [Be That Girl](https://open.spotify.com/track/3ohEnx3hSZfRMA5RRTq7OX) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:56 |
 | 51 | [Elixir](https://open.spotify.com/track/4p5QTMGRzKYKxf8P1X88ve) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Elixir](https://open.spotify.com/album/6K816lpo5jh0WnnLXHE2uC) | 3:55 |
 | 52 | [Living Proof](https://open.spotify.com/track/0tcdlSkVzCd6Th0pdX6hAK) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Living Proof](https://open.spotify.com/album/7gW56T2dhUsOS9usJMqSQD) | 3:20 |
 | 53 | [Another Victim](https://open.spotify.com/track/2QxdR5kas7UBRzKDjNz3zA) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Another Victim](https://open.spotify.com/album/6fdeB3pBnXfZrLimBZGpBT) | 3:52 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 149 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 | 150 | [Glow Up](https://open.spotify.com/track/54pBJtl72q0YWAR31LtxS2) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Glow Up](https://open.spotify.com/album/6n13YZBvWybdWkphVsGeJ2) | 3:58 |
 
-Snapshot ID: `MCxkMzc4NDA3N2FkM2ZlMDIwYWFkM2U1YTRhNzYxNTg1MzgzNDk3MDBk`
+Snapshot ID: `MCwzNWE3MWNiZGY5M2U3ZTg0YTBiNmNjMTc4ZTExYmUzZGZjNWE2MzIx`

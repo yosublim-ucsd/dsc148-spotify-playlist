@@ -2,7 +2,7 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: MY FIRST STORY
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: 春ねむり
 
 143 songs - 8 hr 20 min
 

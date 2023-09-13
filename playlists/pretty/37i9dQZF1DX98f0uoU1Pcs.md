@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Be Your Own Pet
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,404 likes - 124 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,501 likes - 124 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 123 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
 | 124 | [Moments of Clarity](https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:50 |
 
-Snapshot ID: `MCw5MjMwYTc2Mzc2ZjM0YjY3NTBmOTdjOGVjZjA3NDEzYTgwZTU4MzE2`
+Snapshot ID: `MCw0N2I1N2MyZDY3NDBiNDU0NDFhNzMzMzkwNDcyOGZhY2NhNmU0ODli`

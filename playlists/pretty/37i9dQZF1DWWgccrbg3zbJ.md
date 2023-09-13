@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,505 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,975 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 30 | [Saudade Vem Correndo](https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:39 |
 | 31 | [Samba De Uma Nota Só](https://open.spotify.com/track/1CKhZVUyHhXKtN6Bo68xqq) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Inédito](https://open.spotify.com/album/2A8A15YTJJEXGUNAJRKMPW) | 3:00 |
 | 32 | [Bim Bom](https://open.spotify.com/track/1xBNJg2dvZsmUM4yoBag9N) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:17 |
-| 33 | [A Rã](https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Blue Note Trip 7: Birds / Beats](https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF) | 2:15 |
-| 34 | [Samba Do Aviao \- Live](https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Rio Revisited](https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd) | 3:23 |
+| 33 | [Samba Do Aviao \- Live](https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Rio Revisited](https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd) | 3:23 |
+| 34 | [A Rã](https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Blue Note Trip 7: Birds / Beats](https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF) | 2:15 |
 | 35 | [Nova Bossa Nova](https://open.spotify.com/track/68K8VaazzURRjLf84yaOA3) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Nova Bossa Nova](https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa) | 4:05 |
 | 36 | [Rio](https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Mr\. Bossa Nova](https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx) | 2:26 |
 | 37 | [Brigas Nunca Mais](https://open.spotify.com/track/3SkLW48Xt2knevezFTs0pY) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 1:42 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 64 | [Rosa Morena](https://open.spotify.com/track/2lUwmS0xS6X1JelcbzWNFI) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:06 |
 | 65 | [Pra Que Discutir Com Madame? \- Live](https://open.spotify.com/track/66nRcgioGhlcdlhUhUWpND) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 6:01 |
 
-Snapshot ID: `MCxjYzNiZmQwNDViZjcwMDM4NmVjMGFmZDYxYTA1YWQ5ZGM0OGU0MmQ5`
+Snapshot ID: `MCwxNjMzYjhhMjA3OTY3YjAzOTdlZDVhNTQwNmEwZjY2Y2JiN2ViMDgz`

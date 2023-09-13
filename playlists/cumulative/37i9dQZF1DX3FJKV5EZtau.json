@@ -3943,6 +3943,24 @@
     },
     {
       "album": {
+        "name": "SUGAR RUSH",
+        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150004,
+      "name": "love u!!",
+      "url": "https://open.spotify.com/track/0JQkrkQIIoBYnEQ2lla9e0"
+    },
+    {
+      "album": {
         "name": "Love You Back",
         "url": "https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na"
       },
@@ -4844,12 +4862,12 @@
       },
       "artists": [
         {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
           "name": "Flansie",
           "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
         }
       ],
       "date_added": "2023-05-26",
@@ -5802,7 +5820,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 173789,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3iU7l50uS0lSjrC0g4cBP1"

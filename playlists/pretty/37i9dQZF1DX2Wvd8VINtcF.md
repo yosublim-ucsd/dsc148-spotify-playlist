@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > Sampha takeover! Listen to his new single and his personal favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,109 likes - 127 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,174 likes - 127 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 126 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 |
 | 127 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 |
 
-Snapshot ID: `MCxjMzE4MTYwZWMwZTRkMjE1MmNjYzA5OTA1ZWJjOWVhZjJhODIyNmM2`
+Snapshot ID: `MCxmZjUzMzg5YmQxOWQyM2VhNGM3Mjk2NTllM2JlMmNhZWRlNjhlMWY0`

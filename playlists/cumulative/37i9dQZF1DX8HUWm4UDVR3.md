@@ -4,7 +4,7 @@
 
 > La pop française annonce la couleur\. Photo : Eddy de Pretto
 
-50 songs - 2 hr 32 min
+51 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [8h sonne](https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [8h sonne](https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU) | 3:08 | 2023-09-07 |  |
 | [A l'américaine](https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [A l'américaine](https://open.spotify.com/album/2S9ME2sqrjF1tOJlqt1BkL) | 3:24 | 2023-07-27 |  |
 | [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 | 2023-07-27 |  |
-| [Amour de vacances](https://open.spotify.com/track/4JMho5csY0dkiVxhC5rxcY) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT) | [Amour de vacances](https://open.spotify.com/album/5OwhMbwUQcTDHHEt1XKsEm) | 2:51 | 2023-07-27 |  |
+| [Amour de vacances](https://open.spotify.com/track/4JMho5csY0dkiVxhC5rxcY) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT) | [Amour de vacances](https://open.spotify.com/album/5OwhMbwUQcTDHHEt1XKsEm) | 2:51 | 2023-07-27 | 2023-09-13 |
+| [Amour de vacances](https://open.spotify.com/track/7d4L2mrGvxclgQVMmHSL1l) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Amour de vacances](https://open.spotify.com/album/2N1i1A3vPHEZPxtotd7LLe) | 2:51 | 2023-09-07 |  |
 | [Baiser Amer](https://open.spotify.com/track/3cguuolaXUqJU7tUAEbFfZ) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Baiser Amer](https://open.spotify.com/album/7LP6H3F3QX3p3rCWecqbLK) | 2:37 | 2023-09-07 |  |
 | [Comme je suis belle](https://open.spotify.com/track/7yM1d0OtroPcDI7tRxIExK) | [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [J'vais bien](https://open.spotify.com/album/1zOhEkxGnRvaESmUxpcucl) | 2:42 | 2023-07-27 |  |
 | [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 | 2023-07-27 |  |

@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "She Belongs To Me / Ballad Of A Thin Man",
+        "url": "https://open.spotify.com/album/1eIYNL1JRQXlIum8rNQFNT"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371826,
+      "name": "Ballad Of A Thin Man - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/6e4MDGtYT35IlplGMmBvep"
+    },
+    {
+      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/2ekIzRVrvwVtjRiK7vrhhU"
       },
@@ -7727,6 +7745,28 @@
     },
     {
       "album": {
+        "name": "Palace In My Head",
+        "url": "https://open.spotify.com/album/2BE3sN6vEDb9OIVarVMZZH"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Eino Kalevi",
+          "url": "https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3"
+        },
+        {
+          "name": "Alma Jodorowsky",
+          "url": "https://open.spotify.com/artist/4DBszooKyAkibrGnhMxKqr"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214575,
+      "name": "Palace In My Head",
+      "url": "https://open.spotify.com/track/3XXUa6zYeJ7l53goVtH73x"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5nLHY1doRZ0jVRcRcU8NOw"
       },
@@ -8780,6 +8820,24 @@
       "duration_ms": 233631,
       "name": "Shake The Feeling",
       "url": "https://open.spotify.com/track/7cklNY31Z25gfpNd7S4O6F"
+    },
+    {
+      "album": {
+        "name": "She Belongs To Me / Ballad Of A Thin Man",
+        "url": "https://open.spotify.com/album/1eIYNL1JRQXlIum8rNQFNT"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289453,
+      "name": "She Belongs To Me - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/5SWH0cj1CS3JNinFHiRMjo"
     },
     {
       "album": {

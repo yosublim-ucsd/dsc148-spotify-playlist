@@ -1,6 +1,6 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 122060,
+  "num_followers": 122307,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,18 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+      "duration_ms": 272866,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -191,6 +187,26 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -203,38 +219,6 @@
       "duration_ms": 130093,
       "name": "La basurita",
       "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -275,6 +259,22 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
+        "name": "A 10 a\u00f1os....un recuerdo permanente",
+        "url": "https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Paloma negra",
+      "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
         "name": "\u00c9xitos Rancheros",
         "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
       },
@@ -287,6 +287,22 @@
       "duration_ms": 151591,
       "name": "Dos Gotas De Agua",
       "url": "https://open.spotify.com/track/7iQe3AR9ZsQpJ2OEzQBV6u"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -307,22 +323,6 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "A 10 a\u00f1os....un recuerdo permanente",
-        "url": "https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Paloma negra",
-      "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -335,38 +335,6 @@
       "duration_ms": 201773,
       "name": "Diferentes",
       "url": "https://open.spotify.com/track/6tfPmubfNV4jjVwTT9X06A"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "15 \u00c9xitos: Chayito Valdez",
-        "url": "https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 182729,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "Cuando El Coraz\u00f3n Se Cruza",
-        "url": "https://open.spotify.com/album/6n9By9pSssKzD2z4orrkZ2"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "La Que Baje La Guardia",
-      "url": "https://open.spotify.com/track/5xYb8SYGvX0Nqf3XN2RqxI"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -403,18 +371,18 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+        "name": "15 \u00c9xitos: Chayito Valdez",
+        "url": "https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
         }
       ],
-      "duration_ms": 257209,
-      "name": "Si No Piensas Cambiar",
-      "url": "https://open.spotify.com/track/00TtkTraaGXv6LuGrzvw0c"
+      "duration_ms": 182729,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -435,22 +403,6 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "La Hija De Nadie",
-        "url": "https://open.spotify.com/album/0aOOYEl1uxLRX0x6uX2moJ"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Del Rio",
-          "url": "https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "La Hija de Nadie",
-      "url": "https://open.spotify.com/track/1TXIr8k01UXF0v6ckLVMUX"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
         "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
@@ -467,18 +419,50 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Tres Veces Te Enga\u00f1e",
-        "url": "https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz"
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 199656,
-      "name": "Tres Veces Te Enga\u00f1e",
-      "url": "https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT"
+      "duration_ms": 257209,
+      "name": "Si No Piensas Cambiar",
+      "url": "https://open.spotify.com/track/00TtkTraaGXv6LuGrzvw0c"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "La Hija De Nadie",
+        "url": "https://open.spotify.com/album/0aOOYEl1uxLRX0x6uX2moJ"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Del Rio",
+          "url": "https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC"
+        }
+      ],
+      "duration_ms": 169413,
+      "name": "La Hija de Nadie",
+      "url": "https://open.spotify.com/track/1TXIr8k01UXF0v6ckLVMUX"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "Cuando El Coraz\u00f3n Se Cruza",
+        "url": "https://open.spotify.com/album/6n9By9pSssKzD2z4orrkZ2"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "La Que Baje La Guardia",
+      "url": "https://open.spotify.com/track/5xYb8SYGvX0Nqf3XN2RqxI"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -499,6 +483,38 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
+        "name": "Tradicional",
+        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "Tres Veces Te Enga\u00f1e",
+        "url": "https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Tres Veces Te Enga\u00f1e",
+      "url": "https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Tradicional",
-        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 171733,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
+      "duration_ms": 170685,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -547,22 +563,6 @@
       "duration_ms": 201200,
       "name": "Una Llamada Perdida",
       "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 170685,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -595,22 +595,6 @@
       "duration_ms": 270600,
       "name": "Hoja En Blanco",
       "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "En Vivo, Desde Su Lugar",
-        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 162146,
-      "name": "Cheque En Blanco - Live",
-      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -663,6 +647,22 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
+        "name": "En Vivo, Desde Su Lugar",
+        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 162146,
+      "name": "Cheque En Blanco - Live",
+      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
         "name": "\u00c9xitos Rancheros",
         "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
       },
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Quiero Un Amor",
+      "url": "https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
         "name": "Las Que M\u00e1s Amo",
         "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
@@ -727,38 +743,6 @@
       "duration_ms": 190453,
       "name": "Adios y Bienvenida",
       "url": "https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Quiero Un Amor",
-      "url": "https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "Me Saludas A La Tuya",
-        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 163932,
-      "name": "Me Saludas A La Tuya",
-      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -811,22 +795,6 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "No Voy A Llorar",
-        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
         "name": "Pobre Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
       },
@@ -843,18 +811,18 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Lo Mejor De Lucha Villa",
-        "url": "https://open.spotify.com/album/05yE3cp9cIYw1aJjE8ybgs"
+        "name": "Me Saludas A La Tuya",
+        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
       },
       "artists": [
         {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 178584,
-      "name": "Amanec\u00ed En Tus Brazos",
-      "url": "https://open.spotify.com/track/6Yzyvz6Pujj7a3FgdNlSuD"
+      "duration_ms": 163932,
+      "name": "Me Saludas A La Tuya",
+      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -875,18 +843,34 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "No Hay Quinto Malo",
-        "url": "https://open.spotify.com/album/72szrpw0ttfJf0qKhEcPhx"
+        "name": "No Voy A Llorar",
+        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 173407,
-      "name": "No Hay Quinto Malo",
-      "url": "https://open.spotify.com/track/7tsW0yrg4oUGtjmg1FWsCl"
+      "duration_ms": 197253,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "Lo Mejor De Lucha Villa",
+        "url": "https://open.spotify.com/album/05yE3cp9cIYw1aJjE8ybgs"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 178584,
+      "name": "Amanec\u00ed En Tus Brazos",
+      "url": "https://open.spotify.com/track/6Yzyvz6Pujj7a3FgdNlSuD"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -907,22 +891,6 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
-      "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
         "name": "Piensa en M\u00ed",
         "url": "https://open.spotify.com/album/41oLeM3NG2XwKrPMzB0GTG"
       },
@@ -935,6 +903,22 @@
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
+      "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -955,8 +939,24 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Taco Placero",
-        "url": "https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh"
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 135733,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/72szrpw0ttfJf0qKhEcPhx"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 167206,
-      "name": "Taco Placero",
-      "url": "https://open.spotify.com/track/4ZnlLJNLuSfy8kcD8fzcCf"
+      "duration_ms": 173407,
+      "name": "No Hay Quinto Malo",
+      "url": "https://open.spotify.com/track/7tsW0yrg4oUGtjmg1FWsCl"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -983,22 +983,6 @@
       "duration_ms": 204866,
       "name": "No Me Vuelvo a Enamorar",
       "url": "https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 135733,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "T\u00fa a M\u00ed No Me Hundes",
+      "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
         "name": "Te Mereces Un Amor",
         "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 197000,
       "name": "Llamarada",
       "url": "https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "Taco Placero",
+        "url": "https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 167206,
+      "name": "Taco Placero",
+      "url": "https://open.spotify.com/track/4ZnlLJNLuSfy8kcD8fzcCf"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -1115,6 +1131,26 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
+        "name": "Por Amor A M\u00e9xico",
+        "url": "https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        },
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "Cielo Rojo - Duet Version",
+      "url": "https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
         "name": "Pa' Los Dolidos",
         "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
@@ -1135,22 +1171,6 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "T\u00fa a M\u00ed No Me Hundes",
-      "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
         "name": "Desarmada - Spotify Singles",
         "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 151968,
       "name": "Desarmada - Spotify Singles",
       "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "Por Amor A M\u00e9xico",
-        "url": "https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        },
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "Cielo Rojo - Duet Version",
-      "url": "https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Divas Rancheras",
-        "url": "https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM"
-      },
-      "artists": [
-        {
-          "name": "Angeles Ochoa",
-          "url": "https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "El Herradero",
-      "url": "https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
         "name": "Lucha Villa Interpreta a Jos\u00e9 Alfredo Jimenez",
         "url": "https://open.spotify.com/album/1Weu2CZyvIIvuSZ9RAPJHF"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 173174,
       "name": "Te Solt\u00e9 La Rienda",
       "url": "https://open.spotify.com/track/6x6IUdWGMh5N3Is2WjmLcE"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "Divas Rancheras",
+        "url": "https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM"
+      },
+      "artists": [
+        {
+          "name": "Angeles Ochoa",
+          "url": "https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "El Herradero",
+      "url": "https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Cuando Caiga la Noche",
-        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga la Noche",
-      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
         "name": "Los Exitos De Amalia Mendoza",
         "url": "https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 191173,
       "name": "\u00c9chame a M\u00ed la Culpa",
       "url": "https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -1503,6 +1503,38 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
+        "name": "La Reina de la Canci\u00f3n Mexicana",
+        "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 178782,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "Las Rejas No Matan",
+        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
@@ -1535,34 +1567,18 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "La Reina de la Canci\u00f3n Mexicana",
-        "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
       },
       "artists": [
         {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
         }
       ],
-      "duration_ms": 178782,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "Las Rejas No Matan",
-        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
+      "duration_ms": 209026,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -1623,38 +1639,6 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 186628,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "Dej\u00e9moslo As\u00ed",
-        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
         "name": "No Me Rebajo",
         "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 203250,
       "name": "No Me Rebajo",
       "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "Besos y Copas",
+        "url": "https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Besos y Copas",
+      "url": "https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc"
     }
   ],
   "unique_name": "Reinas del Mariachi",

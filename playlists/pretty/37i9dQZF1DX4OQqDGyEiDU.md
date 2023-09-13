@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,087 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,216 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 17 | [マーシャル・マキシマイザー](https://open.spotify.com/track/38XY1ShCSiYwDaV51sFPT9) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR) | 2:43 |
 | 18 | [God\-ish](https://open.spotify.com/track/08Th6KDn0ESaxZis89HxRo) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:25 |
 | 19 | [Liar Dancer](https://open.spotify.com/track/1YXuCccqCx4AM1PVekISj8) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [Liar Dancer](https://open.spotify.com/album/4P5WTqxveCHwel30kXJvoo) | 4:02 |
-| 20 | [Koinu no Carnival \-From "Minute Waltz"\-](https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | ["Classicaloid" Chopin Musik](https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N) | 3:10 |
+| 20 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 |
 | 21 | [Thanks for being Lifeless](https://open.spotify.com/track/051mZnDf307e5y9oflIUiC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [ZERO\-GO](https://open.spotify.com/album/0oaOHz6VowcZp1FUAwqDiD) | 4:24 |
 | 22 | [SAYONARA!! VIRUS](https://open.spotify.com/track/5WOQxzb3aX0K7p6f86X5EJ) | [kyuu](https://open.spotify.com/artist/3PGagIYZ350ogiX2RWUTt7), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [SAYONARA!! VIRUS](https://open.spotify.com/album/2JaHHYQFXbthVGeZEJHyU7) | 2:36 |
-| 23 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 |
+| 23 | [Koinu no Carnival \-From "Minute Waltz"\-](https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | ["Classicaloid" Chopin Musik](https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N) | 3:10 |
 | 24 | [サラマンダー](https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [サラマンダー](https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t) | 2:35 |
 | 25 | [キラキラキラ](https://open.spotify.com/track/5B6lFLmKyXJBste5Tdp6Ar) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [DREAMERS](https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi) | [キラキラキラ](https://open.spotify.com/album/0dt8HhmDyL9TM2BMmnsEIe) | 3:03 |
 | 26 | [yattyattawane](https://open.spotify.com/track/4TUDZrFx0JeSgWRm6Dpr0A) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [DREAMERS](https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi) | [yattyattawane](https://open.spotify.com/album/6dBjMTrStkpRgcp7PNByft) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [villain](https://open.spotify.com/track/5KE5i73iG4A7h8OyqyIaZK) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [villain](https://open.spotify.com/album/2pqS8lGfitHmyRukdGRkZ7) | 3:20 |
 | 50 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
 
-Snapshot ID: `MCwwOTg2ZThiNWNjMTZkMjRhOGZiNjVkYzU2NDY1NGRhYjRkOGEyYTZj`
+Snapshot ID: `MCwxMmI2NmQ0OWIyNjRiMWQ0MDVhZmZkMGYxMzI1NjIzZDY1YmRkMzAy`

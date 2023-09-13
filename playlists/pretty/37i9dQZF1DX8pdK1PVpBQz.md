@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Big Skeez & DatBreddaDom\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,865 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,895 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 75 | [Dancing Mood](https://open.spotify.com/track/0EWKE4j4SObAouEqAzu1AR) | [Tjaka](https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO) | [Dancing Mood](https://open.spotify.com/album/6mEvegjqGiBQYZioHnZbgW) | 3:23 |
 | 76 | [Follow Thru](https://open.spotify.com/track/2ayVZTJy0xlRuHSnGavT0q) | [Nardean](https://open.spotify.com/artist/3NF0Inkg9acKhu5Nyt2JLK) | [Follow Thru](https://open.spotify.com/album/61A2Ne5qkoTyhTc2XghjLM) | 3:22 |
 | 77 | [SPIT!](https://open.spotify.com/track/2nsjNpfLiDpsWbVJijara3) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [SPIT!](https://open.spotify.com/album/0yEo2sSFG39I0dYb1aCMPs) | 2:41 |
-| 78 | [The Only One](https://open.spotify.com/track/46TMFTXUkbZEZmfxjsH5a1) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [The Only One](https://open.spotify.com/album/0Y6zjrRGbHph1lwFeaXKhd) | 3:31 |
+| 78 | [The Only One](https://open.spotify.com/track/46TMFTXUkbZEZmfxjsH5a1) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC) | [The Only One](https://open.spotify.com/album/0Y6zjrRGbHph1lwFeaXKhd) | 3:31 |
 | 79 | [Airplane Mode](https://open.spotify.com/track/3twl2bN5Zvd1ueiiu2nmVL) | [Jujulipps](https://open.spotify.com/artist/6MwAhWiG2knasNMsFrJDEy) | [Airplane Mode](https://open.spotify.com/album/0kfG4m8OlWJ4eXLSx2sgMh) | 2:27 |
 | 80 | [Bump](https://open.spotify.com/track/1CT6q5bHXEPIKJtThRaxnr) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [Bump](https://open.spotify.com/album/3i7ROEbBuHHLTXs4TIsla5) | 1:57 |
 | 81 | [Cashew](https://open.spotify.com/track/3KFwWrpeAxNFnu7ruKfZr8) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Cashew](https://open.spotify.com/album/3CjgMd04vnLRPL9vsJQPGe) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Sunshine](https://open.spotify.com/track/0ZxPVxOXYm6YprU833nSsR) | [Lee Sugar](https://open.spotify.com/artist/1969BWxzmjFulSOaV6yBhJ) | [Sunshine](https://open.spotify.com/album/7kPy7AqlrdEYuaXS0MlDR0) | 2:38 |
 | 100 | [BRING WET CUNT](https://open.spotify.com/track/79vmq3eR63V6V4uGYuvxqa) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [BRING WET CUNT / HAMMERHEAD](https://open.spotify.com/album/0h7kNFyQeqjU7no81ZAFnp) | 2:18 |
 
-Snapshot ID: `MCw5MWUxZDc2YjYyYjQ5YThmNzhlOWIxYTI3OTY4ZWRjZTNmMDFjZmNh`
+Snapshot ID: `MCwyYjhhNTgwODg1ZmQ4MGI4NTVhNDk3OTlhYjhlN2I0OTQ2YjQ1MmM2`

@@ -4,14 +4,15 @@
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. Jungle en portada.
 
-59 songs - 3 hr 40 min
+61 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2023-08-04 |  |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2023-08-04 |  |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-08-04 |  |
-| [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-08-04 |  |
+| [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-25 |  |
+| [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-08-04 | 2023-09-13 |
 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 | 2023-08-04 |  |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2023-08-04 |  |
 | [Black Moon Rising](https://open.spotify.com/track/2LTah3NcoIJI9WHJW3VIlC) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 3:41 | 2023-08-04 |  |
@@ -36,7 +37,8 @@
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/6LTVD3zeHqAAiSqyKDhNEH) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This? \(Myd Remix\)](https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6) | 2:45 | 2023-08-04 |  |
 | [Isolette \- Edit](https://open.spotify.com/track/4s8bmFAHXhmPHrBasuGx62) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Isolette \(Edit\)](https://open.spotify.com/album/3uFBPwfmLFoDPIVZxA35b1) | 2:37 | 2023-08-25 |  |
 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 | 2023-08-04 | 2023-08-26 |
-| [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-08-04 |  |
+| [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-08-04 | 2023-09-13 |
+| [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 | 2023-08-25 |  |
 | [Living Proof](https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:53 | 2023-08-04 | 2023-08-29 |
 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-08-04 | 2023-09-07 |
 | [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2023-08-04 | 2023-08-26 |

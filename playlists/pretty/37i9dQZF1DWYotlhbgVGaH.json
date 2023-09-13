@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 116384,
+  "num_followers": 116456,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzEwNWYwYTZjYzFlZjVhZjJlYjhlZDY5N2QyMDkxNGQwZDExMzEz",
+  "snapshot_id": "MCw5YmE1NzFiNTE1YzAwOGQ0MjlkZjc0YzI2YjJlNmZlZmY5NWI3ZTlh",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC"
-      },
-      "artists": [
-        {
-          "name": "Casey MacGill & the Spirits of Rhythm",
-          "url": "https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj"
-        }
-      ],
-      "duration_ms": 167440,
-      "name": "Rhythm",
-      "url": "https://open.spotify.com/track/173Qo5lw33RFSTOahpwvtk"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Zoot Suit Riot",
         "url": "https://open.spotify.com/album/2iVgBMU6oDxmtIljVmJwkz"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 179828,
       "name": "Brown Derby Jump",
       "url": "https://open.spotify.com/track/5SEiTOjPOmNHDAyv6dfkDT"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC"
+      },
+      "artists": [
+        {
+          "name": "Casey MacGill & the Spirits of Rhythm",
+          "url": "https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj"
+        }
+      ],
+      "duration_ms": 167440,
+      "name": "Rhythm",
+      "url": "https://open.spotify.com/track/173Qo5lw33RFSTOahpwvtk"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -671,18 +671,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Cool Thing",
-        "url": "https://open.spotify.com/album/15CTW9TXXjTAKHutxmWXJg"
+        "name": "Rapid City Muscle Car",
+        "url": "https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR"
       },
       "artists": [
         {
-          "name": "Alien Fashion Show",
-          "url": "https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P"
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
         }
       ],
-      "duration_ms": 268961,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9"
+      "duration_ms": 224052,
+      "name": "Pink Elephant",
+      "url": "https://open.spotify.com/track/09ixyQNF20bjWpzg4zytga"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Rapid City Muscle Car",
-        "url": "https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR"
+        "name": "Cool Thing",
+        "url": "https://open.spotify.com/album/15CTW9TXXjTAKHutxmWXJg"
       },
       "artists": [
         {
-          "name": "Cherry Poppin' Daddies",
-          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+          "name": "Alien Fashion Show",
+          "url": "https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P"
         }
       ],
-      "duration_ms": 224052,
-      "name": "Pink Elephant",
-      "url": "https://open.spotify.com/track/09ixyQNF20bjWpzg4zytga"
+      "duration_ms": 268961,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9"
     },
     {
       "added_at": "2022-03-28 19:13:18",

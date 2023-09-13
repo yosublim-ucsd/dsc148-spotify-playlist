@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Everything Broadway-adjacent co-curated by the cast from the new film Theater Camp.",
+  "description": "Everything Broadway-adjacent. Cover: Ryan Gosling in Barbie",
   "name": "Off Broadway",
   "tracks": [
     {
@@ -152,7 +152,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 430561,
       "name": "Album",
       "url": "https://open.spotify.com/track/4wP9Yds2j0kimeOBMBa3X3"
@@ -178,6 +178,44 @@
       "duration_ms": 264235,
       "name": "All I Ask Of You",
       "url": "https://open.spotify.com/track/6YBmnh6VjgCeM7grsnulWk"
+    },
+    {
+      "album": {
+        "name": "All Love Is Love (Radio Edit)",
+        "url": "https://open.spotify.com/album/46Ueib3zzpRcxP3l8yi5s7"
+      },
+      "artists": [
+        {
+          "name": "Megan Mullally",
+          "url": "https://open.spotify.com/artist/7fMuncVtnMSI5VW5Kva22R"
+        },
+        {
+          "name": "Nathan Lane",
+          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
+        },
+        {
+          "name": "Josh Sharp",
+          "url": "https://open.spotify.com/artist/6bUOoP8p7s9rSJEetevOE5"
+        },
+        {
+          "name": "Aaron Jackson",
+          "url": "https://open.spotify.com/artist/5YcMD9kGVd6XKB9dQL3X8B"
+        },
+        {
+          "name": "Bowen Yang",
+          "url": "https://open.spotify.com/artist/7znzgTbLilllmlnY4CzazN"
+        },
+        {
+          "name": "Lauren Evans",
+          "url": "https://open.spotify.com/artist/656IQDSmCqr9r4Z2LmVREo"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242079,
+      "name": "All Love Is Love - Radio Edit",
+      "url": "https://open.spotify.com/track/7lXxblI12cgLHjG5x38oWT"
     },
     {
       "album": {
@@ -411,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Beast",
+        "url": "https://open.spotify.com/album/5E3kloxkrwiq2MlJ1gUHpw"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140959,
+      "name": "Beast",
+      "url": "https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS"
+    },
+    {
+      "album": {
         "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
       },
@@ -511,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Broke a Sweat",
+        "url": "https://open.spotify.com/album/7zipQoqEskoBS1OGUG7xBh"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170034,
+      "name": "Broke a Sweat",
+      "url": "https://open.spotify.com/track/5taA6pnGkqh9LRvpRpcUgW"
+    },
+    {
+      "album": {
         "name": "The Unofficial Bridgerton Musical",
         "url": "https://open.spotify.com/album/7gXx19GNHIiQ3fIbXxeY1U"
       },
@@ -584,7 +658,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 223422,
       "name": "Camp Isn\u2019t Home",
       "url": "https://open.spotify.com/track/3Dj8cST5CrCt0SzbPhnDaj"
@@ -624,6 +698,24 @@
       "duration_ms": 249413,
       "name": "Come to Your Senses - end credit version",
       "url": "https://open.spotify.com/track/2iCHrDnD5neO0bNAsN71TK"
+    },
+    {
+      "album": {
+        "name": "Stephen Sondheim's Old Friends: A Celebration (Live at the Sondheim Theatre)",
+        "url": "https://open.spotify.com/album/3lHyCiDs7pB6EPpjRFl0w8"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sondheim\u2019s Old Friends Original West End Concert Company",
+          "url": "https://open.spotify.com/artist/5T4MTIb5xdglLaRsuuE2qk"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98480,
+      "name": "Company - Live",
+      "url": "https://open.spotify.com/track/1jcLzUX5Qmj1rmb77zVbtn"
     },
     {
       "album": {
@@ -936,7 +1028,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 241533,
       "name": "Getting Married Today (Glee Cast Version)",
       "url": "https://open.spotify.com/track/6Td58IZU487fZlmdlh1J3T"
@@ -1030,7 +1122,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 129226,
       "name": "I Could Have Danced All Night",
       "url": "https://open.spotify.com/track/2WS6178iriZa2VVi46gtIo"
@@ -1098,7 +1190,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 335920,
       "name": "I Know It's Today - Live",
       "url": "https://open.spotify.com/track/21jsvugc1STuGNAB11OsY8"
@@ -1324,7 +1416,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 149880,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0IlPSIiqKMTMH7JBjYDq1y"
@@ -1400,10 +1492,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 221973,
       "name": "It's the Hard-Knock Life",
       "url": "https://open.spotify.com/track/3UvRjs5eyTkqB9MYWBqbuZ"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222633,
+      "name": "I\u2019m Just Ken",
+      "url": "https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U"
     },
     {
       "album": {
@@ -1674,7 +1784,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 327733,
       "name": "Move On (From, \"Sunday in the Park with George\")",
       "url": "https://open.spotify.com/track/38dl1CdqTTo7zblgYJIU7E"
@@ -1700,6 +1810,24 @@
       "duration_ms": 178350,
       "name": "Mystery of Me - (from the Netflix Film \"Found\")",
       "url": "https://open.spotify.com/track/1BpZhkNsRMr4GXjrHskAIy"
+    },
+    {
+      "album": {
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/7bXRwVIpeNmyU5d25AIEQu"
+      },
+      "artists": [
+        {
+          "name": "Caroline Kay",
+          "url": "https://open.spotify.com/artist/57REoZVHv9nnbBPaZW2sAw"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243847,
+      "name": "Near You",
+      "url": "https://open.spotify.com/track/1rRN1xidonGamn3WDOVzhO"
     },
     {
       "album": {
@@ -1804,7 +1932,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 251503,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/2XrvgPgHfawWecxhJkbY1f"
@@ -1896,7 +2024,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 195893,
       "name": "One Night in Bangkok",
       "url": "https://open.spotify.com/track/2NnHLMHGuwmwSt8GnTV05B"
@@ -2258,7 +2386,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 142493,
       "name": "Sit Down, You're Rocking the Boat - Live",
       "url": "https://open.spotify.com/track/4t9TeKJrTmdYW5SRO6iTyd"
@@ -2306,7 +2434,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 177973,
       "name": "Soft Place To Land",
       "url": "https://open.spotify.com/track/0wLeCwA3SG4OGahS8CJNM6"
@@ -2442,7 +2570,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 135863,
       "name": "Still",
       "url": "https://open.spotify.com/track/0X9WkDQ0RIRGK3fdd5gJcb"
@@ -2504,7 +2632,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 113786,
       "name": "Superboy and the Invisible Girl (feat. Camila Mendes)",
       "url": "https://open.spotify.com/track/4YP5jGbSC8nzekr93joLgk"
@@ -2576,7 +2704,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 173853,
       "name": "The Bitch Of Living - Rise Cast Version",
       "url": "https://open.spotify.com/track/7nT69eL3oUi37U8Q9oqK5U"
@@ -2818,7 +2946,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 182012,
       "name": "The Wall Street Noise",
       "url": "https://open.spotify.com/track/1czHO4DbnJoK2e33xBsaW4"
@@ -2884,7 +3012,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 348880,
       "name": "There's No Business Like Show Business",
       "url": "https://open.spotify.com/track/4yWXewTlItowO15dgHZdxZ"
@@ -2964,7 +3092,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 347066,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6fZJ0zMOEydD83wdm72lu6"
@@ -3112,7 +3240,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 222373,
       "name": "What I Did For Love",
       "url": "https://open.spotify.com/track/1Jwy2B4WLW2McewDu3ayci"
@@ -3130,7 +3258,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 230840,
       "name": "Whatever Lola Wants",
       "url": "https://open.spotify.com/track/6pzpfxH1hEeY8reNkL6qYJ"
@@ -3282,7 +3410,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 96960,
       "name": "You're A Good Man, Charlie Brown",
       "url": "https://open.spotify.com/track/794T0lJ2Sc1jU5gnA91XZX"

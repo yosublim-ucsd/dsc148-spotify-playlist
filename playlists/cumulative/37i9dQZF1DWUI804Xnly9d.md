@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-168 songs - 9 hr 25 min
+169 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Chhipa Hoon](https://open.spotify.com/track/7ufgQB1szGY68NSXxCGFnV) | [Anupam Hazra](https://open.spotify.com/artist/1aKIIGG77pUWHh51RDdmW8) | [Chhipa Hoon](https://open.spotify.com/album/6lF4M45kwtSY83I3CjMoa5) | 4:07 | 2023-05-17 | 2023-07-04 |
 | [Chhora Kyun](https://open.spotify.com/track/374WHQptMGIDX7CDPCoMGw) | [SURAJJ](https://open.spotify.com/artist/4yzeHzQ6XvpEq2FR1b6l4S) | [Chhora Kyun](https://open.spotify.com/album/72LLod1dP7uQjLYIBpOn3d) | 3:54 | 2023-07-24 |  |
 | [DARMIYAN](https://open.spotify.com/track/3QJRS9EGOweIgeqZ4M7m6H) | [Isis Paul](https://open.spotify.com/artist/0bBfNUh8Ud2skCAxD2g5Z5), [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Sagar Satpute](https://open.spotify.com/artist/7qafwPWhC9pjVtB43gSm3a) | [DARMIYAN](https://open.spotify.com/album/0L4oUESTyLktM4tm7uzOur) | 2:15 | 2023-06-02 | 2023-07-08 |
-| [DESTINY](https://open.spotify.com/track/2skHjbqgYwr83621d9phrL) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Industry2](https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I) | 3:02 | 2023-08-03 |  |
+| [DESTINY](https://open.spotify.com/track/2skHjbqgYwr83621d9phrL) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Industry2](https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I) | 3:02 | 2023-08-03 | 2023-09-13 |
 | [Dhalti Rahe \- Stripped.](https://open.spotify.com/track/24LQNvRzHvO1hVve07K2jj) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Dhalti Rahe \(Stripped.\)](https://open.spotify.com/album/4lrfG38M3vK2gBlfvLXGTu) | 4:16 | 2023-05-17 | 2023-07-25 |
 | [Dheemi](https://open.spotify.com/track/09yLuL7dXwPvHykgfXvBZz) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT) | [Dheemi](https://open.spotify.com/album/39Br7xTBLeUQaZ8JPg2J9S) | 3:55 | 2023-05-17 | 2023-06-01 |
 | [Dhuaan](https://open.spotify.com/track/7AVao1FclGwn9U2J9IG2Ax) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Dhuaan](https://open.spotify.com/album/3TzWaLcyDRndLFSuIEvUK4) | 3:30 | 2023-07-28 | 2023-09-09 |
@@ -57,6 +57,7 @@
 | [Ek Hi Toh Dil](https://open.spotify.com/track/3R8doGdVk3wSQonbXmuKGs) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Dilwala](https://open.spotify.com/artist/0OOLsvPq7vqGvLoQQJuvjC) | [Ek Hi Toh Dil](https://open.spotify.com/album/4Ge5dVfaOy3ghqzkbgR6Vm) | 3:12 | 2023-05-25 | 2023-06-29 |
 | [Ek Sheher](https://open.spotify.com/track/4IRryIKKfcEFvKgfcCTSGc) | [Alok](https://open.spotify.com/artist/3y7LfP3vkL9HrOItlNblh9), [Zion Mathew](https://open.spotify.com/artist/5f47cgKSrce8l22c8bZQ8X) | [Ek Sheher](https://open.spotify.com/album/7aX7q7EJb4cko8NLfzhMne) | 3:52 | 2023-09-08 |  |
 | [Faisle \(Acoustic\)](https://open.spotify.com/track/34pOdFzVl5ey5ssMWd9dwX) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Faisle \(Acoustic\)](https://open.spotify.com/album/0Gs4hEWrjOPRvaIpvbR4Wa) | 2:41 | 2023-05-17 | 2023-07-08 |
+| [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2023-09-12 |  |
 | [Ghulaam](https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Maara](https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn) | [Ghulaam](https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp) | 3:22 | 2023-08-18 |  |
 | [Girta Sambhalta](https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:18 | 2023-05-17 | 2023-07-29 |
 | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/track/2pcKIrfRJKtjndtEK0danK) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Swasti Nagar](https://open.spotify.com/artist/3IXozjWpOcyeWvfzndjwA4) | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/album/677qn7ZPFnweVzenu7lboo) | 2:37 | 2023-05-17 | 2023-06-03 |

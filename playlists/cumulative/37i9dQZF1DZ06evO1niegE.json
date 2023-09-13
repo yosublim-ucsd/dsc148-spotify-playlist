@@ -513,6 +513,36 @@
     },
     {
       "album": {
+        "name": "Hardinero Sound",
+        "url": "https://open.spotify.com/album/20CDeLYK9ZVLq1rUUv290j"
+      },
+      "artists": [
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "AYWA",
+          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183035,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/2Zq5sYodvD0MbWAlqUMSfE"
+    },
+    {
+      "album": {
         "name": "Me Desenamor\u00e9",
         "url": "https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw"
       },

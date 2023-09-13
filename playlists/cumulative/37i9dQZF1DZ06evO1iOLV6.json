@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/4iUR52Vde7PjuXJDdQzUaq"
+    },
+    {
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/1el7Fb3Dc9L7FRB0bKGkD9"
       },
@@ -330,7 +352,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 239706,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
@@ -801,7 +823,7 @@
         },
         {
           "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/11uLyqFpFnASRiuARez0w3"
+          "url": "https://open.spotify.com/artist/627kAlU9VnbfhMjyUvhqxU"
         }
       ],
       "date_added": "2023-09-09",
@@ -954,7 +976,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 195428,
       "name": "Inshallah",
       "url": "https://open.spotify.com/track/6PfPfk6nwJFu5XX38R2obK"
@@ -1904,6 +1926,36 @@
       "duration_ms": 219820,
       "name": "Rudi (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
+    },
+    {
+      "album": {
+        "name": "Simma",
+        "url": "https://open.spotify.com/album/2tjoYWbKdQ7F8uYsSU1d9n"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236037,
+      "name": "Sharpshooter",
+      "url": "https://open.spotify.com/track/3FuyPh7fJNOBJCX3qSlThe"
     },
     {
       "album": {

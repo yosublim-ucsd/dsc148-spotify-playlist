@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Abraham Mateo & Sebastian Yatra",
-  "num_followers": 283020,
+  "num_followers": 283040,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTFhMTZkMDcyNjhmZWIzNGE4NjExMTIzZmU4OWU4YWFlNzFlMGU5",
+  "snapshot_id": "MCxjODI3YWM1NTY3ODAxM2QzNmY1ZTIxMzQ4NmNmYjc1NGI1YzRmMWYx",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Mechero",
-        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 155392,
-      "name": "Mechero",
-      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
+      "duration_ms": 206615,
+      "name": "Plaza En el Cielo",
+      "url": "https://open.spotify.com/track/7gaonWEr5gnYx27N3JxZ2o"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "AAAAAA",
-        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+        "name": "Mechero",
+        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
       "artists": [
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 206615,
-      "name": "Plaza En el Cielo",
-      "url": "https://open.spotify.com/track/7gaonWEr5gnYx27N3JxZ2o"
+      "duration_ms": 155392,
+      "name": "Mechero",
+      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
     },
     {
       "added_at": "2023-09-08 04:00:00",

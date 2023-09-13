@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del norteño en vivo\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,875 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,934 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 32 | [Cielo Nublado Aka Cielo Nevado \- En Vivo](https://open.spotify.com/track/1y4h8u7FJdByH32PCVvXiZ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:22 |
 | 33 | [El Viajecito](https://open.spotify.com/track/5a8BD719zyuFnj4b0vDh6o) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' la Raza](https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU) | 3:56 |
 | 34 | [Solo un Día \- En Vivo](https://open.spotify.com/track/79Y1VEAg69qr6BZaEewcsF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4) | 3:52 |
-| 35 | [Enseñame a Olvidar \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/17NvNZU6xNjXgpFwwGpdhf) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 4:28 |
-| 36 | [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/5Lia7C8L7kLH0xQOwOY8pG) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/2lytKS4AnSzjNUD00xzA6f) | 7:38 |
+| 35 | [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/5Lia7C8L7kLH0xQOwOY8pG) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/2lytKS4AnSzjNUD00xzA6f) | 7:38 |
+| 36 | [Enseñame a Olvidar \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/17NvNZU6xNjXgpFwwGpdhf) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 4:28 |
 | 37 | [Ojala y te animes](https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:28 |
 | 38 | [Abrazado De Un Poste \- En Vivo](https://open.spotify.com/track/5foBwr4MmU2oeuEe6gnQHr) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Lorenzo De Monteclaro](https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:12 |
 | 39 | [Popurrí Cumbias: Se Murió De Amor/Desvelado/Otra Vez \- En Vivo](https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 8:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 74 | [Si Supieran \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/track/5IUjnIZr3LH26AhkKBPCS2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Supieran \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/album/1pPMfmXLCEtPWOdcBVmeB0) | 3:07 |
 | 75 | [Margarita, Margarita](https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:36 |
 
-Snapshot ID: `MCwwNzQ4YWQ4OTE2MjE2ZGJiZGJjZGEzY2RjYTExYzU3ZGZmZGQ3YjYx`
+Snapshot ID: `MCxhMDhlOTYyZThkN2FiM2UxMWM4YjFhZWYwZjMyODY2NmE2ZDRkOWRl`

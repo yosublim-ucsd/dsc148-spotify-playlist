@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Irreversible Entanglements
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,807 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,947 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 14 | [Manunae](https://open.spotify.com/track/7rQbINkpTf8wkm7Rz7EmL2) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Manunae](https://open.spotify.com/album/50REVna2w4qIf5lmZGHUi5) | 4:52 |
 | 15 | [Latency](https://open.spotify.com/track/0sGeZR0HjMbEx5o1xTWpvF) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Latency](https://open.spotify.com/album/2GdN1zVGThhW0YLSViECgF) | 3:46 |
 | 16 | [Freedom Praise](https://open.spotify.com/track/0lbB2VlCHGSbJZSz6pUeKX) | [everwave](https://open.spotify.com/artist/5nQnpRoxAaiMvn2qLL2hDX), [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3), [Hailey Niswanger](https://open.spotify.com/artist/1BSZmrnlSeYW2BBN56QfJZ), [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Taku Hirano](https://open.spotify.com/artist/6PEM6NRTZyWuKBIDO3x6wt), [Antoine Katz](https://open.spotify.com/artist/2Te4XXBAL2ChbjMAyZjwVC), [Greg Paul](https://open.spotify.com/artist/02VrMFqsgeEebhNeVJ4Poe), [Elizabeth Steiner](https://open.spotify.com/artist/7qio6x8Nj4bMSw5o2g4KgT), [Paul Kang](https://open.spotify.com/artist/22JZObA8OqOouex5kP6rzO) | [Freedom Praise](https://open.spotify.com/album/1Xa5u58rNuAp5yWdX172Ab) | 4:55 |
-| 17 | [The Wall](https://open.spotify.com/track/5fNrFBVejCZ9xuefjKgLd1) | [House of Waters](https://open.spotify.com/artist/4a8MGNthjVGNBU6AdBQT7x) | [On Becoming](https://open.spotify.com/album/1LyPkWKNtTSxunTX2a5CuY) | 10:37 |
+| 17 | [The Wall](https://open.spotify.com/track/5fNrFBVejCZ9xuefjKgLd1) | [House of Waters](https://open.spotify.com/artist/4a8MGNthjVGNBU6AdBQT7x), [Priya Darshini](https://open.spotify.com/artist/0HBnj5wwxLtAYL6H66jKJV) | [On Becoming](https://open.spotify.com/album/1LyPkWKNtTSxunTX2a5CuY) | 10:37 |
 | 18 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 |
 | 19 | [ゾウ](https://open.spotify.com/track/4xcYpxA5603bWGjlZfN56p) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [ゾウ](https://open.spotify.com/album/6UB20HtWFVLxBDD2HgZare) | 3:34 |
 | 20 | [Sunbursting](https://open.spotify.com/track/5i35BpUHPzdgWY6YJNFige) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N) | [Sunbursting](https://open.spotify.com/album/4YjPkjnA20KAcFmYa3Jz04) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Weezy](https://open.spotify.com/track/59quKh2wIPL3bom9F5MjI5) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [Weezy](https://open.spotify.com/album/1JYqRJ8grwAazaCF5OmMcL) | 7:11 |
 | 100 | [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 |
 
-Snapshot ID: `MCxlZjdjOWE5OGY2NWNhMWZiNTI0YjFkZmNhYTI0M2NlNWVkYTUyMTMz`
+Snapshot ID: `MCw1NGYxNmM3YmQ4OWQyOTgxMmViYzZkMjUwZTIxODM5NThlODIwMTU5`

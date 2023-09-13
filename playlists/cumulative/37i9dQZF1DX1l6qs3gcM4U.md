@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.
 
-324 songs - 19 hr 29 min
+325 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,9 +58,10 @@
 | [Cada Detalhe Teu](https://open.spotify.com/track/6p7j5VQkywOk8aPKw2CGpU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Cada Detalhe Teu](https://open.spotify.com/album/02y9Q2mTw9lGr3C3A3IO79) | 3:26 | 2022-07-22 | 2022-10-21 |
 | [Cada Detalhe Teu](https://open.spotify.com/track/2Vwgxwetkkc87mAcjM0rgw) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Cada Detalhe Teu](https://open.spotify.com/album/7LvYLQTaKMrhRZq2vrSn6G) | 3:28 | 2021-12-10 | 2022-07-19 |
 | [Cara Trancada](https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ) | [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Cara Trancada](https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI) | 4:16 | 2021-12-10 |  |
+| [Chama a Polícia](https://open.spotify.com/track/5nXyhuzNJ5jHdpPDq5ywaS) | [Jenny Cabral](https://open.spotify.com/artist/66xcfAp997B9qNAwwEtQvK), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [Chama a Polícia](https://open.spotify.com/album/0gbGNvo50htawNPbtkBzJ7) | 3:02 | 2023-09-07 |  |
 | [Chocolate](https://open.spotify.com/track/39M2ax2nivC7jKJrYxrTuQ) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Chocolate](https://open.spotify.com/album/6imRBmBRoHhUV2YGUto0IF) | 3:03 | 2022-10-20 | 2022-11-04 |
 | [Chocolate](https://open.spotify.com/track/5JSaK3zQTNv1L7PvpvelbE) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Dpos D' Quarentena](https://open.spotify.com/album/1U0cUGkzOq6ESgOs1S8yLF) | 3:10 | 2021-12-10 | 2022-09-19 |
-| [Chouchou](https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Chouchou](https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2) | 3:03 | 2021-12-10 |  |
+| [Chouchou](https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Chouchou](https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2) | 3:03 | 2021-12-10 | 2023-09-13 |
 | [Chuva](https://open.spotify.com/track/1L3pBAjneKibuFQiXO8wpU) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Chuva](https://open.spotify.com/album/07v4Sy6nmZtGscBDy6Q0CR) | 3:12 | 2021-12-10 | 2022-01-01 |
 | [Chuva em Abril](https://open.spotify.com/track/4PHZgCf4OygkCX4yeIVMK4) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu) | [Chuva em Abril](https://open.spotify.com/album/5XOFLbCKQel78Ohb4RSlQE) | 3:14 | 2022-01-14 | 2022-04-21 |
 | [Cigana Linda](https://open.spotify.com/track/5ZhYcNNdJMYUkUkFjeuWDI) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Cigana Linda](https://open.spotify.com/album/0cuU1N758RKwWSrTFf2IvK) | 3:38 | 2021-12-10 | 2022-12-08 |

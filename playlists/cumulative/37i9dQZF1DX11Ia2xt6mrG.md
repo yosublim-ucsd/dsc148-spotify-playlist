@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr Pig y Mario Bautista en portada.
 
-213 songs - 12 hr 10 min
+214 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Mahala](https://open.spotify.com/track/67AQjBaXz33P3hR2U3yPie) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Xelas Eduardo](https://open.spotify.com/artist/11q4ErxdYND8SjYt3Cw1fJ) | [Mahala](https://open.spotify.com/album/2TYkoRRyJsvswCp4fOzFKG) | 3:04 | 2022-05-06 | 2022-07-30 |
 | [Malecón](https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh) | [velum!](https://open.spotify.com/artist/14BeZ7E7FbMVYsCa6BUF3Z), [flxbabu](https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC) | [Malecón](https://open.spotify.com/album/7i1LWMyR830BxSDzzB7TwT) | 2:48 | 2023-01-07 | 2023-03-25 |
 | [Masala](https://open.spotify.com/track/7CZZthcEreu2RddkmekTm5) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [Masala](https://open.spotify.com/album/6WtVRdSDwevHuUDiFcEhCp) | 3:02 | 2022-07-28 | 2022-11-14 |
+| [MASERATI](https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [MASERATI](https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q) | 3:45 | 2023-09-12 |  |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-05-06 |  |
 | [Mexican Superstar](https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Mexican Superstar](https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14) | 3:57 | 2022-05-06 | 2023-03-25 |
 | [Mi Amor](https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Keep It Dope](https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y), [Priscila](https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX) | [Mi Amor](https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal) | 3:31 | 2022-05-06 |  |
@@ -158,7 +159,7 @@
 | [Revelation](https://open.spotify.com/track/1L2yB766uJH2BCTDxPQOcP) | [AO \(MX\)](https://open.spotify.com/artist/1Xk4yfpxUMbLAnsYrJi1yM) | [Revelation](https://open.spotify.com/album/63EEXjXqMKfdyg4oo5sBVH) | 7:36 | 2023-07-04 |  |
 | [S.E.L.F.](https://open.spotify.com/track/3NPRvxOAE0ha3KAc6zwdi2) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS) | [S.E.L.F.](https://open.spotify.com/album/7hP0dw1cQgQLid4NmYBoRi) | 4:23 | 2022-05-06 | 2022-07-29 |
 | [Safari](https://open.spotify.com/track/1sD7wfCf5OqgbQoCQylqu4) | [Berdu](https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl), [Yongo](https://open.spotify.com/artist/3O6jv8Iew1XZ8svS1Ug9UN) | [Safari](https://open.spotify.com/album/0i3aIyaIbZSNVSOOvBGisq) | 2:36 | 2022-05-06 | 2022-07-28 |
-| [San Junipero](https://open.spotify.com/track/34e6THp9JMgOZO2vZplFYP) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [San Junipero](https://open.spotify.com/album/60MTpbM78B7EG2j3nJlrBV) | 3:11 | 2023-03-23 |  |
+| [San Junipero](https://open.spotify.com/track/34e6THp9JMgOZO2vZplFYP) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [San Junipero](https://open.spotify.com/album/60MTpbM78B7EG2j3nJlrBV) | 3:11 | 2023-03-23 | 2023-09-13 |
 | [San Junipero \(Usb Gad Remix\)](https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV), [Usb Gad](https://open.spotify.com/artist/5vkRwmJS3T2WTuGF3Lzyj7) | [San Junipero Remixes Vol\. 1](https://open.spotify.com/album/0z6ThqeKVlAuBkjXX0M70x) | 3:15 | 2023-09-05 |  |
 | [Santa María](https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Santa María](https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm) | 4:20 | 2023-07-28 |  |
 | [Say Goodnight](https://open.spotify.com/track/4qtkxwJiHoKUJNwbuqWnCb) | [Setou & Senyo](https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv), [Cuish](https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Say Goodnight](https://open.spotify.com/album/4zJblKXvYzvYWe7jXBeyf5) | 2:42 | 2022-05-06 | 2022-06-13 |

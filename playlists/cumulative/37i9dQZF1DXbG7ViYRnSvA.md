@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-57 songs - 4 hr 22 min
+58 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [I Want You Around](https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:32 | 2022-10-01 |  |
 | [I'm Illy](https://open.spotify.com/track/3iNYQG2B6aBRnaCEOdNGbc) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:06 | 2022-10-01 |  |
 | [If I Ruled the World \(Imagine That\) \(feat\. Lauryn Hill\)](https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 4:42 | 2022-10-01 |  |
-| [IN TIME](https://open.spotify.com/track/215dPn2vTiquckgM8Izoui) | [Tarrey Torae](https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw) | [IN TIME](https://open.spotify.com/album/5Unj1ppHWjYhAUK49rqugW) | 3:45 | 2022-10-01 |  |
+| [IN TIME](https://open.spotify.com/track/0LUr9U2UgSkqgxC61aatTL) | [Tarrey Torae](https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw) | [IN TIME](https://open.spotify.com/album/7GM6oFiUpW9pjWXfHKLZq3) | 3:45 | 2022-10-01 |  |
+| [IN TIME](https://open.spotify.com/track/215dPn2vTiquckgM8Izoui) | [Tarrey Torae](https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw) | [IN TIME](https://open.spotify.com/album/5Unj1ppHWjYhAUK49rqugW) | 3:45 | 2022-10-01 | 2023-09-13 |
 | [Just Chill](https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [The Mayhem Machine](https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK) | 4:17 | 2022-10-01 |  |
 | [Liberian Girl \- 2012 Remastered Version](https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:52 | 2022-10-01 |  |
 | [Lions, Tigers & Bears](https://open.spotify.com/track/7zqM7Wm2xJLZ50qAnTLoHD) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:11 | 2022-10-01 |  |

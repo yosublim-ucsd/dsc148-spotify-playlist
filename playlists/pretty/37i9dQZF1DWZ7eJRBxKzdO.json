@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 310737,
+  "num_followers": 311954,
   "original_name": "Summer Dance Hits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzAwNWRiMTZlNjBlOWM2NmVkMWJkZDM5ZTdkYTA4NDJmYjhkNjI2",
+  "snapshot_id": "MCxhOWViMmZhMWQyMjFmZjI2NTY3ZjU4NjdhYWIxNDBhMjQ4MWExZjdm",
   "tracks": [
     {
       "added_at": "2023-08-30 14:34:58",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-08-30 14:34:58",
       "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
-    },
-    {
-      "added_at": "2023-08-30 14:34:58",
-      "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "added_at": "2023-08-30 14:34:58",
+      "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -703,26 +703,26 @@
     {
       "added_at": "2023-08-30 14:34:58",
       "album": {
-        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
-        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
       },
       "artists": [
         {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
         },
         {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
         }
       ],
-      "duration_ms": 169523,
-      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
-      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -743,6 +743,30 @@
       "duration_ms": 147211,
       "name": "Car Keys (Ayla)",
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
+    },
+    {
+      "added_at": "2023-08-30 14:34:58",
+      "album": {
+        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
+        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
+      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -771,30 +795,6 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
-    },
-    {
-      "added_at": "2023-08-30 14:34:58",
-      "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -1023,34 +1023,6 @@
     {
       "added_at": "2023-08-30 14:34:58",
       "album": {
-        "name": "She Knows (with Akon)",
-        "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 135706,
-      "name": "She Knows - with Akon",
-      "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
-    },
-    {
-      "added_at": "2023-08-30 14:34:58",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -1075,6 +1047,34 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2023-08-30 14:34:58",
+      "album": {
+        "name": "She Knows (with Akon)",
+        "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 135706,
+      "name": "She Knows - with Akon",
+      "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-08-30 14:34:58",
       "album": {
-        "name": "Rainfall (Praise You)",
-        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 166569,
-      "name": "Rainfall (Praise You)",
-      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
-    },
-    {
-      "added_at": "2023-08-30 14:34:58",
-      "album": {
         "name": "Emorio",
         "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 163840,
       "name": "Emorio",
       "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+    },
+    {
+      "added_at": "2023-08-30 14:34:58",
+      "album": {
+        "name": "Rainfall (Praise You)",
+        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 166569,
+      "name": "Rainfall (Praise You)",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2023-08-30 14:34:58",
       "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
+    {
+      "added_at": "2023-08-30 14:34:58",
+      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
-    },
-    {
-      "added_at": "2023-08-30 14:34:58",
-      "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        },
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2023-08-30 14:34:58",
       "album": {
-        "name": "Young Right Now",
-        "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 186140,
-      "name": "Young Right Now",
-      "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
-    },
-    {
-      "added_at": "2023-08-30 14:34:58",
-      "album": {
         "name": "Gatluak (Bakermat Remix)",
         "url": "https://open.spotify.com/album/1XVR96ao2iSG3yDGr1a1rN"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 139383,
       "name": "Gatluak - Bakermat Remix",
       "url": "https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ"
+    },
+    {
+      "added_at": "2023-08-30 14:34:58",
+      "album": {
+        "name": "Young Right Now",
+        "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 186140,
+      "name": "Young Right Now",
+      "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -1799,6 +1799,30 @@
     {
       "added_at": "2023-08-30 14:34:58",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+    },
+    {
+      "added_at": "2023-08-30 14:34:58",
+      "album": {
         "name": "Smash My Heart",
         "url": "https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O"
       },
@@ -1831,30 +1855,6 @@
       "duration_ms": 171954,
       "name": "Stay the Night",
       "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
-    },
-    {
-      "added_at": "2023-08-30 14:34:58",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
-        }
-      ],
-      "duration_ms": 170578,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -1947,6 +1947,30 @@
     {
       "added_at": "2023-08-30 14:34:58",
       "album": {
+        "name": "Where The Lights Are Low",
+        "url": "https://open.spotify.com/album/5ymCqifRmYTEyN4dlZf7Vq"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "duration_ms": 136995,
+      "name": "Where The Lights Are Low",
+      "url": "https://open.spotify.com/track/0Cnb8XdGDMHAmIRBUJMkIS"
+    },
+    {
+      "added_at": "2023-08-30 14:34:58",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj"
       },
@@ -1975,46 +1999,18 @@
     {
       "added_at": "2023-08-30 14:34:58",
       "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
         }
       ],
-      "duration_ms": 190217,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
-    },
-    {
-      "added_at": "2023-08-30 14:34:58",
-      "album": {
-        "name": "Where The Lights Are Low",
-        "url": "https://open.spotify.com/album/5ymCqifRmYTEyN4dlZf7Vq"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        }
-      ],
-      "duration_ms": 136995,
-      "name": "Where The Lights Are Low",
-      "url": "https://open.spotify.com/track/0Cnb8XdGDMHAmIRBUJMkIS"
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -2039,18 +2035,22 @@
     {
       "added_at": "2023-08-30 14:34:58",
       "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
       },
       "artists": [
         {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
+      "duration_ms": 190217,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -2123,26 +2123,6 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
-    },
-    {
-      "added_at": "2023-08-30 14:34:58",
-      "album": {
-        "name": "Sun Will Shine",
-        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Sun Will Shine",
-      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -2247,6 +2227,26 @@
       "duration_ms": 161880,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
+    },
+    {
+      "added_at": "2023-08-30 14:34:58",
+      "album": {
+        "name": "Sun Will Shine",
+        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Sun Will Shine",
+      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
     },
     {
       "added_at": "2023-08-30 14:34:58",
@@ -2451,22 +2451,26 @@
     {
       "added_at": "2023-08-30 14:34:58",
       "album": {
-        "name": "Coma Cat (Purple Disco Machine Re-Work)",
-        "url": "https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
       },
       "artists": [
         {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
         },
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Hight",
+          "url": "https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI"
         }
       ],
-      "duration_ms": 208544,
-      "name": "Coma Cat - Purple Disco Machine Re-Work",
-      "url": "https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ"
+      "duration_ms": 146692,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
     }
   ],
   "unique_name": "Summer Dance Hits 2023",

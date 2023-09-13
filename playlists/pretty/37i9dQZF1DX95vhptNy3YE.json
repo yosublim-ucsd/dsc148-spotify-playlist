@@ -1,12 +1,12 @@
 {
   "description": "Duquesa e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 215457,
+  "num_followers": 215482,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjZiMDhlMTRmOGI3NmI1NTc5OWFlY2I2NTE4OTk2Y2U1YTdiZmFl",
+  "snapshot_id": "MCw2MzE2M2ZkYjkwYTVkZDBjMTA2NTRiZTMyY2U0Mzg4MzQ1ZmUyNzhm",
   "tracks": [
     {
       "added_at": "2023-09-08 16:54:46",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-09-08 16:54:46",
       "album": {
-        "name": "KEN ELAS QUER",
-        "url": "https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 121234,
-      "name": "KEN ELAS QUER",
-      "url": "https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf"
-    },
-    {
-      "added_at": "2023-09-08 16:54:46",
-      "album": {
         "name": "A noite toda",
         "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 184615,
       "name": "A noite toda",
       "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
+    },
+    {
+      "added_at": "2023-09-08 16:54:46",
+      "album": {
+        "name": "KEN ELAS QUER",
+        "url": "https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 121234,
+      "name": "KEN ELAS QUER",
+      "url": "https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf"
     },
     {
       "added_at": "2023-09-08 16:54:46",

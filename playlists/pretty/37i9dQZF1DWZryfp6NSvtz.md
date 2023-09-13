@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,235 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,376 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 18 | [I Don’t Hate You](https://open.spotify.com/track/07EUiDdpkB8Zo5AZLzYDxU) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [I Don’t Hate You](https://open.spotify.com/album/3tWcMdxF1NBUvLplGZtnFV) | 3:04 |
 | 19 | [Grand Canyon](https://open.spotify.com/track/4JRl17e2B7tDb3j1T9JocW) | [Rozwell Kid](https://open.spotify.com/artist/3g43Z25cVRJHFn8ph8cdO0) | [Grand Canyon](https://open.spotify.com/album/6CUFVKzLc2OAOe76BpwUtE) | 3:57 |
 | 20 | [Memento](https://open.spotify.com/track/2hXILrNult7kzQpMVduV5Y) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Memento](https://open.spotify.com/album/1pHMFUWSlIq6FVFhi1Yn2Q) | 4:11 |
-| 21 | [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 |
+| 21 | [Be That Girl](https://open.spotify.com/track/3ohEnx3hSZfRMA5RRTq7OX) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:56 |
 | 22 | [Street Rat](https://open.spotify.com/track/6QEXgIEYghZjsFcQPohZ9q) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Street Rat](https://open.spotify.com/album/1dSWDvAoExxAwJj2Hf7kTB) | 3:30 |
 | 23 | [TKO](https://open.spotify.com/track/5V9ri3wZCY3ChAbqxk5Pso) | [DURRY](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Suburban Legend](https://open.spotify.com/album/0XBOirwu0hluwBbEb8hdMe) | 3:27 |
 | 24 | [Thrall](https://open.spotify.com/track/0Mj6r38yOnWjxp6O9qAD1i) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [There's a Place I Can Rest](https://open.spotify.com/album/4QzGN4SNoqUll3zgdTsSiw) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Joy Brings Me Down](https://open.spotify.com/track/7GMAT3z6PIY4mQ1pQkpfAX) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Joy Brings Me Down](https://open.spotify.com/album/3D4eXoW15Kti0ZkcY2WsEc) | 3:29 |
 | 50 | [Fire Mountain](https://open.spotify.com/track/5Fe5T906lixiSW38HcYQXQ) | [Demons My Friends](https://open.spotify.com/artist/0pRENjZBkVS4Lh5TBioQDy) | [Demons Seem To Gather](https://open.spotify.com/album/1VVJxELD3Pn8lihdYqKCk6) | 3:44 |
 
-Snapshot ID: `MCxmMjA1NDBlNDNkZTJjMzdmOGJmMTE2YThiYWI1Y2UxOGY2MDJmOWY3`
+Snapshot ID: `MCwyMmIwZTQxMDEwMjUzNWNkMjRjMzkxOGUxOGY4ZDlhMmJmYmE1Y2Fh`

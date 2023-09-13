@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Balloranking",
-  "num_followers": 18288,
+  "num_followers": 18386,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmZmNzkzZWQyMzZjMzQ3M2E1NDYwYTczMTU2OGM1YzU0MTcyZmIy",
+  "snapshot_id": "MCxiYzdjZWU3NDMyMzE1MjQ2NGM3ZTY5OWYzMDY2YjZkN2M2ZDMzNzYx",
   "tracks": [
     {
       "added_at": "2023-09-11 11:08:38",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-09-11 11:08:38",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/17voJtUJhl79b5WgXT0ttE"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 126671,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1Ut1vSnb0hM58jFbPVhZaC"
+    },
+    {
+      "added_at": "2023-09-11 11:08:38",
+      "album": {
         "name": "Feeling Funny",
         "url": "https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 198347,
       "name": "Feeling Funny",
       "url": "https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr"
-    },
-    {
-      "added_at": "2023-09-11 11:08:38",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/17voJtUJhl79b5WgXT0ttE"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 126671,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/1Ut1vSnb0hM58jFbPVhZaC"
     },
     {
       "added_at": "2023-09-11 11:08:38",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-11 11:08:38",
       "album": {
-        "name": "We Outside",
-        "url": "https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "We Outside",
-      "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
-    },
-    {
-      "added_at": "2023-09-11 11:08:38",
-      "album": {
         "name": "Astalavista",
         "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
@@ -623,6 +607,38 @@
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+    },
+    {
+      "added_at": "2023-09-11 11:08:38",
+      "album": {
+        "name": "We Outside",
+        "url": "https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "We Outside",
+      "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
+    },
+    {
+      "added_at": "2023-09-11 11:08:38",
+      "album": {
+        "name": "Soapy",
+        "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 174043,
+      "name": "Soapy",
+      "url": "https://open.spotify.com/track/1SlqJxitLASHinl3X0Mvkn"
     },
     {
       "added_at": "2023-09-11 11:08:38",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-09-11 11:08:38",
       "album": {
-        "name": "Soapy",
-        "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 174043,
-      "name": "Soapy",
-      "url": "https://open.spotify.com/track/1SlqJxitLASHinl3X0Mvkn"
-    },
-    {
-      "added_at": "2023-09-11 11:08:38",
-      "album": {
         "name": "Wire",
         "url": "https://open.spotify.com/album/7sp3pOTSG2BO3VWKcRWJH8"
       },
@@ -763,22 +763,22 @@
     {
       "added_at": "2023-09-11 11:08:38",
       "album": {
-        "name": "PARIWO",
-        "url": "https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8"
+        "name": "Mafo",
+        "url": "https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo"
       },
       "artists": [
         {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 120439,
-      "name": "PARIWO",
-      "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
+      "duration_ms": 214000,
+      "name": "Mafo",
+      "url": "https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9"
     },
     {
       "added_at": "2023-09-11 11:08:38",
@@ -799,18 +799,22 @@
     {
       "added_at": "2023-09-11 11:08:38",
       "album": {
-        "name": "Hat-trick",
-        "url": "https://open.spotify.com/album/7jYk45lrUzw0NTDk9WBbqU"
+        "name": "PARIWO",
+        "url": "https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 160757,
-      "name": "Hat-trick",
-      "url": "https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN"
+      "duration_ms": 120439,
+      "name": "PARIWO",
+      "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
     },
     {
       "added_at": "2023-09-11 11:08:38",
@@ -847,22 +851,18 @@
     {
       "added_at": "2023-09-11 11:08:38",
       "album": {
-        "name": "Mafo",
-        "url": "https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo"
+        "name": "Hat-trick",
+        "url": "https://open.spotify.com/album/7jYk45lrUzw0NTDk9WBbqU"
       },
       "artists": [
         {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Mafo",
-      "url": "https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9"
+      "duration_ms": 160757,
+      "name": "Hat-trick",
+      "url": "https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN"
     },
     {
       "added_at": "2023-09-11 11:08:38",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-09-11 11:08:38",
       "album": {
+        "name": "PXTA",
+        "url": "https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 208581,
+      "name": "PXTA",
+      "url": "https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg"
+    },
+    {
+      "added_at": "2023-09-11 11:08:38",
+      "album": {
         "name": "Badagry",
         "url": "https://open.spotify.com/album/6LJkRvpFfHIUwKSpuEMpDU"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 145910,
       "name": "La Pio Pio",
       "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
-    },
-    {
-      "added_at": "2023-09-11 11:08:38",
-      "album": {
-        "name": "PXTA",
-        "url": "https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 208581,
-      "name": "PXTA",
-      "url": "https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg"
     },
     {
       "added_at": "2023-09-11 11:08:38",

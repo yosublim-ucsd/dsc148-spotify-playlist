@@ -973,6 +973,28 @@
     },
     {
       "album": {
+        "name": "Khayaal",
+        "url": "https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Khayaal",
+      "url": "https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl"
+    },
+    {
+      "album": {
         "name": "Genesis 1:1",
         "url": "https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f"
       },
@@ -1072,7 +1094,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 256285,
       "name": "Koi Jaane Na",
       "url": "https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt"

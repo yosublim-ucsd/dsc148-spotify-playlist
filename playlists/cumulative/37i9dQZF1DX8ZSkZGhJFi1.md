@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-563 songs - 23 hr 3 min
+565 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Elevator Vibes](https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo) | [STAY THERE](https://open.spotify.com/artist/169SFNhjiSsCtKYt0APX6r) | [Elevator Vibes](https://open.spotify.com/album/0L2tAWPMwQdUF0fkc6pj8j) | 2:46 | 2023-09-08 |  |
 | [Elysian Fields](https://open.spotify.com/track/7MtTVOpbquSu8SCiNQY0fS) | [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [DJ Lagoa](https://open.spotify.com/artist/4YFewOTyrU36fR7k3LkIY4) | [Elysian Fields](https://open.spotify.com/album/4KM1V8eVOymeKDI64aInfM) | 2:30 | 2023-09-08 |  |
 | [Embrace It](https://open.spotify.com/track/5cQhJOmfuGGdAps95VYjEp) | [Nuven](https://open.spotify.com/artist/3Cdtqtl7PvG7793m9pkg34) | [Sumidouro](https://open.spotify.com/album/0Jf5TVjIeoRjkZwEatW3w9) | 3:26 | 2022-02-17 | 2023-09-09 |
+| [emotionally unavailable](https://open.spotify.com/track/71vPGvp1ANV3iDpA9wFQ0v) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [emotionally unavailable](https://open.spotify.com/album/2rLlb5HAK5vwXc1zqDfcGZ) | 2:05 | 2023-09-08 |  |
 | [Emotions](https://open.spotify.com/track/5Zi5DxoLD9LObzCuCDqOFQ) | [XXTRACKK](https://open.spotify.com/artist/4QZOgZMxM78wbHDBZqL3Kn) | [Dreams](https://open.spotify.com/album/60PDH7dPB8olXH5IC5gcEj) | 2:32 | 2022-02-17 | 2023-09-09 |
 | [Endless Color](https://open.spotify.com/track/4TIULvKSfY1AJ1egulOzfp) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2) | [Endless Color](https://open.spotify.com/album/2HsmtdYEE6Icr99penQsU8) | 2:41 | 2023-09-08 |  |
 | [Engraving](https://open.spotify.com/track/6fwWMZ8ComjwCUepX117Ct) | [Codewav](https://open.spotify.com/artist/1Mbu0fBSAzxejpvhss6A5B) | [Engraving](https://open.spotify.com/album/1PxQ4AVrdIyt8nmEs6VCwB) | 2:00 | 2023-09-08 |  |
@@ -193,7 +194,7 @@
 | [Gravel](https://open.spotify.com/track/3hqhYxVwW3o6g8p7HhtSVW) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Gravel](https://open.spotify.com/album/7ICWHUYb9EkAyol455qck6) | 1:54 | 2023-09-08 |  |
 | [Gray or Grey](https://open.spotify.com/track/6tLMDPDjojjIn2dv7KEXco) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Gray or Grey](https://open.spotify.com/album/2IsZrqLuFZHHM46SvrCLOd) | 2:52 | 2023-09-08 |  |
 | [Grey Grey Sky](https://open.spotify.com/track/1Ja3HxkCvHjv4Vi9I7Crp0) | [Low Key Persona](https://open.spotify.com/artist/1c8LSH695KiZELRZeGUbeb) | [Grey Grey Sky](https://open.spotify.com/album/5eUIfgdL6gN8FDwJciEf7E) | 1:54 | 2023-09-08 |  |
-| [Growing](https://open.spotify.com/track/1hM0bs3CbgCeZXpchcKfZk) | [Zane Milo](https://open.spotify.com/artist/1TyAZC5sqnI66MFVzZ4azE) | [Growing](https://open.spotify.com/album/7uYVdPcLmeUMWyfgkuIBIS) | 1:50 | 2023-09-08 |  |
+| [Growing](https://open.spotify.com/track/1hM0bs3CbgCeZXpchcKfZk) | [Zane Milo](https://open.spotify.com/artist/1TyAZC5sqnI66MFVzZ4azE) | [Growing](https://open.spotify.com/album/7uYVdPcLmeUMWyfgkuIBIS) | 1:50 | 2023-09-08 | 2023-09-13 |
 | [Güd Week](https://open.spotify.com/track/7Er4jiPgStH73X2nVutAHr) | [Hi Rodee](https://open.spotify.com/artist/51UCiViOBxBnEOyvHH4TpL) | [Güd Week](https://open.spotify.com/album/0ILe5XAKhhduIgaySBn25s) | 3:35 | 2022-02-17 | 2023-09-09 |
 | [Hammerhead](https://open.spotify.com/track/3tofD4yh3XryWokjq2xSwP) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Illuzionary](https://open.spotify.com/artist/2o46d078sJRWBz2evc0WFx) | [Hammerhead](https://open.spotify.com/album/6AcVC73UDJ5iqGIbphhI90) | 1:44 | 2023-09-08 |  |
 | [Hammock in the Clouds](https://open.spotify.com/track/6KW9sCI0ZePT4KWRVEwAwV) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0) | [Hammock in the Clouds](https://open.spotify.com/album/7gRvTZ12OEA7nbEeJhZhK4) | 2:57 | 2023-09-08 |  |
@@ -313,6 +314,7 @@
 | [My Story](https://open.spotify.com/track/0OS5J4N4pYDqXlJjzSOamS) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [My Story](https://open.spotify.com/album/3rEAU7AXZ2QtQE0wcoc8yy) | 4:20 | 2022-02-17 | 2023-01-20 |
 | [NANA](https://open.spotify.com/track/4rPKfCe7Rc4uUv9SyVkW8S) | [Big Nose](https://open.spotify.com/artist/6ETg05TrMGqIUd30ehlAvx) | [NANA](https://open.spotify.com/album/1k6DOBPWj02qzFcaMhrEEd) | 2:05 | 2023-09-08 |  |
 | [NASA](https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [NASA](https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI) | 2:06 | 2022-02-17 | 2023-09-09 |
+| [Natural Midst](https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Natural Midst](https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL) | 2:41 | 2023-09-08 |  |
 | [neomatter](https://open.spotify.com/track/5ZOwkvgMAeI0G2USq0cIFQ) | [O k O](https://open.spotify.com/artist/54FTacKE0BxtzKWB19zsem) | [neomatter](https://open.spotify.com/album/0jiIwPCZbyYrhwaQOXMKyR) | 1:44 | 2023-09-08 |  |
 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 | 2023-09-08 |  |
 | [Never Wing](https://open.spotify.com/track/6Ex7cCiMaj2mML0BCOG26H) | [DHN Missile](https://open.spotify.com/artist/188QXbK4VlrMgI7jleq5XF) | [Never Wing](https://open.spotify.com/album/1eRT425XrXde5hqIgQgkZ9) | 2:16 | 2023-09-08 |  |
@@ -562,7 +564,7 @@
 | [written for you](https://open.spotify.com/track/3Wuyp3U5WhAoUrK07YhWyE) | [Terce S.](https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9), [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [written for you](https://open.spotify.com/album/0Fx4PimV6xoaZYf3gVCAnM) | 2:28 | 2023-09-08 |  |
 | [wrong room?](https://open.spotify.com/track/6zvGDFWAM91P1huvcUgPo3) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [wrong room?](https://open.spotify.com/album/7uTtXbBmXvfr227RczFqtt) | 2:29 | 2023-09-08 |  |
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2023-09-08 |  |
-| [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 | 2023-09-08 |  |
+| [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 | 2023-09-08 | 2023-09-13 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3TBKlAMde3C7TNQEU7shez) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/2kHc5vqdqza5IlCMGXlGAQ) | 2:13 | 2023-09-08 |  |
 | [Yobidashi](https://open.spotify.com/track/6PV4hjKJ06jVHSH6HKhTkj) | [Aitobaiku](https://open.spotify.com/artist/6gSKO7qtjLIxagi1tfq4xu) | [Yobidashi](https://open.spotify.com/album/6IEc72I4ixBYTjvqRhTalK) | 2:24 | 2023-09-08 |  |
 | [Yoko](https://open.spotify.com/track/2idiYkZiNtzFm8hwsY7lfT) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Brandy & Apple Juice](https://open.spotify.com/album/42YfWVfh7I3fuUvvlQGN99) | 3:20 | 2022-02-17 | 2023-09-09 |

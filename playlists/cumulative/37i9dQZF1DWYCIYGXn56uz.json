@@ -988,7 +988,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 136068,
       "name": "DA PAURA",
       "url": "https://open.spotify.com/track/5RtW8gQnmnf2tI6XOaxVlb"
@@ -3154,6 +3154,24 @@
       "duration_ms": 147976,
       "name": "RONDINI",
       "url": "https://open.spotify.com/track/5qt5YZOEUCejoPMrXFXRQq"
+    },
+    {
+      "album": {
+        "name": "RUMORE",
+        "url": "https://open.spotify.com/album/6Lo4MzfKF6e0mwnEGtdGgd"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159306,
+      "name": "RUMORE",
+      "url": "https://open.spotify.com/track/7fxAFWmMsl86C60gW5yooG"
     },
     {
       "album": {

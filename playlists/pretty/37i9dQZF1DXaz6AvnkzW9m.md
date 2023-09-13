@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Eme MalaFe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,255 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,412 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 43 | [De Lunes A Viernes](https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af) | [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [De Lunes A Viernes](https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir) | 2:33 |
 | 44 | [El R](https://open.spotify.com/track/5jtKmeD6iq49e04qF1T4yW) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [El R](https://open.spotify.com/album/2wNUVU8fYpulfUQEVHZcmX) | 6:02 |
 | 45 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 |
-| 46 | [El Black](https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Les Cerre La Boca](https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU) | 3:26 |
-| 47 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
+| 46 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
+| 47 | [El Black](https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Les Cerre La Boca](https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU) | 3:26 |
 | 48 | [La Que Se Fue](https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP) | 4:27 |
 | 49 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 |
 | 50 | [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [El Llorón](https://open.spotify.com/track/744Hf71vPD64vnPUIYyYjD) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [El Llorón](https://open.spotify.com/album/2pDfl8RG9fMNEzLIV0mdTS) | 3:24 |
 | 75 | [un loquerón](https://open.spotify.com/track/2nlBvYdYnN16eJxG9DXFG2) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [hecho en México](https://open.spotify.com/album/43Wmfa9FeM6va3dxNXn8NS) | 3:03 |
 
-Snapshot ID: `MCxhMGZjYTM1OWE2MmQ1ZWUzYmQxNzQ5YjU3Y2EyNjE1YjBlOThiOWMy`
+Snapshot ID: `MCwzNGIxMWUxZmY3MGY3YTYwYjdhZjQzMWU3YWI5YTRlZTlmNTNlMDFh`

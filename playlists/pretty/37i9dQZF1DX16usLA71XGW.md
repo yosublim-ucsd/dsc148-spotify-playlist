@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Polaris, Mayonde, Muthoni Drummer Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,573 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,580 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Rotate](https://open.spotify.com/track/4EBvUhVhJQVlUueTvH2Hnl) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Rotate](https://open.spotify.com/album/4XYAAKYsUt7MvnhwWdtj0e) | 2:49 |
 | 60 | [Nfollowinga](https://open.spotify.com/track/0VNAMIE10wDY5zy6jqmQQY) | [Miriam Namaganda](https://open.spotify.com/artist/4WPIAHlYewpWNZnWOlEhiF), [Angella Katatumba](https://open.spotify.com/artist/1vpGA9WdQqdZHY36FcYoqw) | [Nfollowinga](https://open.spotify.com/album/4gA8KJQVSNlhjy74KRDnLP) | 2:47 |
 
-Snapshot ID: `MCxiYmYxMmU5ZTQ5Nzc1YWNlMzA3MjI1ZTM5MTE2ODdjNjllYTk1MmIy`
+Snapshot ID: `MCw3Mjc0NjNkYjFjZjkxOTEyMDZlYmMyZjUyOWQxZjNlNGVjMTM2Njhi`

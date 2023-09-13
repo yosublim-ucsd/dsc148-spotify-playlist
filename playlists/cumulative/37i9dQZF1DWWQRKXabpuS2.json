@@ -918,7 +918,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 337368,
       "name": "Bel Salamah",
       "url": "https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl"
@@ -4046,6 +4046,24 @@
       "duration_ms": 276010,
       "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
       "url": "https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s"
+    },
+    {
+      "album": {
+        "name": "\u0631\u0627\u0628\u062d \u0635\u0642\u0631 \u0662\u0660\u0662\u0663 - \u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u062b\u0627\u0644\u062b",
+        "url": "https://open.spotify.com/album/0gjd8nLLwr2sHk7lsfBfvL"
+      },
+      "artists": [
+        {
+          "name": "Rabeh Saqer",
+          "url": "https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299580,
+      "name": "\u062a\u0648\u0644\u0639\u062a \u0628\u0643",
+      "url": "https://open.spotify.com/track/0GUMuiH1nCUrv6Qn3XoSLt"
     },
     {
       "album": {

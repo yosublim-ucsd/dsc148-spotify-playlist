@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,630 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,648 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 53 | [Hand Jive](https://open.spotify.com/track/31W4cIsWpn6zubliC06BsN) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 8:54 |
 | 54 | [Mr\. Jin \- Remastered](https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Indestructible](https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx) | 7:04 |
 | 55 | [Free For All](https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Best Of Art Blakey](https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS) | 11:09 |
-| 56 | [Blessing In Disguise](https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [East Broadway Run Down](https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ) | 12:22 |
-| 57 | [Vertigo \- Remastered](https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:17 |
+| 56 | [Vertigo \- Remastered](https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:17 |
+| 57 | [Blessing In Disguise](https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [East Broadway Run Down](https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ) | 12:22 |
 | 58 | [Rebirth](https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Sahara](https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl) | 5:18 |
 | 59 | [Pumpkin](https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Black Fire](https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J) | 5:23 |
 | 60 | [Long Wharf](https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp) | [Roy Haynes Quartet](https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX) | [Out Of The Afternoon](https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu) | 4:42 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 87 | [The Beach](https://open.spotify.com/track/3HQ5oxrVucyUP6XPkiQEyc) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Lofty Fake Anagram](https://open.spotify.com/album/4oSUqIo6gVVZc61Z6JCCfF) | 3:42 |
 | 88 | [Jasper \- Rudy Van Gelder/24Bit Digital Remaster/2002](https://open.spotify.com/track/0bkhgAfg6QJn1oYbxIHhSo) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Dialogue](https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2) | 8:29 |
 | 89 | [Omega \- Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering](https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Let Freedom Ring \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw) | 8:30 |
-| 90 | [Consequence \- Remastered](https://open.spotify.com/track/0wl0WUMMe94DuZhc4qKe7X) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Consequence](https://open.spotify.com/album/1fIhToDoSSkcQa0L0DK2Dx) | 5:32 |
-| 91 | [Village Greene](https://open.spotify.com/track/0zowXbXX2KisRPIvUAw56X) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Puttin' It Together](https://open.spotify.com/album/5JkyHalhn8Ml6KhwZBYfBp) | 5:11 |
+| 90 | [Village Greene](https://open.spotify.com/track/0zowXbXX2KisRPIvUAw56X) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Puttin' It Together](https://open.spotify.com/album/5JkyHalhn8Ml6KhwZBYfBp) | 5:11 |
+| 91 | [Consequence \- Remastered](https://open.spotify.com/track/0wl0WUMMe94DuZhc4qKe7X) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Consequence](https://open.spotify.com/album/1fIhToDoSSkcQa0L0DK2Dx) | 5:32 |
 | 92 | [Sometimes Joie](https://open.spotify.com/track/3pWTTgjiIuyVEUsHsZ03I5) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [The Ultimate](https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp) | 10:37 |
 | 93 | [First Trip \- Remastered](https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 6:01 |
 | 94 | [King Cobra \- Remastered](https://open.spotify.com/track/2wPdiD2p3JWYPKXiNlGFPs) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 6:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 99 | [Breaking Point \- Remastered 2004](https://open.spotify.com/track/45wnqKMg6CEL48lWMqCvQt) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Breaking Point](https://open.spotify.com/album/0FeZbhuzIoD7E5ru2eDpIH) | 10:19 |
 | 100 | [Melonae's Dance \- Remastered](https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 6:46 |
 
-Snapshot ID: `MCw2NDE0Y2M2MmM2MGJkZjk0YWZlZmMyMjVjN2FhOGY3NTVkOTA4YmRh`
+Snapshot ID: `MCxlYWRiNDQyZWIyOTVmMTBhMzc4MGZkYWY4NDVlMzFiMmI1NWZiMTU0`

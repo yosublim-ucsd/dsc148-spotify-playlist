@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,154 likes - 98 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,194 likes - 98 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 5 | [All Night](https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Love Songs: Part Two](https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG) | 4:54 |
 | 6 | [Gnawa \(feat\. The Atlas Collective\)](https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv) | [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [The Atlas Collective](https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828) | [Gnawa EP](https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG) | 3:39 |
 | 7 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 |
-| 8 | [Kaga Bole Mera \- Turbotito & Ragz Rework](https://open.spotify.com/track/5TZpfuDzrxy0wehfZrWakN) | [Arundhati Bhaumik](https://open.spotify.com/artist/5lBkGTwZlXHNNKJWsCMPrp), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Ragz](https://open.spotify.com/artist/4YyUBP46T7GxKP0UfqiTSn) | [Pi Pi \(Turbotito & Ragz Rework Radio Edit\)](https://open.spotify.com/album/7qe7sOPs1nRTgxjrhbvfQq) | 5:41 |
+| 8 | [Kaga Bole Mera \- Turbotito & Ragz Rework](https://open.spotify.com/track/2YEFBAV9cmwudwx2JjssZR) | [Arundhati Bhaumik](https://open.spotify.com/artist/5lBkGTwZlXHNNKJWsCMPrp), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Ragz](https://open.spotify.com/artist/4YyUBP46T7GxKP0UfqiTSn) | [Kaga Bole Mera \(Turbotito & Ragz Rework\)](https://open.spotify.com/album/3q0N21aIuH5qesQ02Agwpk) | 5:41 |
 | 9 | [Labyrinth \- Extended Mix](https://open.spotify.com/track/2DSixYXsxGkbLYxsrP9ZEe) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [Labyrinth](https://open.spotify.com/album/3Uz71ibY4FDCqu6Aux9lWA) | 6:16 |
 | 10 | [Alegría \- Yuksek Remix](https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Alegría \(Yuksek Remix\) \- Single](https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH) | 4:18 |
 | 11 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 97 | [Killing Me](https://open.spotify.com/track/6IB77Wc9qKk4eoIMaHTPik) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:14 |
 | 98 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 
-Snapshot ID: `MCwwNGFlNjNjY2UwZWM2N2JjNDk2ZmI4NjljMGYzNDdhNWI1YjkzNWQy`
+Snapshot ID: `MCwwZjQyOTE0ZWMzZGRlOTE0MWMzNzYzYTVlNTY3YTdiYWFjMDlmMjhk`

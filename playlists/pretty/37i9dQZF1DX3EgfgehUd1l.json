@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 155127,
+  "num_followers": 155241,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDNkY2E4MGY1Njg0ZjMyYTQyMDExNjE1MDAxNGVmN2FhOGE0ZTRk",
+  "snapshot_id": "MCxiMjIzNjE0ZjkyNzI2N2M2MmVlYzQ3NmExMzQ2MzQ3MjhmYTI5Nzk4",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -355,22 +355,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Platters",
-        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "My Prayer",
-      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "Just Walkin' in the Rain",
+      "url": "https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "Hey, Brother Pour The Wine",
         "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
@@ -439,18 +439,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
       "artists": [
         {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 157240,
-      "name": "Just Walkin' in the Rain",
-      "url": "https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er"
+      "duration_ms": 164400,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -471,18 +471,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+        "name": "It\u2019s All In The Game",
+        "url": "https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Tommy Edwards",
+          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
+      "duration_ms": 158520,
+      "name": "It's All In The Game",
+      "url": "https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -499,22 +499,6 @@
       "duration_ms": 143440,
       "name": "Blueberry Hill - Remastered 2002",
       "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "It\u2019s All In The Game",
-        "url": "https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d"
-      },
-      "artists": [
-        {
-          "name": "Tommy Edwards",
-          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "It's All In The Game",
-      "url": "https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -827,6 +811,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Banana Boat Song",
+        "url": "https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Banana Boat Song",
+      "url": "https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "The Kalin Twins",
         "url": "https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE"
       },
@@ -867,6 +867,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
         "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 225426,
       "name": "Three Coins In The Fountain",
       "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Banana Boat Song",
-        "url": "https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Banana Boat Song",
-      "url": "https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -915,22 +915,6 @@
       "duration_ms": 185051,
       "name": "True Love",
       "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -967,22 +951,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 124640,
-      "name": "Whatever Will Be, Will Be (Que Sera, Sera) - Single Version",
-      "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Teresa (Expanded Edition)",
         "url": "https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx"
       },
@@ -995,6 +963,22 @@
       "duration_ms": 155880,
       "name": "A Tear Fell",
       "url": "https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 124640,
+      "name": "Whatever Will Be, Will Be (Que Sera, Sera) - Single Version",
+      "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1015,22 +999,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Frankie Laine's Greatest Hits",
         "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
       },
@@ -1043,6 +1011,22 @@
       "duration_ms": 130893,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Ricky Nelson (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Someday (You'll Want Me To Want You) - Remastered",
+      "url": "https://open.spotify.com/track/6ew1MCEKObxl8HbkdszmzP"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Ricky Nelson (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
       },
       "artists": [
         {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 171826,
-      "name": "Someday (You'll Want Me To Want You) - Remastered",
-      "url": "https://open.spotify.com/track/6ew1MCEKObxl8HbkdszmzP"
+      "duration_ms": 177906,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+        "name": "The Young Love of Tab Hunter",
+        "url": "https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Tab Hunter",
+          "url": "https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe"
         }
       ],
-      "duration_ms": 181906,
-      "name": "Learnin' The Blues",
-      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+      "duration_ms": 146502,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1155,22 +1139,6 @@
       "duration_ms": 186506,
       "name": "Tammy",
       "url": "https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Young Love of Tab Hunter",
-        "url": "https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j"
-      },
-      "artists": [
-        {
-          "name": "Tab Hunter",
-          "url": "https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe"
-        }
-      ],
-      "duration_ms": 146502,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1203,6 +1171,22 @@
       "duration_ms": 153666,
       "name": "Poor Little Fool",
       "url": "https://open.spotify.com/track/1ugZWl7RmEq95dea9hqorZ"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Learnin' The Blues",
+      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1335,6 +1319,22 @@
       "duration_ms": 175560,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/30KTFJKXV7atWiDc6YOz30"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Magic Of Ruby Murray",
+        "url": "https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue"
+      },
+      "artists": [
+        {
+          "name": "Ruby Murray",
+          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Softly Softly",
+      "url": "https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG"
     }
   ],
   "unique_name": "Easy 50s",

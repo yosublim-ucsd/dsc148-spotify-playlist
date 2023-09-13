@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 338534,
+  "num_followers": 338820,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWY2M2MzOWRhMjUzNzU3YmJiYTAzZTRkMjdiMzQ2ODcyNjhhYzE5",
+  "snapshot_id": "MCwwNDMzNWFjZjM3YTViYzEzNzY1ZmE3Zjg5MGQyNDgxNzc4YWQ1NGVl",
   "tracks": [
     {
       "added_at": "2023-08-29 11:36:57",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-08-29 11:36:57",
       "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
-    },
-    {
-      "added_at": "2023-08-29 11:36:57",
-      "album": {
         "name": "Splendor in the Grass",
         "url": "https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 252653,
       "name": "O\u00f9 est ma t\u00eate?",
       "url": "https://open.spotify.com/track/30N6mzmZPQ0fUGW59krTc0"
+    },
+    {
+      "added_at": "2023-08-29 11:36:57",
+      "album": {
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
     },
     {
       "added_at": "2023-08-29 11:36:57",
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
         }
       ],
-      "duration_ms": 170186,
-      "name": "Samba Saravah",
-      "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
+      "duration_ms": 186253,
+      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
+      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
     },
     {
       "added_at": "2023-08-29 11:36:57",
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
         }
       ],
-      "duration_ms": 186253,
-      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
-      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
+      "duration_ms": 170186,
+      "name": "Samba Saravah",
+      "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
     },
     {
       "added_at": "2023-08-29 11:36:57",

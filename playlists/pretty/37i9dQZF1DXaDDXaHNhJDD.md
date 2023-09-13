@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: King of Kotha
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,761 likes - 76 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,956 likes - 76 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 75 | [Parayuvaan \- From "Ishq"](https://open.spotify.com/track/4hTcGYU6uXZVCAfIMsxhlC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Joe Paul](https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t) | [Parayuvaan \(From "Ishq"\)](https://open.spotify.com/album/0ZF2WvYiOVQwz2qnUUioTn) | 4:37 |
 | 76 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/0rzKjfUCW6jl9u4jOJHWns) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/7vUWdGwewQzd5S1HpgkBSC) | 3:38 |
 
-Snapshot ID: `MCxmZTM2YzgxMDhjNTk1ZGExMzA5N2I5OTU0Y2JhZTM2OTNhZDU4OGVh`
+Snapshot ID: `MCwwNDZmMTZlYTQwN2RlOGIyMWRlMzA0Njc5YWU3NTRmMDU3YzFkYjQy`

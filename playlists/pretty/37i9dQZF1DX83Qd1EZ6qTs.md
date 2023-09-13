@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Anuradha Pal
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,511 likes - 47 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,526 likes - 47 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 15 | [Tabla Magic](https://open.spotify.com/track/2qDM7VAHTWUIiwY3ocvaz0) | [Kedar Pandit](https://open.spotify.com/artist/3vZMa9tWbeSYpQYhGRKHws) | [Magnificent Indian Drums](https://open.spotify.com/album/1cka9ySaQBsB7HDtKkUvtU) | 5:58 |
 | 16 | [Tabla](https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj) | [Ustad Alla Rakha \- The Multifaceted Genius](https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk) | 10:40 |
 | 17 | [Palmistry](https://open.spotify.com/track/2xGQZzzc66Lx5budDmYqB6) | [Tabla Beat Science](https://open.spotify.com/artist/4jd6GufdXsJXzwXXb0zX2T) | [Tala Matrix](https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu) | 4:39 |
-| 18 | [Tabla Solo Part 02](https://open.spotify.com/track/0R4VRpS9fwAyKP7jKVfvMk) | [Umesh Parmar](https://open.spotify.com/artist/62NeeJFOOstCoM3ssdK6WM) | [Tabla Solo Part 02](https://open.spotify.com/album/5D2wJ32N8tomjXleZ3nPf1) | 2:05 |
-| 19 | [Earth Kingdom](https://open.spotify.com/track/3t5fjhDsIRJ6x15Tzg9mDc) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Tabla Yoga Healing](https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB) | 3:25 |
+| 18 | [Earth Kingdom](https://open.spotify.com/track/3t5fjhDsIRJ6x15Tzg9mDc) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Tabla Yoga Healing](https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB) | 3:25 |
+| 19 | [Tabla Solo Part 02](https://open.spotify.com/track/0R4VRpS9fwAyKP7jKVfvMk) | [Umesh Parmar](https://open.spotify.com/artist/62NeeJFOOstCoM3ssdK6WM) | [Tabla Solo Part 02](https://open.spotify.com/album/5D2wJ32N8tomjXleZ3nPf1) | 2:05 |
 | 20 | [Tabla Music](https://open.spotify.com/track/4WVSDMP0lEEDf2dy6FTzs6) | [Music Of Tabla](https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4) | [Indian Tabla Meditations](https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE) | 3:56 |
-| 21 | [Indian Ethnic Tabla Sitar Drums](https://open.spotify.com/track/5pqZlpmPHlQudN0WE4Gy2E) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Royalty Free Music For Films & TV \- Vol\. 2](https://open.spotify.com/album/7oKb2WESaZxsAHpH2VPMKq) | 0:51 |
-| 22 | [Tabla and Pakavaj](https://open.spotify.com/track/3vBZGFw8f12TOP930Wh65z) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Wonderwall Music](https://open.spotify.com/album/6ujnCnLIJtjLgKGk68Q66m) | 1:04 |
+| 21 | [Tabla and Pakavaj](https://open.spotify.com/track/3vBZGFw8f12TOP930Wh65z) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Wonderwall Music](https://open.spotify.com/album/6ujnCnLIJtjLgKGk68Q66m) | 1:04 |
+| 22 | [Indian Ethnic Tabla Sitar Drums](https://open.spotify.com/track/5pqZlpmPHlQudN0WE4Gy2E) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Royalty Free Music For Films & TV \- Vol\. 2](https://open.spotify.com/album/7oKb2WESaZxsAHpH2VPMKq) | 0:51 |
 | 23 | [Sargam Crossing](https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1) | [ARAJ](https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD) | [CHAKRA](https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p) | 5:00 |
 | 24 | [Peace and Meditation](https://open.spotify.com/track/2l1wiFcG92EeSuKOBlAoQm) | [Bhavani Shankar](https://open.spotify.com/artist/25fjGNyVfjtes1KDulSKME) | [Pakhawaj](https://open.spotify.com/album/3O6hXsYnDLB8BqbYHiypj4) | 6:15 |
 | 25 | [Tabla Teental Kayda \- Instrumental](https://open.spotify.com/track/7s3BAzAXgYfJ72R6HXhBhi) | [Aryan Gohariya](https://open.spotify.com/artist/6H4EMQVeJtpdTVfcNm6WbR) | [Tabla Teental Kayda \(Instrumental\)](https://open.spotify.com/album/2KK1CB9xmlZCxzIH56llYI) | 5:26 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 28 | [Tabla Solo \- Taal Rupak](https://open.spotify.com/track/5cdhZYN3heCcIaZyyj4nWs) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 5:48 |
 | 29 | [Mumbai](https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF) | [Music Of Tabla](https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4) | [Indian Tabla Meditations](https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE) | 4:32 |
 | 30 | [Drut Teentaal \(Tabla solo\)](https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Taaleem](https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj) | 9:30 |
-| 31 | [Tabla Duo](https://open.spotify.com/track/39YD8JklUkAWbUo1DywryB) | [K\. Shruthi Raj](https://open.spotify.com/artist/6zr6WfjrK1ZVWryFpJ3Yog), [A\. Kiran Kumar](https://open.spotify.com/artist/2Shi7KJal6btqCgTCVC3F1), [Saravanan](https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1) | [Authentic India: Indian Percussion](https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO) | 1:02 |
-| 32 | [Tablas for Positive Vibes](https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt) | [Tabla Pakuri](https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF) | [Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute](https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5) | 5:06 |
+| 31 | [Tablas for Positive Vibes](https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt) | [Tabla Pakuri](https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF) | [Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute](https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5) | 5:06 |
+| 32 | [Tabla Duo](https://open.spotify.com/track/39YD8JklUkAWbUo1DywryB) | [K\. Shruthi Raj](https://open.spotify.com/artist/6zr6WfjrK1ZVWryFpJ3Yog), [A\. Kiran Kumar](https://open.spotify.com/artist/2Shi7KJal6btqCgTCVC3F1), [Saravanan](https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1) | [Authentic India: Indian Percussion](https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO) | 1:02 |
 | 33 | [Tani Avartanam](https://open.spotify.com/track/0bfmfkz53UD4H5h1fv4vKw) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Shared Moments](https://open.spotify.com/album/6XvAfY61M0XBOVAps5ysYP) | 8:46 |
 | 34 | [Summing Up](https://open.spotify.com/track/4KRv0WDi7tK9mOjDH8TeNH) | [ARAJ](https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD), [Shikhar Naad Qureshi](https://open.spotify.com/artist/7brxpJAKhpBfEHmAzawb1J) | [CHAKRA](https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p) | 15:52 |
 | 35 | [Ananta \(Tabla & Sitar\)](https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4), [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:56 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 46 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 |
 | 47 | [Uttam Tabla \- Original Mix](https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD) | [Spiritual Sound Clubb](https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg) | [Pacifying Morning \- Blissful Yoga Magic Rhythms](https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt) | 2:20 |
 
-Snapshot ID: `MCxiNGNmMmRlYjdlMDA2MTc2Yjk1NjM3NzY4N2MzZWRkZjI3M2IwMjdh`
+Snapshot ID: `MCxmM2U5MWYyNjMwMTFhYzM5N2VkNmJlMDIyZDNjODg5MTgzOGM2MGU2`

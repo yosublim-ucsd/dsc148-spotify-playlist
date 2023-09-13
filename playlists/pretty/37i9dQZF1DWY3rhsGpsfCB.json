@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 14373,
+  "num_followers": 14425,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjFkYmQzMDFkZjFhNzY1ODRhYWVmYjU1OTkwNTY5MzUzMjVlMTUz",
+  "snapshot_id": "MCxiYTYwZmFiMDYwYmI2MTk4MWM0MTg4ZGEwOTE2NTg2YzI3NDgxOWZi",
   "tracks": [
     {
       "added_at": "2023-09-09 09:41:26",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-09-09 09:41:26",
       "album": {
-        "name": "Jonzing Boy",
-        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Jonzing Boy",
-      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
-    },
-    {
-      "added_at": "2023-09-09 09:41:26",
-      "album": {
         "name": "Ogaranya",
         "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 168610,
       "name": "Ogaranya",
       "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+    },
+    {
+      "added_at": "2023-09-09 09:41:26",
+      "album": {
+        "name": "Jonzing Boy",
+        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Jonzing Boy",
+      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
     },
     {
       "added_at": "2023-09-09 09:41:26",
@@ -895,26 +895,26 @@
     {
       "added_at": "2023-09-09 09:41:26",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/5v7R0bfnMmiFhqkGFGpIFm"
+        "name": "I Wish (feat. Libianca)",
+        "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
       },
       "artists": [
         {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         },
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         },
         {
-          "name": "Cheekychizzy",
-          "url": "https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0"
+      "duration_ms": 163813,
+      "name": "I Wish (feat. Libianca)",
+      "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
     },
     {
       "added_at": "2023-09-09 09:41:26",
@@ -939,26 +939,26 @@
     {
       "added_at": "2023-09-09 09:41:26",
       "album": {
-        "name": "I Wish (feat. Libianca)",
-        "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/5v7R0bfnMmiFhqkGFGpIFm"
       },
       "artists": [
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
         },
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         },
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "Cheekychizzy",
+          "url": "https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1"
         }
       ],
-      "duration_ms": 163813,
-      "name": "I Wish (feat. Libianca)",
-      "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
+      "duration_ms": 148800,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0"
     },
     {
       "added_at": "2023-09-09 09:41:26",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-09-09 09:41:26",
       "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 180682,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
+    },
+    {
+      "added_at": "2023-09-09 09:41:26",
+      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4"
       },
@@ -1007,22 +1027,18 @@
     {
       "added_at": "2023-09-09 09:41:26",
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
+        "name": "Melo",
+        "url": "https://open.spotify.com/album/3FbED3SjtuHsbtXQ70XCOu"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Konstance",
+          "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
         }
       ],
-      "duration_ms": 180682,
-      "name": "Girl Next Door",
-      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
+      "duration_ms": 142804,
+      "name": "Melo",
+      "url": "https://open.spotify.com/track/6DYmGpZ1a45MlLqf6w5UiL"
     },
     {
       "added_at": "2023-09-09 09:41:26",
@@ -1055,22 +1071,6 @@
       "duration_ms": 262711,
       "name": "GLU",
       "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
-    },
-    {
-      "added_at": "2023-09-09 09:41:26",
-      "album": {
-        "name": "Melo",
-        "url": "https://open.spotify.com/album/3FbED3SjtuHsbtXQ70XCOu"
-      },
-      "artists": [
-        {
-          "name": "Konstance",
-          "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
-        }
-      ],
-      "duration_ms": 142804,
-      "name": "Melo",
-      "url": "https://open.spotify.com/track/6DYmGpZ1a45MlLqf6w5UiL"
     },
     {
       "added_at": "2023-09-09 09:41:26",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-09-09 09:41:26",
       "album": {
+        "name": "If Orange Was A Place",
+        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 224171,
+      "name": "Avoid Things",
+      "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
+    },
+    {
+      "added_at": "2023-09-09 09:41:26",
+      "album": {
         "name": "AFRODHIT",
         "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 189635,
       "name": "Bomz\u00e3o",
       "url": "https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G"
-    },
-    {
-      "added_at": "2023-09-09 09:41:26",
-      "album": {
-        "name": "If Orange Was A Place",
-        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 224171,
-      "name": "Avoid Things",
-      "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
     },
     {
       "added_at": "2023-09-09 09:41:26",
@@ -1327,22 +1327,30 @@
     {
       "added_at": "2023-09-09 09:41:26",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+        "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
+        "url": "https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         },
         {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "KDDO",
+          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
         }
       ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+      "duration_ms": 207727,
+      "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
+      "url": "https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce"
     },
     {
       "added_at": "2023-09-09 09:41:26",
@@ -1391,30 +1399,22 @@
     {
       "added_at": "2023-09-09 09:41:26",
       "album": {
-        "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
-        "url": "https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7"
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
       "artists": [
         {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "KDDO",
-          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
-      "duration_ms": 207727,
-      "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
-      "url": "https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce"
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2023-09-09 09:41:26",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-09 09:41:26",
       "album": {
-        "name": "Co-Star",
-        "url": "https://open.spotify.com/album/0FLajXxca41VLTunahQo9s"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Co-Star",
-      "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
-    },
-    {
-      "added_at": "2023-09-09 09:41:26",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 164196,
       "name": "Give A Little Kindness",
       "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+    },
+    {
+      "added_at": "2023-09-09 09:41:26",
+      "album": {
+        "name": "Co-Star",
+        "url": "https://open.spotify.com/album/0FLajXxca41VLTunahQo9s"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Co-Star",
+      "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
     }
   ],
   "unique_name": "Cocoa Butter ",

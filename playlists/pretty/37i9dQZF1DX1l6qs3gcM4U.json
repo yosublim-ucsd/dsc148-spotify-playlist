@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.  ",
-  "num_followers": 183623,
+  "num_followers": 183740,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWM0MjNlZGYxYzY1NThhMzJmODU0Mjk5NjAzMTU1ZDc5MjVkZmFi",
+  "snapshot_id": "MCwxYjkxYjEyNTcyYThkZTBhMTNlYThmYWI5NTkxOWI5MzU4ZTVmOTgx",
   "tracks": [
     {
       "added_at": "2023-09-07 23:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
-        "name": "A.N.V.",
-        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
-      },
-      "artists": [
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "A Nossa Vez",
-      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
         "name": "Bu Ka Speraba",
         "url": "https://open.spotify.com/album/4upXh4NnYwvnsVby7e1WwY"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 195266,
       "name": "Bu Ka Speraba",
       "url": "https://open.spotify.com/track/7eVclayVLOT5NOyDYLZNhJ"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "A.N.V.",
+        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "A Nossa Vez",
+      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -199,6 +199,38 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
+        "name": "AV\u00c9",
+        "url": "https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 172195,
+      "name": "AV\u00c9",
+      "url": "https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "Viaja",
+        "url": "https://open.spotify.com/album/5PasfkH4nK8fillN3pAZRR"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 225507,
+      "name": "Viaja",
+      "url": "https://open.spotify.com/track/2DDBsczCQqIQ09t7Uf2uG2"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
         "name": "Kua Buaru",
         "url": "https://open.spotify.com/album/0H4JbF7EeFgoYvLixZpUpS"
       },
@@ -223,38 +255,6 @@
       "duration_ms": 181346,
       "name": "Kua Buaru",
       "url": "https://open.spotify.com/track/4CleTVckv87HCeEpj05X52"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "Viaja",
-        "url": "https://open.spotify.com/album/5PasfkH4nK8fillN3pAZRR"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 225507,
-      "name": "Viaja",
-      "url": "https://open.spotify.com/track/2DDBsczCQqIQ09t7Uf2uG2"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "AV\u00c9",
-        "url": "https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 172195,
-      "name": "AV\u00c9",
-      "url": "https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
+        "name": "Teu Corpo",
+        "url": "https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 170548,
+      "name": "Teu Corpo",
+      "url": "https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
         "name": "Sabi",
         "url": "https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 200983,
       "name": "Sabi",
       "url": "https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "Teu Corpo",
-        "url": "https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 170548,
-      "name": "Teu Corpo",
-      "url": "https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 192641,
+      "name": "Mad Love",
+      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
         "name": "Versos & Poesias #5: Sintonia",
         "url": "https://open.spotify.com/album/1dhDUzKjP6iGrDhToWpKgw"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 476029,
       "name": "Versos & Poesias #5: Sintonia",
       "url": "https://open.spotify.com/track/27Zd9qIZIQg7lmJDVL2J4L"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
-      },
-      "artists": [
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        }
-      ],
-      "duration_ms": 192641,
-      "name": "Mad Love",
-      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/4gEHh8Cz2BHMUrYF6HUI9h"
-      },
-      "artists": [
-        {
-          "name": "Myriiam",
-          "url": "https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7"
-        }
-      ],
-      "duration_ms": 206879,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
         "name": "Safadeza",
         "url": "https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 188813,
       "name": "O Que Eu N\u00e3o Fiz",
       "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4gEHh8Cz2BHMUrYF6HUI9h"
+      },
+      "artists": [
+        {
+          "name": "Myriiam",
+          "url": "https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7"
+        }
+      ],
+      "duration_ms": 206879,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
-        "name": "Au revoir",
-        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 234226,
-      "name": "Au revoir",
-      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
         "name": "Se Eu Pudesse",
         "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
       },
@@ -1455,6 +1439,38 @@
       "duration_ms": 196567,
       "name": "Se Eu Pudesse",
       "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "Me Leva Contigo",
+        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 258324,
+      "name": "Me Leva Contigo",
+      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1491,22 +1507,6 @@
       "duration_ms": 204149,
       "name": "Arrepios",
       "url": "https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "Me Leva Contigo",
-        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 258324,
-      "name": "Me Leva Contigo",
-      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 217301,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
         "name": "Deusa do Amor",
         "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 279024,
       "name": "Deusa do Amor",
       "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
-      },
-      "artists": [
-        {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 217301,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
-        "name": "Reagi",
-        "url": "https://open.spotify.com/album/5H2uPj4d6xWVUDZvrqFPtr"
-      },
-      "artists": [
-        {
-          "name": "Elsy",
-          "url": "https://open.spotify.com/artist/0MQ5pkCrgpk3D9efPa4vSu"
-        }
-      ],
-      "duration_ms": 218852,
-      "name": "Reagi",
-      "url": "https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
         "name": "Esperado",
         "url": "https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 210424,
       "name": "Corno",
       "url": "https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "Reagi",
+        "url": "https://open.spotify.com/album/5H2uPj4d6xWVUDZvrqFPtr"
+      },
+      "artists": [
+        {
+          "name": "Elsy",
+          "url": "https://open.spotify.com/artist/0MQ5pkCrgpk3D9efPa4vSu"
+        }
+      ],
+      "duration_ms": 218852,
+      "name": "Reagi",
+      "url": "https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1867,22 +1867,22 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
-        "name": "Chouchou",
-        "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
+        "name": "Chama a Pol\u00edcia",
+        "url": "https://open.spotify.com/album/0gbGNvo50htawNPbtkBzJ7"
       },
       "artists": [
         {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
+          "name": "Jenny Cabral",
+          "url": "https://open.spotify.com/artist/66xcfAp997B9qNAwwEtQvK"
         },
         {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+          "name": "Dotorado Pro",
+          "url": "https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd"
         }
       ],
-      "duration_ms": 183092,
-      "name": "Chouchou",
-      "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
+      "duration_ms": 182417,
+      "name": "Chama a Pol\u00edcia",
+      "url": "https://open.spotify.com/track/5nXyhuzNJ5jHdpPDq5ywaS"
     }
   ],
   "unique_name": "Dancing Kizomba",

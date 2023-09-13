@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 2006,
+  "num_followers": 2018,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2ZhM2MwZWEwOTAxNTRlZWM2YWQ1ZWI5ZDc4ZmI5ZTg4MDAyOGI4",
+  "snapshot_id": "MCw0M2Y0NjI0MDI0ZjVkNzU4YjgxMjQwYzAyYzg3MmJiNzBkZmY0OTU5",
   "tracks": [
     {
       "added_at": "2023-09-01 09:58:04",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-09-01 09:58:04",
       "album": {
-        "name": "Ujaulamba",
-        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
+        "name": "Hainaga Ushemeji",
+        "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
       },
       "artists": [
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Man Fongo",
+          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
         }
       ],
-      "duration_ms": 333975,
-      "name": "Ujaulamba",
-      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
+      "duration_ms": 296507,
+      "name": "Hainaga Ushemeji",
+      "url": "https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv"
     },
     {
       "added_at": "2023-09-01 09:58:04",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-09-01 09:58:04",
       "album": {
-        "name": "Hainaga Ushemeji",
-        "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
+        "name": "Ujaulamba",
+        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
       },
       "artists": [
         {
-          "name": "Man Fongo",
-          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 296507,
-      "name": "Hainaga Ushemeji",
-      "url": "https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv"
+      "duration_ms": 333975,
+      "name": "Ujaulamba",
+      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
     },
     {
       "added_at": "2023-09-01 09:58:04",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-09-01 09:58:04",
       "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
-    },
-    {
-      "added_at": "2023-09-01 09:58:04",
-      "album": {
         "name": "High School",
         "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 308654,
       "name": "Kamaliza (feat. Sholo Mwamba)",
       "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
+    },
+    {
+      "added_at": "2023-09-01 09:58:04",
+      "album": {
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
       "added_at": "2023-09-01 09:58:04",
@@ -567,6 +567,26 @@
     {
       "added_at": "2023-09-01 09:58:04",
       "album": {
+        "name": "Singeli Jungles",
+        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
+      },
+      "artists": [
+        {
+          "name": "MC Palakata",
+          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
+        },
+        {
+          "name": "Tom Blip",
+          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
+        }
+      ],
+      "duration_ms": 280393,
+      "name": "Singeli Jungles",
+      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
+    },
+    {
+      "added_at": "2023-09-01 09:58:04",
+      "album": {
         "name": "Cheusi Cheupe (feat. Meja Kunta)",
         "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 283884,
       "name": "Umekopwa",
       "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
-    },
-    {
-      "added_at": "2023-09-01 09:58:04",
-      "album": {
-        "name": "Singeli Jungles",
-        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
-      },
-      "artists": [
-        {
-          "name": "MC Palakata",
-          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
-        },
-        {
-          "name": "Tom Blip",
-          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
-        }
-      ],
-      "duration_ms": 280393,
-      "name": "Singeli Jungles",
-      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
     },
     {
       "added_at": "2023-09-01 09:58:04",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-01 09:58:04",
       "album": {
-        "name": "Poaa",
-        "url": "https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm"
-      },
-      "artists": [
-        {
-          "name": "Bamba Pana, Makaveli",
-          "url": "https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST"
-        }
-      ],
-      "duration_ms": 278233,
-      "name": "Linga Linga - feat. Makaveli",
-      "url": "https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre"
-    },
-    {
-      "added_at": "2023-09-01 09:58:04",
-      "album": {
         "name": "Jiangalie",
         "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 229944,
       "name": "Jiangalie",
       "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
+    },
+    {
+      "added_at": "2023-09-01 09:58:04",
+      "album": {
+        "name": "Poaa",
+        "url": "https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm"
+      },
+      "artists": [
+        {
+          "name": "Bamba Pana, Makaveli",
+          "url": "https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST"
+        }
+      ],
+      "duration_ms": 278233,
+      "name": "Linga Linga - feat. Makaveli",
+      "url": "https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre"
     },
     {
       "added_at": "2023-09-01 09:58:04",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-01 09:58:04",
       "album": {
-        "name": "Honey Wangu",
-        "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        }
-      ],
-      "duration_ms": 239972,
-      "name": "Honey Wangu",
-      "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
-    },
-    {
-      "added_at": "2023-09-01 09:58:04",
-      "album": {
         "name": "Chura Wangu",
         "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 187895,
       "name": "Chura Wangu",
       "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
+    },
+    {
+      "added_at": "2023-09-01 09:58:04",
+      "album": {
+        "name": "Honey Wangu",
+        "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        }
+      ],
+      "duration_ms": 239972,
+      "name": "Honey Wangu",
+      "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
     },
     {
       "added_at": "2023-09-01 09:58:04",

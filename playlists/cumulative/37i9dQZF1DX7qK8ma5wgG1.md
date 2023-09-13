@@ -4,7 +4,7 @@
 
 > Songs for a broken heart
 
-204 songs - 11 hr 28 min
+206 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Blame](https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Blame](https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p) | 4:11 | 2021-12-16 | 2022-04-27 |
 | [Body](https://open.spotify.com/track/6wQgV6ZYt1snXyQV69mGT4) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [Body](https://open.spotify.com/album/6L1GAb6OTb13MT7o1howRc) | 3:25 | 2021-12-16 | 2022-04-05 |
 | [Boring, Happy, Beautiful](https://open.spotify.com/track/0W4prfO7VR3dDo1PfINTXE) | [Sianon](https://open.spotify.com/artist/4ZGKNVN3vAyIWr5lsQFVxZ) | [Boring, Happy, Beautiful](https://open.spotify.com/album/7rtmZJ1Z25eYUwdpZftWr9) | 2:48 | 2021-12-16 | 2022-08-03 |
-| [Boyfriend Of The Year \(Sadder\)](https://open.spotify.com/track/07vp6uxlDyqDPhjLWhFbSI) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Boyfriend Of The Year \(Sadder\)](https://open.spotify.com/album/74TSVzcVGWahrH8YahztM2) | 3:21 | 2022-12-20 |  |
+| [Boyfriend Of The Year \(Sadder\)](https://open.spotify.com/track/07vp6uxlDyqDPhjLWhFbSI) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Boyfriend Of The Year \(Sadder\)](https://open.spotify.com/album/74TSVzcVGWahrH8YahztM2) | 3:21 | 2022-12-20 | 2023-09-13 |
 | [Called You Out](https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Called You Out](https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL) | 2:35 | 2022-03-29 | 2022-09-21 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-09-06 |  |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-09-06 |  |
@@ -132,9 +132,10 @@
 | [Life Goes On](https://open.spotify.com/track/74eJR4gwG1ZmG4BFkbrOlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:30 | 2023-05-05 |  |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2021-12-16 |  |
 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 | 2023-05-05 |  |
+| [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 | 2023-09-12 |  |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-25 |  |
 | [London's Requiem](https://open.spotify.com/track/0TxJGoYx7racCE2idGNN0O) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [London's Requiem](https://open.spotify.com/album/0GCrz2OgzPwLDGLv26GiAi) | 5:02 | 2021-12-16 | 2022-06-28 |
-| [Lonely](https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:24 | 2022-10-14 |  |
+| [Lonely](https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:24 | 2022-10-14 | 2023-09-13 |
 | [Lose It All](https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Lose It All](https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF) | 3:25 | 2022-10-28 |  |
 | [Lose You](https://open.spotify.com/track/59CN7mcm07irUS6YSEUobE) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Lose You](https://open.spotify.com/album/4obqEeispd4zybuIeLzUYN) | 4:06 | 2022-04-04 | 2022-09-07 |
 | [Loud](https://open.spotify.com/track/1btdem1ldi7j2vyUqNVa2h) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Loud](https://open.spotify.com/album/6FUxwxYuHJhxCLof3VTmU8) | 4:17 | 2021-12-16 | 2022-10-15 |
@@ -173,6 +174,7 @@
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2022-09-06 |  |
 | [Talk](https://open.spotify.com/track/1r5MwvQZLff9Y2o1QCMY9N) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Warm](https://open.spotify.com/album/5eed330fRyfporIAak7ZmH) | 2:52 | 2022-09-20 | 2023-05-06 |
 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2021-12-16 |  |
+| [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-12 |  |
 | [The Hardest Part \- Acoustic](https://open.spotify.com/track/0rYhl022XHl0RPay00dGdh) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part \(Acoustic\)](https://open.spotify.com/album/34e0sR4qdjjB7l1nrVAL9x) | 2:55 | 2022-09-06 |  |
 | [The Pretender](https://open.spotify.com/track/1z7PADWKXVsbEitOVLlC69) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:40 | 2023-06-06 |  |
 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-29 | 2022-09-07 |

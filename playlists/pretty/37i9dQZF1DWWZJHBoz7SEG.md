@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Empieza las fiestas patrias con lo más hot de la semana\. Baila hasta el amanecer con Juanga o échate un pambacito con Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,647 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,732 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Cotorreo](https://open.spotify.com/track/4XC6IjvQv0eWsDim9aEn29) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Cotorreo](https://open.spotify.com/album/7KkipMlsEllJH9xtOqhWcD) | 2:26 |
 | 50 | [Cállate La Boca](https://open.spotify.com/track/4ck93bVIVf9yMwjs8CjSve) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Cállate La Boca](https://open.spotify.com/album/3s9LUzvbeqfQWeNKZ3TTut) | 3:37 |
 
-Snapshot ID: `MCw0ZDJmMDQ2M2UyZWY2NmNhYzJkYmU0ZWJjMmRhZTE1MzU3MmYyZGM4`
+Snapshot ID: `MCw1MTM1ZDBmYzEwNWMwOGMxOWIzODZkMmQwMGU0NjFiYTkzZTE1NzM5`

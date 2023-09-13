@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. Black Pumas
 
-849 songs - 2 day 3 hr 58 min
+850 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,8 @@
 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 | 2022-02-25 | 2022-04-02 |
 | [King of Sweden](https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [King of Sweden](https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8) | 4:11 | 2022-02-18 | 2022-07-02 |
 | [Kingdom For A Fool](https://open.spotify.com/track/2tKyv5qRq8PTp0sGJ0vu06) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/0HLAkdOg4mPRmdVaIdTK11) | 3:28 | 2022-11-11 | 2023-04-09 |
-| [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-26 |  |
+| [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-26 | 2023-09-13 |
+| [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 | 2023-08-25 |  |
 | [Kissing Lessons](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Kissing Lessons](https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj) | 1:54 | 2022-02-04 | 2022-04-29 |
 | [Knockin \- Single Version](https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Knockin](https://open.spotify.com/album/7y7m9BoSQmeUYcXeHN4JtN) | 3:23 | 2023-08-14 |  |
 | [Know Better](https://open.spotify.com/track/3qQGm2LA50Pr3ejJuIo56A) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Know Better](https://open.spotify.com/album/091rITH4fXltYccZlmbrzw) | 3:11 | 2023-05-12 | 2023-06-24 |

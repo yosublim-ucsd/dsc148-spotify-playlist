@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1172470,
+  "num_followers": 1173767,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjNmMTk3MGUyNDY4MjBlZDI2NzNhMDFmYThhYjdmNmNiMDliMTUx",
+  "snapshot_id": "MCxjMzQ1YjlhOGI5ZTc5NTQwYTJmOTdlM2EyM2JlODZmNjQ0ODI2Yzgw",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "Y'all Want a Single",
-      "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "War Is the Answer",
         "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 262440,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "Y'all Want a Single",
+      "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "10,000 Days",
-        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 426680,
-      "name": "Vicarious",
-      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Iowa",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 254000,
       "name": "The Heretic Anthem",
       "url": "https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 426680,
+      "name": "Vicarious",
+      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Guitar Gangsters & Cadillac Blood",
-        "url": "https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "Guitar Gangsters & Cadillac Blood",
-      "url": "https://open.spotify.com/track/5CLQ70QLoefhq3VMfoDl4w"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "L.D. 50",
         "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 162293,
       "name": "Dig",
       "url": "https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Guitar Gangsters & Cadillac Blood",
+        "url": "https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "Guitar Gangsters & Cadillac Blood",
+      "url": "https://open.spotify.com/track/5CLQ70QLoefhq3VMfoDl4w"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/2KhDo0Er6dNxcK8zL6252l"
+      },
+      "artists": [
+        {
+          "name": "Buckcherry",
+          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Crazy Bitch",
+      "url": "https://open.spotify.com/track/3Lc65aYhtNRO19Fnq2oMb8"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Inhuman Rampage",
         "url": "https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 298106,
       "name": "The End of Heartache",
       "url": "https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/2KhDo0Er6dNxcK8zL6252l"
-      },
-      "artists": [
-        {
-          "name": "Buckcherry",
-          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "Crazy Bitch",
-      "url": "https://open.spotify.com/track/3Lc65aYhtNRO19Fnq2oMb8"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Figure Number Five",
-        "url": "https://open.spotify.com/album/6n86brHTe54lipUckY9InO"
-      },
-      "artists": [
-        {
-          "name": "Soilwork",
-          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Distortion Sleep",
-      "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Octavarium",
         "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 493026,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Figure Number Five",
+        "url": "https://open.spotify.com/album/6n86brHTe54lipUckY9InO"
+      },
+      "artists": [
+        {
+          "name": "Soilwork",
+          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Distortion Sleep",
+      "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Liebe ist f\u00fcr alle da",
-        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
+        "name": "Through The Eyes",
+        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Flaw",
+          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
         }
       ],
-      "duration_ms": 301853,
-      "name": "Ich tu dir weh",
-      "url": "https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55"
+      "duration_ms": 176600,
+      "name": "Get Up Again",
+      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
     }
   ],
   "unique_name": "00s Metal Classics",

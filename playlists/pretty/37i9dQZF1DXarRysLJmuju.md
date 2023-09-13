@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today's pop, featuring Laufey, Olivia Rodrigo and 347aidan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,226 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,270 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Tuesday](https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Till Next Time](https://open.spotify.com/album/4II5QvivVfEYgeuZf0kYfT) | 2:08 |
 | 100 | [For Keeps](https://open.spotify.com/track/2ztJaMY9CjoX53xO1MtQTl) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [For Keeps](https://open.spotify.com/album/4XkhEJsk2I5nYnC65qZxTZ) | 2:23 |
 
-Snapshot ID: `MCw4ZWRmNzQ5NTA3MWM3NjEzMTY5NjJiYmI3ZDdjZmQzOTNhYmIzZWE3`
+Snapshot ID: `MCw1YTU0MTFiMmYzOTVkM2MxMGFjYmQyYWU5YWRkNzAwMDc4ZTMyYWQz`

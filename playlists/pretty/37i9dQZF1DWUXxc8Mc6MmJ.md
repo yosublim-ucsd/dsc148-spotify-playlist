@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,947 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,469 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 32 | [Running](https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6S327htVJnBi9GGZjUInui) | 3:29 |
 | 33 | [긴 밤이 오면](https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [While You Were Sleeping, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x) | 3:46 |
 | 34 | [Reset \(feat\. Jinsil\)](https://open.spotify.com/track/1uJLYKtzCOhZI1zZW99W8I) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Jinsil](https://open.spotify.com/artist/1PqqSllWCaCwjt3nr9ngaq) | [Who Are You : School 2015\(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1Lm4AiocdoWQW0K94b1JGq) | 4:02 |
-| 35 | [Breath](https://open.spotify.com/track/12cDuwg8jJ4N7RokLnFWfQ) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
-| 36 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
+| 35 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
+| 36 | [Breath](https://open.spotify.com/track/12cDuwg8jJ4N7RokLnFWfQ) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
 | 37 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
 | 38 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 |
 | 39 | [I Love You Boy](https://open.spotify.com/track/155N0vbPqPFs9DzBNR41T7) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [While You Were Sleeping, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TDJPOVQSFFMyeQNzToolM) | 4:24 |
 | 40 | [But it's Destiny](https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 |
 | 41 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
-| 42 | [Love Sight](https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I) | 4:12 |
-| 43 | [My Destiny](https://open.spotify.com/track/0hKA3q6BWtKg5mdet7E1fX) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6wDjjeUNPHYZAVmkYLcrG6) | 3:51 |
+| 42 | [My Destiny](https://open.spotify.com/track/0hKA3q6BWtKg5mdet7E1fX) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6wDjjeUNPHYZAVmkYLcrG6) | 3:51 |
+| 43 | [Love Sight](https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I) | 4:12 |
 | 44 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
 | 45 | [그때 그 아인](https://open.spotify.com/track/7mCdQsRW5gLLxVGDPPGt5j) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3KK05sDCPzEVOMGPr5MHKf) | 4:47 |
 | 46 | [All of My Days](https://open.spotify.com/track/2RBuzNyLuV1jXU8qi84Hiy) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/18CHwtIEjpfLZjWImSrjhu) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
 | 50 | [Summer Rain](https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC) | 3:21 |
 
-Snapshot ID: `MCwyODI3ZmEyYjI0Yjg2NGM5OTczMTMxMzk1MDdlMTUzNDZjMjliYzBk`
+Snapshot ID: `MCw3NjFkODM5YmJiZGMxMWRiOGJjNDI3ZTNjNzAzNWM5NjQ1YzdkMmFl`

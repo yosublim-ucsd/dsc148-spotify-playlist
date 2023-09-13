@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 
 > This is Binomio de Oro de América\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,997 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,114 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 39 | [El Diario](https://open.spotify.com/track/53Gc3Ruoh4VXdhl7LxxfVF) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Vallenato sin Fronteras](https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw) | 4:37 |
 | 40 | [Te Eche De Menos](https://open.spotify.com/track/6lz3DX7t2AxSEHqTsOSyE6) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [A Su Gusto](https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS) | 4:28 |
 | 41 | [Celos](https://open.spotify.com/track/0ZrddFVnZp5galGScp8NK5) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [De La Mano Con El Pueblo](https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8) | 5:19 |
-| 42 | [Corazoncito Negro](https://open.spotify.com/track/2uYOWiJbJmDcqCxIAuiWkB) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 5:05 |
-| 43 | [Cuando Vuelvas](https://open.spotify.com/track/4DIUQD8fBn7ondOghonHa8) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:56 |
+| 42 | [Cuando Vuelvas](https://open.spotify.com/track/4DIUQD8fBn7ondOghonHa8) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:56 |
+| 43 | [Corazoncito Negro](https://open.spotify.com/track/2uYOWiJbJmDcqCxIAuiWkB) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 5:05 |
 | 44 | [Me Voy De Ti](https://open.spotify.com/track/3IJfVcDe4tZlLAPpEPuGvs) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [A Su Gusto](https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS) | 4:45 |
 | 45 | [Cumbia Triste \(Marraneo Time T2\) \- Acústico En Vivo](https://open.spotify.com/track/0EenRXa3ielyyC2lDTrrr4) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Cumbia Triste \(Marraneo Time T2\) \[Acústico En Vivo\]](https://open.spotify.com/album/7EmuMEtDUMJDXc1HJnxP2b) | 2:49 |
 | 46 | [Solo Por Ti](https://open.spotify.com/track/5biz82cvckw47XRp26iJwT) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [De La Mano Con El Pueblo](https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 49 | [El Forastero](https://open.spotify.com/track/6uz1ZeeLDnuadYCDXi83aH) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Lo Nuestro](https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN) | 4:55 |
 | 50 | [Sigue Tu Camino](https://open.spotify.com/track/1Ku8R7GC0hwdtzLiMyxLv8) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [La Combinacion Vallenata Vol\. 3](https://open.spotify.com/album/3YvmSceIoFKWBoUPb2VciJ) | 5:16 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDAxMWY1ZWRiNjhhYTE2NDhmMjk1MjczMmQzZmNlNjNjYg==`
+Snapshot ID: `MjgyNDIwMzcsMDAwMDAwMDA0NGE1ZTNkMDIxNzg5N2M4NjgwNDkyYmNkZWI3NWJiNA==`

@@ -4,7 +4,7 @@
 
 > lighters up for these awesome rock ballads.
 
-158 songs - 10 hr 52 min
+159 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 | 2021-06-03 |  |
 | [Every Time You Leave \(Feat\. Delaney Jane\) \- Live Acoustic](https://open.spotify.com/track/11MSSonvzz9Fu8RTdTXnqd) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Every Time You Leave \[Feat\. Delaney Jane\] \(Live Acoustic\)](https://open.spotify.com/album/33rt0rXX6q0XnDFijDfgL9) | 3:07 | 2021-06-03 | 2023-01-21 |
 | [Fade In / Fade Out](https://open.spotify.com/track/2FlbiceZnWgzPoUGCviLHT) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 6:04 | 2021-06-03 | 2023-09-01 |
+| [Fade In / Fade Out](https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 6:04 | 2023-06-30 |  |
 | [Far Away](https://open.spotify.com/track/3OE4VBO845k24R8ZzuMpvj) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Scooter Ward](https://open.spotify.com/artist/2HHqy9faHNOR3lZ2w9uDQM) | [Aurora](https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz) | 4:52 | 2022-07-22 | 2022-12-10 |
 | [Far Away](https://open.spotify.com/track/5QqMJ9JYmNU8zHbjhNRI3p) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Scooter Ward](https://open.spotify.com/artist/2HHqy9faHNOR3lZ2w9uDQM) | [Far Away](https://open.spotify.com/album/6EumKp02NOFIPxdCcmiVTV) | 4:52 | 2021-06-03 | 2022-07-29 |
 | [Fare Thee Well](https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Perdida](https://open.spotify.com/album/27evZfDFySSv4dcje8afMI) | 4:21 | 2022-07-22 |  |
@@ -86,7 +87,7 @@
 | [Love Falls](https://open.spotify.com/track/1K1V7pNxjr6q6FORSJuwlm) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [UNDEN!ABLE](https://open.spotify.com/album/7JEmohpfbrZVszNXBskJUc) | 4:34 | 2023-06-30 |  |
 | [Love Falls](https://open.spotify.com/track/4fFx9gzhfhSNu71e4tveEN) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [UNDEN!ABLE](https://open.spotify.com/album/5H9cH0ZFEwiJQFPCXiXzxd) | 4:34 | 2021-06-03 | 2023-08-31 |
 | [Lucy](https://open.spotify.com/track/4VqkhvOP0FkcVrDxgJXtxM) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:38 | 2021-06-03 |  |
-| [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 | 2021-06-03 |  |
+| [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 | 2021-06-03 | 2023-09-13 |
 | [Maybe It's Time](https://open.spotify.com/track/474cWGKmOKwDTmMUAAF6kj) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Blessed](https://open.spotify.com/album/3rxehUgLLUBibFH3iDioVe) | 4:21 | 2021-06-03 | 2022-12-10 |
 | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/track/1rptK1oec3gjHpzzrxHyln) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Tommy Vext](https://open.spotify.com/artist/3tgBwjfL3ycAT49VVpkfnE) | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/album/4ezpBhE0MTqAeuSPxoY4dY) | 4:14 | 2021-06-03 |  |
 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 | 2021-06-03 |  |

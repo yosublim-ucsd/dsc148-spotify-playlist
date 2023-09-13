@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-73 songs - 3 hr 52 min
+74 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Forget Me \- Piano Acoustic](https://open.spotify.com/track/3Xu1SbsuVDHrnzuNAZEXNB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me \(Piano Acoustic\)](https://open.spotify.com/album/2RhXMRkU9R9LW0bNxcuVX0) | 3:27 | 2022-12-21 | 2023-05-31 |
 | [Forget Me \- Piano Acoustic](https://open.spotify.com/track/3fHvOiVB4KfakM0Iaw3u2D) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me \(Piano Acoustic\)](https://open.spotify.com/album/69REZAzvlxLHqPYGrH7wr4) | 3:27 | 2023-05-23 |  |
 | [Freed from Desire \(Acoustic Version\)](https://open.spotify.com/track/50C5YxTknuct7YpC4WXmAG) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Un homme à la hauteur \(Bande originale du film\)](https://open.spotify.com/album/1Zj9cDigNQ85AEcXv0asXj) | 3:06 | 2022-12-21 |  |
+| [Gold \- Acoustic Version](https://open.spotify.com/track/4kv0HqEYUX4lvTEzO6KGzw) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold \(Acoustic Version\)](https://open.spotify.com/album/1sSiCaSrHOKFRUhrBOjsFi) | 3:19 | 2023-09-12 |  |
 | [Heat Waves \- Acoustic](https://open.spotify.com/track/0QzY6rP7C8IWMnpEyuQmC6) | [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Heat Waves \(Acoustic\)](https://open.spotify.com/album/4UFCNxjO9gA2SvQ6YV2mro) | 3:13 | 2022-12-21 |  |
 | [Heaven \- Acoustic](https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven \(Acoustic\)](https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka) | 3:03 | 2023-03-09 |  |
 | [Hold Me Closer \- Acoustic](https://open.spotify.com/track/5kXZv2JwuZ0qgqNalgwvJt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer \(Acoustic\)](https://open.spotify.com/album/1vN546nWNaesS0pAAL017l) | 3:22 | 2022-12-21 |  |
@@ -59,7 +60,7 @@
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 | 2022-12-21 |  |
 | [miss me \(when you're gone\) \- \[sad version\] \[Acoustic\]](https://open.spotify.com/track/6UWXV4zk4zJCzJQZXHifBX) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) \[remixes\]](https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t) | 3:50 | 2023-06-02 |  |
 | [Mood \- Acoustic](https://open.spotify.com/track/1NKiIuSbv88ecRlB6noXzz) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Mood \(Acoustic\)](https://open.spotify.com/album/4fkiu8nnl0W9wbgspwYL8M) | 2:41 | 2022-12-21 | 2023-03-10 |
-| [My Universe \- Acoustic Version](https://open.spotify.com/track/6nhc3daOpKaZBRj2ZFWfc7) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG) | 3:43 | 2022-12-21 |  |
+| [My Universe \- Acoustic Version](https://open.spotify.com/track/6nhc3daOpKaZBRj2ZFWfc7) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG) | 3:43 | 2022-12-21 | 2023-09-13 |
 | [Never Seen the Rain \- Alternate Version](https://open.spotify.com/track/6MYNfMiLwCmA3bRdfzvfcs) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Never Seen The Rain \(Alternate Version\)](https://open.spotify.com/album/7oVHtPdIA5kcxLLiCu2t7N) | 5:00 | 2022-12-21 | 2023-06-17 |
 | [Onde Anda \- French Version \- Acoustic](https://open.spotify.com/track/3uy0p6o4ZEb5Oyom4zg337) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Onde Anda \(French Version \- Acoustic\)](https://open.spotify.com/album/4JvVLOqRPa2C1lpX7RxAFi) | 3:00 | 2023-06-02 |  |
 | [Peaches \- Acoustic](https://open.spotify.com/track/1ChZ4mrSLP8HImCY6IyImf) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Peaches \(Acoustic\)](https://open.spotify.com/album/3qfz0iDhRYXa0VFccGM8VY) | 3:10 | 2022-12-21 |  |

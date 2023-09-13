@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The best indie rock right now\. Featuring new music by JAWNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,018 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,037 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 53 | [Model](https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Model](https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC) | 3:22 |
 | 54 | [Hello \(feat\. KennyHoopla\)](https://open.spotify.com/track/313EAgpDtxaqYhQMxaNUwk) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Hello \(feat\. KennyHoopla\)](https://open.spotify.com/album/4Flmd6lR7yOZ1PLvRXOTVM) | 3:39 |
 | 55 | [I’d Like You To Leave](https://open.spotify.com/track/2ufyUEytXZQvltIJsxEDwO) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [I’d Like You To Leave](https://open.spotify.com/album/07fLys1nAwfqubZ5q927iW) | 2:46 |
-| 56 | [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 |
+| 56 | [Be That Girl](https://open.spotify.com/track/3ohEnx3hSZfRMA5RRTq7OX) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:56 |
 | 57 | [Pontiac](https://open.spotify.com/track/6v1YAvqoysAmUAxtLvp69r) | [Rec Hall](https://open.spotify.com/artist/7n0i6RECXvCkOElGs6IP97) | [Pontiac](https://open.spotify.com/album/5n8a6L0rODiSETCLRGeo30) | 2:48 |
 | 58 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 |
 | 59 | [Days Move Slow](https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Lookin' Out](https://open.spotify.com/track/21xQGFDvSeCi2deid5YtaJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Lookin' Out](https://open.spotify.com/album/6sAuAVVo9Wi7K9eecv4txq) | 3:47 |
 | 100 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |
 
-Snapshot ID: `MCxkNzZlNjE3Nzg3M2U1N2IxMGU5YzE1OTRlZjIzOWY0NGFkN2RhZGJm`
+Snapshot ID: `MCwyMGRmNGY1ZDY3MWI3OTQ3MjdkMzg3ODRiMTE5ZTgyYjUxYzM3YjJj`

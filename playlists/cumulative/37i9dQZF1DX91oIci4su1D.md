@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-738 songs - 1 day 20 hr 54 min
+739 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [Never Cry Again](https://open.spotify.com/track/4EEBn0pbdBm3eUk5WEyizA) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt) | [Never Cry Again](https://open.spotify.com/album/5atYDx8R2Nd8DAKRbO7TJa) | 3:50 | 2022-10-14 | 2023-01-14 |
 | [Never Fade Away \- Maarten de Jong Remix](https://open.spotify.com/track/6sscfnG0RcwxteRjd6VduT) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Lo\-Fi Sugar](https://open.spotify.com/artist/7dgk105OUyKcy7lfUn5uHy), [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Never Fade Away \(Maarten de Jong Remix\)](https://open.spotify.com/album/79ZPuDNVySkxCXUgDdML8h) | 3:54 | 2022-01-14 | 2023-02-25 |
 | [Never Say Goodbye](https://open.spotify.com/track/3XTzLevBhCJQ0h6aDUwWBA) | [Miss Rodriguez](https://open.spotify.com/artist/4yZGU0gzItG1ItNaTGKhiP) | [Never Say Goodbye](https://open.spotify.com/album/5M7fL4Kmiv0bHuDFiEGtii) | 3:16 | 2023-04-07 |  |
-| [Never Temporary](https://open.spotify.com/track/6QC21eD5NwF4H6o14yF6rc) | [Greg Oakland](https://open.spotify.com/artist/74OcjgGgrViwZT8BfZS0gA), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Never Temporary](https://open.spotify.com/album/6NV6WnE3q9YxhglZoWt6f3) | 4:00 | 2023-04-07 |  |
+| [Never Temporary](https://open.spotify.com/track/6QC21eD5NwF4H6o14yF6rc) | [Greg Oakland](https://open.spotify.com/artist/74OcjgGgrViwZT8BfZS0gA), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Never Temporary](https://open.spotify.com/album/6NV6WnE3q9YxhglZoWt6f3) | 4:00 | 2023-04-07 | 2023-09-13 |
 | [Never Thought I'd Find You](https://open.spotify.com/track/6J4oCRJ3IKS2WYlbU4r2ly) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Jam Da Bass](https://open.spotify.com/artist/3Gk4dBkVDyEMcCkW0GTd8I), [Jaki Nelson](https://open.spotify.com/artist/7oz4dlYyj9jadcbGJq1jwx) | [Never Thought I’d Find You](https://open.spotify.com/album/1JlKTPdTwCeuwtpEXd4oCt) | 5:40 | 2023-04-07 | 2023-07-22 |
 | [New Beginning](https://open.spotify.com/track/3mSvm233eEIHKM51fsvhie) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [New Beginning](https://open.spotify.com/album/0krjoAvDBsUqcDwniaar7X) | 3:31 | 2022-03-25 | 2023-03-07 |
 | [New Horizons](https://open.spotify.com/track/4AujrygiEHw3PSVVXAdNy4) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [New Horizons](https://open.spotify.com/album/5LyP1m1U6twd5YtodHX1nU) | 5:55 | 2023-01-13 | 2023-07-22 |
@@ -541,6 +541,7 @@
 | [Ripples](https://open.spotify.com/track/3SqNXXlcf1d8kWugo3uBFY) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R) | [Ripples](https://open.spotify.com/album/6tqBTvLK7tWaHYP7wQpbLK) | 2:31 | 2023-02-24 |  |
 | [Rising Hope](https://open.spotify.com/track/6ljf0bXhTXdLAfxEr8ffbC) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Rising Hope](https://open.spotify.com/album/75g4Ldc9rWfj0HedXKzuxx) | 2:13 | 2023-04-29 |  |
 | [River](https://open.spotify.com/track/7KyFygbtNWmhr25gg8OhXh) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [River](https://open.spotify.com/album/4CN9wlSiA4WzXuxBQvYskA) | 4:00 | 2021-12-17 | 2022-01-08 |
+| [Riverside](https://open.spotify.com/track/3GQ0DStEyr87WqgpZ0vNw2) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb) | [Riverside](https://open.spotify.com/album/6wts2eujrZVvoR8GiXVJW2) | 3:52 | 2023-09-08 |  |
 | [Road To Nowhere](https://open.spotify.com/track/35BmsYzLgajLCrvMxJqlA4) | [Jaytech](https://open.spotify.com/artist/5mpJ1Z8BYEOG0rrdO4a2nG) | [Galactic EP](https://open.spotify.com/album/2NDUH8BaU7LGifaMCt8NUV) | 4:12 | 2021-12-17 | 2022-04-02 |
 | [Rocket Surgery](https://open.spotify.com/track/1a8k7S9KHEkwSTq5O3dCC9) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Rocket Surgery](https://open.spotify.com/album/0453U2KtXxgGHTr6Qa8hZz) | 3:40 | 2022-10-28 | 2023-06-10 |
 | [Run & Hide](https://open.spotify.com/track/4FiHdM1KtAJVE7CaZxnSK1) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv) | [Run & Hide](https://open.spotify.com/album/5yGEKyr9VIbc3NgwtZaSUL) | 3:18 | 2022-04-22 | 2022-06-11 |

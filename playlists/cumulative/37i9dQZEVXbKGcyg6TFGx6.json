@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "ADC",
+        "url": "https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM"
+      },
+      "artists": [
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220935,
+      "name": "Ancelotti",
+      "url": "https://open.spotify.com/track/3jBIofMaOimfUgK4E3hBGB"
+    },
+    {
+      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -12040,7 +12058,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 178889,
       "name": "Ich mal den Himmel heute rosa an",
       "url": "https://open.spotify.com/track/7i8REP75WxlbjPZ1ITckDm"
@@ -12490,6 +12508,24 @@
       "duration_ms": 199111,
       "name": "Is There Someone Else?",
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
+    },
+    {
+      "album": {
+        "name": "ADC",
+        "url": "https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM"
+      },
+      "artists": [
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293215,
+      "name": "Isshin Ashina",
+      "url": "https://open.spotify.com/track/62crMRev17STkFMzAGsb1I"
     },
     {
       "album": {
@@ -13357,6 +13393,24 @@
     },
     {
       "album": {
+        "name": "ADC",
+        "url": "https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM"
+      },
+      "artists": [
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181175,
+      "name": "Kpop",
+      "url": "https://open.spotify.com/track/6JTFR9jAJ9z8jUiGo2q1PV"
+    },
+    {
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -13872,7 +13926,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
@@ -15042,6 +15096,28 @@
       "duration_ms": 192631,
       "name": "Lua",
       "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
+    },
+    {
+      "album": {
+        "name": "Okami",
+        "url": "https://open.spotify.com/album/5vfwncjU3nWpTlmwJFtiMK"
+      },
+      "artists": [
+        {
+          "name": "FlyBoi Rell",
+          "url": "https://open.spotify.com/artist/1p3RxO24lNSWurYaIJHHDG"
+        },
+        {
+          "name": "Woodah",
+          "url": "https://open.spotify.com/artist/0a3ImArtA8XiImgum7wWdO"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177760,
+      "name": "Luck",
+      "url": "https://open.spotify.com/track/5BE6Aq4OhieQ7G4gXQ0ORR"
     },
     {
       "album": {
@@ -16328,7 +16404,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
@@ -17114,6 +17190,24 @@
       "duration_ms": 193813,
       "name": "Music For a Sushi Restaurant",
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
+    },
+    {
+      "album": {
+        "name": "ADC",
+        "url": "https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM"
+      },
+      "artists": [
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287948,
+      "name": "MW2",
+      "url": "https://open.spotify.com/track/2sMxeHjS9rQh9gB92rcRF9"
     },
     {
       "album": {
@@ -19800,7 +19894,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 139300,
       "name": "Push Up - Main Edit",
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
@@ -21792,6 +21886,24 @@
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
+    },
+    {
+      "album": {
+        "name": "ADC",
+        "url": "https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM"
+      },
+      "artists": [
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219865,
+      "name": "Shavkat",
+      "url": "https://open.spotify.com/track/0IzfVZmlCiwPZmjNkRJehY"
     },
     {
       "album": {
@@ -25448,6 +25560,24 @@
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
+    },
+    {
+      "album": {
+        "name": "ADC",
+        "url": "https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM"
+      },
+      "artists": [
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198253,
+      "name": "Tse Chi Lop",
+      "url": "https://open.spotify.com/track/2atifJyt3RvBk2c1USIZ9d"
     },
     {
       "album": {

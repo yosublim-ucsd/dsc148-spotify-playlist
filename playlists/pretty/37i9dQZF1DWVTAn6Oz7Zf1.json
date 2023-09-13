@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 167476,
+  "num_followers": 167508,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTlkMzdkZjdlMWRiNDgxODNmYTUwYzMxMTFhYmI5OWE4YmZhMTE2",
+  "snapshot_id": "MCw1ZDZkOTAwZWU1MmRiNDVkZjMzMTBkOWI0OGQ5ODM1MDAyMmZkZmU1",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "V I B R A T I O N",
-        "url": "https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r"
-      },
-      "artists": [
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 169831,
-      "name": "V I B R A T I O N",
-      "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Heaven On My Mind (with Sigala)",
         "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "V I B R A T I O N",
+        "url": "https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 169831,
+      "name": "V I B R A T I O N",
+      "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
     },
     {
       "added_at": "2023-07-07 04:01:00",

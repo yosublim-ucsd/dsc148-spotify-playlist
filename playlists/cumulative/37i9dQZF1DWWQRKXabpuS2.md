@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: اصالة
 
-262 songs - 17 hr 52 min
+263 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Balash Ana \(feat\. Carmen Soliman\)](https://open.spotify.com/track/6FBNoAauIeKCOtR4xkFtGx) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd), [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Balash Ana \(feat\. Carmen Soliman\)](https://open.spotify.com/album/6WWGzDlSphKk5lDurfAM6l) | 2:32 | 2021-12-23 | 2022-04-05 |
 | [Bayn Alayadi](https://open.spotify.com/track/1hIdUbUeGqJ5MXbKEU6Uqf) | [Abdulwahab](https://open.spotify.com/artist/29o5B68ocp085sHaHjae8e) | [Bayn Alayadi](https://open.spotify.com/album/6xcQSKxoyNQAkUcImgTNWa) | 3:49 | 2022-01-20 | 2022-06-21 |
 | [Bdet Ateeb](https://open.spotify.com/track/5XtURwv3QcCqXKBmMZi95H) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Bdet Ateeb](https://open.spotify.com/album/6GmP2R2kvNM4ZO1oUnxlGI) | 4:36 | 2023-02-24 | 2023-02-26 |
-| [Bel Salamah](https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Bel Salamah](https://open.spotify.com/album/7us6HjjHLdI7eHRzHEfzSx) | 5:37 | 2023-02-21 |  |
+| [Bel Salamah](https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Bel Salamah](https://open.spotify.com/album/7us6HjjHLdI7eHRzHEfzSx) | 5:37 | 2023-02-21 | 2023-09-13 |
 | [Belmethl](https://open.spotify.com/track/0Ad46USTFLwOe2D4Rwqeue) | [Abdullah Salim](https://open.spotify.com/artist/0AVcYHRYw4hsEyXmaZMedz) | [Belmethl](https://open.spotify.com/album/4PqHIDZW2fnepJ1kUVMfqP) | 3:25 | 2021-12-23 | 2022-03-02 |
 | [Chabihi](https://open.spotify.com/track/1WDXQ8wUtiWd2gX6MUTpUR) | [Hassan Al Ahmed](https://open.spotify.com/artist/4U837cFteUqtzDuE6CjAaQ) | [Chabihi](https://open.spotify.com/album/0WQDBzymEFA4DN63V8f5hc) | 4:11 | 2022-06-02 | 2022-11-08 |
 | [Chokran](https://open.spotify.com/track/77JDzVjytmCZH8xIWmCY3l) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Chokran](https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1) | 3:34 | 2021-12-23 | 2022-06-04 |
@@ -228,6 +228,7 @@
 | [الحيلة](https://open.spotify.com/track/5JGPBZF9E9A1hRwhxPBpga) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الحيلة](https://open.spotify.com/album/4P1CiqYMFvMvMsNxKQWJce) | 2:57 | 2023-05-26 |  |
 | [العجب في الهوى](https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [العجب في الهوى](https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX) | 5:23 | 2023-08-25 |  |
 | [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 | 2023-02-24 |  |
+| [تولعت بك](https://open.spotify.com/track/0GUMuiH1nCUrv6Qn3XoSLt) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثالث](https://open.spotify.com/album/0gjd8nLLwr2sHk7lsfBfvL) | 4:59 | 2023-09-12 |  |
 | [جماله](https://open.spotify.com/track/5Eummjh47ivk2y8y7OEaBX) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [جماله](https://open.spotify.com/album/5YDNtwvDQbQObi32lPZqq1) | 3:52 | 2023-01-10 | 2023-07-12 |
 | [جننت قلبي](https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [جننت قلبي](https://open.spotify.com/album/4pEnflTz0BQxSdcX2mptfP) | 4:47 | 2023-08-25 |  |
 | [حبك ربح](https://open.spotify.com/track/5YK8T173I1KLGE2GC1IvLL) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [Hobbak Rebeh](https://open.spotify.com/album/71w9WsH8G9kygpUVSNDhUr) | 3:15 | 2022-11-03 | 2023-01-25 |

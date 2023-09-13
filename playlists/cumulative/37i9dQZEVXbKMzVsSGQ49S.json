@@ -3403,6 +3403,28 @@
     },
     {
       "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216306,
+      "name": "California and Me",
+      "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
+    },
+    {
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -4486,7 +4508,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -4620,6 +4642,24 @@
       "duration_ms": 291611,
       "name": "D.M.B.",
       "url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5"
+    },
+    {
+      "album": {
+        "name": "D.N.D.",
+        "url": "https://open.spotify.com/album/6ZRAdZwvetRnHkC1SkRtoT"
+      },
+      "artists": [
+        {
+          "name": "Kash XO",
+          "url": "https://open.spotify.com/artist/4U3NDI6mPkfLlxInkcW4D4"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "D.N.D.",
+      "url": "https://open.spotify.com/track/2VwCWeNBekU08ls7YbxJRL"
     },
     {
       "album": {
@@ -4920,7 +4960,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -5745,6 +5785,24 @@
     },
     {
       "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210826,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
+    },
+    {
+      "album": {
         "name": "\u00fej\u00f3\u00f0\u00feekktur einstaklingur \u00ed valdast\u00f6\u00f0u",
         "url": "https://open.spotify.com/album/1gv02EfUkvWstrxyDpUM6P"
       },
@@ -6002,7 +6060,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY"
@@ -7136,7 +7194,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 432613,
       "name": "E\u00f0a?",
       "url": "https://open.spotify.com/track/1shnvybhQIlWY5A2VcPBcE"
@@ -7950,7 +8008,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -8228,6 +8286,24 @@
       "duration_ms": 175250,
       "name": "frikki d\u00f3r 2012",
       "url": "https://open.spotify.com/track/5bzSQWaQq0AKxaMbuwLxwv"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
     },
     {
       "album": {
@@ -9938,6 +10014,24 @@
       "duration_ms": 257428,
       "name": "Hats Off (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200626,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q"
     },
     {
       "album": {
@@ -14153,6 +14247,24 @@
     },
     {
       "album": {
+        "name": "Letters From The Past",
+        "url": "https://open.spotify.com/album/6xPz7wUae6h8tFtL57081i"
+      },
+      "artists": [
+        {
+          "name": "MoonManT",
+          "url": "https://open.spotify.com/artist/5sAF1hp65O67uejXOVQqKA"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186623,
+      "name": "Letters From The Past",
+      "url": "https://open.spotify.com/track/1h5ac7iBaSOFknqPf0W4li"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -15090,6 +15202,24 @@
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
     },
     {
       "album": {
@@ -19280,7 +19410,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -19586,6 +19716,24 @@
       "duration_ms": 160821,
       "name": "Privileged Rappers",
       "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
     },
     {
       "album": {
@@ -21256,6 +21404,24 @@
       "duration_ms": 272112,
       "name": "Search & Rescue",
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204813,
+      "name": "Second Best",
+      "url": "https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3"
     },
     {
       "album": {
@@ -26234,7 +26400,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 194127,
       "name": "Vinn Vi\u00f0 \u00dea\u00f0",
       "url": "https://open.spotify.com/track/0yecDQdx8NxpvcswRJM6uh"
@@ -29026,7 +29192,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
@@ -29206,7 +29372,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 220783,
       "name": "\u00de\u00fasund hj\u00f6rtu",
       "url": "https://open.spotify.com/track/1W6mzbheNeBCNWv2KjcaVe"

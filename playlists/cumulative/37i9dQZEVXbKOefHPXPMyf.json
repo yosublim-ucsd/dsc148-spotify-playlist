@@ -746,7 +746,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 247058,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/6j0u5ErJPUbAzDURe99VWQ"
@@ -3205,6 +3205,32 @@
     },
     {
       "album": {
+        "name": "BESOS (with Kidd Keo & Neelo)",
+        "url": "https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY"
+      },
+      "artists": [
+        {
+          "name": "SwaggGlock",
+          "url": "https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr"
+        },
+        {
+          "name": "Neelo",
+          "url": "https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172852,
+      "name": "BESOS (with Kidd Keo & Neelo)",
+      "url": "https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po"
+    },
+    {
+      "album": {
         "name": "H.E.R.",
         "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
       },
@@ -5099,6 +5125,40 @@
     },
     {
       "album": {
+        "name": "Chup\u00f3n",
+        "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
+      },
+      "artists": [
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201084,
+      "name": "Chup\u00f3n",
+      "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
+    },
+    {
+      "album": {
         "name": "City of Gods",
         "url": "https://open.spotify.com/album/0Nzff60OICCUBrtr980elH"
       },
@@ -6539,6 +6599,28 @@
     },
     {
       "album": {
+        "name": "DE LUNES A LUNES",
+        "url": "https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "DE LUNES A LUNES",
+      "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
+    },
+    {
+      "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
@@ -7704,7 +7786,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 254000,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1vV3OORdDhg2aQyjbxJd2j"
@@ -7836,7 +7918,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
@@ -9506,7 +9588,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 160578,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
@@ -9658,6 +9740,28 @@
       "duration_ms": 167973,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
+    },
+    {
+      "album": {
+        "name": "FERXXO 151",
+        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195653,
+      "name": "FERXXO 151",
+      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
     },
     {
       "album": {
@@ -12011,6 +12115,28 @@
     },
     {
       "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "album": {
         "name": "Sing 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
       },
@@ -12912,6 +13038,24 @@
       "duration_ms": 210413,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+    },
+    {
+      "album": {
+        "name": "Julietota",
+        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212151,
+      "name": "Julietota",
+      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
     },
     {
       "album": {
@@ -15170,6 +15314,28 @@
       "duration_ms": 316280,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7"
+    },
+    {
+      "album": {
+        "name": "LOVELY BASTARDS",
+        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116104,
+      "name": "LOVELY BASTARDS",
+      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
     },
     {
       "album": {
@@ -18496,7 +18662,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 222545,
       "name": "No digas nada",
       "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
@@ -21294,7 +21460,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -25741,6 +25907,24 @@
     },
     {
       "album": {
+        "name": "Tacata",
+        "url": "https://open.spotify.com/album/1iuFJ9W479sVjcEqdjqMS8"
+      },
+      "artists": [
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114626,
+      "name": "Tacata",
+      "url": "https://open.spotify.com/track/3HVePjHJWt5uI9HtHgV4aM"
+    },
+    {
+      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -27524,7 +27708,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 158325,
       "name": "TRANKY FUNKY",
       "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
@@ -27924,7 +28108,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 269714,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/4tQofG51E0juZBBVr6pral"
@@ -30490,7 +30674,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 232253,
       "name": "Yo Te Esperar\u00e9",
       "url": "https://open.spotify.com/track/0mGvaKpwLYoybnIoboC3uS"
@@ -30932,7 +31116,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 196466,
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"

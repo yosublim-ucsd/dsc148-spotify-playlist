@@ -4,7 +4,7 @@
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-148 songs - 9 hr 53 min
+149 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Caray](https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR) | [Agrupación Cariño](https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:43 | 2021-12-29 |  |
 | [Caray](https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 3:32 | 2021-12-29 |  |
 | [Con Tu Amor](https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 4:44 | 2021-12-29 |  |
-| [Costumbres](https://open.spotify.com/track/0isfyPlYuItuJ0C43tIBM4) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Costumbres](https://open.spotify.com/album/6J2K7NA4m8O3NuaFYpeFWz) | 4:44 | 2021-12-29 |  |
+| [Costumbres](https://open.spotify.com/track/25cvmtRrMtNwUwxFc05ps8) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [CU4TRO](https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1) | 4:41 | 2023-05-05 |  |
+| [Costumbres](https://open.spotify.com/track/0isfyPlYuItuJ0C43tIBM4) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Costumbres](https://open.spotify.com/album/6J2K7NA4m8O3NuaFYpeFWz) | 4:44 | 2021-12-29 | 2023-09-13 |
 | [Costumbres](https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 4:38 | 2021-12-29 |  |
 | [Costumbres](https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 4:44 | 2021-12-29 |  |
 | [Costumbres](https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 4:32 | 2021-12-29 |  |

@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-135 songs - 8 hr 8 min
+136 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Backburner](https://open.spotify.com/track/4kkWvBCT6wq5NHoJjYRaPU) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:56 | 2023-05-14 |  |
 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-06-07 |  |
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2023-03-24 | 2023-07-14 |
+| [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-12 |  |
 | [Badut](https://open.spotify.com/track/5oDymvDdBB5vHpgHHo9CRY) | [Nur Muhammad Rachman Raafi](https://open.spotify.com/artist/35GthN9Rx4whxW4x1voiZf), [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH) | [Badut](https://open.spotify.com/album/5PjIYQD3XITQ3kij6O0Sgq) | 5:51 | 2023-03-24 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2023-06-20 | 2023-07-14 |
 | [better for you](https://open.spotify.com/track/2fxoRz7eUFbo5RoHSvXqQh) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [better for you](https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm) | 4:49 | 2023-04-04 |  |

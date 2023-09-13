@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,620 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,694 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 79 | [Make My Day \(with David Guetta\)](https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 |
 | 80 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
 
-Snapshot ID: `MCw2ZjQyYjkyZjY3MTcwMWM0MDI4YjlkZDNmNTM2ODE4OWQzZWFkOThj`
+Snapshot ID: `MCwzODdmYmRkZGFkYzUwYTljNTBhMTQ2ZTA5Yjk5OWNiZGI3YTgzZTJl`

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 226622,
+  "num_followers": 226883,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzhlNWJhZjA0MjgyNzVkNjE5YWU5Y2UyNWEzYWM3ZGE5ODU2YjQz",
+  "snapshot_id": "MCw0NDQzOWE1YjliNGIyNjEyMTUzNmZjMDQ2NjkxMjFiNjFlOGIxMTc4",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -203,22 +203,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+        "name": "Something On My Mind",
+        "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
       },
       "artists": [
         {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+      "duration_ms": 216774,
+      "name": "Something On My Mind",
+      "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -243,22 +247,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Better Times",
-        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
       "artists": [
         {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
         },
         {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         }
       ],
-      "duration_ms": 199015,
-      "name": "Better Times",
-      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -279,26 +283,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Something On My Mind",
-        "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
+        "name": "Better Times",
+        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
         },
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Something On My Mind",
-      "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
+      "duration_ms": 199015,
+      "name": "Better Times",
+      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "honey",
+          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
+        }
+      ],
+      "duration_ms": 214108,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Club Future Nostalgia (DJ Mix)",
         "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 180040,
       "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
       "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "honey",
-          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
-        }
-      ],
-      "duration_ms": 214108,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "I Miss Having Someone To Talk To",
-        "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 223742,
-      "name": "I Miss Having Someone To Talk To",
-      "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Open Market",
         "url": "https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 190012,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "I Miss Having Someone To Talk To",
+        "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 223742,
+      "name": "I Miss Having Someone To Talk To",
+      "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1479,22 +1479,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "You Bring Me Joy",
-        "url": "https://open.spotify.com/album/7qC8j2gTsZJk38AsoGyWKI"
+        "name": "Kiss of Life",
+        "url": "https://open.spotify.com/album/2gm5Yftyy6HCSpLlUpWtFn"
       },
       "artists": [
         {
-          "name": "Soulista",
-          "url": "https://open.spotify.com/artist/7wTnuabmq5mpF4ENwwC8el"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         },
         {
-          "name": "Tracy Hamlin",
-          "url": "https://open.spotify.com/artist/0oZ9W2ul2WbXflo60EAqUT"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         }
       ],
-      "duration_ms": 259354,
-      "name": "You Bring Me Joy - Radio Edit",
-      "url": "https://open.spotify.com/track/7up1kromWJY9ZoR747ngVV"
+      "duration_ms": 193720,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1523,22 +1523,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Kiss of Life",
-        "url": "https://open.spotify.com/album/2gm5Yftyy6HCSpLlUpWtFn"
+        "name": "You Bring Me Joy",
+        "url": "https://open.spotify.com/album/7qC8j2gTsZJk38AsoGyWKI"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Soulista",
+          "url": "https://open.spotify.com/artist/7wTnuabmq5mpF4ENwwC8el"
         },
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Tracy Hamlin",
+          "url": "https://open.spotify.com/artist/0oZ9W2ul2WbXflo60EAqUT"
         }
       ],
-      "duration_ms": 193720,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y"
+      "duration_ms": 259354,
+      "name": "You Bring Me Joy - Radio Edit",
+      "url": "https://open.spotify.com/track/7up1kromWJY9ZoR747ngVV"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+      },
+      "artists": [
+        {
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+        }
+      ],
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) [Horse Meat Disco Remix]",
         "url": "https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 173000,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) - Horse Meat Disco Remix",
       "url": "https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
-      },
-      "artists": [
-        {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
-        }
-      ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Motions",
+        "url": "https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W"
+      },
+      "artists": [
+        {
+          "name": "Midnight Pool Party",
+          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
+        }
+      ],
+      "duration_ms": 232794,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Stimulate (Deluxe)",
         "url": "https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 154702,
       "name": "Mind Talking",
       "url": "https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Motions",
-        "url": "https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W"
-      },
-      "artists": [
-        {
-          "name": "Midnight Pool Party",
-          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
-        }
-      ],
-      "duration_ms": 232794,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "If You Want It",
-        "url": "https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "If You Want It",
-      "url": "https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Boys Don't Sob",
         "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 176017,
       "name": "Boys Don't Sob",
       "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 204210,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF"
     },
     {
       "added_at": "2023-09-08 04:00:00",

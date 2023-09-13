@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,147 songs - 2 day 11 hr 27 min
+1,148 songs - 2 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1012,6 +1012,7 @@
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2021-08-01 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-26 | 2022-12-29 |
 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 | 2023-08-13 |  |
+| [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-12 |  |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-14 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-19 | 2023-01-22 |
 | [THE LONELIEST](https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 4:07 | 2023-01-21 | 2023-03-19 |
@@ -1056,7 +1057,7 @@
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-09 |  |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 | 2023-09-10 |
 | [Van Mij Zijn](https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Van Mij Zijn](https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe) | 2:46 | 2022-08-13 | 2023-02-13 |
-| [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa) | 2:46 | 2022-03-26 |  |
+| [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa) | 2:46 | 2022-03-26 | 2023-09-13 |
 | [Vanzelfsprekend](https://open.spotify.com/track/2H9CK7ENR8g4QyczIq2dE5) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Vanzelfsprekend](https://open.spotify.com/album/1Yt20U55ypJCTQ1Xe06KA7) | 2:57 | 2023-08-19 | 2023-08-27 |
 | [Vas\-y \(Ga Maar\)](https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Vas\-y \(Ga Maar\)](https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV) | 3:06 | 2023-09-09 |  |
 | [Ven Ven](https://open.spotify.com/track/3upYG0cy9J2QhyV4GgV37x) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ven Ven](https://open.spotify.com/album/4SzujG2DgIY5wfFOtQFdEx) | 2:30 | 2021-03-27\* | 2021-05-13 |

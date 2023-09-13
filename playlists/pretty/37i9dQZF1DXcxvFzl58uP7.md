@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > The coziest rooms produce the most comforting tunes\. Cover: Spill Tab
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,704 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,758 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 41 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 |
 | 42 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
 | 43 | [FEEL LIKE](https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 3:08 |
-| 44 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
-| 45 | [You Tear Me Apart](https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [You Tear Me Apart](https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt) | 2:57 |
+| 44 | [You Tear Me Apart](https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [You Tear Me Apart](https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt) | 2:57 |
+| 45 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
 | 46 | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv) | 3:23 |
 | 47 | [Coney Island](https://open.spotify.com/track/4NBYId6eoacEMJDkhfTPG7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [Coney Island](https://open.spotify.com/album/0FYqjvkAX9ZF7q3xpg7Qzn) | 2:49 |
 | 48 | [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 56 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
 | 57 | [Young](https://open.spotify.com/track/2t9K0Ufe2FttNut9DPCoAW) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Fit Me In](https://open.spotify.com/album/0SANGYNvlcu8lP5DoJG3MZ) | 2:02 |
 | 58 | [Daisy](https://open.spotify.com/track/3SE3kNoi1T9euYL6NTOcXB) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Daisy](https://open.spotify.com/album/3iz6RVbojDkO2E0DFni9t3) | 3:06 |
-| 59 | [What Happens In Your Head?](https://open.spotify.com/track/4wzVFbvPQB9Rz24NqkoWgQ) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [What Happens In Your Head?](https://open.spotify.com/album/7wjvbNdWmNkdyYy5FSfi5O) | 3:34 |
-| 60 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
-| 61 | [What Is Love? Tell Me, Is It Easy?](https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Spoonfed](https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg) | 3:50 |
+| 59 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
+| 60 | [What Is Love? Tell Me, Is It Easy?](https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Spoonfed](https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg) | 3:50 |
+| 61 | [What Happens In Your Head?](https://open.spotify.com/track/4wzVFbvPQB9Rz24NqkoWgQ) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [What Happens In Your Head?](https://open.spotify.com/album/7wjvbNdWmNkdyYy5FSfi5O) | 3:34 |
 | 62 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
 | 63 | [With Somebody](https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [With Somebody](https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu) | 3:24 |
 | 64 | [Maple Syrup Tears](https://open.spotify.com/track/69ULhU2AqPoZXphQpI9h1X) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/1pELXfkOv6BvizfMw3Y9T5) | 3:13 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 70 | [it's not feeling good anymore](https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [it's not feeling good anymore](https://open.spotify.com/album/33jUA4C0rMA2SqGjLBaEZy) | 2:25 |
 | 71 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 |
 | 72 | [East Coast](https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 4:37 |
-| 73 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5b08M71kwPxYVixYCPGnnJ) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Stunning & Atrocious](https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH) | 3:39 |
-| 74 | [baggage](https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [baggage](https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE) | 2:10 |
+| 73 | [baggage](https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [baggage](https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE) | 2:10 |
+| 74 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5b08M71kwPxYVixYCPGnnJ) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Stunning & Atrocious](https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH) | 3:39 |
 | 75 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
 | 76 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
 | 77 | [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 92 | [i'm yours](https://open.spotify.com/track/5zQsdone0i50L5BbjmrrBU) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [i'm yours](https://open.spotify.com/album/4WjUW5sV61gIzwBuvy2Bwi) | 3:45 |
 | 93 | [book of spells](https://open.spotify.com/track/7n8bTcvJbZbdTxT9aCDNQ4) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [book of spells](https://open.spotify.com/album/5IXRkQH2kjLCsXYLJRJSUC) | 1:48 |
 | 94 | [Coffee's on Me](https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL) | 3:43 |
-| 95 | [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 |
-| 96 | [Lily](https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Lily](https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W) | 3:24 |
-| 97 | [Coyotes](https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Coyotes](https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI) | 3:03 |
-| 98 | [Letters](https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja), [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Letters](https://open.spotify.com/album/14FyGmDdmCZy7Bb4eNa9XS) | 2:53 |
-| 99 | [Asthma](https://open.spotify.com/track/3Dg3AZOd8xL6hQ3CHRB83h) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Asthma](https://open.spotify.com/album/7hPfdQW6kT0l2prcJsV7c8) | 3:15 |
-| 100 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
+| 95 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 |
+| 96 | [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 |
+| 97 | [Letters](https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja), [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Letters](https://open.spotify.com/album/14FyGmDdmCZy7Bb4eNa9XS) | 2:53 |
+| 98 | [Lily](https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Lily](https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W) | 3:24 |
+| 99 | [Coyotes](https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Coyotes](https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI) | 3:03 |
+| 100 | [Asthma](https://open.spotify.com/track/3Dg3AZOd8xL6hQ3CHRB83h) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Asthma](https://open.spotify.com/album/7hPfdQW6kT0l2prcJsV7c8) | 3:15 |
 
-Snapshot ID: `MCxhMjBlODJiNjEyM2I0ZmIwMDBjMGJlNjliZjY2N2ViNDE5M2ZlZDlm`
+Snapshot ID: `MCw4NThlNjUxNTY0MDhlODQ4ZjUzOGY4NDEwZGQ5ZmZmOTJkMjIyMTE4`

@@ -4,13 +4,13 @@
 
 > Lancez la playlist et jetez vous à l'eau !
 
-67 songs - 3 hr 30 min
+68 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-09-01 |  |
 | [1+1 \(feat\. Amir\) \- Banx & Ranx Remix](https://open.spotify.com/track/1OWLQ4FQrO13w6ssWgP8tk) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [1+1 \(feat\. Amir\) \[Banx & Ranx Remix\]](https://open.spotify.com/album/6FsQVRlDW4YyTRtGMQrST7) | 3:16 | 2023-06-30 |  |
-| [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-06-30 |  |
+| [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-06-30 | 2023-09-13 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2023-06-30 | 2023-09-09 |
 | [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2023-06-30 | 2023-09-09 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2023-06-30 | 2023-08-02 |
@@ -39,6 +39,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2023-06-30 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-08-01 |  |
 | [I'm So Excited](https://open.spotify.com/track/5uiQynC3Gq7tR7U41BONTF) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [I'm So Excited](https://open.spotify.com/album/093iA3ZvTkpHNfWtiDKhiz) | 2:55 | 2023-06-30 |  |
+| [If It's Lovin' That You Want](https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:28 | 2023-09-12 |  |
 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 | 2023-06-30 |  |
 | [In The Stars \- French Version](https://open.spotify.com/track/0GucRM0BPRGxuzYPN3tF6T) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET), [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [In The Stars \(French Version\)](https://open.spotify.com/album/2VmbPgtq2R4rqZbZQjWD3u) | 2:56 | 2023-06-30 | 2023-08-02 |
 | [Kings & Queens \(feat\. Shibui\)](https://open.spotify.com/track/5n4tX6qxC8giXU7IUmDSuI) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Kings & Queens \(feat\. Shibui\)](https://open.spotify.com/album/1hyL0GzOo3xtHAyhUQ5mjV) | 2:24 | 2023-06-30 |  |

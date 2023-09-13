@@ -2,7 +2,7 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion en good vibes! Cover: Jeriel, Jinho 9, Kleine John & Chavanté
+> Motion en good vibes! Cover: Jeriel, Jinho 9
 
 694 songs - 1 day 7 hr 20 min
 

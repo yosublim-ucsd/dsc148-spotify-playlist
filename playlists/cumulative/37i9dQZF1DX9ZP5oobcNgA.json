@@ -2723,6 +2723,36 @@
     },
     {
       "album": {
+        "name": "Peaceful Handel",
+        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Jozef Cejka",
+          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Richard Edlinger",
+          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Serse (Xerxes), Hwv 40 (arr. for oboe and orchestra): Act I: Ombra mai fu, \"largo\"",
+      "url": "https://open.spotify.com/track/0Bzw4breRe6YyvaHpjaSYD"
+    },
+    {
+      "album": {
         "name": "Handel : The Best of Handel",
         "url": "https://open.spotify.com/album/1lI9PZenCOZripnDuxdpvc"
       },
@@ -2746,7 +2776,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 223000,
       "name": "Serse (Xerxes), HWV 40: Larghetto from \"Xerxes\"",
       "url": "https://open.spotify.com/track/5ZARQmEMqdfgyyjHAN87cf"

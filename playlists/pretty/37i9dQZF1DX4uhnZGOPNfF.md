@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2003\. Photo : Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,855 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,857 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 | 40 | [The Magic Key](https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM) | [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The One\-T ODC](https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn) | 3:48 |
 | 41 | [Dernière danse](https://open.spotify.com/track/7mNErWes3YegbRLgZuILl5) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:47 |
 | 42 | [Make Luv](https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH) | [Room 5](https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq), [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Music & You](https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH) | 3:32 |
-| 43 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
-| 44 | [Save Me](https://open.spotify.com/track/4pkFvX3AkuiSGPkv8gMlks) | [Remy Zero](https://open.spotify.com/artist/2pZCKLhbrrDD4PwEzrDig3) | [The Golden Hum](https://open.spotify.com/album/6SY8RhGOrzV3NpuDedeyAC) | 4:04 |
+| 43 | [Save Me](https://open.spotify.com/track/4pkFvX3AkuiSGPkv8gMlks) | [Remy Zero](https://open.spotify.com/artist/2pZCKLhbrrDD4PwEzrDig3) | [The Golden Hum](https://open.spotify.com/album/6SY8RhGOrzV3NpuDedeyAC) | 4:04 |
+| 44 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
 | 45 | [Can't Hold Us Down \(feat\. Lil' Kim\)](https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:15 |
-| 46 | [Rise & Fall \(feat\. Sting\)](https://open.spotify.com/track/23ehR4jpFQFMfDADgFdXR7) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 4:47 |
-| 47 | [I Can](https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [God's Son](https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY) | 4:13 |
+| 46 | [I Can](https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [God's Son](https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY) | 4:13 |
+| 47 | [Rise & Fall \(feat\. Sting\)](https://open.spotify.com/track/23ehR4jpFQFMfDADgFdXR7) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 4:47 |
 | 48 | [Sorry Seems To Be The Hardest Word](https://open.spotify.com/track/6F9jdzX7CfixvCsCkW7zw9) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Best Of Blue](https://open.spotify.com/album/7kPVKSy6zNK1PnvylEqTpL) | 3:30 |
 | 49 | [Scandalous \- U.S\. Radio Edit](https://open.spotify.com/track/3stnrhzN0lzZFskbaZ5sEw) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:58 |
 | 50 | [Gravé dans la roche](https://open.spotify.com/track/0LZ90308GB1Tp05STjabeC) | [SNIPER](https://open.spotify.com/artist/1nTVNdaDAzXB1AbP30cGk6) | [Gravé dans la roche](https://open.spotify.com/album/6chD9SocKyshylTuhbKV2O) | 4:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 | 59 | [Summer Jam \- Radio Edit](https://open.spotify.com/track/6L54wM12STr1kS8nPjPIaS) | [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Summer Jam](https://open.spotify.com/album/22ulz3GUuRiiVxQk2HlaW8) | 3:33 |
 | 60 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
 
-Snapshot ID: `MCxhMzI1MzBlYWY2OTAyNDJmZTAyYzBkNGU3OWRmYjA5ZDJlNWZlMTNh`
+Snapshot ID: `MCxhN2UwOTIzNDkxNzhlZTdmODVlMTQyZDAxNTQzMTM3YWEwYzZkZDgw`

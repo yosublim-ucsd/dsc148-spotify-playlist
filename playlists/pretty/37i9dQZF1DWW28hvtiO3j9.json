@@ -1,12 +1,12 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 124022,
+  "num_followers": 124246,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWQ4M2JjMWUxMzExYzA4NDE2ZGNmNzA1NWU4MzMzODdhOTJiMDA4",
+  "snapshot_id": "MCxhZDIxNTEzYzM0MGIzYjFhNmZlYzFkM2JlMDhhOTNmZjljNDQ0MzVh",
   "tracks": [
     {
       "added_at": "2023-03-21 15:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd"
+        "name": "Cologne",
+        "url": "https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164"
       },
       "artists": [
         {
-          "name": "Hiroshi Sato",
-          "url": "https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj"
+          "name": "Kaoru Akimoto",
+          "url": "https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72"
         }
       ],
-      "duration_ms": 206320,
-      "name": "SAY GOODBYE",
-      "url": "https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V"
+      "duration_ms": 303426,
+      "name": "\u6211\u304c\u307e\u307e\u306a\u30cf\u30a4\u30d2\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Cologne",
-        "url": "https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164"
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd"
       },
       "artists": [
         {
-          "name": "Kaoru Akimoto",
-          "url": "https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72"
+          "name": "Hiroshi Sato",
+          "url": "https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj"
         }
       ],
-      "duration_ms": 303426,
-      "name": "\u6211\u304c\u307e\u307e\u306a\u30cf\u30a4\u30d2\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB"
+      "duration_ms": 206320,
+      "name": "SAY GOODBYE",
+      "url": "https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -759,6 +759,38 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
+        "name": "The 20th Anniversary",
+        "url": "https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd"
+      },
+      "artists": [
+        {
+          "name": "Naomi Akimoto",
+          "url": "https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Bewitched (Are You Leaving Soon)",
+      "url": "https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "LIGHT'N UP",
+        "url": "https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7"
+      },
+      "artists": [
+        {
+          "name": "Minako Yoshida",
+          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+        }
+      ],
+      "duration_ms": 348240,
+      "name": "LIGHT'N UP",
+      "url": "https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
         "name": "NIAGARA TRIANGLE vol.2 40th Anniversary Edition",
         "url": "https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ"
       },
@@ -783,38 +815,6 @@
       "duration_ms": 191800,
       "name": "A\u9762\u3067\u604b\u3092\u3057\u3066",
       "url": "https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "LIGHT'N UP",
-        "url": "https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7"
-      },
-      "artists": [
-        {
-          "name": "Minako Yoshida",
-          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
-        }
-      ],
-      "duration_ms": 348240,
-      "name": "LIGHT'N UP",
-      "url": "https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "The 20th Anniversary",
-        "url": "https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd"
-      },
-      "artists": [
-        {
-          "name": "Naomi Akimoto",
-          "url": "https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Bewitched (Are You Leaving Soon)",
-      "url": "https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy"
     },
     {
       "added_at": "2023-03-21 15:00:00",

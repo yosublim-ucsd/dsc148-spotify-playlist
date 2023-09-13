@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Aziz Maraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,903 likes - 72 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,938 likes - 72 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 6 | [خاطي](https://open.spotify.com/track/6yEHeItedqVCm48d9yturc) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:20 |
 | 7 | [Al Hamdullah](https://open.spotify.com/track/1I7EiwtCU8q7oB68P6lEJN) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Al Hamdullah](https://open.spotify.com/album/6Juo9kUV5BTp1DbY3Vv2mB) | 3:28 |
 | 8 | [وسط الدوامة](https://open.spotify.com/track/5xHyfIDDVOMdhtOUBZ1SmA) | [404 Band](https://open.spotify.com/artist/0HpnFPEgkKeLBiQBzlxVOX) | [وسط الدوامة](https://open.spotify.com/album/6m42mTl7UmDxA7OqhWmO3i) | 5:24 |
-| 9 | [عشانك](https://open.spotify.com/track/01wXy6jRJBni1IePERVd7K) | [Deleted songs \- اغاني محذوفة](https://open.spotify.com/artist/7DgoZYbE59JMvzhmtCG7Y5), [Siilawy](https://open.spotify.com/artist/3Vn8HsYVqbtuJ1tBOsdVAU) | [جميع اغاني سيلاوي المحذوفة \(Siilawy\)](https://open.spotify.com/album/4Xs77eNtwhVCsF3iTVqoLK) | 3:07 |
+| 9 | [عشانك](https://open.spotify.com/track/7M6I8pnU95G2iImrR0PjIR) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/56AVpqfi0bb5Er9csg3gnk) | 3:07 |
 | 10 | [Awal Kelmi](https://open.spotify.com/track/3wsvQrjCkPZFoOF8MLGGaz) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Awal Kelmi](https://open.spotify.com/album/2TdxqR34fvEuXo6gnLzrvr) | 3:33 |
 | 11 | [Ana Bakhaf Min El Commitment](https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [El Makina](https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK) | 4:20 |
 | 12 | [عيوني](https://open.spotify.com/track/78q1t44OvELCafFzdvd4ZU) | [Shroof](https://open.spotify.com/artist/3tPp17iDBNUmISlc1KaiDW) | [عيوني](https://open.spotify.com/album/5MUFrWrh1zRlhzx2TgzvcS) | 3:08 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 71 | [Layla](https://open.spotify.com/track/0oXXaN5krMQ4NR0Hs2C0hJ) | [Judran](https://open.spotify.com/artist/1KC7iXkAh7Z7gX7XJqarBd) | [Layla](https://open.spotify.com/album/3Du6enmqaPYMtjYvM52UCL) | 6:03 |
 | 72 | [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 |
 
-Snapshot ID: `MCxjNDUyOTNlNTRmYTkzOWM4OWIxZGVhNzE2NGU4ZThkMTE5OTg3ZmQ5`
+Snapshot ID: `MCxlY2M4MmVmNWM4ZGRlODJkMzNkZTI4Y2IyZTY3YmI3MGVjZDQyMzU2`

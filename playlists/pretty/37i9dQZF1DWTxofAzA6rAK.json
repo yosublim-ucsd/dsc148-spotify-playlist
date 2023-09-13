@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 51974,
+  "num_followers": 52034,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWRkYjgzYmVlMjc1ZTQyY2Q3MzA5M2UyMmVkNDdlMmJlYjQ3MGI5",
+  "snapshot_id": "MCwzZTU4YzUzOGYzNDY1MzFiNzM0MTIxZTE3MzE0ZWU4MGYzNmUzNDRi",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Verified Choppa 2",
         "url": "https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 139093,
       "name": "Verified Choppa 2",
       "url": "https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "West Indies",
-        "url": "https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 237458,
-      "name": "West Indies",
-      "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "From Rags to Riches",
         "url": "https://open.spotify.com/album/6u7JQUvZJJHCKXfQd1fhPp"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Roll Deep",
-        "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
+        "name": "West Indies",
+        "url": "https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq"
       },
       "artists": [
         {
-          "name": "10Tik",
-          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         }
       ],
-      "duration_ms": 207856,
-      "name": "Roll Deep",
-      "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -783,6 +767,22 @@
       "duration_ms": 221583,
       "name": "Skeleton Cartier",
       "url": "https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Roll Deep",
+        "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
+      },
+      "artists": [
+        {
+          "name": "10Tik",
+          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
+        }
+      ],
+      "duration_ms": 207856,
+      "name": "Roll Deep",
+      "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Dark Room",
-        "url": "https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb"
-      },
-      "artists": [
-        {
-          "name": "Shane O",
-          "url": "https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF"
-        }
-      ],
-      "duration_ms": 193802,
-      "name": "Dark Room",
-      "url": "https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "GPP",
         "url": "https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 193958,
       "name": "GPP",
       "url": "https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Dark Room",
+        "url": "https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb"
+      },
+      "artists": [
+        {
+          "name": "Shane O",
+          "url": "https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF"
+        }
+      ],
+      "duration_ms": 193802,
+      "name": "Dark Room",
+      "url": "https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "SIN TRAP (Giftcard)",
-        "url": "https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV"
-      },
-      "artists": [
-        {
-          "name": "Najeeriii",
-          "url": "https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "SINTRAP (Giftcard)",
-      "url": "https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Top Prize",
         "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 186723,
       "name": "Cree",
       "url": "https://open.spotify.com/track/6wEcOXUgeVUlrzgnNVhOqh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "SIN TRAP (Giftcard)",
+        "url": "https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV"
+      },
+      "artists": [
+        {
+          "name": "Najeeriii",
+          "url": "https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "SINTRAP (Giftcard)",
+      "url": "https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Big Chune",
-        "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "IamNuhRush",
-          "url": "https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE"
-        }
-      ],
-      "duration_ms": 163352,
-      "name": "Big Chune",
-      "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 166687,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/7Hly3BuOvebTEuRRRKjsGC"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Big Chune",
+        "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "IamNuhRush",
+          "url": "https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE"
+        }
+      ],
+      "duration_ms": 163352,
+      "name": "Big Chune",
+      "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Perfect Summer",
-        "url": "https://open.spotify.com/album/0pnBHpLJHnVWbR4mviWab6"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 191526,
-      "name": "Perfect Summer",
-      "url": "https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "World News",
         "url": "https://open.spotify.com/album/17MvvoDeKxos5NrcDs8NvV"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 265337,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/2mGOKW9vv5UrwoZxgX2v9T"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Perfect Summer",
+        "url": "https://open.spotify.com/album/0pnBHpLJHnVWbR4mviWab6"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 191526,
+      "name": "Perfect Summer",
+      "url": "https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2323,6 +2323,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Bufu",
+        "url": "https://open.spotify.com/album/58QMqtTrve7tO4GlSA0Z78"
+      },
+      "artists": [
+        {
+          "name": "Boy Boy",
+          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
+        }
+      ],
+      "duration_ms": 198716,
+      "name": "Bufu",
+      "url": "https://open.spotify.com/track/3TRuO4dfXGxF6Jf80uzFH3"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "I'm Back",
         "url": "https://open.spotify.com/album/4oSTRCHAO3oARVtqhghcve"
       },
@@ -2363,26 +2379,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "DOGGY STYLE",
-        "url": "https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ"
-      },
-      "artists": [
-        {
-          "name": "Fittis",
-          "url": "https://open.spotify.com/artist/65ckf44h6fvV1qbuo2RvjZ"
-        },
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "DOGGY STYLE",
-      "url": "https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Dior Kicks",
         "url": "https://open.spotify.com/album/3LUDwZHFWsZSn9s23RKUNt"
       },
@@ -2403,6 +2399,26 @@
       "duration_ms": 207060,
       "name": "Dior Kicks",
       "url": "https://open.spotify.com/track/4r07a9L5IDW5l68WfzOAed"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "DOGGY STYLE",
+        "url": "https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ"
+      },
+      "artists": [
+        {
+          "name": "Fittis",
+          "url": "https://open.spotify.com/artist/65ckf44h6fvV1qbuo2RvjZ"
+        },
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "DOGGY STYLE",
+      "url": "https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2459,22 +2475,6 @@
       "duration_ms": 171935,
       "name": "Geet Weh",
       "url": "https://open.spotify.com/track/3UeNRslRMrBxd6fDytLvWL"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Bufu",
-        "url": "https://open.spotify.com/album/58QMqtTrve7tO4GlSA0Z78"
-      },
-      "artists": [
-        {
-          "name": "Boy Boy",
-          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
-        }
-      ],
-      "duration_ms": 198716,
-      "name": "Bufu",
-      "url": "https://open.spotify.com/track/3TRuO4dfXGxF6Jf80uzFH3"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2591,6 +2591,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Life Story",
+        "url": "https://open.spotify.com/album/2XwxdxqI2MfrPsaSIfXUo0"
+      },
+      "artists": [
+        {
+          "name": "Silk Boss",
+          "url": "https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF"
+        },
+        {
+          "name": "Terro Don",
+          "url": "https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7"
+        }
+      ],
+      "duration_ms": 208065,
+      "name": "Life Story",
+      "url": "https://open.spotify.com/track/54RD18DacMustMg17xzEC0"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Sweet Love",
         "url": "https://open.spotify.com/album/1M5Q0iEFC8jCgQaCg8ehM6"
       },
@@ -2627,26 +2647,6 @@
       "duration_ms": 180062,
       "name": "Only Fans",
       "url": "https://open.spotify.com/track/1VHFeNLoMJq3l4CC4bMQID"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Life Story",
-        "url": "https://open.spotify.com/album/2XwxdxqI2MfrPsaSIfXUo0"
-      },
-      "artists": [
-        {
-          "name": "Silk Boss",
-          "url": "https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF"
-        },
-        {
-          "name": "Terro Don",
-          "url": "https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7"
-        }
-      ],
-      "duration_ms": 208065,
-      "name": "Life Story",
-      "url": "https://open.spotify.com/track/54RD18DacMustMg17xzEC0"
     },
     {
       "added_at": "2023-05-24 08:21:37",

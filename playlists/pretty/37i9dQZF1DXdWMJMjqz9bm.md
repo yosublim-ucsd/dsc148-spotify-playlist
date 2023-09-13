@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Nic D & Connor Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,349 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,598 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ask for much](https://open.spotify.com/track/2G159avHRqHYDvjp5tn0fn) | [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [ask for much](https://open.spotify.com/album/6oUtWwvUrLUBpI4NN8cZi0) | 2:30 |
 | 2 | [Ashin' Blunts \(feat\. Arden Jones\)](https://open.spotify.com/track/4zL03IAgp23CoVpXZ1PyBj) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Ashin' Blunts \(feat\. Arden Jones\)](https://open.spotify.com/album/2Izbj4RptmAWte7yXLGv5X) | 2:18 |
 | 3 | [Let Go](https://open.spotify.com/track/1tYTIFvg7nCrVnmiK88yOr) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Spotify Singles](https://open.spotify.com/album/1XGxp9TXJQUNw2gbybZHKm) | 2:36 |
-| 4 | [No Way Jose](https://open.spotify.com/track/1kCXmKWlfc9tZIp3Thumkl) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do) | [Baby Gravy 3](https://open.spotify.com/album/0mDeN57X1YtJHfXNdYlJbw) | 2:49 |
+| 4 | [No Way Jose](https://open.spotify.com/track/1kCXmKWlfc9tZIp3Thumkl) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Baby Gravy 3](https://open.spotify.com/album/0mDeN57X1YtJHfXNdYlJbw) | 2:49 |
 | 5 | [No More](https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SANTIAGO](https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY) | 3:10 |
 | 6 | [smiley water](https://open.spotify.com/track/1PEShB5zDPDvnnAbf4CGcy) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [smiley water](https://open.spotify.com/album/3Y2Xo3MzxhWSVFY2HvTCYd) | 3:59 |
 | 7 | [god damn!](https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [god damn!](https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv) | 1:56 |

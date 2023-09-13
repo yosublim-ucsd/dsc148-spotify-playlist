@@ -4,7 +4,7 @@
 
 > Newsworthy indie 2023: Bakar heats up, Slowdive's album & Jungle on repeat.
 
-1,764 songs - 4 day 9 hr 50 min
+1,765 songs - 4 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Baby Blu](https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU) | 4:41 | 2019-05-26\* | 2019-10-04 |
 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 | 2020-09-04 | 2021-03-06 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2022-01-14 | 2022-01-15 |
-| [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-28 |  |
+| [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-01 |  |
+| [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-28 | 2023-09-13 |
 | [Back on the Fence](https://open.spotify.com/track/4l9ySYsdTRMiUZdNfI0iLR) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM), [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Back on the Fence](https://open.spotify.com/album/2GHFkUpqWavyXAVfy6xwLF) | 3:51 | 2020-12-22 | 2021-03-16 |
 | [Back To Oz](https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Back to Oz / Fictional California](https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM) | 4:12 | 2021-08-20 | 2022-04-08 |
 | [Back To The Radio](https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Back To The Radio](https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY) | 3:07 | 2022-03-03 | 2022-04-21 |

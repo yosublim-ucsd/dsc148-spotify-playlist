@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ"> Cheque </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,473 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,531 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 43 | [Where Dem Dey](https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Where Dem Dey](https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d) | 3:02 |
 | 44 | [Bad Since '97](https://open.spotify.com/track/5t5oLw5209yleTnJSqM097) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:14 |
 | 45 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 |
-| 46 | [Reason You](https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:26 |
-| 47 | [Pattern Gang \(feat\. Smada\)](https://open.spotify.com/track/0GW4OIKAGftHpBU7q85JHL) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Pattern Gang \(feat\. Smada\)](https://open.spotify.com/album/213CqMDl9DGW41okxo8lZn) | 2:16 |
+| 46 | [Pattern Gang \(feat\. Smada\)](https://open.spotify.com/track/0GW4OIKAGftHpBU7q85JHL) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Pattern Gang \(feat\. Smada\)](https://open.spotify.com/album/213CqMDl9DGW41okxo8lZn) | 2:16 |
+| 47 | [Reason You](https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:26 |
 | 48 | [11:11](https://open.spotify.com/track/4opSFGcLXcnaacX04QvEiB) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [11:11](https://open.spotify.com/album/22URoqf24iLEXcZPKd6NWn) | 2:30 |
 | 49 | [Holy Gee](https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Holy Gee](https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP) | 2:44 |
 | 50 | [Afro Jigga](https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 3:06 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 54 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
 | 55 | [Operation Sweep](https://open.spotify.com/track/2exuZNzNYl96pncjTYokOd) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Operation Sweep](https://open.spotify.com/album/5Z27393Vx6iqkl1dG6mXyq) | 2:35 |
 | 56 | [Omo Ologo](https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj) | 3:09 |
-| 57 | [Amdallah](https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Amdallah](https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7) | 3:00 |
-| 58 | [Humble Cry](https://open.spotify.com/track/0iWD2VVQiNnUvYG74mBw4c) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [Humble Cry](https://open.spotify.com/album/0HAgykkVb3jNd5UFdzIsKI) | 2:41 |
+| 57 | [Humble Cry](https://open.spotify.com/track/0iWD2VVQiNnUvYG74mBw4c) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [Humble Cry](https://open.spotify.com/album/0HAgykkVb3jNd5UFdzIsKI) | 2:41 |
+| 58 | [Amdallah](https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Amdallah](https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7) | 3:00 |
 | 59 | [Bad Persin](https://open.spotify.com/track/5EMK0EERtn8qQw4Q5xM1cv) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Bad Persin](https://open.spotify.com/album/1AK98K9ZlG6MozLWxNR2uX) | 3:25 |
 | 60 | [Vawulence](https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Vawulence](https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq) | 3:10 |
 | 61 | [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 |
 | 70 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
 
-Snapshot ID: `MCxlODQ4MGI0YzM2NjAzN2FjOTlmYzEyOTcwMjNiOWUwMDZlMDJhM2I3`
+Snapshot ID: `MCxmZmVlNzgxNDM1NTdiZjlhZGM5NzY4ODlkNjkxNWY1ZjgyMjcxYTc5`

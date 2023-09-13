@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,214 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,213 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 45 | [Doo Doo Doo Doo Doo \(Heartbreaker\)](https://open.spotify.com/track/0f7VY69zhtS20Xm5PVYCm5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 3:26 |
 | 46 | [Los Ejes de Mi Carreta](https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Viajes Por El Mundo](https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw) | 2:52 |
 | 47 | [Cuatro vidas](https://open.spotify.com/track/4auPnIIC755h0Hi2CeJXat) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Amorcito corazón](https://open.spotify.com/album/16LwPtwJ2WDTagFq5as6rk) | 2:56 |
-| 48 | [Un Minuto De Amor](https://open.spotify.com/track/7vC0Q6NQECtjeN0eSzCXu0) | [Sabu](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [Grandes Exitos](https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb) | 3:32 |
+| 48 | [Un Minuto De Amor](https://open.spotify.com/track/7vC0Q6NQECtjeN0eSzCXu0) | [Sabú](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [Grandes Exitos](https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb) | 3:32 |
 | 49 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
 | 50 | [El Corrido de Amado Carrillo Fuentes](https://open.spotify.com/track/17WcGtPpnoNwg9bFG5UUVr) | [Tomas Sevilla](https://open.spotify.com/artist/2W9olsomJwIGlMySC3XX6D), [Melquiades Sevilla](https://open.spotify.com/artist/7fGwbz4M8GucLHxDATtjzh) | [The Devils Swing: El Columpio Del Diablo](https://open.spotify.com/album/2gI2fheXjJyx9uxI9aPCcF) | 4:05 |
 | 51 | [Rossini: Guillaume Tell: Overture](https://open.spotify.com/track/4WC14o4s0LXgPmCs6pSwWR) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw), [Gabriele Gemignani](https://open.spotify.com/artist/7luwTEEU6T9EEr7FfVfu8M), [Orchestra dell'Accademia Nazionale di Santa Cecilia](https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f) | [Rossini: Overtures](https://open.spotify.com/album/3YfcOfc4OI6pdhG5QDFiUN) | 11:34 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 166 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 |
 | 167 | [Dejé la puerta abierta](https://open.spotify.com/track/3EfbEKy4d9yQu7N53pSdfa) | [Efraín Ríos](https://open.spotify.com/artist/1QFw9RTzNqQ66UEJoNfEZ4) | [Antologia de Cuba](https://open.spotify.com/album/3AFDWZtcXQbPOfnk9r6Bag) | 2:52 |
 
-Snapshot ID: `MCw0NjBhNDA3ODM1Zjg1NjcxMDllNDk1OTFiNDYwYmE1NDc2YmFlNGEw`
+Snapshot ID: `MCw4NzllYWQ3NDJjNzNmMTA2ODc1YzIxNWQzOGI0ZThkYzhmNjk3YmMz`

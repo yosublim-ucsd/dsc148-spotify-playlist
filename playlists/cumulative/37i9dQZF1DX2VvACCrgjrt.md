@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: AC Slater & Chris Lorenzo \(Fly With Us\)
 
-543 songs - 1 day 4 hr 40 min
+544 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,7 @@
 | [Sequence 999](https://open.spotify.com/track/5PVDrXJ2N6bpKrxLyyFa4Y) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs) | [Sequence 999](https://open.spotify.com/album/7EMZiKTAUDQ69EsbeoX4uQ) | 2:59 | 2021-10-29 | 2022-01-14 |
 | [Set Me Free](https://open.spotify.com/track/5SVv1fiaB8maWIQxVYC9PI) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Set Me Free](https://open.spotify.com/album/5Mu6N2Oep0WOSgXVRp1LVo) | 3:07 | 2023-03-17 | 2023-08-09 |
 | [Set The Tempo \(feat\. HQA\)](https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [HQA](https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw) | [Set The Tempo \(feat\. HQA\)](https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN) | 3:03 | 2022-09-09 |  |
-| [Set You Free](https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Set You Free](https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp) | 3:20 | 2022-06-17 |  |
+| [Set You Free](https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Set You Free](https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp) | 3:20 | 2022-06-17 | 2023-09-13 |
 | [Shadows](https://open.spotify.com/track/3j3PX04rM6SI8oNOl1T3n3) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Iván Reich](https://open.spotify.com/artist/4uBitmqyeR0fcbpoTyEbSg), [Jonathan.](https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M) | [Slaughterhouse](https://open.spotify.com/album/6gQBI7Qvjk7Xs5SLvc6Dcf) | 4:44 | 2021-12-03 | 2023-04-01 |
 | [Shake](https://open.spotify.com/track/1jRgrTBpB8GIB99bYjnDL3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Shake](https://open.spotify.com/album/6apexIQhAgroK41Kt6FOjd) | 3:14 | 2021-10-29 | 2022-07-30 |
 | [Shalala](https://open.spotify.com/track/0GcTerEhHu6nqU93W0qa52) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Shalala](https://open.spotify.com/album/7y6Znxh8mmSubMCbwqZBKv) | 2:48 | 2022-07-29 | 2022-11-23 |
@@ -478,6 +478,7 @@
 | [Teen Scene \(ft Buddy\) \- Wax Motif Remix](https://open.spotify.com/track/79IJUGY4ELv8iMeAGYk83S) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Teen Scene \(Remixes\)](https://open.spotify.com/album/7Bv9aPTB8Fm0bEA6FLCz4I) | 4:31 | 2021-10-29 | 2022-05-28 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-13 | 2023-04-01 |
 | [Tell Me What](https://open.spotify.com/track/56AydkG6w9Mux2SGGUYGrF) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Tell Me What](https://open.spotify.com/album/4BjDdvhvjqcOljiVZ2U7KN) | 3:17 | 2022-02-04 | 2022-05-02 |
+| [That's Right](https://open.spotify.com/track/3z8PEIdsoccN24sC7h9tB5) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [That's Right](https://open.spotify.com/album/4XNPpkFl4X6DRFKo42oRHf) | 3:35 | 2023-09-08 |  |
 | [The Afterhour Waltz](https://open.spotify.com/track/1bpt1M45P9CntixjQ0apti) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [The Afterhour Waltz](https://open.spotify.com/album/7AyEpqNZeUzzwIluqR3PKC) | 3:00 | 2022-03-25 | 2022-09-10 |
 | [The Answer](https://open.spotify.com/track/29AIZjKOLwFkP2bgy9RS2j) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [The Answer](https://open.spotify.com/album/34gfhO5DSUVvqAPlaPskOn) | 3:10 | 2021-10-29 | 2022-05-28 |
 | [The Bassline](https://open.spotify.com/track/0A9hFeNvCqFFWbhrdXAmQU) | [Sebastian Wibe](https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO) | [The Bassline](https://open.spotify.com/album/0OtNTTOpVum1PlOxLaD6GR) | 3:23 | 2023-06-09 | 2023-08-24 |

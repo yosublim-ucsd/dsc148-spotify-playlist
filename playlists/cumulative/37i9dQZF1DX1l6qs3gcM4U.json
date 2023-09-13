@@ -997,6 +997,28 @@
     },
     {
       "album": {
+        "name": "Chama a Pol\u00edcia",
+        "url": "https://open.spotify.com/album/0gbGNvo50htawNPbtkBzJ7"
+      },
+      "artists": [
+        {
+          "name": "Jenny Cabral",
+          "url": "https://open.spotify.com/artist/66xcfAp997B9qNAwwEtQvK"
+        },
+        {
+          "name": "Dotorado Pro",
+          "url": "https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182417,
+      "name": "Chama a Pol\u00edcia",
+      "url": "https://open.spotify.com/track/5nXyhuzNJ5jHdpPDq5ywaS"
+    },
+    {
+      "album": {
         "name": "Chocolate",
         "url": "https://open.spotify.com/album/6imRBmBRoHhUV2YGUto0IF"
       },
@@ -1048,7 +1070,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 183092,
       "name": "Chouchou",
       "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"

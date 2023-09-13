@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-282 songs - 16 hr 52 min
+283 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-22 | 2023-08-04 |
 | [Boat](https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:05 | 2023-08-03 |  |
 | [Bois Lie \(feat\. Machine Gun Kelly\) \- Acoustic](https://open.spotify.com/track/3W8gnQSIRzUQM6klpRT4jR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Bois Lie \(feat\. Machine Gun Kelly\) \[Acoustic\]](https://open.spotify.com/album/23GAyvm3WUVwTIjXDh9JgN) | 2:50 | 2022-10-20 | 2022-12-14 |
+| [Books of Fantasy](https://open.spotify.com/track/6sYTGXJE67xL22ZtkXxV1H) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Books of Fantasy](https://open.spotify.com/album/3L536accWGgnKxWZOaBX1C) | 3:24 | 2023-09-12 |  |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-10-20 |  |
 | [Brayford Odeon](https://open.spotify.com/track/3GaQZPrehbi2BCuBxNZPhI) | [The Rills](https://open.spotify.com/artist/2xOzJ4KDhvZrBLCvorstRR) | [After Taste](https://open.spotify.com/album/4u5fBdylG3BCuCI4tpnGEK) | 3:43 | 2023-03-16 | 2023-07-07 |
 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-27 |  |
@@ -92,7 +93,7 @@
 | [Haru o Matazu Kimi o Hanare](https://open.spotify.com/track/44n6FlfY0wNwF5sVfh8mqV) | [Grape](https://open.spotify.com/artist/2cRHim5No0OPKOG528NfWB) | [Grape Sensation](https://open.spotify.com/album/0ub1dFuQTWvZ01xIV1L4m7) | 3:46 | 2023-02-14 | 2023-04-14 |
 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 | 2022-10-20 |  |
 | [Heaven \- Acoustic](https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven \(Acoustic\)](https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka) | 3:03 | 2023-03-23 | 2023-05-05 |
-| [here \- acoustic](https://open.spotify.com/track/5tOjC8dh1D2cK8ihubdgp4) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF), [people i like](https://open.spotify.com/artist/10fNnwosIFNITkZRFRBZp1), [Mree](https://open.spotify.com/artist/3K8cGxW088HVyhFSGWJJcX), [Henri Bardot](https://open.spotify.com/artist/789NwFfUgZwT6Lc256SYjc) | [here \(acoustic\)](https://open.spotify.com/album/1qqHJ9cTJ2YURDaZBNAhuv) | 3:36 | 2023-08-10 |  |
+| [here \- acoustic](https://open.spotify.com/track/5tOjC8dh1D2cK8ihubdgp4) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF), [people i like](https://open.spotify.com/artist/10fNnwosIFNITkZRFRBZp1), [Mree](https://open.spotify.com/artist/3K8cGxW088HVyhFSGWJJcX), [Henri Bardot](https://open.spotify.com/artist/789NwFfUgZwT6Lc256SYjc) | [here \(acoustic\)](https://open.spotify.com/album/1qqHJ9cTJ2YURDaZBNAhuv) | 3:36 | 2023-08-10 | 2023-09-13 |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-12-14 |  |
 | [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-23 | 2023-04-17 |
 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-04-13 | 2023-08-25 |

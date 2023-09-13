@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. Cover: <a href="https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3?si=5912d4229e324b1e">Pat Barrett</a>
 
-285 songs - 1 day 5 hr 54 min
+286 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Gratitude \- Live](https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Gratitude \(Live\)](https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl) | 6:16 | 2022-09-11 | 2023-03-11 |
 | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q) | 6:58 | 2023-04-14 |  |
 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 | 2022-02-19 | 2023-04-15 |
+| [Greater Than It All \- Live](https://open.spotify.com/track/36v3znbKACA4BkhaUHSjbE) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK) | [Gratitude: 10 Live Worship Songs From Spring Harvest 2022](https://open.spotify.com/album/33QIgV6G5UIDN2neiShgyM) | 4:52 | 2023-08-11 |  |
 | [Greater Than It All \- Live](https://open.spotify.com/track/4Vqvuy5Z4Lhn5wdqFDpTjx) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Greater Than It All \(Live\)](https://open.spotify.com/album/0beZjVg2wi1FiDYA7abeFe) | 4:52 | 2023-03-20 | 2023-07-26 |
 | [Growing Pains Pt\. 2](https://open.spotify.com/track/3JT72Odgjboph3SnXhDbzk) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 2:27 | 2022-09-11 |  |
 | [Halfway Empty \- Live](https://open.spotify.com/track/17it5wfXOeMzTiid9xMGye) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Halfway Empty \(Live\)](https://open.spotify.com/album/2zM8xyAjwRPBZCE4nkhlOw) | 3:45 | 2023-03-11 | 2023-04-15 |
@@ -119,7 +120,7 @@
 | [House Of Miracles \- Live](https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles \(Live\)](https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI) | 7:33 | 2022-02-19 |  |
 | [How Great \(Psalm 145\) \- Live](https://open.spotify.com/track/7JhEN2AqhRDnQvagM4jegR) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [How Great \(Psalm 145\) \[Live\]](https://open.spotify.com/album/64IQ5YhpxzE0VPSUoOpK04) | 4:08 | 2022-02-19 | 2022-03-21 |
 | [How Sweet \- Spontaneous / Live](https://open.spotify.com/track/6ThfWlq6kXFpUfLShY99xd) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVEN \(Deluxe / Live\)](https://open.spotify.com/album/6WUXadeySiyARbTNj7GOvY) | 4:34 | 2023-03-11 |  |
-| [Hurry \- Live](https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Revival Nights \(Pt\. 2\) \[Live\]](https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21) | 6:30 | 2022-02-19 |  |
+| [Hurry \- Live](https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Revival Nights \(Pt\. 2\) \[Live\]](https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21) | 6:30 | 2022-02-19 | 2023-09-13 |
 | [I Am Your Beloved \- Live](https://open.spotify.com/track/13XM0BNHrBkxsoktnEDwyY) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [The Land I'm Livin' In — DAY ONE](https://open.spotify.com/album/7IASTUzpBoZsBzHQf6Dbht) | 9:58 | 2022-02-19 | 2022-07-29 |
 | [I Am Your Beloved \- Live](https://open.spotify.com/track/3wNS3dTyxxEQQdfDz3yFeK) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [The Land I'm Livin' In \(Live\)](https://open.spotify.com/album/0GHvAtGhtpQxwi9VPi8C9V) | 9:58 | 2022-03-19 |  |
 | [I Believe \- Live](https://open.spotify.com/track/1eVfW0BiP2cedS6y2XVkTO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [I Believe \(Live\)](https://open.spotify.com/album/6EkJtrWmM84iGJpXFfVNb9) | 7:36 | 2022-02-19 | 2022-07-29 |

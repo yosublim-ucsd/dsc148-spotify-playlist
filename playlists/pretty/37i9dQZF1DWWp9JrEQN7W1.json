@@ -1,12 +1,12 @@
 {
   "description": "Something cute for baddies doing their hair and make-up. ",
-  "num_followers": 31656,
+  "num_followers": 32917,
   "original_name": "Getting Ready \ud83d\udc8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGIzYjlhNmFiYTRkZGM3ZGRkNTJlODUyODgxNWU0MjI0NDFmZWFi",
+  "snapshot_id": "MCxhZDEwY2YyMDMwZTYwYzFlZjMyMzI5OWE5NmZiNzg0Y2UxNGY1ZTZi",
   "tracks": [
     {
       "added_at": "2023-08-10 22:28:41",
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
     },
     {
-      "added_at": "2023-08-10 22:28:41",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 277043,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
-    },
-    {
       "added_at": "2023-08-11 15:47:33",
       "album": {
         "name": "Lisa",
@@ -419,6 +403,22 @@
       "duration_ms": 159306,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
+    },
+    {
+      "added_at": "2023-08-10 22:28:41",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 277043,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
     },
     {
       "added_at": "2023-08-10 22:28:41",
@@ -547,18 +547,22 @@
     {
       "added_at": "2023-08-10 22:28:41",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Need to Know",
-      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
     },
     {
       "added_at": "2023-08-10 22:28:41",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-08-10 22:28:41",
       "album": {
-        "name": "WAP (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 187541,
-      "name": "WAP (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
+      "duration_ms": 210560,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
     },
     {
       "added_at": "2023-08-10 22:28:41",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-08-10 22:28:41",
       "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Don't Tell 'Em",
-      "url": "https://open.spotify.com/track/0Dc7J9VPV4eOInoxUiZrsL"
-    },
-    {
-      "added_at": "2023-08-10 22:28:41",
-      "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
         "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 323480,
       "name": "Drunk in Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
+    },
+    {
+      "added_at": "2023-08-10 22:28:41",
+      "album": {
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Don't Tell 'Em",
+      "url": "https://open.spotify.com/track/0Dc7J9VPV4eOInoxUiZrsL"
     },
     {
       "added_at": "2023-08-10 22:28:41",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-08-10 22:28:41",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX"
-    },
-    {
-      "added_at": "2023-08-10 22:28:41",
-      "album": {
         "name": "War & Leisure",
         "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 259333,
       "name": "Sky Walker (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
+    },
+    {
+      "added_at": "2023-08-10 22:28:41",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX"
     },
     {
       "added_at": "2023-08-10 22:28:41",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-08-10 22:28:41",
       "album": {
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 168096,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/5BsGmbPJyupA70FlD7NtbS"
+    },
+    {
+      "added_at": "2023-08-10 22:28:41",
+      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 193740,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV"
-    },
-    {
-      "added_at": "2023-08-10 22:28:41",
-      "album": {
-        "name": "Broke with Expensive Taste",
-        "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 168096,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/5BsGmbPJyupA70FlD7NtbS"
     },
     {
       "added_at": "2023-08-10 22:28:41",

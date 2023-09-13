@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,832 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,075 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 49 | [Cheek to Cheek](https://open.spotify.com/track/5qWXXF3On2xUfVu1ND1NLN) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Essential Fred Astaire](https://open.spotify.com/album/6orVWVR9Uc0hTylcLi5JTP) | 3:18 |
 | 50 | [Sea Of Love](https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt) | [Phil Phillips & The Twilights](https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW) | [Sea Of Love: The Collection](https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB) | 2:21 |
 
-Snapshot ID: `MCw2ZmM1Y2FjNWM0OTc5YTZkYWExYTJmMDFmYmY5M2NlM2YyYWY2OGVh`
+Snapshot ID: `MCwxMzA1ZWE5YzM2OTQ4MWVjMDk5NGNmMTZmNWIwY2I2ODc3NTkwMjhk`

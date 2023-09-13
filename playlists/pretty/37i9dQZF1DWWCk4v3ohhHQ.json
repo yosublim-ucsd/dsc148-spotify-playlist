@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 182166,
+  "num_followers": 182379,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2M1YWEzYjdiMGUzMjM0NTBiY2E2MjY1MDQ1NjA3ZWZiNmQwODJj",
+  "snapshot_id": "MCxmODFmY2FkZDk1YTVlOGNlMGQ0MTZlMjI5NWRlY2Q3MGJkOTI3NjY3",
   "tracks": [
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Baptized (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6UTadUeCxnizkSKAS1VHs4"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Battleships",
-      "url": "https://open.spotify.com/track/0YpzP03QziAgqcZSCtjbl2"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Strangeland",
         "url": "https://open.spotify.com/album/7CrzFBSIGuZA07hjRM6HxH"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 218840,
       "name": "Sovereign Light Caf\u00e9",
       "url": "https://open.spotify.com/track/38v9pKVik1eEJhpSuh97oc"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Baptized (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6UTadUeCxnizkSKAS1VHs4"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Battleships",
+      "url": "https://open.spotify.com/track/0YpzP03QziAgqcZSCtjbl2"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
+        "name": "Strangeland (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Silenced By The Night",
+      "url": "https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 215960,
       "name": "Start A Riot",
       "url": "https://open.spotify.com/track/3cpOqFZ30z5cUJUC9MYaar"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
-        "name": "Strangeland (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Silenced By The Night",
-      "url": "https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL"
     },
     {
       "added_at": "2022-11-17 15:48:46",

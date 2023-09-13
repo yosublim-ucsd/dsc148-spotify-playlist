@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas de la escena featuring TAICHU.",
-  "num_followers": 30638,
+  "num_followers": 30660,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODA4NWU5NDI0OTEyODNiYjAwZmVkYjA2OGVlOGQ0ZmQzYzg2NWY3",
+  "snapshot_id": "MCwxN2E0ZGZiNGE4OTY2YTliMWFjNGE2YjE2YTg0YjQ2YzJjNmZiMDVk",
   "tracks": [
     {
       "added_at": "2023-08-24 18:49:51",
@@ -87,22 +87,6 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2023-08-24 18:49:51",
-      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 226093,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
+    },
+    {
+      "added_at": "2023-08-24 18:49:51",
+      "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -247,18 +247,22 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
+      "duration_ms": 218800,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -283,22 +287,18 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 218800,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2023-08-24 18:49:51",
+      "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
-    },
-    {
-      "added_at": "2023-08-24 18:49:51",
-      "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -463,18 +463,22 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 122226,
-      "name": "CHICKEN TERIYAKI",
-      "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
+      "duration_ms": 168508,
+      "name": "intoxicao",
+      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -515,22 +519,18 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 168508,
-      "name": "intoxicao",
-      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
+      "duration_ms": 122226,
+      "name": "CHICKEN TERIYAKI",
+      "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
-    },
-    {
-      "added_at": "2023-08-24 18:49:51",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
       },
@@ -619,22 +603,18 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "Nena Trampa (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 178992,
-      "name": "Glock",
-      "url": "https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T"
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -655,6 +635,26 @@
       "duration_ms": 180000,
       "name": "la luz(F\u00edn)",
       "url": "https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6"
+    },
+    {
+      "added_at": "2023-08-24 18:49:51",
+      "album": {
+        "name": "Nena Trampa (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 178992,
+      "name": "Glock",
+      "url": "https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -711,22 +711,22 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "DESPECH\u00c1 RMX",
-        "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 170827,
-      "name": "DESPECH\u00c1 RMX",
-      "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
+      "duration_ms": 228602,
+      "name": "fue mejor",
+      "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -747,22 +747,22 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+        "name": "DESPECH\u00c1 RMX",
+        "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 228602,
-      "name": "fue mejor",
-      "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
+      "duration_ms": 170827,
+      "name": "DESPECH\u00c1 RMX",
+      "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "besitos, cu\u00eddate",
-        "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 173427,
-      "name": "narcisa",
-      "url": "https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg"
-    },
-    {
-      "added_at": "2023-08-24 18:49:51",
-      "album": {
         "name": "FASHION DILLER",
         "url": "https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 161638,
       "name": "FASHION DILLER",
       "url": "https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU"
+    },
+    {
+      "added_at": "2023-08-24 18:49:51",
+      "album": {
+        "name": "besitos, cu\u00eddate",
+        "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 173427,
+      "name": "narcisa",
+      "url": "https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "RAWR",
-        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 95008,
-      "name": "TOP",
-      "url": "https://open.spotify.com/track/77N6k3ZPLq0FpSdQBZMyNs"
-    },
-    {
-      "added_at": "2023-08-24 18:49:51",
-      "album": {
         "name": "Ricota",
         "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 160880,
       "name": "Ricota",
       "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+    },
+    {
+      "added_at": "2023-08-24 18:49:51",
+      "album": {
+        "name": "RAWR",
+        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 95008,
+      "name": "TOP",
+      "url": "https://open.spotify.com/track/77N6k3ZPLq0FpSdQBZMyNs"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
+        "name": "Peligrosa",
+        "url": "https://open.spotify.com/album/0zIzGFpdewLtEFH5iofXtU"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/3LZpREjBfKM1y53OrCBlX1"
+    },
+    {
+      "added_at": "2023-08-24 18:49:51",
+      "album": {
         "name": "La Torta",
         "url": "https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA"
       },
@@ -1547,30 +1563,6 @@
       "duration_ms": 157422,
       "name": "Te cargo la 9",
       "url": "https://open.spotify.com/track/1JGYOhkZMOh1qZgAiCayX1"
-    },
-    {
-      "added_at": "2023-08-24 18:49:51",
-      "album": {
-        "name": "Solita (Remix)",
-        "url": "https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C"
-      },
-      "artists": [
-        {
-          "name": "Mechi Pieretti",
-          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Solita - Remix",
-      "url": "https://open.spotify.com/track/1hFC3OfExDADVLCAQDgUr8"
     }
   ],
   "unique_name": "EQUAL Urbano",

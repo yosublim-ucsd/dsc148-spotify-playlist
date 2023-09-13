@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=ocADamumSRy0dYjZEFLB1g">aboynamedblu</a>
 
-468 songs - 1 day 2 hr 59 min
+469 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Automatic License](https://open.spotify.com/track/1RWRpz83sXsUDDTmJFC4xK) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [I Heard You Tried to Fight the Sky](https://open.spotify.com/album/5h4MVuT8kyyXwVA73GWWZ2) | 2:22 | 2022-09-29 | 2022-10-07 |
 | [b r o k e n](https://open.spotify.com/track/4zSvDZHmk0mcxwy1ZbeVsL) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [b r o k e n](https://open.spotify.com/album/6pn0943eZvVAcyuyA7FZKF) | 2:55 | 2022-09-29 | 2022-11-25 |
 | [Baby from Atlanta](https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Baby from Atlanta](https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc) | 3:19 | 2023-03-02 | 2023-04-15 |
-| [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-08-24 |  |
+| [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-24 |  |
+| [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-08-24 | 2023-09-13 |
 | [Bad Boy](https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Bad Boy](https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV) | 2:55 | 2023-06-01 | 2023-07-29 |
 | [Bad For My Health](https://open.spotify.com/track/5b7Fs1ejAcHoD02OyDIqYB) | [SunMan](https://open.spotify.com/artist/764M3FNYq1z8yMJfIDi3x1) | [Bad For My Health](https://open.spotify.com/album/45mHDL2ssD8mlsWGLe0mCw) | 2:57 | 2023-03-02 | 2023-04-22 |
 | [bad for you](https://open.spotify.com/track/1ZDT1Iz7AmTAeLEzVjlXzc) | [Ananya](https://open.spotify.com/artist/2Q32KkhT2YnVgCpAvrnhen) | [bad for you](https://open.spotify.com/album/1Zl3wokhmALoXoukyQDbJj) | 3:06 | 2023-08-17 | 2023-09-02 |

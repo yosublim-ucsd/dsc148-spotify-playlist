@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023! \u2600\ufe0f\ud83c\udf79\ud83c\udfdd\ufe0f",
-  "num_followers": 99962,
+  "num_followers": 100041,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTRhYjBmOTBjMmE3MDU0ZGQ2Y2Y2MDcwNTRhMzJjYTBmZjE0N2M3",
+  "snapshot_id": "MCw4OTM3MjY3ZDE2MDY0MDhhMjQ4ZWUxOWRlN2M1MTBhNmJkZTIyZDVk",
   "tracks": [
     {
       "added_at": "2023-09-01 02:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-09-01 02:01:00",
       "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
+    },
+    {
+      "added_at": "2023-09-01 02:01:00",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 188731,
       "name": "Run",
       "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
-    },
-    {
-      "added_at": "2023-09-01 02:01:00",
-      "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2023-09-01 02:01:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-09-01 02:01:00",
       "album": {
+        "name": "Easy On My Heart",
+        "url": "https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 178593,
+      "name": "Easy On My Heart",
+      "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
+    },
+    {
+      "added_at": "2023-09-01 02:01:00",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
       },
@@ -1351,42 +1367,6 @@
     {
       "added_at": "2023-09-01 02:01:00",
       "album": {
-        "name": "Easy On My Heart",
-        "url": "https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 178593,
-      "name": "Easy On My Heart",
-      "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
-    },
-    {
-      "added_at": "2023-09-01 02:01:00",
-      "album": {
-        "name": "Good Feeling (feat. Rhys Lewis)",
-        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 214942,
-      "name": "Good Feeling (feat. Rhys Lewis)",
-      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
-    },
-    {
-      "added_at": "2023-09-01 02:01:00",
-      "album": {
         "name": "Better (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
@@ -1411,6 +1391,26 @@
     {
       "added_at": "2023-09-01 02:01:00",
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 192614,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
+    },
+    {
+      "added_at": "2023-09-01 02:01:00",
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 129479,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
-    },
-    {
-      "added_at": "2023-09-01 02:01:00",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/4JbY02dRmfHxC2PQvEV27k"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 187990,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/3x7jbRUvcoULvi1WFEHo5w"
     },
     {
       "added_at": "2023-09-01 02:01:00",
@@ -1483,6 +1467,22 @@
       "duration_ms": 196021,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX"
+    },
+    {
+      "added_at": "2023-09-01 02:01:00",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/4JbY02dRmfHxC2PQvEV27k"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 187990,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/3x7jbRUvcoULvi1WFEHo5w"
     },
     {
       "added_at": "2023-09-01 02:01:00",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-09-01 02:01:00",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 192614,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
-    },
-    {
-      "added_at": "2023-09-01 02:01:00",
-      "album": {
         "name": "Jacar\u00e9",
         "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 156620,
       "name": "Jacar\u00e9",
       "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
+    },
+    {
+      "added_at": "2023-09-01 02:01:00",
+      "album": {
+        "name": "Good Feeling (feat. Rhys Lewis)",
+        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
     },
     {
       "added_at": "2023-09-01 02:01:00",
@@ -1695,30 +1695,6 @@
     {
       "added_at": "2023-09-01 02:01:00",
       "album": {
-        "name": "Coming Home (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 136866,
-      "name": "Coming Home (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo"
-    },
-    {
-      "added_at": "2023-09-01 02:01:00",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
@@ -1775,6 +1751,46 @@
     {
       "added_at": "2023-09-01 02:01:00",
       "album": {
+        "name": "Coming Home (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 136866,
+      "name": "Coming Home (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo"
+    },
+    {
+      "added_at": "2023-09-01 02:01:00",
+      "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 167362,
+      "name": "Stick Your Tongue Out",
+      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+    },
+    {
+      "added_at": "2023-09-01 02:01:00",
+      "album": {
         "name": "Do You Dance?",
         "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 211452,
       "name": "Looking For Me",
       "url": "https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt"
-    },
-    {
-      "added_at": "2023-09-01 02:01:00",
-      "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 167362,
-      "name": "Stick Your Tongue Out",
-      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
     },
     {
       "added_at": "2023-09-01 02:01:00",
@@ -1875,58 +1875,6 @@
     {
       "added_at": "2023-09-01 02:01:00",
       "album": {
-        "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
-        "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        },
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
-      "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
-    },
-    {
-      "added_at": "2023-09-01 02:01:00",
-      "album": {
-        "name": "Madan (King)",
-        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Madan (King)",
-      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
-    },
-    {
-      "added_at": "2023-09-01 02:01:00",
-      "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
-    },
-    {
-      "added_at": "2023-09-01 02:01:00",
-      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -1947,18 +1895,54 @@
     {
       "added_at": "2023-09-01 02:01:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3gWdVvk4ba5ibey7MBDEvd"
+        "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
+        "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        },
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
         }
       ],
-      "duration_ms": 151935,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/3CTLH5sQ7doPG5ZQrF7NN5"
+      "duration_ms": 213733,
+      "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
+      "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
+    },
+    {
+      "added_at": "2023-09-01 02:01:00",
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
+      "added_at": "2023-09-01 02:01:00",
+      "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
     },
     {
       "added_at": "2023-09-01 02:01:00",
@@ -1979,6 +1963,22 @@
       "duration_ms": 182564,
       "name": "Run Into Trouble",
       "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
+    },
+    {
+      "added_at": "2023-09-01 02:01:00",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3gWdVvk4ba5ibey7MBDEvd"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 151935,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/3CTLH5sQ7doPG5ZQrF7NN5"
     },
     {
       "added_at": "2023-09-01 02:01:00",

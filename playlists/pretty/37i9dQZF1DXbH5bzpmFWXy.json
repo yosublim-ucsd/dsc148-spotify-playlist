@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Lefty SM en portada.",
-  "num_followers": 143480,
+  "num_followers": 143812,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWU4ZGU1YWNjZjhkZTlhYTY1NDY5ZDQxNGVlNjM1MzAyYzUzNWRm",
+  "snapshot_id": "MCxjMGE3YWM2ZDNiOTFjY2ZkMzA1NGE2Mjg3N2QzOGE0YWVmYTcxODUz",
   "tracks": [
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "En Blindadas",
-        "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
-      },
-      "artists": [
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 190154,
-      "name": "En Blindadas",
-      "url": "https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
         "name": "Aventador",
         "url": "https://open.spotify.com/album/2oJmzxo3F84tztXqVBBGFH"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 205973,
       "name": "Aventador",
       "url": "https://open.spotify.com/track/2SRCfCdP87iGCMaujggKMY"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
+        "name": "En Blindadas",
+        "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 190154,
+      "name": "En Blindadas",
+      "url": "https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -1235,22 +1215,22 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "Una 45",
-        "url": "https://open.spotify.com/album/0wc26q3gjwL5zJ3NFosd6I"
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
       "artists": [
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
         }
       ],
-      "duration_ms": 113130,
-      "name": "Una 45",
-      "url": "https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa"
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1283,6 +1263,26 @@
       "duration_ms": 212000,
       "name": "Tirando Flow Sesh #11 (feat. El Bogueto & Ritorukai)",
       "url": "https://open.spotify.com/track/77IPE0PA44eThYC41I3Dzh"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
+        "name": "Una 45",
+        "url": "https://open.spotify.com/album/0wc26q3gjwL5zJ3NFosd6I"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 113130,
+      "name": "Una 45",
+      "url": "https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa"
     },
     {
       "added_at": "2023-09-08 06:00:00",

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Coco Gauff
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Xavier Gipson
 
 532 songs - 1 day 3 hr 7 min
 

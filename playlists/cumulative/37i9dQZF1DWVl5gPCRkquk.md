@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-280 songs - 17 hr 34 min
+281 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 | 2022-04-15 | 2023-02-01 |
 | [A Mermaid in Lisbon](https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Teresa Salgueiro](https://open.spotify.com/artist/49W26EcOwY0UdytNfa3zGH) | [A Mermaid in Lisbon](https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd) | 3:28 | 2021-10-29 |  |
 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 | 2021-10-29 | 2023-05-15 |
+| [Alone](https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Same Sun EP](https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH) | 2:39 | 2023-09-01 |  |
 | [Alright](https://open.spotify.com/track/46ObixVcmGOy84ud9XDSgB) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Birdtalker](https://open.spotify.com/album/4nGfaiyuZRujKnApMPFBj6) | 3:39 | 2021-10-29 | 2022-07-29 |
 | [America](https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H), [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d), [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [America](https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby) | 4:11 | 2021-10-29 | 2023-04-13 |
 | [Amsterdam](https://open.spotify.com/track/1sIAk1Hpj5YsMyYYtTsdal) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam](https://open.spotify.com/album/6Ju9oTtTNypA2En3jEoXWP) | 3:33 | 2021-10-29 | 2022-07-29 |
@@ -158,7 +159,7 @@
 | [Lie to Me](https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Lie to Me](https://open.spotify.com/album/4FfQqWJbo7vCoC3oxz3k7E) | 3:25 | 2021-10-29 | 2022-07-25 |
 | [Lighthouse](https://open.spotify.com/track/36EZQkrc24v7LkFnUFbG0y) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/5jPgTebUcZ6KyqNmYEhP07) | 3:24 | 2022-04-15 | 2022-04-20 |
 | [Limb](https://open.spotify.com/track/2maREpp3D44pj1yCM3o0sq) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Fragments EP](https://open.spotify.com/album/6MFubeEasrCBNKpo26Ddx9) | 3:26 | 2021-11-24 | 2022-05-23 |
-| [Little Lover](https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 4:50 | 2022-04-15 |  |
+| [Little Lover](https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 4:50 | 2022-04-15 | 2023-09-13 |
 | [Little Lover](https://open.spotify.com/track/7atukzwVcRwDfzTQwJTvKm) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj) | 4:50 | 2021-10-29 | 2022-04-21 |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2021-10-29 |  |
 | [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 | 2021-10-29 |  |

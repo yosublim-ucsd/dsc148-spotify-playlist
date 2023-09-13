@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Joey Montana
 
-310 songs - 18 hr 15 min
+311 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 | 2022-01-28 | 2022-06-30 |
 | [Pa' Chingar](https://open.spotify.com/track/275YJY0cO4UcAt9MLHy3kl) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Pa' Chingar](https://open.spotify.com/album/0ypIFf0OFftKO6pm7VHHNa) | 2:38 | 2022-04-29 | 2022-06-30 |
 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 | 2022-01-01 | 2022-06-30 |
+| [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 | 2023-09-08 |  |
 | [Para Mi Viejo](https://open.spotify.com/track/1XLBz0hJhf7lDG6pFGDwt9) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Para Mi Viejo](https://open.spotify.com/album/3HhN9SDOMxvTRGp82PAIK0) | 3:49 | 2022-01-01 | 2022-06-30 |
 | [Para Toda la Vida](https://open.spotify.com/track/0qgBp4NwYl2URZ6zkPaCJp) | [Pamel](https://open.spotify.com/artist/48jGc4i11EImovz6WgKLbB) | [Para Toda la Vida](https://open.spotify.com/album/7aHDbYPKWVuWjiOB4rKybA) | 3:17 | 2022-01-01 | 2022-06-30 |
 | [Pasarela](https://open.spotify.com/track/4nWQcZu84VTHqWJBac6KMI) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Pasarela](https://open.spotify.com/album/7LlkJqeKRlr3rALJN4mCYB) | 3:51 | 2022-01-01 | 2022-06-30 |
@@ -258,7 +259,7 @@
 | [Si se fue, se fue](https://open.spotify.com/track/1ZVE8ZUI31bleE7vEC8RQG) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Si se fue, se fue](https://open.spotify.com/album/783J1gQIsaFy8bQtSlFlt7) | 4:23 | 2022-03-25 | 2023-01-21 |
 | [Si Se Fue, Se Fue](https://open.spotify.com/track/4SLbr18lq9IEjkp7i48z3o) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Al Son del Amor](https://open.spotify.com/album/6goR8Q0XST04Tef97Gy1aB) | 4:23 | 2022-06-29 | 2023-01-14 |
 | [Si Te Preguntan...](https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Si Te Preguntan...](https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9) | 3:43 | 2022-06-29 | 2023-05-13 |
-| [Si Tu La Ves](https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Si Tu La Ves](https://open.spotify.com/album/4YViEFHtIfrWhgV6JTDUNN) | 3:13 | 2023-07-14 |  |
+| [Si Tu La Ves](https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Si Tu La Ves](https://open.spotify.com/album/4YViEFHtIfrWhgV6JTDUNN) | 3:13 | 2023-07-14 | 2023-09-13 |
 | [Si Tú Me Dices Ven \- Versión Salsa](https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:39 | 2022-01-01 | 2022-03-26 |
 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 | 2023-04-21 |  |
 | [Sin Amenazas](https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sin Amenazas](https://open.spotify.com/album/6LSl2OOTA6nE0Gt6Sk6dU8) | 4:18 | 2022-01-01 | 2022-03-26 |

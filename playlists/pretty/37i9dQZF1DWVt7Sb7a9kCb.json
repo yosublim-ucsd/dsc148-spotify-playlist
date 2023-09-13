@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 168244,
+  "num_followers": 168285,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzdjM2YyY2IwNmQwYTNhNDUyZmU3OTc1YWZiNWExNDlkNWVhYWU0",
+  "snapshot_id": "MCxmYjI5NjU0ZmJmZmIyNTg5NjA3YjI5NTMwYjdiZWZkMzU0Y2M1ZGYz",
   "tracks": [
     {
       "added_at": "2023-09-08 23:17:30",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-09-08 23:17:30",
       "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 181068,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak"
+    },
+    {
+      "added_at": "2023-09-08 23:17:30",
+      "album": {
         "name": "Apaga la Luz",
         "url": "https://open.spotify.com/album/4UfXhzN4scJjic6pl8AkAF"
       },
@@ -1623,26 +1639,6 @@
     {
       "added_at": "2023-09-08 23:17:30",
       "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199881,
-      "name": "Amor en Coma",
-      "url": "https://open.spotify.com/track/0kRU83ecI57Iw1kPTeUwK5"
-    },
-    {
-      "added_at": "2023-09-08 23:17:30",
-      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
       },
@@ -1659,6 +1655,26 @@
       "duration_ms": 225640,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
+    },
+    {
+      "added_at": "2023-09-08 23:17:30",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199881,
+      "name": "Amor en Coma",
+      "url": "https://open.spotify.com/track/0kRU83ecI57Iw1kPTeUwK5"
     },
     {
       "added_at": "2023-09-08 23:17:30",
@@ -1695,42 +1711,6 @@
     {
       "added_at": "2023-09-08 23:17:30",
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 181068,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak"
-    },
-    {
-      "added_at": "2023-09-08 23:17:30",
-      "album": {
-        "name": "POKE FREESTYLE",
-        "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Papi Sousa",
-          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "POKE FREESTYLE",
-      "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
-    },
-    {
-      "added_at": "2023-09-08 23:17:30",
-      "album": {
         "name": "Canciones Pa Mi Ex Vol.1",
         "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 138285,
       "name": "ARCHIVO 1.wav",
       "url": "https://open.spotify.com/track/3t7n87HvJDzsJqadkISqUE"
+    },
+    {
+      "added_at": "2023-09-08 23:17:30",
+      "album": {
+        "name": "POKE FREESTYLE",
+        "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        }
+      ],
+      "duration_ms": 203293,
+      "name": "POKE FREESTYLE",
+      "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
     },
     {
       "added_at": "2023-09-08 23:17:30",

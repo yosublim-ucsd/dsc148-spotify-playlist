@@ -1,12 +1,12 @@
 {
   "description": "Set the mood just right...",
-  "num_followers": 1741707,
+  "num_followers": 1742626,
   "original_name": "Make Out Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NThiNTRiNTk3NjBmMWQwM2M0MzBjMmJjMDA1MzhlYzg5ZGNkOGFl",
+  "snapshot_id": "MCxmZmJkYzg2MjY2NzE5YzgwMjVlNjE2MDUxYTg2ZDM0YjBkZjBhZDBl",
   "tracks": [
     {
       "added_at": "2023-09-05 14:13:18",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-09-05 14:13:18",
       "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Like Crazy (English Version)",
-      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
-    },
-    {
-      "added_at": "2023-09-05 14:13:18",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 219742,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN"
+    },
+    {
+      "added_at": "2023-09-05 14:13:18",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Like Crazy (English Version)",
+      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
     },
     {
       "added_at": "2023-09-05 14:13:18",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-09-05 14:13:18",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+      "duration_ms": 110128,
+      "name": "Clouded",
+      "url": "https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn"
     },
     {
       "added_at": "2023-09-05 14:13:18",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-09-05 14:13:18",
       "album": {
-        "name": "Fuck The World",
-        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 110128,
-      "name": "Clouded",
-      "url": "https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn"
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
     },
     {
       "added_at": "2023-09-05 14:13:18",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-09-05 14:13:18",
       "album": {
-        "name": "Growin' Up",
-        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
         }
       ],
-      "duration_ms": 224426,
-      "name": "The Kind of Love We Make",
-      "url": "https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
       "added_at": "2023-09-05 14:13:18",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-09-05 14:13:18",
       "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
       },
       "artists": [
         {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+      "duration_ms": 224426,
+      "name": "The Kind of Love We Make",
+      "url": "https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"
     },
     {
       "added_at": "2023-09-05 14:13:18",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-09-05 14:13:18",
       "album": {
+        "name": "CASE STUDY 01",
+        "url": "https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 194959,
+      "name": "CYANIDE",
+      "url": "https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ"
+    },
+    {
+      "added_at": "2023-09-05 14:13:18",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU"
-    },
-    {
-      "added_at": "2023-09-05 14:13:18",
-      "album": {
-        "name": "CASE STUDY 01",
-        "url": "https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 194959,
-      "name": "CYANIDE",
-      "url": "https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ"
     },
     {
       "added_at": "2023-09-05 14:13:18",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-09-05 14:13:18",
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 254319,
+      "name": "PLASTIC OFF THE SOFA",
+      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
+    },
+    {
+      "added_at": "2023-09-05 14:13:18",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl"
-    },
-    {
-      "added_at": "2023-09-05 14:13:18",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 254319,
-      "name": "PLASTIC OFF THE SOFA",
-      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
     },
     {
       "added_at": "2023-09-05 14:13:18",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-09-05 14:13:18",
       "album": {
-        "name": "Sunbeam",
-        "url": "https://open.spotify.com/album/0bfXZQxSJElGATQnCvFSMc"
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
       },
       "artists": [
         {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 135346,
-      "name": "If You Let Me",
-      "url": "https://open.spotify.com/track/4gEQcoKNoLFLyhory3Y5Zr"
+      "duration_ms": 188323,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
     }
   ],
   "unique_name": "Make Out Jams",

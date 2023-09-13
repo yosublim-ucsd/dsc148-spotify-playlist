@@ -1,12 +1,12 @@
 {
   "description": "150%",
-  "num_followers": 1755562,
+  "num_followers": 1757504,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmIyY2Y5ZjA3YTA2Y2ZmMmQ3MWU2MTE1NzY4MzFlMGJlZjllOTRh",
+  "snapshot_id": "MCxkYjg2MzRmMDhmMjAzYzMzNTFmZjJhOGE3ZjhkNjZkYzMxZGFiZTAy",
   "tracks": [
     {
       "added_at": "2023-08-04 16:04:56",
@@ -283,6 +283,22 @@
       "duration_ms": 156436,
       "name": "moonlight (kali uchis) - sped up version",
       "url": "https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n"
+    },
+    {
+      "added_at": "2023-09-12 14:49:55",
+      "album": {
+        "name": "Stereo Love (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4M7Z0H4Bvl8zKCMINicWrz"
+      },
+      "artists": [
+        {
+          "name": "Stereo Lovers",
+          "url": "https://open.spotify.com/artist/2weQgeRFnIk3MXcWadk10U"
+        }
+      ],
+      "duration_ms": 157355,
+      "name": "Stereo Love - Sped Up Version",
+      "url": "https://open.spotify.com/track/7AjU3sce5VrGGxHjGDy7ZZ"
     },
     {
       "added_at": "2023-08-04 16:04:56",

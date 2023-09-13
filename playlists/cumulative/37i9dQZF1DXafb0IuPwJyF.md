@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 音田 雅則\(Masanori Otoda\)
 
-1,005 songs - 2 day 14 hr 36 min
+1,006 songs - 2 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [CHASE](https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [CHASE](https://open.spotify.com/album/59rUpax1sOQhOkh8v3R7JU) | 3:10 | 2022-07-03 | 2022-07-11 |
 | [Cheers](https://open.spotify.com/track/1BjNUu608nOEvEtMETFnlB) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Cheers](https://open.spotify.com/album/2o9dAH1dNC3UD1gbIr8RN5) | 3:52 | 2022-05-01 | 2022-07-18 |
 | [Cheers](https://open.spotify.com/track/6B0CCq2EuUmjFEy4tTHG8I) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Cheers](https://open.spotify.com/album/1oqG9p7J2jOO8UWQukqiOF) | 3:49 | 2023-03-12 | 2023-03-20 |
-| [Chessboard](https://open.spotify.com/track/4iXhDPO4JBOkARTdtAmdAH) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Chessboard](https://open.spotify.com/album/6gWANFbojnrmrdNDfr4ka0) | 5:21 | 2023-08-13 |  |
+| [Chessboard](https://open.spotify.com/track/4iXhDPO4JBOkARTdtAmdAH) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Chessboard](https://open.spotify.com/album/6gWANFbojnrmrdNDfr4ka0) | 5:21 | 2023-08-13 | 2023-09-13 |
 | [CHILL CHILL MICHELLE feat\. SUDA MASAKI](https://open.spotify.com/track/2JVOI4H7atEqOUVdmPZ4RA) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [CHILL CHILL MICHELLE feat\. SUDA MASAKI](https://open.spotify.com/album/4JOhow7VJUDmmdYWbjVvvC) | 4:23 | 2023-04-16 | 2023-04-24 |
 | [Choices](https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Choices](https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI) | 3:21 | 2023-01-15 | 2023-01-30 |
 | [Chopstick](https://open.spotify.com/track/0X40DgD7jJr5DeiGXFAfcl) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Chopstick](https://open.spotify.com/album/3JZe3XL47MvVW571DbXN9S) | 2:57 | 2021-12-19 | 2022-01-03 |
@@ -873,6 +873,7 @@
 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 | 2023-05-14 | 2023-08-28 |
 | [新呼吸](https://open.spotify.com/track/6AQfpBDkerfo3AWJUMr7ND) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [新呼吸](https://open.spotify.com/album/6ZWyL8ksiCKbmtUkyIgnfy) | 3:38 | 2021-12-19 | 2022-01-03 |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-12 | 2022-10-09 |
+| [日常](https://open.spotify.com/track/1jNVSP5r2X1iVDlJfXKarA) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [日常](https://open.spotify.com/album/4bCIwb2Qs20Uthvh4JvAyF) | 5:53 | 2023-09-12 |  |
 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 | 2022-12-19 | 2023-07-17 |
 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 | 2022-04-17 | 2022-06-20 |
 | [星月夜](https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [星月夜](https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ) | 4:25 | 2023-02-19 | 2023-04-17 |

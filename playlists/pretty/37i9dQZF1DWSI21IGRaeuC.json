@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 25012,
+  "num_followers": 25095,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2Y3MzlhYTA5ZGM5YTllMWYxZGFjODc2MWRmOTQxNzE4MDJiMDFj",
+  "snapshot_id": "MCwyNjhmNDEyOTRiYzEyZTkzNzBlYmQ1YjA5NzAxOTFmMjZkNWQ4MjI3",
   "tracks": [
     {
       "added_at": "2023-09-08 14:00:39",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-08 14:00:39",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 336504,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
-    },
-    {
-      "added_at": "2023-09-08 14:00:39",
-      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
+    },
+    {
+      "added_at": "2023-09-08 14:00:39",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
       "added_at": "2023-09-08 14:00:39",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-09-08 14:00:39",
       "album": {
+        "name": "Hip Trumpets",
+        "url": "https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        },
+        {
+          "name": "KVISION",
+          "url": "https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR"
+        }
+      ],
+      "duration_ms": 195238,
+      "name": "Hip Trumpets",
+      "url": "https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou"
+    },
+    {
+      "added_at": "2023-09-08 14:00:39",
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 518400,
       "name": "Geh\u00f6rschadengenerator",
       "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
-    },
-    {
-      "added_at": "2023-09-08 14:00:39",
-      "album": {
-        "name": "Hip Trumpets",
-        "url": "https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
-        },
-        {
-          "name": "KVISION",
-          "url": "https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR"
-        }
-      ],
-      "duration_ms": 195238,
-      "name": "Hip Trumpets",
-      "url": "https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou"
     },
     {
       "added_at": "2023-09-08 14:00:39",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-08 14:00:39",
       "album": {
-        "name": "Fuck The Regs EP",
-        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 204836,
-      "name": "Fuck The Regs",
-      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
-    },
-    {
-      "added_at": "2023-09-08 14:00:39",
-      "album": {
         "name": "Kuneh",
         "url": "https://open.spotify.com/album/7yxzjaabbnrkLcBYVRoBI7"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 188976,
       "name": "Kuneh - Edit",
       "url": "https://open.spotify.com/track/3NdCkGGx6tlWlQamjRjq3o"
+    },
+    {
+      "added_at": "2023-09-08 14:00:39",
+      "album": {
+        "name": "Fuck The Regs EP",
+        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 204836,
+      "name": "Fuck The Regs",
+      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
       "added_at": "2023-09-08 14:00:39",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-09-08 14:00:39",
       "album": {
-        "name": "N NIGHT",
-        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
-      },
-      "artists": [
-        {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
-        }
-      ],
-      "duration_ms": 454000,
-      "name": "N NIGHT",
-      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
-    },
-    {
-      "added_at": "2023-09-08 14:00:39",
-      "album": {
         "name": "Beeper Blowing Up",
         "url": "https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2023-09-08 14:00:39",
       "album": {
+        "name": "N NIGHT",
+        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
+      },
+      "artists": [
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "duration_ms": 454000,
+      "name": "N NIGHT",
+      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
+    },
+    {
+      "added_at": "2023-09-08 14:00:39",
+      "album": {
         "name": "Ole",
         "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
       },
@@ -1379,58 +1379,6 @@
       "duration_ms": 158343,
       "name": "Ole",
       "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
-    },
-    {
-      "added_at": "2023-09-08 14:00:39",
-      "album": {
-        "name": "Music4TheMasses (Andrea Oliva Remix)",
-        "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        },
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 187652,
-      "name": "Music4TheMasses - Andrea Oliva Remix",
-      "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
-    },
-    {
-      "added_at": "2023-09-08 14:00:39",
-      "album": {
-        "name": "Jump Ship",
-        "url": "https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 381431,
-      "name": "Jump Ship",
-      "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
-    },
-    {
-      "added_at": "2023-09-08 14:00:39",
-      "album": {
-        "name": "Lucky Bastard",
-        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Lucky Bastard",
-      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
     },
     {
       "added_at": "2023-09-08 14:00:39",
@@ -1455,18 +1403,54 @@
     {
       "added_at": "2023-09-08 14:00:39",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/6AouW9IqWg1GscmYMbrB2a"
+        "name": "Jump Ship",
+        "url": "https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp"
       },
       "artists": [
         {
-          "name": "Tone Troy",
-          "url": "https://open.spotify.com/artist/2QOdCLXGXs9uJbJ7LHPu31"
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/42EMEx5UEHL7NTeTx4IG8b"
+      "duration_ms": 381431,
+      "name": "Jump Ship",
+      "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
+    },
+    {
+      "added_at": "2023-09-08 14:00:39",
+      "album": {
+        "name": "Music4TheMasses (Andrea Oliva Remix)",
+        "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 187652,
+      "name": "Music4TheMasses - Andrea Oliva Remix",
+      "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+    },
+    {
+      "added_at": "2023-09-08 14:00:39",
+      "album": {
+        "name": "Lucky Bastard",
+        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Lucky Bastard",
+      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
     },
     {
       "added_at": "2023-09-08 14:00:39",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2023-09-08 14:00:39",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/6AouW9IqWg1GscmYMbrB2a"
+      },
+      "artists": [
+        {
+          "name": "Tone Troy",
+          "url": "https://open.spotify.com/artist/2QOdCLXGXs9uJbJ7LHPu31"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/42EMEx5UEHL7NTeTx4IG8b"
+    },
+    {
+      "added_at": "2023-09-08 14:00:39",
+      "album": {
         "name": "Really Really Hot",
         "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 232133,
       "name": "Really Really Hot",
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
+    },
+    {
+      "added_at": "2023-09-08 14:00:39",
+      "album": {
+        "name": "Kill The Soundboy",
+        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
+      },
+      "artists": [
+        {
+          "name": "Denney",
+          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
+        }
+      ],
+      "duration_ms": 404000,
+      "name": "Kill The Soundboy",
+      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
       "added_at": "2023-09-08 14:00:39",
@@ -1519,22 +1535,6 @@
       "duration_ms": 176210,
       "name": "Likkle Drop (feat. Kwame)",
       "url": "https://open.spotify.com/track/7fP89DrqJcr5cmvWBdkBBP"
-    },
-    {
-      "added_at": "2023-09-08 14:00:39",
-      "album": {
-        "name": "Kill The Soundboy",
-        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
-      },
-      "artists": [
-        {
-          "name": "Denney",
-          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "Kill The Soundboy",
-      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
       "added_at": "2023-09-08 14:00:39",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-09-08 14:00:39",
       "album": {
+        "name": "Rok The House",
+        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
+      },
+      "artists": [
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Rok The House",
+      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
+    },
+    {
+      "added_at": "2023-09-08 14:00:39",
+      "album": {
         "name": "Into The Hood",
         "url": "https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 362180,
       "name": "Into The Hood",
       "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
-    },
-    {
-      "added_at": "2023-09-08 14:00:39",
-      "album": {
-        "name": "Rok The House",
-        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
-      },
-      "artists": [
-        {
-          "name": "Ben Sterling",
-          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Rok The House",
-      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
     },
     {
       "added_at": "2023-09-08 14:00:39",

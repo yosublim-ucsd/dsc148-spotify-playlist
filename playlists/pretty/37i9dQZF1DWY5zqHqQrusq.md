@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,187 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,198 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 5 | [Forever yours](https://open.spotify.com/track/0dd0McSQVC7kxppAEunPQN) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Ndoa](https://open.spotify.com/album/3vKSPMAe4vy4p8LcaOygoR) | 4:35 |
 | 6 | [Wait](https://open.spotify.com/track/7zbQtW2Xb7NADsW6Yw6dIM) | [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Shorts \-EP](https://open.spotify.com/album/4ZxY4aQytI7Ydd1213HZRu) | 2:25 |
 | 7 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 |
-| 8 | [Like You](https://open.spotify.com/track/5H3ej9j2jqgGEN6qIXTnEq) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Kinoti](https://open.spotify.com/artist/5W3d0G7a0NxEBvDItmRenz) | [Wuodh Hera](https://open.spotify.com/album/4n8DWVD48VkPBhcbZ4mU1U) | 3:43 |
+| 8 | [Like You](https://open.spotify.com/track/5H3ej9j2jqgGEN6qIXTnEq) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Wuodh Hera](https://open.spotify.com/album/4n8DWVD48VkPBhcbZ4mU1U) | 3:43 |
 | 9 | [Who I Am](https://open.spotify.com/track/10tynOIFqckNWnTwKoydlU) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX) | [Konke](https://open.spotify.com/album/443uREi4EtPJTxpKgGJVG4) | 2:41 |
 | 10 | [OASIS](https://open.spotify.com/track/4mY9viBrQYRVOOINLmwI1I) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 3:34 |
 | 11 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [IN THE RAIN](https://open.spotify.com/track/4LolcPDdgSroaKquGfCFqt) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Full Circle](https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN) | 2:40 |
 | 50 | [time \(with my ex\)](https://open.spotify.com/track/3vdmUmL9RzhrQTD67w5dl6) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Legacy](https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha) | 2:30 |
 
-Snapshot ID: `MCxiNDgzODE5NTU1ZTMwNmQxMGU5NGM0YzA5Mjk3ZDJhMDAwY2M5MDgy`
+Snapshot ID: `MCwyZWQxOWEyY2IxYzg2N2RiNzgxNDlkZDY0MjkwNmM0ODk4MjBkNmE4`

@@ -1,12 +1,12 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 454597,
+  "num_followers": 454762,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWJkMzUwZTUxZmEwMmVjMmU5MzAzNzdjZTg5YmI0MTE1NjQxYjdj",
+  "snapshot_id": "MCw3M2U3ZDlhZmY5NjYyOTRjNzAwOGFlODQzNDg5Y2Q4NjUzZTdkZDNk",
   "tracks": [
     {
       "added_at": "2022-07-21 17:03:38",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 261153,
-      "name": "Castle on the Hill",
-      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -415,18 +415,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+      "duration_ms": 261153,
+      "name": "Castle on the Hill",
+      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
+        "name": "Up from Below",
+        "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
         "name": "What Is Love? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 217706,
       "name": "We Don't Talk Anymore (feat. Selena Gomez)",
       "url": "https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
-        "name": "Up from Below",
-        "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
     },
     {
       "added_at": "2022-07-21 17:03:38",

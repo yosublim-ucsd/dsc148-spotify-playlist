@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 171000,
       "name": "F.N.A.P.",
       "url": "https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l"
@@ -3440,6 +3440,24 @@
       "duration_ms": 272093,
       "name": "Hibi no Tezawari",
       "url": "https://open.spotify.com/track/5oKmJKvZrFGY64a3oouYkP"
+    },
+    {
+      "album": {
+        "name": "Hikari no Machi",
+        "url": "https://open.spotify.com/album/4QgRX4IxQhOEfSUL1LnaPW"
+      },
+      "artists": [
+        {
+          "name": "Shin Rizumu",
+          "url": "https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346923,
+      "name": "Hikari no Machi",
+      "url": "https://open.spotify.com/track/66QFHJUNaD4w22PKw6h6u8"
     },
     {
       "album": {
@@ -6305,6 +6323,24 @@
     },
     {
       "album": {
+        "name": "WE'LL DIE THIS WAY",
+        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "PRO",
+      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
+    },
+    {
+      "album": {
         "name": "Puffer",
         "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
       },
@@ -6418,6 +6454,24 @@
       "duration_ms": 212853,
       "name": "RECIPE",
       "url": "https://open.spotify.com/track/6zRjzLaCarPcnPUb4Zrh0W"
+    },
+    {
+      "album": {
+        "name": "Regrets",
+        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265961,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
     },
     {
       "album": {
@@ -6570,7 +6624,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 222818,
       "name": "Runner's High",
       "url": "https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR"
@@ -7844,7 +7898,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 205714,
       "name": "Take a Ride - ft. Amiide",
       "url": "https://open.spotify.com/track/6dJYvuD9jYsdPD2lGmTN3n"
@@ -8774,7 +8828,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 321333,
       "name": "Uneasy (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/6dotY5Ubbm5cLKBm6KQkZI"
@@ -10194,6 +10248,28 @@
       "duration_ms": 235438,
       "name": "\u7126\u304c\u308cNight",
       "url": "https://open.spotify.com/track/4tcU2rCJGCERolNoWf1EGG"
+    },
+    {
+      "album": {
+        "name": "\u7406\u60f3\u306e\u6cbc (feat. CHICO CARLITO)",
+        "url": "https://open.spotify.com/album/25EI00beApS5hOlLPxU91k"
+      },
+      "artists": [
+        {
+          "name": "Mizuki Ohira",
+          "url": "https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx"
+        },
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210541,
+      "name": "\u7406\u60f3\u306e\u6cbc (feat. CHICO CARLITO)",
+      "url": "https://open.spotify.com/track/3R8XIPLlpRQg0FYOb3z67e"
     },
     {
       "album": {

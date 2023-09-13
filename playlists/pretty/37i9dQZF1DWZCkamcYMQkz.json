@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 148503,
+  "num_followers": 148940,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmZmMjNiYmNiNWY4Y2RlMGRmZTBiZjUyMWY1MDkxM2RkYWMyNDRi",
+  "snapshot_id": "MCw5ZjIwMjM0MDE5NzFiM2I4NmMxNGExOTM4OWVkN2Q2N2RmNWM4ZGU5",
   "tracks": [
     {
       "added_at": "2023-09-06 11:15:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-09-06 11:15:00",
       "album": {
-        "name": "Gone For The Day",
-        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 137893,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
-    },
-    {
-      "added_at": "2023-09-06 11:15:00",
-      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 149080,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
+    },
+    {
+      "added_at": "2023-09-06 11:15:00",
+      "album": {
+        "name": "Gone For The Day",
+        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 137893,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
     },
     {
       "added_at": "2023-09-06 11:15:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-09-06 11:15:00",
       "album": {
-        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "John Hardy's Wife",
-      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
-    },
-    {
-      "added_at": "2023-09-06 11:15:00",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
+    },
+    {
+      "added_at": "2023-09-06 11:15:00",
+      "album": {
+        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "John Hardy's Wife",
+      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
     },
     {
       "added_at": "2023-09-06 11:15:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2023-09-06 11:15:00",
       "album": {
-        "name": "Oscar Peterson's Finest Hour",
-        "url": "https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 121266,
-      "name": "Mumbles",
-      "url": "https://open.spotify.com/track/0sguFXNUDV7rZ9GYB9v1r2"
-    },
-    {
-      "added_at": "2023-09-06 11:15:00",
-      "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 156493,
       "name": "Straighten Up And Fly Right",
       "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
+    },
+    {
+      "added_at": "2023-09-06 11:15:00",
+      "album": {
+        "name": "Oscar Peterson's Finest Hour",
+        "url": "https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 121266,
+      "name": "Mumbles",
+      "url": "https://open.spotify.com/track/0sguFXNUDV7rZ9GYB9v1r2"
     },
     {
       "added_at": "2023-09-06 11:15:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-09-06 11:15:00",
       "album": {
-        "name": "Exclusively for My Friends: Girl Talk, Vol. II",
-        "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 261609,
-      "name": "On a Clear Day (You Can See Forever) - Live",
-      "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
-    },
-    {
-      "added_at": "2023-09-06 11:15:00",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
         "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 152160,
       "name": "I Hear Music - Remastered",
       "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
+    },
+    {
+      "added_at": "2023-09-06 11:15:00",
+      "album": {
+        "name": "Exclusively for My Friends: Girl Talk, Vol. II",
+        "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 261609,
+      "name": "On a Clear Day (You Can See Forever) - Live",
+      "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
     },
     {
       "added_at": "2023-09-06 11:15:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-09-06 11:15:00",
       "album": {
+        "name": "Timba a la Americana",
+        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
+    },
+    {
+      "added_at": "2023-09-06 11:15:00",
+      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -1491,26 +1507,6 @@
       "duration_ms": 230813,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR"
-    },
-    {
-      "added_at": "2023-09-06 11:15:00",
-      "album": {
-        "name": "Taking A Chance On Love",
-        "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
-      },
-      "artists": [
-        {
-          "name": "V. Duke",
-          "url": "https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9"
-        },
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "Taking a Chance on Love",
-      "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
     },
     {
       "added_at": "2023-09-06 11:15:00",
@@ -1531,22 +1527,6 @@
     {
       "added_at": "2023-09-06 11:15:00",
       "album": {
-        "name": "Timba a la Americana",
-        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
-      },
-      "artists": [
-        {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        }
-      ],
-      "duration_ms": 181928,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
-    },
-    {
-      "added_at": "2023-09-06 11:15:00",
-      "album": {
         "name": "Blues Vaccine",
         "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 360306,
       "name": "Blues Vaccine",
       "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
+    },
+    {
+      "added_at": "2023-09-06 11:15:00",
+      "album": {
+        "name": "Taking A Chance On Love",
+        "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
+      },
+      "artists": [
+        {
+          "name": "V. Duke",
+          "url": "https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9"
+        },
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "Taking a Chance on Love",
+      "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
     },
     {
       "added_at": "2023-09-06 11:15:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-09-06 11:15:00",
       "album": {
-        "name": "Additions To Further Definitions",
-        "url": "https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 331386,
-      "name": "Doozy - 1966 Album Version",
-      "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
-    },
-    {
-      "added_at": "2023-09-06 11:15:00",
-      "album": {
         "name": "Not So Dukish",
         "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 343120,
       "name": "I'm an Old Cowhand",
       "url": "https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw"
+    },
+    {
+      "added_at": "2023-09-06 11:15:00",
+      "album": {
+        "name": "Additions To Further Definitions",
+        "url": "https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 331386,
+      "name": "Doozy - 1966 Album Version",
+      "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
     },
     {
       "added_at": "2023-09-06 11:15:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-09-06 11:15:00",
       "album": {
-        "name": "Sonic Boom",
-        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 333826,
-      "name": "Uncle Rough",
-      "url": "https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS"
-    },
-    {
-      "added_at": "2023-09-06 11:15:00",
-      "album": {
         "name": "Business Meetin'",
         "url": "https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 325666,
       "name": "Hip Trolley",
       "url": "https://open.spotify.com/track/45ePywU8XC3cgimQXcmFjj"
+    },
+    {
+      "added_at": "2023-09-06 11:15:00",
+      "album": {
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 333826,
+      "name": "Uncle Rough",
+      "url": "https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS"
     }
   ],
   "unique_name": "Feel Good Jazz",

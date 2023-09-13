@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 175597,
+  "num_followers": 175746,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWI1ZjIxMGJiNmRlODY4OGRjODJkMmQ0MTQ3NDUyNWM5YmRjOTkz",
+  "snapshot_id": "MCxjMGRkZTNkOTA2NzMyNWVhM2Q3ODQ5YWVmZmFlOTI4MzhkM2EyYWEy",
   "tracks": [
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Victor Garc\u00eda",
-        "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
+        "name": "Besos y Caricias",
+        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
       },
       "artists": [
         {
-          "name": "Victor Garcia",
-          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
         }
       ],
-      "duration_ms": 234586,
-      "name": "Y Ahora Te Vas",
-      "url": "https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe"
+      "duration_ms": 200053,
+      "name": "Presiento Que Voy a Llorar",
+      "url": "https://open.spotify.com/track/2YxHE4qEwBM127tIpdE2FM"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Besos y Caricias",
-        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
+        "name": "Victor Garc\u00eda",
+        "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
       },
       "artists": [
         {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Presiento Que Voy a Llorar",
-      "url": "https://open.spotify.com/track/2YxHE4qEwBM127tIpdE2FM"
+      "duration_ms": 234586,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 159300,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/0XScX16EPEVyOk5nCi49Hd"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Homenaje A Los Bukis",
         "url": "https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 619382,
       "name": "Homenaje A Los Bukis",
       "url": "https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 159300,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/0XScX16EPEVyOk5nCi49Hd"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Desamor y Despecho",
-        "url": "https://open.spotify.com/album/7otDfsqCNejESwOZAd5YVC"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/3uRy6UyIWB1FHIoLcMtsLN"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Inalcanzable",
         "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 211586,
       "name": "Tu Ingratitud",
       "url": "https://open.spotify.com/track/2wdHaBjNttqV26lrI0rwoY"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Desamor y Despecho",
+        "url": "https://open.spotify.com/album/7otDfsqCNejESwOZAd5YVC"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/3uRy6UyIWB1FHIoLcMtsLN"
     },
     {
       "added_at": "2023-02-24 16:30:36",

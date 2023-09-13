@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,881 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,901 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 33 | [Blooming Today](https://open.spotify.com/track/7bFLEPt1ZpePXATqdRWbZu) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Blooming Today](https://open.spotify.com/album/4TMYHDS6hlg3VtFOu96lNT) | 3:02 |
 | 34 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 |
 | 35 | [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl) | 4:05 |
-| 36 | [Love song \(Feat\. WONPIL\(DAY6\)\)](https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 5:00 |
-| 37 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
+| 36 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
+| 37 | [Love song \(Feat\. WONPIL\(DAY6\)\)](https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 5:00 |
 | 38 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
-| 39 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
+| 39 | [Sweet lies](https://open.spotify.com/track/7sBMBr6SoNS4LrDAbyVwRR) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX), [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Bittersweet](https://open.spotify.com/album/5PNgP4gYjqhxDAT1GrNTme) | 3:25 |
 | 40 | [Like A Bird](https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[04\]](https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm) | 3:40 |
-| 41 | [Sweet lies](https://open.spotify.com/track/7sBMBr6SoNS4LrDAbyVwRR) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX), [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Bittersweet](https://open.spotify.com/album/5PNgP4gYjqhxDAT1GrNTme) | 3:25 |
+| 41 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 42 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 |
 | 43 | [SMILE](https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [SMILE](https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx) | 3:48 |
 | 44 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 48 | [Bit by Bit, Slowly, To You](https://open.spotify.com/track/31X1N4lrop817FGBLsIBsv) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Bit by Bit, Slowly, To You](https://open.spotify.com/album/4I5jPCjaATIgV3ADJdBoDE) | 4:16 |
 | 49 | [All That Jazz](https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:58 |
 | 50 | [Darling You](https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [ADAMAS, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k) | 2:29 |
-| 51 | [어떡해 \(Feat\. 스텔라장\)](https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob) | [이요한](https://open.spotify.com/artist/0c8vPupGZ81StYCgxYefAD) | [하지 말라면 더 하고 19 Part.2](https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6) | 4:20 |
-| 52 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 |
+| 51 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 |
+| 52 | [어떡해 \(Feat\. 스텔라장\)](https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob) | [이요한](https://open.spotify.com/artist/0c8vPupGZ81StYCgxYefAD) | [하지 말라면 더 하고 19 Part.2](https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6) | 4:20 |
 | 53 | [Watercolour](https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 4:14 |
 | 54 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 |
 | 55 | [After The Rain](https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Night Mood](https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq) | 4:14 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 67 | [Dancing](https://open.spotify.com/track/2iAs2WIRVMGiN3RBOzW3BI) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Dancing](https://open.spotify.com/album/6ka6nxWStlsLUxmyNdxkzq) | 3:30 |
 | 68 | [Habit](https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [\[Vol.134\] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'](https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw) | 3:32 |
 | 69 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
-| 70 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 |
+| 70 | [ROSE](https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [SONG JU HEE](https://open.spotify.com/artist/7kJY46aPgzdoIlDJbSvxzC) | [ROSE](https://open.spotify.com/album/26fovYAowQaJmrucMlNztd) | 2:58 |
 
-Snapshot ID: `MCw4MTA2ZWI1OWNhMWZiMzk1NWNkZjE0YWFhYTZiOWE3YzJiNGFjNzVm`
+Snapshot ID: `MCxmMTYwZTI1OWM1ZDY1NmJmZThmZmRlMTkwNmFlMzJlMDcxYjAyNTU1`

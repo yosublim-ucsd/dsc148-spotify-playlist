@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-240 songs - 12 hr 53 min
+241 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,11 +119,12 @@
 | [In the morning I'll be with you](https://open.spotify.com/track/5230WkrhnhKfON5eDtxkgI) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC) | [In the morning I'll be with you](https://open.spotify.com/album/78Y71A3EU2xbov3KAtDdEr) | 2:43 | 2019-04-17 | 2022-02-05 |
 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 | 2022-02-04 |  |
 | [Innocence \- From "Free The Mind" Soundtrack](https://open.spotify.com/track/3zxT39EqRCqelkW905AsCA) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Mercy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DV6e43XHzDFXctbjmZ8bT) | 1:10 | 2019-04-17 | 2022-02-05 |
+| [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 | 2023-09-11 |  |
 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 | 2023-09-11 |  |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-02-04 |  |
 | [Lately \(Interlude\)](https://open.spotify.com/track/3mZg4qv8X55kolcHiQw2hy) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [FreeDumb](https://open.spotify.com/album/3DgKFCcChPWJrDACBf9Wi4) | 0:56 | 2019-04-17 | 2022-02-05 |
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 | 2022-02-04 |  |
-| [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 | 2022-02-04 |  |
+| [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 | 2022-02-04 | 2023-09-13 |
 | [Leo Minor](https://open.spotify.com/track/4PTSguUQ2hpeglvpBNn1qd) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Leo Minor](https://open.spotify.com/album/4hqu9hDEGMbXCQKC8Znlyh) | 2:19 | 2022-03-18 | 2023-02-10 |
 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 | 2019-04-17 | 2022-02-05 |
 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 | 2023-08-15 |  |

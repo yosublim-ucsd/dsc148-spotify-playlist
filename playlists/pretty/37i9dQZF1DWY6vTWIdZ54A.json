@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 481084,
+  "num_followers": 481267,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWJlMTFiMDQ0YjRkNDgzNTc4NTEwYzA0MjAwNWNmYTQ2NmYwNTlh",
+  "snapshot_id": "MCwzMzMxMzFmNjE5OTEwYTc1MDY5MGFjYjU2YmU0ODIyM2I3YjU3NThk",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Them Crooked Vultures",
-        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
-      },
-      "artists": [
-        {
-          "name": "Them Crooked Vultures",
-          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "New Fang",
-      "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 218600,
       "name": "Hot Blood",
       "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Them Crooked Vultures",
+        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
+      },
+      "artists": [
+        {
+          "name": "Them Crooked Vultures",
+          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "New Fang",
+      "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Black Pistol Fire",
-        "url": "https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1"
-      },
-      "artists": [
-        {
-          "name": "Black Pistol Fire",
-          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "Suffocation Blues",
-      "url": "https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Dirty Honey",
         "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 205090,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Black Pistol Fire",
+        "url": "https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1"
+      },
+      "artists": [
+        {
+          "name": "Black Pistol Fire",
+          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "Suffocation Blues",
+      "url": "https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Young Blood",
-        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
+        "name": "Save Me Some Sunshine",
+        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
         }
       ],
-      "duration_ms": 217066,
-      "name": "Hard Working Man",
-      "url": "https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr"
+      "duration_ms": 217143,
+      "name": "Save Me Some Sunshine",
+      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Save Me Some Sunshine",
-        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
+        "name": "Young Blood",
+        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
       },
       "artists": [
         {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 217143,
-      "name": "Save Me Some Sunshine",
-      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Mercy Mercy",
-        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
       },
       "artists": [
         {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
         }
       ],
-      "duration_ms": 178880,
-      "name": "Mercy Mercy",
-      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
+      "duration_ms": 201680,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Mercy Mercy",
+        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Mercy Mercy",
+      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 162880,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Shakin' Off The Rust",
-        "url": "https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Shakin' Off The Rust",
-      "url": "https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
+        "name": "Shakin' Off The Rust",
+        "url": "https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ"
       },
       "artists": [
         {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
+      "duration_ms": 222936,
+      "name": "Shakin' Off The Rust",
+      "url": "https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "S.I.D.E.S.",
+        "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "The Woods",
         "url": "https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "S.I.D.E.S.",
-        "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Young Blood",
         "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 253599,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 253599,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Are You Real?",
         "url": "https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR"
       },
@@ -1575,6 +1591,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Heartache Melody",
+        "url": "https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g"
+      },
+      "artists": [
+        {
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+        }
+      ],
+      "duration_ms": 172140,
+      "name": "Heartache Melody",
+      "url": "https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Slomosa",
         "url": "https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS"
       },
@@ -1603,38 +1635,6 @@
       "duration_ms": 241000,
       "name": "Soul Machine",
       "url": "https://open.spotify.com/track/6VhKqO2krkpQ9TEJSpZlbG"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 195358,
-      "name": "Bad Spell",
-      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Heartache Melody",
-        "url": "https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g"
-      },
-      "artists": [
-        {
-          "name": "Electric Enemy",
-          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
-        }
-      ],
-      "duration_ms": 172140,
-      "name": "Heartache Melody",
-      "url": "https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA"
     }
   ],
   "unique_name": "Dirty Rock",

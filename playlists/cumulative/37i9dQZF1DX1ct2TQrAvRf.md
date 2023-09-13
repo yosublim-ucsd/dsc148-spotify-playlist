@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> Best of Hip\-Hop from India\. Cover\- MC Square
+> Best of Hip\-Hop from India\. Cover\- DG Immortals & Elvish Yadav
 
-103 songs - 5 hr 52 min
+104 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-27 |  |
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-27 | 2023-07-18 |
 | [Basti Ka Hasti](https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:15 | 2023-03-27 |  |
+| [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-12 |  |
 | [Beta Karta Rap](https://open.spotify.com/track/5yVIHCJRdQNyIQa4sOrsW5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 3:20 | 2023-06-09 | 2023-08-04 |
 | [Bread And Butter](https://open.spotify.com/track/3DobnqNHraZV31RycNkFBF) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:39 | 2023-09-04 |  |
 | [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 | 2023-07-17 |  |

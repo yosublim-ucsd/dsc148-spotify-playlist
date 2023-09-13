@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-870 songs - 2 day 6 hr 50 min
+871 songs - 2 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Key to My Heart](https://open.spotify.com/track/1NmvymljWwjFk64R6N24So) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Key to My Heart](https://open.spotify.com/album/63H4TPHDzaIKYtcIGxTDzM) | 3:50 | 2023-01-17 | 2023-02-01 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-11 | 2023-07-05 |
 | [Kimiiro](https://open.spotify.com/track/6cOaH9XTtUbaWpntWUpmV9) | [Beatcats](https://open.spotify.com/artist/3vmZgwzFp8rwt5GicYWbST) | [Kimiiro](https://open.spotify.com/album/5VhIXhofvuhXuUIKlve7eU) | 3:24 | 2022-07-28 | 2022-08-03 |
-| [King of Light](https://open.spotify.com/track/6LyqX3djXJ58kCoSqmXLCf) | [Seraphilight](https://open.spotify.com/artist/7IwUmRLeRmYUlDdkNZsQTa) | [King of Light](https://open.spotify.com/album/21KxZkyVOAGaWmVlAHCTsB) | 4:07 | 2023-08-01 |  |
+| [King of Light](https://open.spotify.com/track/6LyqX3djXJ58kCoSqmXLCf) | [Seraphilight](https://open.spotify.com/artist/7IwUmRLeRmYUlDdkNZsQTa) | [King of Light](https://open.spotify.com/album/21KxZkyVOAGaWmVlAHCTsB) | 4:07 | 2023-08-01 | 2023-09-13 |
 | [KIRIKIZU](https://open.spotify.com/track/4axioKS5nckvIhhZgfFxd5) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TV SERIES ”IS IT WRONG TO TRY TO PICK UP GIRLS IN A DUNGEON? IV”](https://open.spotify.com/album/0nPuBJ6dF2sCUCiUfWICFg) | 3:37 | 2023-02-21 | 2023-04-14 |
 | [Knock Out](https://open.spotify.com/track/5ktgImJ7uP5gR2Pv85R9Qy) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Knock Out](https://open.spotify.com/album/3pHuTLk66QGfAd4KRq4ErX) | 3:45 | 2023-04-08 | 2023-07-07 |
 | [Kokorone](https://open.spotify.com/track/43nVvwOh89GG7LXWhmZFkd) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Kokorone](https://open.spotify.com/album/0tmQTiDf8sdswXxCwwyeP5) | 3:10 | 2023-04-11 | 2023-06-28 |
@@ -517,6 +517,7 @@
 | [いいの](https://open.spotify.com/track/6zYa0HNDUEjGtZ5HnB5Cqr) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [KIKUNOYU](https://open.spotify.com/artist/281ctw2ZJ8mLOcH58SVts5) | [いいの](https://open.spotify.com/album/1RsDnvYcyLXcAAvjyoImCc) | 3:47 | 2022-10-13 | 2023-01-06 |
 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 | 2022-10-25 | 2023-01-11 |
 | [いつ逢えたら](https://open.spotify.com/track/6YLUfjcftTF3N4LmKR6OIM) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [いつ逢えたら](https://open.spotify.com/album/5ZfeL7vTGeENYg7RRq6lby) | 4:05 | 2023-04-10 | 2023-04-12 |
+| [うれしくて](https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 6:23 | 2023-09-12 |  |
 | [おどる ひかり](https://open.spotify.com/track/5vKeKeMQEOVVHvWoboCWdK) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [おどる ひかり](https://open.spotify.com/album/70dxLOHCgr6kXq9PU6v1er) | 4:41 | 2023-04-06 | 2023-05-26 |
 | [おれはジャイアンさまだ! \- 2022](https://open.spotify.com/track/4twohb62NBcXxAEAPF4lF6) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアントドリーム/おれはジャイアンさまだ!2022](https://open.spotify.com/album/7dnlGbyQpyFRRwcI7hUV3p) | 2:08 | 2022-07-19 | 2022-08-17 |
 | [かえりみちの色](https://open.spotify.com/track/3bLVwyhaJuRyxZAGWO0vv0) | [渋谷ハル](https://open.spotify.com/artist/6mXvoLGqYh8T8As0LYuU8s) | [かえりみちの色](https://open.spotify.com/album/15V9z87xbRv1SECaxMDxrs) | 4:09 | 2022-07-07 | 2022-07-29 |

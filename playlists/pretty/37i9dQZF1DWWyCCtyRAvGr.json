@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 158403,
+  "num_followers": 158499,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2FhNGM2ZDE0YmE5MjViYmUzYjFjNjJjNDBmNWUwZWZhMzkwZDkw",
+  "snapshot_id": "MCw3MzhmNDNhZGY2MjA3MmQ0MThmNzE5NGM4ODM5YjZlYjBlYjQzNDg5",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Soul Tender",
-        "url": "https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn"
-      },
-      "artists": [
-        {
-          "name": "Gene Deer",
-          "url": "https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV"
-        }
-      ],
-      "duration_ms": 459940,
-      "name": "Midnight Healing",
-      "url": "https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Rockin' With Reed",
         "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 143331,
       "name": "Take Out Some Insurance",
       "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Soul Tender",
+        "url": "https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn"
+      },
+      "artists": [
+        {
+          "name": "Gene Deer",
+          "url": "https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV"
+        }
+      ],
+      "duration_ms": 459940,
+      "name": "Midnight Healing",
+      "url": "https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "The Amogla Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 299973,
       "name": "Mean Blues",
       "url": "https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 81000,
       "name": "Don't Go Back To New Orleans - Remastered 2022",
       "url": "https://open.spotify.com/track/17J48o0PQhGI7KFZXMe9j1"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "1956-1958 Cobra Recordings",
-        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "His Best: The Electric B.B. King (Expanded Edition)",
         "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 309373,
       "name": "Don't Answer The Door",
       "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "1956-1958 Cobra Recordings",
+        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Papa Ain't Salty",
-      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Colin James And The Little Big Band",
         "url": "https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 147560,
       "name": "Steppin' Out",
       "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Papa Ain't Salty",
+      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "How Blue Can You Get",
-        "url": "https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 436213,
-      "name": "How Blue Can You Get",
-      "url": "https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 319466,
       "name": "I Put My Trust In You",
       "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "How Blue Can You Get",
+        "url": "https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 436213,
+      "name": "How Blue Can You Get",
+      "url": "https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "The Best Of Freddie King: The Shelter Years",
-        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Reconsider Baby - Remastered",
-      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Outdated Emotion",
         "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 146397,
       "name": "Connecticut Blues",
       "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Reconsider Baby - Remastered",
+      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Two Sides to the Story",
-        "url": "https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Ray",
-          "url": "https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s"
-        }
-      ],
-      "duration_ms": 365909,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 210040,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Two Sides to the Story",
+        "url": "https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Ray",
+          "url": "https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s"
+        }
+      ],
+      "duration_ms": 365909,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
     },
     {
       "added_at": "2023-04-28 16:37:16",

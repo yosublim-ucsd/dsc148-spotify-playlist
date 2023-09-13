@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring Panther
 
-92 songs - 4 hr 55 min
+93 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-10 |  |
 | [Bas Ke Bahar](https://open.spotify.com/track/6p6HR5HKDBLqiT4jH4dMpu) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Bas Ke Bahar](https://open.spotify.com/album/4LuJ0yiuHkZyGo5RjbE6jW) | 3:09 | 2023-03-10 |  |
 | [Batman](https://open.spotify.com/track/0x5itC1IF7WtrA7lJUmIbf) | [Aghor](https://open.spotify.com/artist/3AsmJFW9t14OXuJp9zOuPk), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Batman](https://open.spotify.com/album/75K8WUFvfA5ejXARa0y60o) | 3:32 | 2023-03-10 |  |
+| [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-12 |  |
 | [Been a While](https://open.spotify.com/track/6FN68TXRiK095cQzv9tG5c) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:47 | 2023-03-10 |  |
 | [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 | 2023-07-24 |  |
 | [Blowing Up](https://open.spotify.com/track/3Oh2FwWbnKIAyUE2gToFYu) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Blowing Up](https://open.spotify.com/album/0nzNYneCXJhO6OZQLHROri) | 4:07 | 2023-03-10 |  |

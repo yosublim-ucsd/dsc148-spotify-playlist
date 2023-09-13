@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,899 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,935 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 66 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 |
 | 67 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 |
 | 68 | [Out In The Fields](https://open.spotify.com/track/2NKBG5YGy83o1IL6ztXnc4) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Out In The Fields / Party Oven](https://open.spotify.com/album/6qWjEdbqZcGDQpl0w82Avk) | 4:00 |
-| 69 | [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 |
+| 69 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 |
 | 70 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
 | 71 | [Everknown](https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Everknown](https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx) | 4:25 |
 | 72 | [Spit Of You](https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:33 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 124 | [Flowers in Your Hair](https://open.spotify.com/track/3r8tN8h34miJWeu5VuVzk3) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Flowers in Your Hair](https://open.spotify.com/album/18jqHWp5uH00u051RM58zQ) | 3:47 |
 | 125 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCw1YThjYjdlYmVjN2U4NDhiZjQ3MWNiN2FhMGI1MjkwNTc2M2I2YTFl`
+Snapshot ID: `MCxlMTZiZTFlNmUxZWQ3M2IzOTBhNjk0ZjE0NzYxZmM2NjA5Zjc0N2Yw`

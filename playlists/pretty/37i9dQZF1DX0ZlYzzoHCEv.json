@@ -1,13 +1,29 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 42067,
+  "num_followers": 42480,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGJlNjg3NDI2ZDYwMTIyZDlkZGQ2M2E0NjI2YTc3ZGYxY2ZiOTVm",
+  "snapshot_id": "MCxlZjNhY2JlNTRhZTg0MzJlZjU2YTBkMmQ1M2I1MWZjNDZmNTU1YWU1",
   "tracks": [
+    {
+      "added_at": "2023-07-13 08:32:04",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
     {
       "added_at": "2023-07-13 08:32:04",
       "album": {
@@ -43,26 +59,6 @@
     {
       "added_at": "2023-07-13 08:32:04",
       "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "Boy's a Liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "added_at": "2023-07-13 08:32:04",
-      "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
@@ -83,6 +79,26 @@
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
+    },
+    {
+      "added_at": "2023-07-13 08:32:04",
+      "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "Boy's a Liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
       "added_at": "2023-07-13 08:32:04",
@@ -123,6 +139,22 @@
     {
       "added_at": "2023-07-13 08:32:04",
       "album": {
+        "name": "GOOD LOYAL THOTS",
+        "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 102556,
+      "name": "GOOD LOYAL THOTS",
+      "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
+    },
+    {
+      "added_at": "2023-07-13 08:32:04",
+      "album": {
         "name": "MONTAGEM - PR FUNK",
         "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
       },
@@ -143,22 +175,6 @@
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
-    },
-    {
-      "added_at": "2023-07-13 08:32:04",
-      "album": {
-        "name": "GOOD LOYAL THOTS",
-        "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 102556,
-      "name": "GOOD LOYAL THOTS",
-      "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
     },
     {
       "added_at": "2023-07-13 08:32:04",
@@ -191,6 +207,22 @@
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
+    },
+    {
+      "added_at": "2023-07-13 08:32:04",
+      "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2023-07-13 08:32:04",
@@ -267,22 +299,6 @@
     {
       "added_at": "2023-07-13 08:32:04",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2023-07-13 08:32:04",
-      "album": {
         "name": "SPIT IN MY FACE!",
         "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
       },
@@ -295,6 +311,22 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "added_at": "2023-07-13 08:32:04",
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2023-07-13 08:32:04",
@@ -483,38 +515,6 @@
     {
       "added_at": "2023-07-13 08:32:04",
       "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
-      },
-      "artists": [
-        {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
-        }
-      ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
-    },
-    {
-      "added_at": "2023-07-13 08:32:04",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-07-13 08:32:04",
-      "album": {
         "name": "Murder In My Mind",
         "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2023-07-13 08:32:04",
+      "album": {
+        "name": "GigaChad Theme (Phonk House Version)",
+        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+      },
+      "artists": [
+        {
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+        }
+      ],
+      "duration_ms": 146274,
+      "name": "GigaChad Theme - Phonk House Version",
+      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
     },
     {
       "added_at": "2023-07-13 08:32:04",
@@ -547,18 +563,18 @@
     {
       "added_at": "2023-07-13 08:32:04",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
       "artists": [
         {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-07-13 08:32:04",
@@ -575,6 +591,22 @@
       "duration_ms": 191622,
       "name": "sdp interlude",
       "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
+    },
+    {
+      "added_at": "2023-07-13 08:32:04",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2023-07-13 08:32:04",
@@ -647,22 +679,6 @@
     {
       "added_at": "2023-07-13 08:32:04",
       "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
-    },
-    {
-      "added_at": "2023-07-13 08:32:04",
-      "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
@@ -675,6 +691,22 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
+    },
+    {
+      "added_at": "2023-07-13 08:32:04",
+      "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": "2023-07-13 08:32:04",
@@ -743,22 +775,6 @@
     {
       "added_at": "2023-07-13 08:32:04",
       "album": {
-        "name": "My Ordinary Life",
-        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
-      },
-      "artists": [
-        {
-          "name": "The Living Tombstone",
-          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "My Ordinary Life",
-      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
-    },
-    {
-      "added_at": "2023-07-13 08:32:04",
-      "album": {
         "name": "Stop Staring At the Shadows",
         "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
       },
@@ -771,6 +787,22 @@
       "duration_ms": 168489,
       "name": "...And to Those I Love, Thanks for Sticking Around",
       "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
+    },
+    {
+      "added_at": "2023-07-13 08:32:04",
+      "album": {
+        "name": "My Ordinary Life",
+        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "My Ordinary Life",
+      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
     },
     {
       "added_at": "2023-07-13 08:32:04",
@@ -811,22 +843,6 @@
     {
       "added_at": "2023-07-13 08:32:04",
       "album": {
-        "name": "Zanaka (Deluxe)",
-        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "Makeba",
-      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
-    },
-    {
-      "added_at": "2023-07-13 08:32:04",
-      "album": {
         "name": "BABYDOLL (Speed)",
         "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
       },
@@ -839,6 +855,22 @@
       "duration_ms": 156650,
       "name": "BABYDOLL (Speed)",
       "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
+    },
+    {
+      "added_at": "2023-07-13 08:32:04",
+      "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
     },
     {
       "added_at": "2023-07-13 08:32:04",
@@ -1035,6 +1067,22 @@
     {
       "added_at": "2023-07-13 08:32:04",
       "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Mon\u00eby so big",
+      "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
+    },
+    {
+      "added_at": "2023-07-13 08:32:04",
+      "album": {
         "name": "NEON BLADE",
         "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
       },
@@ -1067,22 +1115,6 @@
       "duration_ms": 162041,
       "name": "SHADOW",
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
-    },
-    {
-      "added_at": "2023-07-13 08:32:04",
-      "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 160052,
-      "name": "Mon\u00eby so big",
-      "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
     },
     {
       "added_at": "2023-07-13 08:32:04",
@@ -1259,42 +1291,6 @@
       "duration_ms": 231704,
       "name": "GHOST!",
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
-    },
-    {
-      "added_at": "2023-07-13 08:32:04",
-      "album": {
-        "name": "ODDINARY",
-        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 182757,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
-    },
-    {
-      "added_at": "2023-07-13 08:32:04",
-      "album": {
-        "name": "Moulaga",
-        "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 179868,
-      "name": "Moulaga",
-      "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
     }
   ],
   "unique_name": "la mia testa:",

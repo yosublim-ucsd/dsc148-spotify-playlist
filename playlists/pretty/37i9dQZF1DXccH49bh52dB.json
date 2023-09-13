@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 514321,
+  "num_followers": 514715,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGYxNzkzNzE2MGMxZjZjYzIwYmQyNmYxZjQ5MzIzMDYyNGE1ZmFh",
+  "snapshot_id": "MCxkZmM0ZTc1ODkyZWI4OThlZGQxZGU5N2I2NDIwNDE2YzY2Mjg0ZmVj",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -787,8 +787,8 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+        "name": "Stargazing - EP",
+        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
       },
       "artists": [
         {
@@ -796,13 +796,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Maty Noyes",
-          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
         }
       ],
-      "duration_ms": 239465,
-      "name": "Stay (feat. Maty Noyes)",
-      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
+      "duration_ms": 236853,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -983,8 +983,8 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Stargazing - EP",
-        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
       "artists": [
         {
@@ -992,13 +992,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+          "name": "Maty Noyes",
+          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
         }
       ],
-      "duration_ms": 236853,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
+      "duration_ms": 239465,
+      "name": "Stay (feat. Maty Noyes)",
+      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Jacar\u00e9",
-        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 156620,
-      "name": "Jacar\u00e9",
-      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Quiver",
         "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Jacar\u00e9",
+        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 156620,
+      "name": "Jacar\u00e9",
+      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Dance Dance (feat. Alessandra)",
-        "url": "https://open.spotify.com/album/0ZG7ELXwpcPfZTZlbBW5TN"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c"
-        }
-      ],
-      "duration_ms": 151065,
-      "name": "Dance Dance (feat. Alessandra)",
-      "url": "https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "A Moment Apart",
         "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 236470,
       "name": "Line Of Sight",
       "url": "https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Dance Dance (feat. Alessandra)",
+        "url": "https://open.spotify.com/album/0ZG7ELXwpcPfZTZlbBW5TN"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c"
+        }
+      ],
+      "duration_ms": 151065,
+      "name": "Dance Dance (feat. Alessandra)",
+      "url": "https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Goodbye (feat. Lyse) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
-      },
-      "artists": [
-        {
-          "name": "Feder",
-          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
-        },
-        {
-          "name": "Lyse",
-          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "Goodbye (feat. Lyse) - Radio Edit",
-      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 221986,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/0fTiDOXRNEN0lUeYGoSHml"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Goodbye (feat. Lyse) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
+      },
+      "artists": [
+        {
+          "name": "Feder",
+          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
+        },
+        {
+          "name": "Lyse",
+          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "Goodbye (feat. Lyse) - Radio Edit",
+      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 195704,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "never worry",
         "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 222624,
       "name": "Sometimes\u2026 (with Daya & Earthgang)",
       "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 195704,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 228514,
+      "name": "Is U",
+      "url": "https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Rainbows",
         "url": "https://open.spotify.com/album/0unoReVDp3l2iY7Pgkv7jm"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 192786,
       "name": "Come Into My World (with NERVO)",
       "url": "https://open.spotify.com/track/4Bpyapy2YVNAQBUOBp17uu"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 228514,
-      "name": "Is U",
-      "url": "https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ"
     },
     {
       "added_at": "2023-09-08 04:00:00",

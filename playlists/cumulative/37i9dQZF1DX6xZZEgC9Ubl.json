@@ -8970,10 +8970,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 174545,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/6WyFtGksVSqcA4nW37lV74"
+    },
+    {
+      "album": {
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/0rbnod5eDoqsgg8rBWUD1i"
+      },
+      "artists": [
+        {
+          "name": "Kevin Powers",
+          "url": "https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174548,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/1NfjUyoSiqliAy40rR9CVv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 
 > Así suena cada estación\. 🍂 Check back in December for Invierno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,817 likes - 25 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,974 likes - 25 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

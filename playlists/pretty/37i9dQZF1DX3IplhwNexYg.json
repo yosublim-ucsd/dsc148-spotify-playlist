@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Nieve Ella",
-  "num_followers": 112767,
+  "num_followers": 112803,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWI2MWFjMzQxN2NlNDQwOTE4Y2RlZmVjODc2M2UxNTEzNzVkYjRm",
+  "snapshot_id": "MCxjYjk3Njk4NjFkNzJlZjMzZjkxMWMwMDRjM2Y3ZjNkOTQ1ZjdlOThl",
   "tracks": [
     {
       "added_at": "2023-08-31 23:22:11",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Cuts & Bruises",
         "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 215906,
       "name": "Just To Keep You Satisfied",
       "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "Daisy - Spotify Singles",
-      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Theatre",
         "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 179037,
       "name": "Theatre",
       "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 165759,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "As Good As It Gets",
         "url": "https://open.spotify.com/album/1Nq7X61ErYdrIfN2BDYar0"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 164494,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/1oSFY7EjYTQGqECkCgX9hF"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "So Cool",
         "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 185070,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Better (Edit)",
-        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Better - Edit",
-      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "The Overload",
         "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 196533,
       "name": "The Overload",
       "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Better (Edit)",
+        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Better - Edit",
+      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Kool Aid",
-        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "Kool Aid",
-      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Waste My Life",
         "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
       },
@@ -1291,6 +1275,38 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Got Him!",
+        "url": "https://open.spotify.com/album/6rBt5RO5Yb4sfMwGpWXjyU"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 155262,
+      "name": "Holdup",
+      "url": "https://open.spotify.com/track/0l8o0hshn4qrihNPvvJu2l"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/7bafTSha7WTSmnjwtxPAHW"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 198767,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/7KoTMZi3QqWlsq1Nve63tR"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Walking Backwards",
-        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 319986,
-      "name": "Walking Backwards",
-      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
     }
   ],
   "unique_name": "pulp",

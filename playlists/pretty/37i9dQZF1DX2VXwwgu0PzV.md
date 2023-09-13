@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=JVS0nSqOQgqGlEDNyvU\_nw">Naffymar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,778 likes - 91 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,870 likes - 91 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 90 | [Ready](https://open.spotify.com/track/598oVJcsNFUACqMC1o5syH) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Laura Ehio](https://open.spotify.com/artist/0E9rEf1UV4n8IqTEgPuKTn) | [Ready](https://open.spotify.com/album/0rv5GoIZr33hiDSwXRdHp6) | 2:32 |
 | 91 | [Confam](https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Confam](https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln) | 2:37 |
 
-Snapshot ID: `MCxjZmQxNzkwODViMjM2NGY0YjJhYjMwZjNlN2VmNjgwY2EzMjEwZWY5`
+Snapshot ID: `MCxhYjY1ZDA0OWUwMDFhOWU3NWYwY2ViYWZiNmYwZmY1MWM5ZTIxMmJh`

@@ -3359,6 +3359,28 @@
     },
     {
       "album": {
+        "name": "NONAI",
+        "url": "https://open.spotify.com/album/6uJrmk0Hp4A9uyybSjliB4"
+      },
+      "artists": [
+        {
+          "name": "jon-YAKITORY",
+          "url": "https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB"
+        },
+        {
+          "name": "\u30e2\u30ea\u30b9\u30ec\u30a4",
+          "url": "https://open.spotify.com/artist/25LuyNMkFRDF0eJYmBlBuc"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153433,
+      "name": "NONAI",
+      "url": "https://open.spotify.com/track/01CQACElK5ABpCn4Z7wiOa"
+    },
+    {
+      "album": {
         "name": "Oka Ramman",
         "url": "https://open.spotify.com/album/08A305KVRZfXQLg0Z3Ni7r"
       },
@@ -4350,10 +4372,28 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 180277,
       "name": "SHOCK!",
       "url": "https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN"
+    },
+    {
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189772,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN"
     },
     {
       "album": {
@@ -4458,7 +4498,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 238833,
       "name": "slash",
       "url": "https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T"
@@ -6242,6 +6282,24 @@
       "duration_ms": 256439,
       "name": "\u3070\u304b\u3058\u3083\u306a\u3044\u306e\u306b",
       "url": "https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh"
+    },
+    {
+      "album": {
+        "name": "\u3070\u3063\u3069\u304f\u3089\u3044",
+        "url": "https://open.spotify.com/album/4Uq9SIQWGgGUwu2BoKJyqr"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "\u3070\u3063\u3069\u304f\u3089\u3044",
+      "url": "https://open.spotify.com/track/6530tVpAwEUCoc9y5B34xR"
     },
     {
       "album": {
@@ -9017,6 +9075,24 @@
     },
     {
       "album": {
+        "name": "\u30d1\u30a4\u30d1\u30fc",
+        "url": "https://open.spotify.com/album/0gRoHvdsUxLjmAFnUcnB8o"
+      },
+      "artists": [
+        {
+          "name": "R+...",
+          "url": "https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188834,
+      "name": "\u30d1\u30a4\u30d1\u30fc",
+      "url": "https://open.spotify.com/track/0gpsaeDzzbHxtc5VhA7wiu"
+    },
+    {
+      "album": {
         "name": "\u30d1\u30e9\u30ec\u30eb",
         "url": "https://open.spotify.com/album/40IKKnFZglHHHdULRw14YE"
       },
@@ -9942,7 +10018,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 192397,
       "name": "\u30e9\u30d6\u30b7\u30c3\u30af",
       "url": "https://open.spotify.com/track/2WL59zsWjW7VhGS6WVakZr"
@@ -13076,7 +13152,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 255918,
       "name": "\u6d77\u306e\u307e\u306b\u307e\u306b",
       "url": "https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN"
@@ -13170,6 +13246,32 @@
       "duration_ms": 193620,
       "name": "\u6df1\u6d77\u306b\u6f02\u3046",
       "url": "https://open.spotify.com/track/0hlhppgFY0ElfAqKKmcoVS"
+    },
+    {
+      "album": {
+        "name": "\u6e7f\u3063\u307d\u3044\u306d",
+        "url": "https://open.spotify.com/album/1uyERA9oAKcMGofnpTI8fy"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u76f8\u6ca2",
+          "url": "https://open.spotify.com/artist/4XyqVjWt0pEOIM5yZnpyxb"
+        },
+        {
+          "name": "\u5f0f\u6d66\u8e81\u543e",
+          "url": "https://open.spotify.com/artist/64tqgUSdRPy0Kl8KmvBj8s"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107286,
+      "name": "\u6e7f\u3063\u307d\u3044\u306d",
+      "url": "https://open.spotify.com/track/4O85Ve9K1hm89su7d8ipKd"
     },
     {
       "album": {
@@ -14956,7 +15058,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 250160,
       "name": "\u90fd\u843d\u3061",
       "url": "https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK"

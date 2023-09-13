@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Delaruà
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,272 likes - 55 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,307 likes - 55 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [LACRIME](https://open.spotify.com/track/4ENtTrEgDyusQQ5m8JCWnb) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [LACRIME](https://open.spotify.com/album/2QqzgI8IV6rzbHDGvv7Xzo) | 2:29 |
 | 55 | [SANGUE CALDO](https://open.spotify.com/track/0G9LVojrr4a6heAOEmoaBX) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [SANGUE CALDO](https://open.spotify.com/album/5tdfN8S68psImgoiru1bfT) | 2:05 |
 
-Snapshot ID: `MCw1MzEwNTI3ZmJhZTJkNTY4NTgyNGI0ZWEwYTc5ODhjNjk0NDA2NWM0`
+Snapshot ID: `MCw3NzQ4MDA2YTQ3OWU2NzA0MzdmYWQyMDNkNDQ4Y2E1MWIwZjhlMjdh`

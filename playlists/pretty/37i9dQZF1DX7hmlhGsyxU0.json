@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 140542,
+  "num_followers": 140719,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWZiOGViM2UzNWRlYjhjZDMxYTkxMGY1ZjQzMTliMzFkMzdlMWVm",
+  "snapshot_id": "MCw2OTI0NjVkMDY2YWJkOTU1OTc4Y2MzNmRkY2YxNWMwZTk2MGJiNTNh",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Made To Be Wanting",
+        "url": "https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF"
+      },
+      "artists": [
+        {
+          "name": "Job Roggeveen",
+          "url": "https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv"
+        }
+      ],
+      "duration_ms": 183764,
+      "name": "Made To Be Wanting",
+      "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "len",
         "url": "https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI"
       },
@@ -151,18 +167,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Made To Be Wanting",
-        "url": "https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF"
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
       },
       "artists": [
         {
-          "name": "Job Roggeveen",
-          "url": "https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv"
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
         }
       ],
-      "duration_ms": 183764,
-      "name": "Made To Be Wanting",
-      "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
+      "duration_ms": 153000,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -187,22 +203,6 @@
       "duration_ms": 223283,
       "name": "Composite 03",
       "url": "https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Sea Notes",
+        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
+      },
+      "artists": [
+        {
+          "name": "Joanna Finnis",
+          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "Flight of the Sea Birds",
+      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "The Last Gate",
         "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 315644,
       "name": "Until The End",
       "url": "https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Sea Notes",
-        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
-      },
-      "artists": [
-        {
-          "name": "Joanna Finnis",
-          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "Flight of the Sea Birds",
-      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Floating on Land",
+        "url": "https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X"
+      },
+      "artists": [
+        {
+          "name": "Svvn",
+          "url": "https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "Floating on Land",
+      "url": "https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "You Will Never Walk Alone (Glowworm Rework)",
         "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 233120,
       "name": "You Will Never Walk Alone - Glowworm Rework",
       "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Floating on Land",
-        "url": "https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X"
-      },
-      "artists": [
-        {
-          "name": "Svvn",
-          "url": "https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Floating on Land",
-      "url": "https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/2XIKAebL8aZ70mFTOFDsAr"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 141610,
       "name": "Islands",
       "url": "https://open.spotify.com/track/6nEE1lj51T4efni3T2NxET"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Efterskalv",
-        "url": "https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS"
-      },
-      "artists": [
-        {
-          "name": "Vargkvint",
-          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
-        }
-      ],
-      "duration_ms": 229350,
-      "name": "Efterskalv",
-      "url": "https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Low Sun",
         "url": "https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 196537,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Efterskalv",
+        "url": "https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS"
+      },
+      "artists": [
+        {
+          "name": "Vargkvint",
+          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
+        }
+      ],
+      "duration_ms": 229350,
+      "name": "Efterskalv",
+      "url": "https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno"
     },
     {
       "added_at": "2023-06-27 16:12:39",

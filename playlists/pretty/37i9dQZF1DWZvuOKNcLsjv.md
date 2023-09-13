@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,764 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,789 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [未成人](https://open.spotify.com/track/1QOHvuqSmCEPqRsEGvLgXD) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [未成人](https://open.spotify.com/album/3iLUblYEUlFp5A5RV6bTLe) | 4:01 |
 | 100 | [Tonight](https://open.spotify.com/track/3FIhIhiSQqSfwbpFZzNhxE) | [広瀬大地](https://open.spotify.com/artist/3CgeuQ1yRieG410Yv5HVdE) | [Tonight](https://open.spotify.com/album/1TDGFOk36a5deglxfMQGA5) | 3:54 |
 
-Snapshot ID: `MCw3MWUxNDU3ZDM3MTQ0OTIwZDQyMTcwOTk2NDY3YWIwMWExMDk2OWI2`
+Snapshot ID: `MCwzYzdhODM4OTUzNmVkN2ZhNTk2NjA2ZDg5M2YxM2I4Y2Y2ZTVhNzdi`

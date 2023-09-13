@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Clark Younger](https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y) | 3:16 | 2021-01-18 |  |
-| [Acercate Mas\-Nosotros](https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:08 | 2021-01-18 |  |
+| [Acercate Mas\-Nosotros](https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:08 | 2021-01-18 | 2023-09-13 |
 | [Agua De Beber](https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:15 | 2021-01-18 |  |
 | [Al Latin](https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT), [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7), [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Río de los Canasteros](https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy) | 9:08 | 2021-01-18 |  |
 | [Amalfi Moon](https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Amalfi Moon](https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz) | 2:31 | 2021-01-18 |  |
@@ -82,7 +82,7 @@
 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2021-01-18 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/4oC2OjhMIebaOtUXyqw4P8) | [Mounia Abraham](https://open.spotify.com/artist/5vZm6KOKPOk2Pooo9NHt1h) | [When You Wish Upon a Star](https://open.spotify.com/album/7fsSv3ak7BZdLx6L94bc2W) | 2:41 | 2021-01-18 |  |
 | [Winnetka](https://open.spotify.com/track/6ST2jppp8qDidqw8iK1txv) | [Joaquin Alejandro](https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m) | [Winnetka](https://open.spotify.com/album/0pjkOfoN9u4XkEQAUc9OR5) | 2:12 | 2021-01-18 |  |
-| [Y Se Enamoró La Luna](https://open.spotify.com/track/1L1622NXu08mj8wNhuMoDW) | [Sergio Monroy](https://open.spotify.com/artist/0d5ZCkfHIwK6lWcSjvOO4f) | [Como Un Juego](https://open.spotify.com/album/1D5XMlM3oXIkuTnA5aWjEF) | 4:39 | 2021-01-18 | 2023-09-10 |
+| [Y Se Enamoró La Luna](https://open.spotify.com/track/1L1622NXu08mj8wNhuMoDW) | [Sergio Monroy](https://open.spotify.com/artist/0d5ZCkfHIwK6lWcSjvOO4f) | [Como Un Juego](https://open.spotify.com/album/1D5XMlM3oXIkuTnA5aWjEF) | 4:39 | 2021-01-18 |  |
 | [Zéphyrine](https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 2:20 | 2021-01-18 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

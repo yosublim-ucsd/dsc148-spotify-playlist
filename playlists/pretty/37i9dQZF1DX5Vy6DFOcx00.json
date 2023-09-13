@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3566128,
+  "num_followers": 3567440,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTE3NTE4MTEyZDRhZTYxYmRmMzU3MGNlNDJiMDZjMTZlZTA0NTRj",
+  "snapshot_id": "MCw3NmRhM2UzNGI0Y2YyNjZhMGVlNDI2OTlkMmM1YjhlOWE0MGRhMzhk",
   "tracks": [
     {
       "added_at": "2023-09-06 15:22:16",
@@ -381,6 +381,22 @@
       "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
     },
     {
+      "added_at": "2023-09-12 14:27:27",
+      "album": {
+        "name": "ecstacy (slowed)",
+        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
+      },
+      "artists": [
+        {
+          "name": "SUICIDAL-IDOL",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
+        }
+      ],
+      "duration_ms": 119120,
+      "name": "ecstacy (slowed)",
+      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
+    },
+    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Prada",
@@ -569,6 +585,22 @@
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
+      "added_at": "2023-09-12 14:27:27",
+      "album": {
+        "name": "The Blixky Tape 2",
+        "url": "https://open.spotify.com/album/42eCvSjk8vGZP9hKEXUsYI"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "duration_ms": 178406,
+      "name": "Twirlanta",
+      "url": "https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh"
+    },
+    {
       "added_at": "2023-06-09 16:12:25",
       "album": {
         "name": "Rodeo (Remix)",
@@ -589,26 +621,6 @@
       "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
     },
     {
-      "added_at": "2023-09-06 15:22:16",
-      "album": {
-        "name": "WAP (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 187541,
-      "name": "WAP (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
-    },
-    {
       "added_at": "2023-08-11 15:07:04",
       "album": {
         "name": "3x3",
@@ -627,6 +639,26 @@
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
+    },
+    {
+      "added_at": "2023-09-06 15:22:16",
+      "album": {
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
     },
     {
       "added_at": "2023-08-11 15:07:04",
@@ -663,6 +695,38 @@
     {
       "added_at": "2023-06-09 16:12:25",
       "album": {
+        "name": "Death of a Party Girl",
+        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Blue Hair",
+      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
+    },
+    {
+      "added_at": "2023-08-16 18:05:26",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 169353,
+      "name": "Let Me Down Slowly",
+      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
+    },
+    {
+      "added_at": "2023-06-09 16:12:25",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -679,6 +743,30 @@
       "duration_ms": 239613,
       "name": "Open Arms (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF"
+    },
+    {
+      "added_at": "2023-09-12 14:27:27",
+      "album": {
+        "name": "Lil Boat 3.5",
+        "url": "https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 170858,
+      "name": "Flex Up (feat. Future & Playboi Carti)",
+      "url": "https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr"
     },
     {
       "added_at": "2023-08-14 17:51:39",
@@ -711,38 +799,6 @@
       "duration_ms": 224253,
       "name": "Laffy Taffy",
       "url": "https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ"
-    },
-    {
-      "added_at": "2023-08-16 18:05:26",
-      "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 169353,
-      "name": "Let Me Down Slowly",
-      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
-    },
-    {
-      "added_at": "2023-06-09 16:12:25",
-      "album": {
-        "name": "Death of a Party Girl",
-        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Blue Hair",
-      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
     },
     {
       "added_at": "2023-08-16 18:23:12",
@@ -879,6 +935,26 @@
       "duration_ms": 255333,
       "name": "Love",
       "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
+    },
+    {
+      "added_at": "2023-09-12 14:27:27",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 399153,
+      "name": "Hours In Silence",
+      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1585,30 +1661,6 @@
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
-      "added_at": "2023-07-10 21:42:13",
-      "album": {
-        "name": "Johnny Dang (with Paul Wall & DRODi)",
-        "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "DRODi",
-          "url": "https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Johnny Dang (with Paul Wall & DRODi)",
-      "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
-    },
-    {
       "added_at": "2023-06-09 16:12:25",
       "album": {
         "name": "LOOK DON\u2019T TOUCH (w/ cade clair)",
@@ -1751,22 +1803,6 @@
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2023-06-09 16:12:25",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 208120,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO"
     },
     {
       "added_at": "2023-06-09 16:12:25",
@@ -2047,22 +2083,6 @@
     {
       "added_at": "2023-06-09 16:12:25",
       "album": {
-        "name": "RMCM",
-        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
-    },
-    {
-      "added_at": "2023-06-09 16:12:25",
-      "album": {
         "name": "Locals 2",
         "url": "https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2"
       },
@@ -2151,22 +2171,6 @@
       "duration_ms": 251488,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
-    },
-    {
-      "added_at": "2023-06-09 16:12:25",
-      "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 256800,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI"
     },
     {
       "added_at": "2023-06-09 16:12:25",

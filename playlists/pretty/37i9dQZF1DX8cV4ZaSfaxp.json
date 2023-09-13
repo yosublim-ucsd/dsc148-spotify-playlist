@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: aiai) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 45230,
+  "num_followers": 45280,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTFjMTNlYTU4MjVhNWUxNDYxNmJkMGUzZGY1M2RiZWY1OGNhMWJj",
+  "snapshot_id": "MCwxNWYzMDM3MzFlZDg1MDhjNDAwYWI2YzM5MjNhYjk2MDk5NTZmZjQ3",
   "tracks": [
     {
       "added_at": "2023-07-13 05:23:23",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
-      },
-      "artists": [
-        {
-          "name": "EXID",
-          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
-        }
-      ],
-      "duration_ms": 198414,
-      "name": "Night Rather Than Day",
-      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "\u90fd\u5e02\u5973\u5b50",
         "url": "https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 197604,
       "name": "\u90fd\u5e02\u5973\u5b50",
       "url": "https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
+      },
+      "artists": [
+        {
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+        }
+      ],
+      "duration_ms": 198414,
+      "name": "Night Rather Than Day",
+      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "MOOD FOR LOVE",
-        "url": "https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls"
-      },
-      "artists": [
-        {
-          "name": "THE SOLUTIONS",
-          "url": "https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8"
-        }
-      ],
-      "duration_ms": 204012,
-      "name": "MOOD FOR LOVE",
-      "url": "https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "I Just Wanna Dance - The 1st Mini Album",
         "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "MOOD FOR LOVE",
+        "url": "https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls"
+      },
+      "artists": [
+        {
+          "name": "THE SOLUTIONS",
+          "url": "https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8"
+        }
+      ],
+      "duration_ms": 204012,
+      "name": "MOOD FOR LOVE",
+      "url": "https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT"
     },
     {
       "added_at": "2023-07-13 05:23:23",

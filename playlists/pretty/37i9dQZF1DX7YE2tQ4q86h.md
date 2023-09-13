@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,547 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,704 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 |
 | 2 | [Vogue](https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Vogue](https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz) | 3:12 |
-| 3 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
-| 4 | [Erotic Electronic](https://open.spotify.com/track/0TEoYWl2RLGbmsbB2Aoaa4) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Erotic Electronic](https://open.spotify.com/album/2HZkihcW7WfCMaok4rTCEk) | 2:23 |
-| 5 | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/track/1Ibb0sjzCNzhHGe3V1RakV) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/album/4EsvEffXkdatx6a7ZqUGZA) | 3:00 |
-| 6 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 |
-| 7 | [Drip Drop](https://open.spotify.com/track/13Oms7rPHZlvGz1ny1F2FO) | [Erika Jayne](https://open.spotify.com/artist/3jgs1QD0amFu2y6bqSK36Y) | [Drip Drop](https://open.spotify.com/album/3Q711uLnVZ9ufizLWrXUn5) | 3:44 |
-| 8 | [Watch Me Now \(Queen of the night\)](https://open.spotify.com/track/4MOIEJR5YLM10ZKmhn7yrZ) | [Sam Quealy](https://open.spotify.com/artist/0GLGeVG3XTA2KmlmAd05T8) | [Watch Me Now \(Queen of the night\)](https://open.spotify.com/album/5XPb0Grp0ebZu8NeldE4VH) | 3:12 |
+| 3 | [Erotic Electronic](https://open.spotify.com/track/0TEoYWl2RLGbmsbB2Aoaa4) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Erotic Electronic](https://open.spotify.com/album/2HZkihcW7WfCMaok4rTCEk) | 2:23 |
+| 4 | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/track/1Ibb0sjzCNzhHGe3V1RakV) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Catch Me \(Beautiful Fall\)](https://open.spotify.com/album/4EsvEffXkdatx6a7ZqUGZA) | 3:00 |
+| 5 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 |
+| 6 | [Drip Drop](https://open.spotify.com/track/13Oms7rPHZlvGz1ny1F2FO) | [Erika Jayne](https://open.spotify.com/artist/3jgs1QD0amFu2y6bqSK36Y) | [Drip Drop](https://open.spotify.com/album/3Q711uLnVZ9ufizLWrXUn5) | 3:44 |
+| 7 | [Watch Me Now \(Queen of the night\)](https://open.spotify.com/track/4MOIEJR5YLM10ZKmhn7yrZ) | [Sam Quealy](https://open.spotify.com/artist/0GLGeVG3XTA2KmlmAd05T8) | [Watch Me Now \(Queen of the night\)](https://open.spotify.com/album/5XPb0Grp0ebZu8NeldE4VH) | 3:12 |
+| 8 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
 | 9 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 |
 | 10 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 |
 | 11 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [Hypnotized](https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [Hypnotized](https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U) | 3:02 |
 | 100 | [lay all your love on me](https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [lay all your love on me](https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH) | 2:58 |
 
-Snapshot ID: `MCw0NGY0ZjRmZGYzMDcxYWYyNmRmOGQ5MjcxYTI3MjJjMTM4OTFlYTll`
+Snapshot ID: `MCxiOGNiNzQ2ZWNiMDU2ZWQ0NTI3NzI2OWJjMjE5YTU0ODc5ZWUxNzkx`

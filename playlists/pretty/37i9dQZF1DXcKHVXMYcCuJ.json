@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 134427,
+  "num_followers": 134687,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWU4MGEzMmVkZWUyZWJhMzY4ZjZjYzY5NGUzYWNlYTE4NWU2Mjky",
+  "snapshot_id": "MCxiMDVhN2VlZTU2YmM4NTQzN2JiNWFkMWUzMmRmMzM0YjNlMWNlZTBk",
   "tracks": [
     {
       "added_at": "2023-09-04 20:46:20",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Bakesale: Deluxe Edition",
-        "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
-      },
-      "artists": [
-        {
-          "name": "Sebadoh",
-          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
-        }
-      ],
-      "duration_ms": 106613,
-      "name": "License to Confuse - Remastered",
-      "url": "https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 195320,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Bakesale: Deluxe Edition",
+        "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
+      },
+      "artists": [
+        {
+          "name": "Sebadoh",
+          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+        }
+      ],
+      "duration_ms": 106613,
+      "name": "License to Confuse - Remastered",
+      "url": "https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Placebo",
-        "url": "https://open.spotify.com/album/7Jyg6ic5h9BDJ3WuYWYA6K"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Teenage Angst",
-      "url": "https://open.spotify.com/track/3GKEh2H15w9ZECfi1BtQ20"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "Wowee Zowee",
         "url": "https://open.spotify.com/album/0OHDiDMyxzWJfwtoeHNCf4"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Ideas Above Our Station",
-        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/7Jyg6ic5h9BDJ3WuYWYA6K"
       },
       "artists": [
         {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
         }
       ],
-      "duration_ms": 186280,
-      "name": "I'll Find You",
-      "url": "https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB"
+      "duration_ms": 162466,
+      "name": "Teenage Angst",
+      "url": "https://open.spotify.com/track/3GKEh2H15w9ZECfi1BtQ20"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -811,18 +795,18 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "The Rift",
-        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
+        "name": "Ideas Above Our Station",
+        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
       },
       "artists": [
         {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 228852,
-      "name": "The Rift",
-      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
+      "duration_ms": 186280,
+      "name": "I'll Find You",
+      "url": "https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -839,6 +823,22 @@
       "duration_ms": 239893,
       "name": "Abuse Me",
       "url": "https://open.spotify.com/track/6lgsxp4M1RmnkivCqp6kPa"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "The Rift",
+        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 228852,
+      "name": "The Rift",
+      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "No Association",
+      "url": "https://open.spotify.com/track/0lrY8m1pYczjiup6f0HhoR"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
         "name": "The Rising Tide",
         "url": "https://open.spotify.com/album/6qF8IcGGO3Y4YuNx33DJA2"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 467626,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "No Association",
-      "url": "https://open.spotify.com/track/0lrY8m1pYczjiup6f0HhoR"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Keep Telling Myself It's Alright",
-        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
-      },
-      "artists": [
-        {
-          "name": "ASHES dIVIDE",
-          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Stone",
-      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 236986,
       "name": "Don\u2019t Give Up Your Ghost",
       "url": "https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Keep Telling Myself It's Alright",
+        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
+      },
+      "artists": [
+        {
+          "name": "ASHES dIVIDE",
+          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Stone",
+      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Abstract Figures in the Dark",
-        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 246005,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "Promise Everything (Deluxe)",
         "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 222040,
       "name": "Aquasun",
       "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Abstract Figures in the Dark",
+        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 246005,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 229075,
-      "name": "Note To Self",
-      "url": "https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 229075,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 218288,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "For Your Own Special Sweetheart",
         "url": "https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 279266,
       "name": "Savory",
       "url": "https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 218288,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "Slide Away",
-      "url": "https://open.spotify.com/track/1hhkgFC178vWe1xBS23tj9"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "Thank You For Being Here",
         "url": "https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 313340,
       "name": "Feeling Real",
       "url": "https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/1hhkgFC178vWe1xBS23tj9"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 248981,
+      "name": "Cosmonauts",
+      "url": "https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
       },
@@ -2047,18 +2063,18 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Interiors",
-        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+        "name": "Last Orders",
+        "url": "https://open.spotify.com/album/0Fz2AwWba0P3TDmSBWuKrs"
       },
       "artists": [
         {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 248981,
-      "name": "Cosmonauts",
-      "url": "https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS"
+      "duration_ms": 238693,
+      "name": "Last Orders",
+      "url": "https://open.spotify.com/track/13gy7iQVtO6IR96VM8IQTJ"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -2075,22 +2091,6 @@
       "duration_ms": 266866,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/1BoJEC8Tjs4DxoEGuT8UBf"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
-        "name": "Last Orders",
-        "url": "https://open.spotify.com/album/0Fz2AwWba0P3TDmSBWuKrs"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Last Orders",
-      "url": "https://open.spotify.com/track/13gy7iQVtO6IR96VM8IQTJ"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Stuck In A Loop",
-        "url": "https://open.spotify.com/album/0E35wkZniQNbAxGTu8XqeI"
-      },
-      "artists": [
-        {
-          "name": "Soul Blind",
-          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
-        }
-      ],
-      "duration_ms": 173458,
-      "name": "Stuck In A Loop",
-      "url": "https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "The Brass Tax",
         "url": "https://open.spotify.com/album/0Gk4iJWdsWeKLW29qk5hzT"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 228093,
       "name": "The Hey Man!",
       "url": "https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Stuck In A Loop",
+        "url": "https://open.spotify.com/album/0E35wkZniQNbAxGTu8XqeI"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "duration_ms": 173458,
+      "name": "Stuck In A Loop",
+      "url": "https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -2399,18 +2399,18 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
+        "name": "Antenna",
+        "url": "https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585"
       },
       "artists": [
         {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
+          "name": "Cave In",
+          "url": "https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi"
         }
       ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
+      "duration_ms": 248426,
+      "name": "Stained Silver",
+      "url": "https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

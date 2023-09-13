@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 548756,
+  "num_followers": 549308,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjlmNDg5YjhlM2RhOTM2MzQzZjUwMTk3YWFiYWYxMGM4MTFhNGI1",
+  "snapshot_id": "MCxlNjZjMjc5NTY5NTZhNDcyNzBmODQzYzhlMjcyZjg1NTBjZWQ2OWY5",
   "tracks": [
     {
       "added_at": "2023-09-01 13:06:11",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-01 13:06:11",
       "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Feuer frei!",
-      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
-    },
-    {
-      "added_at": "2023-09-01 13:06:11",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 253317,
       "name": "My Own Grave",
       "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
+    },
+    {
+      "added_at": "2023-09-01 13:06:11",
+      "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Feuer frei!",
+      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
     },
     {
       "added_at": "2023-09-01 13:06:11",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-09-01 13:06:11",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
       "artists": [
         {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 202158,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+      "duration_ms": 248880,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
     },
     {
       "added_at": "2023-09-01 13:06:11",
@@ -855,22 +855,6 @@
       "duration_ms": 263586,
       "name": "Vice Grip",
       "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
-    },
-    {
-      "added_at": "2023-09-01 13:06:11",
-      "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 248880,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
     },
     {
       "added_at": "2023-09-01 13:06:11",
@@ -903,6 +887,22 @@
       "duration_ms": 203680,
       "name": "Down for Life",
       "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
+    },
+    {
+      "added_at": "2023-09-01 13:06:11",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
     },
     {
       "added_at": "2023-09-01 13:06:11",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-01 13:06:11",
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
-    },
-    {
-      "added_at": "2023-09-01 13:06:11",
-      "album": {
         "name": "Rust In Peace",
         "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 322933,
       "name": "Tornado Of Souls",
       "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
+    },
+    {
+      "added_at": "2023-09-01 13:06:11",
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
     },
     {
       "added_at": "2023-09-01 13:06:11",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-09-01 13:06:11",
       "album": {
-        "name": "The Great War",
-        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 268266,
-      "name": "Great War",
-      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
-    },
-    {
-      "added_at": "2023-09-01 13:06:11",
-      "album": {
         "name": "In Our Wake",
         "url": "https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 199959,
       "name": "The Time Is Now",
       "url": "https://open.spotify.com/track/0vMpw8pTVb7egqdVaKwy6U"
+    },
+    {
+      "added_at": "2023-09-01 13:06:11",
+      "album": {
+        "name": "The Great War",
+        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 268266,
+      "name": "Great War",
+      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
     },
     {
       "added_at": "2023-09-01 13:06:11",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-09-01 13:06:11",
       "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+    },
+    {
+      "added_at": "2023-09-01 13:06:11",
+      "album": {
         "name": "St. Anger",
         "url": "https://open.spotify.com/album/4ljK2LVKvEPd5xPgUJn0Bs"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 441133,
       "name": "St. Anger",
       "url": "https://open.spotify.com/track/3fOc9x06lKJBhz435mInlH"
-    },
-    {
-      "added_at": "2023-09-01 13:06:11",
-      "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 238109,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
       "added_at": "2023-09-01 13:06:11",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-09-01 13:06:11",
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
+    },
+    {
+      "added_at": "2023-09-01 13:06:11",
+      "album": {
         "name": "The Nothing",
         "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2023-09-01 13:06:11",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
+        "name": "The Ghost Inside",
+        "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+      "duration_ms": 298825,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
     },
     {
       "added_at": "2023-09-01 13:06:11",
@@ -1387,22 +1403,6 @@
       "duration_ms": 388035,
       "name": "Catastrophist",
       "url": "https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68"
-    },
-    {
-      "added_at": "2023-09-01 13:06:11",
-      "album": {
-        "name": "The Ghost Inside",
-        "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 298825,
-      "name": "Aftermath",
-      "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
     },
     {
       "added_at": "2023-09-01 13:06:11",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-09-01 13:06:11",
       "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
-    },
-    {
-      "added_at": "2023-09-01 13:06:11",
-      "album": {
         "name": "American Sun",
         "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
       },
@@ -1523,34 +1507,18 @@
     {
       "added_at": "2023-09-01 13:06:11",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
       },
       "artists": [
         {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 225245,
-      "name": "Executioner's Tax (Swing of the Axe)",
-      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
-    },
-    {
-      "added_at": "2023-09-01 13:06:11",
-      "album": {
-        "name": "The Will To Resist",
-        "url": "https://open.spotify.com/album/0ZVxTEzzR2ymyefQbsQGMV"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "The Will To Resist",
-      "url": "https://open.spotify.com/track/0WV1TMGuajXst28TPvKLrK"
+      "duration_ms": 293466,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
     },
     {
       "added_at": "2023-09-01 13:06:11",
@@ -1571,6 +1539,22 @@
     {
       "added_at": "2023-09-01 13:06:11",
       "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Executioner's Tax (Swing of the Axe)",
+      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
+    },
+    {
+      "added_at": "2023-09-01 13:06:11",
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 210406,
       "name": "STFU",
       "url": "https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob"
+    },
+    {
+      "added_at": "2023-09-01 13:06:11",
+      "album": {
+        "name": "The Will To Resist",
+        "url": "https://open.spotify.com/album/0ZVxTEzzR2ymyefQbsQGMV"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "The Will To Resist",
+      "url": "https://open.spotify.com/track/0WV1TMGuajXst28TPvKLrK"
     },
     {
       "added_at": "2023-09-01 13:06:11",

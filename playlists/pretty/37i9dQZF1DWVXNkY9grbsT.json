@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 44398,
+  "num_followers": 44456,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2U5M2YxZGIyZjk0N2NmMjFkOTMyN2Q5OTczZGU1M2NhYWU5ZTFm",
+  "snapshot_id": "MCw0YjhlMjAyMmJlZDM2OTE2N2U4NTlhZGVhNmJkYzBjYzg5MzJjOWFl",
   "tracks": [
     {
       "added_at": "2023-09-08 14:02:20",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-09-08 14:02:20",
       "album": {
-        "name": "Avichrom",
-        "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
-      },
-      "artists": [
-        {
-          "name": "Dominik Eulberg",
-          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
-        }
-      ],
-      "duration_ms": 309051,
-      "name": "Blaumeise",
-      "url": "https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI"
-    },
-    {
-      "added_at": "2023-09-08 14:02:20",
-      "album": {
         "name": "Fond",
         "url": "https://open.spotify.com/album/5PEVqlVVEvvQJgmLmQ7IEh"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 160362,
       "name": "Fond",
       "url": "https://open.spotify.com/track/5wwmFhVGRTVEfftMcb3HGp"
+    },
+    {
+      "added_at": "2023-09-08 14:02:20",
+      "album": {
+        "name": "Avichrom",
+        "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
+      },
+      "artists": [
+        {
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+        }
+      ],
+      "duration_ms": 309051,
+      "name": "Blaumeise",
+      "url": "https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-09-08 14:02:20",
       "album": {
-        "name": "Human By Mistake",
-        "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
-      },
-      "artists": [
-        {
-          "name": "Landhouse",
-          "url": "https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt"
-        }
-      ],
-      "duration_ms": 415526,
-      "name": "Human By Mistake",
-      "url": "https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF"
-    },
-    {
-      "added_at": "2023-09-08 14:02:20",
-      "album": {
         "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
         "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
+    },
+    {
+      "added_at": "2023-09-08 14:02:20",
+      "album": {
+        "name": "Human By Mistake",
+        "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
+      },
+      "artists": [
+        {
+          "name": "Landhouse",
+          "url": "https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt"
+        }
+      ],
+      "duration_ms": 415526,
+      "name": "Human By Mistake",
+      "url": "https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -883,22 +883,18 @@
     {
       "added_at": "2023-09-08 14:02:20",
       "album": {
-        "name": "Petrovo Uho Remixes Part I/III",
-        "url": "https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84"
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
       "artists": [
         {
-          "name": "Ben Kaczor",
-          "url": "https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL"
-        },
-        {
-          "name": "efdemin",
-          "url": "https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G"
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
         }
       ],
-      "duration_ms": 420923,
-      "name": "Tramuntana - Efdemin Remix",
-      "url": "https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT"
+      "duration_ms": 251485,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -927,18 +923,22 @@
     {
       "added_at": "2023-09-08 14:02:20",
       "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+        "name": "Petrovo Uho Remixes Part I/III",
+        "url": "https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84"
       },
       "artists": [
         {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+          "name": "Ben Kaczor",
+          "url": "https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL"
+        },
+        {
+          "name": "efdemin",
+          "url": "https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G"
         }
       ],
-      "duration_ms": 251485,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
+      "duration_ms": 420923,
+      "name": "Tramuntana - Efdemin Remix",
+      "url": "https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-09-08 14:02:20",
       "album": {
-        "name": "Undulations and Aberrations",
-        "url": "https://open.spotify.com/album/6MX6ANSOwS8BTL6RtP7Ffg"
+        "name": "Opal",
+        "url": "https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl"
       },
       "artists": [
         {
-          "name": "Drew McDowall",
-          "url": "https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4"
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
         }
       ],
-      "duration_ms": 413755,
-      "name": "VCDB",
-      "url": "https://open.spotify.com/track/1AyFY68bV6nIaO6E8Arcyp"
+      "duration_ms": 164293,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -1183,22 +1183,6 @@
       "duration_ms": 190983,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy"
-    },
-    {
-      "added_at": "2023-09-08 14:02:20",
-      "album": {
-        "name": "Opal",
-        "url": "https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl"
-      },
-      "artists": [
-        {
-          "name": "Batu",
-          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -1235,6 +1219,22 @@
       "duration_ms": 210889,
       "name": "Must Have Been Good",
       "url": "https://open.spotify.com/track/0TmdUleVkt3Bq9Pv1uYzw5"
+    },
+    {
+      "added_at": "2023-09-08 14:02:20",
+      "album": {
+        "name": "Undulations and Aberrations",
+        "url": "https://open.spotify.com/album/6MX6ANSOwS8BTL6RtP7Ffg"
+      },
+      "artists": [
+        {
+          "name": "Drew McDowall",
+          "url": "https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4"
+        }
+      ],
+      "duration_ms": 413755,
+      "name": "VCDB",
+      "url": "https://open.spotify.com/track/1AyFY68bV6nIaO6E8Arcyp"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-08 14:02:20",
       "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/6PXeUwaH1WzmEhQcgb3wDd"
-      },
-      "artists": [
-        {
-          "name": "Ocoeur",
-          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
-        }
-      ],
-      "duration_ms": 318373,
-      "name": "Opposite Sides",
-      "url": "https://open.spotify.com/track/03VbNLKlENAi4IUbClDw1n"
-    },
-    {
-      "added_at": "2023-09-08 14:02:20",
-      "album": {
         "name": "Past and Future Tense",
         "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 224848,
       "name": "MD 2",
       "url": "https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW"
+    },
+    {
+      "added_at": "2023-09-08 14:02:20",
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/6PXeUwaH1WzmEhQcgb3wDd"
+      },
+      "artists": [
+        {
+          "name": "Ocoeur",
+          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
+        }
+      ],
+      "duration_ms": 318373,
+      "name": "Opposite Sides",
+      "url": "https://open.spotify.com/track/03VbNLKlENAi4IUbClDw1n"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-09-08 14:02:20",
       "album": {
-        "name": "Atlas der Gedanken",
-        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
-      },
-      "artists": [
-        {
-          "name": "Mareena",
-          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
-        },
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 306122,
-      "name": "Sinnessprung",
-      "url": "https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm"
-    },
-    {
-      "added_at": "2023-09-08 14:02:20",
-      "album": {
         "name": "Martes + Utop\u00eda",
         "url": "https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR"
       },
@@ -1383,18 +1363,22 @@
     {
       "added_at": "2023-09-08 14:02:20",
       "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
+        "name": "Atlas der Gedanken",
+        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
       },
       "artists": [
         {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+          "name": "Mareena",
+          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
+        },
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 286283,
-      "name": "Adagio I - Mut",
-      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
+      "duration_ms": 306122,
+      "name": "Sinnessprung",
+      "url": "https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -1419,6 +1403,22 @@
       "duration_ms": 231340,
       "name": "Worlds Collide - Hannes Kretzer Rework",
       "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+    },
+    {
+      "added_at": "2023-09-08 14:02:20",
+      "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 286283,
+      "name": "Adagio I - Mut",
+      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-09-08 14:02:20",
       "album": {
-        "name": "Yellowstone Ambient",
-        "url": "https://open.spotify.com/album/4hUZot6kLlzNs6K2xewkO4"
-      },
-      "artists": [
-        {
-          "name": "Airbird",
-          "url": "https://open.spotify.com/artist/2Yk1UXf6iXf0XpMxoKIMDD"
-        }
-      ],
-      "duration_ms": 396152,
-      "name": "Hellroaring Suspension Bridge",
-      "url": "https://open.spotify.com/track/2VZP3a2fFKUok9PMXenZjD"
-    },
-    {
-      "added_at": "2023-09-08 14:02:20",
-      "album": {
         "name": "Springtime in Croatia",
         "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 596250,
       "name": "Earthship",
       "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
+    },
+    {
+      "added_at": "2023-09-08 14:02:20",
+      "album": {
+        "name": "Yellowstone Ambient",
+        "url": "https://open.spotify.com/album/4hUZot6kLlzNs6K2xewkO4"
+      },
+      "artists": [
+        {
+          "name": "Airbird",
+          "url": "https://open.spotify.com/artist/2Yk1UXf6iXf0XpMxoKIMDD"
+        }
+      ],
+      "duration_ms": 396152,
+      "name": "Hellroaring Suspension Bridge",
+      "url": "https://open.spotify.com/track/2VZP3a2fFKUok9PMXenZjD"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-09-08 14:02:20",
       "album": {
-        "name": "Martes + Utop\u00eda",
-        "url": "https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "Momento",
-      "url": "https://open.spotify.com/track/0EtJr0s6hot51xSgQ2ZBxI"
-    },
-    {
-      "added_at": "2023-09-08 14:02:20",
-      "album": {
         "name": "Orphangene (Soundtrack from the motion picture \"Mondocane\")",
         "url": "https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 231000,
       "name": "Hot Milk",
       "url": "https://open.spotify.com/track/72ftfYtMxmOH86Vu5p0rDf"
+    },
+    {
+      "added_at": "2023-09-08 14:02:20",
+      "album": {
+        "name": "Martes + Utop\u00eda",
+        "url": "https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/0EtJr0s6hot51xSgQ2ZBxI"
     },
     {
       "added_at": "2023-09-08 14:02:20",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2023-09-08 14:02:20",
       "album": {
+        "name": "Bluet",
+        "url": "https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+        }
+      ],
+      "duration_ms": 291096,
+      "name": "Bluet",
+      "url": "https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG"
+    },
+    {
+      "added_at": "2023-09-08 14:02:20",
+      "album": {
         "name": "Remember Rainbow Bridge",
         "url": "https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 192920,
       "name": "EA9633",
       "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
-    },
-    {
-      "added_at": "2023-09-08 14:02:20",
-      "album": {
-        "name": "Bluet",
-        "url": "https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP"
-      },
-      "artists": [
-        {
-          "name": "Ah! Kosmos",
-          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
-        },
-        {
-          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
-          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
-        }
-      ],
-      "duration_ms": 291096,
-      "name": "Bluet",
-      "url": "https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG"
     }
   ],
   "unique_name": "Electronic X",

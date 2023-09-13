@@ -2509,6 +2509,28 @@
     },
     {
       "album": {
+        "name": "Butter",
+        "url": "https://open.spotify.com/album/6jdhoZVZfJyRaq6RyQ8flo"
+      },
+      "artists": [
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        },
+        {
+          "name": "A'Y",
+          "url": "https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "House Shoes",
+      "url": "https://open.spotify.com/track/7330zPJs9Z3Bb2KcLVDYEP"
+    },
+    {
+      "album": {
         "name": "How stupid is this?",
         "url": "https://open.spotify.com/album/3ZxRnhdZ5hJbrrZfPveQDL"
       },
@@ -3334,7 +3356,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 150000,
       "name": "My Man (Freestyle)",
       "url": "https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY"

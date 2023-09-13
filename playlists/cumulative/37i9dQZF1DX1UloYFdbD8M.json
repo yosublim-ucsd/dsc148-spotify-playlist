@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Oru January",
+        "url": "https://open.spotify.com/album/1PVGkTGupgo1USnoeYfYuM"
+      },
+      "artists": [
+        {
+          "name": "Bineetha Ranjith",
+          "url": "https://open.spotify.com/artist/0hYeiOpfSvwJ6IvJPy9aHD"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282306,
+      "name": "Oru January",
+      "url": "https://open.spotify.com/track/0YuwGkDbm0RzREWYaAfPfP"
+    },
+    {
+      "album": {
         "name": "Padayatra (Live)",
         "url": "https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1"
       },

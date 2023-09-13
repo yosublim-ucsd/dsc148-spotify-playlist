@@ -4,7 +4,7 @@
 
 > This is Brenda Fassie\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 18 min
+70 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Nakupenda \(I Love You\)](https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 4:37 | 2021-12-28 |  |
 | [Ngeke Umconfirm](https://open.spotify.com/track/60x01dD48MK74ivENAzXxf) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 4:16 | 2022-01-21 | 2022-02-22 |
 | [Ngiyakusaba](https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [I Am Not A Bad Girl](https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y) | 5:14 | 2021-12-28 |  |
-| [Ngiyakuthanda Papa Wemba](https://open.spotify.com/track/4C0GA7K5qTaqpfssY9AEvs) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Now Is The Time](https://open.spotify.com/album/7B7IBtt8hrh1fayumg5JkD) | 3:57 | 2021-12-28 |  |
+| [Ngiyakuthanda Papa Wemba](https://open.spotify.com/track/4C0GA7K5qTaqpfssY9AEvs) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Now Is The Time](https://open.spotify.com/album/7B7IBtt8hrh1fayumg5JkD) | 3:57 | 2021-12-28 | 2023-09-13 |
 | [Ngizilalhlela Kuwe](https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:29 | 2021-12-28 |  |
 | [Ngizobuya](https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 4:04 | 2021-12-28 |  |
 | [Ngohlala Ngi Nje](https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:58 | 2021-12-28 |  |
@@ -55,6 +55,7 @@
 | [Oxamu](https://open.spotify.com/track/3c12Qf7JZy3v7RHntq5HQ6) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 5:21 | 2021-12-28 | 2023-07-07 |
 | [Party Time \- Kuya Ngokuthi Ungubani](https://open.spotify.com/track/1BNqCfgKVNePaG8AKR1qzw) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:31 | 2021-12-28 |  |
 | [Ponci Ponci \(Pontjie Pontjie\)](https://open.spotify.com/track/49SjeHQevHY5zP1cqqxi9t) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:21 | 2021-12-28 |  |
+| [Popo dipo \(Kodjo Kodjo Tiré\)](https://open.spotify.com/track/2VCWyJvJfwpDrLzeV1FEyI) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Poisson d'Avril](https://open.spotify.com/album/3hFOrzayFROA7I1yXyJQZS) | 4:54 | 2023-09-12 |  |
 | [Promises \- Live From South Africa/2009 / Remix](https://open.spotify.com/track/3ip1rB1iNyVNMwdkYvuGAX) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey \(Live Remixed\)](https://open.spotify.com/album/0dGDWDL5KogcG3f5DGH744) | 3:50 | 2021-12-28 |  |
 | [Qula](https://open.spotify.com/track/4Tqg2AhwuuzgpDsGWtG3M7) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 5:17 | 2022-09-05 | 2022-09-07 |
 | [Rea O Boka](https://open.spotify.com/track/4KdLf3MZVNSeP2PloaPfdq) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:19 | 2023-09-04 | 2023-09-06 |

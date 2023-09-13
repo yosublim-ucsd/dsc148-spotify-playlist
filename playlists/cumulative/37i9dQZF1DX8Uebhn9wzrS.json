@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Acting Out",
+        "url": "https://open.spotify.com/album/7imrc1FLahS1gK1xw9zQp9"
+      },
+      "artists": [
+        {
+          "name": "enix lee",
+          "url": "https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119324,
+      "name": "Acting Out",
+      "url": "https://open.spotify.com/track/0499UUSNO6l4Jc4apURe0U"
+    },
+    {
+      "album": {
         "name": "ginzan / ador",
         "url": "https://open.spotify.com/album/03FxKN9k4HsF0RCLTCBHeE"
       },
@@ -2314,6 +2332,24 @@
       "duration_ms": 108272,
       "name": "bad checks",
       "url": "https://open.spotify.com/track/02aGT8vsA26xHDNLkvhN50"
+    },
+    {
+      "album": {
+        "name": "Baleari",
+        "url": "https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y"
+      },
+      "artists": [
+        {
+          "name": "Valhallz",
+          "url": "https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209230,
+      "name": "Baleari",
+      "url": "https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF"
     },
     {
       "album": {
@@ -5047,6 +5083,24 @@
     },
     {
       "album": {
+        "name": "Climbing",
+        "url": "https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K"
+      },
+      "artists": [
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132640,
+      "name": "Climbing",
+      "url": "https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4"
+    },
+    {
+      "album": {
         "name": "Cyberprose",
         "url": "https://open.spotify.com/album/3cFyb8vpypV0INiWoGRMRl"
       },
@@ -5665,6 +5719,24 @@
     },
     {
       "album": {
+        "name": "connected",
+        "url": "https://open.spotify.com/album/7LsAX2zlDtauYV8KlGJuCZ"
+      },
+      "artists": [
+        {
+          "name": "Wolf Schranze",
+          "url": "https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94389,
+      "name": "connected",
+      "url": "https://open.spotify.com/track/68vVjEdFknL2cKq8OgdvKc"
+    },
+    {
+      "album": {
         "name": "Cookie Clouds",
         "url": "https://open.spotify.com/album/4UJbQ9EmFuLtmWAIb5xNvO"
       },
@@ -5850,7 +5922,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 104594,
       "name": "Cosmetics",
       "url": "https://open.spotify.com/track/57JRVNAO9gTmmLVIlkqibb"
@@ -5886,7 +5958,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 99966,
       "name": "Court Mix",
       "url": "https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz"
@@ -5940,7 +6012,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 124294,
       "name": "Create your own",
       "url": "https://open.spotify.com/track/5xqsnPwf5kPC0t6OjMldGK"
@@ -12069,6 +12141,28 @@
     },
     {
       "album": {
+        "name": "hoshposh",
+        "url": "https://open.spotify.com/album/24ZMHHisfGGaRsz4S7KEwp"
+      },
+      "artists": [
+        {
+          "name": "Plusma",
+          "url": "https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH"
+        },
+        {
+          "name": "Miramare",
+          "url": "https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160985,
+      "name": "hoshposh",
+      "url": "https://open.spotify.com/track/3p2Q8exvW0nEV9wvhpW9MH"
+    },
+    {
+      "album": {
         "name": "House Hunt",
         "url": "https://open.spotify.com/album/0J4ndocZCA0qIR1WA24h05"
       },
@@ -14307,6 +14401,24 @@
     },
     {
       "album": {
+        "name": "Let\u2019s back that up",
+        "url": "https://open.spotify.com/album/3lD0APreTYsNXr0qli3Qdq"
+      },
+      "artists": [
+        {
+          "name": "Ryu Riders",
+          "url": "https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126035,
+      "name": "Let\u2019s back that up",
+      "url": "https://open.spotify.com/track/6qB6Tf93CQyItAywIUfusl"
+    },
+    {
+      "album": {
         "name": "Levitar",
         "url": "https://open.spotify.com/album/2rFGX45VF3mebMZjSDYttm"
       },
@@ -16082,7 +16194,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 116770,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5OUp8kF4z1oxwWcYFKg2qW"
@@ -19520,7 +19632,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 138624,
       "name": "Park Life",
       "url": "https://open.spotify.com/track/6TrmKrBHA1UcepoLAoCa7A"
@@ -21609,6 +21721,24 @@
     },
     {
       "album": {
+        "name": "roadtrip",
+        "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
+      },
+      "artists": [
+        {
+          "name": "Trixie Muff",
+          "url": "https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "roadtrip",
+      "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
+    },
+    {
+      "album": {
         "name": "Roadwalk",
         "url": "https://open.spotify.com/album/6qJaJS8sB5obL0Dd58uQ0K"
       },
@@ -22816,7 +22946,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 163124,
       "name": "Silence",
       "url": "https://open.spotify.com/track/63XQRpucFtZi1c8tQx48L2"
@@ -23758,7 +23888,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 112941,
       "name": "somethings up",
       "url": "https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9"
@@ -24128,6 +24258,24 @@
       "duration_ms": 209802,
       "name": "spellbounds",
       "url": "https://open.spotify.com/track/5XtH4864ouLpUJx3rzBeOS"
+    },
+    {
+      "album": {
+        "name": "Spin Free",
+        "url": "https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH"
+      },
+      "artists": [
+        {
+          "name": "Duos On Mars",
+          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140593,
+      "name": "Spin Free",
+      "url": "https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv"
     },
     {
       "album": {
@@ -28884,7 +29032,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 157333,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/1vGQOxqFAlGJdyGRhcN8y9"

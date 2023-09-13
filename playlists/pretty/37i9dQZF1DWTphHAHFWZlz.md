@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,926 likes - 38 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,953 likes - 38 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 37 | [Mi Barrio \(feat\. Neo Pistea & CA7RIEL\)](https://open.spotify.com/track/2qhi1jUSeDXmFWHQTXmD2K) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Íntimo Extremo \- 30 Años](https://open.spotify.com/album/3dkp0dRoQfbbPNjiBujDMC) | 3:29 |
 | 38 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 |
 
-Snapshot ID: `MCw5MTYwN2E1NGNmOTEyZTcyMjk0YmYzZThiZDAxNWZhNTkwYWY0ZWQ4`
+Snapshot ID: `MCxiOGE5YmNmZjMxNWQwMjg1NDZjMzE0MzA4YjEzMmYxYjkxMjI5MTFh`

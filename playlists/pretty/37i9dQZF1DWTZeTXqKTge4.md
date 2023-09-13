@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Alaclair Ensemble
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,700 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,708 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Les belles filles \- Spotify Singles](https://open.spotify.com/track/6ArGOTiUwMzXgAh0tWjZKu) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/2eiZ94kZNFeLdDzUi5cV5X) | 2:23 |
 | 75 | [30 Shots](https://open.spotify.com/track/5sJr70b05dLwOamB3s7o8L) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 2:53 |
 
-Snapshot ID: `MCw4OTdhODJjY2I0OWUxMDEyZjUwNzE3Y2M0MjMwYjJkZTI3ZjQxMjM5`
+Snapshot ID: `MCwyN2QzODEyYzQ3MGJjYzYzMDYxN2VhNGQ1NDFjYjQ4ZTRlYTAzZjkx`

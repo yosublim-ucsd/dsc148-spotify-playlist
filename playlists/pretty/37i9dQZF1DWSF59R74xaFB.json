@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 517211,
+  "num_followers": 517461,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjQ1YTRkODM4YzgzM2ZkYjdiNWJhZTg0NzdlNmZhZTNjZmY2Y2Q0",
+  "snapshot_id": "MCwxNGIzNmNlMGIxNDE3OGYxOWFlNWJhYmJlNDU2N2JkY2RiODJhZTUw",
   "tracks": [
     {
       "added_at": "2023-09-08 23:42:45",
@@ -691,30 +691,18 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
+        "name": "Amor Supremo (Desnudo)",
+        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 305120,
-      "name": "Prometiste",
-      "url": "https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj"
+      "duration_ms": 242446,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -751,22 +739,6 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
-        "name": "Amor Supremo (Desnudo)",
-        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
         "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
@@ -783,6 +755,34 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 305120,
+      "name": "Prometiste",
+      "url": "https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -815,6 +815,22 @@
       "duration_ms": 223200,
       "name": "Usted",
       "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 222826,
-      "name": "Que Lo Nuestro Se Quede Nuestro",
-      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
+      "duration_ms": 211946,
+      "name": "\u00bfC\u00f3mo Pagarte?",
+      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -915,26 +915,6 @@
       "duration_ms": 215112,
       "name": "Ecos De Amor",
       "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
-        "name": "Eres Mi Religi\u00f3n",
-        "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Joy",
-          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
-        }
-      ],
-      "duration_ms": 267836,
-      "name": "Eres Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -1007,22 +987,6 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "\u00bfC\u00f3mo Pagarte?",
-      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
@@ -1039,18 +1003,38 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+        "name": "Eres Mi Religi\u00f3n",
+        "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Joy",
+          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
         }
       ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+      "duration_ms": 267836,
+      "name": "Eres Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Que Lo Nuestro Se Quede Nuestro",
+      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/2FQeikDvH8PH7JhunCQ6j1"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "La Mujer Que No So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/2rgH6C08H3J2AWlckoG9Vm"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 283133,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/2FQeikDvH8PH7JhunCQ6j1"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "La Mujer Que No So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/2rgH6C08H3J2AWlckoG9Vm"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
+        "name": "30 de Febrero",
+        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
-        "name": "30 de Febrero",
-        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "No Pasa Nada",
-      "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 211906,
       "name": "Moscas en la Casa",
       "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 292760,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
     },
     {
       "added_at": "2023-09-08 23:42:45",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-09-08 23:42:45",
       "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
+    },
+    {
+      "added_at": "2023-09-08 23:42:45",
+      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
-    },
-    {
-      "added_at": "2023-09-08 23:42:45",
-      "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-09-08 23:42:45",

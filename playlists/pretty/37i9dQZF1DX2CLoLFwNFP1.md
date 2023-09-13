@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,867 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,907 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Alone Tonight \(Feat\. Sik\-K\)](https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:11 |
 | 100 | [Ain’t No Party Like an AOMG Party](https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Scene Stealers](https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe) | 4:37 |
 
-Snapshot ID: `MCwzYmJiZmQ3N2I5NWQ2NTA4ZjAyYzlhZTBhNTZkNWE5NmI2MGQzZjdh`
+Snapshot ID: `MCxiODQ2ZWZlY2EwYTc5ZTc5NzkyMWQ2MWYyNzc4MmYyMmRmYmUwZDNi`

@@ -1747,6 +1747,28 @@
     },
     {
       "album": {
+        "name": "CFB",
+        "url": "https://open.spotify.com/album/57GpJDPLmbaTDaDBAU48Bo"
+      },
+      "artists": [
+        {
+          "name": "Open Till L8",
+          "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
+        },
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150729,
+      "name": "CFB",
+      "url": "https://open.spotify.com/track/01aqLd3IeFjrRbIGFCsajv"
+    },
+    {
+      "album": {
         "name": "CHAT",
         "url": "https://open.spotify.com/album/6sSwcmateR8ewm6ztIae2x"
       },
@@ -4227,6 +4249,24 @@
     },
     {
       "album": {
+        "name": "Highroad",
+        "url": "https://open.spotify.com/album/5W0CNfQ36xJuAW0CUbr1kN"
+      },
+      "artists": [
+        {
+          "name": "Baby Lane",
+          "url": "https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108251,
+      "name": "Highroad",
+      "url": "https://open.spotify.com/track/7BBvEBbVfkYZNA5Bg7LgIS"
+    },
+    {
+      "album": {
         "name": "Hit My Line",
         "url": "https://open.spotify.com/album/3rv3dFnCgjEXheaE5mN614"
       },
@@ -4836,6 +4876,28 @@
       "duration_ms": 164954,
       "name": "IN THE MOOD",
       "url": "https://open.spotify.com/track/3ayoMoC4HC8RH3r07Qq4uo"
+    },
+    {
+      "album": {
+        "name": "In Ya City (feat. Arz)",
+        "url": "https://open.spotify.com/album/6nmMiiuzDkpcdKI6uOLZhz"
+      },
+      "artists": [
+        {
+          "name": "Day1",
+          "url": "https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic"
+        },
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156715,
+      "name": "In Ya City (feat. Arz)",
+      "url": "https://open.spotify.com/track/0XpMPVilzy675zPWVvj3Pl"
     },
     {
       "album": {
@@ -6262,6 +6324,24 @@
       "duration_ms": 190409,
       "name": "Moppin",
       "url": "https://open.spotify.com/track/1nmHyC4nZmCwWkpgDC31n9"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/2LPnUdCOWHiKa8doWVtHum"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "More Life",
+      "url": "https://open.spotify.com/track/2seoURSCaa0mVLqodKvnTF"
     },
     {
       "album": {

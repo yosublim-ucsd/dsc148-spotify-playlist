@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-179 songs - 12 hr 19 min
+180 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ancestral Recall](https://open.spotify.com/track/66EQnrHuas3WUn8aIOVmdg) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [Ancestral Recall](https://open.spotify.com/album/0ppDekC0zA0aOKt9FxXVMY) | 3:54 | 2022-09-29 | 2022-11-13 |
 | [Ancestral Recall](https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [May Our Chambers Be Full](https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc) | 3:54 | 2022-07-26 |  |
 | [ANTAGONIST RETURNS](https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm) | [The Worst of Us](https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [THE AKUMA](https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW) | [ANTAGONIST RETURNS](https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb) | 3:37 | 2023-03-03 |  |
-| [Arcana Imperii](https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh) | 4:53 | 2022-11-18 |  |
+| [Arcana Imperii](https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh) | 4:53 | 2022-11-18 | 2023-09-13 |
 | [Arcana Imperii](https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y) | 4:53 | 2021-12-20 | 2023-05-05 |
 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 | 2021-12-20 |  |
 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 | 2022-09-29 |  |
@@ -100,6 +100,7 @@
 | [I Spit On Your Grave](https://open.spotify.com/track/0Emgsja9zrXLSPTmOEY0C5) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7c9h4IjSx9c6B7uuZkT88R) | 3:39 | 2022-11-18 | 2023-09-10 |
 | [I Spit On Your Grave](https://open.spotify.com/track/1Nlr6AqQHfh79yFabmu2EF) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7CfzmC5Xq20b1UQbO4fHkM) | 3:39 | 2021-12-20 | 2022-10-15 |
 | [I Spit On Your Grave](https://open.spotify.com/track/2HkjkOwkTE51ajdTHxtu26) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7MqqZttKOfY4VvN77e6Mv4) | 3:39 | 2022-09-29 | 2023-07-21 |
+| [I Spit On Your Grave](https://open.spotify.com/track/5TFvIb9M86dN3VgvHYqaPy) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 3:39 | 2022-11-18 |  |
 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 | 2023-02-09 |  |
 | [Into The Void \- Single Edit](https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites \(Deluxe Edition\)](https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T) | 3:30 | 2022-11-18 |  |
 | [Into The Void \- Single Edit](https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Into The Void](https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL) | 3:30 | 2021-12-20 | 2023-05-06 |

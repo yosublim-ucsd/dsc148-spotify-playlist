@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Olivia Rodrigo
 
-1,209 songs - 2 day 17 hr 10 min
+1,210 songs - 2 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Hold Me Like A Summer](https://open.spotify.com/track/7mE4jzo38u1LhriLyqT6SR) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Hold Me Like A Summer](https://open.spotify.com/album/57VIsBCsuxjam0CzdTBiUQ) | 3:11 | 2023-08-31 | 2023-09-08 |
 | [Hold Yah](https://open.spotify.com/track/24AlYmObaxnokyprUZFfRl) | [Delawou](https://open.spotify.com/artist/09ncWvqVNRg92iWAnzn3Gt), [RENZI](https://open.spotify.com/artist/6vmhMeXBCSMtkCEcDD8Wmk), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [Hold Yah](https://open.spotify.com/album/7dH2lbDGtHNdiJpsHqT1S7) | 3:23 | 2023-06-23 | 2023-06-30 |
 | [Home](https://open.spotify.com/track/1OZX3YkWr1hrmNGsAF4Hes) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/0xRAs3x5scH14n4sAIqWw3) | 4:12 | 2023-06-15 | 2023-06-23 |
+| [Home Is Where The Hurt Is](https://open.spotify.com/track/7ujyUurqKZiltLgXroP3Z3) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Home Is Where The Hurt Is](https://open.spotify.com/album/2ibB2OyjmvKTmOOo2GgORh) | 4:00 | 2023-09-07 |  |
 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 | 2023-08-17 | 2023-08-25 |
 | [home2u](https://open.spotify.com/track/6QNnOrCZ0HWmn2pefRxtG9) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [we were so beautiful](https://open.spotify.com/album/2SPNwu2eMczhNIDK1bL3B5) | 2:45 | 2023-07-20 | 2023-07-28 |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-08-31 | 2023-09-08 |

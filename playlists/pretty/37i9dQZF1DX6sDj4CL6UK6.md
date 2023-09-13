@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Komorebi
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,593 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,596 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 31 | [100 words](https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 3:30 |
 | 32 | [Loving And Letting Go](https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [The Greng Jai Piece](https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg) | 3:48 |
 | 33 | [Nobody Else but You](https://open.spotify.com/track/1O4HQF2NVTbxnthGUooSiT) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Nobody Else but You](https://open.spotify.com/album/7xFNdbh7URD0ertecR7WjY) | 3:19 |
-| 34 | [Deep Diving](https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Deep Diving](https://open.spotify.com/album/65YhubUi5rIDZmFr5FINBx) | 2:40 |
+| 34 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 |
 | 35 | [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 |
 | 36 | [EYE\(S\)](https://open.spotify.com/track/4Ah02v3e8R2rt8gQzdlCTH) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [EYE\(S\)](https://open.spotify.com/album/3aOtCz84mZL8Nn9xfg9W8B) | 3:59 |
 | 37 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 |
-| 38 | [Love Drunk](https://open.spotify.com/track/5mgGKIjsmxlRpEm7DQoMga) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/6Wh4Dyti49RAcSLupRiZHG) | 2:30 |
-| 39 | [SUNNY AFTERNOON](https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr) | [雲端司機 CLOUDRIVER](https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce) | [SUNNY AFTERNOON](https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y) | 2:51 |
-| 40 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 |
+| 38 | [Deep Diving](https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Deep Diving](https://open.spotify.com/album/65YhubUi5rIDZmFr5FINBx) | 2:40 |
+| 39 | [Love Drunk](https://open.spotify.com/track/5mgGKIjsmxlRpEm7DQoMga) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/6Wh4Dyti49RAcSLupRiZHG) | 2:30 |
+| 40 | [SUNNY AFTERNOON](https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr) | [雲端司機 CLOUDRIVER](https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce) | [SUNNY AFTERNOON](https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y) | 2:51 |
 | 41 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 42 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
 | 43 | [Pause](https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Pause](https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs) | 2:51 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 63 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 |
 | 64 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 |
 | 65 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 |
-| 66 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
-| 67 | [Eleven](https://open.spotify.com/track/4hTSDYZuvejzX7lC667Qdt) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Eleven](https://open.spotify.com/album/6rWYgwW4ytO7sHkEQSKAMT) | 3:23 |
+| 66 | [Eleven](https://open.spotify.com/track/4hTSDYZuvejzX7lC667Qdt) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Eleven](https://open.spotify.com/album/6rWYgwW4ytO7sHkEQSKAMT) | 3:23 |
+| 67 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
 | 68 | [Caught Up](https://open.spotify.com/track/7nVOpausgMrJCk0DXZSTs0) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Caught Up](https://open.spotify.com/album/5cDE0asojLGw60slwj5BED) | 3:27 |
 | 69 | [Settle Down](https://open.spotify.com/track/57mB16Xs06a7xpmtazYuLi) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Settle Down](https://open.spotify.com/album/56gEUYYtzrS7DHlsF5q7k5) | 2:58 |
 | 70 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 74 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 |
 | 75 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 |
 
-Snapshot ID: `MCw0MWRmYmUzMThiYWI1MTgzYmZiNzI3MTM4NWFlNDliNmJhNTc2ODI1`
+Snapshot ID: `MCxiZjBiOGZjMDM1NTUzMDQyZWVmNGIwNzg5MmJkZDY5OGYwMzk2MWJl`

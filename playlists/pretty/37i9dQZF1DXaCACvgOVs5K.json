@@ -1,12 +1,12 @@
 {
   "description": "Get ready for Ibiza season 2023. See you on the dancefloor.",
-  "num_followers": 212878,
+  "num_followers": 213572,
   "original_name": "Ibiza 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmQ0MTYyNGY0ZDU2YzdmMzZhY2JiY2JhOWNhYzU4Njc2ZGNkNjYy",
+  "snapshot_id": "MCxjMDMwY2QwODQ4OWIyZmRkNTM0OTI4MmE2OWU4ODg4YjA4YTcxNDE3",
   "tracks": [
     {
       "added_at": "2023-07-26 15:24:42",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
-        "name": "Olympia",
-        "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "You've Done Enough",
-      "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
-    },
-    {
-      "added_at": "2023-07-26 15:24:42",
-      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
+    },
+    {
+      "added_at": "2023-07-26 15:24:42",
+      "album": {
+        "name": "Olympia",
+        "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "You've Done Enough",
+      "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
     },
     {
       "added_at": "2023-07-26 15:24:42",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
-        "name": "My Paradise",
-        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 211029,
-      "name": "My Paradise",
-      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
-    },
-    {
-      "added_at": "2023-07-26 15:24:42",
-      "album": {
         "name": "Glow / Void",
         "url": "https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 193706,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk"
+    },
+    {
+      "added_at": "2023-07-26 15:24:42",
+      "album": {
+        "name": "My Paradise",
+        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 211029,
+      "name": "My Paradise",
+      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
     },
     {
       "added_at": "2023-07-26 15:24:42",
@@ -1575,18 +1575,26 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
+        "name": "The Boy Is Mine",
+        "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "James Mac",
+          "url": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
+        },
+        {
+          "name": "Vall",
+          "url": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
+        },
+        {
+          "name": "Rosalie",
+          "url": "https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7"
         }
       ],
-      "duration_ms": 225488,
-      "name": "Pump",
-      "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
+      "duration_ms": 201713,
+      "name": "The Boy Is Mine",
+      "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
     },
     {
       "added_at": "2023-07-26 15:24:42",
@@ -1615,26 +1623,18 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
-        "name": "The Boy Is Mine",
-        "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
       },
       "artists": [
         {
-          "name": "James Mac",
-          "url": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
-        },
-        {
-          "name": "Vall",
-          "url": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
-        },
-        {
-          "name": "Rosalie",
-          "url": "https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         }
       ],
-      "duration_ms": 201713,
-      "name": "The Boy Is Mine",
-      "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
+      "duration_ms": 225488,
+      "name": "Pump",
+      "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
     },
     {
       "added_at": "2023-07-26 15:24:42",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
-        "name": "Liquor Store",
-        "url": "https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 201868,
-      "name": "Liquor Store",
-      "url": "https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM"
-    },
-    {
-      "added_at": "2023-07-26 15:24:42",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 190512,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
+    },
+    {
+      "added_at": "2023-07-26 15:24:42",
+      "album": {
+        "name": "Liquor Store",
+        "url": "https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 201868,
+      "name": "Liquor Store",
+      "url": "https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM"
     },
     {
       "added_at": "2023-07-26 15:24:42",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
+        "name": "Hawt",
+        "url": "https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM"
+      },
+      "artists": [
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "duration_ms": 157836,
+      "name": "Hawt",
+      "url": "https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z"
+    },
+    {
+      "added_at": "2023-07-26 15:24:42",
+      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -1823,38 +1839,6 @@
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1"
-    },
-    {
-      "added_at": "2023-07-26 15:24:42",
-      "album": {
-        "name": "Hawt",
-        "url": "https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM"
-      },
-      "artists": [
-        {
-          "name": "TIBASKO",
-          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
-        }
-      ],
-      "duration_ms": 157836,
-      "name": "Hawt",
-      "url": "https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z"
-    },
-    {
-      "added_at": "2023-07-26 15:24:42",
-      "album": {
-        "name": "You're Toxic",
-        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 371555,
-      "name": "You're Toxic",
-      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
     },
     {
       "added_at": "2023-07-26 15:24:42",
@@ -1883,30 +1867,38 @@
     {
       "added_at": "2023-07-26 15:24:42",
       "album": {
-        "name": "Raw (Tony Romera Remix)",
-        "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
+        "name": "You're Toxic",
+        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
       },
       "artists": [
         {
-          "name": "Julio Navas",
-          "url": "https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr"
-        },
-        {
-          "name": "Gustavo Bravetti",
-          "url": "https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9"
-        },
-        {
-          "name": "David Amo",
-          "url": "https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Raw - Tony Romera Remix",
-      "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
+      "duration_ms": 371555,
+      "name": "You're Toxic",
+      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
+    },
+    {
+      "added_at": "2023-07-26 15:24:42",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 195952,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL"
     }
   ],
   "unique_name": "Ibiza 2023",

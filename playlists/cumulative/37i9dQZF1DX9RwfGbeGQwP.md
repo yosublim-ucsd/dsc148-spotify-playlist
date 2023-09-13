@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,282 songs - 2 day 0 hr 16 min
+1,283 songs - 2 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Bonham Style](https://open.spotify.com/track/4aUXLVtHvNsJKmiHSTZ01J) | [Bonham Style](https://open.spotify.com/artist/0nme6ZQPv94Iurg3BfTp2o) | [Bonham Style](https://open.spotify.com/album/3FmlOBtlTIv3ShunS2b0T7) | 2:02 | 2022-01-27 | 2022-05-20 |
 | [Boy Meets World Inst](https://open.spotify.com/track/0eXAYw2pF3hzciUH507pwa) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Boy Meets World Inst](https://open.spotify.com/album/4ckx6Sxdvk4cKax9ZBosLO) | 2:36 | 2022-09-30 | 2023-02-25 |
 | [Breakfast](https://open.spotify.com/track/2Y6fX4H6onPgZjdqS2zTrx) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Breakfast](https://open.spotify.com/album/4cItehTSGEfNRt5nt3OPJW) | 2:18 | 2022-09-23 | 2023-09-05 |
-| [Breakfast at night](https://open.spotify.com/track/4YijVpWRynGePDCwqy9avA) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Breakfast at night](https://open.spotify.com/album/22js5LzkbvZ1dOmKZHcOgC) | 2:00 | 2022-09-30 |  |
+| [Breakfast at night](https://open.spotify.com/track/4YijVpWRynGePDCwqy9avA) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Breakfast at night](https://open.spotify.com/album/22js5LzkbvZ1dOmKZHcOgC) | 2:00 | 2022-09-30 | 2023-09-13 |
 | [Breakfast in Bed](https://open.spotify.com/track/1N0H9OSGxcSqlGtwk9Wfw4) | [Smoodmood](https://open.spotify.com/artist/5gWiSoKQnuzN6SzukwZhei), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Teau](https://open.spotify.com/artist/6arVgorLsaKvsc3UfABGID) | [Breakfast In Bed](https://open.spotify.com/album/2izlvKycfmcdkiG4S6Hbau) | 2:24 | 2022-04-22 | 2022-11-26 |
 | [Breathtaking](https://open.spotify.com/track/53WmFwFRqMpLIDlWI3OlRq) | [El Pel](https://open.spotify.com/artist/5AMJNJ5AEsjYybY4u2tJ3D) | [Breathtaking](https://open.spotify.com/album/5fyw3W1xR2yG3TlnrHUcfC) | 2:18 | 2023-01-06 | 2023-09-11 |
 | [Brew](https://open.spotify.com/track/7v89QCczM2yBlFTjlZhvbM) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Brew](https://open.spotify.com/album/7KsBL7cbi4LPpIvPjZfb64) | 1:22 | 2022-05-13 | 2022-11-26 |
@@ -406,7 +406,7 @@
 | [Fortran](https://open.spotify.com/track/2gNoc9XvLMECTErBk7YKmJ) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Fortran](https://open.spotify.com/album/3aH1cRGxgAAZKlDmUCdAfB) | 3:16 | 2022-08-05 |  |
 | [Forty Winks](https://open.spotify.com/track/6ziC95AXSfHpzieMwruS2P) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX) | [Forty Winks](https://open.spotify.com/album/3HVV3I4Z82zV6CJRIQ8h33) | 3:25 | 2022-05-13 | 2022-11-26 |
 | [Free](https://open.spotify.com/track/4OyKGxXkpoW7jtm0lZKLUc) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Free](https://open.spotify.com/album/6pG5ZUYAjeEjTNrU1SUsKt) | 2:07 | 2022-10-15 |  |
-| [Freeine](https://open.spotify.com/track/7ufMGmS5G5wUdv3mWm4spT) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [Freeine](https://open.spotify.com/album/0eQZlYZlcrlhUAGQInejz4) | 2:20 | 2022-11-25 |  |
+| [Freeine](https://open.spotify.com/track/7ufMGmS5G5wUdv3mWm4spT) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [Freeine](https://open.spotify.com/album/0eQZlYZlcrlhUAGQInejz4) | 2:20 | 2022-11-25 | 2023-09-13 |
 | [Fresh Fruit Brunch](https://open.spotify.com/track/1XvjgA7MDT5F7Zpa9rGUR5) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Fresh Fruit Brunch](https://open.spotify.com/album/4xslyXDxBu8eo4J2MZwh9e) | 2:18 | 2023-04-27 |  |
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-01-27 | 2023-02-25 |
 | [Fried Beans](https://open.spotify.com/track/2rG2JAPKFQxDZXcf6pUO5S) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Fried Beans](https://open.spotify.com/album/6whOtrxJvVArWYlyii3TnO) | 2:04 | 2022-01-27 | 2023-08-04 |
@@ -1112,6 +1112,7 @@
 | [Syphone](https://open.spotify.com/track/6ZPMtkVR8cyVCy8vKDxyFM) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Syphone](https://open.spotify.com/album/4dkFK5szg05kgVOwPECKmL) | 1:36 | 2022-08-19 | 2023-09-05 |
 | [Tadpole Siesta](https://open.spotify.com/track/2xquNsrIK07H6MhXtdlNVF) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Tadpole Siesta](https://open.spotify.com/album/08LHxQbFyYK9r50hHHiEgr) | 2:23 | 2022-11-11 |  |
 | [Take a Chill Pill](https://open.spotify.com/track/2v6zGZ3SlbQqYXRDl7mj0s) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Saturday Breezy](https://open.spotify.com/album/0zW30BKgdLc0rxp7EkpSoE) | 2:27 | 2022-07-01 | 2023-09-05 |
+| [take a walk](https://open.spotify.com/track/1tEkmNYcOPEhPvSMJDXAWN) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [take a walk](https://open.spotify.com/album/4Z3cjqh8F8mQKnaDnDDKKq) | 2:26 | 2023-09-08 |  |
 | [take five](https://open.spotify.com/track/6cEbLX3p88YPsGrOuZNrWk) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [take five](https://open.spotify.com/album/2XiwPNXXIPLo5uK5fmUB0m) | 1:51 | 2023-04-20 |  |
 | [Take It Easy](https://open.spotify.com/track/2eyJQMPDcWlC5CmZsodlSD) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5), [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg) | [Jazz Raw City](https://open.spotify.com/album/7mLcA5ad6cCyk9eXbhKYFB) | 2:52 | 2022-07-22 | 2022-12-10 |
 | [Take the Back Roads](https://open.spotify.com/track/0F0xZC5P82Ov3hdFdZwi7M) | [Sidezz](https://open.spotify.com/artist/130OLOykvWZS3fkhSq1GrR) | [Take the Back Roads](https://open.spotify.com/album/20dzRKRbeTMZ0121L6Xn50) | 2:27 | 2022-01-27 | 2022-10-15 |
@@ -1146,7 +1147,7 @@
 | [The Med](https://open.spotify.com/track/4VF59BuLMgBFg3FQF6ledx) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [The Med](https://open.spotify.com/album/4MxgexE1L8Ve0BbPtHIoQX) | 1:57 | 2022-07-01 | 2022-12-10 |
 | [the moment we knew](https://open.spotify.com/track/5aY7IoXvyXqCGAnjgWivlu) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [the moment we knew](https://open.spotify.com/album/4RbXsJ7x7b3JSJiaJbGxPz) | 1:47 | 2022-10-28 | 2023-09-12 |
 | [The Neighborhood](https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Playground](https://open.spotify.com/album/5BIlSn25cEkCaw2FRNwCFT) | 1:32 | 2022-01-27 | 2022-09-09 |
-| [The Night Stop](https://open.spotify.com/track/7H5ecFdgOzPVBlmz40Uiyy) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [The Night Stop](https://open.spotify.com/album/3vOPnPE6ISclHXo9sNQ0Gw) | 2:21 | 2022-09-30 | 2023-09-05 |
+| [The Night Stop](https://open.spotify.com/track/7H5ecFdgOzPVBlmz40Uiyy) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [The Night Stop](https://open.spotify.com/album/3vOPnPE6ISclHXo9sNQ0Gw) | 2:21 | 2022-09-30 |  |
 | [The Parade](https://open.spotify.com/track/6qqBcmjT5DYtXxYlUAtD4W) | [Rosa Mahoney](https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn) | [The Parade](https://open.spotify.com/album/55dQPl1fEh3c6M0r225JQu) | 2:24 | 2022-07-22 |  |
 | [The return of Mr\. Swing](https://open.spotify.com/track/3pfsUjWIY8mcs5aQQRm9Fl) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [The return of Mr\. Swing](https://open.spotify.com/album/6M5CIuR50OMuipxKfOQmWj) | 2:11 | 2022-09-30 | 2023-04-28 |
 | [The Simple Life](https://open.spotify.com/track/5YO3Vqve61SxDVy9kynuas) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [The Simple Life](https://open.spotify.com/album/6gGfQHr7DT0Z52DXDFosgq) | 1:56 | 2023-03-24 |  |

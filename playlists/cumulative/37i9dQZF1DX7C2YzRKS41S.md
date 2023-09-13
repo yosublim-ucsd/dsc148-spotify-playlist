@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-397 songs - 23 hr 36 min
+398 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Meu Verão \(Versão K7\) \- Acústica](https://open.spotify.com/track/3nHKkYCczRfd7y5exRNulV) | [LoFábio](https://open.spotify.com/artist/5UfL2BN66Pa8Rxah2KbhXg) | [Meu Verão \(Versão K7\) \[Acústica\]](https://open.spotify.com/album/0phTuahRIPaaEP6tquAFsr) | 3:31 | 2021-12-24 | 2022-07-29 |
 | [Minha Viagem](https://open.spotify.com/track/3qiyRWp6A9GExfXXWKVsoM) | [almanua](https://open.spotify.com/artist/4s2zj4RMLkUdNzJFBkc1NL) | [Minha Viagem](https://open.spotify.com/album/1tSaL5DtUZI4yRpbVm0fa3) | 2:47 | 2022-03-25 | 2022-04-12 |
 | [Minha Voz](https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa) | [Versos Que Compomos Na Estrada](https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME), [Eu Me Chamo Antônio](https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh) | [Um Verão Qualquer](https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX) | 2:42 | 2023-01-06 | 2023-07-29 |
-| [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 | 2021-12-24 |  |
+| [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 | 2021-12-24 | 2023-09-13 |
 | [mistério](https://open.spotify.com/track/7iZ1uXYxz7QAxRRDTGmHE2) | [Junin](https://open.spotify.com/artist/4OjzycPL3gEqQjJYZu4Azn) | [músicas para a janela](https://open.spotify.com/album/7cc7t6pfgG3KT7A6ZDOnrf) | 3:12 | 2021-12-24 | 2022-04-21 |
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-25 |  |
 | [Na Curva Desse Rio](https://open.spotify.com/track/4lG6rUcs88C13OUWYnzW9o) | [Valtinho Jota](https://open.spotify.com/artist/0WO3dyC7ZgCxPKHm8SJ28H), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Na Curva Desse Rio](https://open.spotify.com/album/2RSD7S8gaJOzitT081KzRp) | 4:02 | 2021-12-24 | 2022-07-20 |
@@ -271,6 +271,7 @@
 | [Pela Janela](https://open.spotify.com/track/3vxM6AQVRD2Hsw8YrRDQb3) | [Pedro Mann](https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj) | [Pela Janela](https://open.spotify.com/album/0VyG9Rk3cWAjpymKbj1seg) | 2:21 | 2021-12-24 | 2022-07-20 |
 | [Pensando Bem](https://open.spotify.com/track/2vz5y776IIyrac1KkYuY75) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [Zé Luis Nascimento](https://open.spotify.com/artist/3DGZdkW22HAlgGpXOzzaaE), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Eu Sou Outro](https://open.spotify.com/album/7jsBgAZRvGyECgLpcEIa6Z) | 3:22 | 2021-12-24 | 2022-07-28 |
 | [Perde Tudo](https://open.spotify.com/track/5Gk06ewtT8rdy8Qt5tzBXE) | [Cassiano Andrade](https://open.spotify.com/artist/6zpu0t9nfePmnwBBlw63xl), [Lua Blanco](https://open.spotify.com/artist/1shvlaBEDzIJGYhXbMxKJY) | [Perde Tudo](https://open.spotify.com/album/1WUCXHpLMl9fMMIwk8bLvd) | 3:13 | 2021-12-24 | 2022-07-22 |
+| [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 | 2023-09-02 |  |
 | [Plano A](https://open.spotify.com/track/6iQx2epCU2bcMk3tNZZLlx) | [Mateus Noel](https://open.spotify.com/artist/7kQWbAUpx1ch0ZskOPeKec) | [Plano A](https://open.spotify.com/album/1cAWcSDlWgAhCaQrqRtSBI) | 4:35 | 2022-03-25 | 2022-04-20 |
 | [Pneu](https://open.spotify.com/track/4xKTwUPc3ga5w23a9o2WgJ) | [Gelpi](https://open.spotify.com/artist/4Tl6p9xrmtzx5fLIiSKPtb) | [Pneu](https://open.spotify.com/album/5ntUGInu5pSXgInjX4Dn9G) | 3:22 | 2022-03-25 | 2022-07-25 |
 | [Pode \(Ukulele\)](https://open.spotify.com/track/3NUZ7NfdHILDXkRMe6e67e) | [Fabrízio Rubinstein](https://open.spotify.com/artist/2jwQOo6a4B29ezjM7FATPA) | [Pode \(Ukulele\)](https://open.spotify.com/album/5y91n2TjchWyRrKNnRwxvn) | 3:33 | 2021-12-24 | 2022-04-14 |

@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-139 songs - 9 hr 11 min
+140 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Imperfect](https://open.spotify.com/track/2xaWvDPHhS5buartu52e9Q) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Imperfect](https://open.spotify.com/album/5w8YFmXK3uDI9RqgRWn9pi) | 3:47 | 2022-08-16 | 2022-11-13 |
 | [Kamiari Algorithm](https://open.spotify.com/track/6lKKKnrCWSV1CNDIsjro33) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:42 | 2022-07-26 |  |
 | [Kimi no Heroine de Irutame ni](https://open.spotify.com/track/0ao3R3yxa6dZQID9XL0u4E) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Youthful Beautiful](https://open.spotify.com/album/4CkZXpNKK0V59Hm8tkmedu) | 4:37 | 2022-07-26 |  |
+| [KIMIJA NAKYA DAME MITAI](https://open.spotify.com/track/6JZDfs7qE1T17qjRiPNCxa) | [オーイシマサヨシ](https://open.spotify.com/artist/5fuEw5UqrTkW8hVAbBClv2) | [OPENING THEME FROM TV SERIES ”MONTHLY GIRLS' NOZAKI\-KUN” KIMIJA NAKYA DAME MITAI](https://open.spotify.com/album/4Ej6rwZApgp2ob8EnIbizR) | 3:52 | 2023-09-12 |  |
 | [Kinkan no Uta 2020](https://open.spotify.com/track/3urAyAkiPUme9k0JnbvAU4) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Kinkan no Uta 2020](https://open.spotify.com/album/2OGZDPj72JphNcZXyPjjFj) | 3:28 | 2022-08-16 | 2022-11-13 |
 | [Kinkan no Uta 2020](https://open.spotify.com/track/5WdxQwghDeTcnL8lUkzvsV) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:29 | 2022-07-26 |  |
 | [Kiteretsu Poemer](https://open.spotify.com/track/1o9EK8PpExndtsmFCw1iWe) | [Arisugawa Homare \(CV: Toshiyuki Toyonaga\)](https://open.spotify.com/artist/1kgbXTQYImbycBNev44eXD) | [A3! Blooming Winter EP](https://open.spotify.com/album/77SXAIr4yBdOMSwyXUeFHG) | 3:07 | 2022-07-26 |  |

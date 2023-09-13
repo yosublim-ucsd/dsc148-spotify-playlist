@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-236 songs - 9 hr 14 min
+237 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Afternoon Calm](https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Sonatina](https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU) | 2:45 | 2022-04-15 |  |
 | [Afternoon Calm](https://open.spotify.com/track/4arEGKkAmAbOQThZnU9w1L) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Sonatina](https://open.spotify.com/album/1qK0BwFNpl6ye5Gf2dCeSM) | 2:45 | 2022-04-15 | 2022-07-29 |
 | [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 | 2022-04-15 | 2022-11-19 |
-| [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 | 2022-04-15 |  |
+| [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 | 2022-04-15 | 2023-09-13 |
 | [aigo](https://open.spotify.com/track/6fkrNwyHgSU1oaNUqRbFZh) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [aigo](https://open.spotify.com/album/23QUwYqYmJJ8oFU9zLWqa3) | 2:24 | 2022-04-15 | 2022-07-14 |
 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 | 2022-04-15 |  |
 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 | 2022-04-15 | 2022-07-29 |
@@ -46,7 +46,7 @@
 | [Coke Wind](https://open.spotify.com/track/3FJSbTPWAy88XfocURuf0q) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Hello Mr.Goodvibe](https://open.spotify.com/album/6mq3p1dQeJYMUZHx7zFcGn) | 2:05 | 2022-04-15 | 2022-07-29 |
 | [Cold Breeze](https://open.spotify.com/track/64fGgroQQGWe6AdqEW0h7H) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Cold Breeze](https://open.spotify.com/album/1Cv3if511L6YHwokHT8pzc) | 1:38 | 2022-04-15 | 2022-07-29 |
 | [Contigo](https://open.spotify.com/track/69UHI9KF5JRwfKmcMNta8k) | [emune](https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT) | [Sorry](https://open.spotify.com/album/7pXpjVPml1bLD3idUmgCtw) | 1:46 | 2022-04-15 | 2022-12-13 |
-| [crush on you](https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 1:24 | 2022-04-15 |  |
+| [crush on you](https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 1:24 | 2022-04-15 | 2023-09-13 |
 | [crush on you](https://open.spotify.com/track/1vlzSY7AttAiAvSEe1JbVs) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 1:24 | 2022-04-15 | 2022-11-19 |
 | [crush on you](https://open.spotify.com/track/5nwZjXqJNYVJHV4uLqYxcG) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/7w1VLFYPh1KxlgvRhnqQtv) | 1:24 | 2022-04-15 | 2022-12-07 |
 | [Cujo](https://open.spotify.com/track/4reSkHtZwtc3dGnmG8blkE) | [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Cujo](https://open.spotify.com/album/3hWNMSeDkARnpSCgmQUyLF) | 1:40 | 2022-04-15 | 2022-07-29 |
@@ -119,6 +119,7 @@
 | [love](https://open.spotify.com/track/7cZlFUJO4BjedIErzdP6iq) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:21 | 2022-04-15 | 2022-11-25 |
 | [lovesick](https://open.spotify.com/track/3A2jJaOKYhmKEy9IyyEJF6) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/3l7m9a8tkGbZPZ44Bd1QoA) | 2:30 | 2022-04-15 | 2022-12-15 |
 | [lovesick](https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg) | 2:30 | 2022-04-15 | 2023-08-04 |
+| [lovesick](https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy) | [Strafend](https://open.spotify.com/artist/1kSOJRjwflnuMaLL7EqXNF) | [lovesick](https://open.spotify.com/album/1ZRikNtTTBJMiRQVEerTPG) | 2:30 | 2022-04-15 |  |
 | [Lovin](https://open.spotify.com/track/36iIYz6DBFuQWSUpRy2Sqw) | [Noisart](https://open.spotify.com/artist/6I0hnjGXHMaOEBao6Rqvci) | [Lovin](https://open.spotify.com/album/43Xii5zJortumLhRXjwh1g) | 1:14 | 2022-04-15 | 2022-07-29 |
 | [Luv \(sic\)](https://open.spotify.com/track/6SNGzhVrisdq63Ndz58ovT) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 4:46 | 2022-04-15 |  |
 | [m i s t](https://open.spotify.com/track/0fi81PMYMsGT8h0FI9tYay) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf) | 1:58 | 2022-04-15 |  |
@@ -136,7 +137,7 @@
 | [nagashi](https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:49 | 2022-04-15 |  |
 | [Night Drive](https://open.spotify.com/track/5yrnPW4ebZU5p74qH90wsi) | [Siirbaz](https://open.spotify.com/artist/7xURIiVo2JwZ1wIBLE2tYs) | [Night Drive](https://open.spotify.com/album/7zNZKPJW5rqwuNuQw42dly) | 1:04 | 2022-04-15 | 2022-07-29 |
 | [Nightflower](https://open.spotify.com/track/0c4oYO95j7bdgiODBXeFQR) | [jüle.](https://open.spotify.com/artist/2awWBxv11I86fi6z4T0U9o), [Thorn.vii](https://open.spotify.com/artist/2VcprDJUxkV4uiaMbKmrWO) | [Nightflower](https://open.spotify.com/album/6m24MTdY8rMYdEKWxOJh0w) | 1:26 | 2022-04-15 | 2022-07-29 |
-| [no shame in my game.](https://open.spotify.com/track/0xsA09gqvqDx5P9Ytw94Cs) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [Dingus.](https://open.spotify.com/artist/5Csl0cWk9AUr3M6KzlOsTV) | [no shame in my game.](https://open.spotify.com/album/39G2UqpSLFmV6t1Uwvef0S) | 1:28 | 2022-04-15 | 2023-09-12 |
+| [no shame in my game.](https://open.spotify.com/track/0xsA09gqvqDx5P9Ytw94Cs) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [Dingus.](https://open.spotify.com/artist/5Csl0cWk9AUr3M6KzlOsTV) | [no shame in my game.](https://open.spotify.com/album/39G2UqpSLFmV6t1Uwvef0S) | 1:28 | 2022-04-15 |  |
 | [Nostalgia](https://open.spotify.com/track/6OgXPYyiTAV2bdbYrB1aGs) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/7fNY08KDH3jG1XxZQ84C7t) | 1:17 | 2022-04-15 | 2022-07-29 |
 | [Nostalgia](https://open.spotify.com/track/4iLL181gl7s9FELLkSUmEK) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2) | 1:17 | 2022-04-15 |  |
 | [Old Town](https://open.spotify.com/track/1Ly9DQ9qgelrGZX6TZvjr9) | [Hussain Ali](https://open.spotify.com/artist/6jisxxsMSH9OExkRD3YkwG), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Old Town](https://open.spotify.com/album/2oPxjmBzJCnXDntOnVHzuX) | 3:30 | 2022-04-15 | 2022-07-29 |

@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Barkha",
+        "url": "https://open.spotify.com/album/0t8oQvb7XfGFYWX0Biu8eP"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261631,
+      "name": "Barkha",
+      "url": "https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv"
+    },
+    {
+      "album": {
         "name": "Barkha Bahaar",
         "url": "https://open.spotify.com/album/3LA406x4e2QmWlasFedCAp"
       },

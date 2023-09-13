@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,270 likes - 64 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,367 likes - 64 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 41 | [The Mark \- Live Solo](https://open.spotify.com/track/5QJMMpa8ihBI2CFEhhmOi4) | [Cold Specks](https://open.spotify.com/artist/2DMHBCdboDAYJWzt2lDSP5) | [Spotify Session](https://open.spotify.com/album/4Vt7lG6HA70tiPDMkK6Cch) | 2:18 |
 | 42 | [Forget \- Live from Spotify, NYC](https://open.spotify.com/track/1gpyfbutOl79qgVjMrZQOe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Spotify Sessions](https://open.spotify.com/album/6YYarhAfY1nBoYsDichIts) | 4:38 |
 | 43 | [I Thought I Heard You Screaming](https://open.spotify.com/track/0ND2xJt6ZG3L1eZTS0FrsK) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu) | 3:04 |
-| 44 | [The Hounds](https://open.spotify.com/track/36PkUgkmr1hVGLY5VJIXJ5) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [The Hounds](https://open.spotify.com/album/1Uoi1Ki0DQxCTWpNuYH7FE) | 4:04 |
+| 44 | [The Hounds](https://open.spotify.com/track/6CJv4dLO4XAHdMTqEQJ4Pg) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [The Hounds](https://open.spotify.com/album/45Jd3oIayajc6DgxB9uxmF) | 4:04 |
 | 45 | [Honeysuckle Reel](https://open.spotify.com/track/6AvLsGpRX9GEej0zB7evfj) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:02 |
 | 46 | [By The Evening](https://open.spotify.com/track/0okuLdhmvvHTB2BhdSO5Mx) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu) | 3:50 |
 | 47 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 63 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
 | 64 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
 
-Snapshot ID: `MCw1ZDcwMjZlOGE2ZGRiZDg4YjZlNjA1Y2JmYzM1Y2NmNmZiNjAwNGE4`
+Snapshot ID: `MCw5MjZjYTExYmJhYmFjMTQ2ODUyZWI0ZTMwZDQ1OTgwZTA0MjM4NmUy`

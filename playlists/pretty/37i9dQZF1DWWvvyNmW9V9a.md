@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Wait\. Is this GUTS album about us?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,125,269 likes - 105 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,126,177 likes - 105 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 104 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 |
 | 105 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 |
 
-Snapshot ID: `MCw0YWM1YzViZGZlOGM0OGFmNWE5ZDY3NmZiMmVmOGJlNDNmMDJjZGM2`
+Snapshot ID: `MCxlMTVlNDgwNjUyZjYxYjE0NDMzODM3Y2U4N2EyNWQ1MzkxMjAyNzdm`

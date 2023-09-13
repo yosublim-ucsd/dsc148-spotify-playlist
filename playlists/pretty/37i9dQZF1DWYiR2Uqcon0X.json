@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 722469,
+  "num_followers": 722771,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjA5YmI5ZTE2YjAxZGYzZGRmN2MwMjViYzQ5NGMxMzIyYjUyMzM1",
+  "snapshot_id": "MCwyNjIxN2NjODEwOWYyYzk4ZTdjYzFhZjFhMjhmMjUxYjk0MDM0N2I1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Living Room Worktapes",
-        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 243898,
-      "name": "Where You Are - Acoustic",
-      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Numbered Doors",
         "url": "https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 213249,
       "name": "The Time I've Wasted",
       "url": "https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Living Room Worktapes",
+        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 243898,
+      "name": "Where You Are - Acoustic",
+      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
         }
       ],
-      "duration_ms": 158960,
-      "name": "Cheap Suit",
-      "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
+      "duration_ms": 140493,
+      "name": "Pretty Hands",
+      "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
         }
       ],
-      "duration_ms": 140493,
-      "name": "Pretty Hands",
-      "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
+      "duration_ms": 158960,
+      "name": "Cheap Suit",
+      "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Moments that mattered",
-        "url": "https://open.spotify.com/album/1FFVMjftTGqNyNGkDBMOaS"
-      },
-      "artists": [
-        {
-          "name": "Emily James",
-          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
-        }
-      ],
-      "duration_ms": 223776,
-      "name": "what do i",
-      "url": "https://open.spotify.com/track/2rtdxI8tTfBfPk6D28YSUv"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 220000,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Moments that mattered",
+        "url": "https://open.spotify.com/album/1FFVMjftTGqNyNGkDBMOaS"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "duration_ms": 223776,
+      "name": "what do i",
+      "url": "https://open.spotify.com/track/2rtdxI8tTfBfPk6D28YSUv"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK"
+        "name": "KING",
+        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
       },
       "artists": [
         {
-          "name": "The Dryes",
-          "url": "https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE"
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
         }
       ],
-      "duration_ms": 227661,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL"
+      "duration_ms": 205840,
+      "name": "20/10 TN",
+      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
     }
   ],
   "unique_name": "Country Coffeehouse",

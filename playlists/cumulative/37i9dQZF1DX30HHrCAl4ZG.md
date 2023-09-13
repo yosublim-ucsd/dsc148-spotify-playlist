@@ -4,7 +4,7 @@
 
 > The best indie rock right now\. Featuring new music by JAWNY
 
-1,181 songs - 2 day 16 hr 19 min
+1,182 songs - 2 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Be By Your Side](https://open.spotify.com/track/1Vh0ZXykuBBR0mcERksAqw) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be By Your Side](https://open.spotify.com/album/0ocfNOe1DGjYob591ipgcC) | 4:54 | 2022-01-28 | 2022-04-20 |
 | [Be Easy](https://open.spotify.com/track/0NMukraEM5cTE6xRhKqJik) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [Be Easy](https://open.spotify.com/album/6EM0HNbNcofoF9Ih78GS6E) | 3:59 | 2023-07-14 | 2023-08-05 |
 | [be my guest](https://open.spotify.com/track/6EsxMkOPOgMvRcGJO02pyt) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [the world i love](https://open.spotify.com/album/0PGaguvVjayjOSfFjwVKRV) | 3:06 | 2021-06-11 | 2022-04-15 |
-| [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 | 2023-09-08 |  |
+| [Be That Girl](https://open.spotify.com/track/3ohEnx3hSZfRMA5RRTq7OX) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:56 | 2023-09-08 |  |
+| [Be That Girl](https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Be That Girl](https://open.spotify.com/album/4gXKbCGDeJU4NykBanhs1O) | 2:56 | 2023-09-08 | 2023-09-13 |
 | [bed head fever](https://open.spotify.com/track/4zq2Yo2ry2y2f7sSeq4EFf) | [Matty Reynolds](https://open.spotify.com/artist/1UOd3DL67HSbpWgwnbG1sZ) | [bed head fever](https://open.spotify.com/album/4vjZilqqGbx4jHWzWlScfX) | 2:32 | 2022-01-28 | 2022-06-08 |
 | [Before We Knew](https://open.spotify.com/track/2tPXuksuhokCBYmAcKnx5B) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Before We Knew](https://open.spotify.com/album/6dwYzHRbq3591ac7ThF4rn) | 3:31 | 2021-08-13 | 2022-06-05 |
 | [Being Square](https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Being Square](https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE) | 3:07 | 2023-04-07 | 2023-06-10 |

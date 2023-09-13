@@ -1,12 +1,12 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 387183,
+  "num_followers": 387292,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NThiMTI3NDRhMDQ4Y2U4MWI3ZjZhYjQyZjQ4NTM4NjQwNTljMDZl",
+  "snapshot_id": "MCxiOGZkY2MyYTA0NWNhODNhZDA5ZGQ1YWM4ZDQ5ZDk2Y2Y2YzUwNTJl",
   "tracks": [
     {
       "added_at": "2023-07-24 17:49:41",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
       "artists": [
         {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY"
-      },
-      "artists": [
-        {
-          "name": "Mungo Jerry",
-          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 216906,
       "name": "Summer Nights - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 153205,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "The Essential Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 174440,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "The Essential Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
     }
   ],
   "unique_name": "Feel Good Summer",

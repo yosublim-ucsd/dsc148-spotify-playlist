@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68069,
+  "num_followers": 68078,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGZlODBiYWM0ZGY5YjQ5N2JkZTZkN2NjOTEzYmVjZDYxNGZhM2Mz",
+  "snapshot_id": "MCw2ODI4MTg1MWFmYWQwNjEzZTY5ZDFiNDJlY2I0YWMyYTVkZmIzOWRh",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Folkets R\u00f6st",
-        "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        },
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 193908,
-      "name": "Enda V\u00e4gen Fram",
-      "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Mellan Raderna",
         "url": "https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 191120,
       "name": "Full fokus",
       "url": "https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Folkets R\u00f6st",
+        "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 193908,
+      "name": "Enda V\u00e4gen Fram",
+      "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
     },
     {
       "added_at": "2023-07-13 22:00:00",

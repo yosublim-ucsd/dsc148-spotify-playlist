@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,165 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,251 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 17 | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Valéria Amanajáz](https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM) | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS) | 2:40 |
 | 18 | [Loucura \- Remix](https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN) | [DJ Alan Nunes](https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo), [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ) | [Loucura \(Remix\)](https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3) | 3:45 |
 | 19 | [Resistência](https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Resistência](https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl) | 2:47 |
-| 20 | [Joquebede \- Remix](https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [Joquebede \(Remix\)](https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga) | 2:22 |
-| 21 | [A Sertaneja de Jesus](https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Sertaneja de Jesus](https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg) | 2:38 |
-| 22 | [Eu Confio Em Ti \- Remix](https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG), [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [MAYK](https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa) | [Eu Confio Em Ti \(Remix\)](https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN) | 3:55 |
+| 20 | [Eu Confio Em Ti \- Remix](https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG), [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [MAYK](https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa) | [Eu Confio Em Ti \(Remix\)](https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN) | 3:55 |
+| 21 | [Joquebede \- Remix](https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [Joquebede \(Remix\)](https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga) | 2:22 |
+| 22 | [A Sertaneja de Jesus](https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Sertaneja de Jesus](https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg) | 2:38 |
 | 23 | [Joquebede \(Remix\) \(feat\. Israel Santos\)](https://open.spotify.com/track/2zfeao3DVGHDktWIacU5JZ) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [Joquebede \(Remix\) \(feat\. Israel Santos\)](https://open.spotify.com/album/6v0vHYaVvDokKshadgy3Qn) | 1:57 |
 | 24 | [Deus É Bom o Tempo Todo](https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Decão Renovado](https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe) | [Deus É Bom o Tempo Todo](https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs) | 2:40 |
 | 25 | [Yeshua + Só Quero Ver Você \(feat\. Marcelo Markes\)](https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Marcelo Markes](https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze) | [Yeshua + Só Quero Ver Você](https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O) | 4:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Vem Incendiar Meu Coração \- Remix](https://open.spotify.com/track/4VMtkqpzTLQta1aTS6deLz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Vem Incendiar Meu Coração \(Remix\)](https://open.spotify.com/album/2SINQmcO83kX7zQZlaFEEw) | 3:48 |
 | 75 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 
-Snapshot ID: `MCwxNWEzNWFkNjI2MWQ3OTk2ZjM2M2JjNGUyZTg3NzI1ZGUwOTBhMzk3`
+Snapshot ID: `MCwzYWUwZTJmYjBlM2YwYzJjZWU1NmJlNWU1MjgzYjA3YmU3YTJiMzgw`

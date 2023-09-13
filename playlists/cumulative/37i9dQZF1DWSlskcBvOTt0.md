@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-494 songs - 2 day 0 hr 30 min
+495 songs - 2 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-11 | 2023-09-02 |
 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 | 2022-04-08 |  |
 | [Phara Oh](https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Phara Oh Away](https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul) | 8:47 | 2021-05-07 | 2023-03-11 |
+| [Pilgrim](https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pilgrim](https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ) | 3:39 | 2023-09-08 |  |
 | [Pink Elephant](https://open.spotify.com/track/5PYE614MlfD0iWdug1SjcX) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 5:45 | 2021-09-03 | 2022-07-28 |
 | [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 | 2022-07-28 |  |
 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 | 2021-09-03 | 2023-04-29 |
@@ -388,7 +389,7 @@
 | [Signals](https://open.spotify.com/track/41VCypoktZLhDX8w3FjYFA) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Signals](https://open.spotify.com/album/0px6PqdNTCVfh9iYBBtKY0) | 6:41 | 2022-05-06 | 2022-07-13 |
 | [Signs of Hope](https://open.spotify.com/track/0M9jbV034LBPRE9AYChjo0) | [Madd Rod](https://open.spotify.com/artist/196KXivrNeH87lCvn1WDso) | [Signs of Hope](https://open.spotify.com/album/5B7r46lroWbckdknqQHsvk) | 5:00 | 2022-05-24 | 2022-07-29 |
 | [Silence & Secrets \- Black Coffee Remix](https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Silence & Secrets \(Black Coffee Remix\)](https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI) | 7:54 | 2022-04-08 |  |
-| [Sinnerman \(Henrik Schwarz Remix\)](https://open.spotify.com/track/6R8Wd6RO7P2wQ0Lhdjx82e) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Sinnerman \(Henrik Schwarz Remixes\)](https://open.spotify.com/album/2gExT3JhznVFoXzH193gPr) | 3:35 | 2023-03-17 |  |
+| [Sinnerman \(Henrik Schwarz Remix\)](https://open.spotify.com/track/6R8Wd6RO7P2wQ0Lhdjx82e) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Sinnerman \(Henrik Schwarz Remixes\)](https://open.spotify.com/album/2gExT3JhznVFoXzH193gPr) | 3:35 | 2023-03-17 | 2023-09-13 |
 | [Sint Maarten](https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Delaram Kamareh](https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB) | [Sint Maarten](https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O) | 4:31 | 2021-12-17 | 2023-04-29 |
 | [Sleeping Beauty](https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Sleeping Beauty](https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf) | 3:29 | 2023-01-27 | 2023-08-20 |
 | [Snake Ritual](https://open.spotify.com/track/415zjCOKwFCZcQlvyHQkuj) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Snake Ritual](https://open.spotify.com/album/3gv7Ynk3r2HSlg94P6lvvY) | 7:36 | 2022-11-11 | 2022-12-13 |

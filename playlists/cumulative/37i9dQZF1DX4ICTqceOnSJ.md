@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-143 songs - 7 hr 59 min
+144 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 | 2023-03-19 | 2023-04-15 |
 | [Crece y florece](https://open.spotify.com/track/4nvsfC0OSATtI6qMG0dMeL) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [GUACHA](https://open.spotify.com/album/5BLXqlpjgmJ7XeBB0cQZzT) | 2:54 | 2023-03-30 | 2023-06-26 |
 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 | 2023-03-19 | 2023-05-15 |
+| [CUANDO ME CANSE DE MI](https://open.spotify.com/track/2FOHQIcqFT3et7rAioADgK) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g) | [CUANDO ME CANSE DE MI](https://open.spotify.com/album/4HP7e9eSfKsG7liqyEBalt) | 3:54 | 2023-09-12 |  |
 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 | 2023-08-02 |  |
 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 | 2023-08-04 |  |
 | [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 | 2023-04-14 | 2023-07-15 |
@@ -116,7 +117,7 @@
 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 | 2023-08-01 |  |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-06-23 | 2023-09-12 |
 | [perdido en la ciudad](https://open.spotify.com/track/3np1HLiIzBjFodBf13Irzu) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [perdido en la ciudad](https://open.spotify.com/album/2ImmCGnDWWuZX4EsD7hLp4) | 2:33 | 2023-05-24 | 2023-08-17 |
-| [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 | 2023-06-23 |  |
+| [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 | 2023-06-23 | 2023-09-13 |
 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 | 2023-07-17 |  |
 | [Premature Rejection](https://open.spotify.com/track/4baFbLyq7I0mZvBeeFKOiF) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Premature Rejection](https://open.spotify.com/album/17vMJptfwmp0Y7DebBK42Q) | 2:32 | 2023-07-22 |  |
 | [Problema](https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Problema](https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV) | 2:44 | 2023-03-19 | 2023-04-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,098 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,112 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 40 | [Pour la vie](https://open.spotify.com/track/3uMyq8MxiJlrKJAEhRiOBZ) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:04 |
 | 41 | [Diamant](https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [On Frap](https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k) | 3:07 |
 | 42 | [Bando](https://open.spotify.com/track/3TockaqZaBW4hPSP5UqdzE) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Cerbère](https://open.spotify.com/album/4FXtD2a2crSUwtpZsrgsfA) | 3:57 |
-| 43 | [Dead Summer](https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Dead Summer](https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5) | 2:45 |
-| 44 | [Krève](https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Indélébile](https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf) | 2:46 |
+| 43 | [Krève](https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Indélébile](https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf) | 2:46 |
+| 44 | [Dead Summer](https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Dead Summer](https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5) | 2:45 |
 | 45 | [Fugueuse](https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Mafia](https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm) | 2:50 |
 | 46 | [Plume](https://open.spotify.com/track/4S67VsQJoZVaRKpzdVT7IM) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Personne ne touche le ciel](https://open.spotify.com/album/6BisJ6xLM0ZtRHtjAwMg7E) | 2:37 |
 | 47 | [Chill?](https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Fouette Saint\-Patrick](https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce) | 2:43 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 71 | [Blow](https://open.spotify.com/track/0hb24D9WWzu4nNZlbloEXS) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Lk Tha Goon](https://open.spotify.com/artist/5szHiW9YrV8BP2YNNqGRYa), [White\-B](https://open.spotify.com/artist/1HC485Z5DroDWlYPYcA80L) | [MMS, Vol\. 1](https://open.spotify.com/album/76PJfZOGxbsbbO48rvfchk) | 4:32 |
 | 72 | [Explosif](https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0) | [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [Gesamtkunstwerk](https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW) | 8:01 |
 | 73 | [La famille](https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Le sens des paroles](https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck) | 4:14 |
-| 74 | [La purge](https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence de mort](https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU) | 3:28 |
-| 75 | [Bruce Wayne](https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Bonhomme Pendu \(Chapitre 2\)](https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl) | 3:55 |
+| 74 | [Bruce Wayne](https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Bonhomme Pendu \(Chapitre 2\)](https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl) | 3:55 |
+| 75 | [La purge](https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence de mort](https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU) | 3:28 |
 | 76 | [Peace and Love](https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Océan](https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL) | 5:05 |
 | 77 | [Parle\-Moé Don D'ça](https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb) | [Temple de la Renommée](https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A) | 3:47 |
 | 78 | [Jalousie](https://open.spotify.com/track/1bypDBJ7EReMNW6Rz1C2kc) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [On Frap](https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Loin](https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:33 |
 | 100 | [J'roule dans la ville](https://open.spotify.com/track/60BJ8gT3S4NU55dck0yhDo) | [JTReal](https://open.spotify.com/artist/3LLK1zSKPj65PCnakZCYy1) | [JSN](https://open.spotify.com/album/1YLzFhrjYlmRXxsQZeHEY6) | 4:53 |
 
-Snapshot ID: `MCxlMWFiNTU1NDViNDg3Y2JmNWQ0YmYwNDhjYjQ5YmIzNGUzNGE0MWZk`
+Snapshot ID: `MCwzNmQzZDM5OTQzMzc0Njk1NDA3NDY2NjI1MmMyNDFhMGNlZmJlMTU4`

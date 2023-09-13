@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,640 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,919 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 39 | [When You Say Nothing at All](https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:42 |
 | 40 | [The Sweetest Thing \(I've Ever Known\)](https://open.spotify.com/track/3EFgVWb1TAYP3CF17BB4fU) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 4:08 |
 | 41 | [You Look So Good In Love](https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits](https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c) | 3:13 |
-| 42 | [Mountain Music](https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Ultimate Alabama 20 \# 1 Hits](https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z) | 3:38 |
-| 43 | [Lookin' for Love](https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Lookin' For Love](https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47) | 3:40 |
-| 44 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
-| 45 | [Country Club](https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 3:10 |
+| 42 | [Lookin' for Love](https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Lookin' For Love](https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47) | 3:40 |
+| 43 | [Country Club](https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 3:10 |
+| 44 | [Mountain Music](https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Ultimate Alabama 20 \# 1 Hits](https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z) | 3:38 |
+| 45 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
 | 46 | [I Wouldn't Have Missed It For The World](https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [There's No Gettin' Over Me](https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8) | 3:37 |
 | 47 | [Rockin' With The Rhythm Of The Rain](https://open.spotify.com/track/0uEuAQ0c5yittMpxJ3l5iR) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 2:41 |
 | 48 | [The One I Loved Back Then \(The Corvette Song\)](https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Who's Gonna Fill Their Shoes](https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL) | 2:30 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 76 | [You're The Reason God Made Oklahoma](https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v) | [David Frizzell](https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q), [Shelly West](https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ) | [The Very Best Of David Frizzell & Shelly West](https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI) | 3:24 |
 | 77 | [That's the Way Love Goes](https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 3:01 |
 | 78 | [Love Is Alive](https://open.spotify.com/track/2cD3pqgT9Yn4GUcGflMYdk) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:58 |
-| 79 | [If Drinkin' Don't Kill Me \(Her Memory Will\)](https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [I Am What I Am \(Expanded Edition\)](https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF) | 3:09 |
-| 80 | [American Made](https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Collection](https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI) | 2:39 |
+| 79 | [American Made](https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Collection](https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI) | 2:39 |
+| 80 | [If Drinkin' Don't Kill Me \(Her Memory Will\)](https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [I Am What I Am \(Expanded Edition\)](https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF) | 3:09 |
 | 81 | [I Wish That I Could Fall In Love Today](https://open.spotify.com/track/50pAZTEtKGt2oAguhBrnF7) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [I'll Be Your Jukebox Tonight](https://open.spotify.com/album/69meLNQFtyhpXcye5Hf1l4) | 2:52 |
 | 82 | [I Got Mexico](https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7) | [Eddy Raven](https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK) | [Best Of Eddy Raven](https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R) | 2:26 |
 | 83 | [Jose Cuervo](https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f) | [Shelly West](https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ) | [West By West](https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc) | 2:40 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 124 | [Just to Satisfy You](https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:49 |
 | 125 | [Highway 40 Blues](https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [16 Biggest Hits](https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu) | 3:08 |
 | 126 | [80's Ladies](https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [80s Ladies](https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT) | 4:11 |
-| 127 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
-| 128 | [Only One You](https://open.spotify.com/track/2KrbGmJsKa6xVtwYtQVGkg) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Finally!](https://open.spotify.com/album/7oIo2ejv5J3PuUOomEAPIf) | 3:26 |
+| 127 | [Only One You](https://open.spotify.com/track/2KrbGmJsKa6xVtwYtQVGkg) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Finally!](https://open.spotify.com/album/7oIo2ejv5J3PuUOomEAPIf) | 3:26 |
+| 128 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 129 | [Same Ole Me](https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Still The Same Ole Me](https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE) | 2:50 |
 | 130 | [Good Ole Boys Like Me \- Single Version](https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 4:11 |
 | 131 | [Leaving Louisiana In The Broad Daylight](https://open.spotify.com/track/1ADDagtKH24eNO8eJ6II6j) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Greatest Hits](https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN) | 3:02 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [Got No Reason Now For Goin' Home](https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Best Of Gene Watson](https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J) | 2:44 |
 | 150 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |
 
-Snapshot ID: `MCw3YTg1ZTliZTY5MTNmY2IwZDUxMzdkNmUwMGE2ZmY4NTI0ZTNlZDY2`
+Snapshot ID: `MCw0MTcwYmRjZWFlMGNlNWQ4ZWViNjZhMmQ4ZDFmZDQwMDhhNTMyMzk4`

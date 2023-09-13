@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Nacee
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,977 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,008 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 46 | [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 |
 | 47 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
 | 48 | [Prayer for deliverance](https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t) | [Prayer for deliverance](https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth) | 1:34 |
-| 49 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
-| 50 | [My Alabaster](https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y) | [DenniS](https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ) | [My Alabaster](https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl) | 8:34 |
+| 49 | [My Alabaster](https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y) | [DenniS](https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ) | [My Alabaster](https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl) | 8:34 |
+| 50 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
 
-Snapshot ID: `MCw3MGRkN2I4OGRhZjhlMDgzMWQ2ZTM0N2YyYzg4ZWFlOWJiNzY0YmMw`
+Snapshot ID: `MCwwZDlhMDUxNTVlYThjMTUyMGRkYTlkZTc1MGE1MWU3YjE4OWVkNWI2`

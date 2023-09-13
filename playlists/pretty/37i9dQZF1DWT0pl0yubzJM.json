@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 14364,
+  "num_followers": 14388,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTIzNTg0M2UwOTIxZmIwZGExYmI2YTA5ZDJmNTllNzI3NzYyNGY2",
+  "snapshot_id": "MCwxMTRjYTY3YjNjY2FhYjQ2Njg4ZDQyOThkMTQ2OGQzMzgzNjQzNzc4",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Trece",
-      "url": "https://open.spotify.com/track/26CbBuWyZ6mX4V2xuk3ZHa"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Fin De Semana Salvaje",
         "url": "https://open.spotify.com/album/2IUqHJOcTUpX8xXdjnpcdo"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 158946,
       "name": "Kanishka",
       "url": "https://open.spotify.com/track/54hZ4XVJ0xdp6teJVyHgn8"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Trece",
+      "url": "https://open.spotify.com/track/26CbBuWyZ6mX4V2xuk3ZHa"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -339,18 +339,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Los 7 Delfines",
-        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
+        "name": "Emporio Bizarro",
+        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
       "artists": [
         {
-          "name": "Los Siete Delfines",
-          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Post Crucifixion",
-      "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
+      "duration_ms": 234613,
+      "name": "Microman",
+      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -371,18 +371,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Emporio Bizarro",
-        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
+        "name": "Los 7 Delfines",
+        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
       "artists": [
         {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+          "name": "Los Siete Delfines",
+          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
         }
       ],
-      "duration_ms": 234613,
-      "name": "Microman",
-      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
+      "duration_ms": 228466,
+      "name": "Post Crucifixion",
+      "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
     },
     {
       "added_at": "2020-03-13 13:21:28",

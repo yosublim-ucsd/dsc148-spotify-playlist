@@ -2954,10 +2954,28 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 201206,
       "name": "MI BANDERA",
       "url": "https://open.spotify.com/track/2FofLDb6Agbl5pgpjC3WSc"
+    },
+    {
+      "album": {
+        "name": "VUELA ALTO",
+        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA"
     },
     {
       "album": {

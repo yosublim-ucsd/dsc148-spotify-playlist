@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 843658,
+  "num_followers": 843797,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjc1ZDA1MzhhMDk5ZGYwYjViNzNkYjA0N2NiMjM1Yzc5NGU2M2Uw",
+  "snapshot_id": "MCw1YzI2ZDg4MzE0MThlZjc2NTAyNTAxYzI4ZGI2ZTg0ZWQwNTViZTVm",
   "tracks": [
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/0VQXYA4do1nkiSjWzobyuw"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/2oUQzfbM29kn5cknX57gzB"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
         "name": "Afrodis\u00edaco",
         "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 216413,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/0VQXYA4do1nkiSjWzobyuw"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/2oUQzfbM29kn5cknX57gzB"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "Adan y Eva",
-        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 258638,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 201280,
       "name": "Sigo Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/0k23rRi1B8ZHrKtzECGoyk"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "Adan y Eva",
+        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 258638,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 194989,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 194989,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "Otro Nivel de M\u00fasica",
-        "url": "https://open.spotify.com/album/4zBoN1dVPUT2w4b1fFNFEh"
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
       },
       "artists": [
         {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 269591,
-      "name": "La Pregunta",
-      "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
+      "duration_ms": 238033,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/5ESAML4PZAbsiTK6OgRV2q"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "La Promesa",
-        "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
+        "name": "Otro Nivel de M\u00fasica",
+        "url": "https://open.spotify.com/album/4zBoN1dVPUT2w4b1fFNFEh"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
         }
       ],
-      "duration_ms": 238033,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/5ESAML4PZAbsiTK6OgRV2q"
+      "duration_ms": 269591,
+      "name": "La Pregunta",
+      "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 226010,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/0aTJrqOxUoEpXr4EEyX9Tx"
       },
@@ -1763,6 +1743,26 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 226010,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
         "name": "Otra Noche Sin Ti",
         "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
@@ -1779,6 +1779,26 @@
       "duration_ms": 228920,
       "name": "Otra Noche Sin Ti",
       "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "1000CANCIONES",
+        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "1000CANCIONES",
+      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1811,26 +1831,6 @@
       "duration_ms": 255091,
       "name": "Mi Mala (feat. Becky G, Leslie Grace & Lali) - Remix",
       "url": "https://open.spotify.com/track/27xFMBWh15wyYGGAVrEMuK"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "1000CANCIONES",
-        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "1000CANCIONES",
-      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/3eMoJmr1Cb6fnZhBbIKCgR"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 150644,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/3ad4HMun4ij9XwEShGPJTc"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 219183,
       "name": "CONTINGENTE",
       "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/3eMoJmr1Cb6fnZhBbIKCgR"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 150644,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/3ad4HMun4ij9XwEShGPJTc"
     },
     {
       "added_at": "2023-09-08 17:04:16",

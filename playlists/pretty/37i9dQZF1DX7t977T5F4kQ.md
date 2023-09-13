@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel?si=5\_sQXNf4RJCgFeSnPibtWA">E.L </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,921 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,969 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 |
 | 80 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 |
 
-Snapshot ID: `MCxiM2I1YmU1MDhlMDZlYzBkOGJmNzFhN2RmNWMyYzNkZDQyMWVjODdi`
+Snapshot ID: `MCxiODVjM2U2NWYyMDNlYWUwYzM1ZjEzYzQ5ZDI2ZjFhZWEwZjM0MDM0`

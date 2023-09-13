@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs and pop covers right now.",
-  "num_followers": 1134974,
+  "num_followers": 1135020,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWNlMTkxYWYyMTg2NDAxODdhYzg3MGY2Y2YwNDQ5NDhmM2Q2NDIx",
+  "snapshot_id": "MCxlYjFkYWNjNDZlNWM1ZmQwM2E0NjVkYmNkZDhkMjJjYjllODE2Y2Vh",
   "tracks": [
     {
       "added_at": "2023-08-31 14:40:35",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "13 Reasons Why (A Netflix Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2OicPkzxga0ybQIdl3kvaa"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Kill Em With Kindness - Acoustic",
-      "url": "https://open.spotify.com/track/6pezb9EwyygkHnJqkjLphG"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 165697,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "13 Reasons Why (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2OicPkzxga0ybQIdl3kvaa"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Kill Em With Kindness - Acoustic",
+      "url": "https://open.spotify.com/track/6pezb9EwyygkHnJqkjLphG"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Dancing On My Own (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
         }
       ],
-      "duration_ms": 230553,
-      "name": "Dancing On My Own - triple j Like A Version",
-      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
+      "duration_ms": 197357,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
       },
       "artists": [
         {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 197357,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ"
-      },
-      "artists": [
-        {
-          "name": "WestSouth",
-          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 182952,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ"
+      },
+      "artists": [
+        {
+          "name": "WestSouth",
+          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -955,6 +955,26 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Body Back (feat. Maia Wright) [Acoustic]",
+        "url": "https://open.spotify.com/album/0qVzs84aveFRnx0lRxkSRc"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Body Back (feat. Maia Wright) - Acoustic",
+      "url": "https://open.spotify.com/track/72QN4En2X8QFxqJV6pvxzR"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "We Used To",
         "url": "https://open.spotify.com/album/6dX82RtIYbiZBXHJmhlYM1"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 158313,
       "name": "We Used To",
       "url": "https://open.spotify.com/track/5UNCOsLJ9I45AmOwrKjHPK"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Body Back (feat. Maia Wright) [Acoustic]",
-        "url": "https://open.spotify.com/album/0qVzs84aveFRnx0lRxkSRc"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Body Back (feat. Maia Wright) - Acoustic",
-      "url": "https://open.spotify.com/track/72QN4En2X8QFxqJV6pvxzR"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "LEGEND (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 194245,
-      "name": "Nervous - Piano Version",
-      "url": "https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "breakeven",
         "url": "https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 210783,
       "name": "breakeven",
       "url": "https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "LEGEND (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 194245,
+      "name": "Nervous - Piano Version",
+      "url": "https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Bad Habits",
-        "url": "https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6"
-      },
-      "artists": [
-        {
-          "name": "Victoria Voss",
-          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Sweet Nothing",
         "url": "https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 201000,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6"
+      },
+      "artists": [
+        {
+          "name": "Victoria Voss",
+          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 252681,
+      "name": "Modern Loneliness - acoustic",
+      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Ruin My Life (Piano Version)",
         "url": "https://open.spotify.com/album/3DXqU4NZEv2xORVGJx1bEq"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "~how i'm feeling~ (the extras)",
-        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 252681,
-      "name": "Modern Loneliness - acoustic",
-      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Ghost - acoustic",
-        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 151374,
-      "name": "Ghost - Acoustic",
-      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/0UkPFZiEY8VJLDiWFuYiqd"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 191496,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Ghost - acoustic",
+        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 151374,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "All of me - Acoustic",
-        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 268551,
-      "name": "All of me - Acoustic",
-      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "STAY",
         "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 132789,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "All of me - Acoustic",
+        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 268551,
+      "name": "All of me - Acoustic",
+      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "how do you sleep?",
+        "url": "https://open.spotify.com/album/6HHO3PkWgYYK6D0zAS9VUm"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "duration_ms": 223340,
+      "name": "how do you sleep?",
+      "url": "https://open.spotify.com/track/6vRNE5P6s0GIZRQPJgLpF6"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz"
       },
@@ -2127,22 +2143,6 @@
       "duration_ms": 213107,
       "name": "Is It Just Me? (feat. JP Cooper) (Acoustic)",
       "url": "https://open.spotify.com/track/2KJdJ2GPBhWBr0vugLCrOz"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "how do you sleep?",
-        "url": "https://open.spotify.com/album/6HHO3PkWgYYK6D0zAS9VUm"
-      },
-      "artists": [
-        {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
-        }
-      ],
-      "duration_ms": 223340,
-      "name": "how do you sleep?",
-      "url": "https://open.spotify.com/track/6vRNE5P6s0GIZRQPJgLpF6"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Mad Love (Acoustic)",
-        "url": "https://open.spotify.com/album/4W9fu5glvw78YxZ6ZQUbCr"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 173200,
-      "name": "Mad Love - Acoustic",
-      "url": "https://open.spotify.com/track/3wl6QxubZaEFHvp05XpcuF"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Bigger Than (Acoustic)",
         "url": "https://open.spotify.com/album/1nLoG3te48Zzj3MkV7qcjZ"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 213080,
       "name": "Bigger Than - Acoustic",
       "url": "https://open.spotify.com/track/6wi0w8KfsjhWc77CwGGSkq"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Mad Love (Acoustic)",
+        "url": "https://open.spotify.com/album/4W9fu5glvw78YxZ6ZQUbCr"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "Mad Love - Acoustic",
+      "url": "https://open.spotify.com/track/3wl6QxubZaEFHvp05XpcuF"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 175002,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1E8YY35FSQpnw8fgpDOCq6"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 180998,
       "name": "WITHOUT ME",
       "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
-      },
-      "artists": [
-        {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
-        }
-      ],
-      "duration_ms": 175002,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2495,6 +2495,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "I ain't worried",
+        "url": "https://open.spotify.com/album/6T7RkNIqWCqueJnBvzroza"
+      },
+      "artists": [
+        {
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+        }
+      ],
+      "duration_ms": 168095,
+      "name": "I ain't worried",
+      "url": "https://open.spotify.com/track/7vaoU0TQjXGzOchBjOKWCj"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/7iXzUCCibpn6n3ujGDg7XK"
       },
@@ -2523,22 +2539,6 @@
       "duration_ms": 146000,
       "name": "HURTFUL",
       "url": "https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "I ain't worried",
-        "url": "https://open.spotify.com/album/6T7RkNIqWCqueJnBvzroza"
-      },
-      "artists": [
-        {
-          "name": "middle of june",
-          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
-        }
-      ],
-      "duration_ms": 168095,
-      "name": "I ain't worried",
-      "url": "https://open.spotify.com/track/7vaoU0TQjXGzOchBjOKWCj"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2611,6 +2611,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 166698,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Empty Love",
         "url": "https://open.spotify.com/album/3FGRYomaxqKCqrVmCr80db"
       },
@@ -2659,18 +2675,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Ransom",
-        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
+        "name": "Cooped up - Acoustic",
+        "url": "https://open.spotify.com/album/5xhwO1iOyHUsXF9kIO6YEU"
       },
       "artists": [
         {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+          "name": "POOL KIDS",
+          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
         }
       ],
-      "duration_ms": 166698,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
+      "duration_ms": 161456,
+      "name": "Cooped up - Acoustic",
+      "url": "https://open.spotify.com/track/0r8QmsNCerrYlA5gZn3wcl"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2687,22 +2703,6 @@
       "duration_ms": 242581,
       "name": "Girl I Wish I Didn't Know - Acoustic",
       "url": "https://open.spotify.com/track/2Zmt6TqxG2UGDxg4SjNVkA"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Cooped up - Acoustic",
-        "url": "https://open.spotify.com/album/5xhwO1iOyHUsXF9kIO6YEU"
-      },
-      "artists": [
-        {
-          "name": "POOL KIDS",
-          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
-        }
-      ],
-      "duration_ms": 161456,
-      "name": "Cooped up - Acoustic",
-      "url": "https://open.spotify.com/track/0r8QmsNCerrYlA5gZn3wcl"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2855,22 +2855,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "You'll Never Walk Alone",
-        "url": "https://open.spotify.com/album/7nUJxEfO6ShXWqz4QHCmTg"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 161402,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/2eivkicsT39M1pz0A4mfSD"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Stitches (Acoustic)",
         "url": "https://open.spotify.com/album/4qJFXxyt5OjMmOeymnN784"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 194545,
       "name": "Stitches (Acoustic)",
       "url": "https://open.spotify.com/track/1NEMlQEO4ArMfTXjXYtgQH"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "You'll Never Walk Alone",
+        "url": "https://open.spotify.com/album/7nUJxEfO6ShXWqz4QHCmTg"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 161402,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/2eivkicsT39M1pz0A4mfSD"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -3091,22 +3091,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "we don't talk anymore",
-        "url": "https://open.spotify.com/album/1mNaspSo0uLoAY8swHdPTM"
-      },
-      "artists": [
-        {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
-        }
-      ],
-      "duration_ms": 232659,
-      "name": "we don't talk anymore",
-      "url": "https://open.spotify.com/track/4fMyUDYJvrFM3UjiLuvtlI"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Sunroof (Acoustic)",
         "url": "https://open.spotify.com/album/6M78VAGEkFKdVk2qm4ZQLB"
       },
@@ -3119,6 +3103,22 @@
       "duration_ms": 137926,
       "name": "Sunroof (Acoustic)",
       "url": "https://open.spotify.com/track/58LmLQjGilHJqLLas40c3x"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "we don't talk anymore",
+        "url": "https://open.spotify.com/album/1mNaspSo0uLoAY8swHdPTM"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "duration_ms": 232659,
+      "name": "we don't talk anymore",
+      "url": "https://open.spotify.com/track/4fMyUDYJvrFM3UjiLuvtlI"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -3139,22 +3139,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Fresh Acoustic",
-        "url": "https://open.spotify.com/album/6qQCPP6vbF7hNZGdFM7goh"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 186295,
-      "name": "Light Switch - Acoustic",
-      "url": "https://open.spotify.com/track/7ul00JABAebIdiCvJlqsNh"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL"
       },
@@ -3167,6 +3151,22 @@
       "duration_ms": 152854,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Fresh Acoustic",
+        "url": "https://open.spotify.com/album/6qQCPP6vbF7hNZGdFM7goh"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 186295,
+      "name": "Light Switch - Acoustic",
+      "url": "https://open.spotify.com/track/7ul00JABAebIdiCvJlqsNh"
     },
     {
       "added_at": "2023-08-31 14:40:35",

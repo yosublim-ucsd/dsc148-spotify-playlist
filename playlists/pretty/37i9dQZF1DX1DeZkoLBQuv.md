@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,952 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,951 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 33 | [Natal Real](https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW) | [Novo Tom](https://open.spotify.com/artist/45y2879LBmuzrx4krY6vQh), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK) | [Natal Real](https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK) | 4:16 |
 | 34 | [Vem Cear](https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e) | [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm) | [Clássicos da Música Cristã](https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY) | 3:38 |
 | 35 | [Dai Louvores ao Rei](https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 3:30 |
-| 36 | [Noite Santa \(Cantique de Noel\)](https://open.spotify.com/track/6keWbatyTby28odg835j18) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 6:36 |
-| 37 | [Como Um de Nós \- Ao Vivo](https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Outra Vez, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59) | 4:42 |
-| 38 | [Ó, Vinde, Adoremos](https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Ó, Vinde, Adoremos](https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd) | 3:15 |
+| 36 | [Ó, Vinde, Adoremos](https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Ó, Vinde, Adoremos](https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd) | 3:15 |
+| 37 | [Noite Santa \(Cantique de Noel\)](https://open.spotify.com/track/6keWbatyTby28odg835j18) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 6:36 |
+| 38 | [Como Um de Nós \- Ao Vivo](https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Outra Vez, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59) | 4:42 |
 | 39 | [Natal de Amor](https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3) | [Pâmela Jardim](https://open.spotify.com/artist/2FaZIsYvglfq2Bw97xhQ3b), [Rhayle Campos](https://open.spotify.com/artist/41U4eo2r9FH2gv8JtijGIf), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Natal de Amor](https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40) | 5:01 |
 | 40 | [O Milagre do Natal](https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv) | [Alex Gonzaga, Marcus Salles e Wilian Nascimento](https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:19 |
 | 41 | [Natal](https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Natal](https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR) | 3:24 |
 | 42 | [Nasce Jesus](https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:39 |
 | 43 | [Primeiro Natal \(The First Noel\)](https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
 | 44 | [Por Amor a Nós](https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:43 |
-| 45 | [Deus Emanuel](https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Deus Emanuel](https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi) | 5:13 |
-| 46 | [O Primeiro Natal](https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [O Primeiro Natal](https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH) | 4:38 |
+| 45 | [O Primeiro Natal](https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [O Primeiro Natal](https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH) | 4:38 |
+| 46 | [Deus Emanuel](https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Deus Emanuel](https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi) | 5:13 |
 | 47 | [Seu Nome](https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Seu Nome](https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ) | 3:11 |
 | 48 | [Vem Chegando o Natal](https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5) | [Perlla](https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK) | [Noite de Paz \- Canções para Celebrar](https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1) | 3:13 |
 | 49 | [O Melhor Presente](https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:27 |
 | 50 | [A História de Cristo](https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz) | [7MUS](https://open.spotify.com/artist/33yLLoQo58B1Sq7eTfXIU8), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK) | [\#TBT](https://open.spotify.com/album/53aePMus3r7215h43aChgx) | 3:32 |
 
-Snapshot ID: `MCxmODBiNWUyZjc5ZDczMWU5Y2YzYmQzMzQ4M2UwY2VkZjc4MDIzY2Yy`
+Snapshot ID: `MCwyMjc4YzFiOGVmYjc1MDJjYzAyMzRlN2E5NDk0YmFmMjNlZDI3MDA1`

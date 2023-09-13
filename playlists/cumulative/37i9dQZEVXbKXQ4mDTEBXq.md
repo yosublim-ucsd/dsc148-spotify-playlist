@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-327 songs - 20 hr 36 min
+329 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-16 |  |
 | [Magic](https://open.spotify.com/track/0csHMdBheTvp9Oay1hM1WF) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Magic](https://open.spotify.com/album/6YiIRjTqbhaWpNG5WpgB85) | 4:23 | 2023-06-14 | 2023-07-06 |
 | [Magic](https://open.spotify.com/track/170XOP1T4MvY9TLTgPw07D) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:23 | 2023-07-05 |  |
+| [Mainstream](https://open.spotify.com/track/3nmlrhJ5PHN764qiJ7lZyI) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/1yd9khWAAwJn9QxnN0STCm) | 3:27 | 2023-09-12 |  |
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-08-26 | 2023-08-28 |
 | [Make you happy](https://open.spotify.com/track/1LnJVIG1BaHTRznuOgR0yc) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Make you happy](https://open.spotify.com/album/1wIIu2i7A56TlMD99CVNQD) | 3:04 | 2021-03-27\* | 2021-08-04 |
 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 | 2022-07-13 | 2022-09-19 |
@@ -96,6 +97,7 @@
 | [Nagisa](https://open.spotify.com/track/5q7xQsNsw8ZR8Itt3H6sBS) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Best of imase: NIGHT DANCER & Viral Hits](https://open.spotify.com/album/5EBImlI8YR8tUV37iV0IFs) | 3:46 | 2023-08-20 | 2023-08-23 |
 | [napori](https://open.spotify.com/track/5Ym4egUmT9wHEvZM2anGG8) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY) | 3:23 | 2021-03-27\* | 2021-12-11 |
 | [napori](https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:23 | 2021-12-11 | 2021-12-22 |
+| [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-09-12 |  |
 | [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 | 2023-06-06 |  |
 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-22 | 2023-08-30 |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-05 |  |
@@ -169,7 +171,7 @@
 | [かくれんぼ](https://open.spotify.com/track/0JTjZnuciQH4M3620aMDtZ) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [かくれんぼ](https://open.spotify.com/album/6cpzSon38ekIuocueyQTCe) | 4:31 | 2021-03-27\* | 2022-01-14 |
 | [かくれんぼ](https://open.spotify.com/track/0tMqllhrXe8CWOosrCD1fE) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:31 | 2022-01-13 | 2022-04-07 |
 | [きらり](https://open.spotify.com/track/3ciqhcLmXP4hVGBD98QlEj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [きらり](https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy) | 3:51 | 2021-05-05 | 2022-01-15 |
-| [きらり](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 3:51 | 2022-01-15 |  |
+| [きらり](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 3:51 | 2022-01-15 | 2023-09-13 |
 | [すずめ](https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 3:58 | 2022-11-12 | 2023-01-24 |
 | [すてきなホリデイ](https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU) | 4:37 | 2022-12-25 | 2022-12-28 |
 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 | 2023-03-17 |  |
@@ -310,7 +312,7 @@
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-12-07 | 2022-12-16 |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2021-03-27\* | 2021-05-27 |
 | [紫苑](https://open.spotify.com/track/4dFGAtzdQ0C7WowKPZXc8J) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [紫苑](https://open.spotify.com/album/7kCkbIhyJo0h2P4tgRkxRR) | 5:24 | 2022-10-24 | 2022-12-08 |
-| [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-04-18 |  |
+| [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-04-18 | 2023-09-13 |
 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 | 2022-12-17 | 2023-02-27 |
 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-04-11 | 2023-05-19 |
 | [美しい鰭](https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 3:31 | 2023-05-18 |  |

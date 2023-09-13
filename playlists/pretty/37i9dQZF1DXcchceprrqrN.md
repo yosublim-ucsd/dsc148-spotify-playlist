@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,314 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,511 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 49 | [Dream Song](https://open.spotify.com/track/0jTKmPYBGiEZsQtRNlWM1L) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Sleepyhead](https://open.spotify.com/album/4KTenQpTycVovYaJmCcrMa) | 2:10 |
 | 50 | [Selfish](https://open.spotify.com/track/79mYNfvMefhmL5IqRmUnCK) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 3:12 |
 
-Snapshot ID: `MCxhYWU0N2NlNDhhOTNmZGUyMTVkY2U5MTdmMWY0NTc2NWU3ODZkYmUw`
+Snapshot ID: `MCwxMmYyNjkzNmFkN2ViZDJkMmI3MDE1OWM3YjI1YTIxMGY2OGU1YWI1`

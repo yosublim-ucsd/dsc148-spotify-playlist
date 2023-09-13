@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "The freshest indie sounds from Japan. \u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002Cover: Skaai",
+  "description": "The freshest indie sounds from Japan. \u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002Cover: illiomote",
   "name": "Edge!",
   "tracks": [
     {
@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 128800,
       "name": "BET ON ME",
       "url": "https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 158999,
       "name": "Bow!Kiss!Begin!",
       "url": "https://open.spotify.com/track/2pBp8CZYnee9wwTIJhLmK0"
@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 207157,
       "name": "feel like",
       "url": "https://open.spotify.com/track/1HvEmyjFvfNN48gwR0fhix"
@@ -3846,7 +3846,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 234750,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/69iInIA8yAG1ifnyHjP73c"
@@ -3864,7 +3864,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 203007,
       "name": "HOME",
       "url": "https://open.spotify.com/track/3RSKVlBmRcXmf94fHMfmkJ"
@@ -4034,7 +4034,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 220236,
       "name": "Hozue",
       "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
@@ -4348,6 +4348,24 @@
       "duration_ms": 292288,
       "name": "i.e.",
       "url": "https://open.spotify.com/track/56D1XjLDRNIl2J6MDxBBHe"
+    },
+    {
+      "album": {
+        "name": "I.W.S.P",
+        "url": "https://open.spotify.com/album/4ik3vEY9isnVmH3wfdnsfN"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "I.W.S.P",
+      "url": "https://open.spotify.com/track/4JAP7z3MSFFcSiW66Lr9J3"
     },
     {
       "album": {
@@ -6757,6 +6775,24 @@
     },
     {
       "album": {
+        "name": "WE'LL DIE THIS WAY",
+        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "PRO",
+      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
+    },
+    {
+      "album": {
         "name": "Magnet",
         "url": "https://open.spotify.com/album/2mZuf80aYdleohrQAcdoqJ"
       },
@@ -8684,7 +8720,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 225325,
       "name": "Swimming Pool - Rejoicer Remix",
       "url": "https://open.spotify.com/track/3INq5BnEL5zobj106vIL80"
@@ -10386,7 +10422,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 291431,
       "name": "\u3042\u306a\u305f\u3092\u8e0a\u3089\u305b\u305f\u3044",
       "url": "https://open.spotify.com/track/6disnHJweSQLGaoAPwF36R"
@@ -11458,7 +11494,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 149623,
       "name": "\u30b3\u30ed\u30cd\u6c17\u6d41",
       "url": "https://open.spotify.com/track/66M7oadAQbYXj1KQQipcLd"
@@ -14170,7 +14206,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 280051,
       "name": "\u6ce3\u304d\u866b",
       "url": "https://open.spotify.com/track/29j1V9spM4H71IQpYhKixj"

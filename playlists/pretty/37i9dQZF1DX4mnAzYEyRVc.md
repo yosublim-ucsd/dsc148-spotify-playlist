@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,878 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,945 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 23 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
 | 24 | [Spiderwebs](https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:26 |
 | 25 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 |
-| 26 | [Same In The End](https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:36 |
-| 27 | [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 |
+| 26 | [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 |
+| 27 | [Same In The End](https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:36 |
 | 28 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
 | 29 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
 | 30 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 95 | [Eastern Standard Time](https://open.spotify.com/track/0MD62jX5sCoiKqCFrq8hx2) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Brass Mafia](https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1) | [Eastern Standard Time](https://open.spotify.com/album/1sy41T5YegbDebkGBd26pV) | 4:29 |
 | 96 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 97 | [No More Sorrow](https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r) | [Rotterdam Ska\-Jazz Foundation](https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp) | [Motiv Loco](https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK) | 2:42 |
-| 98 | [Der Song den jeder kennt](https://open.spotify.com/track/0Qev6YcGtupcouKqxrfrWz) | [D´Hundskrippln](https://open.spotify.com/artist/4x4nSliAvh7RM7dVxbs9aP) | [Der Song den jeder kennt](https://open.spotify.com/album/1QznBcpyezEPKPfrEUh4Qw) | 2:38 |
-| 99 | [A Message to You Rudy \(feat.Emi\)](https://open.spotify.com/track/3FadiVpEMwNKcbKgQI7jse) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [Emi](https://open.spotify.com/artist/2SzGAO81tsXVg709p6xjIZ) | [A Message to You Rudy \(feat.Emi\)](https://open.spotify.com/album/4L8DFXliPn6NMIXz0JqgND) | 4:12 |
-| 100 | [Yes It's True](https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Yes It's True](https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ) | 4:03 |
+| 98 | [Yes It's True](https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Yes It's True](https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ) | 4:03 |
+| 99 | [Der Song den jeder kennt](https://open.spotify.com/track/0Qev6YcGtupcouKqxrfrWz) | [D´Hundskrippln](https://open.spotify.com/artist/4x4nSliAvh7RM7dVxbs9aP) | [Der Song den jeder kennt](https://open.spotify.com/album/1QznBcpyezEPKPfrEUh4Qw) | 2:38 |
+| 100 | [A Message to You Rudy \(feat.Emi\)](https://open.spotify.com/track/3FadiVpEMwNKcbKgQI7jse) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [Emi](https://open.spotify.com/artist/2SzGAO81tsXVg709p6xjIZ) | [A Message to You Rudy \(feat.Emi\)](https://open.spotify.com/album/4L8DFXliPn6NMIXz0JqgND) | 4:12 |
 
-Snapshot ID: `MCxmNDQ3Mjg0OTA5NmQwNmVjNWFlMGY5ZjczZmI4YTMxZmJlNTY3NWZl`
+Snapshot ID: `MCwyYzllZmY5MWY3NDE3MTcwNTY2NGMzNDc0MTdjMmFhZjg5MjM1MDc5`

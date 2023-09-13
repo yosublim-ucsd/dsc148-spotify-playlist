@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 575507,
+  "num_followers": 576377,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGFmOTJiZWQ3MDQxYTc4NWFkNGJjZWM1ODMzOTQ4NjViNDk0NGU5",
+  "snapshot_id": "MCwxMjFlYWZlMjdlMDJlZjJlYWNkMjlmNjE2MTc3YjMxMjhlZGJhNmFm",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Ready For Romance",
@@ -835,6 +819,22 @@
       "duration_ms": 222666,
       "name": "Brother Louie",
       "url": "https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/2oWMI54r0qT4N8Xb4C76vq"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Freeze Frame",
-        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Centerfold",
-      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Whitney Houston",
@@ -999,18 +983,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Glass Houses",
-        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
         }
       ],
-      "duration_ms": 176440,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
+      "duration_ms": 216533,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1027,6 +1011,22 @@
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "The Mike Oldfield Collection",
-        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "Moonlight Shadow",
-      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Live Is Life",
         "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 249500,
       "name": "Live Is Life (Digitally Remastered) (Single Version)",
       "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "The Mike Oldfield Collection",
+        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1745,24 +1745,20 @@
       "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
+      "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Keep On Movin'",
-        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
+        "name": "Fame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
       },
       "artists": [
         {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        },
-        {
-          "name": "Caron Wheeler",
-          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+      "duration_ms": 316066,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1781,20 +1777,24 @@
       "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Fame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
+        "name": "Keep On Movin'",
+        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
       "artists": [
         {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        },
+        {
+          "name": "Caron Wheeler",
+          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
         }
       ],
-      "duration_ms": 316066,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
+      "duration_ms": 228266,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1861,22 +1861,6 @@
       "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Back In The High Life",
-        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 351506,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
-    },
-    {
       "added_at": "2021-09-18 06:09:03",
       "album": {
         "name": "Hands Up",
@@ -1891,6 +1875,22 @@
       "duration_ms": 208573,
       "name": "Hands Up - Single Version",
       "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Back In The High Life",
+        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 351506,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2213,6 +2213,22 @@
       "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Invisible Touch (2007 Remaster)",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Invisible Touch - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Empty Glass",
@@ -2229,20 +2245,20 @@
       "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Invisible Touch (2007 Remaster)",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+        "name": "Another Step",
+        "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
       },
       "artists": [
         {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
         }
       ],
-      "duration_ms": 208026,
-      "name": "Invisible Touch - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+      "duration_ms": 255220,
+      "name": "You Keep Me Hangin On",
+      "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2263,22 +2279,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Another Step",
-        "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 255220,
-      "name": "You Keep Me Hangin On",
-      "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
       },
@@ -2291,6 +2291,22 @@
       "duration_ms": 268186,
       "name": "Love Changes (Everything)",
       "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Forever Your Girl",
+        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2311,18 +2327,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Forever Your Girl",
-        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
       },
       "artists": [
         {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
         }
       ],
-      "duration_ms": 251466,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
+      "duration_ms": 298866,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2343,18 +2359,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Somebody's Watching Me",
-        "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
       },
       "artists": [
         {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 298866,
-      "name": "Somebody's Watching Me",
-      "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
+      "duration_ms": 217693,
+      "name": "A View to a Kill",
+      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2371,22 +2387,6 @@
       "duration_ms": 302200,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0PhU6i6Kei6x0CH3jocvA3"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "A View to a Kill",
-      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     },
     {
       "added_at": "2021-09-08 13:09:25",

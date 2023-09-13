@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29519,
+  "num_followers": 29540,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzg5YjM4NDZkZDZmYTU4MTQwYzA4MTIyZGQ3MTI1MWJhMzE1YzY4",
+  "snapshot_id": "MCw1NWNiZGFlNTI2OGVkMzZlYzg3MWI3YWY2YzZkZDY0M2UzMTliN2Rj",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Pengarna eller livet",
-        "url": "https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD"
-      },
-      "artists": [
-        {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Leva loppan",
-      "url": "https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "V\u00e4lkommen Hit",
         "url": "https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 90493,
       "name": "Arbetsl\u00f6s",
       "url": "https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Pengarna eller livet",
+        "url": "https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD"
+      },
+      "artists": [
+        {
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Leva loppan",
+      "url": "https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Snabbmat F\u00f6r Folk I Farten",
-        "url": "https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw"
+        "name": "V\u00e4rdel\u00f6s",
+        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
       },
       "artists": [
         {
-          "name": "Hans & Greta",
-          "url": "https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie"
+          "name": "Sten & Stalin",
+          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Sibylla",
-      "url": "https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC"
+      "duration_ms": 123560,
+      "name": "Feta Gubbar",
+      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -767,34 +767,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "V\u00e4rdel\u00f6s",
-        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+        "name": "Snabbmat F\u00f6r Folk I Farten",
+        "url": "https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw"
       },
       "artists": [
         {
-          "name": "Sten & Stalin",
-          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+          "name": "Hans & Greta",
+          "url": "https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie"
         }
       ],
-      "duration_ms": 123560,
-      "name": "Feta Gubbar",
-      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
-        "url": "https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA"
-      },
-      "artists": [
-        {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
-      "url": "https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj"
+      "duration_ms": 210333,
+      "name": "Sibylla",
+      "url": "https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -863,22 +847,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Alla sover",
-        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 167648,
-      "name": "Brinner",
-      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "V\u00e4lkommen till fabriken",
         "url": "https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S"
       },
@@ -895,8 +863,8 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Konflikthantering 101",
-        "url": "https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4"
+        "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
+        "url": "https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA"
       },
       "artists": [
         {
@@ -904,9 +872,25 @@
           "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Konflikthantering 101",
-      "url": "https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs"
+      "duration_ms": 125440,
+      "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
+      "url": "https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Alla sover",
+        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 167648,
+      "name": "Brinner",
+      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1007,22 +991,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Alderland",
-        "url": "https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Kom och dansa lite",
-      "url": "https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Sex Politik & F\u00e5glar",
         "url": "https://open.spotify.com/album/32VvPLYDMKpWrko4eTSA9k"
       },
@@ -1039,22 +1007,50 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "F\u00f6r Sverige",
-        "url": "https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS"
+        "name": "Konflikthantering 101",
+        "url": "https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4"
       },
       "artists": [
         {
           "name": "Lastkaj 14",
           "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        },
-        {
-          "name": "Loke Nyberg",
-          "url": "https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Hela hatet stormar",
-      "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
+      "duration_ms": 165600,
+      "name": "Konflikthantering 101",
+      "url": "https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "V\u00e4rdel\u00f6s",
+        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+      },
+      "artists": [
+        {
+          "name": "Sten & Stalin",
+          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Pappa Betalar",
+      "url": "https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Alderland",
+        "url": "https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Kom och dansa lite",
+      "url": "https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje"
     }
   ],
   "unique_name": "Svensk Punk",

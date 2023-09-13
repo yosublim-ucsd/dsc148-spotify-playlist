@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 47474,
+  "num_followers": 47548,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjgzMjJjNjlkYTMxN2IzNTE1MTFhOTFkOGE5NTJiYWFhNzJlMjFl",
+  "snapshot_id": "MCxkYzc1YWIxY2JkYWFmOTdhNGE4Y2UyMTE3OGQ1NmRmNzgzNGJlNTZh",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -879,6 +879,26 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Overload / Somebody Else, Pt. 2",
+        "url": "https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        },
+        {
+          "name": "Lydia Plain",
+          "url": "https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs"
+        }
+      ],
+      "duration_ms": 197485,
+      "name": "Somebody Else, Pt. 2",
+      "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Shaolin Fist",
         "url": "https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip"
       },
@@ -915,22 +935,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "VOID LP",
-        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Transcend",
         "url": "https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8"
       },
@@ -963,22 +967,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Overload / Somebody Else, Pt. 2",
-        "url": "https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl"
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
       },
       "artists": [
         {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        },
-        {
-          "name": "Lydia Plain",
-          "url": "https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs"
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
         }
       ],
-      "duration_ms": 197485,
-      "name": "Somebody Else, Pt. 2",
-      "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
+      "duration_ms": 267586,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
     },
     {
       "added_at": "2022-08-12 16:34:51",

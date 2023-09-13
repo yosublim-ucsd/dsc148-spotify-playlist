@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 91151,
+  "num_followers": 91197,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjFiNzMwOWExZTE2NTdjODNhMGVjMTczOWEwOGVlMTQyNGRkYmYw",
+  "snapshot_id": "MCw1YTYzY2MxMGI1NzA2MmQ5NDVlYzc1YjkwNjJhODE0MjliYmVmMTU4",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Canvas",
-        "url": "https://open.spotify.com/album/2l2BPv4eVYXFY3Es8mvFui"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 170549,
-      "name": "Build a Boat",
-      "url": "https://open.spotify.com/track/4JVzoYdjh1LJZ4IGZyOHWF"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Running Home",
         "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 208801,
       "name": "Thank God For Sunday Morning",
       "url": "https://open.spotify.com/track/6OC3n631AkgqbWrrQbN1yH"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/2l2BPv4eVYXFY3Es8mvFui"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 170549,
+      "name": "Build a Boat",
+      "url": "https://open.spotify.com/track/4JVzoYdjh1LJZ4IGZyOHWF"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Soul Worth Saving",
-        "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 226650,
-      "name": "Soul Worth Saving",
-      "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "I Cry Jesus",
         "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Ain't Nobody",
-        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
+        "name": "Soul Worth Saving",
+        "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
       },
       "artists": [
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
         }
       ],
-      "duration_ms": 213967,
-      "name": "Ain't Nobody - Radio Version",
-      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
+      "duration_ms": 226650,
+      "name": "Soul Worth Saving",
+      "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -487,6 +471,22 @@
       "duration_ms": 260708,
       "name": "Jesus Called My Name",
       "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Ain't Nobody",
+        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 213967,
+      "name": "Ain't Nobody - Radio Version",
+      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Only You Can Do It",
+        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 140347,
+      "name": "Only You Can Do It",
+      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "The Church I Grew Up in (Live)",
         "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Only You Can Do It",
-        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
+        "name": "Home Called Heaven",
+        "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
       },
       "artists": [
         {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
         }
       ],
-      "duration_ms": 140347,
-      "name": "Only You Can Do It",
-      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+      "duration_ms": 227719,
+      "name": "Home Called Heaven",
+      "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1051,22 +1067,6 @@
       "duration_ms": 150000,
       "name": "FOUGHT 4 LOVE",
       "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Home Called Heaven",
-        "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 227719,
-      "name": "Home Called Heaven",
-      "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
-        "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
-      "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+        "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
+        "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
       },
       "artists": [
         {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
+      "duration_ms": 206400,
+      "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
+      "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Good Lord",
-        "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Good Lord",
-      "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 209262,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Good Lord",
+      "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1315,22 +1315,6 @@
       "duration_ms": 374437,
       "name": "Pursuit (As The Deer) - Live",
       "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Wherever You Are",
-        "url": "https://open.spotify.com/album/1IYrmNaXSihfAfvDkfwIWn"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lane",
-          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/1h5UwBqq3m7BNUrCrcSxY5"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1367,22 +1351,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Good Lord",
-        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/1IYrmNaXSihfAfvDkfwIWn"
       },
       "artists": [
         {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        },
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+          "name": "Olivia Lane",
+          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
         }
       ],
-      "duration_ms": 202708,
-      "name": "Good Lord (feat. Katy Nichole)",
-      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
+      "duration_ms": 215800,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/1h5UwBqq3m7BNUrCrcSxY5"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1455,22 +1435,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Though None Go",
         "url": "https://open.spotify.com/album/6AARjaQ2hd1WfU3S0JfImo"
       },
@@ -1487,6 +1451,42 @@
       "duration_ms": 212380,
       "name": "Clear The Air",
       "url": "https://open.spotify.com/track/7mN6Y61Xo7k7aoxkuqzXlz"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        },
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 202708,
+      "name": "Good Lord (feat. Katy Nichole)",
+      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Nothing To Buy",
         "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
@@ -1631,22 +1615,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "KEEP YOUR WORD / GOODBYES",
         "url": "https://open.spotify.com/album/2K3Ed5r7nyX64TYxKlaH4n"
       },
@@ -1659,6 +1627,38 @@
       "duration_ms": 190586,
       "name": "KEEP YOUR WORD",
       "url": "https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "One Heart at a Time",
-        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "One Heart at a Time",
-      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "When You Speak (Deluxe)",
         "url": "https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 216610,
       "name": "Say Amen",
       "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "One Heart at a Time",
+        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "One Heart at a Time",
+      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     }
   ],
   "unique_name": "Sing A New Song",

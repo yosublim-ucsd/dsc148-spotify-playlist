@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Jungle
 
-1,273 songs - 3 day 3 hr 18 min
+1,274 songs - 3 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,7 +633,8 @@
 | [King of empty conversations](https://open.spotify.com/track/7ypIMg9prFSXhi1nX4cK6m) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [King of empty conversations](https://open.spotify.com/album/4FanSVdF3aguiuuJi0qgO0) | 3:22 | 2022-11-18 | 2023-03-11 |
 | [King of Sweden](https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [King of Sweden](https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8) | 4:11 | 2022-02-18 | 2022-06-25 |
 | [Kiss Me \(I Loved You\)](https://open.spotify.com/track/2lQ3IL0tQ8hQC03lgEDelU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 3:57 | 2022-04-08 | 2022-04-16 |
-| [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-23 |  |
+| [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-23 | 2023-09-13 |
+| [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 | 2023-09-08 |  |
 | [Knee Deep at ATP](https://open.spotify.com/track/7GdIvzFCC3ZGS4sGsCuR9W) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/4COjHeRyvJkn9C5a2QnLkr) | 3:07 | 2021-12-31 | 2022-02-12 |
 | [Kollage](https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:16 | 2023-08-02 |  |
 | [L.O.T.O.S.](https://open.spotify.com/track/4idr7TFkX3usk7liA6BaIC) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [L.O.T.O.S.](https://open.spotify.com/album/0bLNvSnwqlGExrwZXMCfvI) | 4:15 | 2021-12-31 | 2022-01-29 |

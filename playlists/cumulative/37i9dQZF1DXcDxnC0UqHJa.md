@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-256 songs - 16 hr 24 min
+257 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Cattle Call](https://open.spotify.com/track/2KPALH8c8yYs4jPV55SN6o) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp) | [The Majestic Silver Strings](https://open.spotify.com/album/2GTCs1hvMJNCUfKQOZ2aoo) | 4:11 | 2021-12-13 | 2022-09-10 |
 | [Caves](https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Caves](https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc) | 2:59 | 2021-12-13 |  |
 | [Cheers](https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Cheers](https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb) | 4:06 | 2021-12-13 |  |
+| [Cigarette Machine](https://open.spotify.com/track/3rtyOYyrqqCs5OWDgr2SzM) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Cigarette Machine](https://open.spotify.com/album/6XDLIwOzCSTRuXUc677yA4) | 3:24 | 2023-09-08 |  |
 | [Clay Pigeons](https://open.spotify.com/track/0sOv30WGok8ZQXhG6wMSB0) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6), [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Clay Pigeons](https://open.spotify.com/album/01m8HkHZ0qgJRm16z6SVPs) | 5:04 | 2021-12-13 | 2022-07-29 |
 | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0) | 2:54 | 2021-12-13 | 2022-07-29 |
 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 | 2021-12-13 |  |
@@ -107,7 +108,7 @@
 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 | 2022-06-03 |  |
 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 | 2023-04-28 |  |
 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2021-12-13 |  |
-| [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/track/1qMJAquNvVR74RlAxYG6Ys) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7) | [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/album/4GDA3v5DT10GdOhOPyY85q) | 3:03 | 2023-05-05 |  |
+| [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/track/1qMJAquNvVR74RlAxYG6Ys) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7) | [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/album/4GDA3v5DT10GdOhOPyY85q) | 3:03 | 2023-05-05 | 2023-09-13 |
 | [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF) | 4:22 | 2023-04-14 |  |
 | [Heaven Help The Child](https://open.spotify.com/track/1FkGD5BKk9uaFrNxuLBc6b) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | ["Heaven Help The Child"](https://open.spotify.com/album/3WveYXV6ceBK1AOoB7Vy8H) | 5:07 | 2021-12-13 | 2022-07-29 |
 | [Hello Sunshine](https://open.spotify.com/track/5G43H7suQSoOwRfyIRH9tX) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4), [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [Other People's Songs Volume One](https://open.spotify.com/album/7wKsuHFtWGNkUC1nCnrJR2) | 3:04 | 2021-12-13 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: DEKKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,046 likes - 212 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,074 likes - 212 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 91 | [TEIDE](https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [CÓDIGOS](https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe) | 3:02 |
 | 92 | [Camino a Neptuno](https://open.spotify.com/track/5xBCigex5TpSjOlHcuBzmv) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [CÓDIGOS](https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe) | 2:50 |
 | 93 | [Como Era Antes](https://open.spotify.com/track/6zNYKyc4fCXpa1afWupnSE) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq) | [CÓDIGOS](https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe) | 3:14 |
-| 94 | [COSTA RICA](https://open.spotify.com/track/5tc3E3jKcw419qe3HH9gaB) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 3:46 |
+| 94 | [COSTA RICA](https://open.spotify.com/track/0RdzTYVtews6ssYQK782Jf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 3:46 |
 | 95 | [DOS PRIMAVERAS](https://open.spotify.com/track/4OpzznhpDY6UfXbapDEAJF) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 2:55 |
 | 96 | [MENEITO](https://open.spotify.com/track/4h5PTubUItiSzhy36isv8r) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 3:18 |
 | 97 | [KYLIE](https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:00 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 211 | [CAEN LAS ESTRELLAS](https://open.spotify.com/track/4L2v8fOruCUk2wbXC0PKHt) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:25 |
 | 212 | [8 AM](https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:27 |
 
-Snapshot ID: `MCwxOTk5OGI0ZDc3NTgzNGJlNTlkOGIyZTUyZDE0NmJiNTY0ZGUzYWY5`
+Snapshot ID: `MCxlYjU0ZDdkMmE5ODVkZDVlOTg2M2Y0NDYzNWE3YmI0M2RlYzIxNTU0`

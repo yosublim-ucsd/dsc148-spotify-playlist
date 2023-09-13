@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 213401,
+  "num_followers": 214177,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTc3NTc2OGJkZTQ4MzY0ZjU2MmQxMDM1ZGNmOGU3YWYzOTJlNjlk",
+  "snapshot_id": "MCw5ZGI0MmFiYjllMDA2NWQ5OTNmMjYxZGY2ZDA0Yjk1NDUyYzAyZjA4",
   "tracks": [
     {
       "added_at": "2023-09-08 12:01:16",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
-        "name": "You're Toxic",
-        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 371555,
-      "name": "You're Toxic",
-      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
-    },
-    {
-      "added_at": "2023-09-08 12:01:16",
-      "album": {
         "name": "We Control",
         "url": "https://open.spotify.com/album/60rhOCClApo0duvJbe2A18"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 206625,
       "name": "We Control",
       "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
+    },
+    {
+      "added_at": "2023-09-08 12:01:16",
+      "album": {
+        "name": "You're Toxic",
+        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 371555,
+      "name": "You're Toxic",
+      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
     },
     {
       "added_at": "2023-09-08 12:01:16",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        },
+        {
+          "name": "Prinz (DE)",
+          "url": "https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK"
+        }
+      ],
+      "duration_ms": 268235,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU"
+    },
+    {
+      "added_at": "2023-09-08 12:01:16",
+      "album": {
         "name": "MNML",
         "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
-    },
-    {
-      "added_at": "2023-09-08 12:01:16",
-      "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        },
-        {
-          "name": "Prinz (DE)",
-          "url": "https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK"
-        }
-      ],
-      "duration_ms": 268235,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU"
     },
     {
       "added_at": "2023-09-08 12:01:16",

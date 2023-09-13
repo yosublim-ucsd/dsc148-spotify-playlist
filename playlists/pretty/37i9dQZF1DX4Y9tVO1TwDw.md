@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,304 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 41 | [Solo Tu](https://open.spotify.com/track/2DXJ3zARm8DQCYYIRA1BEM) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Solo Tu](https://open.spotify.com/album/67LhYiGtxWU8v9cWeN6bwR) | 2:46 |
 | 42 | [No Soy Para Ti](https://open.spotify.com/track/4OhA5zmTkT49m0dOBqDOap) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [No Soy Para Ti](https://open.spotify.com/album/4do5kdrxqJkqEsLFX0I4bE) | 2:34 |
 | 43 | [Hear Me Out](https://open.spotify.com/track/43u76RiZEjdtuEWar9ItUb) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 2:17 |
-| 44 | [Si Te Vas \(feat\. Los Aptos\)](https://open.spotify.com/track/6nf6tNacf31z8npZtl5FjV) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:55 |
-| 45 | [luna de miel](https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [luna de miel](https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2) | 2:35 |
+| 44 | [luna de miel](https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [luna de miel](https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2) | 2:35 |
+| 45 | [Si Te Vas \(feat\. Los Aptos\)](https://open.spotify.com/track/6nf6tNacf31z8npZtl5FjV) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:55 |
 | 46 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
 | 47 | [two eyes](https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [two eyes](https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV) | 3:30 |
 | 48 | [tú y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [Ariel & The Culture](https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 |
 | 49 | [ATEA AL AMOR](https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [ATEA AL AMOR](https://open.spotify.com/album/1gwc6YNpzD9BfC1uiCoudQ) | 2:52 |
 | 50 | [Aunque No Estas](https://open.spotify.com/track/76MiTdO7DQj3rhsTquorrr) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Lágrimas](https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT) | 3:31 |
 
-Snapshot ID: `MCw5NTVhNDU4NzdlYTNlZjNiMGU1NDcwNWIxOWY0NDIzNmUxMWMyYWMz`
+Snapshot ID: `MCwyYjAzOGYyYWVkY2M3NTJlMmE0MDM5YmRlZjliOWYwODdiZjU5YjQw`

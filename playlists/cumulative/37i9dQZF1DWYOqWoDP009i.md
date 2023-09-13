@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYOqWoDP009i.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYOqWoDP009i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYOqWoDP009i)
 
-### [I Love My '70s Funk](https://open.spotify.com/playlist/37i9dQZF1DWYOqWoDP009i)
+### [I Love My 70s Funk](https://open.spotify.com/playlist/37i9dQZF1DWYOqWoDP009i)
 
-> The best and finest '70s Funk\. Cover: Kool & The Gang.
+> The best and finest 70s Funk\. Cover: Kool & The Gang.
 
 110 songs - 8 hr 38 min
 

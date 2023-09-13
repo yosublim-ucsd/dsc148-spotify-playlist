@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-385 songs - 22 hr 4 min
+386 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Lotus](https://open.spotify.com/track/2q5altBBEDUUXJsvZ5gl8t) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Lotus](https://open.spotify.com/album/5vDaVFY1wHoehAqXG7scTN) | 2:43 | 2022-01-07 | 2022-07-29 |
 | [Love](https://open.spotify.com/track/4hriybgE67pyiH6yz7J8R5) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Love](https://open.spotify.com/album/3wd9XQoU36zD1K6xWlRtw5) | 3:59 | 2023-09-08 |  |
 | [love u!!](https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [love u!!](https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C) | 2:30 | 2022-01-07 | 2023-08-26 |
+| [love u!!](https://open.spotify.com/track/0JQkrkQIIoBYnEQ2lla9e0) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [SUGAR RUSH](https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe) | 2:30 | 2023-09-08 |  |
 | [Love You Back](https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Love You Back](https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na) | 3:34 | 2022-04-29 |  |
 | [Lovely Scars](https://open.spotify.com/track/1nMByGsOn1wJrl8S6wtGEr) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg) | [Lovely Scars](https://open.spotify.com/album/3KBabliuaGJPsdlESKtg58) | 4:21 | 2022-01-07 | 2022-07-29 |
 | [LSD](https://open.spotify.com/track/1AiBJB2v6Lp6BiqARZh3R5) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Xan Griffin](https://open.spotify.com/artist/3wkHMiy2I0PuYIh9JNyqVk) | [LSD](https://open.spotify.com/album/2trplsWRMpKmMHd9i260Gg) | 2:18 | 2022-01-07 |  |
@@ -245,7 +246,7 @@
 | [Ninja Re Bang Bang \- Steve Aoki Remix](https://open.spotify.com/track/3M23gGWtJEE3CKe8jZWKMe) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Ninja Re Bang Bang \(Steve Aoki Remix\)](https://open.spotify.com/album/1eURWsLjOVmcHhayeMGGAK) | 3:36 | 2022-08-05 | 2023-08-12 |
 | [Nintendo](https://open.spotify.com/track/42Ssb6yMwryGmjz2i4TNCs) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Nintendo](https://open.spotify.com/album/1a4nP3SMKTsTgoiQ2U6LQN) | 3:19 | 2022-08-19 | 2022-10-27 |
 | [Nirvana](https://open.spotify.com/track/1KdEqgbQtzGffswF29Jc5U) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 2:32 | 2022-07-14 | 2022-08-06 |
-| [No One Else Will](https://open.spotify.com/track/6g3txmuT9t6OR3fnIBYYEq) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [No One Else Will](https://open.spotify.com/album/2GfYnALEt3vM8mA529GUbX) | 4:16 | 2023-05-26 |  |
+| [No One Else Will](https://open.spotify.com/track/6g3txmuT9t6OR3fnIBYYEq) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [No One Else Will](https://open.spotify.com/album/2GfYnALEt3vM8mA529GUbX) | 4:16 | 2023-05-26 |  |
 | [No Regrets \- Myon Return to 85 Mix](https://open.spotify.com/track/6Yeu8MPFcEA2DdyrQ7v9m5) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Myon](https://open.spotify.com/artist/0nTbVTXLLbBA4xCtn0cFkv) | [No Regrets \(Myon Return to 85 Mix\)](https://open.spotify.com/album/1UKUJ8fLO4S8ObbzJoOwmU) | 4:24 | 2022-01-07 | 2022-07-07 |
 | [Not Afraid](https://open.spotify.com/track/1uF17IZKWZ4bQdNzH7CJM0) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [Not Afraid](https://open.spotify.com/album/3PkaLtsxgLve6tDmSjd9uV) | 2:42 | 2022-01-07 |  |
 | [Ocean of Tears \- umru Remix](https://open.spotify.com/track/6G29rbLvSRsax4LD4BMftv) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [Ocean of Tears \(umru Remix\)](https://open.spotify.com/album/1Cq9dMKDPy8rcvHDZ1mkrN) | 3:05 | 2022-02-11 | 2023-08-12 |
@@ -291,7 +292,7 @@
 | [Runaway](https://open.spotify.com/track/1ojGSqkSVnxU5tlu5JWlel) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Runaway](https://open.spotify.com/album/1R0DbDkDysbJ6sb67stjMU) | 3:55 | 2023-03-10 |  |
 | [Runaway](https://open.spotify.com/track/6KGdBk6B5wqMdzjBsxsk33) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Runaway](https://open.spotify.com/album/7uWgf6BGGUW6E2y9Pljzxa) | 3:55 | 2022-01-07 | 2023-02-16 |
 | [Rush](https://open.spotify.com/track/09SNUbxd7e1cn6MTYhdz6P) | [Kilamanzego](https://open.spotify.com/artist/14tWfD2wOEhMgqZ3A4PfKT) | [Rush](https://open.spotify.com/album/6TzwR0RkTOWE4Z1UO8dXZD) | 2:52 | 2022-12-16 | 2023-03-02 |
-| [Rush](https://open.spotify.com/track/3iU7l50uS0lSjrC0g4cBP1) | [Kilamanzego](https://open.spotify.com/artist/14tWfD2wOEhMgqZ3A4PfKT) | [Rush](https://open.spotify.com/album/5FW0ilspkEHnMaxKaxdbbI) | 2:53 | 2023-09-08 |  |
+| [Rush](https://open.spotify.com/track/3iU7l50uS0lSjrC0g4cBP1) | [Kilamanzego](https://open.spotify.com/artist/14tWfD2wOEhMgqZ3A4PfKT) | [Rush](https://open.spotify.com/album/5FW0ilspkEHnMaxKaxdbbI) | 2:53 | 2023-09-08 | 2023-09-13 |
 | [Ryu's Theme \- The Moe’s Pizzeria Steve Aoki Remix](https://open.spotify.com/track/0IT73kNAnWd3UUsVToD79B) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Ryu's Theme \(The Moe’s Pizzeria Steve Aoki Remix\)](https://open.spotify.com/album/7jwd71HeseQVzYyJ4WiEev) | 3:54 | 2022-01-07 | 2022-05-09 |
 | [Safe](https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Safe](https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV) | 2:43 | 2022-01-07 | 2023-02-05 |
 | [Safe](https://open.spotify.com/track/3ScwHPClq79GwSsGhGfaqb) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Safe](https://open.spotify.com/album/5oTrNkAWpKePxECOBbBIHV) | 2:43 | 2023-02-03 | 2023-02-22 |

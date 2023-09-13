@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Gian Marco y Rub\u00e9n Blades en portada.",
-  "num_followers": 533342,
+  "num_followers": 533447,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjA0NTc1NWRmNWRiMzc0NTVmZGZhMDMzNzQ4OWIzNDBmYWU5MDQy",
+  "snapshot_id": "MCxhY2QyNWQxMmUxMGNiYzEwYzdmMjdlM2ZiMDFlN2Q1NGNlYjAxM2Y1",
   "tracks": [
     {
       "added_at": "2023-09-08 15:43:39",
@@ -571,22 +571,18 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+        "name": "Es Verdad",
+        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
       },
       "artists": [
         {
           "name": "Daniel, Me Est\u00e1s Matando",
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+      "duration_ms": 161813,
+      "name": "Es Verdad",
+      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -759,18 +755,22 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
-        "name": "Es Verdad",
-        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
       "artists": [
         {
           "name": "Daniel, Me Est\u00e1s Matando",
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Es Verdad",
-      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
+        "name": "Mexicana (feat. Lila Downs)",
+        "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 199296,
+      "name": "Mexicana (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+    },
+    {
+      "added_at": "2023-09-08 15:43:39",
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
       },
@@ -1167,22 +1187,22 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
-        "name": "Mexicana (feat. Lila Downs)",
-        "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
         },
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         }
       ],
-      "duration_ms": 199296,
-      "name": "Mexicana (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+      "duration_ms": 185783,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1215,26 +1235,6 @@
       "duration_ms": 276436,
       "name": "Tal Vez, Quiz\u00e1",
       "url": "https://open.spotify.com/track/0sNTrlPwP2CXiMCsiQDIeW"
-    },
-    {
-      "added_at": "2023-09-08 15:43:39",
-      "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 185783,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
+        "name": "Cristian Castro en Primera Fila - D\u00eda 2",
+        "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
+    },
+    {
+      "added_at": "2023-09-08 15:43:39",
+      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
-    },
-    {
-      "added_at": "2023-09-08 15:43:39",
-      "album": {
-        "name": "Cristian Castro en Primera Fila - D\u00eda 2",
-        "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 257173,
-      "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "En la Orilla del Mar",
+      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
+    },
+    {
+      "added_at": "2023-09-08 15:43:39",
+      "album": {
         "name": "Aquellos Ojos Verdes",
         "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
       },
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+        "name": "Manzanero presenta a Fabiola Finkmann",
+        "url": "https://open.spotify.com/album/65smolEH2NZeq5XztHRbxP"
       },
       "artists": [
         {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+          "name": "Fabiola Finkmann",
+          "url": "https://open.spotify.com/artist/4fU1U7dEb19U1HlP9TyUtn"
         }
       ],
-      "duration_ms": 165173,
-      "name": "En la Orilla del Mar",
-      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
+      "duration_ms": 222593,
+      "name": "Punto de partida",
+      "url": "https://open.spotify.com/track/77et43mdYaaaqBu1r4sEpE"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1619,22 +1635,6 @@
       "duration_ms": 182733,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
-    },
-    {
-      "added_at": "2023-09-08 15:43:39",
-      "album": {
-        "name": "Manzanero presenta a Fabiola Finkmann",
-        "url": "https://open.spotify.com/album/65smolEH2NZeq5XztHRbxP"
-      },
-      "artists": [
-        {
-          "name": "Fabiola Finkmann",
-          "url": "https://open.spotify.com/artist/4fU1U7dEb19U1HlP9TyUtn"
-        }
-      ],
-      "duration_ms": 222593,
-      "name": "Punto de partida",
-      "url": "https://open.spotify.com/track/77et43mdYaaaqBu1r4sEpE"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2023-09-08 15:43:39",
-      "album": {
         "name": "Solo Boleros",
         "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
       },
@@ -1739,18 +1723,18 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
-        "name": "Recu\u00e9state a Mi Lado",
-        "url": "https://open.spotify.com/album/6suc6iRXTXsTNQI0jf0IXy"
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
       "artists": [
         {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 238254,
-      "name": "Recu\u00e9state a Mi Lado",
-      "url": "https://open.spotify.com/track/7rNguSZGjxKIUumzoK2wVr"
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1783,6 +1767,22 @@
       "duration_ms": 193493,
       "name": "Sombras - Sombras Nada M\u00e1s",
       "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
+    },
+    {
+      "added_at": "2023-09-08 15:43:39",
+      "album": {
+        "name": "Recu\u00e9state a Mi Lado",
+        "url": "https://open.spotify.com/album/6suc6iRXTXsTNQI0jf0IXy"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "duration_ms": 238254,
+      "name": "Recu\u00e9state a Mi Lado",
+      "url": "https://open.spotify.com/track/7rNguSZGjxKIUumzoK2wVr"
     },
     {
       "added_at": "2023-09-08 15:43:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="spotify:artist:18RkLKfeoUgZflWv9os25W">Miriam Makeba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,943 likes - 40 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,988 likes - 40 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 18 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 |
 | 19 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
 | 20 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 |
-| 21 | [Heaven](https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF) | 6:05 |
-| 22 | [Joromi](https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Big Sound](https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV) | 3:07 |
+| 21 | [Joromi](https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Big Sound](https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV) | 3:07 |
+| 22 | [Heaven](https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF) | 6:05 |
 | 23 | [It's About Time](https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd) | [It's About Time](https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl) | 5:39 |
 | 24 | [Akula Owu Onyeara](https://open.spotify.com/track/5ww9r75Y8JPRgAAc3qJPms) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm) | 7:28 |
 | 25 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 39 | [Weekend Special \(with Brenda Fassie\) \- USA Remix](https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Weekend Special \(USA Remixes\)](https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv) | 4:48 |
 | 40 | [Ja Funmi](https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 7:08 |
 
-Snapshot ID: `MCxkZTZiMzVjZjA1MmU0Njk1YTVhY2RiNTc3OGIyY2M4ZTNkYjI3YjYy`
+Snapshot ID: `MCxkMDQyNWU4ZWI4NGY5ZDA2YzM0Njc3YmNjMjMyYjNlYzg5YjA1OTg1`

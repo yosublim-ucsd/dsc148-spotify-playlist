@@ -2,7 +2,7 @@
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> Bringing in the heat every Thursday\. 🔥 Listen to all the mixtapes <ahref="https://open.spotify.com/genre/0JQ5DAqbMKFNhzOQgaEZ0b">here</a>\. Cover: Cruz Cafuné
+> Bringing in the heat every Thursday\. 🔥 Listen to all the mixtapes <a href="https://open.spotify.com/genre/0JQ5DAqbMKFNhzOQgaEZ0b">here</a>\. Cover: Cruz Cafuné
 
 1,267 songs - 2 day 22 hr 48 min
 

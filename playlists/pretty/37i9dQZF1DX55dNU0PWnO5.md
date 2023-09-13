@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: berlioz
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,986 likes - 200 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,067 likes - 200 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 34 | [Afro Cello \- Super Full Moon Rework](https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l) | [Danny Keane](https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR) | [Afro Cello \(Super Full Moon Rework\)](https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF) | 4:08 |
 | 35 | [Friends](https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 4:40 |
 | 36 | [Saudade da Festa](https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM), [Aquiles Navarro](https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ), [Tali Lamaison](https://open.spotify.com/artist/7DuJwh4J3waP5PYvcLmO3e) | [Saudade da Festa](https://open.spotify.com/album/40zpDaK3TFAP53BtRM2Eqo) | 2:57 |
-| 37 | [Watarase \- Henrik Schwarz Version](https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ) | [Fumio Itabashi](https://open.spotify.com/artist/6HwoRQ2rOHAVerOPnLu2nQ), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Kuniyuki](https://open.spotify.com/artist/2VSRaCnQFPp4C5Xo2UuIzl) | [Watarase](https://open.spotify.com/album/4NXJDWKX8NbIWW3DaAnIt7) | 6:49 |
+| 37 | [Watarase \- Henrik Schwarz Version](https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ) | [Fumio Itabashi](https://open.spotify.com/artist/6HwoRQ2rOHAVerOPnLu2nQ), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Watarase](https://open.spotify.com/album/4NXJDWKX8NbIWW3DaAnIt7) | 6:49 |
 | 38 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 |
 | 39 | [Sight Spring](https://open.spotify.com/track/1Y5iIqTBVLmR2CXzeYlEda) | [Momocurly](https://open.spotify.com/artist/5SXAHP99IZr1mJHv434mxJ) | [Sight Spring](https://open.spotify.com/album/7udlO1K6vo405Khe1w8ow0) | 4:42 |
 | 40 | [Boss](https://open.spotify.com/track/4nW0hb4T0WZL5pzqeCV6Af) | [Sci\-Clone](https://open.spotify.com/artist/1RmiIFGUwl4GpgZhqzy0gs), [A Sides](https://open.spotify.com/artist/73aOOQznPZPTKOOi5wcOP5), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Radio Therapy \- Pt\. 1](https://open.spotify.com/album/6eX0DM4AjTsCS7WcKnaDVR) | 6:19 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 199 | [New Dawn](https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [New Dawn](https://open.spotify.com/album/7fTIinxT4coU1OCQUHNC7w) | 3:34 |
 | 200 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 |
 
-Snapshot ID: `MCw4YjcxNTFmZWMyYjFhZTU0ZjJiMGY3NDllZmRhZWM2YTJiN2ExYjI1`
+Snapshot ID: `MCxjMTczNzI5MTMwOTY4YTQ1YjZjMjkyOGJjYzFhNWZmMDVmYjIzNzRk`

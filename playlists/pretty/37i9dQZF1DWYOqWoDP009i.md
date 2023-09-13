@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain](/playlists/plain/37i9dQZF1DWYOqWoDP009i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYOqWoDP009i)
 
-### [I Love My '70s Funk](https://open.spotify.com/playlist/37i9dQZF1DWYOqWoDP009i)
+### [I Love My 70s Funk](https://open.spotify.com/playlist/37i9dQZF1DWYOqWoDP009i)
 
-> The best and finest '70s Funk\. Cover: Kool & The Gang.
+> The best and finest 70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,735 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,752 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/4pMG2a3r1AeVbV4FOJwuRn) | [Rokk](https://open.spotify.com/artist/7bLOOtxBWLOpBmhGX3cp0S) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/35IxeM8FWncBSFRH9soSTa) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/2xcxqTg21JxE6zPjT6xswd) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/5MRu2NKaMYjIvi7K2RMRGF) | 3:57 |
 
-Snapshot ID: `MCw5ODgxMzJkOWMxZjNiNDA2ZDUzZGI0YThkYTE2OTM2YWM5M2U4OTc1`
+Snapshot ID: `MCwzMDc0NjYyNGM4NzYyZWVkYTUyNTdiZTIzMWFhYjZhODc4YmFjMDBj`

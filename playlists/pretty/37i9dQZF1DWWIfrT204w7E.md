@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Dave & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,460 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,559 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 38 | [Zoo York \(feat\. Fivio Foreign & Pop Smoke\)](https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:34 |
 | 39 | [One Up](https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:40 |
 | 40 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
-| 41 | [How You Every O Shot ?](https://open.spotify.com/track/1vqbMsvYzRfkrwVrE7Zsw1) | [Cj Goon](https://open.spotify.com/artist/0E2OAdXWJwyg9tXHO5V1dc), [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [How You Every O Shot ?](https://open.spotify.com/album/11GN66ehziPUBqWBwciGH8) | 3:21 |
-| 42 | [A92 x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/track/0goOUCNL6MYrqSVvGhvsxw) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [A92 x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/album/2d2jGNehp3V4MKWusgvMbk) | 4:00 |
+| 41 | [A92 x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/track/0goOUCNL6MYrqSVvGhvsxw) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [A92 x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/album/2d2jGNehp3V4MKWusgvMbk) | 4:00 |
+| 42 | [How You Every O Shot ?](https://open.spotify.com/track/1vqbMsvYzRfkrwVrE7Zsw1) | [Cj Goon](https://open.spotify.com/artist/0E2OAdXWJwyg9tXHO5V1dc), [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [How You Every O Shot ?](https://open.spotify.com/album/11GN66ehziPUBqWBwciGH8) | 3:21 |
 | 43 | [Being Honest](https://open.spotify.com/track/3PbRjYudOMppYH3vjW0o8c) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 |
 | 44 | [Demons \(feat\. Fivio Foreign & Sosa Geek\)](https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Sosa Geek](https://open.spotify.com/artist/2UyyBkpzN5w3hzZBZGvRZb) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:24 |
 | 45 | [Healing](https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Healing](https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Loading](https://open.spotify.com/track/4D0GT8zWuA7Z2em6dpajAn) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Loading](https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q) | 2:53 |
 | 50 | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/track/1xqRKo0SDFDO5Jy8yEVD0X) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/album/752RRPgpiIBjptbb1BqoRI) | 3:11 |
 
-Snapshot ID: `MCxkMDNhMzAyMmI3NTdmOTc3MjQ4NzAyYTI3ZmM3MzIwOWYwMWVjYmEy`
+Snapshot ID: `MCw0MjQxNDQ3MDQ1NTkwODFjNWU5YjFlZTFkMTBmZGY3NzQ1NjU4Y2Nk`

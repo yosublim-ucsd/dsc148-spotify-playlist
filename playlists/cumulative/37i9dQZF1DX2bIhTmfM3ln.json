@@ -2979,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "The More The Better",
+        "url": "https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "King of Pop",
+      "url": "https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf"
+    },
+    {
+      "album": {
         "name": "B A H D",
         "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
       },
@@ -3920,7 +3938,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 190000,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"

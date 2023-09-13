@@ -1073,6 +1073,32 @@
     },
     {
       "album": {
+        "name": "Kaga Bole Mera (Turbotito & Ragz Rework)",
+        "url": "https://open.spotify.com/album/3q0N21aIuH5qesQ02Agwpk"
+      },
+      "artists": [
+        {
+          "name": "Arundhati Bhaumik",
+          "url": "https://open.spotify.com/artist/5lBkGTwZlXHNNKJWsCMPrp"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        },
+        {
+          "name": "Ragz",
+          "url": "https://open.spotify.com/artist/4YyUBP46T7GxKP0UfqiTSn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341028,
+      "name": "Kaga Bole Mera - Turbotito & Ragz Rework",
+      "url": "https://open.spotify.com/track/2YEFBAV9cmwudwx2JjssZR"
+    },
+    {
+      "album": {
         "name": "Pi Pi (Turbotito & Ragz Rework Radio Edit)",
         "url": "https://open.spotify.com/album/7qe7sOPs1nRTgxjrhbvfQq"
       },
@@ -1092,7 +1118,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 341028,
       "name": "Kaga Bole Mera - Turbotito & Ragz Rework",
       "url": "https://open.spotify.com/track/5TZpfuDzrxy0wehfZrWakN"

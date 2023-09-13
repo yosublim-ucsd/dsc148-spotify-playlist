@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: James Francis
 
-106 songs - 5 hr 49 min
+107 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Doomed](https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Doomed](https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P) | 4:32 | 2023-08-31 |  |
 | [Dr\. Disclosure](https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 3:43 | 2023-08-22 |  |
 | [Dunt Dunt](https://open.spotify.com/track/4DbTun4ivORsEpwLJ877qw) | [Graeme Gengras](https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq) | [Dunt Dunt](https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp) | 4:29 | 2023-08-22 |  |
-| [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 |  |
+| [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 | 2023-09-13 |
 | [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 |  |
 | [Extra Careless](https://open.spotify.com/track/08TvszYfAO8OYcpizm5R82) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Robert Sput Searight](https://open.spotify.com/artist/2XI18vjUTx9nsGBHMlXxcV), [Mono Neon](https://open.spotify.com/artist/0FlgFDbLxMB0JIAzijg1Cu), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm) | [Extra Careless](https://open.spotify.com/album/32IDleorcUx73pIkV3IBeR) | 2:50 | 2023-08-22 |  |
 | [Floatin'](https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB) | [Charlie Calz Beats](https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp) | [Floatin'](https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j) | 1:52 | 2023-08-22 |  |
@@ -112,6 +112,7 @@
 | [While She Waits](https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G) | 2:16 | 2023-08-22 |  |
 | [Wonderment](https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Wonderment](https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs) | 3:19 | 2023-08-22 |  |
 | [Yesterday's Price](https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 5:15 | 2023-08-22 |  |
+| [Yield](https://open.spotify.com/track/1lFql1YShXyrUMMMd8St6U) | [Girls in Airports](https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr) | [How It is Now](https://open.spotify.com/album/2ok0mKvIlEg7jsFGYEZcV5) | 4:54 | 2023-09-08 |  |
 | [Young Alien](https://open.spotify.com/track/6XDUR4yC5W8cBzwxun8ZZj) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Young Alien](https://open.spotify.com/album/18SSwv5kDMT2uIk9HbH1XD) | 2:46 | 2023-08-22 |  |
 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 | 2023-08-22 |  |
 

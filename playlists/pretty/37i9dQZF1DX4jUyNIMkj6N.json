@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 188006,
+  "num_followers": 188084,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzEyYTI0MzU1YWRkNTdkNmNjYTZiM2U4MjVjYTllZWRjMWMzMWIz",
+  "snapshot_id": "MCwwMzg4YTkyZTA2ODFmN2Q1NWI4MWE3YTFiYjY4ZWEwNjM4YzY0NzUy",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Skisser",
+        "url": "https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "The Night Visitor",
         "url": "https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 231133,
       "name": "The Longer The Waiting (The Sweeter The Kiss)",
       "url": "https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Skisser",
-        "url": "https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG"
     },
     {
       "added_at": "2023-09-07 22:00:00",

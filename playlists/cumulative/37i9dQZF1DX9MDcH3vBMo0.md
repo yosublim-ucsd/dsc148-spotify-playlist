@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-653 songs - 1 day 4 hr 24 min
+655 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-04-21 | 2023-01-21 |
 | [Aurskog](https://open.spotify.com/track/4Xy7g0dikhYyNhdHyzBBr6) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Aurskog](https://open.spotify.com/album/1NdMcghLOelX6u0Mz8smaG) | 2:05 | 2022-04-21 |  |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2022-04-21 | 2023-05-04 |
+| [Avignon](https://open.spotify.com/track/5TAVI2qJFJMSsfR3qB5Bub) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Avignon](https://open.spotify.com/album/6y7OWImxz4xSyspxzKsLvl) | 2:43 | 2023-09-11 |  |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-21 |  |
 | [Balett](https://open.spotify.com/track/5akA0ZrfTGKwyjtHc4fr0p) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Papillon](https://open.spotify.com/album/4efBGcJ0YfvTrZvvKFEJj6) | 4:38 | 2022-04-21 | 2022-07-20 |
 | [Ballerina Light](https://open.spotify.com/track/5Eq3qZckwqaLZq2yEsUAvU) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Ballerina Light](https://open.spotify.com/album/1E1NYgXEpG8vZWzJl7Y3Mh) | 2:41 | 2022-04-21 | 2022-09-24 |
@@ -266,10 +267,11 @@
 | [Island](https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Island](https://open.spotify.com/album/6Tv48n5bgrkcAZNmtG8YYe) | 2:27 | 2022-04-21 | 2023-09-05 |
 | [Ja Mata](https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 3:29 | 2022-04-21 |  |
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-04-21 |  |
+| [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 | 2023-09-11 |  |
 | [Journey in Place](https://open.spotify.com/track/7dNH0Srg1kTobjTUwGnqxc) | [Walter Groenig](https://open.spotify.com/artist/5wS8vfWhht4IzuXzQisbim) | [Journey in Place](https://open.spotify.com/album/0SkWn5AmuyrZyDMBvCvj8q) | 2:52 | 2022-04-21 | 2022-10-21 |
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2022-04-21 | 2023-01-21 |
 | [Julien's Sonata](https://open.spotify.com/track/7EYrMGo39r2fqmpItkJiqu) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [Julien's Sonata](https://open.spotify.com/album/5IcPJbZ9yn8yi09vJJioGA) | 1:56 | 2022-04-21 | 2023-07-05 |
-| [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-04-21 |  |
+| [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-04-21 | 2023-09-13 |
 | [Just For Now](https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Just For Now](https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV) | 1:50 | 2022-04-21 | 2023-07-25 |
 | [Just One More Time](https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [Just One More Time](https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0) | 3:16 | 2023-07-03 |  |
 | [Just Wait For The Sun](https://open.spotify.com/track/2M7xfBZfOQGFXTl2seuqsm) | [Lorraine J\. Kovach](https://open.spotify.com/artist/3H92L5ns19ZFEIcvVj2KhY) | [Just Wait For The Sun](https://open.spotify.com/album/6dOACKlGY3VXfRpZy2rQVJ) | 2:09 | 2022-04-21 | 2022-09-24 |
@@ -636,7 +638,7 @@
 | [Waves](https://open.spotify.com/track/0AZDlFjlawdbKtsF8kWi0z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:04 | 2022-04-21 | 2022-09-24 |
 | [Wayfarer](https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Wayfarer](https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v) | 2:06 | 2022-04-21 |  |
 | [Weaving](https://open.spotify.com/track/2HZqH4rqLWKZDZheQK0EUz) | [Moy Finneas](https://open.spotify.com/artist/1SlY8qPtaWfHek8pWieEkw) | [Weaving](https://open.spotify.com/album/389iBNdZJJo5xUYdDWjW3i) | 2:13 | 2022-04-21 | 2022-08-10 |
-| [Wednesday, Weaving](https://open.spotify.com/track/6JT1GBWsCgfhjkkzGwQ5so) | [Izzy Flynn](https://open.spotify.com/artist/4nglHdB53vreDOUajpOuAd) | [Wednesday, Weaving](https://open.spotify.com/album/1PvlQzGpoL3eek5TmOvmyd) | 2:18 | 2023-02-27 |  |
+| [Wednesday, Weaving](https://open.spotify.com/track/6JT1GBWsCgfhjkkzGwQ5so) | [Izzy Flynn](https://open.spotify.com/artist/4nglHdB53vreDOUajpOuAd) | [Wednesday, Weaving](https://open.spotify.com/album/1PvlQzGpoL3eek5TmOvmyd) | 2:18 | 2023-02-27 | 2023-09-13 |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2022-04-21 | 2023-04-04 |
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2022-04-21 | 2022-07-21 |
 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-04-21 |  |

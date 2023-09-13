@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Eddy de Pretto
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,926 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,962 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 35 | [4X](https://open.spotify.com/track/6iHOulbi3AwYe9Wgy8eCMf) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [4X](https://open.spotify.com/album/5KbxXq1LFsXuLG8zisC6Fj) | 3:34 |
 | 36 | [Tombée In Love](https://open.spotify.com/track/3A6Co1ShZ3F6z0nBjG40Za) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Tombée In Love](https://open.spotify.com/album/1QfcmGQDxGefWqG0qBAc8m) | 2:44 |
 | 37 | [Destin](https://open.spotify.com/track/7bo2MkmObkPgSVia8fwHcp) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Destin](https://open.spotify.com/album/6Ej58sXtw6h8a1IQ2qZXuf) | 3:49 |
-| 38 | [Amour de vacances](https://open.spotify.com/track/4JMho5csY0dkiVxhC5rxcY) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT) | [Amour de vacances](https://open.spotify.com/album/5OwhMbwUQcTDHHEt1XKsEm) | 2:51 |
+| 38 | [Amour de vacances](https://open.spotify.com/track/7d4L2mrGvxclgQVMmHSL1l) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Amour de vacances](https://open.spotify.com/album/2N1i1A3vPHEZPxtotd7LLe) | 2:51 |
 | 39 | [Ma vie](https://open.spotify.com/track/2DDZ4FdbuEaTlytVpVzY31) | [Madeleine](https://open.spotify.com/artist/0IESREgJ9Ea8rMsXfmR2S8) | [Ma vie](https://open.spotify.com/album/15yY2T81Oau56KQ5G7ePxC) | 2:56 |
 | 40 | [Pleurer de joie](https://open.spotify.com/track/4lZqzNfv2xx0DJSchmyci8) | [Louis Albi](https://open.spotify.com/artist/5vtBixycH4NYGd7ZVWseVn), [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Pleurer de joie](https://open.spotify.com/album/4oY57RnsySHT43Zvtf6Em2) | 2:45 |
 
-Snapshot ID: `MCw1Y2Q2ODQ5MWNhNTAyMWJhZDc2NjBlZDljODBiZGFhY2JiMDVmZjM1`
+Snapshot ID: `MCw5MTYyYmY5NDE5OTc5MjE0YjkxNmVkMjc5MjViNTJmNzIwODMzNTMy`

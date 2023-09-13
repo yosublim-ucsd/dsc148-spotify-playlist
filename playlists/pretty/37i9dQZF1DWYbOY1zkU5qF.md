@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,403 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,533 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 26 | [Despacito \- Acoustic](https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Despacito \(Acoustic\)](https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB) | 3:38 |
 | 27 | [Si Veo a Tu Mamá](https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Si Veo a Tu Mamá](https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh) | 2:40 |
 | 28 | [La Nave del Olvido](https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Nave del Olvido](https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0) | 2:55 |
-| 29 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 |
-| 30 | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs) | 4:51 |
+| 29 | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs) | 4:51 |
+| 30 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 |
 | 31 | [Bailame](https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK) | [Reggaeton Acústico](https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c) | [Viral Hits, Vol\. 1](https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU) | 3:35 |
 | 32 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
 | 33 | [Escápate Conmigo](https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Covers, Vol\. 2](https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5) | 2:29 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 37 | [La Mejor Versión de Mi](https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm) | [La Mejor Versión de Mi](https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T) | 2:14 |
 | 38 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
 | 39 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
-| 40 | [Adoro](https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [Adoro](https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV) | 3:16 |
-| 41 | [Robarte Un Beso](https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Robarte Un Beso](https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L) | 2:53 |
+| 40 | [Robarte Un Beso](https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Robarte Un Beso](https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L) | 2:53 |
+| 41 | [Adoro](https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [Adoro](https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV) | 3:16 |
 | 42 | [Rojo](https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Rojo](https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF) | 2:22 |
 | 43 | [Qué Maldición](https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT) | [Miky Mendozza](https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL), [Diego Amoz](https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN) | [Qué Maldición](https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z) | 2:05 |
 | 44 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 51 | [Déjala que vuelva](https://open.spotify.com/track/56FZGghCNsEffwJF1wyagX) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Déjala que vuelva](https://open.spotify.com/album/0YQ4Qna8FKWSBCelqPk9kY) | 3:18 |
 | 52 | [Me Llamas \- Versión Acústica](https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap) | [Segundo Piso](https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659) | [Me Llamas \(Versión Acústica\)](https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG) | 3:30 |
 | 53 | [Ahora Dice](https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6) | [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM) | [Ahora Dice](https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL) | 3:21 |
-| 54 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
-| 55 | [Muerte En Hawaii](https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Muerte En Hawaii](https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM) | 3:06 |
+| 54 | [Muerte En Hawaii](https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Muerte En Hawaii](https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM) | 3:06 |
+| 55 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
 | 56 | [LA CANCIÓN](https://open.spotify.com/track/1omu6hXw4JO0g4iiGnsX8q) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [LA CANCIÓN](https://open.spotify.com/album/0VNCAwo2Rs6gSyyutkSQMw) | 2:57 |
 | 57 | [Mis ojos lloran por ti](https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Mis ojos lloran por ti](https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp) | 3:50 |
 | 58 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 75 | [Nube Viajera](https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nube Viajera](https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD) | 3:50 |
 | 76 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |
 | 77 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
-| 78 | [Me Rehúso](https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Me Rehúso](https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41) | 2:52 |
-| 79 | [Alguien Te Va a Hacer Llorar](https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D) | [Hugo Coronel](https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj) | [Bohemia Y Trova, Vol\. 2](https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb) | 2:54 |
+| 78 | [Alguien Te Va a Hacer Llorar](https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D) | [Hugo Coronel](https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj) | [Bohemia Y Trova, Vol\. 2](https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb) | 2:54 |
+| 79 | [Me Rehúso](https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Me Rehúso](https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41) | 2:52 |
 | 80 | [Y Cómo Es Él?](https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Y Cómo Es Él?](https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90) | 3:51 |
 
-Snapshot ID: `MCxkNDM2MWZmY2IxMzJjNGExODJjNzA4YThhOGYzM2ZmMGJmODM2YmY0`
+Snapshot ID: `MCw1ZWVjOWFjM2RhMmI5Yjc0MDk1YTRiNDk4YjFjYmEyMzkzZjVmMDg1`

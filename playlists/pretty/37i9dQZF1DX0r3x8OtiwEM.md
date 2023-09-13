@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,247 likes - 60 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,621 likes - 60 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 57 | [Wild Heart](https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 3:30 |
 | 58 | [No One Like You \- Edit](https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [No One Like You \- EP](https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK) | 4:16 |
 | 59 | [Petroleum \- Fabio Vanore Remix](https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi) | [Kris Davis](https://open.spotify.com/artist/2AFYG90qx36vqWXgGxhFWY), [Fabio Vanore](https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs) | [Petroleum \(Fabio Vanore Remix\)](https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq) | 9:04 |
-| 60 | [Holocene, Pt\. II](https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Holocene, Pt\. II](https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys) | 6:54 |
+| 60 | [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 |
 
-Snapshot ID: `MCw4MDgzY2Y5MjlhZWViMDQ4ZDM4NzM0NDJlZTUzMDcwZDAxMTBhNjE5`
+Snapshot ID: `MCxkNzM5MjJhNDg0YTNjZGI4YjM0Y2Y1Mzc3MTdhNGZiMzUyM2Y1MzEy`

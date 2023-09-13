@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,495 likes - 64 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,610 likes - 64 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 20 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO) | 3:40 |
 | 21 | [La pollera amarilla](https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE), [Gladys La Bomba Tucumana](https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ) | [Un sueño hecho realidad](https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj) | 3:06 |
 | 22 | [Perdoname / Te Quiero a Ti \- En Vivo](https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 4:29 |
-| 23 | [Entre el Cielo Vos y Yo \- En Vivo](https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Teatro del Huerto](https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL) | 4:20 |
-| 24 | [Madre Soltera \- En Vivo](https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Bonita / Madre Soltera \(En Vivo\)](https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT) | 3:52 |
+| 23 | [Madre Soltera \- En Vivo](https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Bonita / Madre Soltera \(En Vivo\)](https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT) | 3:52 |
+| 24 | [Entre el Cielo Vos y Yo \- En Vivo](https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Teatro del Huerto](https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL) | 4:20 |
 | 25 | [No Llores \- En Vivo](https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [En Vivo en el Gran Rex](https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx) | 2:57 |
 | 26 | [Amor Sin Fronteras](https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [10 Años Movistar Arena](https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4) | 4:03 |
 | 27 | [Persiana Americana \- En Vivo](https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
 | 64 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:04 |
 
-Snapshot ID: `MCxiMGM3MmJmMmY5NDliNTI4NDQzNzZhNTMxMWIwNTUwZWNiOGQwY2Ex`
+Snapshot ID: `MCw5MTVkODA2NjQ1YjA5YjI4Yzg3NmVlNTQxNzhhYzBlMTU4MGNlOWQ0`

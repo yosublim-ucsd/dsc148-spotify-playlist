@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 235518,
+  "num_followers": 235635,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2ZiYmVhMThjZmFiYzkyNTcwNjdiOWVlMDE2MjlmNjUzNWRjNTZl",
+  "snapshot_id": "MCw0OGI4ZGM4NTQwZjZjYmMzOTRiMDBkM2Q0NDhkMWY0M2YyZWE3MjY1",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -391,6 +391,30 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -419,26 +443,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
-        "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
+        "name": "No Fake Love (with YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 195000,
-      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
+      "duration_ms": 148996,
+      "name": "No Fake Love (with YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -459,26 +479,6 @@
       "duration_ms": 206143,
       "name": "Don't Give It Away (with Chris Brown)",
       "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "No Fake Love (with YoungBoy Never Broke Again)",
-        "url": "https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 148996,
-      "name": "No Fake Love (with YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "calm & patient",
         "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 265906,
       "name": "New Type (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -691,22 +691,6 @@
       "duration_ms": 202009,
       "name": "Cheat (feat. JoJo)",
       "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Hardlife",
-      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Hardlife",
+      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 214455,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Working On My Karma",
         "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 214455,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 150799,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 270585,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -935,18 +951,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
         }
       ],
-      "duration_ms": 270585,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4"
+      "duration_ms": 155624,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Word For Word",
-        "url": "https://open.spotify.com/album/2cEJ2GHIoUgI9nrEZGTONk"
-      },
-      "artists": [
-        {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
-        }
-      ],
-      "duration_ms": 183022,
-      "name": "Word For Word",
-      "url": "https://open.spotify.com/track/6YRe3sTiUR0ACtSQTejxCt"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
       },
@@ -1059,6 +1043,42 @@
       "duration_ms": 173377,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Spend The Night",
+        "url": "https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 193729,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Word For Word",
+        "url": "https://open.spotify.com/album/2cEJ2GHIoUgI9nrEZGTONk"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        }
+      ],
+      "duration_ms": 183022,
+      "name": "Word For Word",
+      "url": "https://open.spotify.com/track/6YRe3sTiUR0ACtSQTejxCt"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1083,22 +1103,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Working On My Karma",
-        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Take It Slow",
-      "url": "https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/0fBXkE3U6UluW9yg1hIWkW"
       },
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Spend The Night",
-        "url": "https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ"
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
       },
       "artists": [
         {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
         }
       ],
-      "duration_ms": 193729,
-      "name": "Spend The Night",
-      "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
+      "duration_ms": 152000,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "What A Lie",
-        "url": "https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        }
-      ],
-      "duration_ms": 228562,
-      "name": "What A Lie",
-      "url": "https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 152574,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "What A Lie",
+        "url": "https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "duration_ms": 228562,
+      "name": "What A Lie",
+      "url": "https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Irresponsible",
         "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 192545,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Heart Is On My Sleeve",
-        "url": "https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Heart Is On My Sleeve",
-      "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+        "name": "Heart Is On My Sleeve",
+        "url": "https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 161410,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
+      "duration_ms": 253714,
+      "name": "Heart Is On My Sleeve",
+      "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "duration_ms": 168755,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Message From My Ex / 3 Words (Message To My Ex)",
         "url": "https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V"
       },
@@ -1579,22 +1599,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Face Down",
-        "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
+        "name": "Candydrip (Deluxe)",
+        "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 168755,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
+      "duration_ms": 284893,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1615,22 +1631,6 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Candydrip (Deluxe)",
-        "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 284893,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1743,18 +1743,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+        "name": "Out of Touch",
+        "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
       },
       "artists": [
         {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
         }
       ],
-      "duration_ms": 156213,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
+      "duration_ms": 212574,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
     }
   ],
   "unique_name": "R&B Magic",

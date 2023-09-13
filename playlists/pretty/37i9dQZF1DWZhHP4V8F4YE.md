@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,227 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,408 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Habibi \(Quantum Sound\)](https://open.spotify.com/track/0JtoyusgiISK10cXzX79uH) | [Sizwe Nineteen](https://open.spotify.com/artist/2c3QieTCPiVSzFF3RnmiOU), [R\-Bee](https://open.spotify.com/artist/1Q7Cjk0pNfOLij9zTULofB), [De’vine 07](https://open.spotify.com/artist/24cfPlwva5seVaDkD7oZlD), [Drumonade](https://open.spotify.com/artist/1FrqPnLttkZLv5Ua8PIFGu), [Tumi Sdomane](https://open.spotify.com/artist/23gF82fPg0ulReEVAKqVVn) | [Habibi \(Quantum Sound\)](https://open.spotify.com/album/1dIb3F7jjjyv5TatikaHV3) | 6:08 |
 | 50 | [Canada](https://open.spotify.com/track/1E3KhaXthsgAY2eK93sx2J) | [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan) | [Canada](https://open.spotify.com/album/25bg1Ay7Oj5R6mQNLjHa3k) | 2:36 |
 
-Snapshot ID: `MCw1YmIyNmY2MWZhYjRiYTQyYWZlZTE2MDFlMTkyZDQ2MzRjYzE0Zjc3`
+Snapshot ID: `MCxiODlmMDdkZTNjZGUzOWU4Y2M3NDIyY2ZmOTlmMjU1MDk2Y2U3Zjg0`

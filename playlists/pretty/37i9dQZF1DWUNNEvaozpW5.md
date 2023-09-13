@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Rulo y la contrabanda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,770 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,882 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 99 | [Por las noches](https://open.spotify.com/track/7BtkQSPamCwesQN1mBBUFd) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:26 |
 | 100 | [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Madrid Nuclear \- En Directo](https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9) | 4:43 |
 
-Snapshot ID: `MCwzNjAyYmFhZmYyZDQxNTA3ZTI4Zjk3NTRlZGQ1MmU4ZWVhMDgyNjA2`
+Snapshot ID: `MCxiODQyOTY2YzE5NGM3ZGMzMjhmZmIwYzIxNWY2Mjg0YmE4MGY0MDc1`

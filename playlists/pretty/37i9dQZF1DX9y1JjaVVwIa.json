@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi",
+  "snapshot_id": "MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm",
   "tracks": [
     {
       "added_at": "2022-08-13 03:00:56",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Trending Tropics",
-        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
-      },
-      "artists": [
-        {
-          "name": "Trending Tropics",
-          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
-      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 276013,
       "name": "Oigo voces",
       "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Trending Tropics",
+        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
+      },
+      "artists": [
+        {
+          "name": "Trending Tropics",
+          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
+      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "0000+0000",
-        "url": "https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp"
-      },
-      "artists": [
-        {
-          "name": "\u00ccF\u00c9",
-          "url": "https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF"
-        }
-      ],
-      "duration_ms": 250846,
-      "name": "Heart Full of Love",
-      "url": "https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "El arca de Mima",
         "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 262318,
       "name": "El arca de Mima",
       "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "0000+0000",
+        "url": "https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp"
+      },
+      "artists": [
+        {
+          "name": "\u00ccF\u00c9",
+          "url": "https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF"
+        }
+      ],
+      "duration_ms": 250846,
+      "name": "Heart Full of Love",
+      "url": "https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -591,42 +591,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "No Es Importante",
-        "url": "https://open.spotify.com/album/3oKNrRZlkCeSqYaCjGNaLe"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 209498,
-      "name": "No Es Importante",
-      "url": "https://open.spotify.com/track/07H0vnntj9PXpuntUFjrMB"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "Nice & Easy",
-        "url": "https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk"
-      },
-      "artists": [
-        {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
-        },
-        {
-          "name": "Gomba Jahbari",
-          "url": "https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c"
-        }
-      ],
-      "duration_ms": 216590,
-      "name": "Nice & Easy",
-      "url": "https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Dos amores",
         "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
       },
@@ -647,6 +611,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "No Es Importante",
+        "url": "https://open.spotify.com/album/3oKNrRZlkCeSqYaCjGNaLe"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 209498,
+      "name": "No Es Importante",
+      "url": "https://open.spotify.com/track/07H0vnntj9PXpuntUFjrMB"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "La Nueva Esquina",
         "url": "https://open.spotify.com/album/3PzZzZV9XyKNaRfF7oMEQM"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 227148,
       "name": "Subo Subo",
       "url": "https://open.spotify.com/track/4SulPJvtMSoxfj1uCuNzMz"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Nice & Easy",
+        "url": "https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk"
+      },
+      "artists": [
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        },
+        {
+          "name": "Gomba Jahbari",
+          "url": "https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c"
+        }
+      ],
+      "duration_ms": 216590,
+      "name": "Nice & Easy",
+      "url": "https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 365146,
-      "name": "La Princesa",
-      "url": "https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Turista",
         "url": "https://open.spotify.com/album/5lps6A6YGtWDYgZ1X1SgbK"
       },
@@ -783,22 +767,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "No la Controles",
-        "url": "https://open.spotify.com/album/1LYj7dodHz75dXhEeBWUWy"
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
       },
       "artists": [
         {
-          "name": "Vic Contreras",
-          "url": "https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev"
-        },
-        {
-          "name": "La Alucinante Banda",
-          "url": "https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo"
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
         }
       ],
-      "duration_ms": 205114,
-      "name": "No la Controles",
-      "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
+      "duration_ms": 365146,
+      "name": "La Princesa",
+      "url": "https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -815,6 +795,26 @@
       "duration_ms": 264760,
       "name": "Si T\u00fa Quieres M\u00e1s",
       "url": "https://open.spotify.com/track/4dfDK5mveASz4gFx3XzQGH"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "No la Controles",
+        "url": "https://open.spotify.com/album/1LYj7dodHz75dXhEeBWUWy"
+      },
+      "artists": [
+        {
+          "name": "Vic Contreras",
+          "url": "https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev"
+        },
+        {
+          "name": "La Alucinante Banda",
+          "url": "https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo"
+        }
+      ],
+      "duration_ms": 205114,
+      "name": "No la Controles",
+      "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
     },
     {
       "added_at": "2022-08-13 03:00:56",

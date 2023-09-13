@@ -2,7 +2,7 @@
 
 ### [Energy Booster: Pop](https://open.spotify.com/playlist/37i9dQZF1DX0vHZ8elq0UK)
 
-> ¿Necesitas aumentar tus niveles de energía?
+> Need to get your energy level up?
 
 323 songs - 18 hr 39 min
 
@@ -177,7 +177,7 @@
 | [Larger Than Life](https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:52 | 2022-07-08 |  |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 | 2023-05-16 | 2023-05-31 |
 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 | 2021-12-16 | 2023-08-21 |
-| [Let Me Love You \(Until You Learn To Love Yourself\)](https://open.spotify.com/track/4kte3OcW800TPvOVgrLLj8) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [R.E.D\. \(Deluxe Edition\)](https://open.spotify.com/album/4HPdvrPf9RGfJ2hNYrODpC) | 4:11 | 2021-12-16 | 2023-06-01 |
+| [Let Me Love You \(Until You Learn To Love Yourself\)](https://open.spotify.com/track/4kte3OcW800TPvOVgrLLj8) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [R.E.D\. \(Deluxe Edition\)](https://open.spotify.com/album/4HPdvrPf9RGfJ2hNYrODpC) | 4:11 | 2021-12-16 |  |
 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 | 2023-06-21 |  |
 | [Lips Are Movin](https://open.spotify.com/track/6gj08XDlv9Duc2fPOxUmVD) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:02 | 2021-12-16 |  |
 | [Live While We're Young](https://open.spotify.com/track/6aGjEZ7kq3YXgD0EDt80O5) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:20 | 2021-12-16 | 2022-07-29 |
@@ -263,7 +263,7 @@
 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 | 2023-02-24 | 2023-07-09 |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-07-21 |  |
 | [Sing](https://open.spotify.com/track/6K8qKeWo5MsFED7wCR6Kop) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 3:55 | 2022-02-22 |  |
-| [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 3:13 | 2021-12-16 |  |
+| [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 3:13 | 2021-12-16 | 2023-09-13 |
 | [Sixteen](https://open.spotify.com/track/6p6KdVpfKtTMisH5VfWqsL) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Brightest Blue](https://open.spotify.com/album/44va7sFuK8IGzrj0BIX8kK) | 3:21 | 2021-12-16 | 2022-07-29 |
 | [Sledgehammer](https://open.spotify.com/track/4rUTAkOU7OkVGeQuyQCHhF) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Deluxe\)](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) | 3:50 | 2021-12-16 | 2022-11-13 |
 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 | 2021-12-16 |  |

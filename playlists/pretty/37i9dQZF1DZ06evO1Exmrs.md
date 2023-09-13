@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 
 > This is Noah Kahan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,565 likes - 47 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,593 likes - 47 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 38 | [Hold It Down](https://open.spotify.com/track/6xNaObGQT8V8OM5OEm6p3G) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hold It Down](https://open.spotify.com/album/61c9HH26RwgWbUyK6oSMRt) | 3:16 |
 | 39 | [Come Down](https://open.spotify.com/track/4QjtXlzepoVp3YXMvwxyyr) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Come Down](https://open.spotify.com/album/4eRfLOEHV8z0HZN7gg8UYh) | 2:59 |
 | 40 | [Bad Luck](https://open.spotify.com/track/05CRP83e1AD3kl6rP1r5aB) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:11 |
-| 41 | [Hallelujah](https://open.spotify.com/track/0MFDzxcs2Zk47nLq7ukC4S) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hallelujah](https://open.spotify.com/album/4EJBYk8lfiRQZTHMJEdCtY) | 3:18 |
-| 42 | [Tough \(feat\. Noah Kahan\)](https://open.spotify.com/track/3a1Zmq0P1E6W80x8EOcVNP) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [From Michigan With Love](https://open.spotify.com/album/7zGPSFi3LOIC1L5Dj0oEBx) | 2:58 |
+| 41 | [Tough \(feat\. Noah Kahan\)](https://open.spotify.com/track/3a1Zmq0P1E6W80x8EOcVNP) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [From Michigan With Love](https://open.spotify.com/album/7zGPSFi3LOIC1L5Dj0oEBx) | 2:58 |
+| 42 | [Hallelujah](https://open.spotify.com/track/0MFDzxcs2Zk47nLq7ukC4S) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hallelujah](https://open.spotify.com/album/4EJBYk8lfiRQZTHMJEdCtY) | 3:18 |
 | 43 | [We’re All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [We’re All Gonna Die](https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4) | 2:59 |
 | 44 | [Howling](https://open.spotify.com/track/07Bf6NNEWHOgivLQbb1Akg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 4:45 |
-| 45 | [Need Your Love \(with Noah Kahan\)](https://open.spotify.com/track/1vsQb8n0icvMsFnL9663LM) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Gravity](https://open.spotify.com/album/5CaTHgZaRvb2vCK1mVbCR1) | 3:25 |
-| 46 | [Please](https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 4:12 |
+| 45 | [Please](https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 4:12 |
+| 46 | [Need Your Love \(with Noah Kahan\)](https://open.spotify.com/track/1vsQb8n0icvMsFnL9663LM) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Gravity](https://open.spotify.com/album/5CaTHgZaRvb2vCK1mVbCR1) | 3:25 |
 | 47 | [MEAN! \(Remix\) \[with Noah Kahan\]](https://open.spotify.com/track/7vMusXp03B9ydnQl3LGtk7) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [MEAN! \(Remix\) \[with Noah Kahan\]](https://open.spotify.com/album/1pzHmsdosYFjgkV6Xz9Uoz) | 2:23 |
 
-Snapshot ID: `MjgyMzc2NjIsMDAwMDAwMDA4NDllNzZlMGExNTg2NTg0OTE5ODY1ZDc2NmI5ZDRjZQ==`
+Snapshot ID: `MjgyNDIwMzcsMDAwMDAwMDAzY2QwYjk5YzhkMDU5NzAyMjI2MjkwYjhkM2ZiZDQzMg==`

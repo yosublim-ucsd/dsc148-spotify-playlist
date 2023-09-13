@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 46748,
+  "num_followers": 46798,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWE0ZmY4OWZlYjVmYWY4MzQ2MjdkMDQ0MWYwMjhiZDhkYTFlOWNl",
+  "snapshot_id": "MCw4ZDczY2FkOGJhZTUzMzYwOTcwMzBkZjJjZDBkZjIyNjBmZGZhMzNk",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
-      },
-      "artists": [
-        {
-          "name": "Bostro Pesopeo",
-          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
-        }
-      ],
-      "duration_ms": 289642,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Let Night Come On Bells End The Day",
         "url": "https://open.spotify.com/album/5QZhQCo8IeSSg17tN7fbSs"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 174000,
       "name": "Garlands",
       "url": "https://open.spotify.com/track/7xTlwBb8YH33thmXs2hFvV"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
+      },
+      "artists": [
+        {
+          "name": "Bostro Pesopeo",
+          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
+        }
+      ],
+      "duration_ms": 289642,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 372930,
-      "name": "Lumina",
-      "url": "https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Where Do You Get Your Dreams From?",
         "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 372930,
+      "name": "Lumina",
+      "url": "https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Probe 6-8",
-        "url": "https://open.spotify.com/album/7ipY0pDn2DQBP8F3q8wC2a"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 343106,
-      "name": "Para Guy",
-      "url": "https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 168000,
       "name": "Circle 18",
       "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Probe 6-8",
+        "url": "https://open.spotify.com/album/7ipY0pDn2DQBP8F3q8wC2a"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 343106,
+      "name": "Para Guy",
+      "url": "https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "ABOVE_BETWEEN_BELOW",
+        "url": "https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc"
+      },
+      "artists": [
+        {
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        }
+      ],
+      "duration_ms": 317393,
+      "name": "BELOW",
+      "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
       },
@@ -979,6 +995,54 @@
       "duration_ms": 216000,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Mirror Ensemble",
+        "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
+      },
+      "artists": [
+        {
+          "name": "Brett Naucke",
+          "url": "https://open.spotify.com/artist/2MFjLlkCkf3kmSqBT0q5vs"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Rose Water",
+      "url": "https://open.spotify.com/track/6AEXBSliph7nngKCqahlV5"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Moonbase Alpha",
+        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
+      },
+      "artists": [
+        {
+          "name": "Hermbot",
+          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "The Station Is Alive Again",
+      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1003,70 +1067,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
-      },
-      "artists": [
-        {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
-        }
-      ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Mirror Ensemble",
-        "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
-      },
-      "artists": [
-        {
-          "name": "Brett Naucke",
-          "url": "https://open.spotify.com/artist/2MFjLlkCkf3kmSqBT0q5vs"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Rose Water",
-      "url": "https://open.spotify.com/track/6AEXBSliph7nngKCqahlV5"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Pax Aurora",
-        "url": "https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML"
-      },
-      "artists": [
-        {
-          "name": "Nadia Struiwigh",
-          "url": "https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ"
-        }
-      ],
-      "duration_ms": 418064,
-      "name": "Organic",
-      "url": "https://open.spotify.com/track/194j607XLGLXSFe8Higlac"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "ABOVE_BETWEEN_BELOW",
-        "url": "https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc"
-      },
-      "artists": [
-        {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
-        }
-      ],
-      "duration_ms": 317393,
-      "name": "BELOW",
-      "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Plonk",
         "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
       },
@@ -1083,50 +1083,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Moonbase Alpha",
-        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
+        "name": "Pax Aurora",
+        "url": "https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML"
       },
       "artists": [
         {
-          "name": "Hermbot",
-          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
+          "name": "Nadia Struiwigh",
+          "url": "https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ"
         }
       ],
-      "duration_ms": 145000,
-      "name": "The Station Is Alive Again",
-      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
-        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
-      },
-      "artists": [
-        {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Rambutan",
-      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "The Sparrow",
-        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 357906,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
+      "duration_ms": 418064,
+      "name": "Organic",
+      "url": "https://open.spotify.com/track/194j607XLGLXSFe8Higlac"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1163,6 +1131,38 @@
       "duration_ms": 253047,
       "name": "Kosmic Headroom",
       "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
+        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Rambutan",
+      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "The Sparrow",
+        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 357906,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
     },
     {
       "added_at": "2023-03-10 00:01:00",

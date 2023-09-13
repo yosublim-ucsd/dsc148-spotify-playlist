@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Bayou
 
-300 songs - 16 hr 44 min
+301 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Hold On !](https://open.spotify.com/track/6CxtpFhcKwdsIgX2MwtaiP) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:36 | 2021-12-16 | 2022-04-23 |
 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 | 2022-03-07 | 2022-12-08 |
 | [Hostage](https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b) | [Areej](https://open.spotify.com/artist/08Dn6q1Vgbc3Vg16tRx2Ef) | [GBOF EP](https://open.spotify.com/album/1Ypxz2UMMhqVbrM48yNCQP) | 3:38 | 2022-12-07 |  |
+| [House Shoes](https://open.spotify.com/track/7330zPJs9Z3Bb2KcLVDYEP) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [A'Y](https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj) | [Butter](https://open.spotify.com/album/6jdhoZVZfJyRaq6RyQ8flo) | 3:17 | 2023-09-12 |  |
 | [How stupid is this?](https://open.spotify.com/track/3dcRnj7wvnhpSdEE3fyTzL) | [The C!rcle](https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F) | [How stupid is this?](https://open.spotify.com/album/3ZxRnhdZ5hJbrrZfPveQDL) | 4:32 | 2023-03-20 | 2023-04-28 |
 | [I Guess](https://open.spotify.com/track/1Q8UhAL4Ebspx05qAFGyTn) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [I Guess](https://open.spotify.com/album/1KCGlttwZbhgs9WfNoHitL) | 2:38 | 2022-12-12 | 2023-06-03 |
 | [I Miss You So](https://open.spotify.com/track/2A9K8umLwHLCo1RKDdEkHG) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [I Miss You So](https://open.spotify.com/album/1xxM6IffyyGSq959QBgleA) | 3:34 | 2023-02-27 | 2023-03-13 |
@@ -177,7 +178,7 @@
 | [MOONTALK](https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [MOONTALK](https://open.spotify.com/album/7rLRs1lMhJfYUJsdPPYwuu) | 3:29 | 2022-01-10 | 2023-04-09 |
 | [Move Slow](https://open.spotify.com/track/1nvMrDnwLUlGbOD4c6uz22) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Move Slow](https://open.spotify.com/album/2G6xTqixe8KquylPhawIeJ) | 2:54 | 2022-07-28 | 2022-10-09 |
 | [Move Slow](https://open.spotify.com/track/5IQoMOmJ8sfNi4Fjw9WRKF) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Move Slow](https://open.spotify.com/album/55BafVNwGsmsXHnWn5EEsP) | 2:54 | 2021-12-16 | 2022-07-29 |
-| [My Man \(Freestyle\)](https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [My Man \(Freestyle\)](https://open.spotify.com/album/4894VocVu0Qm90wKyU76XD) | 2:30 | 2023-03-20 |  |
+| [My Man \(Freestyle\)](https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [My Man \(Freestyle\)](https://open.spotify.com/album/4894VocVu0Qm90wKyU76XD) | 2:30 | 2023-03-20 | 2023-09-13 |
 | [N'TA GOUDAMI](https://open.spotify.com/track/0sArBZMNEdXNHb1E9cIDoU) | [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [N'ta Goudami](https://open.spotify.com/album/1wLqe5wbNXHrFSaXRyUGpy) | 7:25 | 2022-06-06 | 2022-06-24 |
 | [N'zor nebra](https://open.spotify.com/track/1FTzO3hv3gukg3nibftVWu) | [Cheba Nouria](https://open.spotify.com/artist/3AJD7ohoMSbivLcSHuvznO) | [Raï Club Culture, Vol\. 1 \(The Sound of North Africa\)](https://open.spotify.com/album/6GJTaC3IfQQj7pKz3K73Do) | 6:04 | 2022-06-06 | 2022-06-24 |
 | [Nails](https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nails](https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT) | 2:55 | 2023-06-02 |  |

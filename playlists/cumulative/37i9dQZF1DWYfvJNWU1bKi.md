@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-129 songs - 9 hr 33 min
+130 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Asku Laska](https://open.spotify.com/track/3PzkxdshpgSkWrEeVqTsDe) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL) | [Nanban \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oIX27371oNgnMqdg2NeKT) | 6:20 | 2021-08-16 |  |
 | [Aval](https://open.spotify.com/track/4LK8863ScRhhT6hitFfBI5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Pradeep](https://open.spotify.com/artist/5TZzBBayl8u85ZdzhwMHuO), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva) | [Manithan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DJsqgmok3ag4GxDWkcIlb) | 4:26 | 2023-02-27 |  |
 | [Ayyayo](https://open.spotify.com/track/5DYfTyqUNBmOnQtljQjYk2) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Aadukalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0czPRsN8uZZ5o3J8usUHbR) | 5:24 | 2021-08-16 |  |
+| [Azhagai \(From "Iraivan"\)](https://open.spotify.com/track/3wcXbKtnTQf5g2dK3AW2dB) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Kharesma Ravichandran](https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw) | [Azhagai \(From "Iraivan"\)](https://open.spotify.com/album/3cJ5wGBgAi1xoP7Mt6zFWp) | 3:41 | 2023-09-12 |  |
 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 | 2022-02-09 |  |
 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 | 2021-11-11 |  |
 | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/6rJhjykEkCqm3H64uALhhf) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3jTx8LYOYIO0cRZDlS1uPx) | 4:27 | 2021-08-16 | 2022-07-12 |

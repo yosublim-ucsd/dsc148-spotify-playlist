@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Chelsea Cutler
 
-1,445 songs - 3 day 3 hr 44 min
+1,446 songs - 3 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1034,6 +1034,7 @@
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2020-10-13\* | 2021-04-17 |
 | [r u ok](https://open.spotify.com/track/7rq1zCf90CnU7OalBLIgNp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [r u ok](https://open.spotify.com/album/4xhldRhsJY00rIkBFMe5yC) | 3:05 | 2020-12-11 | 2021-04-10 |
 | [Radiohead](https://open.spotify.com/track/07Br10W8gRXrf0hE3PtJPX) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Radiohead](https://open.spotify.com/album/24B22VTnbGYjUh4eIRO2eR) | 3:17 | 2021-12-04 | 2021-12-18 |
+| [Rain](https://open.spotify.com/track/1s4Jpm4mhKgIyQ4Misd5eT) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:14 | 2023-09-12 |  |
 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 | 2023-03-31 | 2023-05-27 |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2021-03-14 | 2021-04-10 |
 | [Read My Mind](https://open.spotify.com/track/6k1RWwxJpRgm2lbyxRTmtF) | [Beren Olivia](https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ) | [Read My Mind](https://open.spotify.com/album/33AZnu3azsTdALxhjX2gh2) | 2:58 | 2021-02-03 | 2021-04-17 |

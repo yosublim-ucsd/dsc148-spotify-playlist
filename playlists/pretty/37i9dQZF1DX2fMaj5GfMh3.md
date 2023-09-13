@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Duncan Laurence deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,221 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,244 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 |
 | 100 | [happy for you](https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [happy for you](https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL) | 2:54 |
 
-Snapshot ID: `MCw1ZmFhOGYzZDYyZTQwNzBhNTBiMzZmNTRiN2E5MDRiMmY5MzBlZjcx`
+Snapshot ID: `MCxiNTc3NzQ2NTU5ZGY5MTAyNWRkMGY1OTRkMzA4OWNhMjFkYWU5MjQ5`

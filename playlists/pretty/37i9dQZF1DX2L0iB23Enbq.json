@@ -1,12 +1,12 @@
 {
   "description": "Viral, trending and taking off.",
-  "num_followers": 3173218,
+  "num_followers": 3174354,
   "original_name": "Viral Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTZmOWE4MDZjYTRlM2Q5YjI4ZDc0MWEzNTYzNGZjOTM4NDYzNzIx",
+  "snapshot_id": "MCxlMDI5NmM5ZmQwZGNjYzNkMmY2YzI0YzFlYTA1MGFlM2FjZWU1ODc5",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "French Exit",
+        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "French Exit",
-        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Lovers Rock",
-      "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
     },
     {
       "added_at": "2023-09-08 04:01:00",

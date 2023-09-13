@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Astoria on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 113716,
+  "num_followers": 113873,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDA1YjhmZTEwODFiZjNjZjEwNWJmODNjODkxOTkzZjMzYTkwMDlm",
+  "snapshot_id": "MCxlNmI4ZmQ5YzFhMDRhNWY3ZGYwYjhiNWM5YzQ0YTZiOGEwMzQ5Mjg0",
   "tracks": [
     {
       "added_at": "2023-08-02 14:55:57",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-06-28 01:00:55",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+        "name": "In Phases",
+        "url": "https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze"
       },
       "artists": [
         {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+          "name": "Azamiah",
+          "url": "https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8"
         }
       ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+      "duration_ms": 58202,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/7oqm7wpNm8CLNGS1Rn5may"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-06-28 01:00:55",
       "album": {
-        "name": "In Phases",
-        "url": "https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze"
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
       "artists": [
         {
-          "name": "Azamiah",
-          "url": "https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8"
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
         }
       ],
-      "duration_ms": 58202,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/7oqm7wpNm8CLNGS1Rn5may"
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2023-08-10 05:46:09",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
     },
     {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Pleiades",
+        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
+      },
+      "artists": [
+        {
+          "name": "AINO",
+          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
+        }
+      ],
+      "duration_ms": 508603,
+      "name": "Alcyone",
+      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
+    },
+    {
       "added_at": "2023-05-24 14:03:48",
       "album": {
         "name": "Uncanny Otion",
@@ -391,22 +407,6 @@
       "duration_ms": 248000,
       "name": "Uncanny Otion",
       "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Pleiades",
-        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
-      },
-      "artists": [
-        {
-          "name": "AINO",
-          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
-        }
-      ],
-      "duration_ms": 508603,
-      "name": "Alcyone",
-      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
     },
     {
       "added_at": "2023-06-07 04:04:27",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Show You My World",
-        "url": "https://open.spotify.com/album/7iSAdOWLZGc1VGIBhf4hI7"
-      },
-      "artists": [
-        {
-          "name": "\u017bY\u0143Y",
-          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Show You My World",
-      "url": "https://open.spotify.com/track/0OGG0VFsTDzhnPpjw6SiDU"
-    },
-    {
       "added_at": "2023-08-01 21:02:30",
       "album": {
         "name": "Ulaan",
@@ -637,6 +621,22 @@
       "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
     },
     {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Show You My World",
+        "url": "https://open.spotify.com/album/7iSAdOWLZGc1VGIBhf4hI7"
+      },
+      "artists": [
+        {
+          "name": "\u017bY\u0143Y",
+          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Show You My World",
+      "url": "https://open.spotify.com/track/0OGG0VFsTDzhnPpjw6SiDU"
+    },
+    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "Blue Numbers",
@@ -651,6 +651,26 @@
       "duration_ms": 97342,
       "name": "A flickering life",
       "url": "https://open.spotify.com/track/5DNJQWIQKqmfZGDC6lYJuR"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Wouldn\u2019t It Be Easy?",
+        "url": "https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t"
+      },
+      "artists": [
+        {
+          "name": "Oyatan",
+          "url": "https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/3cjopyEw6LDKNzySlKlC4L"
+        }
+      ],
+      "duration_ms": 149674,
+      "name": "thing about a boy",
+      "url": "https://open.spotify.com/track/1aOmzJa2WQndveXvOedH36"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -683,26 +703,6 @@
       "duration_ms": 262675,
       "name": "ISSUES (INTRO)",
       "url": "https://open.spotify.com/track/201Y0nLSCr6ql1ueJlMPsT"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Wouldn\u2019t It Be Easy?",
-        "url": "https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t"
-      },
-      "artists": [
-        {
-          "name": "Oyatan",
-          "url": "https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om"
-        },
-        {
-          "name": "Manta",
-          "url": "https://open.spotify.com/artist/3cjopyEw6LDKNzySlKlC4L"
-        }
-      ],
-      "duration_ms": 149674,
-      "name": "thing about a boy",
-      "url": "https://open.spotify.com/track/1aOmzJa2WQndveXvOedH36"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
     },
     {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Tinnitus",
+        "url": "https://open.spotify.com/album/1Ql9iOzse7nbLemXldLd1J"
+      },
+      "artists": [
+        {
+          "name": "David Boulter",
+          "url": "https://open.spotify.com/artist/5VUBJKfJCbFqezm6lHrLHp"
+        }
+      ],
+      "duration_ms": 122368,
+      "name": "Tinnitus Titles (Tinnitus OST)",
+      "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
+    },
+    {
       "added_at": "2023-06-28 01:00:55",
       "album": {
         "name": "humanus",
@@ -787,18 +803,18 @@
     {
       "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "Tinnitus",
-        "url": "https://open.spotify.com/album/1Ql9iOzse7nbLemXldLd1J"
+        "name": "Everything I Was, Burning Slow",
+        "url": "https://open.spotify.com/album/7thudeuUtOVk6jjP3yv94l"
       },
       "artists": [
         {
-          "name": "David Boulter",
-          "url": "https://open.spotify.com/artist/5VUBJKfJCbFqezm6lHrLHp"
+          "name": "24thankyou",
+          "url": "https://open.spotify.com/artist/0p0wYqcp0eD1TBnLLX35fZ"
         }
       ],
-      "duration_ms": 122368,
-      "name": "Tinnitus Titles (Tinnitus OST)",
-      "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
+      "duration_ms": 69899,
+      "name": "Interlude i (oscillated)",
+      "url": "https://open.spotify.com/track/5oFeDLjJeXkPxigBjU2etE"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -815,22 +831,6 @@
       "duration_ms": 183272,
       "name": "Calamity",
       "url": "https://open.spotify.com/track/5vbyaFx8JmNR3CNDe23dtL"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Everything I Was, Burning Slow",
-        "url": "https://open.spotify.com/album/7thudeuUtOVk6jjP3yv94l"
-      },
-      "artists": [
-        {
-          "name": "24thankyou",
-          "url": "https://open.spotify.com/artist/0p0wYqcp0eD1TBnLLX35fZ"
-        }
-      ],
-      "duration_ms": 69899,
-      "name": "Interlude i (oscillated)",
-      "url": "https://open.spotify.com/track/5oFeDLjJeXkPxigBjU2etE"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/0iupNUfxhGo1AEPlfHz4m6"
     },
     {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 452207,
+      "name": "500 ascended",
+      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
+    },
+    {
       "added_at": "2023-05-24 14:03:48",
       "album": {
         "name": "\u00d6ga for \u00d6ga",
@@ -927,22 +943,6 @@
       "duration_ms": 187453,
       "name": "Poison Tree",
       "url": "https://open.spotify.com/track/3wG1cs7b0BQEZWNFPAkRaW"
-    },
-    {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 303216,
-      "name": "humanus",
-      "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -1013,20 +1013,20 @@
       "url": "https://open.spotify.com/track/7uE7jFI9QPPltoqp7Vh53J"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
+      "added_at": "2023-06-28 01:00:55",
       "album": {
-        "name": "Opinions",
-        "url": "https://open.spotify.com/album/5mqDIJ2nEdeNjBOn1oUync"
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
       "artists": [
         {
-          "name": "Cut 989",
-          "url": "https://open.spotify.com/artist/6IajSdT5nmPTiMYdIMizWn"
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
         }
       ],
-      "duration_ms": 322440,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj"
+      "duration_ms": 303216,
+      "name": "humanus",
+      "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1045,6 +1045,22 @@
       "url": "https://open.spotify.com/track/0DWbK8hukzoG2KXtRGUkQW"
     },
     {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Opinions",
+        "url": "https://open.spotify.com/album/5mqDIJ2nEdeNjBOn1oUync"
+      },
+      "artists": [
+        {
+          "name": "Cut 989",
+          "url": "https://open.spotify.com/artist/6IajSdT5nmPTiMYdIMizWn"
+        }
+      ],
+      "duration_ms": 322440,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj"
+    },
+    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Gatherings",
@@ -1059,22 +1075,6 @@
       "duration_ms": 163320,
       "name": "Window",
       "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
-    },
-    {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 452207,
-      "name": "500 ascended",
-      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/5Lijj3EPCxqzsccJNCm0ZV"
     },
     {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Conversations in Ritual",
+        "url": "https://open.spotify.com/album/1NiKxZldfhyHtajtv1IoEf"
+      },
+      "artists": [
+        {
+          "name": "Balladeste",
+          "url": "https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50"
+        }
+      ],
+      "duration_ms": 313986,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/2Cq40mHbccRMKxlHaAmsVe"
+    },
+    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "Fascinating Rhythm",
@@ -1141,20 +1157,20 @@
       "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "Conversations in Ritual",
-        "url": "https://open.spotify.com/album/1NiKxZldfhyHtajtv1IoEf"
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
       },
       "artists": [
         {
-          "name": "Balladeste",
-          "url": "https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50"
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
         }
       ],
-      "duration_ms": 313986,
-      "name": "Rising",
-      "url": "https://open.spotify.com/track/2Cq40mHbccRMKxlHaAmsVe"
+      "duration_ms": 92737,
+      "name": "drive thru",
+      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -1205,22 +1221,6 @@
       "url": "https://open.spotify.com/track/1BrVmVhe95wzB4wLw1KztV"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Birthday Party",
-        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
-      },
-      "artists": [
-        {
-          "name": "Vines",
-          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
-        }
-      ],
-      "duration_ms": 92737,
-      "name": "drive thru",
-      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
-    },
-    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "Rikta EP",
@@ -1235,6 +1235,22 @@
       "duration_ms": 272098,
       "name": "Rikta",
       "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Hotel *****",
+        "url": "https://open.spotify.com/album/3DS0TJ2SJKAnqjup5K5KT1"
+      },
+      "artists": [
+        {
+          "name": "julek ploski",
+          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Main theme, Pt I",
+      "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1273,22 +1289,6 @@
       "url": "https://open.spotify.com/track/0bMIJUMXalCoA9KC2NHxtH"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Hotel *****",
-        "url": "https://open.spotify.com/album/3DS0TJ2SJKAnqjup5K5KT1"
-      },
-      "artists": [
-        {
-          "name": "julek ploski",
-          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Main theme, Pt I",
-      "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
-    },
-    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "Shoegaze 5G",
@@ -1303,6 +1303,22 @@
       "duration_ms": 156415,
       "name": "Alien Farmer",
       "url": "https://open.spotify.com/track/383StcK6uDHtzkVUFfogqf"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/73YNaAGxipWa1Lqe3Y2Qf5"
+      },
+      "artists": [
+        {
+          "name": "Silicone Prairie",
+          "url": "https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0"
+        }
+      ],
+      "duration_ms": 88756,
+      "name": "Willkommen",
+      "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1323,22 +1339,6 @@
       "duration_ms": 407434,
       "name": "Vibrant Books",
       "url": "https://open.spotify.com/track/0ZrSKZdcURiYrk85Z3XrT6"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/73YNaAGxipWa1Lqe3Y2Qf5"
-      },
-      "artists": [
-        {
-          "name": "Silicone Prairie",
-          "url": "https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0"
-        }
-      ],
-      "duration_ms": 88756,
-      "name": "Willkommen",
-      "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
     },
     {
       "added_at": "2023-08-01 13:11:26",

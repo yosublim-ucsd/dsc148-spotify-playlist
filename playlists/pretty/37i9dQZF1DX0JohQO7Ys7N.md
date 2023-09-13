@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Xenia Manasseh
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,097 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,169 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 32 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 |
 | 33 | [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 |
 | 34 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 |
-| 35 | [Kimbiza](https://open.spotify.com/track/0mEGPS01c0t5RcGVleRoPS) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Kimbiza](https://open.spotify.com/album/1k7kX0dbWzM0RnZYxc9iyL) | 3:16 |
+| 35 | [Kimbiza](https://open.spotify.com/track/5TJ1BbqzcX1XVtFvHR98mD) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Kimbiza](https://open.spotify.com/album/6ABgs6XJzcvk7uxlpF6TKs) | 3:14 |
 | 36 | [Window \(Red\)](https://open.spotify.com/track/53UTnaVi48tv6mv0DoLm4A) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Colours](https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd) | 3:12 |
 | 37 | [Aheri](https://open.spotify.com/track/5vEmN5ml5878eDF1vJI1Uc) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Kuwe](https://open.spotify.com/album/0xV4Zm2IC2b9uNh4r0avUY) | 4:35 |
 | 38 | [Haba Na Haba](https://open.spotify.com/track/7iB7aG563XdqyqGLpb1BYj) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [Colours](https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 59 | [Loverman \- Acoustic](https://open.spotify.com/track/6vxwG8RWDOOlyCyxU4l0qP) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Ethan](https://open.spotify.com/artist/6ouFdOVHXs3aZV5pwM3JlQ) | [Loverman \(Acoustic\)](https://open.spotify.com/album/5Ajbk0U4jDQRtqLDg9OZoB) | 2:54 |
 | 60 | [Pictures](https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 3:59 |
 
-Snapshot ID: `MCxkNWM2NGUwMzU4ZTc3MWRlMDg1MWI1ODA2ZjI3M2Q1OTgxYjJmZmI3`
+Snapshot ID: `MCxmODNlYjRkMzJmMjc5ZjZmZjczMjQzNTAzNjQwNzBjOWM2ZTBlMzdk`

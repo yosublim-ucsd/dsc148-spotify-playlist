@@ -2527,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Home Is Where The Hurt Is",
+        "url": "https://open.spotify.com/album/2ibB2OyjmvKTmOOo2GgORh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240706,
+      "name": "Home Is Where The Hurt Is",
+      "url": "https://open.spotify.com/track/7ujyUurqKZiltLgXroP3Z3"
+    },
+    {
+      "album": {
         "name": "Home To Another One",
         "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
       },

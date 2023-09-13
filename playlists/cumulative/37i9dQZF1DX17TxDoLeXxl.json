@@ -2437,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Springtime Red Tulips",
+        "url": "https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274976,
+      "name": "Springtime Red Tulips",
+      "url": "https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe"
+    },
+    {
+      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },

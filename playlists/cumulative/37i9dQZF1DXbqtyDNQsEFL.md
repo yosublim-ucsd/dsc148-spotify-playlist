@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-200 songs - 22 hr 42 min
+201 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-10-14 | 2022-11-05 |
 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 | 2023-06-09 | 2023-06-16 |
 | [Only You Jesus](https://open.spotify.com/track/4FlcVpYoYw84TFQyIr7oH8) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 5:45 | 2022-10-14 | 2022-11-05 |
-| [Onwanwani](https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Onwanwani](https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3) | 5:57 | 2022-06-09 |  |
+| [Onwanwani](https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Onwanwani](https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3) | 5:57 | 2022-06-09 | 2023-09-13 |
 | [Onyedikagi](https://open.spotify.com/track/7HoUxUs2aHd6Jl57lxAA99) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Glowrie](https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF) | [Onyedikagi](https://open.spotify.com/album/3nM8ld6vFNii5Pp7i96I3J) | 4:57 | 2022-06-09 |  |
 | [Open Up](https://open.spotify.com/track/0vL8wJhWQhHNAJkGurqPF9) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Open Up](https://open.spotify.com/album/5XH3M1XHCaAgfQzp53mcRi) | 10:30 | 2022-06-09 |  |
 | [Out Of My Belly](https://open.spotify.com/track/19OhFys7Cga8g5sHHSY7hE) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [Out Of My Belly](https://open.spotify.com/album/5Ro7tNG0TSpe3E1ynWvKRx) | 6:20 | 2022-10-14 | 2022-11-05 |
@@ -196,6 +196,7 @@
 | [Yahweh Be Praised](https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Yahweh Be Praised](https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO) | 5:27 | 2023-06-30 | 2023-08-12 |
 | [Yahweh: Song of Moses](https://open.spotify.com/track/13FKCr68YPsqWf0D5tXhQ0) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Yahweh: Song of Moses](https://open.spotify.com/album/1J1qOKKHPplDFzbcz0dDvj) | 7:44 | 2022-06-09 | 2023-01-23 |
 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 | 2022-06-09 |  |
+| [Yesu \(Jesus\)](https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Guya](https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH) | [Yesu \(Jesus\)](https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI) | 3:55 | 2023-09-08 |  |
 | [Yhwh](https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Yhwh](https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a) | 9:43 | 2022-09-09 |  |
 | [YOU ARE ALWAYS THERE FOR ME \(MEDLEY\)](https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [YOU ARE ALWAYS THERE FOR ME \(MEDLEY\)](https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q) | 41:49 | 2023-03-30 | 2023-06-23 |
 | [You Are God \(feat\. Chigozie Achugo\)](https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chigozie Achugo](https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 4:31 | 2022-06-09 |  |

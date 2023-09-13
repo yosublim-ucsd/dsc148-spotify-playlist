@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,668 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,707 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 9 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 10 | [People Get Up And Drive Your Funky Soul \- Remix](https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Motherlode](https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f) | 9:04 |
 | 11 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
-| 12 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
-| 13 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
+| 12 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
+| 13 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 | 14 | [Mary Jane](https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Come Get It! \(Expanded Edition\)](https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP) | 4:57 |
 | 15 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
 | 16 | [Ace of Aces](https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [The Fearless Flyers](https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt) | 2:04 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 46 | [Do It Like You Do](https://open.spotify.com/track/7cnWNeQIQutKJmL3MZSfr6) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Fly](https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy) | 4:11 |
 | 47 | [Sheez Music](https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Everybody Want Sum](https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD) | 4:48 |
 | 48 | [You're Gone](https://open.spotify.com/track/2auIQ3gf99I7wFz2DbZKWk) | [Smoove & Turrell](https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn), [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Mount Pleasant](https://open.spotify.com/album/080iszZgRFPqymcbo1qlOK) | 3:42 |
-| 49 | [Head](https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO) | 4:45 |
-| 50 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
+| 49 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
+| 50 | [Head](https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO) | 4:45 |
 | 51 | [Funk That Junk](https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [What We Got Together](https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18) | 2:35 |
 | 52 | [Fux with the Tux](https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo II](https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68) | 2:46 |
 | 53 | [Miss Madison](https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE) | [Phat Phunktion](https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 3:30 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 90 | [Mister Man](https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Afterlife Vol\. 2 \- EP](https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al) | 3:46 |
 | 91 | [.img](https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA) | [Brother Theodore](https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg) | [St\. Ann](https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn) | 5:47 |
 | 92 | [Just Say Nothing](https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Vanessa Haynes](https://open.spotify.com/artist/0x1dqXqirpBR3KT3pdjyEf) | [In Search Of Better Days](https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4) | 4:41 |
-| 93 | [F.y.g](https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Zapp](https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL) | [Amplified Experiment](https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E) | 2:45 |
-| 94 | [I'm Your Biggest Fan](https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [Gnomes and Badgers](https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr) | 3:36 |
+| 93 | [I'm Your Biggest Fan](https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [Gnomes and Badgers](https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr) | 3:36 |
+| 94 | [F.y.g](https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Zapp](https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL) | [Amplified Experiment](https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E) | 2:45 |
 | 95 | [Jurassic Funk](https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8) | 4:19 |
 | 96 | [Warning](https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Kaiit](https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2) | [Lab Experiments, Vol\. 2](https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA) | 3:31 |
 | 97 | [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Wild](https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI), [Mammal Dap](https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq) | [Wild](https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK) | 3:32 |
 | 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 
-Snapshot ID: `MCwxOGFhYTRiM2UyNDBiYTYzNDc2Mzc0NjQ1OWE4NTY5ZGFiY2RmMDg2`
+Snapshot ID: `MCw3NDNiOWEyY2JiNTkzMGQwM2MxODQ5NjQ2ODgyMTAzMDIzNDQ0ZWFh`

@@ -3433,6 +3433,24 @@
     },
     {
       "album": {
+        "name": "Got Him!",
+        "url": "https://open.spotify.com/album/6rBt5RO5Yb4sfMwGpWXjyU"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155262,
+      "name": "Holdup",
+      "url": "https://open.spotify.com/track/0l8o0hshn4qrihNPvvJu2l"
+    },
+    {
+      "album": {
         "name": "Hollywood",
         "url": "https://open.spotify.com/album/5HBRejbP2IlsqHNQDQb2oy"
       },
@@ -8040,7 +8058,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 319986,
       "name": "Walking Backwards",
       "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"

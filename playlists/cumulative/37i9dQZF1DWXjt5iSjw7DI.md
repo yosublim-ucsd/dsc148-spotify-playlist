@@ -4,7 +4,7 @@
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-269 songs - 17 hr 34 min
+270 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Boy Named Sue \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/4qhtY6ld2B5lAl9jmAMg1d) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 4:22 | 2021-07-23 |  |
 | [A Country Boy Can Survive \- Live](https://open.spotify.com/track/6jydKCQNiKoxTtVnLb21A6) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [A Country Boy Can Survive \(Box Set\)](https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm) | 4:58 | 2021-07-23 | 2022-08-30 |
 | [A Headache Tomorrow \(Or a Heartache Tonight\)](https://open.spotify.com/track/2WGMs0UmITfqI8T1t2zQn1) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Live in Branson](https://open.spotify.com/album/5Likd6rkwiDaf11kRwnuq0) | 2:46 | 2021-07-23 | 2022-07-29 |
+| [A Headache Tomorrow \(Or a Heartache Tonight\) \- Live](https://open.spotify.com/track/75vGJz1j1PAuN3QiCMEShY) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Mickey Gilley](https://open.spotify.com/album/3mrArYIsNdASsv8aZrDIH7) | 2:46 | 2023-07-24 |  |
 | [A Thousand Miles from Nowhere \- Live](https://open.spotify.com/track/6FC69ybRXIc1QBqPnsTeBi) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Dwight Live](https://open.spotify.com/album/0MGkyfLKh6k0D0uAa59QXy) | 4:19 | 2021-07-23 |  |
 | [Achy Breaky Heart \(Live\)](https://open.spotify.com/track/1k2TO5OHLgLNHF9HKPXx66) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Big Bang Concert Series: Billy Ray Cyrus \(Live\)](https://open.spotify.com/album/0G4UcIvzOOGzeulPcGYj1P) | 6:46 | 2021-07-23 | 2022-07-27 |
 | [Act Naturally](https://open.spotify.com/track/6rNdTzFFE7eymGdsX0WjlL) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Carnegie Hall Concert](https://open.spotify.com/album/6wX2ZCo6yoB3H6lmTvpJc2) | 3:40 | 2021-07-23 | 2022-09-15 |
@@ -73,7 +74,7 @@
 | [Georgia on a Fast Train \- Live at the Texas Music Cafe](https://open.spotify.com/track/6zudOk9Nsjx0ulYSYJ2aXC) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz), [Eddy Shaver](https://open.spotify.com/artist/0wpd5zvhLzWHrpY6RWBBim) | [Georgia on a Fast Train \(Live at the Texas Music Cafe\)](https://open.spotify.com/album/0q0TclnPK1HyWRmCJOG7z2) | 4:04 | 2023-01-27 | 2023-05-14 |
 | [Georgia on My Mind \- Live at Harrah's Casino, Lake Tahoe, NV \- April 1978](https://open.spotify.com/track/0OmDJkht9AEeXrJkRR5iJA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie And Family Live](https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB) | 4:08 | 2021-07-23 | 2022-10-15 |
 | [Get Your Kicks On Route 66](https://open.spotify.com/track/6EDntGp9mUKMWyA1bF2Ush) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [Live at Billy Bob's Texas](https://open.spotify.com/album/4lZz3iIX7TFD31msCkui68) | 3:27 | 2021-07-23 |  |
-| [Gettin' By](https://open.spotify.com/track/3jBzXVNSgRPvpGRenSkvL1) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 3:42 | 2021-07-23 |  |
+| [Gettin' By](https://open.spotify.com/track/3jBzXVNSgRPvpGRenSkvL1) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 3:42 | 2021-07-23 | 2023-09-13 |
 | [Gimme Three Steps \- Live](https://open.spotify.com/track/2BTxbbLJiPd1ySKtvsBgn8) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced ‘Leh\-‘nérd ‘Skin\-‘nérd \- Live From Jacksonville At The Florida Theatre](https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4) | 5:37 | 2021-07-23 | 2022-07-29 |
 | [Gimme Three Steps/Call Me The Breeze \- 1976/Live At Bill Graham's Winterland](https://open.spotify.com/track/7yfrdrdGjR0Sk1ustStfX3) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Authorized Bootleg \- Live Winterland San Francisco, CA 3/7/76](https://open.spotify.com/album/4I8cCe8m79fbzw1CXEcgVp) | 10:08 | 2021-07-23 | 2023-08-14 |
 | [Girls Night Out \- Live](https://open.spotify.com/track/5IIglJEw1INsUNkXQq3Pss) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Reunion Live](https://open.spotify.com/album/1aDOVzD0iVmq2qTGqaTUbV) | 3:08 | 2021-07-23 | 2022-07-25 |

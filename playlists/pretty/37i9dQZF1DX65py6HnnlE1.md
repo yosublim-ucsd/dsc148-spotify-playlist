@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,613 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,893 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,21 +77,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 67 | [Cuando El Amor Se Va](https://open.spotify.com/track/3hCzPmdh5AhxFYBZMfFOgP) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Recuentos De Éxitos](https://open.spotify.com/album/1XvALZGX2W9POnEoKmbEHq) | 3:55 |
 | 68 | [Yo Mismo La Vi](https://open.spotify.com/track/5X1hQWcfE05YwwyDpyTtjk) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [En Persona](https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq) | 3:13 |
 | 69 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/1dazXPzmgBB7sNxodglb1l) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Éxitos De Yoskar Sarante](https://open.spotify.com/album/0nAAlwEXjpJwEkLJo7yvG0) | 4:00 |
-| 70 | [Pena Por Tí](https://open.spotify.com/track/7fRQxmZcNZEUZJx1dcxWBd) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Pena Por Tí](https://open.spotify.com/album/6u9Gf0TcIxJ4O6D7HzuXsl) | 2:58 |
-| 71 | [Mujer Infiel](https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:11 |
+| 70 | [Mujer Infiel](https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:11 |
+| 71 | [Pena Por Tí](https://open.spotify.com/track/7fRQxmZcNZEUZJx1dcxWBd) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Pena Por Tí](https://open.spotify.com/album/6u9Gf0TcIxJ4O6D7HzuXsl) | 2:58 |
 | 72 | [Solo Sin Ella](https://open.spotify.com/track/1SEUuVeY2PfXGmr2GKOYVH) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa) | 5:13 |
 | 73 | [Con el Pecho y el Corazon](https://open.spotify.com/track/0TycDAQAhlrHloRKzaqQQD) | [Marino Perez](https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN) | [12 Éxitos](https://open.spotify.com/album/6U9yfJLogNqXP2bce2IW2f) | 2:51 |
 | 74 | [Muchachita Loca](https://open.spotify.com/track/7fvktGeoeOLJH3IBG8Ewlg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Bachata Con Sentimiento](https://open.spotify.com/album/0oqZ34A1hwi7DRdvckzBoY) | 4:03 |
 | 75 | [La Avispa](https://open.spotify.com/track/2qU17itEaJatg5saBg4lm2) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [20/4 Bachata Vol.3](https://open.spotify.com/album/1L0dpFrmLr0D7CDfi48pv9) | 4:26 |
 | 76 | [Ceniza fria](https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Loco De Amor](https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv) | 4:12 |
-| 77 | [Se Fue Mi Amor Bonito](https://open.spotify.com/track/0xdykckHenBXiOxo8jiraJ) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [El Principe de la Bachata: 16 Exitos](https://open.spotify.com/album/4Sfp3zg7sd8sE9f9A5bHeE) | 4:19 |
+| 77 | [Dejame Entrar En Ti](https://open.spotify.com/track/6urIURIjzDvjfSjqFtlunC) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dejame Entrar En Ti](https://open.spotify.com/album/7HJYNuEZ29P4jK806JqkkX) | 3:48 |
 | 78 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
 | 79 | [No la Quiero Ver Con Otro](https://open.spotify.com/track/7MbSL1f89YJGjuRmWLKlhf) | [Marino Perez](https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN) | [Pura Bachata](https://open.spotify.com/album/42r5AIbVielDT0MKt80idK) | 3:04 |
 | 80 | [Amor del Bueno](https://open.spotify.com/track/2egwnJt2bLB7dAtW1t16uD) | [Ramon Cordero](https://open.spotify.com/artist/38F8jWI9OYvjRl9LBTVBzF) | [Vida](https://open.spotify.com/album/3otGSsBAcUPiucY8PMYqZG) | 3:11 |
 | 81 | [Traicionera](https://open.spotify.com/track/28evvLLtLeY1UHHFOFuqSR) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Como Yo](https://open.spotify.com/album/07J3NTX23uaG0HbXkRKNLI) | 3:40 |
 | 82 | [No Le Pare](https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Dobletazo](https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy) | 2:59 |
 | 83 | [Volvió El Dolor](https://open.spotify.com/track/6RtArOmf3kH0Tcj61cDr0r) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Exitos de Luis Vargas](https://open.spotify.com/album/1s9eT7dhLZqwoqhxhEwGQO) | 3:30 |
-| 84 | [Dejame Entrar En Ti](https://open.spotify.com/track/6urIURIjzDvjfSjqFtlunC) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dejame Entrar En Ti](https://open.spotify.com/album/7HJYNuEZ29P4jK806JqkkX) | 3:48 |
+| 84 | [Se Fue Mi Amor Bonito](https://open.spotify.com/track/0xdykckHenBXiOxo8jiraJ) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [El Principe de la Bachata: 16 Exitos](https://open.spotify.com/album/4Sfp3zg7sd8sE9f9A5bHeE) | 4:19 |
 | 85 | [Perdóname](https://open.spotify.com/track/1GBbK7hyxKpYGgT8EHKsRI) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Dos X Uno](https://open.spotify.com/album/0LBbTfP8nGZgc2sWVaxMpb) | 4:14 |
 | 86 | [Mi Secreto](https://open.spotify.com/track/1cRhmp3FdWJCO9pwSlhZJM) | [Leonardo Paniagua](https://open.spotify.com/artist/3Kml6GsFtC3qYpQJLOlt1P) | [Mi Historia Musical](https://open.spotify.com/album/6ulNGwJDbhEeSNkC8e8jSZ) | 4:14 |
 | 87 | [Veneno](https://open.spotify.com/track/4RzETuKgwfpRnUoi0TBZOL) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Volvio el Dolor](https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 99 | [Voy Pa 'lla](https://open.spotify.com/track/7ziYzhR5nL81mx1dEUmXEW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Chupadera](https://open.spotify.com/album/3L8jghUhYnZX453oDWD0cW) | 3:41 |
 | 100 | [Si Tu Cariño No Esta](https://open.spotify.com/track/5xZPOd1s09Kr5VUXRwRKuI) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 4:12 |
 
-Snapshot ID: `MCxlOTg5NDc2NjJkZTZmMTgwZjZiNTM2MGUxNzMyN2JiMTNkNDZmMDA4`
+Snapshot ID: `MCwzZjQyMjE0YzNlOTIyYjQ3Y2NlNDM4OWUwMWE1N2M4MTI0ZGU4OTQw`

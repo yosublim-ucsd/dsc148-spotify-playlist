@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 28064,
+  "num_followers": 28139,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGE2NjgzMDk3MjRhNjhlMTY2NTE2NDE1MDU5ZTg5YjJhZjQ5ZjU5",
+  "snapshot_id": "MCw2YWVhMzQ5NTQ4YTBhNzM5MDgxOTE2YTZlZjBlZTAzYmQyM2E4ODlm",
   "tracks": [
     {
       "added_at": "2023-09-08 08:08:17",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-09-08 08:08:17",
       "album": {
+        "name": "Revolver, Vol. 3 (Compiled)",
+        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 419010,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+    },
+    {
+      "added_at": "2023-09-08 08:08:17",
+      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 284284,
       "name": "Never Thought",
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
-    },
-    {
-      "added_at": "2023-09-08 08:08:17",
-      "album": {
-        "name": "Revolver, Vol. 3 (Compiled)",
-        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 419010,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
       "added_at": "2023-09-08 08:08:17",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-09-08 08:08:17",
       "album": {
+        "name": "Synonymous",
+        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412813,
+      "name": "Synonymous",
+      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
+    },
+    {
+      "added_at": "2023-09-08 08:08:17",
+      "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 387494,
       "name": "To The World",
       "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
-    },
-    {
-      "added_at": "2023-09-08 08:08:17",
-      "album": {
-        "name": "Synonymous",
-        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412813,
-      "name": "Synonymous",
-      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
     },
     {
       "added_at": "2023-09-08 08:08:17",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-09-08 08:08:17",
       "album": {
-        "name": "The Savior",
-        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
-      },
-      "artists": [
-        {
-          "name": "Zhane",
-          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
-        }
-      ],
-      "duration_ms": 411127,
-      "name": "The Savior - Original Mix",
-      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
-    },
-    {
-      "added_at": "2023-09-08 08:08:17",
-      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
+    },
+    {
+      "added_at": "2023-09-08 08:08:17",
+      "album": {
+        "name": "The Savior",
+        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
+      },
+      "artists": [
+        {
+          "name": "Zhane",
+          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
+        }
+      ],
+      "duration_ms": 411127,
+      "name": "The Savior - Original Mix",
+      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
     },
     {
       "added_at": "2023-09-08 08:08:17",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-09-08 08:08:17",
       "album": {
-        "name": "Gambiando Caras",
-        "url": "https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG"
-      },
-      "artists": [
-        {
-          "name": "Sir Vee The Great",
-          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
-        }
-      ],
-      "duration_ms": 435179,
-      "name": "Gambiando Caras",
-      "url": "https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL"
-    },
-    {
-      "added_at": "2023-09-08 08:08:17",
-      "album": {
         "name": "BAUHAUS",
         "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 482979,
       "name": "BAUHAUS",
       "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
+    },
+    {
+      "added_at": "2023-09-08 08:08:17",
+      "album": {
+        "name": "Gambiando Caras",
+        "url": "https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG"
+      },
+      "artists": [
+        {
+          "name": "Sir Vee The Great",
+          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
+        }
+      ],
+      "duration_ms": 435179,
+      "name": "Gambiando Caras",
+      "url": "https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL"
     },
     {
       "added_at": "2023-09-08 08:08:17",

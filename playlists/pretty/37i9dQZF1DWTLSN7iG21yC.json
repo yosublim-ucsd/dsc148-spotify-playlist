@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 937490,
+  "num_followers": 937590,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTA4MzNiYzQwNTdkM2Q0MWQzODVjZmEyY2NlMWYwM2RmNzIzYTE5",
+  "snapshot_id": "MCw4NzMyM2ExZTY5NTFlNjc1ZTFhNGY4NTExMzc5ZWNiY2MxZjYzODY4",
   "tracks": [
     {
       "added_at": "2023-04-14 04:07:54",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "THE END OF EVERYTHING",
+        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -327,22 +343,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "THE END OF EVERYTHING",
-        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
       },
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Next Thing You Know",
-        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Next Thing You Know",
-      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Angel Baby",
         "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Next Thing You Know",
+        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
         "url": "https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 165619,
       "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
       "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "Put Your Records On",
-        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
-      },
-      "artists": [
-        {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
-        }
-      ],
-      "duration_ms": 210463,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "(Un)Commentary",
-        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 164396,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/7JSSJf4TcJDv8KL6UO8FGH"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "chemistry",
         "url": "https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 191007,
       "name": "mine",
       "url": "https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "(Un)Commentary",
+        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 164396,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/7JSSJf4TcJDv8KL6UO8FGH"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1293,26 +1293,6 @@
       "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Be The One (with Khalid)",
-        "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 200814,
-      "name": "Be The One (with Khalid)",
-      "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
-    },
-    {
       "added_at": "2023-04-14 04:07:54",
       "album": {
         "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
@@ -1331,6 +1311,26 @@
       "duration_ms": 237814,
       "name": "You Will Be Found (with Summer Walker) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Be The One (with Khalid)",
+        "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 200814,
+      "name": "Be The One (with Khalid)",
+      "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/1m9aMm03qhLgwJb7SNFhS6"
-      },
-      "artists": [
-        {
-          "name": "David J",
-          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Once",
-      "url": "https://open.spotify.com/track/5SYYZNpzQ42443RzIhqNWG"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "I'll Never Not Love You",
         "url": "https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 218390,
       "name": "I'll Never Not Love You",
       "url": "https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/1m9aMm03qhLgwJb7SNFhS6"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Once",
+      "url": "https://open.spotify.com/track/5SYYZNpzQ42443RzIhqNWG"
     },
     {
       "added_at": "2023-04-14 04:07:54",

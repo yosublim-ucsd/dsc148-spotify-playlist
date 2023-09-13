@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 241029,
+  "num_followers": 241189,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ3NDliZjk0NmQ4MWJmYWE1Mzg0ODczNTg3YWFjYjEyODU2MzU4",
+  "snapshot_id": "MCxmMDg4NGE4MGY2ZWQwNTM0MDg5YzVhZDdhYTgzMTBkN2NiNzk3OGFj",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "rainy evening",
+        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "rainy evening",
-        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
-      },
-      "artists": [
-        {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm"
     },
     {
       "added_at": "2022-02-02 00:21:48",

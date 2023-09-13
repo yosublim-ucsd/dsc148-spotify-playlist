@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 59685,
+  "num_followers": 59823,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWM0MWNlNTljMWIwMjE1Y2IyOWQ2OWNlNTAzNWMzOTQyY2VjZDFm",
+  "snapshot_id": "MCxhNGY0NjM0ZjIwMGVlYTVjMjg1MDE1Njk4ZWYwNzU1NTIxMzdhYmZk",
   "tracks": [
     {
       "added_at": "2023-09-01 07:55:39",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-01 07:55:39",
       "album": {
-        "name": "Oscar Peterson Plays The George Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
-    },
-    {
-      "added_at": "2023-09-01 07:55:39",
-      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 166573,
       "name": "Lover Man (Oh Where Can You Be)",
       "url": "https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn"
+    },
+    {
+      "added_at": "2023-09-01 07:55:39",
+      "album": {
+        "name": "Oscar Peterson Plays The George Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
     },
     {
       "added_at": "2023-09-01 07:55:39",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-09-01 07:55:39",
       "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 331213,
+      "name": "Prelude To A Kiss",
+      "url": "https://open.spotify.com/track/5np8aLrbzZDCHPPXyqNOeb"
+    },
+    {
+      "added_at": "2023-09-01 07:55:39",
+      "album": {
         "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 217960,
       "name": "I Wished On The Moon - Stereo Version",
       "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
-    },
-    {
-      "added_at": "2023-09-01 07:55:39",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 331213,
-      "name": "Prelude To A Kiss",
-      "url": "https://open.spotify.com/track/5np8aLrbzZDCHPPXyqNOeb"
     },
     {
       "added_at": "2023-09-01 07:55:39",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-09-01 07:55:39",
       "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
-    },
-    {
-      "added_at": "2023-09-01 07:55:39",
-      "album": {
         "name": "The Total - Vol. 1",
         "url": "https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 192506,
       "name": "Oh Look At Me Now - Studio",
       "url": "https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56"
+    },
+    {
+      "added_at": "2023-09-01 07:55:39",
+      "album": {
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
     },
     {
       "added_at": "2023-09-01 07:55:39",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-09-01 07:55:39",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 434666,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
-    },
-    {
-      "added_at": "2023-09-01 07:55:39",
-      "album": {
         "name": "Give Him The Ooh-La-La (Expanded Edition)",
         "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 258093,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
+    },
+    {
+      "added_at": "2023-09-01 07:55:39",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 434666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
     },
     {
       "added_at": "2023-09-01 07:55:39",

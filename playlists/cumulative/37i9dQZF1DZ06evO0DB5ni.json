@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 174586,
       "name": "25 De Diciembre",
       "url": "https://open.spotify.com/track/2ZyPDr61OhPbnLp8L9rAjW"
@@ -384,6 +384,42 @@
       "duration_ms": 176280,
       "name": "La Hice Sufrir",
       "url": "https://open.spotify.com/track/4fi5t10Lh945PobS1uwKwK"
+    },
+    {
+      "album": {
+        "name": "Ni Lo Intentes",
+        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "La Mar\u00eda",
+      "url": "https://open.spotify.com/track/5jPprrmhOMek0GlcMMHkda"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3ziPLZjFDBwoMY6ivUwsPN"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181506,
+      "name": "La Ni\u00f1a",
+      "url": "https://open.spotify.com/track/3PSwytUQYruNO9p0VcP0sH"
     },
     {
       "album": {

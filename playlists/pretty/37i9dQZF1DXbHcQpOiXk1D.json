@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 296388,
+  "num_followers": 296455,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTlmZWJmMWVkM2ZiMTgzMGMwY2M0M2U0YWEwMjMwMmY4Nzk1MjYx",
+  "snapshot_id": "MCw1Y2RlYWEyNzRiNGM2MzljNjQ1OGM5MzhiYWI2MTJkZTkxM2IwYjIx",
   "tracks": [
     {
       "added_at": "2023-09-08 10:01:20",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0f9Rw9re4jbEx7vhueDfCt"
+      },
+      "artists": [
+        {
+          "name": "Kay Young",
+          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/1xnarNBibYchqPjKRuwZzO"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
         "name": "Better Worlds",
         "url": "https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC"
       },
@@ -447,24 +463,8 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0f9Rw9re4jbEx7vhueDfCt"
-      },
-      "artists": [
-        {
-          "name": "Kay Young",
-          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
-        }
-      ],
-      "duration_ms": 220204,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/1xnarNBibYchqPjKRuwZzO"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
+        "name": "Everything Is Going to Be OK",
+        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
         }
       ],
-      "duration_ms": 280400,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
+      "duration_ms": 287992,
+      "name": "Everything Is Going to Be OK",
+      "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Calder Shapes",
-        "url": "https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 428653,
-      "name": "Calder Shapes",
-      "url": "https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "Green Grass",
         "url": "https://open.spotify.com/album/75CB1iYaNf6pwIS366jB2o"
       },
@@ -631,8 +615,24 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Everything Is Going to Be OK",
-        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
+        "name": "Calder Shapes",
+        "url": "https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 428653,
+      "name": "Calder Shapes",
+      "url": "https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
         }
       ],
-      "duration_ms": 287992,
-      "name": "Everything Is Going to Be OK",
-      "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
+      "duration_ms": 280400,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -819,22 +819,22 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Woe Is Me",
-        "url": "https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX"
+        "name": "(Why You So) Green With Envy",
+        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
       },
       "artists": [
         {
-          "name": "Kay Young",
-          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
         },
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+          "name": "Oscar #Worldpeace",
+          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
         }
       ],
-      "duration_ms": 220001,
-      "name": "Woe Is Me",
-      "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"
+      "duration_ms": 292306,
+      "name": "(Why You So) Green With Envy",
+      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -855,22 +855,22 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "(Why You So) Green With Envy",
-        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
+        "name": "Woe Is Me",
+        "url": "https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX"
       },
       "artists": [
         {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+          "name": "Kay Young",
+          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
         },
         {
-          "name": "Oscar #Worldpeace",
-          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 292306,
-      "name": "(Why You So) Green With Envy",
-      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
+      "duration_ms": 220001,
+      "name": "Woe Is Me",
+      "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Berlin 1",
-        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 302160,
-      "name": "Berlin 1",
-      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
       },
@@ -1015,22 +999,18 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Chasing Days (Sam Redmore Remix)",
-        "url": "https://open.spotify.com/album/4pSclrufz705aSbj4gASWM"
+        "name": "Berlin 1",
+        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
       },
       "artists": [
         {
-          "name": "Izo FitzRoy",
-          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
-        },
-        {
-          "name": "Sam Redmore",
-          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
         }
       ],
-      "duration_ms": 322812,
-      "name": "Chasing Days - Sam Redmore Remix",
-      "url": "https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26"
+      "duration_ms": 302160,
+      "name": "Berlin 1",
+      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1047,6 +1027,26 @@
       "duration_ms": 233120,
       "name": "The Morning Side of Love",
       "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "Chasing Days (Sam Redmore Remix)",
+        "url": "https://open.spotify.com/album/4pSclrufz705aSbj4gASWM"
+      },
+      "artists": [
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+        },
+        {
+          "name": "Sam Redmore",
+          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
+        }
+      ],
+      "duration_ms": 322812,
+      "name": "Chasing Days - Sam Redmore Remix",
+      "url": "https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 389240,
-      "name": "Feet Down South",
-      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "COME ON NOW",
         "url": "https://open.spotify.com/album/5YiopkfBl8jJzfdSMFbOOs"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
         "name": "Love Theme For Leisure Trip",
         "url": "https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "We Give Thanks",
-      "url": "https://open.spotify.com/track/6FIREyvQivhLO6wQ9BdHwn"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "My Voice",
         "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 271040,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "We Give Thanks",
+      "url": "https://open.spotify.com/track/6FIREyvQivhLO6wQ9BdHwn"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1311,6 +1311,30 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 237507,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
         "name": "Statue",
         "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
       },
@@ -1327,22 +1351,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 308600,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "Lovestruck in London",
         "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
       },
@@ -1355,6 +1363,22 @@
       "duration_ms": 174764,
       "name": "If You Love The Moon",
       "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 308600,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1387,70 +1411,6 @@
       "duration_ms": 213851,
       "name": "Calling",
       "url": "https://open.spotify.com/track/0SlsuBILHxJwfzboGXIufK"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
-        "name": "Miles Chases New Voodoo In The Church",
-        "url": "https://open.spotify.com/album/6mPJCWZ3pbHquYKno7gPB3"
-      },
-      "artists": [
-        {
-          "name": "London Brew",
-          "url": "https://open.spotify.com/artist/6rVN7vMGgDqCGif9EpNpVb"
-        },
-        {
-          "name": "Benji B",
-          "url": "https://open.spotify.com/artist/6NXQ4mx83AZ0y0TZtY6zR9"
-        },
-        {
-          "name": "Raven Bush",
-          "url": "https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs"
-        },
-        {
-          "name": "Theon Cross",
-          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
-        },
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        },
-        {
-          "name": "Tom Herbert",
-          "url": "https://open.spotify.com/artist/08WSyxBEPJgDyOsH8SWpLo"
-        },
-        {
-          "name": "Shabaka Hutchings",
-          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
-        },
-        {
-          "name": "Nikolaj Torp Larsen",
-          "url": "https://open.spotify.com/artist/7B5J73d7YoQmAtSchQKJEt"
-        },
-        {
-          "name": "Dave Okumu",
-          "url": "https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F"
-        },
-        {
-          "name": "Nick Ramm",
-          "url": "https://open.spotify.com/artist/2VqSheffB7Wp1IVCZdIuSL"
-        },
-        {
-          "name": "Dan See",
-          "url": "https://open.spotify.com/artist/3tIBbFxP6udjcNWTn1SMux"
-        },
-        {
-          "name": "Tom Skinner",
-          "url": "https://open.spotify.com/artist/6U9Bsog9PLNE5hrw45ecDm"
-        },
-        {
-          "name": "Martin Terefe",
-          "url": "https://open.spotify.com/artist/68KMyINYSK8zqckysgy4OR"
-        }
-      ],
-      "duration_ms": 194614,
-      "name": "Miles Chases New Voodoo In The Church - Single Edit",
-      "url": "https://open.spotify.com/track/6yRAQX1d91AQEcwwYXsCfb"
     }
   ],
   "unique_name": "Jazz UK",

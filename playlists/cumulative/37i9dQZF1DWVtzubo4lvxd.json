@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 143132,
       "name": "Again",
       "url": "https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-13",
       "duration_ms": 84023,
       "name": "crush on you",
       "url": "https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6"
@@ -2143,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "lovesick",
+        "url": "https://open.spotify.com/album/1ZRikNtTTBJMiRQVEerTPG"
+      },
+      "artists": [
+        {
+          "name": "Strafend",
+          "url": "https://open.spotify.com/artist/1kSOJRjwflnuMaLL7EqXNF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150221,
+      "name": "lovesick",
+      "url": "https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy"
+    },
+    {
+      "album": {
         "name": "Lovin",
         "url": "https://open.spotify.com/album/43Xii5zJortumLhRXjwh1g"
       },
@@ -2488,7 +2506,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 88229,
       "name": "no shame in my game.",
       "url": "https://open.spotify.com/track/0xsA09gqvqDx5P9Ytw94Cs"

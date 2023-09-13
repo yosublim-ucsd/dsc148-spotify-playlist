@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,746 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,800 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 23 | [E\-Flat Flyer](https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG) | [Luca Sestak](https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ) | [Lost in Boogie](https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK) | 3:32 |
 | 24 | [Mac's Boogie](https://open.spotify.com/track/6tH4egDSg8ozs54aPAD4Uw) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Dr\. John Plays Mac Rebennack The Legendary Sessions V\. 1](https://open.spotify.com/album/6pqnO3wDzP4fdXWbK9KaaL) | 4:01 |
 | 25 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
-| 26 | [Later Alligator \(See You Later, Alligator\)](https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu) | [Bobby Charles](https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1) | [See You Later, Alligator](https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s) | 3:45 |
-| 27 | [Boogie Woogie Baby](https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Blues Kingpin](https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3) | 2:19 |
-| 28 | [Blue Lamp](https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 3:01 |
-| 29 | [Hastings Street](https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Presenting Blind Blake](https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd) | 3:10 |
+| 26 | [Boogie Woogie Baby](https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Blues Kingpin](https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3) | 2:19 |
+| 27 | [Later Alligator \(See You Later, Alligator\)](https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu) | [Bobby Charles](https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1) | [See You Later, Alligator](https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s) | 3:45 |
+| 28 | [Hastings Street](https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Presenting Blind Blake](https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd) | 3:10 |
+| 29 | [Blue Lamp](https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 3:01 |
 | 30 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
 | 31 | [Let Me Go Home, Whiskey](https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:49 |
 | 32 | [Choo Choo Ch' Boogie](https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Stop Rockin' That Train](https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl) | 2:43 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 40 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 |
 | 41 | [C\-Jam Boogie](https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 3:37 |
 | 42 | [Caroline's Boogie](https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:21 |
-| 43 | [Jessie's Boogie Woogie](https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu) | [Preacher Jack](https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn) | [Return Of The Boogie Man](https://open.spotify.com/album/15eemntusUQL8JekIGa6KU) | 2:57 |
-| 44 | [Laci's Boogie](https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR) | [Luca Sestak](https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ) | [New Way](https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8) | 5:32 |
+| 43 | [Laci's Boogie](https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR) | [Luca Sestak](https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ) | [New Way](https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8) | 5:32 |
+| 44 | [Jessie's Boogie Woogie](https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu) | [Preacher Jack](https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn) | [Return Of The Boogie Man](https://open.spotify.com/album/15eemntusUQL8JekIGa6KU) | 2:57 |
 | 45 | [Five Stacked High](https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:14 |
 | 46 | [Boogie Woogie Country Girl](https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Greatest Hits](https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE) | 2:41 |
 | 47 | [Dollar Bill Boogie](https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA) | [Big Joe Duskin](https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB) | [Cincinnati Stomp](https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz) | 2:26 |
-| 48 | [Killer Miller](https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD) | [Battin' The Boogie](https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6) | 2:21 |
-| 49 | [Quarter Bass Boogie](https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet) | [Rob Rio](https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K) | [Omniboogie 2012](https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9) | 1:55 |
+| 48 | [Quarter Bass Boogie](https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet) | [Rob Rio](https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K) | [Omniboogie 2012](https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9) | 1:55 |
+| 49 | [Killer Miller](https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD) | [Battin' The Boogie](https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6) | 2:21 |
 | 50 | [Boogie Stomp](https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp) | [Bob Seeley](https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r), [Bob Baldori](https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W) | [Boogie Stomp](https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8) | 4:47 |
 | 51 | [A Boogie Woogie Sunday](https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | ["Devil Digit Boogie Woogie"](https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe) | 3:22 |
 | 52 | [Boogie Woogie \- Mono](https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 74 | [Bongo Boogie](https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj) | [Anisteen Allen](https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:40 |
 | 75 | [State Street Jive](https://open.spotify.com/track/2SDm7Yn0uWuiimKzFpnoEW) | [Charles "Cow Cow" Davenport](https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd), [Ivy Smith](https://open.spotify.com/artist/3Cn3MlNoC7D2vHMvjJgV2Y) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 3:01 |
 
-Snapshot ID: `MCwxMmRlMWMxOWMxMWRkNmY5YmY4ZmQ3ZjA2MzdlNTFkMThhMWIzNjc1`
+Snapshot ID: `MCxkNDI0NzgyNGNkNDZkY2RkZWUxMjNkOGI4ZTRhNTA4NDhkZGU5NTdk`

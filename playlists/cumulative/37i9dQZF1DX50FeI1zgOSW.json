@@ -2181,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Piriyaadhe",
+        "url": "https://open.spotify.com/album/6kQd4SMnVuHWvQ0XMRFiWh"
+      },
+      "artists": [
+        {
+          "name": "John Kennady",
+          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87012,
+      "name": "Piriyaadhe",
+      "url": "https://open.spotify.com/track/2sPa31owePFGZi8je18YkE"
+    },
+    {
+      "album": {
         "name": "Poidhana",
         "url": "https://open.spotify.com/album/2vGdxvemzIKac1YXhLoEFP"
       },
