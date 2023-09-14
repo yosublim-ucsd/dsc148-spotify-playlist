@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Noah Gundersen
 
-1,464 songs - 3 day 17 hr 43 min
+1,465 songs - 3 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1091,7 +1091,8 @@
 | [Something About What Happens When We Talk](https://open.spotify.com/track/3UHWekceJvs3fvvFxKeLtU) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Something About What Happens When We Talk](https://open.spotify.com/album/1N7DJFOtSYiQEY4GfFYYH3) | 3:40 | 2022-08-12 | 2023-01-28 |
 | [Something More Than Love](https://open.spotify.com/track/2bIWLdHHgxq8ZkAQJJVLot) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Something More Than Love](https://open.spotify.com/album/444uQJkRb7F5u4sOOb9xSX) | 3:07 | 2022-05-13 | 2022-07-16 |
 | [song about the family house](https://open.spotify.com/track/0HyomNQ2XUVRN3B3UTr1VR) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [song about the family house](https://open.spotify.com/album/2wmMHNLJz0JqdNw8lJ7ypK) | 3:56 | 2023-01-13 | 2023-04-29 |
-| [Song for a Lover \- of Long Ago](https://open.spotify.com/track/0dpBerJc0WgrXitneMnKXo) | [DeYarmond Edison](https://open.spotify.com/artist/6arKuGbH3PuYfGN6yJ7RA9) | [Epoch b/w Song for a Lover \(of Long Ago\)](https://open.spotify.com/album/2sdOrVDwNWeKfj2IGUZQQO) | 5:45 | 2023-08-18 |  |
+| [Song for a Lover \- of Long Ago](https://open.spotify.com/track/0dpBerJc0WgrXitneMnKXo) | [DeYarmond Edison](https://open.spotify.com/artist/6arKuGbH3PuYfGN6yJ7RA9) | [Epoch b/w Song for a Lover \(of Long Ago\)](https://open.spotify.com/album/2sdOrVDwNWeKfj2IGUZQQO) | 5:45 | 2023-08-18 | 2023-09-14 |
+| [Song for a Lover \- of Long Ago](https://open.spotify.com/track/5Yvoq61AoAEfoQTN75x8kE) | [DeYarmond Edison](https://open.spotify.com/artist/6arKuGbH3PuYfGN6yJ7RA9) | [Epoch](https://open.spotify.com/album/5JaZnV5jHxENVReBFflODn) | 5:45 | 2023-09-08 |  |
 | [Song for No One](https://open.spotify.com/track/4kcsFSmFyzga8vopTqLKpK) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Song for No One](https://open.spotify.com/album/0Fi8oyNQ36NmUiVln8CV29) | 3:36 | 2022-12-02 | 2023-03-04 |
 | [Song Of The Seasons](https://open.spotify.com/track/3gpBqSisvVunnognY1GRuP) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Barn](https://open.spotify.com/album/7vlrGBbvKz2tZmVqAxK5ec) | 6:04 | 2021-12-03 | 2022-02-08 |
 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 | 2022-08-12 | 2023-02-04 |

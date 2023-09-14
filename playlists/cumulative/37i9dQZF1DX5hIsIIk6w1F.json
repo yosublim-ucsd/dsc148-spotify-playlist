@@ -3784,6 +3784,28 @@
     {
       "album": {
         "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/1bkxTSDQ2rilOXXi2rys5X"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192862,
+      "name": "Gucci en Paris",
+      "url": "https://open.spotify.com/track/2dxtHF3T1jTNrDUB0t5bVp"
+    },
+    {
+      "album": {
+        "name": "Welcome To My World",
         "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
       },
       "artists": [
@@ -3798,7 +3820,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 192862,
       "name": "Gucci en Paris",
       "url": "https://open.spotify.com/track/3JUpnvc3AEe7elz8YkgV3M"

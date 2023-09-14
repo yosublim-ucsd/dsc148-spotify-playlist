@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Young K) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 222855,
+  "num_followers": 223002,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGRjNWI2ZGM2N2I2OWIyZTg2ZWIwNzkxYzcwMTEwZGJmMTEwZjE0",
+  "snapshot_id": "MCwzODMzOGEwMThkMTRlMDhkYmFmMGFlNDE2MzQyMDc3OWQ3ZTRlM2M5",
   "tracks": [
     {
       "added_at": "2023-09-08 09:04:21",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-09-08 09:04:21",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
-    },
-    {
-      "added_at": "2023-09-08 09:04:21",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 205386,
       "name": "Don't (feat. RM)",
       "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
+    },
+    {
+      "added_at": "2023-09-08 09:04:21",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
     },
     {
       "added_at": "2023-09-08 09:04:21",

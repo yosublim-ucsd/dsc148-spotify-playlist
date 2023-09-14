@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: SMILE, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Uche Yara, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
+    {
+      "album": {
+        "name": "14. Stock",
+        "url": "https://open.spotify.com/album/6hYmjAfCwpsxdq81K0ytMN"
+      },
+      "artists": [
+        {
+          "name": "Jona Straub",
+          "url": "https://open.spotify.com/artist/42mdVKdNJDsmQasPjTqVao"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154620,
+      "name": "14. Stock",
+      "url": "https://open.spotify.com/track/6f77E75f6dwDzT6o4zXaYv"
+    },
     {
       "album": {
         "name": "Fadeout",
@@ -301,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Maktub",
+        "url": "https://open.spotify.com/album/0UOf5Q11t1MGQ0TA0yIbfh"
+      },
+      "artists": [
+        {
+          "name": "BASHKKA",
+          "url": "https://open.spotify.com/artist/5ofWf87ImDZQO2KzwdlPSw"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287775,
+      "name": "Act Bad",
+      "url": "https://open.spotify.com/track/0ZZNZF3dZOtomDZiZLaMA7"
+    },
+    {
+      "album": {
         "name": "Against Water",
         "url": "https://open.spotify.com/album/7DnraLVsCKEXtCAvuoJ95e"
       },
@@ -442,7 +478,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 154363,
       "name": "Alien",
       "url": "https://open.spotify.com/track/7k5eQ3SBzCE9xlahpbOdrM"
@@ -2384,7 +2420,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 206694,
       "name": "Busy Overthinking",
       "url": "https://open.spotify.com/track/6iHnOivqyolVuAeR576xBI"
@@ -2406,6 +2442,24 @@
       "duration_ms": 186403,
       "name": "By the Sea",
       "url": "https://open.spotify.com/track/3HsUSsTHJS6Xt1ZVrUM9DM"
+    },
+    {
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/0ThgpnHwp5cejxZLmFgHUv"
+      },
+      "artists": [
+        {
+          "name": "Leona Shijaku",
+          "url": "https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148387,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/4voW9PvdPMb9rdbMCycnrb"
     },
     {
       "album": {
@@ -4615,6 +4669,24 @@
     },
     {
       "album": {
+        "name": "Es geht mir gut",
+        "url": "https://open.spotify.com/album/63OY0mZPBmJo4Mw3qRKwUk"
+      },
+      "artists": [
+        {
+          "name": "IMMER WIEDER WIRSING",
+          "url": "https://open.spotify.com/artist/3zyNlIF9YVsxpAfFPl0fj9"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206293,
+      "name": "Es geht mir gut",
+      "url": "https://open.spotify.com/track/1urzJp8Pw15po84Bh1x4Nh"
+    },
+    {
+      "album": {
         "name": "es ist sp\u00e4t",
         "url": "https://open.spotify.com/album/4kiJxNQKvKzuClgBAbHcdW"
       },
@@ -5042,7 +5114,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 235754,
       "name": "Feuer in mir",
       "url": "https://open.spotify.com/track/1fuIPxrQgkQMG1EGaYGXsS"
@@ -5064,6 +5136,24 @@
       "duration_ms": 200527,
       "name": "Fick dich hart",
       "url": "https://open.spotify.com/track/6FaGiO9VON1SbPcrk4NNCb"
+    },
+    {
+      "album": {
+        "name": "Spider Trap",
+        "url": "https://open.spotify.com/album/6SlglDnx5zzepWlRmKM7Iw"
+      },
+      "artists": [
+        {
+          "name": "Maia Luker",
+          "url": "https://open.spotify.com/artist/0B8dISQyguiqoXDkLpgZcl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235988,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/5AuIvAvTTZNS8qruiFwmTu"
     },
     {
       "album": {
@@ -7018,7 +7108,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 190162,
       "name": "I Don't Like London",
       "url": "https://open.spotify.com/track/2vPTshC5WASIhCUwJhmPU9"
@@ -7220,7 +7310,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 154965,
       "name": "i will be better the next time i see you",
       "url": "https://open.spotify.com/track/7preZ2Xe57JYFqRCWSVxna"
@@ -7642,7 +7732,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 189056,
       "name": "Insufficiently Prepared",
       "url": "https://open.spotify.com/track/75VAGomv5xDlfe3QC6ckSP"
@@ -8060,7 +8150,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 226658,
       "name": "Keine Bewegung",
       "url": "https://open.spotify.com/track/50CELGRHg9DlDXIRXjykxt"
@@ -8984,6 +9074,24 @@
       "duration_ms": 257165,
       "name": "Love No Matter What",
       "url": "https://open.spotify.com/track/3qxO0Z9BUgFQJSiepeipts"
+    },
+    {
+      "album": {
+        "name": "Love the game",
+        "url": "https://open.spotify.com/album/7mE7fQb7p35DLUTSfWeVQc"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161409,
+      "name": "Love the game",
+      "url": "https://open.spotify.com/track/0vdawkR50QbBBvYuJs3vGt"
     },
     {
       "album": {
@@ -10988,6 +11096,24 @@
       "duration_ms": 130750,
       "name": "Phase",
       "url": "https://open.spotify.com/track/6PLVJHVt6PlQrIo09sAyut"
+    },
+    {
+      "album": {
+        "name": "Ping Pong",
+        "url": "https://open.spotify.com/album/3AlEafC9LBg6pmptmNTqDZ"
+      },
+      "artists": [
+        {
+          "name": "Mile",
+          "url": "https://open.spotify.com/artist/5Xv9DcHwQFBYVMnSKcX1JG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208119,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/7u2vG9dSC949AhtM7Sns08"
     },
     {
       "album": {
@@ -13235,6 +13361,24 @@
     },
     {
       "album": {
+        "name": "Stau Calm\u0103",
+        "url": "https://open.spotify.com/album/62UErkgLnzk82EefSasoRq"
+      },
+      "artists": [
+        {
+          "name": "Lucia Hera",
+          "url": "https://open.spotify.com/artist/5RiIugOXVp0f1DyMdMpfZ7"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207366,
+      "name": "Stau Calm\u0103",
+      "url": "https://open.spotify.com/track/4sFuAg4kS11iFPnswqmofQ"
+    },
+    {
+      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/6ddPPaBQlWyqMlAJK1SWOU"
       },
@@ -13823,6 +13967,24 @@
     },
     {
       "album": {
+        "name": "Tesa",
+        "url": "https://open.spotify.com/album/72X3f8ElfIc5HCUWYINQro"
+      },
+      "artists": [
+        {
+          "name": "Einsneunzig",
+          "url": "https://open.spotify.com/artist/6JPrJGQR4q4EbIWkGWxLZt"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201469,
+      "name": "Tesa",
+      "url": "https://open.spotify.com/track/5taeIR1mGmEgBWbXEcYWBY"
+    },
+    {
+      "album": {
         "name": "The Bakery",
         "url": "https://open.spotify.com/album/1eLHYmTJ3OofmMADyI59A4"
       },
@@ -14184,7 +14346,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 269428,
       "name": "Timeshift",
       "url": "https://open.spotify.com/track/0FKXPAV9mtvWDwdkEbuqOW"
@@ -14224,7 +14386,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 131047,
       "name": "Tired",
       "url": "https://open.spotify.com/track/39OLKv0t5sBBoOCjbNwfFb"
@@ -15992,10 +16154,28 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 206894,
       "name": "Wrong With It",
       "url": "https://open.spotify.com/track/6OgIq8VLvlv9lJlu8eK8ug"
+    },
+    {
+      "album": {
+        "name": "www she hot",
+        "url": "https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "www she hot",
+      "url": "https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH"
     },
     {
       "album": {

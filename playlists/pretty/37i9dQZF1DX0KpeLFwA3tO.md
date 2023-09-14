@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Hawthorne Heights
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,186 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,307 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 59 | [The Sign](https://open.spotify.com/track/5b6b2gdoMZHOfSfdO3LOad) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Future Of Illusion](https://open.spotify.com/album/1vRxwEsUAe29qiw7TXFzO4) | 2:22 |
 | 60 | [Halfway](https://open.spotify.com/track/5Elhn0sv6jPtyaBxXwHYDM) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Halfway](https://open.spotify.com/album/5mAmP7fI9tN4hokOx94sxc) | 2:29 |
 | 61 | [Modern Vanity](https://open.spotify.com/track/6DLYYSwlzBms2L4Dqc3gEV) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Perfect Saviors](https://open.spotify.com/album/2QOtRB75B25O7pn6fAd3o9) | 3:48 |
-| 62 | [Breathing](https://open.spotify.com/track/1VVeFLlYZRLwNPCelUUJyM) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [MoonEater](https://open.spotify.com/album/77lFAgPHlv1lzlgVpUevVK) | 3:04 |
+| 62 | [Breathing](https://open.spotify.com/track/1VVeFLlYZRLwNPCelUUJyM) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [MoonEater](https://open.spotify.com/album/77lFAgPHlv1lzlgVpUevVK) | 3:03 |
 | 63 | [Ur Ex Gf](https://open.spotify.com/track/26EOid1qUGg1uApT705Swf) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Ur Ex Gf](https://open.spotify.com/album/2npT9vsQvViYBMMNKh8BPv) | 3:08 |
 | 64 | [Lonely Together](https://open.spotify.com/track/5OcPfwCFJ5WDIywu4fZ1Jp) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Lonely Together](https://open.spotify.com/album/1tVvVpUuYQtHVNzWueWKPr) | 3:34 |
 | 65 | [Anemia](https://open.spotify.com/track/1TfGgQOfUUc0EpRqAkMykU) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Anemia](https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu) | 3:56 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 100 | [LIES](https://open.spotify.com/track/2QrUWzndXheW05HL6boFny) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [LIES](https://open.spotify.com/album/0ZknFIPfCdZgKAAvzSVgaQ) | 3:32 |
 | 101 | [Lovely Murk](https://open.spotify.com/track/2BYJiIQwds17fOiTtecQbt) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1), [Lingua Ignota](https://open.spotify.com/artist/3Q2RrKEOBdkWI2MJQgdt84) | [Love's Holiday](https://open.spotify.com/album/1l2DnEVEFSC5NcDzLurPg2) | 5:15 |
 
-Snapshot ID: `MCxhZTcyZTE4MzMyNzUyOGZiNWMzZDlhMTQ5MmExZjIyMmYzZDAxZTMx`
+Snapshot ID: `MCw2ODhlNjllMDY5MDJmMWMwZGEwMzU5MWM3MTA4OWFmNTkzMWQ1ZGM0`

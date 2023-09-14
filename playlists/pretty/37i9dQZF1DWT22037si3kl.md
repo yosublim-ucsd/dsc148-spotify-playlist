@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Fúria
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,636 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,692 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Celine \(Vestidin\)](https://open.spotify.com/track/2nzcvQ0FFdGvhQHVqtveix) | [Yamzin](https://open.spotify.com/artist/4QrqFit0q3dYCEKRklxOud), [Mal Beats](https://open.spotify.com/artist/1wYc612FBSvRvjrSd6vgUy) | [Celine \(Vestidin\)](https://open.spotify.com/album/0VnmZT3UScDREI1NuB6nDQ) | 3:01 |
 | 50 | [CAIXA DE PANDORA](https://open.spotify.com/track/6ZaUGENItZhXBsNh3AVg2C) | [Verve](https://open.spotify.com/artist/53rqQcLIWERwlPaodqOENj), [Abel](https://open.spotify.com/artist/3x7CEY7CvKZDeVLJ3XGiBw), [big silva](https://open.spotify.com/artist/4tdh6CQGlMQpwxzptw81ZZ), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [CRIME](https://open.spotify.com/album/3vzgzxt451KbKjSjCc0T4l) | 2:18 |
 
-Snapshot ID: `MCwzZWQxMDcwMDUxYmY1ZTljYzY1ZDRhZTExNTQ1MmJmZjdjYzQ1YWM4`
+Snapshot ID: `MCwxMmU3NTQ3MDM0NWY2OTQ0M2RjZWZmZWQ5MDhlNTU1YWFmMmEwZDM4`

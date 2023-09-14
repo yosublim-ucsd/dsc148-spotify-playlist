@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Suzan & Freek en Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,361 likes - 96 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,374 likes - 96 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 13 | [Sit Down](https://open.spotify.com/track/3ctYEPEXxRaloC9MXbPHxK) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Sit Down](https://open.spotify.com/album/1uF4k4V0tcqaYkbj4qQZdm) | 4:24 |
 | 14 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 |
 | 15 | [Kapitein](https://open.spotify.com/track/39lfuCGvxLUu5zIx5C9Y1C) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Kapitein](https://open.spotify.com/album/5Dz5CfH58kYE9nAwNwiFH3) | 3:14 |
-| 16 | [You and I](https://open.spotify.com/track/6XXSyQ7oyblFvOrx6lLA7j) | [Jeriel](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN) | [You and I](https://open.spotify.com/album/1I3wKoVk918S6AYkqyYpy3) | 2:25 |
+| 16 | [You and I](https://open.spotify.com/track/6XXSyQ7oyblFvOrx6lLA7j) | [Jeriel](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [You and I](https://open.spotify.com/album/1I3wKoVk918S6AYkqyYpy3) | 2:25 |
 | 17 | [Not Scared Anymore](https://open.spotify.com/track/55dQwii8sIpOsZqktTfgYN) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Not Scared Anymore](https://open.spotify.com/album/0L5BvSVDRn4NQ2yDgQs4Sv) | 2:49 |
 | 18 | [Sbabi](https://open.spotify.com/track/7ptXsiOZ38WKdOiWjj4Va6) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Sbabi](https://open.spotify.com/album/4tunxQYd61Q41HQjo0qbc3) | 3:14 |
 | 19 | [Get Back](https://open.spotify.com/track/3jGPRb14PYAd2z5LdDKWOT) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Get Back](https://open.spotify.com/album/32yHwQxvperyBm2cpTanmP) | 3:29 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 95 | [Push Away](https://open.spotify.com/track/3Gu05tamNHX02lvRjFJN8w) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Push Away](https://open.spotify.com/album/0oe3obymHRQJktSEwneMzf) | 2:46 |
 | 96 | [God Couldn't Save The Queen](https://open.spotify.com/track/043e0nbJwyhmUDzrGArGHU) | [Subterranean Street Society](https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe) | [God Couldn't Save The Queen](https://open.spotify.com/album/7iJXnDBAlVkoUZJuwKSi7y) | 3:24 |
 
-Snapshot ID: `MCxkYjFmNTdlYmZhNTljZTc1ZmFhNmEwNjc0ZTFjZDlkN2IxYjgyODdj`
+Snapshot ID: `MCw5ZmEyZWRhYjVjMDBhYjc3YTg2YzkzMjkxODFjODQ5NWVlZTk3MTE5`

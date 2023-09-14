@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Lamp",
+        "url": "https://open.spotify.com/album/4B0JbnimIGL9UtO5Z3t0Ro"
+      },
+      "artists": [
+        {
+          "name": "GLASGOW",
+          "url": "https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "Lamp",
+      "url": "https://open.spotify.com/track/1K9F6b0vDjtKkmpmW1Ub4E"
+    },
+    {
+      "album": {
         "name": "ugly beauty",
         "url": "https://open.spotify.com/album/28sDeJjrMZ6TmwiZQCJ0wY"
       },
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 264640,
       "name": "Life Is Good",
       "url": "https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO"
@@ -1337,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "From",
+        "url": "https://open.spotify.com/album/2a7Tzc0CAQZ7qlu1tckSgV"
+      },
+      "artists": [
+        {
+          "name": "\u9244\u98a8\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348013,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/42oS8MbMLfYeqEIoAM7MIC"
+    },
+    {
+      "album": {
         "name": "WARUNORI",
         "url": "https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz"
       },
@@ -1409,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "World",
+        "url": "https://open.spotify.com/album/4V3O2wtO7fxDya4N9fUTfs"
+      },
+      "artists": [
+        {
+          "name": "reGretGirl",
+          "url": "https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "World",
+      "url": "https://open.spotify.com/track/4tlQi52xM8WIYHqraq5ALR"
+    },
+    {
+      "album": {
         "name": "Yakouressha",
         "url": "https://open.spotify.com/album/07JIJHyhNXNNIBiv9I09dq"
       },
@@ -1460,6 +1514,24 @@
       "duration_ms": 229000,
       "name": "YOUTH OF EDGE",
       "url": "https://open.spotify.com/track/3oHj3opkJTEfywxvCqQuUM"
+    },
+    {
+      "album": {
+        "name": "YU",
+        "url": "https://open.spotify.com/album/2WHt3FohJe8cnscWRfhUMw"
+      },
+      "artists": [
+        {
+          "name": "ROMANKAKUMEI",
+          "url": "https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173345,
+      "name": "YU",
+      "url": "https://open.spotify.com/track/41iVJ4DksVPfEINoDKtMhf"
     },
     {
       "album": {
@@ -1672,7 +1744,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 176426,
       "name": "\u3068\u3082\u3057\u3073",
       "url": "https://open.spotify.com/track/1gvYywLpjLo15PWI4KL27Q"
@@ -1762,7 +1834,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 173345,
       "name": "\u3086",
       "url": "https://open.spotify.com/track/2W7vjjKEHsJwEHGNtjcFuF"
@@ -2320,7 +2392,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 152199,
       "name": "\u30e1\u30bf\u30e2\u30eb\u30d5\u30a9\u30fc\u30bc",
       "url": "https://open.spotify.com/track/5WkN8jPH9tvTjRDqYOdufM"
@@ -2446,7 +2518,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 257000,
       "name": "\u30ef\u30fc\u30eb\u30c9",
       "url": "https://open.spotify.com/track/2l7xrbWYunR98alxyRjlZw"
@@ -3094,7 +3166,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 348013,
       "name": "\u6771\u4eac",
       "url": "https://open.spotify.com/track/4c9DOWDaboQ7x3qyHU8q0G"

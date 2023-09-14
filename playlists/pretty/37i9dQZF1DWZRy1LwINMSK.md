@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,418 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,562 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [Aborrecio](https://open.spotify.com/track/3ADriUpeN2lGE8tfcAr1oP) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Nikxz](https://open.spotify.com/artist/1hQJhlI1r2oa893f8N6wcg) | [Aborrecio](https://open.spotify.com/album/3mvr64wBs7lsr2jwzwlWKR) | 4:02 |
 | 100 | [AKRI TU ERE UN XULO](https://open.spotify.com/track/6eAB8tVW7rhRgggH472v9U) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 2:26 |
 
-Snapshot ID: `MCwwMTAwOTU2YjZiZmZjNjhmNWFmOWY4ZDg0Y2VkNWZmMmE0OTc4Yzdm`
+Snapshot ID: `MCwzNjFhNjU2M2QwNTQ2YzBlYzViMDY0YjhiYzdkYjlkYjY0N2U3OTIw`

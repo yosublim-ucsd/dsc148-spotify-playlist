@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,286 songs - 2 day 21 hr 50 min
+1,287 songs - 2 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,7 +655,8 @@
 | [Lionheart](https://open.spotify.com/track/77Qfjt0NgIy9XgpDF18bo0) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ) | [Lionheart](https://open.spotify.com/album/5bUjCDMSiuhZDEYZdjJOSa) | 2:42 | 2020-07-03 | 2020-09-15 |
 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 | 2022-10-28 |  |
 | [Listen To Your Momma](https://open.spotify.com/track/23rXVU6Mi3o0WOw7JZL8sk) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Leon Sherman](https://open.spotify.com/artist/1nT3e90Vy26Di8uY4O0256) | [Listen To Your Momma](https://open.spotify.com/album/0U6ZnZG8Mc7CIgoo8HMNF2) | 3:54 | 2019-07-09 | 2020-05-13 |
-| [Little Girl Gone](https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I) | 3:08 | 2023-07-21 |  |
+| [Little Girl Gone](https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP) | 3:08 | 2023-09-01 |  |
+| [Little Girl Gone](https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I) | 3:08 | 2023-07-21 | 2023-09-14 |
 | [Live Off My Closet \(feat\. Future\)](https://open.spotify.com/track/6AyWdCtEn1DdxjnxPeojR2) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:53 | 2020-03-28 | 2020-03-29 |
 | [LOCATION](https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LOCATION](https://open.spotify.com/album/4ipeZHF3UKl2AKFqDhBCXR) | 4:25 | 2021-03-09 | 2021-03-24 |
 | [Lockdown](https://open.spotify.com/track/4TPqMpy846cmD9hTbCnfKu) | [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v), [A Plus](https://open.spotify.com/artist/2C2LKQdxVAN9tS894Vx0P1) | [Lockdown](https://open.spotify.com/album/1URc0VaTzXSYvl3C76qdKp) | 3:51 | 2020-07-03 | 2020-09-15 |

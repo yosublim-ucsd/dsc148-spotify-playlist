@@ -4,7 +4,7 @@
 
 > Groove to the rhythm of OPM's R&B tunes\. Cover: DENȲ
 
-147 songs - 8 hr 40 min
+148 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Di Na Babalik](https://open.spotify.com/track/0Gt84LW4Ec1ptxIQiIJY3N) | [yshy](https://open.spotify.com/artist/5DKxABYbjG07LuQ929VRST), [Limpo](https://open.spotify.com/artist/5pRXGrEPlgwQLEKeO2NQhp) | [Di Na Babalik](https://open.spotify.com/album/5RAmV5jGpAZTz99u1sVIJM) | 3:51 | 2023-09-06 |  |
 | [Did You Find It?](https://open.spotify.com/track/4PhW0Z9U99NPtPDT8Y8uhC) | [Miguel Abella](https://open.spotify.com/artist/7gStcwSNzziJ8QL0QswaXd) | [Did You Find It?](https://open.spotify.com/album/53drB90hiqveZhAeUsRah5) | 3:25 | 2023-06-13 |  |
 | [Diggin On You](https://open.spotify.com/track/1U3eywESMeRvn6OSdh5HzU) | [Kiddo Chris](https://open.spotify.com/artist/4ZO0HvlndussEIrQsozD2G) | [Diggin On You](https://open.spotify.com/album/4nt0w0fvGSRWIIawUbeC1J) | 2:54 | 2022-12-14 | 2023-09-07 |
+| [DKL](https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha) | [MYR](https://open.spotify.com/artist/260WCUxqybRg1I8Dh2JcUY) | [DKL](https://open.spotify.com/album/3mMNDqFmww0WMzYPS5zGJT) | 3:10 | 2023-09-13 |  |
 | [Drunk](https://open.spotify.com/track/3oF6MdGHiwi1okqanYETU8) | [Pisces.MN](https://open.spotify.com/artist/38Xmv6NoOX157hPeH5Tzsh), [David Daliva](https://open.spotify.com/artist/4O82yAA1c1eHsb0swmwxCp) | [Drunk](https://open.spotify.com/album/10JVIHH4p8FqDMfVPjTrpo) | 3:17 | 2022-10-12 | 2023-05-18 |
 | [Drunk Call](https://open.spotify.com/track/7wd49balhpP4KQVUh62jJt) | [Exiz](https://open.spotify.com/artist/27Sc6OmJmvUzQMr1Jg3mIi), [Zo zo](https://open.spotify.com/artist/1UR0AuHJ2rt4Vl0RPLAS1R) | [Drunk Call](https://open.spotify.com/album/2isFpaRXWqu8wJeWCQpcec) | 2:49 | 2022-10-12 | 2023-07-29 |
 | [Fallin](https://open.spotify.com/track/064sICng1UknPZvos5SLNs) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Fallin](https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21) | 2:51 | 2023-07-13 |  |

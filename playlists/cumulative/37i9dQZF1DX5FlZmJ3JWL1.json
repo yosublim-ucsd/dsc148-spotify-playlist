@@ -788,7 +788,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 167460,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb"
@@ -1030,6 +1030,24 @@
       "duration_ms": 154176,
       "name": "U Ok?",
       "url": "https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB"
+    },
+    {
+      "album": {
+        "name": "Voyage Voyage",
+        "url": "https://open.spotify.com/album/6DEDaISN74TGnW8nZfGHAY"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144461,
+      "name": "Voyage Voyage",
+      "url": "https://open.spotify.com/track/5ylF9jv5gKpPNXuhAuBwol"
     },
     {
       "album": {

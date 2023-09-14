@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1408,
+  "num_followers": 1420,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGFmNTIxNDRjNzE4OGU1MzdhODI5OTZmZDQ5ZGM4N2MxNmQ3Yzc5",
+  "snapshot_id": "MCw4YjFiNmIxNDQ4MGFlODc0OTFmZGQwNGJlMDA2ZTdmYTcxNDdlYWJh",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -163,26 +163,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Trottinette",
-        "url": "https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z"
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
       },
       "artists": [
         {
-          "name": "P.L.L",
-          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
-        },
-        {
-          "name": "Abdoul",
-          "url": "https://open.spotify.com/artist/23IOAUeDv9mxdPgXvGW8ES"
-        },
-        {
-          "name": "DJ SEBB",
-          "url": "https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF"
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
         }
       ],
-      "duration_ms": 184800,
-      "name": "Trottinette",
-      "url": "https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC"
+      "duration_ms": 209128,
+      "name": "Longanis",
+      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -203,18 +195,26 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+        "name": "Trottinette",
+        "url": "https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z"
       },
       "artists": [
         {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+          "name": "P.L.L",
+          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
+        },
+        {
+          "name": "Abdoul",
+          "url": "https://open.spotify.com/artist/23IOAUeDv9mxdPgXvGW8ES"
+        },
+        {
+          "name": "DJ SEBB",
+          "url": "https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF"
         }
       ],
-      "duration_ms": 209128,
-      "name": "Longanis",
-      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
+      "duration_ms": 184800,
+      "name": "Trottinette",
+      "url": "https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC"
     },
     {
       "added_at": "2022-08-11 10:05:16",

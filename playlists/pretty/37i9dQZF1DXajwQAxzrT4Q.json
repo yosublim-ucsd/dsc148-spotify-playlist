@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 63898,
+  "num_followers": 64002,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmZiZWE2ZTkyMDUxZjUyM2QxNGViMjRlOWQwNWU3NDZiMDIwZGZm",
+  "snapshot_id": "MCxkMjQzMmYzMmQ5NDNlMTI4MzUwODg5ZWViNzc4MDExNWM3Yzk1NTcz",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -727,22 +727,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "WOAH",
-        "url": "https://open.spotify.com/album/2KIwLYx6itepTddDMWhkoW"
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
       },
       "artists": [
         {
           "name": "KYLE",
           "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 168727,
-      "name": "WOAH",
-      "url": "https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo"
+      "duration_ms": 121532,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/2KIwLYx6itepTddDMWhkoW"
       },
       "artists": [
         {
           "name": "KYLE",
           "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 121532,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
+      "duration_ms": 168727,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1319,6 +1319,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "BE FORREAL",
+        "url": "https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        },
+        {
+          "name": "Big Bam",
+          "url": "https://open.spotify.com/artist/2NkyvcYEasg0Yd4a6domnq"
+        },
+        {
+          "name": "DJ Blizz",
+          "url": "https://open.spotify.com/artist/1QkWDabKuR7G7AcFLaN1hq"
+        }
+      ],
+      "duration_ms": 86620,
+      "name": "BE FORREAL",
+      "url": "https://open.spotify.com/track/1RmJwFy8hk4VHTSJPU3nm9"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Clout Chaser Pt. 4",
         "url": "https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ"
       },
@@ -1363,30 +1387,6 @@
       "duration_ms": 140298,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "BE FORREAL",
-        "url": "https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h"
-      },
-      "artists": [
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        },
-        {
-          "name": "Big Bam",
-          "url": "https://open.spotify.com/artist/2NkyvcYEasg0Yd4a6domnq"
-        },
-        {
-          "name": "DJ Blizz",
-          "url": "https://open.spotify.com/artist/1QkWDabKuR7G7AcFLaN1hq"
-        }
-      ],
-      "duration_ms": 86620,
-      "name": "BE FORREAL",
-      "url": "https://open.spotify.com/track/1RmJwFy8hk4VHTSJPU3nm9"
     },
     {
       "added_at": "2023-09-08 04:00:00",

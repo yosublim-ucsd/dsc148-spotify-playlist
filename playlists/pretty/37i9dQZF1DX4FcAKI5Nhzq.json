@@ -1,15 +1,15 @@
 {
-  "description": "Future K-Pop hits! Cover: BOYNEXTDOOR",
-  "num_followers": 780848,
+  "description": "Future K-Pop hits! Cover: Dreamcatcher",
+  "num_followers": 780979,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWU2ZDQ0YzBhNThhYjA0NjMxNzkyYmYzNTEwZGZhYzQ0NGUwZDVh",
+  "snapshot_id": "MCw1OTViZjdjMGU0ZjExODgxMjBkZjRhZWYzZDIxMTE5ODU0MDIzMjlj",
   "tracks": [
     {
-      "added_at": "2023-09-05 06:30:36",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "Get A Guitar",
         "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
     },
     {
-      "added_at": "2023-09-11 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "Street Woman Fighter2 (SWF2) Class Mission",
         "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
+      "album": {
+        "name": "[BONVOYAGE (Farewell Ver.)]",
+        "url": "https://open.spotify.com/album/2oBHZWKC421qcUeMZLYNTO"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "BONVOYAGE (Farewell Ver.)",
+      "url": "https://open.spotify.com/track/4xiuarCywWiw9qESd8Y7ng"
+    },
+    {
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "WHY..",
         "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
@@ -61,23 +77,7 @@
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
     },
     {
-      "added_at": "2023-09-11 09:00:00",
-      "album": {
-        "name": "Door",
-        "url": "https://open.spotify.com/album/5MO48BnK6X9VlYtFHpJtvy"
-      },
-      "artists": [
-        {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Top or Cliff",
-      "url": "https://open.spotify.com/track/6nxaMLoDXkG0NlwV46Jnvb"
-    },
-    {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "Street Woman Fighter2 (SWF2) Class Mission",
         "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce"
     },
     {
-      "added_at": "2023-09-11 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "SUN SEEKER",
         "url": "https://open.spotify.com/album/1FdVBP7g9FfMa7ifgyY4iA"
@@ -113,55 +113,7 @@
       "url": "https://open.spotify.com/track/5ArnumzuZkiaSmZaxPsQfh"
     },
     {
-      "added_at": "2023-09-11 09:00:00",
-      "album": {
-        "name": "The Move : Street",
-        "url": "https://open.spotify.com/album/1O3e1rfT7WvtJYc19A6oLK"
-      },
-      "artists": [
-        {
-          "name": "LEE CHAE YEON",
-          "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "LET\u2032S DANCE",
-      "url": "https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8"
-    },
-    {
-      "added_at": "2023-09-04 09:00:00",
-      "album": {
-        "name": "Hongdae R&B",
-        "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 182299,
-      "name": "Hongdae R&B",
-      "url": "https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3"
-    },
-    {
-      "added_at": "2023-09-11 09:00:00",
-      "album": {
-        "name": "A Time Called You (Original Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Beautiful Restriction",
-      "url": "https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa"
-    },
-    {
-      "added_at": "2023-09-07 09:23:34",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "N.Y.C.T - NCT LAB",
         "url": "https://open.spotify.com/album/5pa2JvvpufiC2IlKUgbjZQ"
@@ -177,55 +129,23 @@
       "url": "https://open.spotify.com/track/4ksIFsGXezKXZX91dE6ClJ"
     },
     {
-      "added_at": "2023-09-11 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
-        "name": "BOOM",
-        "url": "https://open.spotify.com/album/0CbRdyt9PYDl0aHBw5ZTYM"
+        "name": "Door",
+        "url": "https://open.spotify.com/album/5MO48BnK6X9VlYtFHpJtvy"
       },
       "artists": [
         {
-          "name": "Rocket Punch",
-          "url": "https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO"
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
         }
       ],
-      "duration_ms": 195306,
-      "name": "BOOM",
-      "url": "https://open.spotify.com/track/7snU7ER25gz87VKZ53ejS8"
+      "duration_ms": 221746,
+      "name": "Top or Cliff",
+      "url": "https://open.spotify.com/track/6nxaMLoDXkG0NlwV46Jnvb"
     },
     {
-      "added_at": "2023-09-07 09:23:34",
-      "album": {
-        "name": "LEMONADE",
-        "url": "https://open.spotify.com/album/1hoTXn3AIaMB4SWG4wL0mn"
-      },
-      "artists": [
-        {
-          "name": "XODIAC",
-          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
-        }
-      ],
-      "duration_ms": 188040,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/1DcgCdbq9EFIbCHRDrcWLu"
-    },
-    {
-      "added_at": "2023-09-11 09:00:00",
-      "album": {
-        "name": "FESTA",
-        "url": "https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x"
-      },
-      "artists": [
-        {
-          "name": "PURPLE KISS",
-          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "7HEAVEN",
-      "url": "https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc"
-    },
-    {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "You're Beautiful",
         "url": "https://open.spotify.com/album/1WAhLhtqvSSjspHe2kzYhF"
@@ -241,39 +161,23 @@
       "url": "https://open.spotify.com/track/6Ca2C9ycBna1WXfL5cB6Gn"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
-        "name": "Dancing with you in the Rain",
-        "url": "https://open.spotify.com/album/2tzJU8JjqZyBOEiYRopqJv"
+        "name": "Hongdae R&B",
+        "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
       },
       "artists": [
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 180306,
-      "name": "Dancing with you in the Rain",
-      "url": "https://open.spotify.com/track/2KQpOKk59I54dbz0z3etMG"
+      "duration_ms": 182299,
+      "name": "Hongdae R&B",
+      "url": "https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
-      "album": {
-        "name": "ALL MY GIRLS",
-        "url": "https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0"
-      },
-      "artists": [
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB"
-    },
-    {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "I WANT",
         "url": "https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe"
@@ -289,7 +193,55 @@
       "url": "https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
+      "album": {
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/1hoTXn3AIaMB4SWG4wL0mn"
+      },
+      "artists": [
+        {
+          "name": "XODIAC",
+          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/1DcgCdbq9EFIbCHRDrcWLu"
+    },
+    {
+      "added_at": "2023-09-13 15:00:00",
+      "album": {
+        "name": "ALL MY GIRLS",
+        "url": "https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB"
+    },
+    {
+      "added_at": "2023-09-13 15:00:00",
+      "album": {
+        "name": "Dancing with you in the Rain",
+        "url": "https://open.spotify.com/album/2tzJU8JjqZyBOEiYRopqJv"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 180306,
+      "name": "Dancing with you in the Rain",
+      "url": "https://open.spotify.com/track/2KQpOKk59I54dbz0z3etMG"
+    },
+    {
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
@@ -305,55 +257,7 @@
       "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
-      "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/7qAmKSszPEYHUNhETGGhSI"
-      },
-      "artists": [
-        {
-          "name": "BAEKHO",
-          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/4rn1BxsXSSuZcgRa6thKYu"
-    },
-    {
-      "added_at": "2023-09-04 09:00:00",
-      "album": {
-        "name": "VENI VIDI VICI",
-        "url": "https://open.spotify.com/album/6s5By8sGoiYLpQmtYYvmGO"
-      },
-      "artists": [
-        {
-          "name": "VANNER",
-          "url": "https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "PERFORMER",
-      "url": "https://open.spotify.com/track/2arrxX2BubTq86E4N067WY"
-    },
-    {
-      "added_at": "2023-09-04 09:00:00",
-      "album": {
-        "name": "Cheese",
-        "url": "https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj"
-      },
-      "artists": [
-        {
-          "name": "CRAVITY",
-          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "Cheese",
-      "url": "https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr"
-    },
-    {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "SPIN OFF : FROM THE WITNESS",
         "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
@@ -369,7 +273,119 @@
       "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
+      "album": {
+        "name": "The Move : Street",
+        "url": "https://open.spotify.com/album/1O3e1rfT7WvtJYc19A6oLK"
+      },
+      "artists": [
+        {
+          "name": "LEE CHAE YEON",
+          "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "LET\u2032S DANCE",
+      "url": "https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8"
+    },
+    {
+      "added_at": "2023-09-13 15:00:00",
+      "album": {
+        "name": "A Time Called You (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "Beautiful Restriction",
+      "url": "https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa"
+    },
+    {
+      "added_at": "2023-09-13 15:00:00",
+      "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/0CbRdyt9PYDl0aHBw5ZTYM"
+      },
+      "artists": [
+        {
+          "name": "Rocket Punch",
+          "url": "https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/7snU7ER25gz87VKZ53ejS8"
+    },
+    {
+      "added_at": "2023-09-13 15:00:00",
+      "album": {
+        "name": "FESTA",
+        "url": "https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x"
+      },
+      "artists": [
+        {
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "7HEAVEN",
+      "url": "https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc"
+    },
+    {
+      "added_at": "2023-09-13 15:00:00",
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/7qAmKSszPEYHUNhETGGhSI"
+      },
+      "artists": [
+        {
+          "name": "BAEKHO",
+          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/4rn1BxsXSSuZcgRa6thKYu"
+    },
+    {
+      "added_at": "2023-09-13 15:00:00",
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/6s5By8sGoiYLpQmtYYvmGO"
+      },
+      "artists": [
+        {
+          "name": "VANNER",
+          "url": "https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "PERFORMER",
+      "url": "https://open.spotify.com/track/2arrxX2BubTq86E4N067WY"
+    },
+    {
+      "added_at": "2023-09-13 15:00:00",
+      "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Cheese",
+      "url": "https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr"
+    },
+    {
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "blessing in disguise",
         "url": "https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "Drive5",
         "url": "https://open.spotify.com/album/6lNe7vyn25Vz77ClCgC2Dl"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/4qXvvgq3tvoh5cFYGZLr3W"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August",
         "url": "https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "Back To Me / Alive",
         "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "Don't Leave Yet",
         "url": "https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "H1-KEY 2nd Mini Album [Seoul Dreaming]",
         "url": "https://open.spotify.com/album/1J2t0ySjwCZNGelpARbw3d"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/0SRAuCAtprYCuoks38G5GU"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "A Giant Step",
         "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
@@ -505,7 +521,7 @@
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "Horizon - NCT LAB",
         "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "KISS OF LIFE",
         "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "YOUTH IN THE SHADE",
         "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "THE UNSEEN",
         "url": "https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "TWO RABBITS",
         "url": "https://open.spotify.com/album/0Ar5kViCsKWRjnRKy7V4Ck"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/4wp725MlpbUiyn1NcTMHJ6"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "On the street",
         "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "BOYS PLANET - ARTIST BATTLE",
         "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "KARD 6th Mini Album 'ICKY'",
         "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "Over The Moon",
         "url": "https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "INVITATION (Feat. Gaeko)",
         "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
@@ -689,23 +705,7 @@
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
-      "album": {
-        "name": "BOYS PLANET - FINAL TOP9 BATTLE",
-        "url": "https://open.spotify.com/album/5F3uLyGvCV3QINuGZkdOfS"
-      },
-      "artists": [
-        {
-          "name": "BOYS PLANET",
-          "url": "https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "Jelly Pop",
-      "url": "https://open.spotify.com/track/6fJW5vgrTBrKksFKApn7v2"
-    },
-    {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "H1-KEY 1st Mini Album [Rose Blossom]",
         "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "HARMONY : ALL IN",
         "url": "https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "13egin",
         "url": "https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "TO DIE FOR",
         "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
@@ -773,23 +773,7 @@
       "url": "https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
-      "album": {
-        "name": "LOVESTRUCK!",
-        "url": "https://open.spotify.com/album/06qoehc4xjI7IW9J8jQFEX"
-      },
-      "artists": [
-        {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Giddy",
-      "url": "https://open.spotify.com/track/6blIAzkMKENKqAfMwj5cZQ"
-    },
-    {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "Unlock My World",
         "url": "https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9"
@@ -805,7 +789,7 @@
       "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "This love (feat. Paul Blanco)",
         "url": "https://open.spotify.com/album/2XYKNORkUW6lPluYIZodpf"
@@ -825,7 +809,7 @@
       "url": "https://open.spotify.com/track/7vgvV8dD2L0l7pMSOBPD26"
     },
     {
-      "added_at": "2023-09-04 09:00:00",
+      "added_at": "2023-09-13 15:00:00",
       "album": {
         "name": "PYGMALION",
         "url": "https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ"

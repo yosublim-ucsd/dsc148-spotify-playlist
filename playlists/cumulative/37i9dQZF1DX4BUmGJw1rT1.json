@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 227124,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4zZTJprxXDYv3IYkOvlp0Q"
@@ -2864,6 +2864,48 @@
       "duration_ms": 154226,
       "name": "Other Side of Goodbye",
       "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
+    },
+    {
+      "album": {
+        "name": "Over My Dead Body",
+        "url": "https://open.spotify.com/album/6B1zU4G4jb8Kl81u6ONWoB"
+      },
+      "artists": [
+        {
+          "name": "Helle Hansen",
+          "url": "https://open.spotify.com/artist/6cOxBEalYUPYrjw5Ko4hrJ"
+        },
+        {
+          "name": "Diluckshan Jeyaratnam",
+          "url": "https://open.spotify.com/artist/6yZ0TdL1V4jX5G25ec7uhG"
+        },
+        {
+          "name": "Sine H\u00e4nninen",
+          "url": "https://open.spotify.com/artist/4oq9LMwewRYxdFaRjJe95b"
+        },
+        {
+          "name": "Jens Ulrich Kiilstofte",
+          "url": "https://open.spotify.com/artist/43V3B2th4RvJjSu85QdZjX"
+        },
+        {
+          "name": "Per Gade",
+          "url": "https://open.spotify.com/artist/0ZGwDBYRKKMrNswY82S4gQ"
+        },
+        {
+          "name": "Henrik SP Schou Poulsen",
+          "url": "https://open.spotify.com/artist/0AdbFNN2GMLiXwP1ACQ5Hg"
+        },
+        {
+          "name": "Martin Klausen",
+          "url": "https://open.spotify.com/artist/19hT4VMNZmM1f2BC5AgI9v"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271638,
+      "name": "Over My Dead Body",
+      "url": "https://open.spotify.com/track/1PeacBt6oy5HT0eDoEpOO2"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1795,
+  "num_followers": 1798,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGZiZGE5MDVjZmU2OGM0NDkyNjE1ZjlhNWI5ZTI4YzdiZDYzZDY4",
+  "snapshot_id": "MCxhYWU0NmQzMjhhNGQxMzhiY2M0MzA4ZjMwZjdiZTk5NGNlMTFkZDM4",
   "tracks": [
     {
       "added_at": "2023-09-07 20:59:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Captain",
-        "url": "https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE"
-      },
-      "artists": [
-        {
-          "name": "Kivumbi King",
-          "url": "https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv"
-        },
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 132857,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
         "name": "Shabada",
         "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 196858,
       "name": "Shabada",
       "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE"
+      },
+      "artists": [
+        {
+          "name": "Kivumbi King",
+          "url": "https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Mama I Made It",
+      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
         "name": "Music for the Soul",
         "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
       },
@@ -707,42 +727,6 @@
       "duration_ms": 215757,
       "name": "Riri",
       "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "BRYAN THE MENSAH",
-          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
-        "name": "Chai We Njaye",
-        "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
-      },
-      "artists": [
-        {
-          "name": "Omutume Planet",
-          "url": "https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Chai We Njaye",
-      "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
+        "name": "Chai We Njaye",
+        "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
+      },
+      "artists": [
+        {
+          "name": "Omutume Planet",
+          "url": "https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp"
+        }
+      ],
+      "duration_ms": 165015,
+      "name": "Chai We Njaye",
+      "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
       },
@@ -779,6 +779,26 @@
       "duration_ms": 226153,
       "name": "On my Mind",
       "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -891,42 +911,26 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Jozzi Firebouy",
+          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
         },
         {
-          "name": "Lagum the Rapper",
-          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Mama I Made It",
-      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
-        "name": "Sam Wange",
-        "url": "https://open.spotify.com/album/7DrWFE1PLDlV6LKavisV20"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+          "name": "Dny Beats",
+          "url": "https://open.spotify.com/artist/593Mfhbg9mGoxnOtU9nzfP"
         },
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+          "name": "ZEUS BNM",
+          "url": "https://open.spotify.com/artist/7f6OK6Hhaha76pJL0AjPr2"
         }
       ],
-      "duration_ms": 220632,
-      "name": "Sam Wange",
-      "url": "https://open.spotify.com/track/1jYqTG4ARaCyfFoy9bgpH8"
+      "duration_ms": 202666,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg"
     }
   ],
   "unique_name": "Made In Uganda",

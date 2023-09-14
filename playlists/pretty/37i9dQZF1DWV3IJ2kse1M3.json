@@ -1,12 +1,12 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u751f\u547d\u592a\u77ed\u4fc3 \u75db\u592a\u6e05\u695a \u624d\u8b93\u4f60\u8b93\u6211 \u611b\u5230\u7121\u9000\u8def\u3002",
-  "num_followers": 193286,
+  "num_followers": 193283,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2FhNDA3ZmM0YjNhYzAzZjgwMjQ2ZGZmYmVhYjJhNDEwYjlhNzEy",
+  "snapshot_id": "MCw2MGYwMWYwNDJmYjQ2OGI1ZTA5YzBhY2FhMGFjNjRhOWU4ODQzMzk1",
   "tracks": [
     {
       "added_at": "2023-03-31 13:22:19",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
+        "name": "\u6700\u611b\u6881\u8a60\u742a\u65b0\u6b4c+\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/6LjnjLi8J3HtfKzYEpfTbg"
+      },
+      "artists": [
+        {
+          "name": "Gigi Leung",
+          "url": "https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "\u77ed\u9aee",
+      "url": "https://open.spotify.com/track/5IRrr5Dqp1dUU1ftUSchMO"
+    },
+    {
+      "added_at": "2023-03-31 13:22:19",
+      "album": {
         "name": "\u5077\u6545\u4e8b\u7684\u4eba",
         "url": "https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 266557,
       "name": "\u8eab\u5f8c",
       "url": "https://open.spotify.com/track/5niImrS3tokLyQ8uHKswt1"
-    },
-    {
-      "added_at": "2023-03-31 13:22:19",
-      "album": {
-        "name": "\u611b\u5230\u7121\u53ef\u6551\u85e5",
-        "url": "https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m"
-      },
-      "artists": [
-        {
-          "name": "Victor Wong",
-          "url": "https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW"
-        }
-      ],
-      "duration_ms": 298426,
-      "name": "\u6211\u4ee5\u70ba",
-      "url": "https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs"
     }
   ],
   "unique_name": "\u60b2\u50b7\u91cb\u653e",

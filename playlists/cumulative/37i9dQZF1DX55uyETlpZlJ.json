@@ -1739,6 +1739,32 @@
     },
     {
       "album": {
+        "name": "Manasare",
+        "url": "https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1"
+      },
+      "artists": [
+        {
+          "name": "Vishwajeet Deshpande",
+          "url": "https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U"
+        },
+        {
+          "name": "Harsha Abbigeri",
+          "url": "https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr"
+        },
+        {
+          "name": "Amogh Malakannavar",
+          "url": "https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166941,
+      "name": "Manasare",
+      "url": "https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO"
+    },
+    {
+      "album": {
         "name": "Manasindha",
         "url": "https://open.spotify.com/album/68DAgMKTgAVuz6ODAaS93p"
       },

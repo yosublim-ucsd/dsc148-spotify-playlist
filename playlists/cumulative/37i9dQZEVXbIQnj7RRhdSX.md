@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,390 songs - 2 day 23 hr 37 min
+1,391 songs - 2 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,7 +546,7 @@
 | [I AM](https://open.spotify.com/track/2roEryrxZ6owlDs8tKxkt7) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:13 | 2023-01-07 | 2023-01-16 |
 | [I can fly](https://open.spotify.com/track/1cNIztmmKX7L8hrmV9cUz1) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dolce vita](https://open.spotify.com/album/10ysCPqsSLVv3SBqGbLaHS) | 3:18 | 2021-06-13 | 2021-06-14 |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-07-29 | 2023-08-01 |
-| [I LOVE YOU](https://open.spotify.com/track/2ruFYao8Dy8Tx94sxxzlIl) | [Niko Pandetta](https://open.spotify.com/artist/5H5RWXYleho8amdspskcUb), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq), [Janax](https://open.spotify.com/artist/3liWfHRnSkAv6oHHuF1i74) | [CELLA 5](https://open.spotify.com/album/1x4jDsXkR5g4j8p72VIVoN) | 2:45 | 2023-09-12 |  |
+| [I LOVE YOU](https://open.spotify.com/track/2ruFYao8Dy8Tx94sxxzlIl) | [Niko Pandetta](https://open.spotify.com/artist/5H5RWXYleho8amdspskcUb), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq), [Janax](https://open.spotify.com/artist/3liWfHRnSkAv6oHHuF1i74) | [CELLA 5](https://open.spotify.com/album/1x4jDsXkR5g4j8p72VIVoN) | 2:45 | 2023-09-12 | 2023-09-14 |
 | [I love you baby](https://open.spotify.com/track/1v9ABGLSpdhPDEWyQ10NFD) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [Mediterraneo](https://open.spotify.com/album/2PPHtMDuk5L0lMdxuXkn5w) | 3:32 | 2022-04-19 | 2022-09-27 |
 | [I soldi degli altri \(feat\. Jake La Furia & Montenero\)](https://open.spotify.com/track/2ll2BFFW0QbQJ5MGhAXZr2) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Montenero](https://open.spotify.com/artist/5oGHd7AZ8Sr05S5MP5SnYC) | [Keta Music, Vol\. 3](https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa) | 2:56 | 2021-07-25 | 2021-07-26 |
 | [I soldi e la droga \(feat\. Lazza\)](https://open.spotify.com/track/20R9mqRNIAFyUl849j9DOc) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 3:21 | 2022-06-18 | 2022-06-23 |
@@ -1336,6 +1336,7 @@
 | [Vero o Falso \(feat\. Speranza & Rafilù\)](https://open.spotify.com/track/0Whb9aZ0dGi75NyvIv5D0y) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:27 | 2021-11-14 | 2021-11-20 |
 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 | 2023-05-20 |  |
 | [VICTORY LAP](https://open.spotify.com/track/5ZmZ6RKNcFbIrdf1rSB3IO) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 2:14 | 2022-01-15 | 2022-01-17 |
+| [Vida Mala \(feat\. Medy\)](https://open.spotify.com/track/0ejEtuL3QsV1xvnHysuoVp) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Vida Mala \(feat\. Medy\)](https://open.spotify.com/album/4UbeTkpOQKC95anCPKd7q0) | 2:34 | 2023-09-13 |  |
 | [Vieni nel mio cuore](https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Vieni nel mio cuore](https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV) | 2:52 | 2022-05-26 | 2023-02-20 |
 | [VIOLA – with Salmo](https://open.spotify.com/track/0f7ATKSMdPCzL5oGXZccyr) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [DISUMANO](https://open.spotify.com/album/3kg7VTOPL8oFCHvMaYtsVU) | 3:02 | 2023-01-05 | 2023-01-24 |
 | [VIOLA – with Salmo](https://open.spotify.com/track/6UMOpKOam549hPEhpLtS9L) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [VIOLA – with Salmo](https://open.spotify.com/album/4QzGtuqMCLDo8dbyKfbLeC) | 3:02 | 2022-10-15 | 2022-10-27 |

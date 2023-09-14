@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. MPH",
-  "num_followers": 198384,
+  "num_followers": 198415,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2M4MzBhMzgyM2VmMTliZmEwODc3NDQ2ZDFiMGQ5NjkzZDE4YWRm",
+  "snapshot_id": "MCwxYzM0YmVjNTRkOTBlMTliNjFkZjE1MzhkOTAzYThlOTYyNzZiZDk5",
   "tracks": [
     {
       "added_at": "2023-08-24 23:00:00",
@@ -91,8 +91,8 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/6oPo89O2VgvSqY4JBd7xh3"
+        "name": "No Clip",
+        "url": "https://open.spotify.com/album/12spfrxeApDAVNV3ul5DmF"
       },
       "artists": [
         {
@@ -102,7 +102,7 @@
       ],
       "duration_ms": 254769,
       "name": "No Clip",
-      "url": "https://open.spotify.com/track/1TQVU0gGIRUUzlZLVAbojX"
+      "url": "https://open.spotify.com/track/19djX580zpwpDHDAbGnaul"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Surgery",
-        "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
-      },
-      "artists": [
-        {
-          "name": "FooR",
-          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
-        },
-        {
-          "name": "Ragga Twins",
-          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
-        }
-      ],
-      "duration_ms": 129625,
-      "name": "Surgery",
-      "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 169385,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
+        "name": "Surgery",
+        "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
+      },
+      "artists": [
+        {
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
+        },
+        {
+          "name": "Ragga Twins",
+          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
+        }
+      ],
+      "duration_ms": 129625,
+      "name": "Surgery",
+      "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Signal / Have You Over (feat. Ruth Royall)",
-        "url": "https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE"
-      },
-      "artists": [
-        {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
-        },
-        {
-          "name": "Ruth Royall",
-          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
-        }
-      ],
-      "duration_ms": 253181,
-      "name": "Signal (feat. Ruth Royall)",
-      "url": "https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 169846,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
+        "name": "Signal / Have You Over (feat. Ruth Royall)",
+        "url": "https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "duration_ms": 253181,
+      "name": "Signal (feat. Ruth Royall)",
+      "url": "https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx"
     },
     {
       "added_at": "2023-08-24 23:00:00",

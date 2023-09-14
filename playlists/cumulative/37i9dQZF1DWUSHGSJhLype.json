@@ -475,6 +475,40 @@
     },
     {
       "album": {
+        "name": "Calma Vai Devagar",
+        "url": "https://open.spotify.com/album/59jmPN9aIqUNqCB0QbFG5V"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Vasconcelos",
+          "url": "https://open.spotify.com/artist/7fmjbzBCbHyDrx8EmpgDOY"
+        },
+        {
+          "name": "MC Marsha",
+          "url": "https://open.spotify.com/artist/6jlX5Md4XM8Qpz86CRnwxP"
+        },
+        {
+          "name": "DJ Yuri Chagas",
+          "url": "https://open.spotify.com/artist/57ViLnr0EklP5uxd2Hd67c"
+        },
+        {
+          "name": "Dj JR FELIX",
+          "url": "https://open.spotify.com/artist/0XGdltjBN4NhpM6TMyFu3G"
+        },
+        {
+          "name": "sim",
+          "url": "https://open.spotify.com/artist/4jHW7pd30NKgVN7GFtRTQr"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118064,
+      "name": "Calma Vai Devagar (Feat. Dj JR FELIX, DJ Yuri Chagas)",
+      "url": "https://open.spotify.com/track/1ewBd65QHljy6vRabdxjt1"
+    },
+    {
+      "album": {
         "name": "Cama Embrasa",
         "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
       },
@@ -1432,7 +1466,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 271384,
       "name": "Lets Go 4",
       "url": "https://open.spotify.com/track/1sZERP8lxfWxjyzPGl2MvA"
@@ -1726,7 +1760,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 151384,
       "name": "Mina da Barra",
       "url": "https://open.spotify.com/track/04KcobH870PRsndV1lPkXV"
@@ -1748,6 +1782,24 @@
       "duration_ms": 112518,
       "name": "Mina Sensa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4NWqFtTU1wnvlsU7XjeIGM"
+    },
+    {
+      "album": {
+        "name": "A.Mago - Playlist do Mago",
+        "url": "https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So"
+      },
+      "artists": [
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "MONTAGEM ANOS 2000",
+      "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
     },
     {
       "album": {

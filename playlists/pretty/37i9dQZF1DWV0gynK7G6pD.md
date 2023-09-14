@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Cocomi
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,439 likes - 94 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,539 likes - 94 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 93 | [Trio, Op\. 114: I Allegro](https://open.spotify.com/track/6np1UL9cFw0U5PCVQp0bIT) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Quantum Clarinet Trio](https://open.spotify.com/artist/5Jv8l1bQGYO0SrCtLgerLN), [Johannes Przygodda](https://open.spotify.com/artist/3ofAzX8lQ1ChDHkCi7ABMn), [Elena Veronesi](https://open.spotify.com/artist/3pGbHFjXgyMkCFQWoz87UJ), [Bokyung Kim](https://open.spotify.com/artist/3T3xzqcpCqdPuYhqF0kGB1) | [Brahms Trio Op\. 114 \- Allegro \- Quantum Clarinet Trio](https://open.spotify.com/album/74racPHoI8fY2cD1GGGDzt) | 7:46 |
 | 94 | [Who knows?](https://open.spotify.com/track/7kfIBBWywjr8UAPe82OTwF) | [Avril Coleridge\-Taylor](https://open.spotify.com/artist/0xFGpD1pu6OjdPVdgN7Ejp), [Alexandra Mackenzie](https://open.spotify.com/artist/02JwGyfLDOvSn5O55I5Lsq), [Ingrid Sawers](https://open.spotify.com/artist/4UxtMGNl4xbJxBqKeLJEta) | [Avril Coleridge\-Taylor: Who knows?](https://open.spotify.com/album/4PSCseFTglRpr4X2dDUb5o) | 2:12 |
 
-Snapshot ID: `MCwzOGJkNTYzNDI5Yzg1MzJiNzRiYTlhY2ZhMjU0MDJlODk4NDQ0NTc0`
+Snapshot ID: `MCw4N2Y3ODI4MTNjYzExZTcxY2VmODA1ODVjZjFhMTcxNDNlNDZjZjE5`

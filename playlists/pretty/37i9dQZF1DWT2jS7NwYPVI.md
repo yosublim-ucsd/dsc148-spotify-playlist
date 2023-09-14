@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,266 likes - 129 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,329 likes - 129 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 128 | [Burn The Way](https://open.spotify.com/track/0TTby1f21gEo00neP83WEy) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Burn The Way](https://open.spotify.com/album/0jbrgIEJ1S1XC9Wc0ZuwPf) | 3:46 |
 | 129 | [Money](https://open.spotify.com/track/5rlfh1uoDFgbycSkX0Dms5) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Money](https://open.spotify.com/album/3WSZtZRBRJVoAljZAaip2m) | 2:54 |
 
-Snapshot ID: `MCw4YTc4OGYzMWZhNzBkZTI2ODZlYWNlYzNhNzQ3ZDBlYmM0OWQ4MmEx`
+Snapshot ID: `MCxhNWFjYTBhNjdjODc1MzA0NDk4NDI3YmNkYTVlZjYxZmVkYjY1MzE0`

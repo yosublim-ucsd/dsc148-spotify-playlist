@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: BOYNEXTDOOR",
+  "description": "Future K-Pop hits! Cover: Dreamcatcher",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -1808,6 +1808,24 @@
       "duration_ms": 213506,
       "name": "BONVOYAGE",
       "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
+    },
+    {
+      "album": {
+        "name": "[BONVOYAGE (Farewell Ver.)]",
+        "url": "https://open.spotify.com/album/2oBHZWKC421qcUeMZLYNTO"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "BONVOYAGE (Farewell Ver.)",
+      "url": "https://open.spotify.com/track/4xiuarCywWiw9qESd8Y7ng"
     },
     {
       "album": {
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 184240,
       "name": "Giddy",
       "url": "https://open.spotify.com/track/6blIAzkMKENKqAfMwj5cZQ"
@@ -7568,7 +7586,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 203253,
       "name": "Jelly Pop",
       "url": "https://open.spotify.com/track/6fJW5vgrTBrKksFKApn7v2"

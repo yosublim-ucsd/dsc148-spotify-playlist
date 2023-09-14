@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 3207,
+  "num_followers": 3212,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGMyNDY2ZjIzNmEyYTI3Nzg1NzczNTYyZjE0ZjEzYmFhNjlhMGZl",
+  "snapshot_id": "MCwwNTVjOTAzMmU3NzZmODNlNTdkZDIzZjhiZjkzMTY2YTNiMmE5YWVh",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV"
-      },
-      "artists": [
-        {
-          "name": "Desiderii Marginis",
-          "url": "https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX"
-        }
-      ],
-      "duration_ms": 455593,
-      "name": "Silent Messenger",
-      "url": "https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Onyx",
         "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 337816,
       "name": "Ones Atop the Unknown",
       "url": "https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Procession",
+        "url": "https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV"
+      },
+      "artists": [
+        {
+          "name": "Desiderii Marginis",
+          "url": "https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX"
+        }
+      ],
+      "duration_ms": 455593,
+      "name": "Silent Messenger",
+      "url": "https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -651,26 +651,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
+        "name": "The Word as Power",
+        "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
       },
       "artists": [
         {
-          "name": "Apocryphos",
-          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
-        },
-        {
-          "name": "Kammarheit",
-          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
-        },
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+          "name": "Lustmord",
+          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
         }
       ],
-      "duration_ms": 333803,
-      "name": "Immemorial",
-      "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
+      "duration_ms": 601827,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -739,18 +731,26 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Word as Power",
-        "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
       },
       "artists": [
         {
-          "name": "Lustmord",
-          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
+          "name": "Apocryphos",
+          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
+        },
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+        },
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
         }
       ],
-      "duration_ms": 601827,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
+      "duration_ms": 333803,
+      "name": "Immemorial",
+      "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -803,30 +803,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT"
-      },
-      "artists": [
-        {
-          "name": "Apocryphos",
-          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
-        },
-        {
-          "name": "Kammarheit",
-          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
-        },
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        }
-      ],
-      "duration_ms": 284132,
-      "name": "What the Earth Bore",
-      "url": "https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Gentlemen Take Polaroids",
         "url": "https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW"
       },
@@ -857,6 +833,22 @@
       "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
+      "added_at": "2022-09-03 03:45:57",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+    },
+    {
       "added_at": "2022-07-06 17:58:03",
       "album": {
         "name": "Lost Themes II",
@@ -873,20 +865,28 @@
       "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
     },
     {
-      "added_at": "2022-09-03 03:45:57",
+      "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT"
       },
       "artists": [
         {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+          "name": "Apocryphos",
+          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
+        },
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+        },
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
         }
       ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+      "duration_ms": 284132,
+      "name": "What the Earth Bore",
+      "url": "https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD"
     },
     {
       "added_at": "2022-08-24 01:38:29",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "In Fabric OST",
-        "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 254624,
-      "name": "Mannequin Metric",
-      "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Cycles \"Cyclic Law's 10th Year Anniversary Label Sampler\"",
         "url": "https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 508630,
       "name": "The Moment Before You Fall Asleep",
       "url": "https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "In Fabric OST",
+        "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 254624,
+      "name": "Mannequin Metric",
+      "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Delineation.Metamorphosis.Permanence.",
-        "url": "https://open.spotify.com/album/64vjzqH3ZpsUvO8dZ9NZyr"
-      },
-      "artists": [
-        {
-          "name": "Inade",
-          "url": "https://open.spotify.com/artist/4pFSQZfXbBzabeOT7necWo"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "Interior Synthesis of Polarity",
-      "url": "https://open.spotify.com/track/1rDKcl40U9HOF6VFQoSwqU"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Endessiah",
         "url": "https://open.spotify.com/album/2CJSxFuH7DhuiWweDbwBQH"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 366131,
       "name": "Vocerah",
       "url": "https://open.spotify.com/track/0MkIIsZx4D5fKp0pMZOEQr"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Delineation.Metamorphosis.Permanence.",
+        "url": "https://open.spotify.com/album/64vjzqH3ZpsUvO8dZ9NZyr"
+      },
+      "artists": [
+        {
+          "name": "Inade",
+          "url": "https://open.spotify.com/artist/4pFSQZfXbBzabeOT7necWo"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "Interior Synthesis of Polarity",
+      "url": "https://open.spotify.com/track/1rDKcl40U9HOF6VFQoSwqU"
     },
     {
       "added_at": "2022-07-06 17:58:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,891 likes - 55 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,928 likes - 55 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 6 | [Rebelde Silueta](https://open.spotify.com/track/5apFmj9frwrTV1BvclAfZM) | [Nsue](https://open.spotify.com/artist/3mP60wj7zbSsAnI26egtol) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/6hF1xbglHjBHYkv2FMtyiq) | 4:30 |
 | 7 | [You're so Good to Me](https://open.spotify.com/track/55NHIURZ08Uv9FwfmWMmmZ) | [Mac & Monica](https://open.spotify.com/artist/60eHzQDI4SaxAnPLHcwhfD) | [Night City Life \(Compiled by Ilan Pdahtzur\)](https://open.spotify.com/album/6F7W25aizjn2FDKgfmQygE) | 6:29 |
 | 8 | [Now That We Found Love \- 12" Version](https://open.spotify.com/track/3DakouX0AK62dbYE4FhEt2) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [Reggae Ambassadors: 20th Anniversary Collection](https://open.spotify.com/album/3vlkQm8RweDiMawQPfFnkA) | 8:15 |
-| 9 | [Can't Face The Night \- Club Mix](https://open.spotify.com/track/3klN7znqTUm0ub9Cfc1hEL) | [East\-West](https://open.spotify.com/artist/0oxB4cf3u8oTCKOsBlqQsw) | [Naya Beat Volume 1: South Asian Dance and Electronic Music 1983\-1992](https://open.spotify.com/album/3zslYkDdWDDm0Cq6oAG8tm) | 5:08 |
+| 9 | [Can't Face The Night \- Club Mix](https://open.spotify.com/track/3P2R4iPAO1u7aSWq3JwQcT) | [East\-West](https://open.spotify.com/artist/0oxB4cf3u8oTCKOsBlqQsw) | [Naya Beat Volume 1: South Asian Dance and Electronic Music 1983\-1992](https://open.spotify.com/album/1FjJVrJypgYf1WtWCo3kAd) | 5:08 |
 | 10 | [No Nos Pararan](https://open.spotify.com/track/47uSDINq6LvvNdMPvs82WV) | [Charanga 76](https://open.spotify.com/artist/6bB0iS1H2zn09k8kExHknf) | [No Nos Pararan](https://open.spotify.com/album/5cI6VjFpoHnMSnWtOMO7uW) | 9:34 |
 | 11 | [Fotonovela](https://open.spotify.com/track/53sf1Z9U5W34m4PlhHlmyT) | [Ivan](https://open.spotify.com/artist/4geJci3XRoeMknHvknu2gL) | [Lo Mejor De Los Ochenta](https://open.spotify.com/album/1uYi1bqEbverdinug6DMVO) | 4:41 |
 | 12 | [Jika Jika](https://open.spotify.com/track/3cQGYieEaJrFE55oirmAxA) | [The Boogie Man](https://open.spotify.com/artist/7MjaZ3tHX5FUFZ1nf0H2nw), [Sipho Gumede](https://open.spotify.com/artist/70qTlM4lQsyQKSX6ZG56mn) | [Jika Jika](https://open.spotify.com/album/1HWY4bu8nHAFernAp9STig) | 4:17 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 54 | [Il vecchiaccio](https://open.spotify.com/track/539NGs2uOS6xu8JMuemKO1) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le mie canzoni](https://open.spotify.com/album/5JJca3CzOPDWOamyhtH1At) | 3:44 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MCw4YjkwMDYxOGE3OTA2ZjViOTc2ZTdkY2VlOTBiM2U1ODU4YTUzOTcy`
+Snapshot ID: `MCwxZDJiZTlkYjg1OGM3ODc5YzllMzkyM2U2MjI1MWQ3ZDNmYzlmMmI5`

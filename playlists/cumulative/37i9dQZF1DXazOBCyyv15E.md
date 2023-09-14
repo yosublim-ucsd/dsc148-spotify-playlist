@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Marika Hackman
 
-1,729 songs - 4 day 6 hr 56 min
+1,730 songs - 4 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1519,7 +1519,8 @@
 | [The Rip](https://open.spotify.com/track/7nOxBhNVyZhUjUGEQ0AjkR) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [The Rip](https://open.spotify.com/album/66VcDksRnEDw1LSfeYI46t) | 2:56 | 2022-04-14 | 2022-07-08 |
 | [the ripple](https://open.spotify.com/track/3jHlIl3WOUMUcwFCZEJmqr) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the ripple](https://open.spotify.com/album/0nq9r8arJZ2RyK41cb8Tl0) | 3:18 | 2023-07-20 |  |
 | [The Show Must Go On](https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Show Must Go On](https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT) | 4:26 | 2023-07-20 | 2023-08-25 |
-| [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-10 |  |
+| [the slab](https://open.spotify.com/track/2qvOC1CRBtwOcl2dlcOCM1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 5:10 | 2023-09-08 |  |
+| [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-10 | 2023-09-14 |
 | [The Sneaker Dance](https://open.spotify.com/track/2TDNm30iOmYTE9uiGSr2D8) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [The Sneaker Dance](https://open.spotify.com/album/2IcgVYCAg9WAmWOYJmwHqc) | 3:12 | 2021-11-19 | 2022-02-04 |
 | [The Starlight Lounge](https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [The Starlight Lounge](https://open.spotify.com/album/7iNE6BUiYfVFGRVyVgIfZF) | 3:34 | 2020-11-20 | 2021-02-26 |
 | [The Trench Coat Museum](https://open.spotify.com/track/784HPjRj1dFr1XfdEnJfI0) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Trench Coat Museum](https://open.spotify.com/album/08m3R76Yfe2weYDQ4sMmtG) | 8:11 | 2023-07-13 |  |

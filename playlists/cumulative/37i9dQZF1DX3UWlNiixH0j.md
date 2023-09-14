@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: illiomote
 
-827 songs - 2 day 3 hr 33 min
+828 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 | 2023-08-08 | 2023-08-23 |
 | [BAUMKUCHEN](https://open.spotify.com/track/0Z2XB27naetMS2GOgXrE3f) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [BAUMKUCHEN](https://open.spotify.com/album/3dlOhyY45XqTWY208giI3T) | 4:25 | 2023-03-07 | 2023-03-29 |
 | [BEATING UP MYSELF](https://open.spotify.com/track/2ugohDT7qduGWCq6EYUjzQ) | [Bearwear](https://open.spotify.com/artist/1vs4LphTDQKsiFwVnDGFKf) | [BEATING UP MYSELF](https://open.spotify.com/album/10uSUm4kURSuzZX7sO0YkL) | 3:02 | 2023-02-14 | 2023-03-01 |
-| [BET ON ME](https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [Tell Your Story](https://open.spotify.com/album/6rlqdeK0VEjg5RbVWGrdR1) | 2:08 | 2023-08-22 |  |
+| [BET ON ME](https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [Tell Your Story](https://open.spotify.com/album/6rlqdeK0VEjg5RbVWGrdR1) | 2:08 | 2023-08-22 | 2023-09-14 |
 | [betbetbet](https://open.spotify.com/track/66FGcPvltgvvSr9x5NPSBG) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [betbetbet](https://open.spotify.com/album/2r4ejJEoty0NyQdfIhl7WM) | 3:37 | 2023-01-12 | 2023-02-01 |
 | [Beyond the Night](https://open.spotify.com/track/7i45z8apd5WcInB0Ks07NC) | [Taketombo](https://open.spotify.com/artist/2a0Pq2wS2V2vWb52JWR7JW) | [Beyond the Night](https://open.spotify.com/album/6E6CLind3kGwGWeLTbUkK6) | 4:14 | 2023-02-16 | 2023-03-01 |
 | [Bicycle](https://open.spotify.com/track/4X4Zm9TYHMN7mFaQtnRrXt) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Bicycle](https://open.spotify.com/album/1pNtvTDPYsE2ctu1roiejj) | 2:51 | 2023-06-21 | 2023-06-28 |
@@ -396,6 +396,7 @@
 | [rose](https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [rose](https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL) | 2:16 | 2023-08-22 |  |
 | [RUMBLE](https://open.spotify.com/track/2OF37gLbpMn9fy5b1YCDpb) | [リフの惑星](https://open.spotify.com/artist/7M9L8cnEEPIEmVcnQVHlmN) | [EUREKA](https://open.spotify.com/album/2pv61BaiqcLVUdmJEaxYfd) | 4:05 | 2023-06-20 | 2023-06-28 |
 | [Run](https://open.spotify.com/track/47D4W2Heqb7XHKSdiuI0dZ) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Run](https://open.spotify.com/album/3t7CqRlWGw1hsDXZ5yKUkZ) | 3:49 | 2023-05-09 | 2023-06-27 |
+| [Runner's High](https://open.spotify.com/track/0tX5aD8AVLQSKCoEl2VCVx) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN) | 6:43 | 2023-09-12 |  |
 | [Runner's High](https://open.spotify.com/track/6NVQIftwIwgMUQZV5RixsN) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Runner's High](https://open.spotify.com/album/4V9BNQC0f6GlnHOQDPQWBr) | 6:43 | 2023-08-15 | 2023-08-17 |
 | [Runner's High](https://open.spotify.com/track/6tALYM72RQ6U7r96wsgl9l) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Runner's High](https://open.spotify.com/album/532ZI3CM6yvTOUFULlTpdo) | 6:43 | 2023-08-15 | 2023-09-10 |
 | [RUSU](https://open.spotify.com/track/4SVEykWt23e2UksVu4qDKd) | [Moeka Giga](https://open.spotify.com/artist/4XJ2D1hGea6WmjvkShHOp5) | [RUSU](https://open.spotify.com/album/0dUz40owF8xPrHsqVTHlUg) | 2:54 | 2023-06-20 | 2023-06-28 |

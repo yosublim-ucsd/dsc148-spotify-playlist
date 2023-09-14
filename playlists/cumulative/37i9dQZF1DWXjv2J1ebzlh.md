@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,114 songs - 5 day 22 hr 34 min
+2,115 songs - 5 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,7 +695,8 @@
 | [El Sobhiya](https://open.spotify.com/track/0zjN8ilVMUk25SXoYRPKYe) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 3:42 | 2022-10-31 |  |
 | [El Sobhiya](https://open.spotify.com/track/7aZyOIoSaZgqPu9mFn2Pdb) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 3:42 | 2022-07-12 | 2022-11-20 |
 | [El Sofá](https://open.spotify.com/track/2ayZhIuBT2GCqP6LO3x8EX) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Éxitos De Oro](https://open.spotify.com/album/42E9an12E6T1nvEX1mRqem) | 3:12 | 2022-07-12 |  |
-| [El Sol](https://open.spotify.com/track/2oZRUBWx1fEkaQ3f8Lry34) | [Tony Rojas](https://open.spotify.com/artist/0CV7SB7PPBP3SaPIxNBPAd) | [Tony Rojas](https://open.spotify.com/album/0VDLVVKsygRfzoS4kLet7e) | 3:49 | 2022-06-09 |  |
+| [El Sol](https://open.spotify.com/track/2BvcxYpqYitsBa9PPI5IiG) | [Tony Rojas](https://open.spotify.com/artist/0CV7SB7PPBP3SaPIxNBPAd) | [Introducing Tony Rojas](https://open.spotify.com/album/2oxBBC3VTIjlLm67ynPaKv) | 3:46 | 2023-08-31 |  |
+| [El Sol](https://open.spotify.com/track/2oZRUBWx1fEkaQ3f8Lry34) | [Tony Rojas](https://open.spotify.com/artist/0CV7SB7PPBP3SaPIxNBPAd) | [Tony Rojas](https://open.spotify.com/album/0VDLVVKsygRfzoS4kLet7e) | 3:49 | 2022-06-09 | 2023-09-14 |
 | [El Tirabuzón](https://open.spotify.com/track/0goBFE5PCs1V77SDXXj6wX) | [Climaco Sarmiento](https://open.spotify.com/artist/7M9SeIqdPfOX6sw5cJUSfB) | [Historia Musical de Clímaco Sarmiento](https://open.spotify.com/album/52h4urEINXnhdVXMwC2h8F) | 2:53 | 2022-06-09 |  |
 | [El Toro](https://open.spotify.com/track/6vnh1UKX1P3BFRI3vt30WQ) | [Chico Hamilton](https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04) | [Passin' Thru](https://open.spotify.com/album/2E7vi1bLNOF4y8j5TETn4w) | 4:38 | 2022-07-12 | 2022-07-29 |
 | [El Toro](https://open.spotify.com/track/4NN79HOlMOViVw8GnRvyN4) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Passin' Thru](https://open.spotify.com/album/6jKVMB69KO4DOpZmCnH226) | 4:38 | 2022-07-27 |  |

@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: 347aidan.
 
-1,501 songs - 3 day 0 hr 21 min
+1,502 songs - 3 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1092,6 +1092,7 @@
 | [ROUGH 7](https://open.spotify.com/track/0ekzigrO6pKmtR2sOc9PW7) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [EP!](https://open.spotify.com/album/2xApp3I0BDU0THUdaxEq26) | 3:44 | 2020-12-12 | 2020-12-22 |
 | [Rrrrico](https://open.spotify.com/track/39QAXvwHUxFLDWUbTt0VP4) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [Sol](https://open.spotify.com/album/2cizw1XcPbsvih0hfJ8ydi) | 1:55 | 2021-10-15 | 2021-12-22 |
 | [Run](https://open.spotify.com/track/6p8eEdiZLKJH8tcjGZuNTK) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Run](https://open.spotify.com/album/6vC3YjRy755VljFSemBUu7) | 3:15 | 2020-10-13\* | 2021-01-23 |
+| [Run from you](https://open.spotify.com/track/2hGgCuB3Cqmu92eULAiXhW) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Run from you](https://open.spotify.com/album/3CCw8H7YKnufmFZ0baD7vf) | 2:26 | 2023-09-13 |  |
 | [Run MF](https://open.spotify.com/track/4upYjlsNwn8lEsp9cRvdKO) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [Ms\. Genius](https://open.spotify.com/album/2LlOpR7rmqHKvAPZdMKb1U) | 2:27 | 2022-04-08 | 2022-04-29 |
 | [Run Out](https://open.spotify.com/track/5sjeYIsN6g6WE65vUmpCs6) | [ALX](https://open.spotify.com/artist/1RE4ryNw7e9GftMcUeYKrR) | [Run Out](https://open.spotify.com/album/0mQf45gp7DrD5EteWXm7Ic) | 2:46 | 2021-08-19 | 2021-10-16 |
 | [RUNAWAY](https://open.spotify.com/track/6PozrSDNgIWRvm9LM8BB6L) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RUNAWAY](https://open.spotify.com/album/4m4Ohp8rvOe3YANkKTb40C) | 3:15 | 2022-02-25 | 2022-05-10 |

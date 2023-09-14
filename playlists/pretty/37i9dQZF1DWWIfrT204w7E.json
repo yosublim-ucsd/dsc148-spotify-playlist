@@ -1,12 +1,12 @@
 {
   "description": "Drill scenes connect. Cover: Dave & Central Cee",
-  "num_followers": 148559,
+  "num_followers": 148641,
   "original_name": "City to City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjQxNDQ3MDQ1NTkwODFjNWU5YjFlZTFkMTBmZGY3NzQ1NjU4Y2Nk",
+  "snapshot_id": "MCxkMDNhMzAyMmI3NTdmOTc3MjQ4NzAyYTI3ZmM3MzIwOWYwMWVjYmEy",
   "tracks": [
     {
       "added_at": "2023-08-18 08:47:58",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-18 08:47:58",
       "album": {
-        "name": "Loyalty Over Royalty",
-        "url": "https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G"
-      },
-      "artists": [
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        }
-      ],
-      "duration_ms": 123262,
-      "name": "Whoopty",
-      "url": "https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO"
-    },
-    {
-      "added_at": "2023-08-18 08:47:58",
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 153561,
       "name": "No Suburban, Pt. 2",
       "url": "https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f"
+    },
+    {
+      "added_at": "2023-08-18 08:47:58",
+      "album": {
+        "name": "Loyalty Over Royalty",
+        "url": "https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G"
+      },
+      "artists": [
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        }
+      ],
+      "duration_ms": 123262,
+      "name": "Whoopty",
+      "url": "https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO"
     },
     {
       "added_at": "2023-08-18 08:47:58",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-18 08:47:58",
       "album": {
-        "name": "Is Ya Ready",
-        "url": "https://open.spotify.com/album/7N2DIKOu4lxVAqcLX8ZOqp"
-      },
-      "artists": [
-        {
-          "name": "Kay Flock",
-          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
-        }
-      ],
-      "duration_ms": 124513,
-      "name": "Is Ya Ready",
-      "url": "https://open.spotify.com/track/2QXWdzWLvRZToFFyY49Exz"
-    },
-    {
-      "added_at": "2023-08-18 08:47:58",
-      "album": {
         "name": "AP (Music from the film Boogie)",
         "url": "https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI"
       },
@@ -671,22 +655,42 @@
     {
       "added_at": "2023-08-18 08:47:58",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
+        "name": "Is Ya Ready",
+        "url": "https://open.spotify.com/album/7N2DIKOu4lxVAqcLX8ZOqp"
       },
       "artists": [
         {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ"
+      "duration_ms": 124513,
+      "name": "Is Ya Ready",
+      "url": "https://open.spotify.com/track/2QXWdzWLvRZToFFyY49Exz"
+    },
+    {
+      "added_at": "2023-08-18 08:47:58",
+      "album": {
+        "name": "City of Gods",
+        "url": "https://open.spotify.com/album/0Nzff60OICCUBrtr980elH"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "City of Gods",
+      "url": "https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c"
     },
     {
       "added_at": "2023-08-18 08:47:58",
@@ -715,26 +719,22 @@
     {
       "added_at": "2023-08-18 08:47:58",
       "album": {
-        "name": "City of Gods",
-        "url": "https://open.spotify.com/album/0Nzff60OICCUBrtr980elH"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
       },
       "artists": [
         {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         }
       ],
-      "duration_ms": 256000,
-      "name": "City of Gods",
-      "url": "https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c"
+      "duration_ms": 183829,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ"
     },
     {
       "added_at": "2023-08-18 08:47:58",

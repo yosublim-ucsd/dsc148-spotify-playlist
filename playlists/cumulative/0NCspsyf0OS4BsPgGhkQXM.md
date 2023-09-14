@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-826 songs - 1 day 20 hr 39 min
+827 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Lost](https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Lost](https://open.spotify.com/album/4718f8p5I2EHop2LwcPHah) | 3:08 | 2022-05-05 | 2023-05-13 |
 | [Lost In My Mind](https://open.spotify.com/track/2J6k6GnFrWm3i5rueXr1p1) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Lost In My Mind](https://open.spotify.com/album/0zL7vKsNDJPLm91dliiMlX) | 3:15 | 2022-03-04 | 2022-04-02 |
 | [Lost My Mind](https://open.spotify.com/track/4RWa0yikVR7JeEFhhfoq7A) | [Able Grey](https://open.spotify.com/artist/6fkfeksXohRMypM9kdYjNb), [NoelleMichelle](https://open.spotify.com/artist/0eKsXE7hCYMRuPThWm6YWT) | [WE ARE EX MEDIAS VOL\. III](https://open.spotify.com/album/4eOvhNcS8CFASLRupC6h6y) | 4:03 | 2023-05-31 |  |
+| [LOST WITH U](https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe), [Brody Leigh](https://open.spotify.com/artist/1zGoUA3v41GWPM64amPniZ) | [LOST WITH U](https://open.spotify.com/album/0aBNGuelsRj7vj2IPHpPln) | 3:08 | 2023-09-13 |  |
 | [Lost Without You](https://open.spotify.com/track/5x7dCMY120aFbg33VxCjpG) | [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [KnownAsNat](https://open.spotify.com/artist/4CxkpkQVs7cguL10DtmyjR) | [Lost Without You](https://open.spotify.com/album/3ZMIql6dt08cpegtz4Gr7b) | 3:51 | 2022-02-04 | 2022-03-05 |
 | [Love Again](https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ) | [Love Again](https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs) | 3:50 | 2022-05-06 | 2022-07-09 |
 | [Love Is a Bitch](https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Love Is a Bitch](https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s) | 3:01 | 2023-08-18 |  |
@@ -607,7 +608,7 @@
 | [RESONATE](https://open.spotify.com/track/7HtJbNlSTd0DXRaNxLBNox) | [BLVZE](https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2) | [RESONATE](https://open.spotify.com/album/38gQrzZNZLH40xu3xKeeZ9) | 2:48 | 2022-10-07 | 2022-11-05 |
 | [Respect the Selector](https://open.spotify.com/track/3BiSC5gsupFqSVQyqk5zAx) | [Where's Rin](https://open.spotify.com/artist/7MkV3ngSihtUb8nCO57o0F) | [Respect the Selector](https://open.spotify.com/album/4rRfk6PqNBknBy1A8DQWc1) | 2:47 | 2022-11-15 | 2023-02-22 |
 | [Revenant](https://open.spotify.com/track/4ZbRH1596F1j9uhSPCToQO) | [E.Y\. Beats](https://open.spotify.com/artist/3LV94vQj0kuUPtaU1gwk4H), [Sarrox](https://open.spotify.com/artist/7Irm9thOhKmS2rYdazKmbB) | [Revenant](https://open.spotify.com/album/3vnTFbB9gysuryQz4PEXUA) | 2:17 | 2022-01-14 | 2022-02-10 |
-| [Revolution \(feat\. Faustix & Imanos and Kai\)](https://open.spotify.com/track/7aaeZpSr54XQKSwMYO5JeH) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Faustix & Imanos](https://open.spotify.com/artist/4BXklnu49JdL9ZJBSiN3Hx), [Kai](https://open.spotify.com/artist/1gS7f2dZDZorikdyFNeEp4) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:23 | 2023-02-21 |  |
+| [Revolution \(feat\. Faustix & Imanos and Kai\)](https://open.spotify.com/track/7aaeZpSr54XQKSwMYO5JeH) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [Kai](https://open.spotify.com/artist/1gS7f2dZDZorikdyFNeEp4) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:23 | 2023-02-21 |  |
 | [Rip My Heart Out](https://open.spotify.com/track/12EYzHLOtNpbKP0rqEtscZ) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Rip My Heart Out \(feat\. Skyler Cocco\)](https://open.spotify.com/album/3jX1SR354v3ExrrejmwSfE) | 3:51 | 2022-02-18 | 2022-07-02 |
 | [Rise](https://open.spotify.com/track/7IdiMAXXM6PgTQkoAdGycw) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2) | [Rise](https://open.spotify.com/album/6806Cvd9SUcwRPiRu0blqt) | 3:25 | 2023-02-21 | 2023-07-29 |
 | [Roof Down](https://open.spotify.com/track/2hRm3384vOFLfMnX06WxYC) | [NOMIS.K](https://open.spotify.com/artist/36hPgyntcoyEcgYDkaKrBc) | [Fragments EP](https://open.spotify.com/album/28gU1VbzdzjgET7fpwgbtv) | 2:54 | 2022-04-22 | 2022-06-04 |

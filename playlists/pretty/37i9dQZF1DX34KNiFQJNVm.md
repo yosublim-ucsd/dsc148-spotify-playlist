@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Raí Saia Rodada e João Gomes, Iguinho e Lulinha, Sidoka, Olivia Rodrigo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,976 likes - 97 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,917,341 likes - 97 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 78 | [Patricia da Favela](https://open.spotify.com/track/4R8FQNnTBrFFjta5j23PoP) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Zuffi](https://open.spotify.com/artist/1wfHuKr2OvhVaXSvoYG1y6), [S3TH](https://open.spotify.com/artist/6H2KFxb1wxr2Ql0B9TcCZL) | [Patricia da Favela](https://open.spotify.com/album/4uNeo99T0VbTxFHheTfuaK) | 2:57 |
 | 79 | [SW5G](https://open.spotify.com/track/1VtBmXGtsliU5UUzRe4lWN) | [mavyrmldy](https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [SW5G](https://open.spotify.com/album/4HHmZIE8bEGIE9JgUWt17m) | 1:51 |
 | 80 | [Me Envolvo](https://open.spotify.com/track/0JbqPaiEZWUwwOhfOZvyu3) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [Metamorf](https://open.spotify.com/album/4cuTasGsG88sF9V0jiXHlK) | 2:33 |
-| 81 | [Conga La Conga](https://open.spotify.com/track/6H3oPXa5AtznVvrc3i56Gj) | [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw), [Lil Vi](https://open.spotify.com/artist/3oFi6HudKNWBVYh04VxmiB), [Unike Entertainment](https://open.spotify.com/artist/2XSIkgWHWQln0mGwoGTJyj) | [Conga La Conga](https://open.spotify.com/album/1RgwD3nM2CWteqTTmnNQWA) | 2:10 |
+| 81 | [Conga La Conga](https://open.spotify.com/track/6H3oPXa5AtznVvrc3i56Gj) | [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw), [Lil Vi](https://open.spotify.com/artist/3oFi6HudKNWBVYh04VxmiB) | [Conga La Conga](https://open.spotify.com/album/1RgwD3nM2CWteqTTmnNQWA) | 2:11 |
 | 82 | [Bárbara de Alencar](https://open.spotify.com/track/28dfGdPo3xy8ljBSF3e6RX) | [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33), [Ana Costa](https://open.spotify.com/artist/77ZhrmEYfNKq50j4kR6KFc) | [Sete Mulheres Pela Independência do Brasil](https://open.spotify.com/album/0Dzp7dgYQGEb55wNwDvZkf) | 3:02 |
 | 83 | [Meu Fechamento](https://open.spotify.com/track/1Qh2N24WF6Vm0hJsWixrGr) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Meu Fechamento](https://open.spotify.com/album/3vsrbA8dwUeoeo8QQs2xR8) | 3:28 |
 | 84 | [Dia de Paz](https://open.spotify.com/track/6RwAnu45njj1fG1ml9aRaG) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o), [Blanc Sec](https://open.spotify.com/artist/50IfORdVnvR5MdG57ZhNEF) | [Dia de Paz](https://open.spotify.com/album/4tg21Jv8yIvQZjpr4euznW) | 3:37 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [Infinito](https://open.spotify.com/track/20OG9zYTP6fIF7nVIYf2nP) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx) | [Infinito](https://open.spotify.com/album/7rouN2ggOFbB4cQCcOFA8j) | 2:33 |
 | 97 | [Quem vai apagar a luz](https://open.spotify.com/track/17o3WyVnuZB0YtvQ6zjNMG) | [Sophia Chablau e Uma Enorme Perda de Tempo](https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj), [Negro Leo](https://open.spotify.com/artist/6UKn12Sg5H3SyiFX5GalB6) | [Música do Esquecimento](https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb) | 2:39 |
 
-Snapshot ID: `MCw3NTNjNWRmMTc5ZjBiZGUxZWU2MDA5ZDUwZWVmNDMwMWMyODBkNGJl`
+Snapshot ID: `MCxjZGZiNTYxMDA1N2FkNjQ2ZDFjM2RmOTk2Mjk0ZGE1N2JiYzg2ZDcw`

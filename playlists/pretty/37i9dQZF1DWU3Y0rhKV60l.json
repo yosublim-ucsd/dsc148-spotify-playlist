@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 8149,
+  "num_followers": 8176,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWMyOTg1MTY0ZmY5MzEwNWU4OTc5ZjZiYzFjNTI5ZDI2OTBmZjVk",
+  "snapshot_id": "MCwzMTVmYWFiMGUzZTM4NTA3ZDZhZDViNjY2NzFlYmJmZDhhMmU4MTll",
   "tracks": [
     {
       "added_at": "2023-06-19 08:59:16",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Oceanic Samples",
-        "url": "https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt"
-      },
-      "artists": [
-        {
-          "name": "Hi Freq Samples",
-          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Heavy Oceans",
-      "url": "https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "3D Audio Textures of Waves",
         "url": "https://open.spotify.com/album/27CDKjjwubPm4ZAQVNqsPq"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 280336,
       "name": "Close to the Shores",
       "url": "https://open.spotify.com/track/243lmQ66EFqpi10PJa5JU4"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Oceanic Samples",
+        "url": "https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt"
+      },
+      "artists": [
+        {
+          "name": "Hi Freq Samples",
+          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Heavy Oceans",
+      "url": "https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Mystic Oceanic Haze",
-        "url": "https://open.spotify.com/album/4EMxafhgSM7uUpRc1cbhdL"
-      },
-      "artists": [
-        {
-          "name": "Dreams of Dreams",
-          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
-        }
-      ],
-      "duration_ms": 128259,
-      "name": "Mystic Oceanic Haze",
-      "url": "https://open.spotify.com/track/4mcepi8rh6nRNNCGvKLR3i"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "Calm Sounds of Nature",
         "url": "https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE"
       },
@@ -651,18 +635,34 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Oceania",
-        "url": "https://open.spotify.com/album/6BC1BnvuC4fknH2P7GBvwZ"
+        "name": "The Mighty Ocean",
+        "url": "https://open.spotify.com/album/3HiJVREwoCfooghAEqS1UJ"
       },
       "artists": [
         {
-          "name": "Ocean Sounds FX",
-          "url": "https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK"
+          "name": "Sea Kelp",
+          "url": "https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh"
         }
       ],
-      "duration_ms": 129746,
-      "name": "Salty Sea Breezes",
-      "url": "https://open.spotify.com/track/1fJnFst1A5P5b9LD7zzHTc"
+      "duration_ms": 213624,
+      "name": "The Mighty Ocean - Seamless",
+      "url": "https://open.spotify.com/track/0iNxGeDgOlsk3DGQMLLvs2"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Mystic Oceanic Haze",
+        "url": "https://open.spotify.com/album/4EMxafhgSM7uUpRc1cbhdL"
+      },
+      "artists": [
+        {
+          "name": "Dreams of Dreams",
+          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
+        }
+      ],
+      "duration_ms": 128259,
+      "name": "Mystic Oceanic Haze",
+      "url": "https://open.spotify.com/track/4mcepi8rh6nRNNCGvKLR3i"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "The Mighty Ocean",
-        "url": "https://open.spotify.com/album/3HiJVREwoCfooghAEqS1UJ"
+        "name": "Oceania",
+        "url": "https://open.spotify.com/album/6BC1BnvuC4fknH2P7GBvwZ"
       },
       "artists": [
         {
-          "name": "Sea Kelp",
-          "url": "https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh"
+          "name": "Ocean Sounds FX",
+          "url": "https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK"
         }
       ],
-      "duration_ms": 213624,
-      "name": "The Mighty Ocean - Seamless",
-      "url": "https://open.spotify.com/track/0iNxGeDgOlsk3DGQMLLvs2"
+      "duration_ms": 129746,
+      "name": "Salty Sea Breezes",
+      "url": "https://open.spotify.com/track/1fJnFst1A5P5b9LD7zzHTc"
     },
     {
       "added_at": "2023-06-19 08:59:16",

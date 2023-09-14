@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 224800,
       "name": "Christie Rd. - Outtake",
       "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 545706,
       "name": "Coney Island Baby - Live",
       "url": "https://open.spotify.com/track/5KP5MAyH27baIHYWu5Bj6y"
@@ -5573,6 +5573,28 @@
     },
     {
       "album": {
+        "name": "Hymn to the Sun. Russian Piano Treasures",
+        "url": "https://open.spotify.com/album/78gkqBuNtsEifuyrBD4CQL"
+      },
+      "artists": [
+        {
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+        },
+        {
+          "name": "Manuel del Corral",
+          "url": "https://open.spotify.com/artist/1399uZh5GCbxPwTfXkx6mb"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122711,
+      "name": "Hopak",
+      "url": "https://open.spotify.com/track/7t4bXpsDCAFMHZvkXCPM0K"
+    },
+    {
+      "album": {
         "name": "Moon River / How Could We Know",
         "url": "https://open.spotify.com/album/1qEvo5oupbjyJt2tdgnAZT"
       },
@@ -5662,7 +5684,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 230380,
       "name": "Hymn to the Sun",
       "url": "https://open.spotify.com/track/70XVkRO1xd2vnECuo68hzq"
@@ -8692,7 +8714,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 172968,
       "name": "MONTAGEM PR FUNK - Alesso Remix",
       "url": "https://open.spotify.com/track/58L5MMUqBCZROyYBrRHxsT"
@@ -9572,7 +9594,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 324411,
       "name": "Old Mule Skinner - 2023 Remaster",
       "url": "https://open.spotify.com/track/2KfkGoNK0fuw2w40whv7mB"
@@ -11801,6 +11823,32 @@
     },
     {
       "album": {
+        "name": "Seven (feat. Latto) (Alesso Remix)",
+        "url": "https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162480,
+      "name": "Seven (feat. Latto) (Alesso Remix)",
+      "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
+    },
+    {
+      "album": {
         "name": "Classical Essentials: Tchaikovsky",
         "url": "https://open.spotify.com/album/7t98Cgstn3B7r0X6X5dTzX"
       },
@@ -11896,7 +11944,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 333440,
       "name": "She's My Best Friend - Live",
       "url": "https://open.spotify.com/track/1v0au4U2fSOC7MpV8GvCxs"
@@ -12264,7 +12312,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 209026,
       "name": "Sometimes You Lose Before You Win",
       "url": "https://open.spotify.com/track/2c4goRObjUsHBWfXS9xBRB"
@@ -13422,7 +13470,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 231960,
       "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
       "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
@@ -15032,7 +15080,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 169773,
       "name": "Walking the Dog (demo) - Outtake",
       "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
@@ -15090,6 +15138,24 @@
       "duration_ms": 273559,
       "name": "Warning Sign - Live 1978",
       "url": "https://open.spotify.com/track/1aA6w496GtasaDXEFuU2sr"
+    },
+    {
+      "album": {
+        "name": "Rare Trax (2023 Remaster)",
+        "url": "https://open.spotify.com/album/1pkHXP581drtcsa8BhpxHt"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306176,
+      "name": "Warrior Tribe - 2023 Remaster",
+      "url": "https://open.spotify.com/track/5tJ6meee6GEWjcsZgNzIPw"
     },
     {
       "album": {
@@ -15930,7 +15996,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 170293,
       "name": "You're Awesome",
       "url": "https://open.spotify.com/track/5BoixLIVWjFbzurhaZvHwA"

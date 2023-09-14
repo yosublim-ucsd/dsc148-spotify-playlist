@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-565 songs - 23 hr 8 min
+566 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Look After Yourself](https://open.spotify.com/track/1SL75FDChNKsexXzKgDb5P) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Look After Yourself](https://open.spotify.com/album/4ZhHQLB6hZCFU3k3qzx6wL) | 3:07 | 2023-09-08 |  |
 | [Losing Ground](https://open.spotify.com/track/0s8WAg0nNe2ia0qKtkAfdu) | [OMOZO](https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy) | [Losing Ground](https://open.spotify.com/album/3zdjmQpQjyfuiFynMPYquD) | 2:47 | 2022-02-17 | 2023-09-09 |
 | [Lotus](https://open.spotify.com/track/3I2UfvebTSME6qOSvvuxnI) | [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Lotus](https://open.spotify.com/album/2IOMBujAQ7aN3vKSnDX4pM) | 3:23 | 2022-02-17 | 2023-09-09 |
-| [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2023-09-08 |  |
+| [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2023-09-08 | 2023-09-14 |
 | [Low Jump](https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Low Jump](https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ) | 1:36 | 2023-09-08 |  |
 | [low wave](https://open.spotify.com/track/0uJzNH4kMiF3k8JotEVf4h) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [low wave](https://open.spotify.com/album/7nYHKRzvaKeJ4XOzIC8bXw) | 1:37 | 2023-09-08 |  |
 | [Lucid Living](https://open.spotify.com/track/4wzysfxJsTFm2UvgOYFvrV) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Lucid Living](https://open.spotify.com/album/2ynlL4uaTJ9hMecU8W5LKb) | 2:26 | 2023-09-08 |  |
@@ -515,6 +515,7 @@
 | [Toys](https://open.spotify.com/track/0uA5haTZ3KkIWXReBo9PX1) | [Fairground Fish](https://open.spotify.com/artist/6lG54eZ9rnLWDSoaV4GtRE) | [XYZ](https://open.spotify.com/album/4EBEcFilrfd78jF1pIUe2M) | 2:22 | 2023-09-08 |  |
 | [Track Smack](https://open.spotify.com/track/2ExGfjMMr5PDTicSk65xQd) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [VIBES](https://open.spotify.com/album/1SYa5Vd1APzOiSiOQREnkW) | 3:12 | 2022-02-17 | 2022-09-10 |
 | [Track Smack](https://open.spotify.com/track/3eD2mfu97RybLSHMBzkVQN) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [VIBES](https://open.spotify.com/album/3OACGrVtxvKdMLki5HDRyZ) | 3:12 | 2022-06-24 | 2023-09-09 |
+| [Tranquil Twilight](https://open.spotify.com/track/22zMUlKVs4jOX5BBPrftUc) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Tranquil Twilight](https://open.spotify.com/album/3PZQWTZ50FwGQfJczPcDlA) | 2:00 | 2023-09-08 |  |
 | [Trapped](https://open.spotify.com/track/0Z1dHxSujWwG84iW25NtEd) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/0o3NCtLP4nGD0qWjhioJcM) | 3:53 | 2022-02-17 | 2022-07-29 |
 | [Trapped](https://open.spotify.com/track/2REWMmkPCYbvxlKaIncUk6) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/5Bn1qc91MUZO5U9dDh4bQb) | 3:53 | 2022-06-24 | 2023-09-09 |
 | [Travel](https://open.spotify.com/track/12ZDskgNqyg8hJ1J6wi59A) | [Klode Chill](https://open.spotify.com/artist/4ykT0z2VYMH0yh9NoVfzEo) | [Travel](https://open.spotify.com/album/119W51qjxm9IQfJlOROxzX) | 2:32 | 2023-09-08 |  |

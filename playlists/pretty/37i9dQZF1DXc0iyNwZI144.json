@@ -1,12 +1,12 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1084433,
+  "num_followers": 1084501,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmMyOTE5NTYyYWRmZmIwYjZiNjYwN2ExYTM4NDEwMGFmMzMxYmFl",
+  "snapshot_id": "MCxhN2I0MDBjYWMxMTcxOTY4YWIxZTk3ZTU5ZmQ4ZGU0Yjg5NDhhNjk2",
   "tracks": [
     {
       "added_at": "2022-02-25 03:00:00",
@@ -987,30 +987,6 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "All of Me (Ti\u00ebsto's Birthday Treatment Remix - Radio Edit)",
-        "url": "https://open.spotify.com/album/4c2rSdHI9WUXn0zyXoWtbB"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jason Agel",
-          "url": "https://open.spotify.com/artist/1fiatwjGipTH7cFxTeyKOP"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 251613,
-      "name": "All of Me - Ti\u00ebsto's Birthday Treatment Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
         "name": "Desce Pro Play (PA PA PA)",
         "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 168507,
       "name": "Desce Pro Play (PA PA PA)",
       "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
+        "name": "All of Me (Ti\u00ebsto's Birthday Treatment Remix - Radio Edit)",
+        "url": "https://open.spotify.com/album/4c2rSdHI9WUXn0zyXoWtbB"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jason Agel",
+          "url": "https://open.spotify.com/artist/1fiatwjGipTH7cFxTeyKOP"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 251613,
+      "name": "All of Me - Ti\u00ebsto's Birthday Treatment Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "I Found You (with Calvin Harris)",
-        "url": "https://open.spotify.com/album/3jfSJj7tHJxk1a4i2KZt9F"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 191495,
-      "name": "I Found You (with Calvin Harris)",
-      "url": "https://open.spotify.com/track/5sdb5pMhcK44SSLsj1moUh"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
         "name": "Burn Out (feat. Dewain Whitmore)",
         "url": "https://open.spotify.com/album/3feYPmyPH7tqh1ZfsU0D0i"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 200322,
       "name": "Burn Out (feat. Dewain Whitmore)",
       "url": "https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
+        "name": "I Found You (with Calvin Harris)",
+        "url": "https://open.spotify.com/album/3jfSJj7tHJxk1a4i2KZt9F"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 191495,
+      "name": "I Found You (with Calvin Harris)",
+      "url": "https://open.spotify.com/track/5sdb5pMhcK44SSLsj1moUh"
     },
     {
       "added_at": "2022-02-25 03:00:00",

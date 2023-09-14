@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Alana Springsteen
 
-388 songs - 19 hr 32 min
+389 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Dutton Ranch Freestyle](https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA) | 2:23 | 2022-08-12 | 2023-03-09 |
 | [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 | 2023-03-03 |  |
 | [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 | 2022-04-15 |  |
-| [Eat Pray Drugs](https://open.spotify.com/track/1Cmxg862124HUQNshfcYtO) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Eat Pray Drugs](https://open.spotify.com/album/5prG4hTUYdc5db6QewYWwQ) | 2:56 | 2022-09-16 |  |
+| [Eat Pray Drugs](https://open.spotify.com/track/1Cmxg862124HUQNshfcYtO) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Eat Pray Drugs](https://open.spotify.com/album/5prG4hTUYdc5db6QewYWwQ) | 2:56 | 2022-09-16 | 2023-09-14 |
+| [Eat Pray Drugs](https://open.spotify.com/track/6ufMeWOAV31CJuFrA94J7a) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Florida](https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG) | 2:56 | 2023-09-08 |  |
 | [Effortless](https://open.spotify.com/track/6cxnYQWZdZDlfJiCtI1vnr) | [Salemtown](https://open.spotify.com/artist/6Lblad81pn8Lhh6OKNiax2) | [Effortless](https://open.spotify.com/album/2Afegl9NLgCYGQCHfYjSVd) | 3:24 | 2021-12-10 | 2022-05-20 |
 | [Everything Changes](https://open.spotify.com/track/5qDERSuqkR2swJWGkH2Oox) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Everything Changes](https://open.spotify.com/album/3u1603AetS0Vg1TWSRIU1N) | 3:10 | 2021-12-10 | 2022-02-26 |
 | [Everything I'm Not](https://open.spotify.com/track/2Sh4TM6Ypg3KiEjdOS2GVy) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Everything I'm Not](https://open.spotify.com/album/69xhM28ljDGkmazJoODM87) | 3:11 | 2021-12-10 | 2022-10-27 |

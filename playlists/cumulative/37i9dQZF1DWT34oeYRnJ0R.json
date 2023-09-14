@@ -4698,6 +4698,36 @@
     {
       "album": {
         "name": "Otro D\u00eda Lluvioso (with Lenny Tavarez & Becky G feat. Dalex)",
+        "url": "https://open.spotify.com/album/0m6bQoUFFfVmty2EsA3XjA"
+      },
+      "artists": [
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "Lenny Tavarez",
+          "url": "https://open.spotify.com/artist/5RnYOfWvm7UjbSnTdOYHZC"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265280,
+      "name": "Otro D\u00eda Lluvioso (with Lenny Tavarez & Becky G feat. Dalex)",
+      "url": "https://open.spotify.com/track/1TwSySLk24VxFyly1iqW9h"
+    },
+    {
+      "album": {
+        "name": "Otro D\u00eda Lluvioso (with Lenny Tavarez & Becky G feat. Dalex)",
         "url": "https://open.spotify.com/album/6MGhjZ5uPXwciHnjOGUIxK"
       },
       "artists": [
@@ -6112,7 +6142,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 154960,
       "name": "Tu No Me Amas",
       "url": "https://open.spotify.com/track/2uyJGVcniKrNpt2ZSIGOqg"

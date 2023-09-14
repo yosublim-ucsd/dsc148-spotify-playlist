@@ -6878,7 +6878,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 130453,
       "name": "Finist\u00e8re",
       "url": "https://open.spotify.com/track/48jWqOZcas6heN0VBS6xjw"
@@ -13138,6 +13138,24 @@
       "duration_ms": 112363,
       "name": "Midnight Stroll",
       "url": "https://open.spotify.com/track/7b3jF2ZWTnkUpau3E78NNV"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/1mP62AYCyg7eicascwllt9"
+      },
+      "artists": [
+        {
+          "name": "MLTSMTHNG",
+          "url": "https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135214,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/1Cqj266QvBLBNNhRFfupDj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 布袋寅泰
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,143 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,144 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Taiban](https://open.spotify.com/track/0Y1h4vHrIQASEX0I9KOH2G) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W) | [Taiban](https://open.spotify.com/album/1R90ou1rdQdFPWYR4CZqFU) | 3:44 |
 | 80 | [Horizon](https://open.spotify.com/track/2UeeixjhUudFsmKTU1jEXl) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Horizon](https://open.spotify.com/album/6R0xlPxbRThYm3Xc3teGNF) | 4:01 |
 
-Snapshot ID: `MCw4YjBlNTFmNWMxMzExMWUyZmQ3YjY3YjZmOWQwZDIyYmM1ZGUyMTVl`
+Snapshot ID: `MCwyMjYwZmI2ZDQ4YzE4NmUxZjEzYTZlMmQxODAwOWYwNTc0YWI2ZjE0`

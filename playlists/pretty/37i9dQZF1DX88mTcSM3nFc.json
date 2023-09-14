@@ -1,12 +1,12 @@
 {
   "description": "christmas always makes me cry",
-  "num_followers": 18532,
+  "num_followers": 18536,
   "original_name": "sad xmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTRmZjg5YzRjZDJmMDQzMjVmNTg5MjE1ODMwZGZkNDZlNDE5ZmYy",
+  "snapshot_id": "MCw1NWVmNTdjMmY5MzNmMTMxZmNkOGE4YzFkNDE5ZTc0ZWNjMmZlNDMz",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Bing's Gold Records - The Original Decca Recordings",
-        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "I'll Be Home For Christmas - Single Version",
-      "url": "https://open.spotify.com/track/1fjOitI0vZ41P63p1MQLcc"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -535,22 +519,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/4iTfml41SOUBHXgMUHLUVV"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Every Holiday",
         "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
       },
@@ -563,6 +531,22 @@
       "duration_ms": 224275,
       "name": "Every Holiday",
       "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/4iTfml41SOUBHXgMUHLUVV"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -731,22 +715,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "A Very Kacey Christmas",
-        "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "Christmas Makes Me Cry",
-      "url": "https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "To Enjoy Is the Only Thing",
         "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 130506,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "A Very Kacey Christmas",
+        "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Christmas Makes Me Cry",
+      "url": "https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -827,6 +811,22 @@
       "duration_ms": 186360,
       "name": "Whatever Happened To Christmas?",
       "url": "https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 293813,
+      "name": "Another Lonely Christmas",
+      "url": "https://open.spotify.com/track/26F1nzp6tCtXsiDcBCfZcg"
     }
   ],
   "unique_name": "sad xmas",

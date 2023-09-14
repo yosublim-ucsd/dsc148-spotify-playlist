@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Stella Bossi
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,112 likes - 90 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,313 likes - 90 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Old School](https://open.spotify.com/track/0bIrl9bmKPztH1TQCTwuEr) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Old School EP](https://open.spotify.com/album/5n8Ql5AetOmyb7XNWIPuRw) | 5:31 |
 | 90 | [Higher](https://open.spotify.com/track/1lxy8QNuoHOuUNVEpAfH5V) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Raredub](https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4) | [HIGHER](https://open.spotify.com/album/2TX87UckqmOahcUREbqdYT) | 5:41 |
 
-Snapshot ID: `MCw4NTJhMzY3NmY3Yjc5MmMyZTFiMWNhNTYwYjdjNjhiOThkMDFjZmFl`
+Snapshot ID: `MCw3Y2E4OWQwOWRhYjI5N2FkODViNDZjNmEwZjMyMmFmYWM1YTViZTNm`

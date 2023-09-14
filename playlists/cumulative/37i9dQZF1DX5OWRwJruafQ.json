@@ -3255,6 +3255,28 @@
     },
     {
       "album": {
+        "name": "Ruger",
+        "url": "https://open.spotify.com/album/0axpZCFDzLbeTqDB8cECT8"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190974,
+      "name": "Ruger",
+      "url": "https://open.spotify.com/track/32EpNY3TY3cVhVVJmv4rFn"
+    },
+    {
+      "album": {
         "name": "Shartan",
         "url": "https://open.spotify.com/album/2jNWvoRUGhWIiko0zPEepV"
       },

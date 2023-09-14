@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Noah Gundersen
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,563 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,593 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 59 | [You're Gonna Be A Daddy](https://open.spotify.com/track/0CH7gHUFZZTwRr482gmzj7) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [You At The Top Of The Driveway/You're Gonna Be A Daddy](https://open.spotify.com/album/4ZPRYPna0yIpEItgtKGmtr) | 3:39 |
 | 60 | [I See Right Now](https://open.spotify.com/track/3k9ohANB4k3qJ1GoAi5Ov5) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [I See Right Now](https://open.spotify.com/album/19qGNr92QIdjdcItOp2Igm) | 5:32 |
 | 61 | [Tough Kid](https://open.spotify.com/track/6xkB8wWwSaNUzwAtsYT3hB) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Tough Kid](https://open.spotify.com/album/2GSEOGcz3hc6b8ebuCehNd) | 3:47 |
-| 62 | [Song for a Lover \- of Long Ago](https://open.spotify.com/track/0dpBerJc0WgrXitneMnKXo) | [DeYarmond Edison](https://open.spotify.com/artist/6arKuGbH3PuYfGN6yJ7RA9) | [Epoch b/w Song for a Lover \(of Long Ago\)](https://open.spotify.com/album/2sdOrVDwNWeKfj2IGUZQQO) | 5:45 |
+| 62 | [Song for a Lover \- of Long Ago](https://open.spotify.com/track/5Yvoq61AoAEfoQTN75x8kE) | [DeYarmond Edison](https://open.spotify.com/artist/6arKuGbH3PuYfGN6yJ7RA9) | [Epoch](https://open.spotify.com/album/5JaZnV5jHxENVReBFflODn) | 5:45 |
 | 63 | [I Just Love You \- Reimagined by Roo Panes](https://open.spotify.com/track/0lPXit76jUB71FPgiUL6hk) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles \(Reimagined\)](https://open.spotify.com/album/3d8we6LaUxpcy2AQZu7o1m) | 4:00 |
 | 64 | [nothing gold](https://open.spotify.com/track/47Lqo7g68RY8cDawQfFbo1) | [Maya Manuela](https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw) | [nothing gold](https://open.spotify.com/album/1nacXp5REPHtOeoNChYpHa) | 3:41 |
 | 65 | [Haunted House](https://open.spotify.com/track/2LZs6iK8SLfkhjX7LBMaQp) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Haunted House](https://open.spotify.com/album/7ghnTGHrhtfPuYEFuP85hc) | 3:44 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Portrait Of A Clear Day](https://open.spotify.com/track/61NuERgW2NGX37TcCcoVfm) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 3:20 |
 | 150 | [Moonstruck](https://open.spotify.com/track/3c2EJZOuPkXFAqiroBQVox) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Moonstruck](https://open.spotify.com/album/1gEJ7uSk7dwenIOGNtKpuu) | 4:29 |
 
-Snapshot ID: `MCxhZDQ4ZjlmNDE5MTMxNDJkZGFmNmNlNDQ1ZmRhMTVkMDMyYzJmYWJi`
+Snapshot ID: `MCxjNWQ0ZDQwZjc5NjRlMTU5ZDA2YmI0MDUyM2U4NzEwMDMxMDQ1M2Ux`

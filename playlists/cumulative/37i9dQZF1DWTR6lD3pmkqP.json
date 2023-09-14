@@ -4759,6 +4759,24 @@
     },
     {
       "album": {
+        "name": "Excursions",
+        "url": "https://open.spotify.com/album/2mY8eLTx5p8yYagLQsBIiH"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168160,
+      "name": "Life Of Leisure",
+      "url": "https://open.spotify.com/track/7j8finaciTQt2pVZcSmkqN"
+    },
+    {
+      "album": {
         "name": "Light on Sanzu River",
         "url": "https://open.spotify.com/album/2PixDsRaSFnjwynFttSfII"
       },
@@ -7506,7 +7524,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 311886,
       "name": "Road to the Sun",
       "url": "https://open.spotify.com/track/3q7B1yOekfchSddJHfuZdT"

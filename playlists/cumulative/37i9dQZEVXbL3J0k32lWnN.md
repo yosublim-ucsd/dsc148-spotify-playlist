@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,207 songs - 2 day 14 hr 57 min
+1,208 songs - 2 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,7 +588,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-11-22 | 2022-12-29 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-05 |
 | [Juice](https://open.spotify.com/track/00FOuShzUFrNDKN4DV12GV) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Juice](https://open.spotify.com/album/2Rqz6CoEiHnDbU7rXQ4TrW) | 2:39 | 2022-06-29 | 2022-10-02 |
-| [Juice](https://open.spotify.com/track/7Ku8cFTqbFMKSWGuf1evPQ) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Stiv Kuling](https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU) | 2:40 | 2022-10-01 |  |
+| [Juice](https://open.spotify.com/track/7Ku8cFTqbFMKSWGuf1evPQ) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Stiv Kuling](https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU) | 2:40 | 2022-10-01 | 2023-09-14 |
 | [Jul Det' Cool](https://open.spotify.com/track/4QOTOTJsJjgrAf0BgnfaRF) | [Mc Einar](https://open.spotify.com/artist/6nQ6GgIEtRhG0jK4SvzO74) | [Jul Det' Cool](https://open.spotify.com/album/77KiQWlheN9xUJd5f51qku) | 5:59 | 2021-11-28 | 2022-12-27 |
 | [Jul i Angora](https://open.spotify.com/track/4LTUBsLeIn8qcopkFwhwK9) | [Drengene Fra Angora](https://open.spotify.com/artist/14Yvg4O01WlpP3Jm2AP6oI) | [Drengene fra Angora](https://open.spotify.com/album/3j5ZmMOvu5P8YmWLCST4fk) | 3:59 | 2021-11-28 | 2022-12-27 |
 | [Jul i Valhal](https://open.spotify.com/track/2sYa8IysQXY2F1NiLTqj2Y) | [Martin Brygmann](https://open.spotify.com/artist/1mEjxHmV73X8Nr3HY47n17), [Sarah West](https://open.spotify.com/artist/2d6fU7pGHJDtMXbcX2fpvr) | [Jul I Valhal](https://open.spotify.com/album/3XnjrnOFZ3qVtPTuYEIvQE) | 3:32 | 2022-11-28 | 2022-11-30 |
@@ -1023,6 +1023,7 @@
 | [STOR MAN](https://open.spotify.com/track/3Ogy0Sog7JmnXBn43Dmyv0) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [STOR MAN](https://open.spotify.com/album/2zkfMfrIQicYXK6tEDlavG) | 3:03 | 2023-07-08 | 2023-07-23 |
 | [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:02 | 2022-10-22 |  |
 | [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/56Ua2ypj5HWnotoIF3lEHc) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/0ZjlCteIeQUApCh9TqoRPA) | 3:02 | 2021-08-15 | 2022-10-23 |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-13 |  |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-26 |
 | [Stupid Man \(feat\. Gobs & Thomas Helmig\)](https://open.spotify.com/track/7AwNzjpMLHvlkbgOc5MVKI) | [Mike Lowrey](https://open.spotify.com/artist/1Ty16CxXn9CapBAn9bt4Hv), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj) | [Stupid Man \(feat\. Gobs & Thomas Helmig\)](https://open.spotify.com/album/18a8lBP1X7V6xKzOonbq4y) | 2:37 | 2022-06-11 | 2023-01-11 |
 | [Stå Op Gå Ned \(Artigeardit, Barselona\)](https://open.spotify.com/track/3ySVk3dhXh2NQcsjacqU0v) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 3:10 | 2021-05-30 | 2021-06-05 |

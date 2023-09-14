@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,283 songs - 2 day 0 hr 19 min
+1,284 songs - 2 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [Field Trip](https://open.spotify.com/track/0AKwjtNFJydEBeJXAbwFho) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Field Trip](https://open.spotify.com/album/6PH9BdezNFm9AknPPl9K9a) | 2:21 | 2022-12-16 |  |
 | [Fine Wine](https://open.spotify.com/track/5amlvBPMvmgPxxcJhkpXHN) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Street Lights](https://open.spotify.com/album/0TeWAJONgq6SVHVd6KtwIb) | 2:53 | 2022-01-27 | 2022-09-09 |
 | [Finish Line](https://open.spotify.com/track/2TTmqCgIFJxA8nMBAaR9v7) | [Abbesses Square](https://open.spotify.com/artist/6FSygvawNhfzoREb50lmFL) | [Buskin](https://open.spotify.com/album/51srnMKZ1Ic8qAFmBJK9xP) | 3:02 | 2022-01-27 | 2022-07-08 |
-| [Finistère](https://open.spotify.com/track/48jWqOZcas6heN0VBS6xjw) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 2:10 | 2022-12-09 |  |
+| [Finistère](https://open.spotify.com/track/48jWqOZcas6heN0VBS6xjw) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 2:10 | 2022-12-09 | 2023-09-14 |
 | [Firefly](https://open.spotify.com/track/4sY1ri9amyG88d6pt4ao9C) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Beats In The Streets](https://open.spotify.com/album/3k2KcTV0MVcdSBRirdK4HU) | 1:12 | 2022-01-27 | 2022-09-03 |
 | [fireworks.](https://open.spotify.com/track/0pi7kSRngZUp9sVTotFQVF) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [fireworks.](https://open.spotify.com/album/5DRijL0zZgRqmhJovz4JI3) | 1:23 | 2022-07-29 | 2022-10-29 |
 | [First Floor](https://open.spotify.com/track/7GZlIkLxMSPCyJ3rDf55bV) | [Hicks](https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV) | [First Floor](https://open.spotify.com/album/2mUNJXJLpPSbNsD4NfE13b) | 1:49 | 2022-09-02 | 2023-01-20 |
@@ -690,6 +690,7 @@
 | [Mentor](https://open.spotify.com/track/11tfbPbvwBnDeiB0coMi4G) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Mentor](https://open.spotify.com/album/0XRicJ10jdVBKieWYBZSbY) | 1:51 | 2023-04-27 |  |
 | [Mescal for the soul](https://open.spotify.com/track/0roHHMOuV0UNOzO1FkK7kq) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Mescal for the soul](https://open.spotify.com/album/6CZGJBIJjS8fEiL780elaX) | 2:14 | 2023-05-19 |  |
 | [Midnight Stroll](https://open.spotify.com/track/7b3jF2ZWTnkUpau3E78NNV) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9), [mariussax](https://open.spotify.com/artist/5w7HPDu1t1FSCEfjEm3tKE) | [Midnight Stroll](https://open.spotify.com/album/2H7aIS5A60Y0DBqxdYAtwt) | 1:52 | 2022-10-08 |  |
+| [Midnight Sun](https://open.spotify.com/track/1Cqj266QvBLBNNhRFfupDj) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL) | [Midnight Sun](https://open.spotify.com/album/1mP62AYCyg7eicascwllt9) | 2:15 | 2023-09-08 |  |
 | [Migrations](https://open.spotify.com/track/29vvz584HPBd2pCMS0QW3Y) | [Scasca](https://open.spotify.com/artist/2FjS1zPiO1Be9agHdsxJjo) | [Migrations](https://open.spotify.com/album/2DF1yOyOXqunpiNn9DmYmh) | 3:25 | 2022-01-27 | 2022-10-15 |
 | [millions](https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt) | [heading\_\_](https://open.spotify.com/artist/3aE2ahDVUX4Pd0KKkWOfmS) | [outwards](https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk) | 1:48 | 2022-01-27 | 2022-07-01 |
 | [Milos](https://open.spotify.com/track/0BJWOZp1WB1CEjsVh4WmVR) | [Majko](https://open.spotify.com/artist/4CFG9DlYIHwaM5o4J8tMaG), [Roelo](https://open.spotify.com/artist/427NoskGkRLFdKbxUEsEPr) | [Milos](https://open.spotify.com/album/5w6R5mEqyTxjS0YxIbOSyl) | 1:37 | 2022-10-15 |  |

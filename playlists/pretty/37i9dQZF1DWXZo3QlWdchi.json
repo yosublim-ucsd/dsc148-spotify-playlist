@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 287741,
+  "num_followers": 287847,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTY2MzAzOGQ0NDFjNzU2ZTIwM2JjMzJhODYwMGM3ZDhiMmZjMGI5",
+  "snapshot_id": "MCwxZGEzMDA3MmRiZDczYWIyNjdiMmI1MDZhZjUwNmRlNWQ4MjM5MTEx",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 330840,
+      "name": "Black - Live MTV Unplugged",
+      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 222784,
       "name": "A Mais Pedida - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/6kCGzPmsyJkzs0UnbXjply"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 330840,
-      "name": "Black - Live MTV Unplugged",
-      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Take On Me (MTV Unplugged / Edit)",
-        "url": "https://open.spotify.com/album/3wzeAwO1FHJbdBhmoc9LST"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Take On Me - MTV Unplugged / Edit",
-      "url": "https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 438583,
       "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
       "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Take On Me (MTV Unplugged / Edit)",
+        "url": "https://open.spotify.com/album/3wzeAwO1FHJbdBhmoc9LST"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Take On Me - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Songs Of Surrender",
-        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 263919,
-      "name": "Invisible - Songs Of Surrender",
-      "url": "https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "12\" Masters - The Essential Mixes",
         "url": "https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 237533,
       "name": "When You're Gone - Acoustic Version",
       "url": "https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 263919,
+      "name": "Invisible - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Imprevis\u00edvel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 188821,
-      "name": "Imprevis\u00edvel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Follow Me Around",
         "url": "https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 319288,
       "name": "Follow Me Around",
       "url": "https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Imprevis\u00edvel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 188821,
+      "name": "Imprevis\u00edvel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
+        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 190651,
+      "name": "Guerra e Paz - Ac\u00fastico Live",
+      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Enquanto Ela N\u00e3o Chegar (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 182933,
       "name": "Straight From The Heart - Live at The Royal Albert Hall",
       "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
-        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 190651,
-      "name": "Guerra e Paz - Ac\u00fastico Live",
-      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "100 Greatest Acoustic Songs",
-        "url": "https://open.spotify.com/album/4744LKhHEUK88uQPtDc5AH"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "Ignorance - Acoustic Version",
-      "url": "https://open.spotify.com/track/6x9Sf1jBFcSeSvMEkdKbOz"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "What's My Age Again? (Acoustic)",
         "url": "https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 146105,
       "name": "What's My Age Again? - Acoustic",
       "url": "https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "100 Greatest Acoustic Songs",
+        "url": "https://open.spotify.com/album/4744LKhHEUK88uQPtDc5AH"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Ignorance - Acoustic Version",
+      "url": "https://open.spotify.com/track/6x9Sf1jBFcSeSvMEkdKbOz"
     },
     {
       "added_at": "2023-09-01 03:01:00",

@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-508 songs - 1 day 18 hr 50 min
+509 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Levin's Lope \- Karriem Riggins Remix](https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Levin's Lope \(Karriem Riggins Remix\)](https://open.spotify.com/album/4j6JL0ZiDxUZKxI2y7ELuN) | 5:44 | 2022-01-27 | 2023-01-12 |
 | [Levitate](https://open.spotify.com/track/72sA5PaFydXMIXIY1RZWhL) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [Purest Form](https://open.spotify.com/album/0h8hdTiQpwZ49ZKrPo3P2j) | 5:07 | 2021-12-16 |  |
 | [Life Of Leisure](https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Excursions](https://open.spotify.com/album/39AhUDFW2KH9RHZWGuMdwo) | 2:48 | 2021-12-16 | 2023-07-02 |
+| [Life Of Leisure](https://open.spotify.com/track/7j8finaciTQt2pVZcSmkqN) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Excursions](https://open.spotify.com/album/2mY8eLTx5p8yYagLQsBIiH) | 2:48 | 2022-02-10 |  |
 | [Light on Sanzu River](https://open.spotify.com/track/16urUWG1OB9gnvW5zA1wRk) | [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC) | [Light on Sanzu River](https://open.spotify.com/album/2PixDsRaSFnjwynFttSfII) | 5:53 | 2021-12-16 |  |
 | [Lina](https://open.spotify.com/track/2fYcpbTFptY9uRcaY56NRu) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Nadi](https://open.spotify.com/album/3kvzs5jLHsGyDZnz5oAaA4) | 5:38 | 2021-12-16 | 2022-10-08 |
 | [Lina](https://open.spotify.com/track/79xcRg7hGlIKAJ3Tk1qiJJ) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Nadi](https://open.spotify.com/album/1mmaYhySbmvhqSbLb1YNEq) | 5:38 | 2022-02-10 |  |
@@ -357,7 +358,7 @@
 | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/album/3L6Ftrxf6KXKMOd5vXWquC) | 4:08 | 2021-12-16 |  |
 | [Rhythm in Your Mind](https://open.spotify.com/track/4wBTN0gGIPG5k3N3LfMhu2) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Rhythm in Your Mind](https://open.spotify.com/album/5ucT5KRFJGXRuW8vVu7Zmk) | 3:45 | 2021-12-21 | 2022-01-14 |
 | [Riverfest](https://open.spotify.com/track/5jrbxebGvMjQBk4cAQwEAk) | [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Blume](https://open.spotify.com/album/7JmSCHwa1C3EpuODQlVl8Z) | 5:37 | 2021-12-16 |  |
-| [Road to the Sun](https://open.spotify.com/track/3q7B1yOekfchSddJHfuZdT) | [Amina Figarova](https://open.spotify.com/artist/1bYQqdhzALYhq9UWTxS7cb) | [Road To The Sun](https://open.spotify.com/album/28ytlkXIUEpxSCvUun62MG) | 5:11 | 2022-04-01 |  |
+| [Road to the Sun](https://open.spotify.com/track/3q7B1yOekfchSddJHfuZdT) | [Amina Figarova](https://open.spotify.com/artist/1bYQqdhzALYhq9UWTxS7cb) | [Road To The Sun](https://open.spotify.com/album/28ytlkXIUEpxSCvUun62MG) | 5:11 | 2022-04-01 | 2023-09-14 |
 | [Run Outs](https://open.spotify.com/track/5eTvrED91AN0WORZDslNEr) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 4:52 | 2022-02-10 |  |
 | [Run Outs](https://open.spotify.com/track/6uzTB7InJgv4hLB5Rok2W5) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Run Outs](https://open.spotify.com/album/6HaPXjVBuldRmJcy2dR8oH) | 4:52 | 2021-12-16 | 2022-07-29 |
 | [Safe Passage](https://open.spotify.com/track/1ILS6udvIKZ7BxbpknJ8ra) | [Ben Allison](https://open.spotify.com/artist/5kLzbHcCf9EwkKmuc04zlE) | [Moments Inside](https://open.spotify.com/album/0jfKTtUd8qIIyWOQqHPSA2) | 5:03 | 2022-04-01 | 2022-07-27 |

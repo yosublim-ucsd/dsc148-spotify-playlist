@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,738 songs - 3 day 5 hr 54 min
+1,740 songs - 3 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Chair](https://open.spotify.com/track/3lJdgFLbcFKLYWWBMCGjES) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Chair](https://open.spotify.com/album/3vbaSNyRCbwEi2kP6PxZo9) | 4:48 | 2022-01-26 | 2022-07-29 |
 | [Chalet High](https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Chalet High](https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ) | 2:39 | 2022-04-14 | 2022-04-20 |
 | [Changing Winds](https://open.spotify.com/track/2ISfaG0rITEpAUG2fe15UY) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Changing Winds](https://open.spotify.com/album/6mLB8sXi7oQRNEG1aIScPJ) | 3:13 | 2021-03-07 | 2021-05-06 |
+| [Chanson d’été](https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Chanson d’été](https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp) | 2:43 | 2023-09-05 |  |
 | [Chasing Stars](https://open.spotify.com/track/0Ngo7SiCaF52cyNQWghHs1) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:22 | 2021-03-22 | 2022-04-18 |
 | [Che ricordarsi del tempo felice](https://open.spotify.com/track/0F2IGd7OdrD3P8yM2TJb2z) | [Seraghi](https://open.spotify.com/artist/1IBCumHV8JTujZVeLEaAGD) | [Che ricordarsi del tempo felice](https://open.spotify.com/album/5uDkSxYNFljm25qH820ux5) | 1:59 | 2021-03-10 | 2022-03-27 |
 | [Cherry Trees 桜](https://open.spotify.com/track/4YNhjGtSnzvyZCo3Gd5GPT) | [Asuka Eiko](https://open.spotify.com/artist/63uZjpJB9MlWSGMMlar4sK) | [Cherry Trees 桜](https://open.spotify.com/album/7ELmHiPBbnqSxEU1aIIaJ9) | 2:06 | 2021-05-30 | 2022-07-28 |
@@ -1600,7 +1601,7 @@
 | [Two Dogs](https://open.spotify.com/track/1Tdur1cMW2Lz1D9nWWEJQ9) | [Tim Tulsa](https://open.spotify.com/artist/3Y0NNIhUZN9aOR4Y0J39hI) | [A Quiet House](https://open.spotify.com/album/5TGFFhvBnZN4tVcWqsmmDJ) | 2:03 | 2021-03-17 | 2022-07-28 |
 | [Two Hearts](https://open.spotify.com/track/5U463rClubkFesH8GRxJNa) | [Sub\-City Keys](https://open.spotify.com/artist/3yLwXiZTWsRCxJ0yHVTWNw) | [Demi Sec](https://open.spotify.com/album/26mGgfS15TUfOq6fdBPkyQ) | 3:16 | 2021-03-08 | 2022-04-18 |
 | [Ty](https://open.spotify.com/track/22iPFsNL3QgQlAg8ObaQfM) | [Salomea Jaworska](https://open.spotify.com/artist/6MpNhFJTxMR6bAyzLAysbY) | [Ty](https://open.spotify.com/album/1lm7e0r6DWd48lbItgYBkz) | 2:17 | 2021-05-18 | 2021-05-20 |
-| [Tôt le matin](https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Tôt le matin](https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR) | 2:10 | 2022-12-22 |  |
+| [Tôt le matin](https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Tôt le matin](https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR) | 2:10 | 2022-12-22 | 2023-09-14 |
 | [U Adelie](https://open.spotify.com/track/5GbSZr9Wi8i7MWv8HugyPt) | [Arctic Vision](https://open.spotify.com/artist/3bt00stZuACL1bcaDZjFpg) | [Arctic Vision](https://open.spotify.com/album/0riEsCVLa5iRC3bl74wRc9) | 5:38 | 2021-03-16 | 2021-05-15 |
 | [Un Cadeau](https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Un Cadeau](https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO) | 2:37 | 2022-12-24 | 2023-03-14 |
 | [Un demi coeur](https://open.spotify.com/track/7wxb4xOv1EWMYI3VdVFLQv) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Un demi coeur](https://open.spotify.com/album/5l2faDKKsIRFUBxxJmCvnt) | 2:28 | 2021-03-17 | 2022-04-18 |
@@ -1633,7 +1634,7 @@
 | [Vancouver](https://open.spotify.com/track/6H08IWL5fcTkVyNjNCH2GM) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Vancouver](https://open.spotify.com/album/4IdRqAawCzBNThspxGFTbo) | 3:31 | 2021-03-27 | 2022-06-05 |
 | [Vapor](https://open.spotify.com/track/6CLMik7zaM73RfKDqg6PBO) | [Aiden Stone](https://open.spotify.com/artist/4UoVmLpkenVAFqZeeDA4Hr) | [Vapor](https://open.spotify.com/album/0u8PhLaRSJ4wd2VkXLmnfn) | 2:11 | 2021-03-14 | 2021-05-10 |
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2021-03-20 | 2022-04-08 |
-| [Ved](https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Ved](https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg) | 2:17 | 2023-04-15 |  |
+| [Ved](https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Ved](https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg) | 2:17 | 2023-04-15 | 2023-09-14 |
 | [Veracity](https://open.spotify.com/track/3ClKFHLvLvVEyCxFXg9lEi) | [Helene Roche](https://open.spotify.com/artist/35rUAUQHv5PFbWv1L6CMrq) | [Veracity](https://open.spotify.com/album/5GxPPNwT35iYXeLZPXNf7M) | 2:28 | 2021-03-20 | 2022-03-28 |
 | [Vibrations](https://open.spotify.com/track/1COWV6U3LKqCBpiHPthbiB) | [Mae Ji\-Yoon](https://open.spotify.com/artist/7xt9s2tSwZnZrgwQh3kL1M) | [Vibrations](https://open.spotify.com/album/4PZeTqPcpKkVRuzjR2d8VL) | 2:53 | 2021-03-22 | 2021-11-24 |
 | [Vidablick](https://open.spotify.com/track/5R3lfiorYRmiau9AASKLDW) | [Harry Bergqvist](https://open.spotify.com/artist/7edUGJR9gORcdARCKR76ks) | [Vidablick](https://open.spotify.com/album/14IIIGcZ9yeRMZkQaDz4ym) | 1:37 | 2021-03-22 | 2022-04-09 |
@@ -1719,6 +1720,7 @@
 | [Wonderland](https://open.spotify.com/track/6E5PacZi1ckJC126CCOG30) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Distant Lovers](https://open.spotify.com/album/3GhSTFSSS851A5sykAVh0T) | 3:46 | 2021-05-12 | 2022-05-07 |
 | [Woodland](https://open.spotify.com/track/3Nc2Rmz0exk0VW3fxOlViN) | [Evelyn Stein](https://open.spotify.com/artist/4rygF1Cuu6aehFfLcK8ZjN) | [Woodland](https://open.spotify.com/album/21BpjTXuhlZa4d9sSsCD0L) | 1:59 | 2021-03-06\* | 2021-04-30 |
 | [Worlds Apart](https://open.spotify.com/track/1oen1dD68x1ZUOhy6WePRG) | [Rick Hagen](https://open.spotify.com/artist/2hOK2gVqLtyZD0Hd4PpqlH) | [Forever Vanished](https://open.spotify.com/album/1ya21A58Y1M8E5sqyHzMaE) | 1:39 | 2021-03-07 | 2022-04-16 |
+| [Wreszcie](https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Wreszcie](https://open.spotify.com/album/68AlPgfClESbRVI28gvegI) | 2:55 | 2023-09-05 |  |
 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 | 2022-07-27 | 2022-09-27 |
 | [Yearn](https://open.spotify.com/track/6cgdhsPAVKmQRRwbW0PuXT) | [Lillia Nava](https://open.spotify.com/artist/2UTWoxg77Il2GH1iI67BIZ) | [Yearn](https://open.spotify.com/album/62Cxt0A2ySZkUMbus2ibi1) | 2:46 | 2021-04-30 | 2022-06-30 |
 | [Yearning](https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Yearning](https://open.spotify.com/album/5XCkU63XSSr8e4skFj37M9) | 2:10 | 2022-04-12 | 2022-10-29 |

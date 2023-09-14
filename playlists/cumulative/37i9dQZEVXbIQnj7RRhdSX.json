@@ -11620,7 +11620,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 165633,
       "name": "I LOVE YOU",
       "url": "https://open.spotify.com/track/2ruFYao8Dy8Tx94sxxzlIl"
@@ -28070,6 +28070,28 @@
       "duration_ms": 134328,
       "name": "VICTORY LAP",
       "url": "https://open.spotify.com/track/5ZmZ6RKNcFbIrdf1rSB3IO"
+    },
+    {
+      "album": {
+        "name": "Vida Mala (feat. Medy)",
+        "url": "https://open.spotify.com/album/4UbeTkpOQKC95anCPKd7q0"
+      },
+      "artists": [
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154778,
+      "name": "Vida Mala (feat. Medy)",
+      "url": "https://open.spotify.com/track/0ejEtuL3QsV1xvnHysuoVp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321681,
+  "num_followers": 321697,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWIxZDhhNGI0ZmU1MDQwYjdmOGJkYzJlYTdiM2QwN2U5NmNhNTZh",
+  "snapshot_id": "MCxkODM4YmNlYzQzM2UxNzE5ZmQ0NTRlYmIwNTc0ZDhiN2Q3OTA1MDY0",
   "tracks": [
     {
       "added_at": "2023-09-11 14:46:41",
@@ -423,18 +423,22 @@
     {
       "added_at": "2023-09-11 14:46:41",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE"
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
       },
       "artists": [
         {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
         }
       ],
-      "duration_ms": 222453,
-      "name": "No Excuses",
-      "url": "https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7"
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
     },
     {
       "added_at": "2023-09-11 14:46:41",
@@ -459,22 +463,18 @@
     {
       "added_at": "2023-09-11 14:46:41",
       "album": {
-        "name": "It's That Time",
-        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
         }
       ],
-      "duration_ms": 240250,
-      "name": "It's That Time",
-      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
+      "duration_ms": 222453,
+      "name": "No Excuses",
+      "url": "https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7"
     },
     {
       "added_at": "2023-09-11 14:46:41",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-09-11 14:46:41",
       "album": {
-        "name": "Bayside",
-        "url": "https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Bayside - Radio Edit",
-      "url": "https://open.spotify.com/track/7hYW4hKuPkfaLbzTpg9hQB"
-    },
-    {
-      "added_at": "2023-09-11 14:46:41",
-      "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 129860,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1"
+    },
+    {
+      "added_at": "2023-09-11 14:46:41",
+      "album": {
+        "name": "Bayside",
+        "url": "https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Bayside - Radio Edit",
+      "url": "https://open.spotify.com/track/7hYW4hKuPkfaLbzTpg9hQB"
     },
     {
       "added_at": "2023-09-11 14:46:41",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-09-11 14:46:41",
       "album": {
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Hijos De La Noche",
+      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
+    },
+    {
+      "added_at": "2023-09-11 14:46:41",
+      "album": {
         "name": "Asking (feat. Clementine Douglas) [Joshwa Remix]",
         "url": "https://open.spotify.com/album/1RotBVyL3ROSBdHQ5soI2L"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 181753,
       "name": "Asking (feat. Clementine Douglas) - Joshwa Remix",
       "url": "https://open.spotify.com/track/3ouJdNXRk1JFjXGu11Q5BR"
-    },
-    {
-      "added_at": "2023-09-11 14:46:41",
-      "album": {
-        "name": "Roots EP, Pt. 1",
-        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Hijos De La Noche",
-      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
     },
     {
       "added_at": "2023-09-11 14:46:41",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-09-11 14:46:41",
       "album": {
+        "name": "Ladybug",
+        "url": "https://open.spotify.com/album/1VZQh9Bo7jrxRrXTkxJN2R"
+      },
+      "artists": [
+        {
+          "name": "D\u00fczer",
+          "url": "https://open.spotify.com/artist/6CCZHHwdSXxweCgJmcf3DJ"
+        }
+      ],
+      "duration_ms": 126660,
+      "name": "Ladybug",
+      "url": "https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj"
+    },
+    {
+      "added_at": "2023-09-11 14:46:41",
+      "album": {
         "name": "Giving Up",
         "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
       },
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2023-09-11 14:46:41",
       "album": {
-        "name": "Ladybug",
-        "url": "https://open.spotify.com/album/1VZQh9Bo7jrxRrXTkxJN2R"
+        "name": "Heater",
+        "url": "https://open.spotify.com/album/6ZJ5jjlpvAXnQS7bYsEbMk"
       },
       "artists": [
         {
-          "name": "D\u00fczer",
-          "url": "https://open.spotify.com/artist/6CCZHHwdSXxweCgJmcf3DJ"
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
         }
       ],
-      "duration_ms": 126660,
-      "name": "Ladybug",
-      "url": "https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj"
+      "duration_ms": 426000,
+      "name": "Heater",
+      "url": "https://open.spotify.com/track/3bJwiNmreZkHXjeuFmW8bG"
     },
     {
       "added_at": "2023-09-11 14:46:41",
@@ -1687,22 +1703,6 @@
       "duration_ms": 230913,
       "name": "Make The Night Last",
       "url": "https://open.spotify.com/track/7LhJcuKVjWEJpCRWuE9EiK"
-    },
-    {
-      "added_at": "2023-09-11 14:46:41",
-      "album": {
-        "name": "Heater",
-        "url": "https://open.spotify.com/album/6ZJ5jjlpvAXnQS7bYsEbMk"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        }
-      ],
-      "duration_ms": 426000,
-      "name": "Heater",
-      "url": "https://open.spotify.com/track/3bJwiNmreZkHXjeuFmW8bG"
     },
     {
       "added_at": "2023-09-11 14:46:41",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-09-11 14:46:41",
       "album": {
-        "name": "You and I Are Equal",
-        "url": "https://open.spotify.com/album/7h1JqqftHbKVq5x6izUNey"
-      },
-      "artists": [
-        {
-          "name": "BluePrint",
-          "url": "https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT"
-        }
-      ],
-      "duration_ms": 254770,
-      "name": "You and I Are Equal",
-      "url": "https://open.spotify.com/track/4laAIQLzf49FKhy14SmA87"
-    },
-    {
-      "added_at": "2023-09-11 14:46:41",
-      "album": {
         "name": "Flatline",
         "url": "https://open.spotify.com/album/4QC9zFbjafJ8MtPj7m2b6e"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 247500,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/1qeSZD2hBkOqwD9e5jcTYa"
+    },
+    {
+      "added_at": "2023-09-11 14:46:41",
+      "album": {
+        "name": "You and I Are Equal",
+        "url": "https://open.spotify.com/album/7h1JqqftHbKVq5x6izUNey"
+      },
+      "artists": [
+        {
+          "name": "BluePrint",
+          "url": "https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT"
+        }
+      ],
+      "duration_ms": 254770,
+      "name": "You and I Are Equal",
+      "url": "https://open.spotify.com/track/4laAIQLzf49FKhy14SmA87"
     },
     {
       "added_at": "2023-09-11 14:46:41",

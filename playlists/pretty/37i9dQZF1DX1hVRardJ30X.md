@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Sofía Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,226 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,293 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [PLAYA DE ARO](https://open.spotify.com/track/7guhuzqeDVw3mk9Zpesz6h) | [VYPERR](https://open.spotify.com/artist/3hOzu5VKgQuAtVt2OOL4Wt) | [PLAYA DE ARO](https://open.spotify.com/album/7ayvQdqCPj1MWDkINedpzf) | 2:07 |
 | 51 | [MODA](https://open.spotify.com/track/4x6WlBCITrqjZZUHl1Dnhh) | [MÓRY](https://open.spotify.com/artist/5FdrFhHWZupu9cqlWAg2WR) | [MODA](https://open.spotify.com/album/6ggoPcqaldJe77m7h1I1Ag) | 2:21 |
 
-Snapshot ID: `MCxjNjJiNWQ4YzZiNzM3YTljMjNhZjQwNTZkZDZlNThmYmJmM2U3YWM4`
+Snapshot ID: `MCwxMWQyNGU3MTMwMDAzZmM5Yjg1YjlkOTE2ZTIwZTA5YWRkMjQzNDQ1`

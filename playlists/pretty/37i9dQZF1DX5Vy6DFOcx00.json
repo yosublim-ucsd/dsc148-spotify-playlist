@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3567440,
+  "num_followers": 3568623,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmRhM2UzNGI0Y2YyNjZhMGVlNDI2OTlkMmM1YjhlOWE0MGRhMzhk",
+  "snapshot_id": "MCw3N2RiODk4NWNlODZlZGQwNmQ3MGIxZWQ1MTEzZWYxM2NkMDkyN2Jh",
   "tracks": [
     {
       "added_at": "2023-09-06 15:22:16",
@@ -57,6 +57,26 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
+      "added_at": "2023-09-05 15:02:50",
+      "album": {
+        "name": "These Things Happen",
+        "url": "https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Christoph Andersson",
+          "url": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Tumblr Girls (feat. Christoph Andersson)",
+      "url": "https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8"
+    },
+    {
       "added_at": "2023-08-01 15:57:07",
       "album": {
         "name": "UTOPIA",
@@ -79,26 +99,6 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
-    },
-    {
-      "added_at": "2023-09-05 15:02:50",
-      "album": {
-        "name": "These Things Happen",
-        "url": "https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Christoph Andersson",
-          "url": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Tumblr Girls (feat. Christoph Andersson)",
-      "url": "https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8"
     },
     {
       "added_at": "2023-09-05 15:02:50",

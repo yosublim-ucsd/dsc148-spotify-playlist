@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-820 songs - 1 day 22 hr 53 min
+821 songs - 1 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Atashi](https://open.spotify.com/track/6XsThMCedPz1M1E6EXmF1h) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Atashi](https://open.spotify.com/album/4FouqX8bPsuBPAAM5fGYJP) | 3:14 | 2023-05-30 | 2023-06-09 |
 | [Azurite](https://open.spotify.com/track/7KHwZdPTlhXybDNJBLQKin) | [oshina](https://open.spotify.com/artist/6uPDUcO9dIgZ6b75Z17XvA) | [Azurite](https://open.spotify.com/album/6ZF6bHVS64T9IW5y0NVCV7) | 3:11 | 2022-09-20 | 2022-09-28 |
 | [Backlight](https://open.spotify.com/track/3WY0iazRPHOlIq6CdbKLZ6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:57 | 2022-10-27 | 2023-01-11 |
+| [bad cry](https://open.spotify.com/track/7bnGO4VPzDGs9tv4HhPenC) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [bad cry](https://open.spotify.com/album/3aoEWy60XDvQpPqKV0B9EZ) | 3:25 | 2023-09-12 |  |
 | [Beauty Unique Boutique](https://open.spotify.com/track/2jpkqAe2sHDgaWDOSS2jpD) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Beauty Unique Boutique](https://open.spotify.com/album/7ogIxlXNX4FOUGu4GyjSa9) | 3:14 | 2022-09-08 | 2022-10-05 |
 | [Better Days](https://open.spotify.com/track/337wXtKzFA4KM5uK6XJYTi) | [aici](https://open.spotify.com/artist/2rpzQGsbfz1uh1kAZV4yZp) | [金星蝕](https://open.spotify.com/album/4KUkASNOjIpSuLj2sYryPX) | 3:04 | 2022-06-21 | 2022-06-23 |
 | [Beyond](https://open.spotify.com/track/0nyG4VfU1SWpxc0H4KcZ08) | [ときのそら](https://open.spotify.com/artist/2g9gjJayRURjomDGRLNaZR) | [Beyond](https://open.spotify.com/album/3ZZyGyJ9gHW5h4TJ6VR395) | 4:34 | 2023-02-21 | 2023-03-08 |
@@ -334,7 +335,7 @@
 | [なまけもの](https://open.spotify.com/track/1iwU4xlV62g7vlht0Dqfk6) | [niKu](https://open.spotify.com/artist/22geWzdiGIPezlnNgoifJM) | [なまけもの](https://open.spotify.com/album/0Pirwc5nLJk0hOBGHK3f9B) | 3:10 | 2022-07-24 | 2022-07-26 |
 | [ねぐせ](https://open.spotify.com/track/2ZWvzYy2iWIpCDlYHuJKih) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw), [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [ねぐせ](https://open.spotify.com/album/1tXsfWmwLT0UpUtD1lf09K) | 3:38 | 2022-06-09 | 2022-07-28 |
 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 | 2022-06-28 | 2022-07-27 |
-| [ばっどくらい](https://open.spotify.com/track/6530tVpAwEUCoc9y5B34xR) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [ばっどくらい](https://open.spotify.com/album/4Uq9SIQWGgGUwu2BoKJyqr) | 3:25 | 2023-09-12 |  |
+| [ばっどくらい](https://open.spotify.com/track/6530tVpAwEUCoc9y5B34xR) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [ばっどくらい](https://open.spotify.com/album/4Uq9SIQWGgGUwu2BoKJyqr) | 3:25 | 2023-09-12 | 2023-09-14 |
 | [ひかりをためる](https://open.spotify.com/track/5lorTN19XPlsMwrNy3V7Mg) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ひかりをためる](https://open.spotify.com/album/29eOgjIEgs8jsZ9h8m8TJm) | 2:29 | 2023-06-08 | 2023-07-14 |
 | [ひとくねり](https://open.spotify.com/track/7sFrA0Y0ODokSpOeDq08bH) | [Rey Fallet](https://open.spotify.com/artist/48nqBlzRSh8i6RyQ2lqePe) | [ひとくねり](https://open.spotify.com/album/4ZFPmZnDKTvaq40Gd5gGCP) | 4:01 | 2022-06-21 | 2022-06-23 |
 | [ほっといて。](https://open.spotify.com/track/2trYnDbQVkQBW2X8Gk84vc) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [ほっといて。](https://open.spotify.com/album/5bld1SyxazffSqRWXqvZCM) | 2:57 | 2022-07-05 | 2022-07-27 |

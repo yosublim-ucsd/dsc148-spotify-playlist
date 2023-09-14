@@ -4,7 +4,7 @@
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Rochy RD
 
-211 songs - 10 hr 35 min
+212 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [MALA](https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [MALA](https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ) | 2:58 | 2022-03-15 | 2022-04-15 |
 | [Mala Vida](https://open.spotify.com/track/08duUXnYu2cYXm2dnMGnUJ) | [Ropi](https://open.spotify.com/artist/5jA8xd8U1YGn96aGg4MJah) | [Mala Vida](https://open.spotify.com/album/29ZVWs7tzEIWdeofoVBRkI) | 2:42 | 2023-08-09 |  |
 | [Malabu](https://open.spotify.com/track/6cIDPdoQ9RaKT9raNW6TsJ) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Malabu](https://open.spotify.com/album/6lZyKKjwxqciNXhikIj75A) | 2:48 | 2023-03-17 | 2023-07-15 |
-| [Mango Piña](https://open.spotify.com/track/3FJoGnTXNXkw5uXIsBfa3a) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Mango Piña](https://open.spotify.com/album/4NJB2jW7tHkuK48W048NrZ) | 2:43 | 2022-03-15 |  |
+| [Mango Piña](https://open.spotify.com/track/3FJoGnTXNXkw5uXIsBfa3a) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Mango Piña](https://open.spotify.com/album/4NJB2jW7tHkuK48W048NrZ) | 2:43 | 2022-03-15 | 2023-09-14 |
+| [Mango Piña](https://open.spotify.com/track/0lvkqN2wPat5dS0geCx2a3) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Mango Piña](https://open.spotify.com/album/6uDTxKFXFaJRUCMaFXYRUK) | 2:43 | 2023-07-18 |  |
 | [Marichal](https://open.spotify.com/track/3PEFEsH3UIElep67B4HRto) | [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4), [Young Bless RD](https://open.spotify.com/artist/6i7YCn4daC0HjkLlb4ITKi) | [Marichal](https://open.spotify.com/album/21V1HhvF2ytnpeQTMTc9Ls) | 3:32 | 2022-03-15 | 2022-11-12 |
 | [Me la Subió](https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z) | [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Me la Subió](https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq) | 1:40 | 2022-11-25 |  |
 | [Mi Ciudad](https://open.spotify.com/track/01fjnRkTRiCiP3C02LOW7s) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Mi Ciudad](https://open.spotify.com/album/76GBieZ9ccFvySoAUhJCer) | 2:35 | 2022-03-15 | 2022-04-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: Hotel Mira
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,999 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,022 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Skin](https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4) | 3:51 |
 | 100 | [Clay Feet](https://open.spotify.com/track/7CJkmupnhIhgdDuPMBpSMD) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Clay Feet](https://open.spotify.com/album/5IXXU7lT4HFRSryIRwfiZF) | 3:39 |
 
-Snapshot ID: `MCxlNWZlMDliMWE0MTUzMTk3ODU3ZjE4MThkYzgwYjk5ZGFhYzM4N2Nk`
+Snapshot ID: `MCwwMDAwMjY1MmMxN2I0OWNmODE5YmRhZDQ0NDM1NWVhODA0ZTNhZDYy`

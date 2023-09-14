@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 125469,
+  "num_followers": 125515,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTE4ZTJkNWVlMzNjMGMyOTNiNGZhZDljNzQ3Y2ZiNGEzYWYxMzA5",
+  "snapshot_id": "MCw4ZDlmMjVmZDAxZjcxMzFiODk4ZjJlZjcxZTNlYzdmZWUyODQzZjg1",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "Morena Esperanza (Remasterizado)",
+        "url": "https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY"
+      },
+      "artists": [
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "Isla Negra",
+      "url": "https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "Land of the Incas (Music of the Andes)",
         "url": "https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 198360,
       "name": "U\u00f1a",
       "url": "https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Morena Esperanza (Remasterizado)",
-        "url": "https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY"
-      },
-      "artists": [
-        {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "Isla Negra",
-      "url": "https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "Viajante",
+        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        }
+      ],
+      "duration_ms": 248941,
+      "name": "Caracol",
+      "url": "https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "Viento en los Andes",
         "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Viajante",
-        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
+        "name": "Pura Flor",
+        "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
       },
       "artists": [
         {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 248941,
-      "name": "Caracol",
-      "url": "https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn"
+      "duration_ms": 237613,
+      "name": "Pura Flor",
+      "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -767,22 +783,6 @@
       "duration_ms": 208170,
       "name": "Arriba Quemando el Sol",
       "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Pura Flor",
-        "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
-      },
-      "artists": [
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Pura Flor",
-      "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -855,18 +855,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Pajarillo Negro",
-        "url": "https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE"
+        "name": "Viaje de Mixturas",
+        "url": "https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA"
       },
       "artists": [
         {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+          "name": "Paulopulus",
+          "url": "https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo"
+        },
+        {
+          "name": "Juan Luis Pereira",
+          "url": "https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40"
         }
       ],
-      "duration_ms": 242493,
-      "name": "Pajarillo Negro",
-      "url": "https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78"
+      "duration_ms": 246000,
+      "name": "Viaje Andino",
+      "url": "https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M"
     }
   ],
   "unique_name": "Entre los Andes",

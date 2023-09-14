@@ -4,7 +4,7 @@
 
 > tunes for walking, driving, running, flying, etc
 
-268 songs - 14 hr 44 min
+269 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Day Dreaming](https://open.spotify.com/track/2uLo22etHF1lbCBngK0Bim) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:09 | 2022-07-25 | 2023-01-27 |
 | [Day Dreaming](https://open.spotify.com/track/4SD9La0LQOeWgxdmWU1g43) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Day Dreaming](https://open.spotify.com/album/4cZS7wksFqyCGblehHhhep) | 3:09 | 2021-08-05 | 2022-07-26 |
 | [Days Go Slow](https://open.spotify.com/track/04DM0trBKr2vMpvwYR8guH) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Days Go Slow](https://open.spotify.com/album/1G7fV4sP0wYhTW0F3skmaR) | 3:14 | 2021-08-05 | 2022-07-29 |
+| [Daytoday](https://open.spotify.com/track/1PQZTaIyqjYo92gpwgTuTb) | [austenyo](https://open.spotify.com/artist/4NNslFqwFLMsVfeAWfGryM) | [Minialbum](https://open.spotify.com/album/74i0Ly2FBl4lIduvZ1RMtu) | 1:40 | 2023-08-09 |  |
 | [DEEP END](https://open.spotify.com/track/4oXgYIpKj7qMCJ2U0xvR6y) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [TAKE WHAT YOU NEED](https://open.spotify.com/album/1WVAm4lq7ob7loCVzobUjK) | 3:38 | 2022-08-17 | 2022-12-16 |
 | [DEEP END](https://open.spotify.com/track/79ZyInaWPKY9X2NGyM7KmS) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [DEEP END](https://open.spotify.com/album/2twYkPl1yaCtPSvinnca8L) | 3:38 | 2021-08-05 | 2022-07-29 |
 | [Doctor](https://open.spotify.com/track/5UenHnGCK9aY3VdHuwm1FZ) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Doctor](https://open.spotify.com/album/6z2IbCqkj2layBN9GRgyfK) | 3:10 | 2022-01-21 | 2022-07-29 |
@@ -271,7 +272,7 @@
 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 | 2021-08-05 | 2022-10-13 |
 | [Wishin](https://open.spotify.com/track/5XNBDxPwI44BnYCY2QDisQ) | [Vinny Masino](https://open.spotify.com/artist/49wfJDFAZGLI1zIW6RSQWL) | [Wishin](https://open.spotify.com/album/36bWBFGvhXRHPvOEveyQ0m) | 2:08 | 2022-07-15 | 2022-07-29 |
 | [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 | 2023-08-09 |  |
-| [WONDER](https://open.spotify.com/track/4JhDtr4ygpM2EsNJCepEna) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:52 | 2023-08-09 |  |
+| [WONDER](https://open.spotify.com/track/4JhDtr4ygpM2EsNJCepEna) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:52 | 2023-08-09 | 2023-09-14 |
 | [Yesteryear](https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl) | 3:39 | 2021-08-05 |  |
 | [You and Me](https://open.spotify.com/track/3hv0c9crZAmWBqGxhDkuYF) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [You and Me](https://open.spotify.com/album/01OtjntAAs5CH0j9De639T) | 3:19 | 2023-08-09 |  |
 | [‎rubber ‎checks](https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/48LwULIsLq3P716zccF09g) | 1:58 | 2022-05-03 | 2022-10-13 |

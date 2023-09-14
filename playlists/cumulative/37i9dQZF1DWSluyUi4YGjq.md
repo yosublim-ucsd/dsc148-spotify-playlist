@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-436 songs - 1 day 4 hr 42 min
+439 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Air Supply](https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 4:41 | 2022-09-21 | 2023-06-17 |
 | [Akira](https://open.spotify.com/track/5etys3p3H0qRDscHy7eWKc) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Deafcult](https://open.spotify.com/album/6dPwwV3dTTa7P4isGGBXvy) | 3:09 | 2021-10-19 | 2023-01-14 |
 | [Al Revés \- feat\. Petite Amie](https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4) | [Charles Spearin](https://open.spotify.com/artist/3PEieAx7awxOPIdseRJuFb), [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Al Revés \(feat\. Petite Amie\)](https://open.spotify.com/album/4VP9sto7vsed9Qi6wjmklj) | 3:15 | 2022-04-09 | 2022-12-16 |
-| [alife](https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [alife](https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm) | 4:33 | 2023-09-01 |  |
+| [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 | 2023-09-01 |  |
+| [alife](https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [alife](https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm) | 4:33 | 2023-09-01 | 2023-09-14 |
 | [All Gone](https://open.spotify.com/track/7BgzLzMFHTVJn9TP7gZX9o) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/7n95iySQSShHU7doQfeGP4) | 3:17 | 2021-10-19 | 2022-07-28 |
 | [All That I've Wasted](https://open.spotify.com/track/2tHAj5Py3sXE8pJyh5ouPz) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [All That I've Wasted](https://open.spotify.com/album/76O4Nw778B7Xa34TASnvA8) | 3:22 | 2023-03-24 | 2023-08-05 |
 | [All Under The Sky](https://open.spotify.com/track/7wyECc1POvxhV7CPnteNSu) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Everything at Once](https://open.spotify.com/album/5TBEBYAXEMrIKMBZKxGyYl) | 4:37 | 2023-05-25 |  |
@@ -346,7 +347,8 @@
 | [Sigh In My Ear](https://open.spotify.com/track/7lvtC5scO2e6fjk8vakUVq) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/0RoDxdxaHbp73JB56oSBzf) | 5:22 | 2023-07-21 |  |
 | [sin\. \(feat\. Yunjin\)](https://open.spotify.com/track/7kFgDnOMb1AEKmOnofnylh) | [gozeuneok:](https://open.spotify.com/artist/5GDl6PFdx0n7rPIDgTlSrV), [Yunjin](https://open.spotify.com/artist/4v1XwaMgeiN8T1wrxG6Gfq) | [Things to be Left Behind:](https://open.spotify.com/album/07xp4gVIHOlrdxzfiCHhiV) | 4:08 | 2022-09-29 | 2022-10-28 |
 | [Sink](https://open.spotify.com/track/59oSaOV2RMpdcWzlPsvy42) | [Dog Ears](https://open.spotify.com/artist/3JIof4HxulwCqTMAUdJQO1) | [Sink](https://open.spotify.com/album/3gdzC6RB8QGu2rulkyD6aI) | 2:41 | 2023-02-21 |  |
-| [skin in the game](https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [skin in the game](https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb) | 3:52 | 2023-07-21 |  |
+| [skin in the game](https://open.spotify.com/track/2EpduTUFSZfeb0GI4CaCQD) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:52 | 2023-07-21 |  |
+| [skin in the game](https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [skin in the game](https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb) | 3:52 | 2023-07-21 | 2023-09-14 |
 | [skipping tiles](https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pushing daisies](https://open.spotify.com/album/07naAGnFibTManFY20vcUL) | 2:16 | 2023-01-12 |  |
 | [Slide Back](https://open.spotify.com/track/4C2nwt9F6B0T1HMBzOjrhV) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Slide Back](https://open.spotify.com/album/3CvQz6P3BnFbPjOQa7cxQV) | 3:06 | 2023-09-01 |  |
 | [Soft Fall](https://open.spotify.com/track/6ThKjKr31pQA2odkt8J2Ev) | [My Transparent Eye](https://open.spotify.com/artist/6D9BQI3d6y8lOkC6EB7lkU), [Lazylazy](https://open.spotify.com/artist/1TPIf8I6WXXXIRjjSWYiuD) | [Soft Fall](https://open.spotify.com/album/2tP4Avv1sieu303wzLGPNN) | 3:04 | 2023-09-08 |  |
@@ -387,7 +389,8 @@
 | [The Run I\. & II\. \- Extended single edit](https://open.spotify.com/track/2jmt8JiT7IPRzdWf4Diz6N) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn), [Alcest](https://open.spotify.com/artist/7FqjTmfXMXDYDAvRX5KYZd), [JK Flesh](https://open.spotify.com/artist/0JP4tVwUQtzOtmtn4ktQB3) | [The Run I\. & II.](https://open.spotify.com/album/3NybIjX2h7PO0kc6cjiqm6) | 6:47 | 2022-12-15 | 2023-01-13 |
 | [The Skin And The Glove](https://open.spotify.com/track/27P3WtpJnHreSOmwAOH29O) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Skin And The Glove](https://open.spotify.com/album/4cS5ytj8t6O9hYJHQPi9QQ) | 6:02 | 2023-07-17 | 2023-08-28 |
 | [The Skin And The Glove](https://open.spotify.com/track/5OWzC2szdxlxz1Pbx4Lj9n) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [An Object In Motion](https://open.spotify.com/album/3mTGLl8U9ZyNA1CnbHISgD) | 6:02 | 2023-07-17 | 2023-09-02 |
-| [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-11 |  |
+| [the slab](https://open.spotify.com/track/2qvOC1CRBtwOcl2dlcOCM1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 5:10 | 2023-08-11 |  |
+| [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-11 | 2023-09-14 |
 | [This Place Called Nowhere](https://open.spotify.com/track/01qMqTMNQAqtJ8nGt9oEaq) | [Box And The Twins](https://open.spotify.com/artist/6CtrtybA3qx7crB67ZHy6z) | [Everywhere I Go Is Silence](https://open.spotify.com/album/6uyHia5YvgDjbLAyRP2DTg) | 4:40 | 2022-12-15 | 2023-01-14 |
 | [This Time](https://open.spotify.com/track/6YQSQ6CQN4pIcXEiOqoH8x) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 3:18 | 2021-10-19 | 2023-03-25 |
 | [Thorn In Yr Kiss](https://open.spotify.com/track/2nKrmlSHiJcNnnED2QLaAz) | [Luster](https://open.spotify.com/artist/0IqC2A5HTnTIKzqcFXJQms) | [Dopamine Loop](https://open.spotify.com/album/5Rkg1yHCcy0XqsSU8kZNxq) | 4:00 | 2023-05-09 |  |

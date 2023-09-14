@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-177 songs - 12 hr 54 min
+178 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All Glory](https://open.spotify.com/track/7DFJzZsxf9bYATNTLmD4fp) | [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz) | [All Glory](https://open.spotify.com/album/3tPnHlQIq5gqZ27K1hMTLS) | 5:49 | 2020-08-31 | 2022-06-30 |
 | [Another In The Fire \- Acoustic](https://open.spotify.com/track/77yuZSTyvX71hl5ip4SRfd) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:37 | 2020-08-31 |  |
 | [Ashes to Skies](https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ashes to Skies](https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX) | 4:34 | 2020-08-31 |  |
-| [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 | 2020-08-31 |  |
+| [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 | 2020-08-31 | 2023-09-14 |
 | [Avalanche \- Piano Version](https://open.spotify.com/track/7gfCmyLiGPkufPJdTErWar) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [Avalanche \(Piano Version\)](https://open.spotify.com/album/6xmA1KDv1uCv8tccOoPqRK) | 4:06 | 2020-08-31 | 2022-07-29 |
 | [Be My Shalom](https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Be My Shalom](https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac) | 3:07 | 2020-08-31 |  |
 | [Be Still](https://open.spotify.com/track/7pkYkPDwrGW2yCfrrlovCp) | [Aisea Taimani + Minor Islands](https://open.spotify.com/artist/5NvSQC8nd0lznCwDWgG0Pv) | [Be Still](https://open.spotify.com/album/6GKeWU2fpTpivcmWB4TR40) | 3:50 | 2020-08-31 | 2023-07-29 |
@@ -75,6 +75,7 @@
 | [I Know Just What You Need](https://open.spotify.com/track/4yKLqYXt2tQaBw4qta5iMs) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Rebekah Autumn](https://open.spotify.com/artist/20ed7TTssoM14jZNDm7dJJ) | [I Know Just What You Need](https://open.spotify.com/album/5Sn2cIEG2QQcTFAdrJ29BV) | 3:33 | 2020-08-31 | 2022-07-29 |
 | [I Need You](https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV) | [Momentum Music](https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt) | [I Need You](https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA) | 6:27 | 2020-08-31 | 2022-12-18 |
 | [I Never Knew](https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8) | [Ben Ford](https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi) | [The Longing](https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj) | 4:49 | 2020-08-31 | 2023-07-06 |
+| [I See It Now](https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [I See It Now](https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D) | 3:09 | 2023-07-28 |  |
 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 | 2020-08-31 |  |
 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 | 2020-08-31 |  |
 | [I Will Wait for You \(Psalm 130\) \[Live\]](https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns Live](https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx) | 6:18 | 2020-08-31 |  |

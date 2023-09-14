@@ -1,12 +1,12 @@
 {
   "description": "Estamos listas para un festival \u00fanico. \n#FestivalEQUAL \u2022 16 de septiembre \u2022 Hip\u00f3dromo de Palermo ",
-  "num_followers": 35820,
+  "num_followers": 36263,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTE3YzA5NTgzMTcxYzNkZTc5ZTE4OTgyNmUwZTg4MDE5YmZlNmMx",
+  "snapshot_id": "MCw3M2FiNTViMzBkY2JiN2E2NGRmNGU0YjRkZTA0YmYwNGU1Y2ZmODRj",
   "tracks": [
     {
       "added_at": "2023-09-07 01:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Soy Pecadora",
-        "url": "https://open.spotify.com/album/0V35ZCP0qEVf1fHdgIelTD"
-      },
-      "artists": [
-        {
-          "name": "Ana Prada",
-          "url": "https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S"
-        }
-      ],
-      "duration_ms": 201090,
-      "name": "Tu vestido",
-      "url": "https://open.spotify.com/track/4pFSiNebWdqEgVKk7nIkn2"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Aguerrida",
         "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 151953,
       "name": "Ni una Gota de Amor",
       "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Soy Pecadora",
+        "url": "https://open.spotify.com/album/0V35ZCP0qEVf1fHdgIelTD"
+      },
+      "artists": [
+        {
+          "name": "Ana Prada",
+          "url": "https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S"
+        }
+      ],
+      "duration_ms": 201090,
+      "name": "Tu vestido",
+      "url": "https://open.spotify.com/track/4pFSiNebWdqEgVKk7nIkn2"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Cardo o Ceniza",
-        "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 183434,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "SUELTO",
         "url": "https://open.spotify.com/album/4sbivM4b9qHO8Lr9rJyEXN"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
+        "name": "Y Segu\u00ed Cantando: Canciones Censuradas E Ineditas",
+        "url": "https://open.spotify.com/album/2r2shJjgCrryoYCQ1GUeNa"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "Como La Cigarra",
+      "url": "https://open.spotify.com/track/4gZBUGO3IJMvRilvnOxCaK"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
         "name": "I'm Sexy",
         "url": "https://open.spotify.com/album/1IawKxLc0kQANfv3T7Wgbs"
       },
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Y Segu\u00ed Cantando: Canciones Censuradas E Ineditas",
-        "url": "https://open.spotify.com/album/2r2shJjgCrryoYCQ1GUeNa"
+        "name": "Cardo o Ceniza",
+        "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
         }
       ],
-      "duration_ms": 157066,
-      "name": "Como La Cigarra",
-      "url": "https://open.spotify.com/track/4gZBUGO3IJMvRilvnOxCaK"
+      "duration_ms": 183434,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "SIT DOWN",
-        "url": "https://open.spotify.com/album/6jFvLTVNJvNhPCCW6BRTzH"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 165308,
-      "name": "SIT DOWN",
-      "url": "https://open.spotify.com/track/1BWWFhvabH2hquJrzV0uxf"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Ni Lo Pensemos",
         "url": "https://open.spotify.com/album/3LlG3zOCDmuSGii7KdnHZu"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 155000,
       "name": "Ni Lo Pensemos",
       "url": "https://open.spotify.com/track/47WiORtatRcT5lI6EokFXe"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "SIT DOWN",
+        "url": "https://open.spotify.com/album/6jFvLTVNJvNhPCCW6BRTzH"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 165308,
+      "name": "SIT DOWN",
+      "url": "https://open.spotify.com/track/1BWWFhvabH2hquJrzV0uxf"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1495,42 +1495,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Una Copa",
-        "url": "https://open.spotify.com/album/1fT8eNTmfMdwv08d60IknK"
-      },
-      "artists": [
-        {
-          "name": "Albere",
-          "url": "https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Una Copa",
-      "url": "https://open.spotify.com/track/1GSTIl2aoajD9UCQqW0SDX"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/3od0Nq1bL9ooT7wDzyJl9r"
-      },
-      "artists": [
-        {
-          "name": "ERNES",
-          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
-        }
-      ],
-      "duration_ms": 222058,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/2mym9sPryRlsZxftEtY6MZ"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Lo Que Tenias Conmigo",
         "url": "https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr"
       },
@@ -1559,6 +1523,42 @@
       "duration_ms": 217656,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/464DSYjNhBCD15Xh0B41rK"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/3od0Nq1bL9ooT7wDzyJl9r"
+      },
+      "artists": [
+        {
+          "name": "ERNES",
+          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
+        }
+      ],
+      "duration_ms": 222058,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/2mym9sPryRlsZxftEtY6MZ"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Una Copa",
+        "url": "https://open.spotify.com/album/1fT8eNTmfMdwv08d60IknK"
+      },
+      "artists": [
+        {
+          "name": "Albere",
+          "url": "https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Una Copa",
+      "url": "https://open.spotify.com/track/1GSTIl2aoajD9UCQqW0SDX"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Educaci\u00f3n Sentimental",
-        "url": "https://open.spotify.com/album/2XqnaBT4dXBKSq5NBy4WDi"
-      },
-      "artists": [
-        {
-          "name": "Rosal",
-          "url": "https://open.spotify.com/artist/4VvzpUNrZ5CAqRascoLb1O"
-        }
-      ],
-      "duration_ms": 168228,
-      "name": "Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/3UfewNDeB4QzGPYaA1zIGX"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Adonde No Me Llaman",
         "url": "https://open.spotify.com/album/0BBLEDpkYzFNGt6dYd6iNB"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 256416,
       "name": "Gusto de Vos",
       "url": "https://open.spotify.com/track/0xNGtFaZtXnA3crnTZ78gj"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Educaci\u00f3n Sentimental",
+        "url": "https://open.spotify.com/album/2XqnaBT4dXBKSq5NBy4WDi"
+      },
+      "artists": [
+        {
+          "name": "Rosal",
+          "url": "https://open.spotify.com/artist/4VvzpUNrZ5CAqRascoLb1O"
+        }
+      ],
+      "duration_ms": 168228,
+      "name": "Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/3UfewNDeB4QzGPYaA1zIGX"
     }
   ],
   "unique_name": "EQUAL Argentina",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : GR OMEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,184 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,214 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 9 | [Dernière page](https://open.spotify.com/track/6l3HLmhZkRi80m3ymQA8U5) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [Vivaldi : Vík](https://open.spotify.com/album/1e3aP2KfgSCO2IwPDAM2DN) | 4:04 |
 | 10 | [Qatari](https://open.spotify.com/track/2aqiMUmWd4BUEUXaMUMZXB) | [Many Santana](https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ) | [Qatari](https://open.spotify.com/album/1RkZvLcX0e8iZyCTCyIhdu) | 3:22 |
 | 11 | [L'âme du phoenix](https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx) | [Yuston XIII](https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh) | [Origine](https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz) | 3:28 |
-| 12 | [SOLIDE](https://open.spotify.com/track/6bHjkSacCGQ558e2VPHBL2) | [LETS GO](https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [LETS GO](https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP) | 3:09 |
+| 12 | [SOLIDE](https://open.spotify.com/track/6bHjkSacCGQ558e2VPHBL2) | [PUSH & GIO](https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [LETS GO](https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP) | 3:09 |
 | 13 | [Cactus](https://open.spotify.com/track/1EZ6b1JPvNbccq8BkVgdhO) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv), [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [Les galeries](https://open.spotify.com/album/6vTDqKqhQt7TFKW6gIWHGk) | 4:01 |
 | 14 | [Le jour se lève](https://open.spotify.com/track/6qwe1TVcoWQ5oCVMmDKvV8) | [Selug](https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi), [$enar](https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5) | [Le jour se lève](https://open.spotify.com/album/76IvkXLqQzw6JrjwOIq2PL) | 2:13 |
 | 15 | [Coeur noir](https://open.spotify.com/track/1sbo7jQxRWdRgtCOgC56zY) | [Mecra Officiel](https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp) | [Coeur noir](https://open.spotify.com/album/6lEke0YNvODr0AnGDvmnmR) | 2:32 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [BLEU LAGON](https://open.spotify.com/track/1SNEAzB5bb3a78remdicrF) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [BLEU LAGON](https://open.spotify.com/album/3lO5XN3KuAydWx9zIgdCf3) | 2:21 |
 | 40 | [Bonjour quand même](https://open.spotify.com/track/1ozKwcj59fq7PYjyi3NWbe) | [Tsune](https://open.spotify.com/artist/3xQSe5wUqOUFcF5GWlziQb) | [Bonjour quand même](https://open.spotify.com/album/1pLz5qmhYnHt4kUkAW0zfr) | 3:30 |
 
-Snapshot ID: `MCxjOTI4OWE1N2FiN2JiMzBhMjExMTNiOGRhYTQxOGUwODBiZTcyOTBm`
+Snapshot ID: `MCxhN2U4OWYyYjRlMjA4MGZmMDcwMTUyZTVlMjA2OGNiYTU3Nzg5YWY3`

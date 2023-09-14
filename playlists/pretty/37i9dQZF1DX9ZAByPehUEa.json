@@ -1,12 +1,12 @@
 {
   "description": "A happy place.",
-  "num_followers": 79051,
+  "num_followers": 79213,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDMyNDgzNjkyNGIwN2JhZGJmMDA2YTJmODk5NDU2Mzg2MGQxMWY5",
+  "snapshot_id": "MCxmYTFmMDdjZGYzNjQ2MGNkMjVkYWNjNmQzMTZkYjMwZTFlY2IwNDll",
   "tracks": [
     {
       "added_at": "2023-09-05 11:00:00",
@@ -959,22 +959,22 @@
     {
       "added_at": "2023-09-05 11:00:00",
       "album": {
-        "name": "End Of Time (Kungs Remix)",
-        "url": "https://open.spotify.com/album/5mgXK6W6VVKSk5b1qAEUfd"
+        "name": "Cosmic Fonk",
+        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
         },
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Holybrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
         }
       ],
-      "duration_ms": 154890,
-      "name": "End Of Time - Kungs Remix",
-      "url": "https://open.spotify.com/track/5CPguc1HJ26dhFkKxQFxYU"
+      "duration_ms": 213815,
+      "name": "Glitter Fonk",
+      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
     }
   ],
   "unique_name": "DISCOLAND",

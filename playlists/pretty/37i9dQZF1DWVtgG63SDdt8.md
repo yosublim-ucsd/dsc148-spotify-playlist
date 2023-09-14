@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW?si=aMqmuT\-dTkmOV0QP8Q\-6zQ">Jervis Campbell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,909 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,078 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 75 | [Hope Has Come Near](https://open.spotify.com/track/4QTvLLhVDvEB42lzRr5WVT) | [Paper Horses](https://open.spotify.com/artist/4gdDTJi3KRIhEKqiAIZuWW), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Hope Has Come Near](https://open.spotify.com/album/6hhET1ZSeQXzY9P4XwKNBW) | 4:19 |
 | 76 | [Resurrection Power \- Live](https://open.spotify.com/track/48lsCZVpfWHA5H5KCM34y4) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Resurrection Power \(Live\)](https://open.spotify.com/album/0lHvcs4Z9YkSLGzq6iPUdp) | 7:03 |
 | 77 | [Come To Me \- Reimagined](https://open.spotify.com/track/6F7zEhWbXOcOeWhtKAV1Re) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexandra Osteen](https://open.spotify.com/artist/0dTif6geJ7jyFWTFA73Lda) | [Shout! Reimagined \(Vol\. 2\)](https://open.spotify.com/album/7gMBVnaeStDO3EMaeSSvr0) | 5:50 |
-| 78 | [Promise of Abraham \- Live](https://open.spotify.com/track/7jt8q8sMuBbFSxY697VdoZ) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Michael Delgado](https://open.spotify.com/artist/0RxfOTvnT5ecdt2aPDVx8p), [Jake Ferguson](https://open.spotify.com/artist/2WZAlcHYrfmZrJSVpQMyNj) | [Promise of Abraham \(Live\)](https://open.spotify.com/album/7vUjZF7rmH7mitRe91nAFJ) | 6:24 |
+| 78 | [Promise of Abraham \- Live](https://open.spotify.com/track/7jt8q8sMuBbFSxY697VdoZ) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Michael Delgado](https://open.spotify.com/artist/0RxfOTvnT5ecdt2aPDVx8p), [Jake Ferguson](https://open.spotify.com/artist/0phT2EEumTv5VDiUJTTWkO) | [Promise of Abraham \(Live\)](https://open.spotify.com/album/7vUjZF7rmH7mitRe91nAFJ) | 6:24 |
 | 79 | [All That I Know \- Live](https://open.spotify.com/track/655hoRQFQ8ktDDOcaicoAR) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD), [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp) | [All That I Know \(Live\)](https://open.spotify.com/album/7AbfAjbHEl1ass8QubYPmn) | 5:08 |
 | 80 | [Brick by Brick](https://open.spotify.com/track/61F37M13KzlXwu7jaV8KDK) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Brick by Brick](https://open.spotify.com/album/26bYHJdz3YSezV3ujVLCHm) | 3:49 |
 | 81 | [No Name is Higher \- Live](https://open.spotify.com/track/7GbLqkBMjPTgjJkABs78MN) | [North Palm Worship](https://open.spotify.com/artist/1oSrA2oH5V1Qo4jNPD0BMF), [Deborah Hong](https://open.spotify.com/artist/5m2lVUGIlAlnt0HgxH66UW) | [No Name is Higher \(Live\)](https://open.spotify.com/album/1koJbUDa1rLg9f8aJnsqq7) | 6:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Way Too Good](https://open.spotify.com/track/0dNgklMI9uv554WTCQTBQf) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Way Too Good](https://open.spotify.com/album/2liUsHwyNSDXNO1YPT6SXO) | 2:41 |
 | 100 | [Rampage](https://open.spotify.com/track/3JXqRCeXxeNLKLuCgX8o9h) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [God Be Praised](https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i) | 3:19 |
 
-Snapshot ID: `MCw4NjdlNGI4ZDgwNmMxNmFhZmY1ZGRiMTFlMmVkNWZlOWRmODM4NjFh`
+Snapshot ID: `MCxkMjdlNjBlOGY4M2YyMjg4NTQ3NWE1N2ZlZDBhZmYwM2FlODdjZTc3`

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Verbal Jint\)
 
-982 songs - 2 day 6 hr 2 min
+984 songs - 2 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Good Night \(Feat\. BE'O\)](https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [RE:UP](https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h) | 3:10 | 2022-01-24 | 2022-07-08 |
 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 | 2022-12-20 | 2022-12-28 |
 | [good1ife](https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [Marco](https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh) | [good1ife](https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi) | 2:57 | 2023-01-20 | 2023-03-28 |
+| [Goodbyes & Hellos \(Feat\. NO:EL\)](https://open.spotify.com/track/68uYaZ15mIRQqA0nUAEoKq) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Goodbyes & Hellos](https://open.spotify.com/album/0PJsm0H4fjt2gwVTA7JUdd) | 3:08 | 2023-09-13 |  |
 | [GOOK \(Feat\. ODEE\)](https://open.spotify.com/track/1R3fgq0jxXvxlX3LYmIDbQ) | [BOO HYUNSEOK](https://open.spotify.com/artist/6OU7aK8iNRtzcuipq3jpsQ), [ODEE](https://open.spotify.com/artist/6cZC6RjRzOVsizwM7UhbXt) | [CAMOFLAUGE](https://open.spotify.com/album/1C1D2Ntr9bm6sYfb232SNR) | 2:43 | 2022-03-03 | 2022-06-30 |
 | [Grand Master Theory](https://open.spotify.com/track/7d6L80CgzCaciOi43dN7dH) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Young Soul](https://open.spotify.com/artist/5OKE8d1u5c1FTXullbKT9z) | [Palo Got Young Soul](https://open.spotify.com/album/49Ch1p4RBGOMiVsA7xpuDZ) | 3:00 | 2022-01-15 | 2022-04-16 |
 | [Grand Prix \(Feat\. Beenzino\)](https://open.spotify.com/track/0iZnSbdHxlNTnfXGno29l9) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 2:35 | 2022-03-26 | 2022-04-20 |
@@ -812,6 +813,7 @@
 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-02 | 2022-12-19 |
 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 2:55 | 2022-12-14 | 2023-03-28 |
 | [Still Me \(Feat\. Dok2, GEMINI\)](https://open.spotify.com/track/5as8yn2iLczb2dSJH3VT81) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:36 | 2022-07-14 | 2022-10-08 |
+| [STONY FREESTYLE](https://open.spotify.com/track/2EZSKCHSEswOWBAHLqPyG3) | [SKULL](https://open.spotify.com/artist/7qKWQnE3S7v8m3rLwMVdGg), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [REGGAE](https://open.spotify.com/album/67vD5xZZyNd02NXySKlS9W) | 2:19 | 2023-09-13 |  |
 | [SUBSCRIBE TO ESQUIRE](https://open.spotify.com/track/38uodvbFCQewhKohMLFMlB) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [SUBSCRIBE TO ESQUIRE](https://open.spotify.com/album/2c6MGgrptlzRPdGj404GyS) | 2:50 | 2023-02-24 | 2023-03-28 |
 | [Summer \(Feat\. BE’O\)](https://open.spotify.com/track/26Iv7VGUF1lqU10rxQXFL8) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Summer](https://open.spotify.com/album/6Ve5QOb2WKKPLYrO7VaNr8) | 3:19 | 2022-06-18 | 2023-01-03 |
 | [Summer \(Feat\. Jay Park\)](https://open.spotify.com/track/1hoSs6QAQkxDkOyKM3OHMW) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Summer](https://open.spotify.com/album/6h1iG7zXNitBgYP096Dhcp) | 2:31 | 2022-01-20 | 2022-07-06 |

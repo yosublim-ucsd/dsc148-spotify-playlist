@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover:HYB\(허용별\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover:Car, the garden\(카더가든\)\) \(당신의 감성에 발라드, 려요\)
 
-979 songs - 2 day 15 hr 34 min
+980 songs - 2 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,6 +821,7 @@
 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 | 2021-12-20 | 2022-07-08 |
 | [Time Spent Walking Through Memories \(Feat\. 10CM\)](https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Memories](https://open.spotify.com/album/38BploYaSSuEFrk7974uX1) | 3:34 | 2023-09-11 |  |
 | [Time To Break Up](https://open.spotify.com/track/7r4V6nIAovtbrXOoXIDM9W) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [Time To Break Up](https://open.spotify.com/album/41YjMufLJv2wg2C8wZaBRx) | 3:25 | 2022-10-27 | 2023-01-21 |
+| [Timeless Love](https://open.spotify.com/track/4sNSygvDQZ6DBiEylNd1tI) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:21 | 2023-09-13 |  |
 | [To Me](https://open.spotify.com/track/6eLNBIUwf81FxFHekvd8Gu) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [To Me](https://open.spotify.com/album/4W5GjsG10XacO0WE6ckZaH) | 3:51 | 2022-08-01 | 2022-12-27 |
 | [To My Friends](https://open.spotify.com/track/0AXqXz5kX5HzWsydXnbFsx) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [To My Friends](https://open.spotify.com/album/0Bc4VvFhNY6lxWJyeeCFCE) | 3:46 | 2022-02-23 | 2022-04-20 |
 | [To the ordinary you](https://open.spotify.com/track/2QZKyD8R2ZtJroH3sGQdTD) | [2NB](https://open.spotify.com/artist/01n1Lj2lmdteXD8qFPqhsL) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1jrZAwFNCuTIOS9bE3eIw9) | 3:55 | 2022-03-24 | 2022-04-20 |

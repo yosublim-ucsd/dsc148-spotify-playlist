@@ -4,7 +4,7 @@
 
 > Jungle is still massive!
 
-128 songs - 10 hr 37 min
+130 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Going In](https://open.spotify.com/track/6hA8HVl34XC2cNgSfwaaBv) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [Going in / Shadows](https://open.spotify.com/album/6vJzw8CH2VEXSfqzVM6M4v) | 3:53 | 2022-09-05 | 2023-01-21 |
 | [Going In](https://open.spotify.com/track/6xy4XTJnuhF0P2braEUec6) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [Future Bounce Club Series, Vol\. 1](https://open.spotify.com/album/5eJpibTaSRnUfoLuRIgaqQ) | 3:53 | 2022-10-28 | 2022-11-13 |
 | [Gold Soul](https://open.spotify.com/track/0x7iceybhRRDkMHuY9vFzt) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/1u9VM2GL8xRWRIZbQCM6Qz) | 4:51 | 2022-05-05 | 2023-09-09 |
+| [Gold Soul](https://open.spotify.com/track/2puGT4f9oJn6drCWQvWsPe) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/6gq5UMNlJ6XX5xghGm1DVh) | 4:51 | 2023-01-20 |  |
 | [Good Time](https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg) | 4:37 | 2022-05-05 |  |
 | [Good Time](https://open.spotify.com/track/5BpypPrHuuAvFeZ1LtUgzQ) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/50aLwBuEQ2bU1bSm2KXyFd) | 4:37 | 2022-05-05 | 2022-07-29 |
 | [H to the A to the R to the D to the C to the O to the R to the E](https://open.spotify.com/track/4iZJ48KwVMbTh8ws83eveN) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [Interplanetary Radio](https://open.spotify.com/album/67B6T69LntdjyE7s17E5wk) | 5:07 | 2022-05-05 | 2022-09-06 |
@@ -83,7 +84,7 @@
 | [Maxim](https://open.spotify.com/track/1skNONa0IA1cwwQlRZtGJV) | [Need For Mirrors](https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze) | [Mutiny](https://open.spotify.com/album/5oGETlr4eCqwIs2UoQuL7Z) | 4:55 | 2022-10-28 | 2023-01-21 |
 | [Maxim](https://open.spotify.com/track/2u30LHLeAlYl2vXyfwExPs) | [Need For Mirrors](https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze) | [Mutiny](https://open.spotify.com/album/0r61t5Zlkv4qNYTfMvvQE0) | 4:55 | 2022-05-05 | 2022-11-10 |
 | [Meltdown](https://open.spotify.com/track/6XYNZEAwBuAlfT3uXLRyST) | [Scout](https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg) | [Meltdown](https://open.spotify.com/album/09KfGWahS1Yv3FpOCSSJ6c) | 5:00 | 2022-10-28 | 2023-01-21 |
-| [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 | 2023-01-20 |  |
+| [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 | 2023-01-20 | 2023-09-14 |
 | [Momofuku](https://open.spotify.com/track/1Ple5T9u981z3BErGUxBxV) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Momofuku](https://open.spotify.com/album/10XaG82hlhYBT9EcxSiuMF) | 4:50 | 2022-05-05 | 2023-01-21 |
 | [MTX In the RS](https://open.spotify.com/track/6CW2KMV0cptgI8H3rZEUXK) | [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [MTX In the RS](https://open.spotify.com/album/0GoMvmVdmE2kDsDeX9Ky2V) | 5:30 | 2022-05-05 | 2023-01-21 |
 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 | 2022-05-05 |  |
@@ -106,10 +107,11 @@
 | [So Good](https://open.spotify.com/track/2jbNkB6CIW8vSwZMWknd8g) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [Denham Audio & Friends](https://open.spotify.com/album/42xpRc6lrJwY7yeXyhiOy9) | 5:54 | 2022-05-05 |  |
 | [Spec 4](https://open.spotify.com/track/6VmJO2wXKw5k9AUCEcRTr2) | [Consulate](https://open.spotify.com/artist/5HJQJT85iVXOPiJtQhbAXA) | [Spec 4](https://open.spotify.com/album/52SUPKlhbZuunWcIeHIDNI) | 5:46 | 2022-05-05 | 2023-01-21 |
 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 | 2022-10-28 |  |
+| [Surfing The Anxiety Waves](https://open.spotify.com/track/6tbQHnuPgy7m4ElWYhr9tP) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/0XcdWrmdAbRkGuXNKjbEMQ) | 4:03 | 2023-01-20 |  |
 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 | 2022-05-05 | 2023-09-08 |
 | [Swift](https://open.spotify.com/track/5zalkQp8ZAe4y1goA95S9X) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Swift](https://open.spotify.com/album/70mlx5ec76uiUILSH8LCi6) | 6:41 | 2022-05-05 |  |
 | [Take A Dive](https://open.spotify.com/track/33Xjtd40xRKB5bRJ3lN3ZG) | [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J), [Kasra](https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt), [T Man](https://open.spotify.com/artist/0lk1aQxaMzPdXuRTOrGAra) | [Take A Dive](https://open.spotify.com/album/3f27MQPsVfiDLnyKsqXd9S) | 4:34 | 2022-05-05 | 2023-01-21 |
-| [Take My Control](https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Take My Control](https://open.spotify.com/album/5smkZ2UvCj9tkxZHrtsaAM) | 4:05 | 2023-01-20 |  |
+| [Take My Control](https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Take My Control](https://open.spotify.com/album/5smkZ2UvCj9tkxZHrtsaAM) | 4:05 | 2023-01-20 | 2023-09-14 |
 | [Teeth](https://open.spotify.com/track/223l7zXLoIvKo5Obfw4vIo) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Pulling Teeth](https://open.spotify.com/album/3KSdfgM7AbMcbFDMTq0cbU) | 4:17 | 2022-05-05 | 2023-01-21 |
 | [Tekina](https://open.spotify.com/track/7lUGvWPLcOX6CGsVd87pRi) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Dragonforce EP](https://open.spotify.com/album/4RQlFNSje33iNrhJpg5uS6) | 4:13 | 2022-05-05 | 2023-01-21 |
 | [Tell Dem](https://open.spotify.com/track/6RZhTyaAILaiIH5LO9vv8z) | [Sage](https://open.spotify.com/artist/16UhH9qadhcnH1YpaJnKcx), [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k) | [Tell Dem](https://open.spotify.com/album/3Ex8u7oUHOUFL6IQFGmQb6) | 4:02 | 2022-05-05 | 2023-01-21 |

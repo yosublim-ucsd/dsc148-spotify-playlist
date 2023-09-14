@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,342 likes - 1,175 songs - 3 day 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,400 likes - 1,175 songs - 3 day 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -921,7 +921,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 911 | [Crockett Theme](https://open.spotify.com/track/301s3zBzPtBBCtVxdDhKkw) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [The Serpents Mouth](https://open.spotify.com/album/6oUVSFWOhzVgof0UWP0M2k) | 3:51 |
 | 912 | [Enjoy Your Life](https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:16 |
 | 913 | [Kenke Corner](https://open.spotify.com/track/7DSe9aWkpnbDQTTRikkpYp) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS) | [Philantropiques](https://open.spotify.com/album/3fsnW79AlDwj2mF8HhnByU) | 6:26 |
-| 914 | [El Sol](https://open.spotify.com/track/2oZRUBWx1fEkaQ3f8Lry34) | [Tony Rojas](https://open.spotify.com/artist/0CV7SB7PPBP3SaPIxNBPAd) | [Tony Rojas](https://open.spotify.com/album/0VDLVVKsygRfzoS4kLet7e) | 3:49 |
+| 914 | [El Sol](https://open.spotify.com/track/2BvcxYpqYitsBa9PPI5IiG) | [Tony Rojas](https://open.spotify.com/artist/0CV7SB7PPBP3SaPIxNBPAd) | [Introducing Tony Rojas](https://open.spotify.com/album/2oxBBC3VTIjlLm67ynPaKv) | 3:46 |
 | 915 | [Falador Passa Mal](https://open.spotify.com/track/0KoRO4U0s4JosuakEbnGkx) | [Os Originais Do Samba](https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg) | [Mr Bongo Presents Ginga: The Sound of Brazilian Football \(Special Edition\)](https://open.spotify.com/album/0qt8FbLg9Cp5Mech8080d0) | 3:09 |
 | 916 | [La Piragua](https://open.spotify.com/track/41sfxCghJlbnWnql4QEfl7) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 8:38 |
 | 917 | [Balls and Pins](https://open.spotify.com/track/3kkYC1IPmXm5OrPaKFIX1B) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:28 |
@@ -1184,4 +1184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1174 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1175 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxjZWE3NmM2Mzc1ZmY4M2FlMWIxYjA2MjFkNGQ5ODk4YzZlMzE4NTRm`
+Snapshot ID: `MCwwMjQwZGQ5MjE5MzdjNzJmZGE1MzRkYmI5N2M2ZjBkN2FmNTgxMGU1`

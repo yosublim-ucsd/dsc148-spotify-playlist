@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 66062,
+  "num_followers": 66189,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGRkOGE3NjZiN2IwZTJiMzI5MmM4ODNlNTM4NTMyYmE1MjZkYzA1",
+  "snapshot_id": "MCxiMzA3ZDY0NGMyMDQwMmJjOWMyNjAxNTc4ZjA3ZmMwY2I5ZjZlZmYw",
   "tracks": [
     {
       "added_at": "2023-06-08 23:00:00",
@@ -423,30 +423,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "On a Beach (Champion Remix)",
-        "url": "https://open.spotify.com/album/2sNfSTxofKnG8FyNltocnp"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Etta Bond",
-          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
-        },
-        {
-          "name": "Double S",
-          "url": "https://open.spotify.com/artist/2hs495y9Yso0hfotMuVaHC"
-        }
-      ],
-      "duration_ms": 165692,
-      "name": "On A Beach - Champion Remix",
-      "url": "https://open.spotify.com/track/7wmml75Sn2lhJjsyaXkOBE"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "Thinkin of You",
         "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 137142,
       "name": "Thinkin of You",
       "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "On a Beach (Champion Remix)",
+        "url": "https://open.spotify.com/album/2sNfSTxofKnG8FyNltocnp"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Etta Bond",
+          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
+        },
+        {
+          "name": "Double S",
+          "url": "https://open.spotify.com/artist/2hs495y9Yso0hfotMuVaHC"
+        }
+      ],
+      "duration_ms": 165692,
+      "name": "On A Beach - Champion Remix",
+      "url": "https://open.spotify.com/track/7wmml75Sn2lhJjsyaXkOBE"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3"
-      },
-      "artists": [
-        {
-          "name": "Love Remain",
-          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
-        }
-      ],
-      "duration_ms": 300444,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "Never Gonna Be",
         "url": "https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 177000,
       "name": "Microdosing (Conducta Remix) - Edit",
       "url": "https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3"
+      },
+      "artists": [
+        {
+          "name": "Love Remain",
+          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
+        }
+      ],
+      "duration_ms": 300444,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH"
     },
     {
       "added_at": "2023-06-08 23:00:00",

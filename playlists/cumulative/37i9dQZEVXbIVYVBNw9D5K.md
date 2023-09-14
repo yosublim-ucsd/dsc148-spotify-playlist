@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-749 songs - 1 day 13 hr 37 min
+750 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [End Of Time](https://open.spotify.com/track/4ZfVkX9C4WCIOkS9oyGmbN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Kelvyn Colt](https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo) | [End Of Time](https://open.spotify.com/album/5DXmqr0nXw2Gle8A6GYC8c) | 2:55 | 2021-08-15 | 2021-08-16 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 | 2022-03-13 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-11-16 | 2022-02-06 |
-| [Enerci](https://open.spotify.com/track/3a8mVeic6p5DdMSbsQXWIx) | [Dilan Polat](https://open.spotify.com/artist/3VN1vaUIJPMBa90eZP2yeB) | [Enerci](https://open.spotify.com/album/7HanPFqztqG1srQ7pNxDwB) | 2:50 | 2023-07-25 |  |
+| [Enerci](https://open.spotify.com/track/3a8mVeic6p5DdMSbsQXWIx) | [Dilan Polat](https://open.spotify.com/artist/3VN1vaUIJPMBa90eZP2yeB) | [Enerci](https://open.spotify.com/album/7HanPFqztqG1srQ7pNxDwB) | 2:50 | 2023-07-25 | 2023-09-14 |
 | [Enerci](https://open.spotify.com/track/6OwX9jzYTrJESYoPid6aLN) | [Roe571](https://open.spotify.com/artist/5paVawWdXR8wsHrEMDMoA8) | [Enerci](https://open.spotify.com/album/77TNiOGd3L1H8lCmJUkTQK) | 2:50 | 2023-08-08 | 2023-08-26 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-08 |
 | [Eskisi Gibi](https://open.spotify.com/track/44a3EWRqHiOJEGzWgaX8dd) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Eskisi Gibi](https://open.spotify.com/album/3wn6SfgDifkgzusYoiH5Eg) | 3:06 | 2021-10-21 | 2022-01-08 |
@@ -495,6 +495,7 @@
 | [Ne Ay Geceden](https://open.spotify.com/track/4tJa4Vbru9vnEj1IV9aaX1) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Ne Ay Geceden](https://open.spotify.com/album/4XNoVKD5AJ746I5UyoBNuG) | 3:19 | 2022-02-14 | 2022-04-24 |
 | [Ne Zamandır Sendeyim](https://open.spotify.com/track/7L45rxBLaeRsyVZWCC6CXs) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/1tOfXoKAd5AcUpq2MCge2W) | 3:21 | 2021-04-11 | 2021-06-27 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-08-01 | 2021-10-12 |
+| [Nefes](https://open.spotify.com/track/1Lt5VeNJK63RPHt7dRFB0Q) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Nefes](https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS) | 2:32 | 2023-09-13 |  |
 | [NEGATIF](https://open.spotify.com/track/1j6eyZEaIOPOqKer0hsAyF) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:48 | 2022-09-10 | 2022-09-24 |
 | [Nerdesin](https://open.spotify.com/track/2SwQShWjZsxoGviEyaEMOX) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Nerdesin](https://open.spotify.com/album/56FIQvpIezTtGm1j8yjX9q) | 2:56 | 2022-07-23 | 2023-02-05 |
 | [NERDESİN](https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:45 | 2021-06-13 | 2021-06-14 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-68 songs - 5 hr 46 min
+69 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB) | 3:10 | 2022-07-19 |  |
 | [Bella d'estate](https://open.spotify.com/track/35v78oXDzcYDtPWrPsSdYj) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Adesso](https://open.spotify.com/album/7nt6QSJOagBPZHEh5yqNqA) | 5:15 | 2022-07-19 |  |
 | [C'è Più Samba \- 2001 Remaster](https://open.spotify.com/track/6l3rdwqA67H4aEvlW4Nxc2) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Mina Alla Bussola Dal Vivo](https://open.spotify.com/album/62GEeqP3R7TaeP1knNwauP) | 3:32 | 2022-07-19 |  |
-| [Can't Face The Night \- Club Mix](https://open.spotify.com/track/3klN7znqTUm0ub9Cfc1hEL) | [East\-West](https://open.spotify.com/artist/0oxB4cf3u8oTCKOsBlqQsw) | [Naya Beat Volume 1: South Asian Dance and Electronic Music 1983\-1992](https://open.spotify.com/album/3zslYkDdWDDm0Cq6oAG8tm) | 5:08 | 2023-05-24 |  |
+| [Can't Face The Night \- Club Mix](https://open.spotify.com/track/3P2R4iPAO1u7aSWq3JwQcT) | [East\-West](https://open.spotify.com/artist/0oxB4cf3u8oTCKOsBlqQsw) | [Naya Beat Volume 1: South Asian Dance and Electronic Music 1983\-1992](https://open.spotify.com/album/1FjJVrJypgYf1WtWCo3kAd) | 5:08 | 2023-05-24 |  |
+| [Can't Face The Night \- Club Mix](https://open.spotify.com/track/3klN7znqTUm0ub9Cfc1hEL) | [East\-West](https://open.spotify.com/artist/0oxB4cf3u8oTCKOsBlqQsw) | [Naya Beat Volume 1: South Asian Dance and Electronic Music 1983\-1992](https://open.spotify.com/album/3zslYkDdWDDm0Cq6oAG8tm) | 5:08 | 2023-05-24 | 2023-09-14 |
 | [Can't You See Me](https://open.spotify.com/track/1EzfTM6xAaF4d1FCSARWYL) | [Boogsie](https://open.spotify.com/artist/3Svu0WHorwzeTSxVmGOg5H) | [Under the Influence Vol\. 4 compiled by Nick the Record](https://open.spotify.com/album/5pM5jYmEFRrALBMeykTJOi) | 5:21 | 2022-07-19 |  |
 | [Celebrai](https://open.spotify.com/track/4PzJpD928dFuoLmpj7vmXO) | [Alberto Radius](https://open.spotify.com/artist/2uyAYGYd55R5oAHtyJYN95) | [Carta Straccia](https://open.spotify.com/album/7gPXZfbUIhMsn5qpfQMWF8) | 4:39 | 2022-07-19 |  |
 | [Check It Out](https://open.spotify.com/track/72vOYD0M0B04i89fNLvHNI) | [Wildfire](https://open.spotify.com/artist/3WaJm667phBF0SenmoWhXZ) | [Jeff Recordings](https://open.spotify.com/album/3GgKjT7hTvSI8QyvHyaBJw) | 3:27 | 2022-07-19 |  |

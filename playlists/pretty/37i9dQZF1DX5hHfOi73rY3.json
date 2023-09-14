@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 271945,
+  "num_followers": 272019,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjc5MWZmMzdkMzdlMTExNWM2NDA4ZjI4NWVmOTBlYjFmYTg1NDYz",
+  "snapshot_id": "MCw4ZjA0NTc4ZmM0MDMwMmU0Njk4M2FmZjFhMDgyNTU1ZTVmYjA2NThi",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "We Do What We Want",
-        "url": "https://open.spotify.com/album/5DLu0Cem636nRBXkqhjDIh"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "duration_ms": 505577,
-      "name": "We Do What We Want",
-      "url": "https://open.spotify.com/track/18DjkS5pjqCBROtTVH4GK6"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Just EP",
         "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 372555,
       "name": "Just",
       "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "We Do What We Want",
+        "url": "https://open.spotify.com/album/5DLu0Cem636nRBXkqhjDIh"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "duration_ms": 505577,
+      "name": "We Do What We Want",
+      "url": "https://open.spotify.com/track/18DjkS5pjqCBROtTVH4GK6"
     },
     {
       "added_at": "2020-11-06 16:59:04",

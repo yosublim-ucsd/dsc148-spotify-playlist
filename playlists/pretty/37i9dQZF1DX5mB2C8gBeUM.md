@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Alana Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,975 likes - 148 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,158 likes - 148 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 52 | [K\[no\]w Better](https://open.spotify.com/track/44HYuoGSPTgV8yKXccrOuW) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:47 |
 | 53 | [Sad in the Summer \(feat\. Lily Rose\)](https://open.spotify.com/track/29Zod043iIX27WBv0duEDn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:21 |
 | 54 | [No Tellin'](https://open.spotify.com/track/2AA15YjJYN07vp0avGn4oG) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [No Tellin'](https://open.spotify.com/album/1bQCdmYrKD0XOVmvM2RMFR) | 3:07 |
-| 55 | [Eat Pray Drugs](https://open.spotify.com/track/1Cmxg862124HUQNshfcYtO) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Eat Pray Drugs](https://open.spotify.com/album/5prG4hTUYdc5db6QewYWwQ) | 2:56 |
+| 55 | [Eat Pray Drugs](https://open.spotify.com/track/6ufMeWOAV31CJuFrA94J7a) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Florida](https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG) | 2:56 |
 | 56 | [Stetson](https://open.spotify.com/track/5jQICwvgUzWQhUB94SsJU8) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Strait Two Stepping](https://open.spotify.com/album/52eg7C6rpSu8wG6oi7ZBG7) | 2:03 |
 | 57 | [No Limits \(feat\. Jimmie Allen\)](https://open.spotify.com/track/305Y0rejNFVeHkmyO5I57R) | [Fueled by 808](https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X), [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM), [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Limits \(feat\. Jimmie Allen\)](https://open.spotify.com/album/5lbMOKVS0bMuHe9su657Co) | 3:29 |
 | 58 | [Say It Again](https://open.spotify.com/track/3QP4KQ74RjP3ziiAkeLqcO) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [Say It Again](https://open.spotify.com/album/30JoxMW7toDvE90C2nyCtv) | 3:07 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 147 | [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 |
 | 148 | [Built For A Small Town](https://open.spotify.com/track/63nM0Om7cYR9QJvpUVSweR) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX), [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Built For A Small Town](https://open.spotify.com/album/6QQwflGJROGzl0tYLM36if) | 3:09 |
 
-Snapshot ID: `MCxmMzAxOGRkYzY4ZjhkZTI1MzZmMjMyNDM2OTJkNTQ5OTkwZGY2OTM3`
+Snapshot ID: `MCw4Y2ZjNWEyNTFhZmRlMTYzOWExZTA5ZmMyMTgyNTg3ZmU2NjNlMzMy`

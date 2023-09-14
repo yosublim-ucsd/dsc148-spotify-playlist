@@ -11022,7 +11022,7 @@
     {
       "album": {
         "name": "save my heart",
-        "url": "https://open.spotify.com/album/6xrL5KuTTNMQrJDOOCrtSJ"
+        "url": "https://open.spotify.com/album/6F2JycFERABpGqptt0vFfV"
       },
       "artists": [
         {
@@ -11037,6 +11037,28 @@
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 164310,
+      "name": "save my heart",
+      "url": "https://open.spotify.com/track/2MJpQd3qeTdeWpUh7fY3Z6"
+    },
+    {
+      "album": {
+        "name": "save my heart",
+        "url": "https://open.spotify.com/album/6xrL5KuTTNMQrJDOOCrtSJ"
+      },
+      "artists": [
+        {
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-14",
       "duration_ms": 164310,
       "name": "save my heart",
       "url": "https://open.spotify.com/track/3aekc2jvxdSDXGUrwXBbmw"
@@ -13775,6 +13797,24 @@
     },
     {
       "album": {
+        "name": "Trank",
+        "url": "https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U"
+      },
+      "artists": [
+        {
+          "name": "ako",
+          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177259,
+      "name": "Trank",
+      "url": "https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA"
+    },
+    {
+      "album": {
         "name": "trank",
         "url": "https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf"
       },
@@ -13786,7 +13826,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 177259,
       "name": "trank",
       "url": "https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu"

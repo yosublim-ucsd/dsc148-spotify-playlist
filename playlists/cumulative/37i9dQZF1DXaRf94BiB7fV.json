@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Kaustav Mahapatra, Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Nikita Ahuja, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -532,6 +532,24 @@
       "duration_ms": 184663,
       "name": "Aastik",
       "url": "https://open.spotify.com/track/02TRI7tQI2vus2bCmudfyr"
+    },
+    {
+      "album": {
+        "name": "Aawazein Meri",
+        "url": "https://open.spotify.com/album/0HHQzcBj2m0ilMnL7CfjoB"
+      },
+      "artists": [
+        {
+          "name": "Nikita Ahuja",
+          "url": "https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167407,
+      "name": "Aawazein Meri",
+      "url": "https://open.spotify.com/track/0aqT7ZpKmA6wtYehfAtSDK"
     },
     {
       "album": {
@@ -1247,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Baatein Ankahi",
+        "url": "https://open.spotify.com/album/01VYxRraiMd0nfk5zWv6JC"
+      },
+      "artists": [
+        {
+          "name": "Kappi Kat",
+          "url": "https://open.spotify.com/artist/7yB0vks4iLj3AI16Rwlh7f"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Baatein Ankahi",
+      "url": "https://open.spotify.com/track/6VuPelGxBidVYznwlkwUaM"
+    },
+    {
+      "album": {
         "name": "Bachpan",
         "url": "https://open.spotify.com/album/6uJUNfkdx2joU3YCYvYA1H"
       },
@@ -1592,7 +1628,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 255000,
       "name": "Barsaat",
       "url": "https://open.spotify.com/track/4NLVsU2UqzfEmrbiCOLkSK"
@@ -2443,6 +2479,28 @@
     },
     {
       "album": {
+        "name": "Friends Tonight, Strangers Again",
+        "url": "https://open.spotify.com/album/5Zf5fzWiR7YktTP5wP75JZ"
+      },
+      "artists": [
+        {
+          "name": "Arrows",
+          "url": "https://open.spotify.com/artist/2LgY4M7R8cJM0l52RlE9dd"
+        },
+        {
+          "name": "Second Sight",
+          "url": "https://open.spotify.com/artist/7Gj4NjNVPzzn00yDDVmrla"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208669,
+      "name": "Can We Be",
+      "url": "https://open.spotify.com/track/5KwzRl5j8lohCvX9ar5K3F"
+    },
+    {
+      "album": {
         "name": "Can't Go Falling Again",
         "url": "https://open.spotify.com/album/13dVoTe6zCqCwmVNZxujSO"
       },
@@ -3134,6 +3192,24 @@
       "duration_ms": 225821,
       "name": "Dancing With My Shadows",
       "url": "https://open.spotify.com/track/0wptMnEupUHQ3GOwhULztk"
+    },
+    {
+      "album": {
+        "name": "Danka",
+        "url": "https://open.spotify.com/album/4Wl6EXxB2psTKosoiZzWqf"
+      },
+      "artists": [
+        {
+          "name": "Inayat",
+          "url": "https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Danka",
+      "url": "https://open.spotify.com/track/099ttj9MibU1YvRLw96WeU"
     },
     {
       "album": {
@@ -3992,7 +4068,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 286000,
       "name": "Dua",
       "url": "https://open.spotify.com/track/4z9RQe6xyZoUyHMLLrVcGT"
@@ -5296,7 +5372,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 174363,
       "name": "Hamraahi",
       "url": "https://open.spotify.com/track/2OFov6zJDzeDvkueIcu8Vr"
@@ -7297,6 +7373,28 @@
     },
     {
       "album": {
+        "name": "Judaai",
+        "url": "https://open.spotify.com/album/7HYBdhoPLG4viSMEIwiFr7"
+      },
+      "artists": [
+        {
+          "name": "Tajinder Singh",
+          "url": "https://open.spotify.com/artist/74YdWBWq7R9JJIDM3NCSrG"
+        },
+        {
+          "name": "Bhanu Singh",
+          "url": "https://open.spotify.com/artist/6W4D2fiAamwzg9RMOvAS16"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Judaai",
+      "url": "https://open.spotify.com/track/4quoTn7QTN1GLN6NhzQMlE"
+    },
+    {
+      "album": {
         "name": "Jugnoo",
         "url": "https://open.spotify.com/album/2PiMemmXngL1mnIHKVwRJj"
       },
@@ -7834,7 +7932,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 181096,
       "name": "Kahaniyan",
       "url": "https://open.spotify.com/track/1SGCQ0EQgvJD6PmU31ibXE"
@@ -8026,6 +8124,24 @@
       "duration_ms": 158294,
       "name": "Kajal Ki Kothari",
       "url": "https://open.spotify.com/track/6uJqHVZywlATUGDL0Sgd5L"
+    },
+    {
+      "album": {
+        "name": "Kar Kinare Mujhe",
+        "url": "https://open.spotify.com/album/4lKUqG2vjtwbhNlclGrvvc"
+      },
+      "artists": [
+        {
+          "name": "Paras Bamola",
+          "url": "https://open.spotify.com/artist/1sGbtlGwDcyl7rszFymiyt"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256764,
+      "name": "Kar Kinare Mujhe",
+      "url": "https://open.spotify.com/track/6gXO6W4mqlJyXr0XWBDj3z"
     },
     {
       "album": {
@@ -8810,7 +8926,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 252842,
       "name": "Laapata",
       "url": "https://open.spotify.com/track/15RXZktbkcPsN3Uuks88UX"
@@ -10898,7 +11014,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 168948,
       "name": "Nargis",
       "url": "https://open.spotify.com/track/24ZHu2tphIiAxsoSv2RpUN"
@@ -12512,6 +12628,24 @@
       "duration_ms": 170816,
       "name": "Realize - Live at Her Village",
       "url": "https://open.spotify.com/track/1mpHxvoaBVESgU80lr9lgy"
+    },
+    {
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1HrvjEr24PuagiCpNPRlWH"
+      },
+      "artists": [
+        {
+          "name": "Priyanka Nath",
+          "url": "https://open.spotify.com/artist/7xKgO2AdW8dPHlXrxBNTpE"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202890,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/6YpLv9foS2WememOy83Iw4"
     },
     {
       "album": {
@@ -15632,7 +15766,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 199500,
       "name": "Tinka",
       "url": "https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn"
@@ -16549,6 +16683,32 @@
     },
     {
       "album": {
+        "name": "Un Dinon",
+        "url": "https://open.spotify.com/album/0nrali0CW9rhsyODQRpIHO"
+      },
+      "artists": [
+        {
+          "name": "NiShant Singh",
+          "url": "https://open.spotify.com/artist/6oCcbJPchxDOG3nEpZ7b7h"
+        },
+        {
+          "name": "Rupali Moghe",
+          "url": "https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0"
+        },
+        {
+          "name": "Utkarsh Sharma",
+          "url": "https://open.spotify.com/artist/0XLroFVwPnQ7CWIKJqiVWH"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239999,
+      "name": "Un Dinon",
+      "url": "https://open.spotify.com/track/2WgOsBunjsUQbEn3tHOyCK"
+    },
+    {
+      "album": {
         "name": "Uncha-Nicha",
         "url": "https://open.spotify.com/album/5IkbQjhYwa0heAAWXQUweA"
       },
@@ -16840,7 +17000,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 268000,
       "name": "Waqt Guzar Jayega",
       "url": "https://open.spotify.com/track/6nEDKjale9u5l9QgVxCS8U"
@@ -17930,7 +18090,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 152500,
       "name": "Zindagi",
       "url": "https://open.spotify.com/track/77RaO1TGByzJ2Tt3pMWtDU"
@@ -17970,6 +18130,24 @@
       "duration_ms": 295083,
       "name": "Zindagi Kya Hai Tu",
       "url": "https://open.spotify.com/track/7yKgwroibBix9wNOdfxxmy"
+    },
+    {
+      "album": {
+        "name": "Zindagi Tu Hi Bata",
+        "url": "https://open.spotify.com/album/3zgC5GY80e8w9utTqA4v96"
+      },
+      "artists": [
+        {
+          "name": "Harsh Gandhi",
+          "url": "https://open.spotify.com/artist/2rCvmoHfugcDbVJqRo8ku7"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275142,
+      "name": "Zindagi Tu Hi Bata",
+      "url": "https://open.spotify.com/track/2IcTJbUMjwjpXa0tAzHkCs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,455 likes - 65 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,564 likes - 65 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 15 | [Strode Rode \- Rudy Van Gelder Remaster](https://open.spotify.com/track/5xoQDcAjk0AaOU8QBZ4w4w) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Doug Watkins](https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Saxophone Colossus](https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ) | 5:14 |
 | 16 | [Au Privave](https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Sonny Stitt Sits In With The Oscar Peterson Trio](https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu) | 3:59 |
 | 17 | [Lazy Bird \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/0V3K5h6d8Epqg4k60O1IBB) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 7:07 |
-| 18 | [Minors Holiday \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Afro\-Cuban \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ) | 4:27 |
-| 19 | [Nica's Dream \- Remastered 2005](https://open.spotify.com/track/41SnKoDajVqocQRVHmVju5) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace \- Scope](https://open.spotify.com/album/5fy4rxCz9rIRVuU3HZgK5B) | 6:48 |
+| 18 | [Nica's Dream \- Remastered 2005](https://open.spotify.com/track/41SnKoDajVqocQRVHmVju5) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace \- Scope](https://open.spotify.com/album/5fy4rxCz9rIRVuU3HZgK5B) | 6:48 |
+| 19 | [Minors Holiday \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Afro\-Cuban \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ) | 4:27 |
 | 20 | [Giant Steps \- 2020 Remaster](https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(60th Anniversary Super Deluxe Edition\) \[2020 Remaster\]](https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4) | 4:47 |
 | 21 | [Scrapple From The Apple \- Rudy Van Gelder Edition / 2003 Remaster](https://open.spotify.com/track/5f4V1rtxYYbGnTbITkkIV7) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Our Man In Paris \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088) | 7:22 |
 | 22 | [Alamode](https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU) | 6:50 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [The Surrey With The Fringe On Top \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 5:11 |
 | 65 | [Philly Mignon \- Rudy Van Gelder 24\-Bit Remastering/2006](https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Here To Stay](https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5) | 5:28 |
 
-Snapshot ID: `MCwzOWViZTBkNzliMTdkNThkOGVkMmI3MzY4MTkzMTc4YzczZjMyYWQ0`
+Snapshot ID: `MCwxMTkzODY2YjgwMGU3NjY4OWM5MjEyMTY2ZmZjMDg0YjBlZDcyN2Vi`

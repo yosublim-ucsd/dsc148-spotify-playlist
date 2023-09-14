@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,378 likes - 102 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,412 likes - 102 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 101 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
 | 102 | [Villain](https://open.spotify.com/track/0oN98d6OhF4coX2gcZe6yL) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Villain](https://open.spotify.com/album/6UYGCHF3BMuwmZMNp1sdPs) | 3:09 |
 
-Snapshot ID: `MCw4NmI0ZTg0NmFiODY2ZTE0MDk2ZDc5NzUxZjBlMzgyYWRmMzU0Mzc5`
+Snapshot ID: `MCwwYWRlZjQ2YTc3YWY3OThiYjBmOGU5YzlkN2M4ZjhiN2ZhNmFjN2My`

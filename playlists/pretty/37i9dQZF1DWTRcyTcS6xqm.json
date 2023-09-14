@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10471,
+  "num_followers": 10468,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2JiMGM1MzQ1ZmJkNmQzYzhlODhjZmFlOGVjYjA3OGZkMGYyOTVl",
+  "snapshot_id": "MCxlZDk5Y2UzMjAwMmJmYjUwMTNiOTRjZmRjNjg4ZDE5YWExY2QwMTk4",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -755,26 +755,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "50 - Just warming up !",
-        "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
+        "name": "The Son Of A Bluesman",
+        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
       },
       "artists": [
         {
           "name": "Lucky Peterson",
           "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        },
-        {
-          "name": "Danielia Cotton",
-          "url": "https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t"
-        },
-        {
-          "name": "Sugar Blue",
-          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
         }
       ],
-      "duration_ms": 275226,
-      "name": "Let The Good Time Party Begin",
-      "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
+      "duration_ms": 281013,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -799,6 +791,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Down Home Mojo",
+        "url": "https://open.spotify.com/album/3ERQDgDldAaWSZIJj9R9iz"
+      },
+      "artists": [
+        {
+          "name": "Tony Spinner",
+          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+        }
+      ],
+      "duration_ms": 291720,
+      "name": "Sweet Thang",
+      "url": "https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Times Have Changed",
         "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
       },
@@ -819,22 +827,6 @@
       "duration_ms": 233560,
       "name": "Come On Up",
       "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Down Home Mojo",
-        "url": "https://open.spotify.com/album/3ERQDgDldAaWSZIJj9R9iz"
-      },
-      "artists": [
-        {
-          "name": "Tony Spinner",
-          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
-        }
-      ],
-      "duration_ms": 291720,
-      "name": "Sweet Thang",
-      "url": "https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy"
     },
     {
       "added_at": "2020-12-01 05:01:00",

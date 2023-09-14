@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 279126,
+  "num_followers": 279207,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzcwOWYwOGVkNjEyNmY0ZmVlYWZiN2RiZDI2YTc1YTBjYmE5ZTIw",
+  "snapshot_id": "MCxmMGI1MTgxMGVkZDc2NmY2MzcwZjgyYWQ2ZjM4NTA5OWUzZjExNDE0",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -623,22 +623,18 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Donavi",
-        "url": "https://open.spotify.com/album/20RUaloKOoD5AseI3z57iD"
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
       },
       "artists": [
         {
-          "name": "Ms\u00e1rio",
-          "url": "https://open.spotify.com/artist/23uEfKXCMDz7CayvDlN3Az"
-        },
-        {
-          "name": "Karina Buhr",
-          "url": "https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 250600,
-      "name": "Donavi",
-      "url": "https://open.spotify.com/track/2KeRDSJkHqbLgUGWjF79vk"
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -663,18 +659,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
+        "name": "Donavi",
+        "url": "https://open.spotify.com/album/20RUaloKOoD5AseI3z57iD"
       },
       "artists": [
         {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+          "name": "Ms\u00e1rio",
+          "url": "https://open.spotify.com/artist/23uEfKXCMDz7CayvDlN3Az"
+        },
+        {
+          "name": "Karina Buhr",
+          "url": "https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm"
         }
       ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
+      "duration_ms": 250600,
+      "name": "Donavi",
+      "url": "https://open.spotify.com/track/2KeRDSJkHqbLgUGWjF79vk"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Se Joga",
+        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 173269,
+      "name": "Se Joga",
+      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Filho do Mar",
         "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 215172,
       "name": "Filho do Mar",
       "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "P\u00f4r do Sol",
-        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 228844,
-      "name": "P\u00f4r do Sol",
-      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -875,22 +875,18 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
       },
       "artists": [
         {
-          "name": "Solano Jacob",
-          "url": "https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm"
-        },
-        {
-          "name": "Rafael Senegal",
-          "url": "https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 242948,
-      "name": "Flying High",
-      "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -923,6 +919,26 @@
       "duration_ms": 230967,
       "name": "O Que te Faz Viver",
       "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
+      },
+      "artists": [
+        {
+          "name": "Solano Jacob",
+          "url": "https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm"
+        },
+        {
+          "name": "Rafael Senegal",
+          "url": "https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK"
+        }
+      ],
+      "duration_ms": 242948,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -963,22 +979,6 @@
       "duration_ms": 214798,
       "name": "Eleva",
       "url": "https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2023-09-01 03:01:00",

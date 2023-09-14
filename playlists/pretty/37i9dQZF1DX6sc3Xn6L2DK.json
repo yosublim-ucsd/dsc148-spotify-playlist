@@ -1,12 +1,12 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 36072,
+  "num_followers": 36097,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDEyZTVkZThhZWM1OWM4NzFkNDE1ZTE2ZmU1MTlkN2U3NTBjZjMx",
+  "snapshot_id": "MCw1Nzg4OTUxNGVhYjE1Y2ZlMWRhZjg5NTk5NTA4NzM4NjliNDlhMDk2",
   "tracks": [
     {
       "added_at": "2023-07-11 18:58:34",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Luke Bell",
-        "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
-      },
-      "artists": [
-        {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Where Ya Been?",
-      "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Long Game",
         "url": "https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 180016,
       "name": "Long Game",
       "url": "https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Luke Bell",
+        "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
+      },
+      "artists": [
+        {
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Where Ya Been?",
+      "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Speed, Sound, Lonely KV (ep)",
-        "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 394520,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 313296,
       "name": "Golden",
       "url": "https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Speed, Sound, Lonely KV (ep)",
+        "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 394520,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 217260,
-      "name": "Why\u2019d Ya Do It",
-      "url": "https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY"
+      "duration_ms": 189093,
+      "name": "Stone Me",
+      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -943,34 +943,18 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Stone Me",
-      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
-        "name": "Lubbock (on everything)",
-        "url": "https://open.spotify.com/album/31gOu9Ke5o3wgx1GyIDNYU"
-      },
-      "artists": [
-        {
-          "name": "Terry Allen",
-          "url": "https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY"
-        }
-      ],
-      "duration_ms": 165225,
-      "name": "Rendezvous USA",
-      "url": "https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi"
+      "duration_ms": 217260,
+      "name": "Why\u2019d Ya Do It",
+      "url": "https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -1007,18 +991,18 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Cocaine Country Dancing",
-        "url": "https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL"
+        "name": "Lubbock (on everything)",
+        "url": "https://open.spotify.com/album/31gOu9Ke5o3wgx1GyIDNYU"
       },
       "artists": [
         {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+          "name": "Terry Allen",
+          "url": "https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY"
         }
       ],
-      "duration_ms": 256281,
-      "name": "Cocaine Country Dancing",
-      "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
+      "duration_ms": 165225,
+      "name": "Rendezvous USA",
+      "url": "https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -1051,6 +1035,22 @@
       "duration_ms": 239325,
       "name": "Sweet Tasting Tennessee",
       "url": "https://open.spotify.com/track/3uSD4eEDSHiNaQrWrKiHKm"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Cocaine Country Dancing",
+        "url": "https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 256281,
+      "name": "Cocaine Country Dancing",
+      "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
     },
     {
       "added_at": "2023-07-11 18:58:34",

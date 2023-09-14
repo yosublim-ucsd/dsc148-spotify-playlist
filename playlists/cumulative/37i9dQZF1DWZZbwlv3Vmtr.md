@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-755 songs - 1 day 5 hr 22 min
+756 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-04-15 | 2022-09-03 |
 | [Look After Yourself](https://open.spotify.com/track/1SL75FDChNKsexXzKgDb5P) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Look After Yourself](https://open.spotify.com/album/4ZhHQLB6hZCFU3k3qzx6wL) | 3:07 | 2022-04-15 |  |
 | [love Downpitch](https://open.spotify.com/track/6QdtafpgMQ52rXcFh6zskk) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [love Downpitch](https://open.spotify.com/album/40WNLhEvWDTrMG4HSQvqJY) | 1:54 | 2022-08-05 | 2022-10-29 |
-| [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2022-08-19 |  |
+| [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2022-08-19 | 2023-09-14 |
 | [Love Potion](https://open.spotify.com/track/2zJLvAcYQVAsRQuNNu05BL) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Love Potion](https://open.spotify.com/album/4qGPC8agy2yto2IgqKFoRn) | 2:46 | 2022-04-15 | 2022-06-25 |
 | [Love Snip](https://open.spotify.com/track/5TfqA1PGQJRZyng0480Zre) | [Gibun](https://open.spotify.com/artist/2UjKSDLr7jx5VWshKXQ0bT) | [Love Snip](https://open.spotify.com/album/1VL10DhdUCPKdNjbIkQwsY) | 1:32 | 2022-04-15 | 2022-09-09 |
 | [Low Jump](https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Low Jump](https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ) | 1:36 | 2022-09-23 |  |
@@ -684,6 +684,7 @@
 | [Toys](https://open.spotify.com/track/0uA5haTZ3KkIWXReBo9PX1) | [Fairground Fish](https://open.spotify.com/artist/6lG54eZ9rnLWDSoaV4GtRE) | [XYZ](https://open.spotify.com/album/4EBEcFilrfd78jF1pIUe2M) | 2:22 | 2022-04-15 |  |
 | [Trading Bikes](https://open.spotify.com/track/58eukN93h5b7rBlbcR6owz) | [Ewert](https://open.spotify.com/artist/1ZUxK62OchtduzQOHN86Di) | [Trading Bikes](https://open.spotify.com/album/1ElL26L8Fo4svRK6FrBrEh) | 2:57 | 2022-04-15 | 2022-04-22 |
 | [Train Ride](https://open.spotify.com/track/4mHEsCjfyA1vKlIIgsMDrU) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 2:31 | 2022-04-15 | 2022-07-29 |
+| [Tranquil Twilight](https://open.spotify.com/track/22zMUlKVs4jOX5BBPrftUc) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Tranquil Twilight](https://open.spotify.com/album/3PZQWTZ50FwGQfJczPcDlA) | 2:00 | 2023-09-08 |  |
 | [Travel](https://open.spotify.com/track/12ZDskgNqyg8hJ1J6wi59A) | [Klode Chill](https://open.spotify.com/artist/4ykT0z2VYMH0yh9NoVfzEo) | [Travel](https://open.spotify.com/album/119W51qjxm9IQfJlOROxzX) | 2:32 | 2022-12-09 |  |
 | [Troddin](https://open.spotify.com/track/3Oa0UO0zfKhdxNcHmLrHkO) | [LoFinga](https://open.spotify.com/artist/2KZlWqMCvoXIGnLKjfS3jz), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Troddin](https://open.spotify.com/album/5qoDrb9kFVsXYJNoWwi4Se) | 2:30 | 2022-05-13 |  |
 | [Tropical Getaway](https://open.spotify.com/track/2P2viSJbMTHTapFmk7sAfb) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Tropical Getaway](https://open.spotify.com/album/7mTl9iwpIv9dov6F9YU440) | 2:36 | 2022-10-14 | 2022-11-06 |

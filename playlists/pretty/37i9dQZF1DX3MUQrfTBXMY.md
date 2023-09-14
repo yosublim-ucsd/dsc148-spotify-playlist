@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Shunno
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,081 likes - 90 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,131 likes - 90 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 82 | [Chaap](https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Chaap](https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g) | 4:36 |
 | 83 | [Shomoy Gele](https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS) | 4:37 |
 | 84 | [Aluminium Er Dana](https://open.spotify.com/track/14YaeVVN587cOQdTXPQ5FH) | [Meghdol](https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC) | [Aluminium Er Dana](https://open.spotify.com/album/6jbgYcBgkMPpyEuKUnmAK0) | 4:04 |
-| 85 | [Biplobir](https://open.spotify.com/track/7H8Owjdx0E4ZKRXB9mOoY3) | [Aftermath Bangladesh](https://open.spotify.com/artist/3ujHzgjtY4HGLalgE9doea) | [Biplobir](https://open.spotify.com/album/3srEbLtjtQoFcWzMwFxUMn) | 3:15 |
+| 85 | [Biplobir](https://open.spotify.com/track/7H8Owjdx0E4ZKRXB9mOoY3) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Biplobir](https://open.spotify.com/album/3srEbLtjtQoFcWzMwFxUMn) | 3:15 |
 | 86 | [Thomke Keno?](https://open.spotify.com/track/34AGDBCiylYjKHmSdZtTwN) | [Naive](https://open.spotify.com/artist/15akENis2TaJHxXw8cwzXw) | [Thomke Keno?](https://open.spotify.com/album/0ju5tTv07hzCUCLxvToKZw) | 4:39 |
 | 87 | [Tarunner Joy](https://open.spotify.com/track/27W01TxBI3Ib58fIVMCHZz) | [Gontobbohin \- গন্তব্যহীন](https://open.spotify.com/artist/03mneSHKGDcBAKACYiqE12) | [Tarunner Joy](https://open.spotify.com/album/3gaE9mY64Q2gNYgsHPCGJg) | 2:24 |
 | 88 | [Shopno](https://open.spotify.com/track/55YkJjAbEqwtdJv8Bp2L95) | [Mountain Melo](https://open.spotify.com/artist/6JXHD5OT5SRUw5T7QnClki) | [Shopno](https://open.spotify.com/album/2J0bNQRykyIrNqbrfE2BK4) | 6:34 |
 | 89 | [Eka Shomoy](https://open.spotify.com/track/3hIUEpzW4ARKNgaqN3wc9p) | [EnB](https://open.spotify.com/artist/0DSUmiiDThNsaFtBid86ii) | [Eka Shomoy](https://open.spotify.com/album/7wFog5D5FhnfqWoD33k7rX) | 5:22 |
 | 90 | [Ekta Kichu Hobe](https://open.spotify.com/track/6SedmmZ4HPn6IKYLwuDxLS) | [The Stargate](https://open.spotify.com/artist/7tcrODkS6QJqkLFNXFxnZZ) | [Ekta Kichu Hobe](https://open.spotify.com/album/1V8xu39XVLWEm9OQ4a7Cz4) | 3:44 |
 
-Snapshot ID: `MCxkYjA0NjExNDA5Y2ZkNWE0MmI4NGZlNmRlMGY1NTEzOGJhYTg2Yzlj`
+Snapshot ID: `MCw1OWQzZDhiNWJkODZiZWVlNGVmNzk5NWNhNjBlYmRlYzViOTNiMzMz`

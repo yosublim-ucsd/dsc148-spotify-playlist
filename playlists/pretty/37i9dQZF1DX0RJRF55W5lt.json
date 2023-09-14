@@ -1,12 +1,12 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 498808,
+  "num_followers": 498978,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yjg4OTJkZDU0MDZhYmQ5MThlODYxNzE5NTBlY2MzMzMyMDYyYWNk",
+  "snapshot_id": "MCw5MWE4NDUwMDAzMDlkYjE4YmY2YWE4ZWZlNDllOGVmNDE4Y2EwYTBj",
   "tracks": [
     {
       "added_at": "2023-08-11 10:13:10",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
-        "name": "Now And Always: 20 Years Of Dreaming",
-        "url": "https://open.spotify.com/album/7loeQSRUbnvwYLcmgt70D0"
-      },
-      "artists": [
-        {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        },
-        {
-          "name": "Wookie",
-          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
-        }
-      ],
-      "duration_ms": 267947,
-      "name": "Sunshine - Wookie Main Mix",
-      "url": "https://open.spotify.com/track/0crvolcKNxcfLMBFt8I9Hx"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
         "name": "Try Me Out",
         "url": "https://open.spotify.com/album/0lawHOxvdFwQVQZNLHSPKm"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 343906,
       "name": "Try Me Out - Let Me Lick It",
       "url": "https://open.spotify.com/track/09WSDEUOZeRRtPf7ypQVoo"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
+        "name": "Now And Always: 20 Years Of Dreaming",
+        "url": "https://open.spotify.com/album/7loeQSRUbnvwYLcmgt70D0"
+      },
+      "artists": [
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        },
+        {
+          "name": "Wookie",
+          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
+        }
+      ],
+      "duration_ms": 267947,
+      "name": "Sunshine - Wookie Main Mix",
+      "url": "https://open.spotify.com/track/0crvolcKNxcfLMBFt8I9Hx"
     },
     {
       "added_at": "2023-08-11 10:13:10",

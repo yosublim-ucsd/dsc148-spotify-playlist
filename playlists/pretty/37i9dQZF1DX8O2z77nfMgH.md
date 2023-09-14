@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Residente y WOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,493 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,530 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG), [Roni Bruno](https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1), [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7) | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL) | 2:15 |
 | 60 | [Lili](https://open.spotify.com/track/50xFGBuVecb9LQ6a5evQJg) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Terra Preta](https://open.spotify.com/artist/5ngE7XJPqw9CoOq3agu5FP) | [Lili](https://open.spotify.com/album/51W9VxFae3lbK4AhwLzB0L) | 4:00 |
 
-Snapshot ID: `MCw2NjQzYmNmM2UwMTk0NjhkODJjOWU3MGRmZWM0YTI0MDMwNDQwMzI2`
+Snapshot ID: `MCxjZWUwMmY5YjQ3ZGNmZDI4NzA5ODNkYzcxZmVjOGNhN2NkZTE0OTE4`

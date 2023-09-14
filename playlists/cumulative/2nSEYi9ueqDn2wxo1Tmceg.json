@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 246466,
       "name": "Afternoon X",
       "url": "https://open.spotify.com/track/3xkwQ8TkQGHnB8EXIUth8G"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 226135,
       "name": "All Good",
       "url": "https://open.spotify.com/track/4xs7ie83CLCdkdGJwPG0J0"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 180213,
       "name": "All Night",
       "url": "https://open.spotify.com/track/37FSHs2FoBc5lWFAAI70Qo"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 130774,
       "name": "Beginner's Luck",
       "url": "https://open.spotify.com/track/1aGHJWuMcqXA3occrRcTll"
@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Contingency",
+        "url": "https://open.spotify.com/album/3ADdt05a4xzbwJu066U1TP"
+      },
+      "artists": [
+        {
+          "name": "Minor Science",
+          "url": "https://open.spotify.com/artist/7xkfvmfvOfMBZmIGKaLtzi"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459704,
+      "name": "Contingency",
+      "url": "https://open.spotify.com/track/1R7nKYErgE3xyXmEzqJPCM"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 268813,
       "name": "Crazy Blue Bells",
       "url": "https://open.spotify.com/track/1LeaVGUB2msQg5GSXZjEew"
@@ -4000,6 +4018,24 @@
       "duration_ms": 130479,
       "name": "Gary Ashby",
       "url": "https://open.spotify.com/track/30erf27MriGIsvb4rzria6"
+    },
+    {
+      "album": {
+        "name": "Gem & I",
+        "url": "https://open.spotify.com/album/3UQvkojaS56sOTpiKZalUW"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219885,
+      "name": "Gem & I",
+      "url": "https://open.spotify.com/track/5cOaDhLJ6dGnIMAFeHsjT5"
     },
     {
       "album": {
@@ -5807,6 +5843,24 @@
     },
     {
       "album": {
+        "name": "Bird Machine",
+        "url": "https://open.spotify.com/album/7DUDIoIEw2yGKi1wcLjRuy"
+      },
+      "artists": [
+        {
+          "name": "Sparklehorse",
+          "url": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "Kind Ghosts",
+      "url": "https://open.spotify.com/track/5dstiVRqqlNFifoIIhz4ET"
+    },
+    {
+      "album": {
         "name": "King of the Slugs",
         "url": "https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ"
       },
@@ -6170,6 +6224,28 @@
       "duration_ms": 210000,
       "name": "Living",
       "url": "https://open.spotify.com/track/4q5JVsHtnFPxIhfALUmWhD"
+    },
+    {
+      "album": {
+        "name": "Loam",
+        "url": "https://open.spotify.com/album/3oljPOUI6ehE3tWpmp4G1x"
+      },
+      "artists": [
+        {
+          "name": "SCALER",
+          "url": "https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299670,
+      "name": "Loam",
+      "url": "https://open.spotify.com/track/0aDDGZ5TD5UGfkIkRZMbaU"
     },
     {
       "album": {
@@ -7336,10 +7412,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 248324,
       "name": "Nothing Gonna Stop",
       "url": "https://open.spotify.com/track/2yYZ26Qmsn5e0su5G6do3E"
+    },
+    {
+      "album": {
+        "name": "Music For KIDS",
+        "url": "https://open.spotify.com/album/2Q4M6omYkowhjNRQmA15zi"
+      },
+      "artists": [
+        {
+          "name": "Folk Implosion",
+          "url": "https://open.spotify.com/artist/6DM1YETeVIN3ce24DhnMhU"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Nothing Gonna Stop - 2023 Live Session",
+      "url": "https://open.spotify.com/track/6LrIDW87WChaMZBNmiWBnx"
     },
     {
       "album": {
@@ -8632,7 +8726,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 322720,
       "name": "Scapegoat",
       "url": "https://open.spotify.com/track/72sw9ILibLxskMfroQfdqC"
@@ -8654,7 +8748,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 481160,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/0CgtgR2Rz4z9zmbclEhpg8"
@@ -8672,7 +8766,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 187686,
       "name": "Screaming In The Rain Again",
       "url": "https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS"
@@ -10929,6 +11023,24 @@
     },
     {
       "album": {
+        "name": "Up and Comer",
+        "url": "https://open.spotify.com/album/4auUOEEMRz5Uox3n79ip6M"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226385,
+      "name": "Up and Comer",
+      "url": "https://open.spotify.com/track/0yMfUaFL7LDT38c648msAM"
+    },
+    {
+      "album": {
         "name": "Live at Bush Hall",
         "url": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW"
       },
@@ -11378,7 +11490,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 301653,
       "name": "Whirlpool Dub - Adrian Sherwood 'Reset In Dub' Version",
       "url": "https://open.spotify.com/track/3VEOS5yu1PPzfsaIILa2t1"

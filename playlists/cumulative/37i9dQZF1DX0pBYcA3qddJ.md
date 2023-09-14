@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-530 songs - 1 day 12 hr 6 min
+531 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,8 @@
 | [「甘き死よ、来たれ」ハ短調 BWV478 \(バウアー編\)](https://open.spotify.com/track/3D5p7JaRDVjBTF11oWd1Pl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [實川風](https://open.spotify.com/artist/1ETofCnGJ1L738yJaGEKeR) | [實川風バッハ](https://open.spotify.com/album/0UQl1AYMQ90qtsy7JPmDZA) | 3:58 | 2023-03-14 | 2023-08-02 |
 | [あしたに向かって](https://open.spotify.com/track/2qoheoIUxD6rwibBksqTFt) | [Asuka Noda](https://open.spotify.com/artist/5B5Ip55ekXUdj3wehY9Vnz) | [哀しみの向こう](https://open.spotify.com/album/0RZI94WG9thxjLCfLMYIuq) | 3:40 | 2022-12-01 | 2023-03-01 |
 | [いかないで](https://open.spotify.com/track/4JSndyxcNjbhE1fgCeNu0T) | [Mine Kawakami](https://open.spotify.com/artist/27AI6gU3hQimMQ2ywqFiGb) | [Nostalghia\~Kiyomizu\~](https://open.spotify.com/album/6kmGx5WxG7VQugcjdozNVL) | 7:15 | 2023-06-13 |  |
-| [いつかどこかで](https://open.spotify.com/track/04bkhTJ9BFF6KIN0z9UdF6) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [いつかどこかで](https://open.spotify.com/album/72XKS0zXlEtZzheBP8f5df) | 4:06 | 2023-09-12 |  |
+| [いつかどこかで](https://open.spotify.com/track/04bkhTJ9BFF6KIN0z9UdF6) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [いつかどこかで](https://open.spotify.com/album/72XKS0zXlEtZzheBP8f5df) | 4:06 | 2023-09-12 | 2023-09-14 |
+| [いつかどこかで](https://open.spotify.com/track/58ZlRX0rmemz6ilz4o1ksR) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [いつかどこかで](https://open.spotify.com/album/6wk9JtER9fLhtZjt8u7Gga) | 4:06 | 2023-09-12 |  |
 | [いとなみ](https://open.spotify.com/track/4yjfLuuDNskg1puzz1h0y7) | [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [いとなみ](https://open.spotify.com/album/5xBtRY8wzuZx3eKwQgxq6h) | 2:45 | 2023-04-04 | 2023-05-30 |
 | [うたた寝の日向](https://open.spotify.com/track/39npthIKvraBz2uFswfUcG) | [Jazz River Light](https://open.spotify.com/artist/1u8tOUsmXll1qDjWB5wHAu) | [ピアノ優しく響く森のカフェ～丘に吹く優しい風～](https://open.spotify.com/album/0vjYNhReZ1cRmG3icnWGsD) | 4:18 | 2023-08-08 |  |
 | [ここは素晴らしい処 作品 21\-7](https://open.spotify.com/track/2VEHw1OjMD6XxkVm0bkxYX) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [阪田知樹](https://open.spotify.com/artist/57Kx3xSjhWgYeRwkKLbETI) | [スペイン狂詩曲\~阪田知樹デビュー!](https://open.spotify.com/album/0ey1lXPOEahwSD4RilrtSu) | 2:09 | 2023-06-13 |  |

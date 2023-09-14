@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,330 likes - 105 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,605 likes - 105 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [alife](https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [alife](https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm) | 4:33 |
+| 1 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 |
 | 2 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 |
 | 3 | [Comatose](https://open.spotify.com/track/1nrY9vaRGbSu8Oyp5Wlyu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [Comatose](https://open.spotify.com/album/699HPxSGvoihD45uGQbBYv) | 3:48 |
 | 4 | [forest green](https://open.spotify.com/track/4ARqMW0NJQpNtqnYHAgbjO) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [forest green](https://open.spotify.com/album/10avrb3XzKDttFJte6w2gR) | 3:27 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 9 | [Soft Fall](https://open.spotify.com/track/6ThKjKr31pQA2odkt8J2Ev) | [My Transparent Eye](https://open.spotify.com/artist/6D9BQI3d6y8lOkC6EB7lkU), [Lazylazy](https://open.spotify.com/artist/1TPIf8I6WXXXIRjjSWYiuD) | [Soft Fall](https://open.spotify.com/album/2tP4Avv1sieu303wzLGPNN) | 3:04 |
 | 10 | [iwanttttt222](https://open.spotify.com/track/2B6DUfDiyUjmS3n6r3JFpe) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [iwanttttt222](https://open.spotify.com/album/2lcYvb7m5KvefTPg2aSQzb) | 2:00 |
 | 11 | [Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi) | 3:48 |
-| 12 | [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 |
+| 12 | [the slab](https://open.spotify.com/track/2qvOC1CRBtwOcl2dlcOCM1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 5:10 |
 | 13 | [Unresponsive](https://open.spotify.com/track/074XXIChzoiocYGqS221a4) | [betterluckmason](https://open.spotify.com/artist/3n50HiEZZUPpdSO14AZxXz) | [Unresponsive](https://open.spotify.com/album/4pwc73Mkfv0btdy3MOGeFU) | 2:22 |
 | 14 | [its you](https://open.spotify.com/track/1Rgb55W0TNZThWOW7Qby8a) | [sodistilled](https://open.spotify.com/artist/54S56FDCzOYP1EY3hb7wbW) | [its you](https://open.spotify.com/album/4UYnEe3BwrggAaH5Qs9qje) | 2:03 |
 | 15 | [Lips](https://open.spotify.com/track/05SEi2EuY93D6UHHUSNZGc) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Lips](https://open.spotify.com/album/7Kvgk3FSRAKFKVZrvhNjmy) | 5:10 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 20 | [Distortion Spear](https://open.spotify.com/track/18jxW8sLv8VwBAZJWKOez7) | [Candy Claws](https://open.spotify.com/artist/34Xay0uKsALHCrn5LkrYeh) | [Distortion Spear](https://open.spotify.com/album/1ZRZmhgSWzXID20b8o5jcd) | 3:41 |
 | 21 | [afraid](https://open.spotify.com/track/481A0KvGKhzGsQHM1RlODQ) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [afraid](https://open.spotify.com/album/5athKnedDAj44OMlwx4L2Y) | 2:41 |
 | 22 | [I’d Like You To Leave](https://open.spotify.com/track/2ufyUEytXZQvltIJsxEDwO) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [I’d Like You To Leave](https://open.spotify.com/album/07fLys1nAwfqubZ5q927iW) | 2:46 |
-| 23 | [skin in the game](https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [skin in the game](https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb) | 3:52 |
+| 23 | [skin in the game](https://open.spotify.com/track/2EpduTUFSZfeb0GI4CaCQD) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:52 |
 | 24 | [Slide Back](https://open.spotify.com/track/4C2nwt9F6B0T1HMBzOjrhV) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Slide Back](https://open.spotify.com/album/3CvQz6P3BnFbPjOQa7cxQV) | 3:06 |
 | 25 | [her distortion](https://open.spotify.com/track/3ZspmUmIrhadEBXCK2kM9Q) | [xójira](https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2) | [her distortion](https://open.spotify.com/album/6wB6nhvNeSWUUjv0gWszLE) | 3:15 |
 | 26 | [Avalon](https://open.spotify.com/track/3d9lGlazIwY8f2xBfIIGps) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Avalon](https://open.spotify.com/album/42KyfZdfBxSwA8dwRKvJDR) | 2:56 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 104 | [Don't Give Up](https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 1:52 |
 | 105 | [Sour Punch](https://open.spotify.com/track/13pNdu3UOvwz0NxU2EEgVD) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Possessions](https://open.spotify.com/album/1sZkGikz7VbeytHdaBgWhr) | 2:32 |
 
-Snapshot ID: `MCxkOGQxMDNjNWY5ZDc3NDlkYWMzOTlmMzlkNGY5MzBiMzQ5YmQyOWUx`
+Snapshot ID: `MCw0MDVjNTZjYzU1NGFiMDRjZWUwZmJiMDkyM2IwNmFhZjU1YmFmMmNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Alex Hoyer y Mario Bautista en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,488 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,538 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 3 | [Independiente](https://open.spotify.com/track/2dxdN5XWeLM1BgbocLLGgw) | [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Independiente](https://open.spotify.com/album/7yJumcHNQSYq7KE4bAsFr8) | 1:45 |
 | 4 | [La B Es De Bellaka](https://open.spotify.com/track/0SUMky81PpkC1mYSl1UPNq) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Salon Sandunga](https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo), [Kapostik](https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3) | [La B Es De Bellaka](https://open.spotify.com/album/2qg17ULjiGLq2C28wWvwKT) | 2:26 |
 | 5 | [Contenta](https://open.spotify.com/track/3kDeZkH9kk9VEHlEZBy49v) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Contenta](https://open.spotify.com/album/7G58iqTIn2qInGCYAfJFoM) | 2:30 |
-| 6 | [Perrealo](https://open.spotify.com/track/5Z91mj8aVlei16GuiYOUxK) | [DJ Yelkrab](https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5), [Dj Bryan Kingz](https://open.spotify.com/artist/7AGxtfqyUNkefJ3aUJ8Qoz), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP), [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Perrealo](https://open.spotify.com/album/0iCygyOOu8gnwFABjuO3QI) | 2:52 |
+| 6 | [Perrealo](https://open.spotify.com/track/5Z91mj8aVlei16GuiYOUxK) | [DJ Yelkrab](https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5), [Dj Bryan Kingz](https://open.spotify.com/artist/7AGxtfqyUNkefJ3aUJ8Qoz), [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Perrealo](https://open.spotify.com/album/0iCygyOOu8gnwFABjuO3QI) | 2:52 |
 | 7 | [Pgatparak](https://open.spotify.com/track/4gJyB9NcvNR3HphzRrcgkT) | [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW), [DJ Pedro Fuentes](https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs) | [Pgatparak](https://open.spotify.com/album/1rsBsNpBRvdGADm5pYX6Lh) | 2:30 |
 | 8 | [Diabla](https://open.spotify.com/track/3X3rgO6bRh9EbbI4mAs8gW) | [Giselle Montes](https://open.spotify.com/artist/4IixieAZJremgQUJS0TseA) | [Diabla](https://open.spotify.com/album/6tSrUca9EiClwBmu4U55cM) | 2:12 |
 | 9 | [Afeitate](https://open.spotify.com/track/4e1xygjKrLZ75zpuIzEwJF) | [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [Afeitate](https://open.spotify.com/album/0N05NGnZOYqg5BWC419y18) | 1:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 99 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
 | 100 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 |
 
-Snapshot ID: `MCwzN2I1ZWFmNmM0ODk0YTRkYzNiN2ZhNjYxYWI3ZGVhMzkzNTZkNjM4`
+Snapshot ID: `MCwzMjk0ODc4OTI3YzkxNGE0MDg2MTE2YmM1MjJiOGU5ZmIxNmViYmQ1`

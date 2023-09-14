@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=ocADamumSRy0dYjZEFLB1g">aboynamedblu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,847 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,940 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Strangers Arms](https://open.spotify.com/track/2xWiyPS3nrRBCNuvPdJh4n) | [The Breeze](https://open.spotify.com/artist/3usNfpEWJMyOD1K2NJkGU8) | [Strangers Arms](https://open.spotify.com/album/5sDM9mCBGIEsBa8H3imZy5) | 4:32 |
 | 50 | [MESSED UP KIDS](https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [MESSED UP KIDS](https://open.spotify.com/album/403yzeLnFgqPP27o8Y8l0L) | 2:57 |
 
-Snapshot ID: `MCw1NWVkMDQ3ZDIzZWNmMmFlYmY0NGNlNzJiNGM2NzhkZGY5NjllNGQ4`
+Snapshot ID: `MCxjNjA3NmE1ZTk3MWNmMjlkYjNjZjJiZWQwZmFkYTlkYmJhODg5MDM1`

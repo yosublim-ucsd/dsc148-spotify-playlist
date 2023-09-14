@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,094 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,164 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [California King](https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [California King](https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54) | 3:53 |
 | 50 | [Raining In July](https://open.spotify.com/track/2bOOCOl4ZMHKWfaItzY9aj) | [Big Spring](https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma) | [Raining In July](https://open.spotify.com/album/2anljM6gL3S9UTFjrDjW0j) | 3:41 |
 
-Snapshot ID: `MCxmYWQ0Y2M0MTBkMTVhMWNhMzY2Y2EyOWEzNWUxMjc3YzM5NWRjZDNm`
+Snapshot ID: `MCwyZWVkMTk3YmNlZjc4ZWY1ODU1MmNmZDg0ZDc5ZWIzMGU2YzQ3ZmIw`

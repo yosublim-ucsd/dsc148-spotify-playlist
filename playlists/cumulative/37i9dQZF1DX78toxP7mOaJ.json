@@ -985,6 +985,28 @@
     },
     {
       "album": {
+        "name": "Index Fun!",
+        "url": "https://open.spotify.com/album/6KRp4cUcirS34KETM402hf"
+      },
+      "artists": [
+        {
+          "name": "sixpeace",
+          "url": "https://open.spotify.com/artist/68VZEkQIDsrSm4Md3cODwS"
+        },
+        {
+          "name": "Pinc Wafer",
+          "url": "https://open.spotify.com/artist/1TaHyRyVECf3rOMiXtMezm"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/36ykAHHgcoWiTpuVjo5VV2"
+    },
+    {
+      "album": {
         "name": "Apple Juice",
         "url": "https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO"
       },
@@ -3690,7 +3712,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 202500,
       "name": "Circuit Breaker",
       "url": "https://open.spotify.com/track/30fss0qI1jydC6ltUK1Pi1"
@@ -5383,6 +5405,24 @@
     },
     {
       "album": {
+        "name": "Don't Tell Me What to Do",
+        "url": "https://open.spotify.com/album/7jMZUUJB1tpjPwQjJogXMW"
+      },
+      "artists": [
+        {
+          "name": "LABRYS",
+          "url": "https://open.spotify.com/artist/1Ch6kGftOC8brjjXQwPCx9"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Don't Tell Me What to Do",
+      "url": "https://open.spotify.com/track/2DQg2eQRczmctbCCM5T1Xb"
+    },
+    {
+      "album": {
         "name": "Don't Wake Me Up!",
         "url": "https://open.spotify.com/album/61oLzbXlPtjqaQsDFwrvkY"
       },
@@ -6752,6 +6792,24 @@
       "duration_ms": 196185,
       "name": "For Rent",
       "url": "https://open.spotify.com/track/3GDSkagZ55Qcy6pwntVzUj"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6repuC3FPl1XH5MBDaW6jH"
+      },
+      "artists": [
+        {
+          "name": "Model Child",
+          "url": "https://open.spotify.com/artist/3zZPv8aJhRywJjUqOLFe0O"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199213,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/50LKxbZI60d6tuBMfXUwDO"
     },
     {
       "album": {
@@ -9281,6 +9339,24 @@
     },
     {
       "album": {
+        "name": "I Thought You'd Change",
+        "url": "https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171215,
+      "name": "I Thought You'd Change",
+      "url": "https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H"
+    },
+    {
+      "album": {
         "name": "I Used To Be Fun",
         "url": "https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI"
       },
@@ -9292,7 +9368,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 161445,
       "name": "I Used To Be Fun",
       "url": "https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC"
@@ -10338,7 +10414,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 187345,
       "name": "Keep on",
       "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
@@ -10526,6 +10602,24 @@
       "duration_ms": 212571,
       "name": "knuckle tattoo",
       "url": "https://open.spotify.com/track/2pvKW4g443i81WY6lnDpqQ"
+    },
+    {
+      "album": {
+        "name": "KO",
+        "url": "https://open.spotify.com/album/5C2nV2SPIEmNxEC2PMTjGd"
+      },
+      "artists": [
+        {
+          "name": "worlds greatest dad",
+          "url": "https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202386,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/468kQ0vnRFF9uS6XhCy4Ee"
     },
     {
       "album": {
@@ -11858,7 +11952,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 207869,
       "name": "mo(u)rning anthem",
       "url": "https://open.spotify.com/track/2UZnsTg18LhM6StQZ3x1IG"
@@ -12495,6 +12589,24 @@
     },
     {
       "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/5V028ZJvjkn0iu7ILSkgsj"
+      },
+      "artists": [
+        {
+          "name": "twentythreenineteen",
+          "url": "https://open.spotify.com/artist/3phLzwJCbHic9zg954ocXE"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140992,
+      "name": "Navigate",
+      "url": "https://open.spotify.com/track/6CxewJNl1Nccbs63MWqRQn"
+    },
+    {
+      "album": {
         "name": "Need Me Now",
         "url": "https://open.spotify.com/album/2IyFtxSh4hiVZDaK9xQ3JO"
       },
@@ -12756,6 +12868,24 @@
       "duration_ms": 185424,
       "name": "Nights",
       "url": "https://open.spotify.com/track/1dPdbmrmqnZxSu4kU1ZBXj"
+    },
+    {
+      "album": {
+        "name": "NO BRA NO PANTIES",
+        "url": "https://open.spotify.com/album/2bsXjHbipD62blVyOTqCRq"
+      },
+      "artists": [
+        {
+          "name": "So Tuff So Cute",
+          "url": "https://open.spotify.com/artist/1PaF0WJCG5MLAoOv5xSWeR"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "NO BRA NO PANTIES",
+      "url": "https://open.spotify.com/track/2Rq16DMXxkEQIbpHP2Dfno"
     },
     {
       "album": {
@@ -14322,7 +14452,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 252492,
       "name": "Protocol",
       "url": "https://open.spotify.com/track/609RLtoVcVEu16Ifavpqkn"
@@ -15086,7 +15216,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 189237,
       "name": "Run (When I Tell You)",
       "url": "https://open.spotify.com/track/2HVPlrwGyrFO9SMEXXSdYw"
@@ -15198,6 +15328,28 @@
       "duration_ms": 201538,
       "name": "SAFEWORD",
       "url": "https://open.spotify.com/track/7deJGxQIiAgNdp2NUvNtyK"
+    },
+    {
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        },
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187487,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
     },
     {
       "album": {
@@ -15374,7 +15526,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 163593,
       "name": "scorpion.",
       "url": "https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND"
@@ -18555,6 +18707,24 @@
     },
     {
       "album": {
+        "name": "Tongues ii",
+        "url": "https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p"
+      },
+      "artists": [
+        {
+          "name": "Slomo Sapiens",
+          "url": "https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336341,
+      "name": "Tongues ii",
+      "url": "https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O"
+    },
+    {
+      "album": {
         "name": "Took My Time",
         "url": "https://open.spotify.com/album/0zIgcRJ7HsQNk0s8KjBHHp"
       },
@@ -18772,7 +18942,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 183409,
       "name": "Trust No One",
       "url": "https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v"
@@ -18866,6 +19036,24 @@
       "duration_ms": 115228,
       "name": "Tuning In",
       "url": "https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a"
+    },
+    {
+      "album": {
+        "name": "TwentyOne",
+        "url": "https://open.spotify.com/album/6r5eoyrFQCd5Wp4Zo0Bqtd"
+      },
+      "artists": [
+        {
+          "name": "Lev UFO",
+          "url": "https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122779,
+      "name": "TwentyOne",
+      "url": "https://open.spotify.com/track/13IAHr3rmqJ6EfCO41KFY9"
     },
     {
       "album": {
@@ -18982,7 +19170,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 195773,
       "name": "Unrequitable",
       "url": "https://open.spotify.com/track/5EqKaM925TBDBSEsYaTi9C"
@@ -19058,6 +19246,24 @@
       "duration_ms": 248053,
       "name": "UP",
       "url": "https://open.spotify.com/track/6bQalCqswPowgbGaV8L35D"
+    },
+    {
+      "album": {
+        "name": "Up and Comer",
+        "url": "https://open.spotify.com/album/4auUOEEMRz5Uox3n79ip6M"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226385,
+      "name": "Up and Comer",
+      "url": "https://open.spotify.com/track/0yMfUaFL7LDT38c648msAM"
     },
     {
       "album": {
@@ -19566,6 +19772,24 @@
       "duration_ms": 208941,
       "name": "Wet Like Summer",
       "url": "https://open.spotify.com/track/505RZEFoZAJvbpQIDsSxEq"
+    },
+    {
+      "album": {
+        "name": "What Should We Do Tonight?",
+        "url": "https://open.spotify.com/album/485enH1mdsaNZcA1ew8X60"
+      },
+      "artists": [
+        {
+          "name": "Vindigo",
+          "url": "https://open.spotify.com/artist/5lSc6BIpfTBIcco5gQOEWH"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158121,
+      "name": "What Should We Do Tonight?",
+      "url": "https://open.spotify.com/track/32Kwwdm9EGB9npX9dE6r8F"
     },
     {
       "album": {
@@ -20270,7 +20494,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 257514,
       "name": "You Spent All Your Love - Anniversary Edition",
       "url": "https://open.spotify.com/track/7rloJtE977NlkIk4xX7V4s"

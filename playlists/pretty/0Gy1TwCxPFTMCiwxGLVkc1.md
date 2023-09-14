@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 
 ### [Kids Music](https://open.spotify.com/playlist/0Gy1TwCxPFTMCiwxGLVkc1)
 
-> Kids music from Disney, CoComelon, Nickelodeon, and more! Find new favorites and familiar tracks on this kids music playlist, and check back each week for more!
+> Kids music from Disney, CoComelon, Nickelodeon, and more! Find new tracks and familiar favorites on this kids music playlist, and check back each week for more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 85,397 likes - 50 songs - 1 hr 54 min
+[Digster](https://open.spotify.com/user/digster.fm) - 85,395 likes - 50 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 | 49 | [If I Were In Your Shoes](https://open.spotify.com/track/1DysowdsvK9Ol0znKuJnFE) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago’s Sea Shanties Vol\. 2](https://open.spotify.com/album/5d3PqzfZPo1peIpvilImVs) | 2:15 |
 | 50 | [Wheels on the Bus](https://open.spotify.com/track/6YQ7aPJhk0MGpwoKfFAEbS) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 3:27 |
 
-Snapshot ID: `MzQ3NixhNjhjNGQ3YzIwMTdlODM4NDMzZDNlOGZjNmU1NmZjYzczZTBhMGQy`
+Snapshot ID: `MzQ3NywxMmE0ZDljNDU2YWYzMTUxZTFkNzZmMzIxMmQ0MzM2NmZlNDY4M2I3`

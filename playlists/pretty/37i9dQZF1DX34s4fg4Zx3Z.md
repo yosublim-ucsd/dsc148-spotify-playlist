@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mer, Kriss Ngo; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,386 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,420 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [hey..\. it's me](https://open.spotify.com/track/0b9K97p7kD4JQeRRM4uFrk) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [hey..\. it's me](https://open.spotify.com/album/0WxEFNcfuumej9TWPvQi3D) | 2:50 |
 | 100 | [em lai di dau day?](https://open.spotify.com/track/1JZUgjMN8onMfdCAQxb0xb) | [Cáu](https://open.spotify.com/artist/79RDZmnftJOANOKbYtEo5e) | [em lai di dau day?](https://open.spotify.com/album/1mXPFMkwnS8WP19cgIO0oy) | 2:51 |
 
-Snapshot ID: `MCwwYTZkODJiMGM3YzExZTE5NjEzYWJiODA0MjE1NmZiZGI1NWIxM2Jh`
+Snapshot ID: `MCwxNTJjZWM4MmE0ZTQ3MDFkMTc3MmJkNWY3ZWQzYjdjZDI4Nzg4Y2Nl`

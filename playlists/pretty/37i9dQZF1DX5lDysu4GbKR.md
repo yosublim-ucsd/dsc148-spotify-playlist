@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Mychelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,129 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,182 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Not Serious \- Acoustic](https://open.spotify.com/track/3O8EzNsk4t0Yo3WnEEOk8H) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Not Serious \(Acoustic\)](https://open.spotify.com/album/2fI8fCbbgVog7nvXDN8lEu) | 3:18 |
+| 1 | [Lose Control \- Piano Version](https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control \(Piano Version\)](https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT) | 3:26 |
 | 2 | [All My Love](https://open.spotify.com/track/5zkU3MXBvHqMAfiqSuEYQX) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [I Told You I Would](https://open.spotify.com/album/2lIpGHB6SBjKsShyLRrZhM) | 3:28 |
-| 3 | [Lose Control \- Piano Version](https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control \(Piano Version\)](https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT) | 3:26 |
+| 3 | [Not Serious \- Acoustic](https://open.spotify.com/track/3O8EzNsk4t0Yo3WnEEOk8H) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Not Serious \(Acoustic\)](https://open.spotify.com/album/2fI8fCbbgVog7nvXDN8lEu) | 3:18 |
 | 4 | [Things Meant For Me](https://open.spotify.com/track/7vW8UHj4GscNOaiCofbUmu) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Things Meant For Me](https://open.spotify.com/album/3kOB1v88nRMJh7ILdJDEPi) | 4:58 |
 | 5 | [burn out](https://open.spotify.com/track/7D4W8nqlPMDsr3IjogAT3S) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [FOR STARTERS](https://open.spotify.com/album/316oNIv6BFvl4jomSmcGg2) | 2:24 |
 | 6 | [GTC \(live from my stoop\)](https://open.spotify.com/track/70WqUVvwo39mmW1KNiK050) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Close to the Sun](https://open.spotify.com/album/2wDvlPsHlBWITcHubQ0NZk) | 5:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 89 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 | 90 | [Body \- Remastered](https://open.spotify.com/track/0RMG7vVLwdPFfcfiTeceOa) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Body \(Remastered\)](https://open.spotify.com/album/2rKyEZj5sLPoy2UXudGswY) | 2:52 |
 
-Snapshot ID: `MCxiM2YwN2UyMDE3ZGYzZmMwNzg5Mjk5MWUzMjRmYjRiMzE2M2U3MWY5`
+Snapshot ID: `MCw1MGI3M2FiMDgxMTFkZWM4NjI4NjFkMTZjYTc4MjRmMGFlNTQ0NzFm`

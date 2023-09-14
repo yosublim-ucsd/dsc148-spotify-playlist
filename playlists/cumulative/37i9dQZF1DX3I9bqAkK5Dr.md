@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-148 songs - 9 hr 2 min
+149 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [AMMA \- Janmaala Runamu Kanipinchava](https://open.spotify.com/track/14VaG9fGETELHF1EkbWO5N) | [S K Parth](https://open.spotify.com/artist/20dOeJHWEcApptyMznAnT3), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [AMMA \(Janmaala Runamu Kanipinchava\)](https://open.spotify.com/album/3aBG1lIVqPWTUQDphSNQXN) | 3:24 | 2023-05-16 |  |
 | [Andame](https://open.spotify.com/track/5CHTjwWyqr4uhkRWNcT3Vf) | [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Andame](https://open.spotify.com/album/7BP2lZYx8RrW8fICweQynt) | 3:28 | 2023-02-21 |  |
 | [Andhami Swapnam](https://open.spotify.com/track/3tiYuEpEjZGuFLjfDf0UyX) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/6IUYeqHEcXN6OYusVU3b8z) | 4:26 | 2023-05-02 |  |
+| [Anna Chelli Anubandham](https://open.spotify.com/track/4GejSY5P7SQXc5Hln6dnU6) | [Boda Jayanth Maadhur](https://open.spotify.com/artist/3x168egz6kQ67souPEwZFY), [Sahithi Adapa](https://open.spotify.com/artist/0G7jVjthZwdLRMADl7Kg5m), [Hamsini](https://open.spotify.com/artist/5KVLBdQwLKz3KNAEC97fB8), [Dia](https://open.spotify.com/artist/76rZrfcbFRe8C0URMZBd2A) | [Anna Chelli Anubandham](https://open.spotify.com/album/2ff94mRYUtwgxUbmHNjiGj) | 3:46 | 2023-09-13 |  |
 | [Ayyayyo](https://open.spotify.com/track/1uQrWxg5XuFXAtgADRgQQP) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Ayyayyo](https://open.spotify.com/album/6rhrJYqtqsse4H6b5gVoTB) | 4:30 | 2023-03-17 |  |
 | [Befikr Maama](https://open.spotify.com/track/4BkVCo1tvqkr9Px00GISlZ) | [Aniruddha Sastry](https://open.spotify.com/artist/7txI0mPnoRaaKI0g2OZUb2), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Befikr Maama](https://open.spotify.com/album/5Gn4r9bX0z3jYM1oY6B7h5) | 2:58 | 2023-05-16 |  |
 | [Bullettu Bandi](https://open.spotify.com/track/4oBhE31sIakxf8bSPHuRT1) | [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD) | [Bullettu Bandi](https://open.spotify.com/album/6sapVBhAdDDnyElCsUwEwn) | 4:42 | 2022-07-18 |  |

@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Juicebox",
+        "url": "https://open.spotify.com/album/1V1x6RUP0CWxPAHj0bjFXX"
+      },
+      "artists": [
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225482,
+      "name": "Suede",
+      "url": "https://open.spotify.com/track/6dJ6roD7zgulBQfS74XGIJ"
+    },
+    {
+      "album": {
         "name": "Callisto EP",
         "url": "https://open.spotify.com/album/12YvMSZzN1dSrpPv7vOcxN"
       },

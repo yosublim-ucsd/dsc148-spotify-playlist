@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,376 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,519 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 8 | [Bad Idea](https://open.spotify.com/track/4jpkMnuX8iSeYwJGCzyAVY) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Bad Idea](https://open.spotify.com/album/5eOc2Ux817sDlYmutENRiU) | 3:26 |
 | 9 | [Wishing Well](https://open.spotify.com/track/1thSuCePwGoWqY57HjgUSu) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Wishing Well](https://open.spotify.com/album/1EA6MEfRAp5ljAQbnFfvDD) | 3:51 |
 | 10 | [Hopeless](https://open.spotify.com/track/6fiCDOnHiXrGwuAGjcT4GA) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Hopeless](https://open.spotify.com/album/7ioeE53401JiXoHJk2z65L) | 3:57 |
-| 11 | [Out of Here](https://open.spotify.com/track/3B2yKoPSPTpJMkeWkKKBEI) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Out of Here](https://open.spotify.com/album/0KsIXZG5hCdJvd9OAaxrNU) | 3:32 |
+| 11 | [Out of Here](https://open.spotify.com/track/3B2yKoPSPTpJMkeWkKKBEI) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Out of Here](https://open.spotify.com/album/0KsIXZG5hCdJvd9OAaxrNU) | 3:30 |
 | 12 | [Like A Cigarette](https://open.spotify.com/track/5Bhl4zpucPZLDHpD5teROV) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Like A Cigarette](https://open.spotify.com/album/3fsLppgAgxS2p7uH4C3CD0) | 2:51 |
 | 13 | [Rockstar](https://open.spotify.com/track/67g2PIQKhwBJ5BzqkO0VgP) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Rockstar](https://open.spotify.com/album/7lGpYKShMsb9DFvmIdIMIC) | 3:28 |
 | 14 | [We Were Never Lost](https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Lights](https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Joy Brings Me Down](https://open.spotify.com/track/7GMAT3z6PIY4mQ1pQkpfAX) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Joy Brings Me Down](https://open.spotify.com/album/3D4eXoW15Kti0ZkcY2WsEc) | 3:29 |
 | 50 | [Fire Mountain](https://open.spotify.com/track/5Fe5T906lixiSW38HcYQXQ) | [Demons My Friends](https://open.spotify.com/artist/0pRENjZBkVS4Lh5TBioQDy) | [Demons Seem To Gather](https://open.spotify.com/album/1VVJxELD3Pn8lihdYqKCk6) | 3:44 |
 
-Snapshot ID: `MCwyMmIwZTQxMDEwMjUzNWNkMjRjMzkxOGUxOGY4ZDlhMmJmYmE1Y2Fh`
+Snapshot ID: `MCxmMjA1NDBlNDNkZTJjMzdmOGJmMTE2YThiYWI1Y2UxOGY2MDJmOWY3`

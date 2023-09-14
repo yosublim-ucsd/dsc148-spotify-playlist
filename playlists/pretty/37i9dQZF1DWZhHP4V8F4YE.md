@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,408 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,556 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 47 | [Imnandi lento \(feat\. Tman Xpress\)](https://open.spotify.com/track/5C9h6ZyskUiyAVDmhSfSdP) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx) | [Imnandi lento \(feat\. Tman Xpress\)](https://open.spotify.com/album/10wss6Vb9C3dGclJzZJQmM) | 7:27 |
 | 48 | [Hotspot](https://open.spotify.com/track/28PDHCkELl8cwOtCdksjWE) | [Combo M](https://open.spotify.com/artist/5dOFdrZEOqCk0Lc6rFyL1B), [Mrnationthingz](https://open.spotify.com/artist/76DDGfFwEZav6E1lC2QXGf), [Cuba Beats](https://open.spotify.com/artist/2GyTwPnCWi2COPYXy6ZA5D), [Sickoo](https://open.spotify.com/artist/5WaZy4jMXKbxEHPd8BQFmM), [Rockess](https://open.spotify.com/artist/3DBgVmiqXyYtoxSpjbpEWX), [DJ Sicky](https://open.spotify.com/artist/7tUGaH6Ba1CczzxvQfVXD1), [Ndodana](https://open.spotify.com/artist/6YXeuEA7AhRZXmrZzPUWo5) | [Hotspot](https://open.spotify.com/album/7vj9WtiotylvS3rKrJuBmG) | 7:00 |
 | 49 | [Habibi \(Quantum Sound\)](https://open.spotify.com/track/0JtoyusgiISK10cXzX79uH) | [Sizwe Nineteen](https://open.spotify.com/artist/2c3QieTCPiVSzFF3RnmiOU), [R\-Bee](https://open.spotify.com/artist/1Q7Cjk0pNfOLij9zTULofB), [De’vine 07](https://open.spotify.com/artist/24cfPlwva5seVaDkD7oZlD), [Drumonade](https://open.spotify.com/artist/1FrqPnLttkZLv5Ua8PIFGu), [Tumi Sdomane](https://open.spotify.com/artist/23gF82fPg0ulReEVAKqVVn) | [Habibi \(Quantum Sound\)](https://open.spotify.com/album/1dIb3F7jjjyv5TatikaHV3) | 6:08 |
-| 50 | [Canada](https://open.spotify.com/track/1E3KhaXthsgAY2eK93sx2J) | [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan) | [Canada](https://open.spotify.com/album/25bg1Ay7Oj5R6mQNLjHa3k) | 2:36 |
+| 50 | [Canada](https://open.spotify.com/track/0rsfSg88KrfbmJjE3T2j2r) | [Heisaj](https://open.spotify.com/artist/2cm8yG7oURSEHpVi7jIvs1), [Magnito](https://open.spotify.com/artist/2cyfzkY6IT0nKHN3s447n8) | [Canada](https://open.spotify.com/album/1mZvm0xVHs3leeoXqkYwSm) | 2:36 |
 
-Snapshot ID: `MCxiODlmMDdkZTNjZGUzOWU4Y2M3NDIyY2ZmOTlmMjU1MDk2Y2U3Zjg0`
+Snapshot ID: `MCw1YmIyNmY2MWZhYjRiYTQyYWZlZTE2MDFlMTkyZDQ2MzRjYzE0Zjc3`

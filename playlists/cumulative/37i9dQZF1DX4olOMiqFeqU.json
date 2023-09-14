@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 246280,
       "name": "12:51",
       "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 343446,
       "name": "Buwan",
       "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "PAGTATAG!",
+        "url": "https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223339,
+      "name": "I WANT YOU",
+      "url": "https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f"
+    },
+    {
+      "album": {
         "name": "Loving You Now",
         "url": "https://open.spotify.com/album/3FAABisVP7phjYvjinEYhs"
       },
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 256311,
       "name": "Kung Alam Mo Lang",
       "url": "https://open.spotify.com/track/2OwTNSBOspDlAWDcv37GIW"
@@ -1297,6 +1315,24 @@
     },
     {
       "album": {
+        "name": "Musika",
+        "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "Musika",
+      "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
+    },
+    {
+      "album": {
         "name": "Materyal",
         "url": "https://open.spotify.com/album/7MCYCgE6fQHYkhj29FHRcY"
       },
@@ -1330,6 +1366,24 @@
       "duration_ms": 234933,
       "name": "Nadarang",
       "url": "https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ"
+    },
+    {
+      "album": {
+        "name": "Nahuhulog Na Sa'yo",
+        "url": "https://open.spotify.com/album/3QPcdcXJZ4uophss504wCg"
+      },
+      "artists": [
+        {
+          "name": "Noah Alejandre",
+          "url": "https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217037,
+      "name": "Nahuhulog Na Sa'yo",
+      "url": "https://open.spotify.com/track/0EFa7HXaZUAzu9q1UdVPBR"
     },
     {
       "album": {
@@ -1460,6 +1514,24 @@
       "duration_ms": 297001,
       "name": "Pagsamo",
       "url": "https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a"
+    },
+    {
+      "album": {
+        "name": "panaginip",
+        "url": "https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA"
+      },
+      "artists": [
+        {
+          "name": "iluna",
+          "url": "https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332406,
+      "name": "panaginip",
+      "url": "https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh"
     },
     {
       "album": {
@@ -1736,7 +1808,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 277098,
       "name": "Sana - Single Version",
       "url": "https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m"

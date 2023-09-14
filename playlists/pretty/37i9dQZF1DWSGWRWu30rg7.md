@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 33 | [SPACE CADET](https://open.spotify.com/track/4NBeV9YsD9LVa37dMWqbvv) | [RVNVD](https://open.spotify.com/artist/3Y4rEjmlazhFCMJaJO6LTO) | [SPACE CADET](https://open.spotify.com/album/0QIgiyHBt5ydIdK1JUOO9v) | 2:23 |
 | 34 | [Ku Tak Menyangka](https://open.spotify.com/track/5Ho7tUESvvS5L2xTKZ6Bd5) | [PESTA CINTA](https://open.spotify.com/artist/2OuJenE6OneRqz3Aa52pBt) | [Ku Tak Menyangka](https://open.spotify.com/album/36gcrh9GGgsv37Ab7qzBzI) | 3:06 |
 | 35 | [Berjuang](https://open.spotify.com/track/6U4CnqKmI3Mlv8GymtGcMO) | [Bryanfras](https://open.spotify.com/artist/10NVcQ6sasWMh7crCwHsll) | [Berjuang](https://open.spotify.com/album/1mP4j7iuW9110dgHuXeGSh) | 4:48 |
-| 36 | [Grand Failure](https://open.spotify.com/track/0XFUwu46u7iKQRC9TAEdsP) | [Settle](https://open.spotify.com/artist/6XSX0gIHHFN7MG7ppupJbr), [Summer Is](https://open.spotify.com/artist/10mCKUypK5gR8SvqI2Oh7T), [Bird Bone](https://open.spotify.com/artist/0fkWQp6baNE64MxG7Xkuof) | [Grand Failure](https://open.spotify.com/album/37KZ7OPCxcfnrJx9iBefpf) | 3:30 |
+| 36 | [Grand Failure](https://open.spotify.com/track/0XFUwu46u7iKQRC9TAEdsP) | [Settle](https://open.spotify.com/artist/6XSX0gIHHFN7MG7ppupJbr), [Bird Bone](https://open.spotify.com/artist/7bQYmQQJtuyhodMUQtC3GB) | [Grand Failure](https://open.spotify.com/album/37KZ7OPCxcfnrJx9iBefpf) | 3:30 |
 | 37 | [Aku Salah Apa](https://open.spotify.com/track/2xm9SzAsxdqC6hrJsyi8T3) | [Sulthan](https://open.spotify.com/artist/2rcchaiXMLGPk7d4KolRp5) | [Aku Salah Apa](https://open.spotify.com/album/5354tYMqyXuqsvEzHotOG7) | 3:45 |
 | 38 | [Love Bomb \(Original Mix\)](https://open.spotify.com/track/0sKduV3EdTZt1RkNg7CiGU) | [Humminbirds](https://open.spotify.com/artist/6xgzj6CwPxfeV8canmzv36) | [Love Bomb](https://open.spotify.com/album/2S0EYXVW5npTbQ7vbscn32) | 4:50 |
 | 39 | [Sadarkah](https://open.spotify.com/track/0fXpT4TxdV43eWQP6hzMBw) | [Erkha](https://open.spotify.com/artist/0baIMK95LXupw6NP1weiXf) | [Sadarkah](https://open.spotify.com/album/5XpkSePmArYWBNKdO2RbKG) | 4:03 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 82 | [Cerita](https://open.spotify.com/track/7pGNiw5cdWdoKCTN5j69qp) | [Redinka Nahumury](https://open.spotify.com/artist/6TuB4MqYsKjhB2ZIZjKl2c) | [Cerita](https://open.spotify.com/album/3kHIVvs3Zdas9GuvO1050v) | 3:24 |
 | 83 | [Lagila](https://open.spotify.com/track/3r1QiKDMezAag054RvGCQf) | [Ranu Pani](https://open.spotify.com/artist/1U7hDgZFhsJzAb84Agh9tM) | [Lagila](https://open.spotify.com/album/2ucNLhMS1f3jdeoik6If1C) | 5:01 |
 
-Snapshot ID: `MCwzNWNhMzMwYzcyOTY0YjM2OTVlNTQyYjFhZDE0YzJjOWZiZWY2MDFh`
+Snapshot ID: `MCw0MGZkY2FkNjc4NWMxZjViNGZmNzhkNzIzZDI5MmFiYWFlYWJiY2M5`

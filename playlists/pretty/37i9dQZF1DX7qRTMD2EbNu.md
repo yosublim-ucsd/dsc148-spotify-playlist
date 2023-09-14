@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=TohXHTvwSMGhjedgd0jbIw"> Black Sherif </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,695 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,739 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [All Gas No Breaks](https://open.spotify.com/track/5kVP6wqCnZIvSkAExR0qdX) | [Kev the Topic](https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [All Gas No Breaks](https://open.spotify.com/album/563vOOWujyM8dwQKzYhGMP) | 2:54 |
 | 80 | [Patience](https://open.spotify.com/track/2KfuKoKo9NIBefducXCAkf) | [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9) | [Patience](https://open.spotify.com/album/5IHW6k07IimsTBCg685E99) | 2:37 |
 
-Snapshot ID: `MCw3Yzg5MDc0OWU3YTZmOTk5OWViMjZmYzdiOTA4ZGEzN2NhOWM0MWVh`
+Snapshot ID: `MCw5ZGVjNTg2OWYyZDJhMzc1YmMwZjMzNTE0NDkwMTZiNjM4NDZjNjVk`

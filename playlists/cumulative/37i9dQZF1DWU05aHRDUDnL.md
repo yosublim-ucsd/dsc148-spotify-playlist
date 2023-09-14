@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 | 2015-08-05 |  |
+| [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 | 2015-08-05 | 2023-09-14 |
 | [Been Caught Stealing \- 2006 Remaster](https://open.spotify.com/track/4HAgmbnzspnBAGhmY0CysE) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Up from the Catacombs: The Best of Jane's Addiction](https://open.spotify.com/album/1yHjzdrnVBPzPRD8CTk5xz) | 3:34 | 2015-08-05 |  |
 | [Cocaine](https://open.spotify.com/track/3XQCThtNYc8m0vzgIq5Y9W) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Rockin'](https://open.spotify.com/album/0IRs6buEyEdfcyToRXtcmd) | 3:38 | 2015-08-05 | 2022-11-13 |
 | [Cocaine](https://open.spotify.com/track/6hDegaGv8VwBoMhGqoPfxR) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Classic Eric Clapton](https://open.spotify.com/album/5XkiwxKI2aJYzPq63WPSvJ) | 3:38 | 2015-08-05 | 2022-07-29 |

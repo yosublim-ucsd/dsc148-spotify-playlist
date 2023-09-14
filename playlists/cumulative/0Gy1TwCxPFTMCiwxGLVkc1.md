@@ -2,7 +2,7 @@
 
 ### [Kids Music](https://open.spotify.com/playlist/0Gy1TwCxPFTMCiwxGLVkc1)
 
-> Kids music from Disney, CoComelon, Nickelodeon, and more! Find new favorites and familiar tracks on this kids music playlist, and check back each week for more!
+> Kids music from Disney, CoComelon, Nickelodeon, and more! Find new tracks and familiar favorites on this kids music playlist, and check back each week for more!
 
 150 songs - 6 hr 6 min
 

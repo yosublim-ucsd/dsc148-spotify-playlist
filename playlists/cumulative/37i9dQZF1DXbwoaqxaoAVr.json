@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 157974,
       "name": "Energy",
       "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
@@ -1599,6 +1599,40 @@
     },
     {
       "album": {
+        "name": "Liki Tiki (Reggae Remix)",
+        "url": "https://open.spotify.com/album/5vRwOtrAawwlBjuq3a8fW6"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250105,
+      "name": "Liki Tiki - Reggae Remix",
+      "url": "https://open.spotify.com/track/6QQK85nnBzFxRyW4qkMHHY"
+    },
+    {
+      "album": {
         "name": "Lipstick Lover",
         "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
       },
@@ -1920,7 +1954,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp"
@@ -2706,7 +2740,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 221621,
       "name": "Sounds of Summer (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
@@ -3298,6 +3332,24 @@
       "duration_ms": 179999,
       "name": "Yearn to Burn",
       "url": "https://open.spotify.com/track/3Iny6X0WfTwrAWWlXxa587"
+    },
+    {
+      "album": {
+        "name": "You Around",
+        "url": "https://open.spotify.com/album/21txSCsQwETAsGisDjxT3y"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163816,
+      "name": "You Around",
+      "url": "https://open.spotify.com/track/5NKczeJLKz66nTdOHijsfu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qI7BHiwz7H.md) - [plain]
 
 > Smooth and relaxing Soul music to tune in to your body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,223 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,284 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qI7BHiwz7H.md) - [plain]
 | 59 | [Your Heart Belongs To Me \- Mono Version with Echo](https://open.spotify.com/track/20HpRfGcg3neSqboaQHvLC) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Meet The Supremes \- Expanded Edition](https://open.spotify.com/album/5Ij4Mpkh9xZi2csxPF3ziI) | 2:36 |
 | 60 | [Where Will I Go](https://open.spotify.com/track/6d7pdDVxhOAAelJITR3R4Y) | [Brief Encounter](https://open.spotify.com/artist/4OEbC7T2MsiXplZhj7ljRj) | [Where Will I Go](https://open.spotify.com/album/3qZ8AzJXcnRRO5jz3vq5z6) | 4:16 |
 
-Snapshot ID: `MCw1MDk1ZmYxNzYwY2QxMzlhMDk0Y2YzNzEwMTc0YzAzOGE4Y2M2Y2Zj`
+Snapshot ID: `MCwyY2M5NjEwNDQzNzk0YWY1MDg1ZDczMTUxNTdiMjAwYmM2M2ZhM2M5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Charlotte Cardin
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,197 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,214 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Jimmy's House](https://open.spotify.com/track/2qdtDf68UWK1hgicXydqsL) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Jimmy's House](https://open.spotify.com/album/5U5SvsEcdAgU9H0uivo76N) | 3:34 |
 | 100 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
 
-Snapshot ID: `MCw5ODdjZGQ0ZDBlZmEwMTBkNWU1ZDc5YTEzMzAzZWJkZmY3MTM3ZjE1`
+Snapshot ID: `MCwzYmRhMDIyZTYyZjc4YmIzN2NkYzU5YWUyMGM4YTkxZDJjMGJlNmRk`

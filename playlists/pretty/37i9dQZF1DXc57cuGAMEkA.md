@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Olivia Rodrigo, The Rolling Stones, The Chainsmokers, James Blake and more! Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,375 likes - 79 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,376 likes - 79 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 78 | [From Life Comes Beauty \(feat\. Immanuel Wilkins\)](https://open.spotify.com/track/6m2Keu6OoyZHjPxRblCL4X) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [From Life Comes Beauty \(feat\. Immanuel Wilkins\)](https://open.spotify.com/album/4hw52ZE5LjUs0JHqM8hMEg) | 8:29 |
 | 79 | [アラベスク 第1番（フルート＆ピアノ / 萩森英明編曲）](https://open.spotify.com/track/1Y1WEeie6hox4GY2aiLLQ6) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [Niu Niu](https://open.spotify.com/artist/59coobPsuoo30nDvDa0SOi) | [Debussy: Arabesque No\. 1 \(Arr\. Haginomori for Flute and Piano\)](https://open.spotify.com/album/44B758xgimtAaNnbtc3EVn) | 4:35 |
 
-Snapshot ID: `MCw5OTkzYmQ3MTkzMmZjYzQ1NGM0MmYyYWEyOTA0NTEwOGVjOTk3YWY3`
+Snapshot ID: `MCwzNDBjZmE0ODE5NTkzZDgzOTEzMmUwMzFjNzRhMjgwYzc4YmIzMTNi`

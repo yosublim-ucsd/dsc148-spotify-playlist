@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 174000,
       "name": "Csavarg\u00f3",
       "url": "https://open.spotify.com/track/1jI95q1ZSLZuVNdOMwaoUL"
@@ -3430,7 +3430,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -4573,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172956,
+      "name": "ERN\u0150",
+      "url": "https://open.spotify.com/track/1INwADAW4dAAaCoGFXgcg7"
+    },
+    {
+      "album": {
         "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
@@ -5366,7 +5384,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -5486,6 +5504,24 @@
       "duration_ms": 200000,
       "name": "F\u00fcgg\u0151",
       "url": "https://open.spotify.com/track/2WO6S8AQfpwB7QVqvaOnDP"
+    },
+    {
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "F\u00dcGG\u0150",
+      "url": "https://open.spotify.com/track/2zzQFIe6kZ53LffgplVLSd"
     },
     {
       "album": {
@@ -5891,6 +5927,42 @@
     },
     {
       "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81112,
+      "name": "GY\u00daJT\u00d3S",
+      "url": "https://open.spotify.com/track/667y0udyQNMVHINcouMXXv"
+    },
+    {
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271351,
+      "name": "GY\u0170L\u00d6LJ",
+      "url": "https://open.spotify.com/track/2LS9XwjaS59AXnKX3FSZXF"
+    },
+    {
+      "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
       },
@@ -5978,7 +6050,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 161082,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO"
@@ -6292,7 +6364,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 204452,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6npZ8fQgQqvXwqzLzFhkhb"
@@ -7922,10 +7994,28 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 218909,
       "name": "KERING\u0150",
       "url": "https://open.spotify.com/track/1U2IOLDqC5iST9gcUcGs6W"
+    },
+    {
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218909,
+      "name": "KERING\u0150",
+      "url": "https://open.spotify.com/track/3Ccwu3ujS9lyxW9CtTchk8"
     },
     {
       "album": {
@@ -8528,7 +8618,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
@@ -9346,7 +9436,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 138712,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/5FW58MYtSU6mFxp88eOHI8"
@@ -9512,6 +9602,24 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215538,
+      "name": "MAUI",
+      "url": "https://open.spotify.com/track/6uxearbIqsWnmB0yDjEojB"
     },
     {
       "album": {
@@ -9984,7 +10092,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 191538,
       "name": "Mind1",
       "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
@@ -10771,6 +10879,24 @@
     },
     {
       "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209491,
+      "name": "NE TAKARD EL",
+      "url": "https://open.spotify.com/track/66st0N9k5A2yw2Le6qnSNM"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -10822,6 +10948,24 @@
       "duration_ms": 218853,
       "name": "NEM A TE DOLGOD",
       "url": "https://open.spotify.com/track/5jsXTjwU9IzPIY6ysTR6Eb"
+    },
+    {
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "NEM ALSZOM OTTHON",
+      "url": "https://open.spotify.com/track/2Mbg50MyaInQ2vbZ6n6xbi"
     },
     {
       "album": {
@@ -13037,6 +13181,24 @@
     },
     {
       "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "ROSSZL\u00c1NY",
+      "url": "https://open.spotify.com/track/0uL4P24GkIY7p2Y9Dfgsfk"
+    },
+    {
+      "album": {
         "name": "Rosszl\u00e1ny",
         "url": "https://open.spotify.com/album/412yyBe1KPIfPxXH0aRTrV"
       },
@@ -13635,6 +13797,24 @@
     },
     {
       "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166808,
+      "name": "SEMMI",
+      "url": "https://open.spotify.com/track/2FESRN1CsZIuVjunVVEGBV"
+    },
+    {
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -14101,6 +14281,24 @@
     },
     {
       "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216610,
+      "name": "SPANOM 2",
+      "url": "https://open.spotify.com/track/5bxUNTzxwinkoyf8sLltka"
+    },
+    {
+      "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
       },
@@ -14310,7 +14508,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -14354,7 +14552,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
@@ -14581,6 +14779,24 @@
     },
     {
       "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206285,
+      "name": "SZORONG\u00d3",
+      "url": "https://open.spotify.com/track/2ourGFVWkaH9wLV0lM6hWp"
+    },
+    {
+      "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
       },
@@ -14682,7 +14898,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 198278,
       "name": "SZ\u00cdNVAK",
       "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
@@ -14954,6 +15170,24 @@
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "TAVALY T\u00c9LEN",
+      "url": "https://open.spotify.com/track/4ZB7ZsbAOboSMGbWwZSII8"
     },
     {
       "album": {
@@ -15502,7 +15736,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 180749,
       "name": "Tiszt\u00e1n iszom",
       "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
@@ -15899,6 +16133,24 @@
     },
     {
       "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182333,
+      "name": "T\u00daL SOK A TUNE",
+      "url": "https://open.spotify.com/track/40JheOaLfoH15JoGUemME8"
+    },
+    {
+      "album": {
         "name": "GG VS GRASA",
         "url": "https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ"
       },
@@ -16116,7 +16368,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
@@ -16392,7 +16644,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
@@ -17712,6 +17964,24 @@
       "duration_ms": 210793,
       "name": "\u00dcres sz\u00edvek",
       "url": "https://open.spotify.com/track/78Jj0xPR2y4KMAtYuWpRly"
+    },
+    {
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220194,
+      "name": "\u2265 L\u00c1NY",
+      "url": "https://open.spotify.com/track/5cgPPG5JKKAJR49vFMyjGV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNHwMxAkvmF8"

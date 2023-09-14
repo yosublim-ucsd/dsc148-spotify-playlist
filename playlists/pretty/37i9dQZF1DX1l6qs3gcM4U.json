@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.  ",
-  "num_followers": 183740,
+  "num_followers": 183844,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjkxYjEyNTcyYThkZTBhMTNlYThmYWI5NTkxOWI5MzU4ZTVmOTgx",
+  "snapshot_id": "MCxlZWM0MjNlZGYxYzY1NThhMzJmODU0Mjk5NjAzMTU1ZDc5MjVkZmFi",
   "tracks": [
     {
       "added_at": "2023-09-07 23:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 176770,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 176770,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1183,6 +1183,78 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
+        "name": "Cuiar Assim",
+        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        },
+        {
+          "name": "Arieth Feij\u00f3",
+          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
+        }
+      ],
+      "duration_ms": 230217,
+      "name": "Cuiar Assim",
+      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "Safadeza",
+        "url": "https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB"
+      },
+      "artists": [
+        {
+          "name": "Helio Baiano",
+          "url": "https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB"
+        },
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+        }
+      ],
+      "duration_ms": 189064,
+      "name": "Safadeza",
+      "url": "https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "Sincera",
+        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        }
+      ],
+      "duration_ms": 256979,
+      "name": "Sincera",
+      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "Felicidade",
+        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
         "name": "Versos & Poesias #5: Sintonia",
         "url": "https://open.spotify.com/album/1dhDUzKjP6iGrDhToWpKgw"
       },
@@ -1231,78 +1303,6 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
-        "name": "Cuiar Assim",
-        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
-      },
-      "artists": [
-        {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
-        },
-        {
-          "name": "Arieth Feij\u00f3",
-          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
-        }
-      ],
-      "duration_ms": 230217,
-      "name": "Cuiar Assim",
-      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "Sincera",
-        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        }
-      ],
-      "duration_ms": 256979,
-      "name": "Sincera",
-      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "Felicidade",
-        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "Safadeza",
-        "url": "https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB"
-      },
-      "artists": [
-        {
-          "name": "Helio Baiano",
-          "url": "https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB"
-        },
-        {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
-        }
-      ],
-      "duration_ms": 189064,
-      "name": "Safadeza",
-      "url": "https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
         "name": "Consagra\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
       },
@@ -1315,38 +1315,6 @@
       "duration_ms": 188813,
       "name": "O Que Eu N\u00e3o Fiz",
       "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/4gEHh8Cz2BHMUrYF6HUI9h"
-      },
-      "artists": [
-        {
-          "name": "Myriiam",
-          "url": "https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7"
-        }
-      ],
-      "duration_ms": 206879,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 219712,
-      "name": "365",
-      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1367,22 +1335,34 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
-        "name": "Tellin Me Something",
-        "url": "https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI"
+        "name": "365",
+        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
       },
       "artists": [
         {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
         }
       ],
-      "duration_ms": 167875,
-      "name": "Tellin Me Something",
-      "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
+      "duration_ms": 219712,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4gEHh8Cz2BHMUrYF6HUI9h"
+      },
+      "artists": [
+        {
+          "name": "Myriiam",
+          "url": "https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7"
+        }
+      ],
+      "duration_ms": 206879,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1407,18 +1387,22 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
-        "name": "Mika Mendes",
-        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
+        "name": "Tellin Me Something",
+        "url": "https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI"
       },
       "artists": [
         {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 283973,
-      "name": "Criola",
-      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1439,6 +1423,22 @@
       "duration_ms": 196567,
       "name": "Se Eu Pudesse",
       "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "Mika Mendes",
+        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "Criola",
+      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2023-09-07 23:00:00",
       "album": {
+        "name": "Sempre Sonhei (feat. Yasmine)",
+        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 239189,
+      "name": "Sempre Sonhei (feat. Yasmine)",
+      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 227685,
       "name": "J\u00e1 Deu",
       "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "Sempre Sonhei (feat. Yasmine)",
-        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 239189,
-      "name": "Sempre Sonhei (feat. Yasmine)",
-      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1779,6 +1779,26 @@
       "duration_ms": 218852,
       "name": "Reagi",
       "url": "https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9"
+    },
+    {
+      "added_at": "2023-09-07 23:00:00",
+      "album": {
+        "name": "Chama a Pol\u00edcia",
+        "url": "https://open.spotify.com/album/0gbGNvo50htawNPbtkBzJ7"
+      },
+      "artists": [
+        {
+          "name": "Jenny Cabral",
+          "url": "https://open.spotify.com/artist/66xcfAp997B9qNAwwEtQvK"
+        },
+        {
+          "name": "Dotorado Pro",
+          "url": "https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd"
+        }
+      ],
+      "duration_ms": 182417,
+      "name": "Chama a Pol\u00edcia",
+      "url": "https://open.spotify.com/track/5nXyhuzNJ5jHdpPDq5ywaS"
     },
     {
       "added_at": "2023-09-07 23:00:00",
@@ -1863,26 +1883,6 @@
       "duration_ms": 256026,
       "name": "Cara Trancada",
       "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
-    },
-    {
-      "added_at": "2023-09-07 23:00:00",
-      "album": {
-        "name": "Chama a Pol\u00edcia",
-        "url": "https://open.spotify.com/album/0gbGNvo50htawNPbtkBzJ7"
-      },
-      "artists": [
-        {
-          "name": "Jenny Cabral",
-          "url": "https://open.spotify.com/artist/66xcfAp997B9qNAwwEtQvK"
-        },
-        {
-          "name": "Dotorado Pro",
-          "url": "https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd"
-        }
-      ],
-      "duration_ms": 182417,
-      "name": "Chama a Pol\u00edcia",
-      "url": "https://open.spotify.com/track/5nXyhuzNJ5jHdpPDq5ywaS"
     }
   ],
   "unique_name": "Dancing Kizomba",

@@ -11740,7 +11740,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 129229,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/1BEFyucSNqIjrxMiTkvOLK"
@@ -13718,7 +13718,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 103783,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/2rv8rl1sayoLgwczMqEaEG"
@@ -14878,7 +14878,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 111325,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/7pLGolUwsim4ShRclN6sET"
@@ -24394,7 +24394,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 147272,
       "name": "Day at the Beach",
       "url": "https://open.spotify.com/track/5CnGqjFXZzwbvw1AEeqQJX"
@@ -25684,7 +25684,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 161927,
       "name": "Desolate City",
       "url": "https://open.spotify.com/track/54fQhBJlBlWCCSDBvTStjJ"
@@ -28224,7 +28224,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 145396,
       "name": "drift away",
       "url": "https://open.spotify.com/track/78aqRcYGHfnjVAZMSiTsoT"
@@ -28348,7 +28348,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 130588,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/34rM6lzAxc1uZ1E0a05dQC"
@@ -50677,6 +50677,24 @@
     },
     {
       "album": {
+        "name": "Je te souhaite le meilleur",
+        "url": "https://open.spotify.com/album/6gpYzNzqPr3nuOppCZTEtm"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135862,
+      "name": "Je te souhaite le meilleur",
+      "url": "https://open.spotify.com/track/18I15jiydUoqA9UR1aFTgi"
+    },
+    {
+      "album": {
         "name": "Jehzz",
         "url": "https://open.spotify.com/album/3W3iaK253n1jdghHkeOLLn"
       },
@@ -55678,7 +55696,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 115200,
       "name": "let it go",
       "url": "https://open.spotify.com/track/4270Ck43X6nxfRTNjm3Cjd"
@@ -88760,7 +88778,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 159745,
       "name": "Slack",
       "url": "https://open.spotify.com/track/1NinSAwNClX9Vl5v66qWE2"
@@ -92042,7 +92060,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 130498,
       "name": "Soul Sunday",
       "url": "https://open.spotify.com/track/0XNeucI8pFcrVADmSyEfZg"
@@ -107170,7 +107188,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 150037,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/4NpTasMwdpoCE10GmUQ9an"

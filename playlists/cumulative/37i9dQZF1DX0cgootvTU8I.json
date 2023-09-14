@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Gold Soul",
+        "url": "https://open.spotify.com/album/6gq5UMNlJ6XX5xghGm1DVh"
+      },
+      "artists": [
+        {
+          "name": "Nectax",
+          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291110,
+      "name": "Gold Soul",
+      "url": "https://open.spotify.com/track/2puGT4f9oJn6drCWQvWsPe"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg"
       },
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 195000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj"
@@ -1890,6 +1908,24 @@
     {
       "album": {
         "name": "Surfing The Anxiety Waves",
+        "url": "https://open.spotify.com/album/0XcdWrmdAbRkGuXNKjbEMQ"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243601,
+      "name": "Surfing The Anxiety Waves",
+      "url": "https://open.spotify.com/track/6tbQHnuPgy7m4ElWYhr9tP"
+    },
+    {
+      "album": {
+        "name": "Surfing The Anxiety Waves",
         "url": "https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y"
       },
       "artists": [
@@ -1962,7 +1998,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 245454,
       "name": "Take My Control",
       "url": "https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy"

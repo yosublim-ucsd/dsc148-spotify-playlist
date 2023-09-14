@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Cardi B + Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,888 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,908 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Like It Like That](https://open.spotify.com/track/40mp0DdVTooKn70CSgbFFS) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Like It Like That](https://open.spotify.com/album/2l9cx4DNMpPRd8WMvv3GGD) | 2:29 |
 | 80 | [Vino Bandit](https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Vino Bandit](https://open.spotify.com/album/5wmkCBglZqdYFKjudx75JG) | 2:30 |
 
-Snapshot ID: `MCwyNGFjNzIyMjE5ZjQ1MDAyODIwMjRmMTg0ZDk5Yzg5YTFhNDg5ZDU3`
+Snapshot ID: `MCwxNmZjYTA4NGI1YjMzZjIwYmJlNDhkMzBkOWI2YTI2ODQzZDdmYzcw`

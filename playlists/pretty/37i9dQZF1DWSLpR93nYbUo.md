@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Royale BR
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,110 likes - 72 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,142 likes - 72 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 71 | [Vai no Chão 2k23 \- Original Mix](https://open.spotify.com/track/6BH2EOiwGPsa99fYTOdPAr) | [Blaf Music \(Br\)](https://open.spotify.com/artist/3PvFN3ThKEI7t79YEW9M41), [Ali\_live](https://open.spotify.com/artist/03pwYVt6u2LbrDCUYnjGHz), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Vai no Chão 2k23 \(Original Mix\)](https://open.spotify.com/album/39BfhReJ5DS5fOrM2nYdzy) | 3:54 |
 | 72 | [Electro Panic \- Raz Remix](https://open.spotify.com/track/0s7Exj7dYm3bRfwCQWcQSP) | [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF), [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3) | [Electro Panic \(Raz Remix\)](https://open.spotify.com/album/7hfskclosZivyNG3AeQA3C) | 5:00 |
 
-Snapshot ID: `MCxkMjhkMzM0MGEzMmFhZDkxMDc5NGU3NjczNjdmYWRjNTlhMDk0YjY3`
+Snapshot ID: `MCw0NDU3YmNlYmQ0OTFmODNlYzI0OWU3MmM0MTdhMDdmOWQ0ZmJhM2Fk`

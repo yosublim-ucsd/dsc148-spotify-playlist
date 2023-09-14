@@ -1,12 +1,12 @@
 {
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
-  "num_followers": 189619,
+  "num_followers": 189648,
   "original_name": "Free Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTE2OTRkMmM5NDVhZTMwOGUyMjNkOGViMTRhYzM5ODdiMWJhZGJk",
+  "snapshot_id": "MCw2MDRkNzk0NGMxZmRjMjgzNWJmNjg5OGNhNTcxMWI0N2I0ZjlkMTZm",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "No Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Welcome to Jamrock",
         "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 210293,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5V3fw7a3vubB9PzMNhGoPL"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "No Mar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi"
     },
     {
       "added_at": "2023-07-28 03:01:00",

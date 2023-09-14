@@ -1473,6 +1473,28 @@
     },
     {
       "album": {
+        "name": "Harapan Tak Kunjung Usai",
+        "url": "https://open.spotify.com/album/48flIDmuIAtwsLStGjHWdi"
+      },
+      "artists": [
+        {
+          "name": "ST12",
+          "url": "https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf"
+        },
+        {
+          "name": "Hazama",
+          "url": "https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279360,
+      "name": "Harapan Tak Kunjung Usai",
+      "url": "https://open.spotify.com/track/7AOC6CUZC5c7Xq85GdXkDN"
+    },
+    {
+      "album": {
         "name": "Harum Sundal Malam",
         "url": "https://open.spotify.com/album/2z7a3zoAL6BuzF7rypiCp5"
       },
@@ -1886,7 +1908,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 217402,
       "name": "Jaga Dia",
       "url": "https://open.spotify.com/track/5emcN3KQH26IrZsvOzZE7y"
@@ -2111,6 +2133,28 @@
     },
     {
       "album": {
+        "name": "SITISM",
+        "url": "https://open.spotify.com/album/5LvXRAbeGyGQkrgr48hhJN"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        },
+        {
+          "name": "Dato\u2019 Awie",
+          "url": "https://open.spotify.com/artist/6VTFyjUXpX4WWuX4xHdwN0"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216008,
+      "name": "Kalau Berkasih",
+      "url": "https://open.spotify.com/track/2DqoNDOAEqsnbsEdPUsRbe"
+    },
+    {
+      "album": {
         "name": "Kamu Kurang Usaha",
         "url": "https://open.spotify.com/album/5eCGhOfeKF3PGDutfImNQd"
       },
@@ -2144,6 +2188,28 @@
       "duration_ms": 197565,
       "name": "Kan",
       "url": "https://open.spotify.com/track/4VzJN0sd8jrJ4P2N6S17Dx"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/3skr3mGHWKyDcGwHtfZwrm"
+      },
+      "artists": [
+        {
+          "name": "Aan Story",
+          "url": "https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk"
+        },
+        {
+          "name": "Abbie",
+          "url": "https://open.spotify.com/artist/6zDVYZds8AokA44sUXciya"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222553,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/6NRMH6IMw8VpKJedGWtPLz"
     },
     {
       "album": {
@@ -4178,7 +4244,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 160000,
       "name": "Sampai Tua",
       "url": "https://open.spotify.com/track/3926oG7uNxjktzOJvTXQWS"
@@ -4574,7 +4640,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 181565,
       "name": "Senyum",
       "url": "https://open.spotify.com/track/42U5uLkqHQ1qCPIB4FPFt1"

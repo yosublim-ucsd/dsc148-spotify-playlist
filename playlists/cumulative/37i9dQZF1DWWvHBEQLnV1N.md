@@ -4,7 +4,7 @@
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-125 songs - 6 hr 48 min
+126 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-17 |  |
 | [Christmas Prayer](https://open.spotify.com/track/1fVUbYWYtBmzTllJ2EAddD) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Infinite Things \(Deluxe Version\)](https://open.spotify.com/album/3g2kKcxwX4I7ttohCuZkkF) | 3:23 | 2021-12-17 |  |
 | [Christmas Tree Farm \(Old Timey Version\)](https://open.spotify.com/track/7r7j12XctfJqZWXsy1Zq9L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm \(Old Timey Version\)](https://open.spotify.com/album/5f4rbgZJhYp4hgswKri00b) | 3:52 | 2022-11-24 |  |
-| [Christmas Vacation](https://open.spotify.com/track/2UuwMH7KBuWlYYTk7JeK5F) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5) | 1:48 | 2022-12-16 |  |
+| [Christmas Vacation](https://open.spotify.com/track/2UuwMH7KBuWlYYTk7JeK5F) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5) | 1:48 | 2022-12-16 | 2023-09-14 |
 | [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 | 2021-12-17 |  |
 | [Cold December Night](https://open.spotify.com/track/23EvkivHtoFgkSK5pckvwq) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:18 | 2021-12-17 | 2022-11-19 |
 | [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/1deT8vP3lOVU3XFAKHsSc3) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [A Holly Dolly Christmas](https://open.spotify.com/album/3XGx6BABeDvmtVA4k0wfCl) | 3:39 | 2021-12-17 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [Only You \- From The McDonald’s Christmas Advert 2022](https://open.spotify.com/track/1mvfhBqEwBouLGSdcc7E4G) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only You \(From The McDonald’s Christmas Advert 2022\)](https://open.spotify.com/album/5MzKklFbHDwi1MG79RWEHc) | 2:53 | 2022-11-18 |  |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/61lyhMVhuGEANQW9ty4QDL) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Now That's What I Call Christmas](https://open.spotify.com/album/3eYqEBNC8yVgeExCQgogQh) | 2:05 | 2021-12-17 | 2022-07-29 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-17 | 2023-09-10 |
+| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2yxTGxTDbgcbMN0Ae102bn) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Rockin' Around The Christmas Tree/The Decca Christmas Recordings](https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U) | 2:06 | 2022-12-16 |  |
 | [Rockin' Around the Christmas Tree \- Re\-Recorded Version](https://open.spotify.com/track/0MSZvONijKwL4NWF8n6pE6) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/0TfqrsPnjt2xgFT7nrGy5I) | 2:06 | 2022-10-28 | 2022-11-13 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/04xh7Ut9l4fDoylyWu89zZ) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Now That's What I Call Christmas](https://open.spotify.com/album/3eYqEBNC8yVgeExCQgogQh) | 2:31 | 2021-12-17 | 2022-07-29 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/6CKN3aSdYCWAGE8VIxY2oI) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Family Christmas Singalong](https://open.spotify.com/album/66geHFCxf6P76sww1sCHHA) | 2:31 | 2022-10-28 | 2022-11-13 |

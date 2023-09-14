@@ -1,12 +1,12 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 109491,
+  "num_followers": 109476,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjM1ZjEwYjAzY2Y4NTUwZGRiYmQ2YzU1YzZjMWM0MzBkNzQ1MDQ5",
+  "snapshot_id": "MCwwMTc1ZjJlMTI3ZmZjYTMyOTQ0MmNmOWRhNThkZmEyN2YxNTFmN2Y5",
   "tracks": [
     {
       "added_at": "2023-06-15 12:16:01",
@@ -412,10 +412,6 @@
       },
       "artists": [
         {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
           "name": "Gippy Grewal",
           "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
         },
@@ -424,12 +420,12 @@
           "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
         },
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         },
         {
-          "name": "Abrar Ul Haq",
-          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
         }
       ],
       "duration_ms": 199029,

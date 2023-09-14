@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: Cris Mj.
 
-484 songs - 1 day 3 hr 25 min
+485 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Gata Gangster](https://open.spotify.com/track/14y09CdlBDvgbkoS08c6L6) | [La Julietita](https://open.spotify.com/artist/3aw6q1vPCwLaRzlys6comg), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [Gata Gangster](https://open.spotify.com/album/1kL1lEEwZ9VEiFzTheaDhb) | 2:42 | 2023-08-04 | 2023-08-26 |
 | [Gimnasio](https://open.spotify.com/track/3b760M9pvDVaHSvyUMGbAz) | [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED) | [Gimnasio](https://open.spotify.com/album/7hi0BB6uaPRVyakJFGKIhF) | 3:40 | 2022-12-16 | 2023-01-14 |
 | [Glocko](https://open.spotify.com/track/0zvrARWIZQD5M4WWH8mhsX) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Izahn](https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk) | [Glocko](https://open.spotify.com/album/7sBFofbqWdbYEe5SDv7X1b) | 3:12 | 2023-02-17 |  |
-| [Gucci en Paris](https://open.spotify.com/track/3JUpnvc3AEe7elz8YkgV3M) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 3:12 | 2022-11-25 |  |
+| [Gucci en Paris](https://open.spotify.com/track/2dxtHF3T1jTNrDUB0t5bVp) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Welcome To My World](https://open.spotify.com/album/1bkxTSDQ2rilOXXi2rys5X) | 3:12 | 2023-09-08 |  |
+| [Gucci en Paris](https://open.spotify.com/track/3JUpnvc3AEe7elz8YkgV3M) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 3:12 | 2022-11-25 | 2023-09-14 |
 | [Guilla](https://open.spotify.com/track/0XhPfqdAqB451Nvg4AEf9D) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/4pikmPJvBbNrUasRk80TGl) | 2:19 | 2023-07-28 |  |
 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 | 2022-08-26 | 2023-07-29 |
 | [HABLA](https://open.spotify.com/track/0eD8HwEktgTG5ZOeUxyCUx) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [HABLA](https://open.spotify.com/album/15NtQavZZkldQlXrm4Ikkp) | 4:38 | 2023-03-31 | 2023-07-22 |

@@ -3093,6 +3093,32 @@
     },
     {
       "album": {
+        "name": "Nasha (From \"Sukhee\")",
+        "url": "https://open.spotify.com/album/1jl3wLVKVzmtjwfDNyMoXI"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Chakshu Kotwal",
+          "url": "https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213049,
+      "name": "Nasha (From \"Sukhee\")",
+      "url": "https://open.spotify.com/track/4toBFhkIjRvPcAJIk98d58"
+    },
+    {
+      "album": {
         "name": "Ni Jana",
         "url": "https://open.spotify.com/album/14AM22a3ypN7tCMH89RXYj"
       },
@@ -3234,7 +3260,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 223325,
       "name": "Oo Antava Oo Oo Antava",
       "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"

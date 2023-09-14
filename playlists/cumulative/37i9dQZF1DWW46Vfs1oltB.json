@@ -7725,6 +7725,28 @@
     },
     {
       "album": {
+        "name": "Goodbyes & Hellos",
+        "url": "https://open.spotify.com/album/0PJsm0H4fjt2gwVTA7JUdd"
+      },
+      "artists": [
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188484,
+      "name": "Goodbyes & Hellos (Feat. NO:EL)",
+      "url": "https://open.spotify.com/track/68uYaZ15mIRQqA0nUAEoKq"
+    },
+    {
+      "album": {
         "name": "CAMOFLAUGE",
         "url": "https://open.spotify.com/album/1C1D2Ntr9bm6sYfb232SNR"
       },
@@ -18450,6 +18472,28 @@
       "duration_ms": 156266,
       "name": "Still Me (Feat. Dok2, GEMINI)",
       "url": "https://open.spotify.com/track/5as8yn2iLczb2dSJH3VT81"
+    },
+    {
+      "album": {
+        "name": "REGGAE",
+        "url": "https://open.spotify.com/album/67vD5xZZyNd02NXySKlS9W"
+      },
+      "artists": [
+        {
+          "name": "SKULL",
+          "url": "https://open.spotify.com/artist/7qKWQnE3S7v8m3rLwMVdGg"
+        },
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139746,
+      "name": "STONY FREESTYLE",
+      "url": "https://open.spotify.com/track/2EZSKCHSEswOWBAHLqPyG3"
     },
     {
       "album": {

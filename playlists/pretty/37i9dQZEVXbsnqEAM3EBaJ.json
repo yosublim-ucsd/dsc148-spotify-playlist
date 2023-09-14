@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMzU3MDAsMDAwMDAwMDA1ZWVhNjVjZTU5ZGU4MDhiMTUzOTFlZTU1ZjQ0NGU2OQ==",
+  "snapshot_id": "MjgyMzU3MDAsMDAwMDAwMDBmMDBiNTkyNTllZmNjNjNlOTBkNjE1NjI2NDNiOGE5Nw==",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 169773,
-      "name": "Walking the Dog (demo) - Outtake",
-      "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
+      "duration_ms": 224800,
+      "name": "Christie Rd. - Outtake",
+      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Oler A Ti",
-        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Oler A Ti",
-      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Bad Bitch Supreme",
         "url": "https://open.spotify.com/album/6qgVfNQpi4hKok5r85P7pE"
       },
@@ -159,34 +143,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "The Man in Me (Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978)",
-        "url": "https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz"
+        "name": "Oler A Ti",
+        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 231960,
-      "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
-      "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Rare Trax (2023 Remaster)",
-        "url": "https://open.spotify.com/album/1pkHXP581drtcsa8BhpxHt"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 324411,
-      "name": "Old Mule Skinner - 2023 Remaster",
-      "url": "https://open.spotify.com/track/2KfkGoNK0fuw2w40whv7mB"
+      "duration_ms": 225013,
+      "name": "Oler A Ti",
+      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -203,6 +171,22 @@
       "duration_ms": 232320,
       "name": "are we 3ven?",
       "url": "https://open.spotify.com/track/05WkUDENwFYIlGrQMXGN9K"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Rare Trax (2023 Remaster)",
+        "url": "https://open.spotify.com/album/1pkHXP581drtcsa8BhpxHt"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 306176,
+      "name": "Warrior Tribe - 2023 Remaster",
+      "url": "https://open.spotify.com/track/5tJ6meee6GEWjcsZgNzIPw"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -236,17 +220,17 @@
       },
       "artists": [
         {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
         },
         {
           "name": "Manuel del Corral",
           "url": "https://open.spotify.com/artist/1399uZh5GCbxPwTfXkx6mb"
         }
       ],
-      "duration_ms": 230380,
-      "name": "Hymn to the Sun",
-      "url": "https://open.spotify.com/track/70XVkRO1xd2vnECuo68hzq"
+      "duration_ms": 122711,
+      "name": "Hopak",
+      "url": "https://open.spotify.com/track/7t4bXpsDCAFMHZvkXCPM0K"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -287,8 +271,8 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Sometimes You Lose Before You Win",
-        "url": "https://open.spotify.com/album/17CJhGkrhZomJmYP0WSFrK"
+        "name": "You're Awesome",
+        "url": "https://open.spotify.com/album/3Yb23sjQcNGENT44r1ftui"
       },
       "artists": [
         {
@@ -296,9 +280,9 @@
           "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 209026,
-      "name": "Sometimes You Lose Before You Win",
-      "url": "https://open.spotify.com/track/2c4goRObjUsHBWfXS9xBRB"
+      "duration_ms": 170293,
+      "name": "You're Awesome",
+      "url": "https://open.spotify.com/track/5BoixLIVWjFbzurhaZvHwA"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -448,9 +432,9 @@
           "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 333440,
-      "name": "She's My Best Friend - Live",
-      "url": "https://open.spotify.com/track/1v0au4U2fSOC7MpV8GvCxs"
+      "duration_ms": 545706,
+      "name": "Coney Island Baby - Live",
+      "url": "https://open.spotify.com/track/5KP5MAyH27baIHYWu5Bj6y"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -471,22 +455,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Live In El Paso 1980",
-        "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 63226,
-      "name": "Sick Things - Live",
-      "url": "https://open.spotify.com/track/6mlAOexwC7hQkmHCDnFADP"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Llama Violeta Cham\u00e1nica",
         "url": "https://open.spotify.com/album/2IqPZLo79cNQwnLu8Rrjh1"
       },
@@ -499,6 +467,22 @@
       "duration_ms": 508920,
       "name": "Llama Violeta Cham\u00e1nica",
       "url": "https://open.spotify.com/track/5bWnTEQIoOO1mnZfHqw79K"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Live In El Paso 1980",
+        "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 63226,
+      "name": "Sick Things - Live",
+      "url": "https://open.spotify.com/track/6mlAOexwC7hQkmHCDnFADP"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -527,22 +511,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "MONTAGEM PR FUNK (Alesso Remix)",
-        "url": "https://open.spotify.com/album/5747O7ajEWPobMtjJ2HkFx"
+        "name": "Seven (feat. Latto) (Alesso Remix)",
+        "url": "https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb"
       },
       "artists": [
         {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
           "name": "Alesso",
           "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         }
       ],
-      "duration_ms": 172968,
-      "name": "MONTAGEM PR FUNK - Alesso Remix",
-      "url": "https://open.spotify.com/track/58L5MMUqBCZROyYBrRHxsT"
+      "duration_ms": 162480,
+      "name": "Seven (feat. Latto) (Alesso Remix)",
+      "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

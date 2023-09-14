@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Jawan
 
-150 songs - 10 hr 6 min
+151 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2b4nWymybHj38A6XtQijiA) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/album/2tWMHOkDRvyWN6yY57limX) | 4:06 | 2021-11-29 | 2022-06-21 |
 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 | 2023-04-03 |  |
 | [Kanave Nee Naan](https://open.spotify.com/track/16ASkQZ0cTrSdUYU1TB2nt) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Kannum Kannum Kollaiyadithaal](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 2:04 | 2021-11-29 | 2022-10-19 |
+| [Kangal Edho \- From "Chithha"](https://open.spotify.com/track/6STXfHpOuGjOespYlpeuI4) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Karthika Vaidyanathan](https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Kangal Edho \(From "Chithha"\)](https://open.spotify.com/album/4TZVYX8n31dqSAN8FUDBrZ) | 4:02 | 2023-09-13 |  |
 | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/album/6ORDYnNAskVUmXrb0UnU8F) | 3:57 | 2022-05-25 |  |
 | [Kankoththi Paravaye \(From "Vattam"\)](https://open.spotify.com/track/4vweFWzWXPxQDgjs9j47Zu) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp) | [Kankoththi Paravaye \(From "Vattam"\)](https://open.spotify.com/album/0QEPSYBGO2izXOh7M6ciCi) | 4:50 | 2022-07-14 | 2022-11-15 |
 | [Kannaatti \- From "Nooru Kodi Vaanavil"](https://open.spotify.com/track/078WZFboD5e0uQeYR2xpqd) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Kannaatti \(From "Nooru Kodi Vaanavil"\)](https://open.spotify.com/album/3nqzwf8h7PsjuurResxVIp) | 3:21 | 2022-03-11 | 2023-06-15 |

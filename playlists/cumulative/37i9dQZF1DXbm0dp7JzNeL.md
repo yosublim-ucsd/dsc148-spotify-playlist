@@ -2,7 +2,7 @@
 
 ### [Sad Classical](https://open.spotify.com/playlist/37i9dQZF1DXbm0dp7JzNeL)
 
-> Take comfort in these melancholy masterpieces.
+> Encuentra el confort con estas obras maestras de la melancolía.
 
 77 songs - 6 hr 5 min
 

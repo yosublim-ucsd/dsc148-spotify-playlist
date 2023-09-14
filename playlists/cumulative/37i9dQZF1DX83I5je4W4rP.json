@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 203378,
       "name": "Everyone Need Love (with Surfer Girl)",
       "url": "https://open.spotify.com/track/3QO9GEmkPeqdRMh0Tdf95Q"
@@ -1508,6 +1508,24 @@
       "duration_ms": 191600,
       "name": "Feels Like Home (with Shwayze)",
       "url": "https://open.spotify.com/track/54yeE5wI4gQwB1974fmMLV"
+    },
+    {
+      "album": {
+        "name": "Noon",
+        "url": "https://open.spotify.com/album/1rwkJG8Fx6r2bA0ZFc4FYU"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167721,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0xqKiPNtARmiviseWIQj2z"
     },
     {
       "album": {

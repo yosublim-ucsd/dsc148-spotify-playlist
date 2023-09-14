@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Blxst & Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,801 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,912 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 74 | [Flashlight](https://open.spotify.com/track/2nj3qkZhNhm9c82lFbZSFB) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Bankroll Got It](https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5), [Saviii 3rd](https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2) | [Flashlight](https://open.spotify.com/album/16p15AnHo6FgqHZwoKyfmQ) | 2:13 |
 | 75 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 
-Snapshot ID: `MCwwYzY0MmU4NWVmNDUwZTg3NzRlMTJlMGRjYjExYmZlOTY2ZTIxMzJh`
+Snapshot ID: `MCxhZmFmZjVhZGU0NzE2YjE0ZjlkNTJiNWUxODlhMGVhMjNlYWY2MTk1`

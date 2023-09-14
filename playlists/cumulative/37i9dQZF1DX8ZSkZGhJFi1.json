@@ -4966,7 +4966,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 130820,
       "name": "Love Is Being Stupid Together",
       "url": "https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO"
@@ -9548,6 +9548,24 @@
       "duration_ms": 192000,
       "name": "Track Smack",
       "url": "https://open.spotify.com/track/3eD2mfu97RybLSHMBzkVQN"
+    },
+    {
+      "album": {
+        "name": "Tranquil Twilight",
+        "url": "https://open.spotify.com/album/3PZQWTZ50FwGQfJczPcDlA"
+      },
+      "artists": [
+        {
+          "name": "Mean Dartin",
+          "url": "https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120588,
+      "name": "Tranquil Twilight",
+      "url": "https://open.spotify.com/track/22zMUlKVs4jOX5BBPrftUc"
     },
     {
       "album": {

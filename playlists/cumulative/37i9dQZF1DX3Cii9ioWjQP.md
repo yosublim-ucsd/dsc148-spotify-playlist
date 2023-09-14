@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-160 songs - 11 hr 29 min
+161 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Space Ladder \(Lofi\)](https://open.spotify.com/track/75a2ekPIAlAkiwMuByY6Zd) | [JOONGWOO](https://open.spotify.com/artist/5cHu4c788lUFSujfRbG00O) | [Space Ladder \(Lofi\)](https://open.spotify.com/album/2NqyLxvNOCIxDw1jAgoVXQ) | 4:00 | 2023-03-31 |  |
 | [SPRING OF CHORYANG](https://open.spotify.com/track/2CVy1sSuzwKs2DJJlAM5rQ) | [LEE SE YOUNG](https://open.spotify.com/artist/1LxHZbzjNjznwqJzIokSyv) | [SPRING OF CHORYANG](https://open.spotify.com/album/3rdSQwYpcGJrw1rIscH2o9) | 5:06 | 2022-05-03 |  |
 | [Standstill](https://open.spotify.com/track/4joLyChZpeeC813fRKzpHu) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/7zysMr8JjfdgZO2GIAC0S0) | 4:26 | 2022-05-03 | 2022-12-03 |
-| [START OVER](https://open.spotify.com/track/4gKHPsGzAZPQzGuuvIm8eX) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [START OVER](https://open.spotify.com/album/0ZwMsN7Rq0QcGrfqO1E8Dd) | 3:17 | 2022-05-03 |  |
+| [START OVER](https://open.spotify.com/track/4gKHPsGzAZPQzGuuvIm8eX) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [START OVER](https://open.spotify.com/album/0ZwMsN7Rq0QcGrfqO1E8Dd) | 3:17 | 2022-05-03 | 2023-09-14 |
 | [Stumble](https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 3:20 | 2023-02-24 |  |
 | [Sunflower](https://open.spotify.com/track/7tbyBVCqd0RPlJulWcz0bO) | [Choi Aim](https://open.spotify.com/artist/10iBhcYlA7mJ3VxkZdIl5i) | [Sunflower](https://open.spotify.com/album/6ak25dnY0MuutpgD0OVLAo) | 4:09 | 2023-03-31 |  |
 | [Sunny after the rain](https://open.spotify.com/track/5EYXCX3C33oyz7EGyBUoo4) | [Ohhwapyoung](https://open.spotify.com/artist/5Ld0vZxZXB0C467fp1bJ7U) | [Weekly Ohhwapyoung Season 4 Vol.39](https://open.spotify.com/album/4R4vkv6lrO0cSjH0jSGTss) | 2:24 | 2022-05-03 | 2023-02-08 |
@@ -164,6 +164,7 @@
 | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/track/6IFdEC905IVfVKkEg5oCIf) | [정석훈](https://open.spotify.com/artist/1sK6u1AYcW34Kms0OZtnMC), [Kim Joon\-Seo](https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK) | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/album/5pQzpyLvHtOefFVPCRK0Wg) | 4:18 | 2022-07-08 | 2023-02-08 |
 | [새+일회용품 Bird+Disposable \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/track/7LnMAkkFT53vThlspKzBwZ) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202](https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf) | 4:51 | 2023-07-24 |  |
 | [수암로](https://open.spotify.com/track/1agp7haerf4CHKUOix59bO) | [Uri](https://open.spotify.com/artist/2tG5Ksvgakzg0AxoMutgwE) | [Diary 11 의정부](https://open.spotify.com/album/70xNNxytzLqRmn4X2XvvLf) | 2:58 | 2022-11-11 |  |
+| [시작](https://open.spotify.com/track/0LsATRvvj43sSh4lvCWsQc) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [시작](https://open.spotify.com/album/1j9Bz1EoymRjq4ZF3oUdx1) | 3:17 | 2023-07-24 |  |
 | [카페인](https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme) | [정승수 밴드](https://open.spotify.com/artist/2CUrF1ofFe2Fg7tgQQH7Sr) | [카페인](https://open.spotify.com/album/3s8QEeQGLT6y6isxaa4ZjN) | 4:37 | 2022-05-03 |  |
 | [퇴사하는 날 The Last Day of Work\(Dobby is Free\)](https://open.spotify.com/track/1cLGyPRsyMZzX23TbG9LdA) | [조영훈 Younghoon Cho](https://open.spotify.com/artist/7KOFCJ3yZTiPDj215mxq3G) | [퇴사하는 날 The Last Day of Work](https://open.spotify.com/album/2GwqgiOoFdm4lYEE5dztHW) | 2:25 | 2022-05-03 | 2022-05-19 |
 | [풀빛푸른](https://open.spotify.com/track/6SNqL7uzSSESJ3IMKLFCdN) | [Q\-Han](https://open.spotify.com/artist/0Ahq4s8aRjMtjuui5iwxFp) | [풀빛푸른](https://open.spotify.com/album/3dPkZo53nbzFqMory6otX1) | 2:30 | 2022-11-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 31857,
+  "num_followers": 31886,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDljYmM1NzMwN2I4YWVlOGE4YWE0ZmFkMjI1YWMwYWVjYjExYjA4",
+  "snapshot_id": "MCxkZWZhYmFhZWM4NzYwMTljODBiMGFkYmQ4OWI5OTBjY2NjMDdjYzk5",
   "tracks": [
     {
       "added_at": "2023-08-04 01:55:26",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-08-04 01:55:26",
       "album": {
+        "name": "\u96e2\u5fc3\u529b",
+        "url": "https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco"
+      },
+      "artists": [
+        {
+          "name": "Naiwen Yang",
+          "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
+        }
+      ],
+      "duration_ms": 179990,
+      "name": "\u6fd5\u4e86,\u5c31\u4e0d\u6015\u6703\u4e0b\u96e8",
+      "url": "https://open.spotify.com/track/4raq39Uzg89n9zPEVlmqjx"
+    },
+    {
+      "added_at": "2023-08-04 01:55:26",
+      "album": {
         "name": "\u9a55\u50b2\u5730\u611b\u8457",
         "url": "https://open.spotify.com/album/3V6FTadVjrWzNFAI8qAcsS"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2023-08-04 01:55:26",
       "album": {
-        "name": "\u96e2\u5fc3\u529b",
-        "url": "https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco"
+        "name": "\u600e\u6a23",
+        "url": "https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H"
       },
       "artists": [
         {
-          "name": "Naiwen Yang",
-          "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
         }
       ],
-      "duration_ms": 179990,
-      "name": "\u6fd5\u4e86,\u5c31\u4e0d\u6015\u6703\u4e0b\u96e8",
-      "url": "https://open.spotify.com/track/4raq39Uzg89n9zPEVlmqjx"
+      "duration_ms": 200333,
+      "name": "\u96e8\u548c\u592a\u967d",
+      "url": "https://open.spotify.com/track/7GJxG9P2SW3peeqg29dJK0"
     },
     {
       "added_at": "2023-08-04 01:55:26",
@@ -1011,22 +1027,6 @@
       "duration_ms": 228088,
       "name": "SINGING IN THE RAIN",
       "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
-    },
-    {
-      "added_at": "2023-08-04 01:55:26",
-      "album": {
-        "name": "\u600e\u6a23",
-        "url": "https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H"
-      },
-      "artists": [
-        {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "\u96e8\u548c\u592a\u967d",
-      "url": "https://open.spotify.com/track/7GJxG9P2SW3peeqg29dJK0"
     },
     {
       "added_at": "2023-08-04 01:55:26",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-08-04 01:55:26",
       "album": {
-        "name": "\u5348\u591c\u5169\u9ede\u534a\u7684\u6211",
-        "url": "https://open.spotify.com/album/3HkkCV2VJbRXJ2mTiUPHqM"
-      },
-      "artists": [
-        {
-          "name": "\u694a\u57f9\u5b89",
-          "url": "https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/1Yc1BqPYFaUP8Ktm89lqKr"
-    },
-    {
-      "added_at": "2023-08-04 01:55:26",
-      "album": {
         "name": "\u6d77\u6d0b\u97f3\u6a02\u5275\u4f5c\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/3lgDIJPRUSsSgim5cBZ5mE"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 369586,
       "name": "\u96e8\u8207\u4f60",
       "url": "https://open.spotify.com/track/01BQfSbNd3LflgSiPXizkO"
+    },
+    {
+      "added_at": "2023-08-04 01:55:26",
+      "album": {
+        "name": "\u5348\u591c\u5169\u9ede\u534a\u7684\u6211",
+        "url": "https://open.spotify.com/album/3HkkCV2VJbRXJ2mTiUPHqM"
+      },
+      "artists": [
+        {
+          "name": "\u694a\u57f9\u5b89",
+          "url": "https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/1Yc1BqPYFaUP8Ktm89lqKr"
     },
     {
       "added_at": "2023-08-04 01:55:26",

@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-116 songs - 7 hr 59 min
+117 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [not alright](https://open.spotify.com/track/3qvK5qHvwP1mX6g9lOF2dJ) | [kan](https://open.spotify.com/artist/1lBTgx2dax8DTyeZ4URvzZ) | [not alright](https://open.spotify.com/album/4UrsL2atzrnEEeVeSxlfRB) | 4:04 | 2022-05-26 |  |
 | [One Way My Love](https://open.spotify.com/track/3HxDFhicGXxE5hlvypryCU) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Ladies In The City](https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7) | 3:17 | 2022-05-26 | 2023-02-17 |
 | [Papansin](https://open.spotify.com/track/3cdVZ0zqOHl8cS0bR06oKZ) | [Minaw](https://open.spotify.com/artist/3WDWdGrDmyczFUkPPkd8aK) | [Papansin](https://open.spotify.com/album/3p1jcWloxr38uAQKB1AiHf) | 4:17 | 2022-05-26 |  |
-| [Para Sa Bawat Tala](https://open.spotify.com/track/1XCAAVAfZQYnNymGIf87Ci) | [Rob & the Hitmen](https://open.spotify.com/artist/403zqZkXe0eu3LaDHRzXan) | [Offshore Music, Vol\. 1](https://open.spotify.com/album/26oMuuJGRoanfk3lyUOoHs) | 3:46 | 2022-05-26 |  |
+| [Para Sa Bawat Tala](https://open.spotify.com/track/1XCAAVAfZQYnNymGIf87Ci) | [Rob & the Hitmen](https://open.spotify.com/artist/403zqZkXe0eu3LaDHRzXan) | [Offshore Music, Vol\. 1](https://open.spotify.com/album/26oMuuJGRoanfk3lyUOoHs) | 3:46 | 2022-05-26 | 2023-09-14 |
+| [Para Sa Bawat Tala](https://open.spotify.com/track/3jU6WHhEH37QrkcLx1f9UR) | [Rob & the Hitmen](https://open.spotify.com/artist/403zqZkXe0eu3LaDHRzXan) | [Offshore Music, Vol\. 1](https://open.spotify.com/album/0UDbHdqYWUnSdjYJEXljbt) | 3:46 | 2023-07-06 |  |
 | [Password](https://open.spotify.com/track/3Th1HFNWilrRJyIvjBxNj5) | [Fever](https://open.spotify.com/artist/78emMqMZWaWiYUGSlXwIxw) | [Password](https://open.spotify.com/album/4rgVJF3Omwi23EJ0Nvc8ec) | 3:59 | 2022-05-26 |  |
 | [Plastic Love](https://open.spotify.com/track/0K9rIsZfdlzAoOEWyeFQYM) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Plastic Love](https://open.spotify.com/album/0r4h34q8ZTo1LvtXb1fIG6) | 4:35 | 2022-05-26 |  |
 | [Plastic Love](https://open.spotify.com/track/2qxTmEfGbBGMSJrwu4Ez1v) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Plastic Love](https://open.spotify.com/album/2TiOMHRdkGmcij7SLo6Vfm) | 4:35 | 2022-05-26 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Eyedress.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,227 likes - 102 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,229 likes - 102 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 101 | [Lejos del mundo y el dolor](https://open.spotify.com/track/2VE3DQwmKSxrYRbZ0aC8yS) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Lejos del mundo y el dolor](https://open.spotify.com/album/2YxVEE82jzCGMBoMsx637i) | 3:12 |
 | 102 | [So Bad](https://open.spotify.com/track/3KLGkGZU4wU5zLudW0a0em) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/6aRAFBI8tnHWCUAlTaaZGN) | 3:33 |
 
-Snapshot ID: `MCw2Njg4ODY4MDZiMTcyYzBjMmQwZmYwNjNlMWRjMDQyOWMyZjRkOWZh`
+Snapshot ID: `MCw2MmQwN2Q2YzFhNmRmM2UyOGIyOTJkY2RiMzFkMWYwNzhhYmVlZTM1`

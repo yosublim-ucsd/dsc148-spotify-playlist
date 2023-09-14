@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. DJ Shocca, Guè ed Ele A in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,029 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,054 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 45 | [21 Grammi](https://open.spotify.com/track/3mALxpNkY2W4EzLldNCo9s) | [Duplici](https://open.spotify.com/artist/26LUOCEFlhNl9RjCPDruPT), [Dj Double S](https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0) | [Schiena Contro Schiena](https://open.spotify.com/album/5IwGNmcikVfFtiVtDmw5ff) | 4:19 |
 | 46 | [Bolo By Night](https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [Royal Mehdi](https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ) | [60 Hz](https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO) | 3:53 |
 | 47 | [Guardie&Ladri \(feat\. Nayt\)](https://open.spotify.com/track/3glwI8YMhuziGnQvnhrkqz) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 2:59 |
-| 48 | [Prime](https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD) | [Johnny Marsiglia](https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb) | [GARA 7](https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX) | 2:10 |
-| 49 | [Yeah \(feat\. Emis Killa\)](https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 2:10 |
+| 48 | [Yeah \(feat\. Emis Killa\)](https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 2:10 |
+| 49 | [Bugiardo](https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Il Tempo Vola 2002\-2020](https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6) | 4:06 |
 | 50 | [Cani sciolti](https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0) | [Sangue Misto](https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL) | [SXM](https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E) | 4:55 |
-| 51 | [Bugiardo](https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Il Tempo Vola 2002\-2020](https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6) | 4:06 |
+| 51 | [Prime](https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD) | [Johnny Marsiglia](https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb) | [GARA 7](https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX) | 2:10 |
 | 52 | [L'Anima Giusta](https://open.spotify.com/track/66LvacHJCJWy11UemxShz7) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK) | [Riproduzione Vietata](https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0) | 4:13 |
 | 53 | [Sembrava Impossibile](https://open.spotify.com/track/3cAIN3it8fhHDiyO5vXOVj) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N), [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Sacrosanto](https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1) | 2:38 |
 | 54 | [Rigurgito antifascista](https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2) | [99 Posse](https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW) | [Curre curre guagliò](https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC) | 5:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 99 | [Guerra E Pace](https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Chico Mdee](https://open.spotify.com/artist/65PTy8VhfLZr64mWIff2ek), [Anna Marotta](https://open.spotify.com/artist/3KSmHFvqVcqN4RYoKWH8vr) | [107 Elementi](https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o) | 4:53 |
 | 100 | [VETERANO \(feat\. DJ Shocca\)](https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [MEDIOEGO](https://open.spotify.com/album/7LgeeQPvJoqL6omHms0Bal) | 3:53 |
 
-Snapshot ID: `MCxlNDNjZTJlM2FkZGQ3ODliYTU3Y2NhNzZkMzY1MmY4NjI4YWYwMWJi`
+Snapshot ID: `MCwyNjkwZWUyNjg0YTA0MDhhNzY1MzQ1YmJkODAzMTljN2ViZWJiMDcw`

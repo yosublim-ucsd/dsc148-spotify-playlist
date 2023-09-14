@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-481 songs - 1 day 3 hr 31 min
+482 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [I Shot The Sheriff](https://open.spotify.com/track/1EB7UuUZ1KYKjRR4ZWFR2u) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Reggae Soul](https://open.spotify.com/album/7xBN2ecwiP56Dn3utfkdWn) | 4:41 | 2022-09-22 | 2022-11-13 |
 | [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 | 2021-03-02 | 2022-07-11 |
 | [I Was Born A Winner](https://open.spotify.com/track/5TUC42c5rsbU3ElTri4IBD) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 3:37 | 2022-08-18 | 2022-09-23 |
-| [I Wish You Were Here](https://open.spotify.com/track/7aHoGCuYnAcNar5i1PPQCP) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/58CUGMmOhc3zKGkSTzsnUS) | 4:27 | 2022-09-22 |  |
+| [I Wish You Were Here](https://open.spotify.com/track/7aHoGCuYnAcNar5i1PPQCP) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/58CUGMmOhc3zKGkSTzsnUS) | 4:27 | 2022-09-22 | 2023-09-14 |
+| [I Wish You Were Here](https://open.spotify.com/track/5eCx5098mGhOXc3xY1fbWc) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/01cPxSu0Lr5qocwgwt579N) | 4:27 | 2022-09-22 |  |
 | [I Wish You Were Here](https://open.spotify.com/track/7HXcSZsNnjm5HV49Rlk7n4) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/64RwJVf6cfgzFPM9mesf9T) | 4:27 | 2021-03-02 | 2023-09-04 |
 | [I'm In the Mood for Love](https://open.spotify.com/track/4A4ZnYm48DkalkEs6FzeYq) | [Lord Tanamo](https://open.spotify.com/artist/0jCQfGTP2CuiYqPiVTmzU6) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:32 | 2022-09-22 |  |
 | [I'm Still in Love](https://open.spotify.com/track/3bOVMf0QlfxX736BbANe8W) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Reggae Max: Alton Ellis](https://open.spotify.com/album/0lbF0m9uhPmc73QZLlSz9h) | 3:45 | 2022-09-22 | 2023-05-24 |

@@ -660,7 +660,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 153333,
       "name": "Affirm",
       "url": "https://open.spotify.com/track/4IVLOaJPEOu5ZbOzXj0szG"
@@ -2724,7 +2724,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 172273,
       "name": "Being Free",
       "url": "https://open.spotify.com/track/4cmezsZ5LAp5p62KwiWS48"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 104594,
       "name": "Cosmetics",
       "url": "https://open.spotify.com/track/57JRVNAO9gTmmLVIlkqibb"
@@ -5958,7 +5958,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 99966,
       "name": "Court Mix",
       "url": "https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz"
@@ -6786,7 +6786,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 123620,
       "name": "Dinner Party",
       "url": "https://open.spotify.com/track/77McLs2DwfzeDTKGKMgwyX"
@@ -12214,6 +12214,24 @@
       "duration_ms": 161867,
       "name": "How's That?",
       "url": "https://open.spotify.com/track/4R06qnWPSfljUqt4n6mzQN"
+    },
+    {
+      "album": {
+        "name": "Howzit?",
+        "url": "https://open.spotify.com/album/4pXcxfjsiBm0ZU8t5kFF9t"
+      },
+      "artists": [
+        {
+          "name": "Slacker Jack's",
+          "url": "https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156750,
+      "name": "Howzit?",
+      "url": "https://open.spotify.com/track/395eVmBVCjR3TY8eUrOVl4"
     },
     {
       "album": {
@@ -17679,6 +17697,24 @@
     },
     {
       "album": {
+        "name": "Natural Midst",
+        "url": "https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL"
+      },
+      "artists": [
+        {
+          "name": "Illum Noyz",
+          "url": "https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Natural Midst",
+      "url": "https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf"
+    },
+    {
+      "album": {
         "name": "Spacemoons",
         "url": "https://open.spotify.com/album/48MaOWMleT2N9nmVfZ95BR"
       },
@@ -17864,7 +17900,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 164821,
       "name": "New Year",
       "url": "https://open.spotify.com/track/3EXgLJULkj8T7oAlCArdcf"
@@ -18742,7 +18778,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 121500,
       "name": "Ola",
       "url": "https://open.spotify.com/track/16COXSGDWDje1zmcyexR7g"
@@ -19632,7 +19668,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 138624,
       "name": "Park Life",
       "url": "https://open.spotify.com/track/6TrmKrBHA1UcepoLAoCa7A"
@@ -22946,7 +22982,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 163124,
       "name": "Silence",
       "url": "https://open.spotify.com/track/63XQRpucFtZi1c8tQx48L2"
@@ -23072,7 +23108,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 123243,
       "name": "Sinnlig",
       "url": "https://open.spotify.com/track/1QLn1ZxpNoMD8ATiLcAT8w"
@@ -23888,7 +23924,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 112941,
       "name": "somethings up",
       "url": "https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9"
@@ -26832,7 +26868,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-14",
       "duration_ms": 136000,
       "name": "Together",
       "url": "https://open.spotify.com/track/553aIceOihS2BuPTSGpdQ7"

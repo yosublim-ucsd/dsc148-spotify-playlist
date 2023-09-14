@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "DKL",
+        "url": "https://open.spotify.com/album/3mMNDqFmww0WMzYPS5zGJT"
+      },
+      "artists": [
+        {
+          "name": "MYR",
+          "url": "https://open.spotify.com/artist/260WCUxqybRg1I8Dh2JcUY"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190245,
+      "name": "DKL",
+      "url": "https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha"
+    },
+    {
+      "album": {
         "name": "Drunk",
         "url": "https://open.spotify.com/album/10JVIHH4p8FqDMfVPjTrpo"
       },

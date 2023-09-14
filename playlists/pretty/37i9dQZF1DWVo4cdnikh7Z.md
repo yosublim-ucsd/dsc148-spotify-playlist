@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,343 likes - 61 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,994 likes - 61 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/track/3pDbPKZHrpHAWcJVMsrNwA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/album/09fIr7A4cAEktUmCMg7dJd) | 3:27 |
 | 2 | [Naa Ready \(From "Leo"\)](https://open.spotify.com/track/1B02UI29t3PTh3m98absaP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Naa Ready \(From "Leo"\)](https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI) | 4:08 |
 | 3 | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/album/3JiVWzoQqLwmH8DcayvdQ6) | 3:20 |
-| 4 | [Azhagai \(From "Iraivan"\)](https://open.spotify.com/track/3wcXbKtnTQf5g2dK3AW2dB) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Kharesma Ravichandran](https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw) | [Azhagai \(From "Iraivan"\)](https://open.spotify.com/album/3cJ5wGBgAi1xoP7Mt6zFWp) | 3:41 |
+| 4 | [Azhagai \(From "Iraivan"\)](https://open.spotify.com/track/7bHlIBOijusr7MgyAEiNPG) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Kharesma Ravichandran](https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Azhagai \(From "Iraivan"\)](https://open.spotify.com/album/3XXJu3oYdVAl8hurWoAyrf) | 3:41 |
 | 5 | [Jujubee \(From "Jailer"\)](https://open.spotify.com/track/09Q0LYcLol1C8HOZ6pIRdO) | [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Jujubee \(From "Jailer"\)](https://open.spotify.com/album/3LgCX0eAm7TGAbqZHfFvPm) | 2:47 |
 | 6 | [Jawan Title Track](https://open.spotify.com/track/7BOMm2gouxtIB2oxfSzPi6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan \(\(TAMIL\)\)](https://open.spotify.com/album/6IPocVtoXfw3YaBwC9M5tX) | 3:08 |
 | 7 | [Tiger Transformation \(From "Jailer"\)](https://open.spotify.com/track/6QnaSrPceLo5ClJUHA61K2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Tiger Transformation \(From "Jailer"\)](https://open.spotify.com/album/7oPBIbwVgBYrhbf0tRzCpT) | 4:25 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 60 | [Karikuzhambu Vaasam \(From "Kathar Basha Endra Muthuramalingam"\)](https://open.spotify.com/track/6NOdYQMY6AK0TyTi1n4vG6) | [G\. V\. Prakash Kumar](https://open.spotify.com/artist/5a9VcQbsQIQBaIrkCoTsTn), [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3) | [Karikuzhambu Vaasam \(From "Kathar Basha Endra Muthuramalingam"\)](https://open.spotify.com/album/1na8NtVQvyOMUY6uMpUIri) | 3:54 |
 | 61 | [En Rojaa Neeye \(From "Kushi"\)](https://open.spotify.com/track/13fsvYMK0cPDgYcWIasc2o) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [En Rojaa Neeye \(From "Kushi"\) \- Single](https://open.spotify.com/album/06B2tZByNLYFnNJAFVTDsv) | 4:03 |
 
-Snapshot ID: `MCw4ODJhYjc3NDY0NDc3OTBhZjU1OWRlMmY4OTJkZWQ4OWRjMWY0Mzlj`
+Snapshot ID: `MCxiMTIzZjk2NWNjZjRhZjYzNmRmYWFjZDYzMjE5ODUyMmViNTY5ZWRm`

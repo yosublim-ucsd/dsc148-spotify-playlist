@@ -1,13 +1,29 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: SYT\u00cb",
-  "num_followers": 194608,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Wim Tapley",
+  "num_followers": 194766,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWJiYTk3MTMzOGY1MmJlYjk5NTNmYzIzNTBmNDgxYWI3ZGY0ZWFi",
+  "snapshot_id": "MCxlNGIyNjI4ZjIxODAyNjY3YmI5NDQ3ODBiOTA0OGM4YjQ3MGQ0NTRh",
   "tracks": [
+    {
+      "added_at": "2023-09-13 04:00:00",
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/2yOLIc6a9rIYHI1gmFjx0S"
+      },
+      "artists": [
+        {
+          "name": "Wim Tapley",
+          "url": "https://open.spotify.com/artist/0hBKnsxER0S51JUH21uYLi"
+        }
+      ],
+      "duration_ms": 193941,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/2Svga74CVR9zLYfZK2bTzL"
+    },
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
@@ -23,6 +39,166 @@
       "duration_ms": 191962,
       "name": "Yours For Life",
       "url": "https://open.spotify.com/track/6oefuOfCQpbUjhWjpTRguL"
+    },
+    {
+      "added_at": "2023-09-13 04:00:00",
+      "album": {
+        "name": "Felt Like Hell",
+        "url": "https://open.spotify.com/album/4j9CUAP0FDTq1PmaCIbAfq"
+      },
+      "artists": [
+        {
+          "name": "Sophia Veraz",
+          "url": "https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ"
+        }
+      ],
+      "duration_ms": 190403,
+      "name": "Felt Like Hell",
+      "url": "https://open.spotify.com/track/5xgZg7Xv91Uo4JxfBKIL7T"
+    },
+    {
+      "added_at": "2023-09-13 04:00:00",
+      "album": {
+        "name": "Takeaway Cup",
+        "url": "https://open.spotify.com/album/12PdiG9F9Xz8tFYIZXwUUn"
+      },
+      "artists": [
+        {
+          "name": "Chris Bates",
+          "url": "https://open.spotify.com/artist/1wMxoWB76tKp8gOJDGRxxJ"
+        }
+      ],
+      "duration_ms": 149763,
+      "name": "Takeaway Cup",
+      "url": "https://open.spotify.com/track/65CvImGO0oPmybnQix1SVv"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "everything",
+        "url": "https://open.spotify.com/album/4YoIc5gx0CWXlrLVwvvZJQ"
+      },
+      "artists": [
+        {
+          "name": "Good/Vlly",
+          "url": "https://open.spotify.com/artist/69v7yR9Qx34Jrea5OYwq9E"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/05FRnwWErfFvWRupmnDKpD"
+    },
+    {
+      "added_at": "2023-09-13 04:00:00",
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/0cjWIh7CiaAAYhCMk6V8oK"
+      },
+      "artists": [
+        {
+          "name": "Belot",
+          "url": "https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/5KSaSYbwz3Ndiqa4b5vdun"
+    },
+    {
+      "added_at": "2023-09-13 04:00:00",
+      "album": {
+        "name": "Bloom - Acoustic",
+        "url": "https://open.spotify.com/album/6WstQbPW7iOIXFNaUEIFru"
+      },
+      "artists": [
+        {
+          "name": "darragh",
+          "url": "https://open.spotify.com/artist/7d88Vm34cYnlxVXc89N4yU"
+        }
+      ],
+      "duration_ms": 182940,
+      "name": "Bloom - Acoustic",
+      "url": "https://open.spotify.com/track/7FVUub6HtiuRTyOCtAh6HW"
+    },
+    {
+      "added_at": "2023-09-13 04:00:00",
+      "album": {
+        "name": "Crying Over Boys",
+        "url": "https://open.spotify.com/album/7vDwI8etBmq8TAyrtm4cFt"
+      },
+      "artists": [
+        {
+          "name": "Amber Ais",
+          "url": "https://open.spotify.com/artist/3vPpiUL0ow9hQfhDMyGxle"
+        }
+      ],
+      "duration_ms": 168946,
+      "name": "Crying Over Boys",
+      "url": "https://open.spotify.com/track/1hnL18mH3dwfPxa5NkwKXY"
+    },
+    {
+      "added_at": "2023-09-13 04:00:00",
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/3gw9IOSDuhLJQHL8FFa93L"
+      },
+      "artists": [
+        {
+          "name": "Beane",
+          "url": "https://open.spotify.com/artist/6OPhoP9klTrNJm9EF0FnRt"
+        }
+      ],
+      "duration_ms": 183719,
+      "name": "Fruit",
+      "url": "https://open.spotify.com/track/3OrhJiVUhg1mKjtIprSaKs"
+    },
+    {
+      "added_at": "2023-09-13 04:00:00",
+      "album": {
+        "name": "Armor",
+        "url": "https://open.spotify.com/album/2aYMLA1E4zM0c51s7qS4Ol"
+      },
+      "artists": [
+        {
+          "name": "Aliana Lohan",
+          "url": "https://open.spotify.com/artist/1wPfaXhiaOzhtpCa52LRux"
+        }
+      ],
+      "duration_ms": 171230,
+      "name": "Armor",
+      "url": "https://open.spotify.com/track/5JmqNrYrjIo5UlfJCGy3Lh"
+    },
+    {
+      "added_at": "2023-09-13 04:00:00",
+      "album": {
+        "name": "BASIC",
+        "url": "https://open.spotify.com/album/5wDW7r8nJTLZ1QCiw3JKet"
+      },
+      "artists": [
+        {
+          "name": "saywhen",
+          "url": "https://open.spotify.com/artist/6ZsvRYS7gjFxkKu6d2Bl9v"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "BASIC",
+      "url": "https://open.spotify.com/track/1PvfZFdUhDIJAhWWgyqUxM"
+    },
+    {
+      "added_at": "2023-09-13 04:00:00",
+      "album": {
+        "name": "Boundaries",
+        "url": "https://open.spotify.com/album/090i824orseQgKaRD7ExPM"
+      },
+      "artists": [
+        {
+          "name": "Becca",
+          "url": "https://open.spotify.com/artist/0az1ejd8keYC59ziNi459Q"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Boundaries",
+      "url": "https://open.spotify.com/track/4fWuiOdpsD6lEOj3EeWLZf"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -55,22 +231,6 @@
       "duration_ms": 141147,
       "name": "Just a Friend",
       "url": "https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
-        "name": "everything",
-        "url": "https://open.spotify.com/album/4YoIc5gx0CWXlrLVwvvZJQ"
-      },
-      "artists": [
-        {
-          "name": "Good/Vlly",
-          "url": "https://open.spotify.com/artist/69v7yR9Qx34Jrea5OYwq9E"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/05FRnwWErfFvWRupmnDKpD"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -553,22 +713,6 @@
       "url": "https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2"
     },
     {
-      "added_at": "2023-08-16 04:07:32",
-      "album": {
-        "name": "THE LIKES OF YOU",
-        "url": "https://open.spotify.com/album/2u6LiVhcwS1AML4XfmBmQ8"
-      },
-      "artists": [
-        {
-          "name": "NXKXTA",
-          "url": "https://open.spotify.com/artist/54KD2CFa3zNmwpZXCcqtxw"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "THE LIKES OF YOU",
-      "url": "https://open.spotify.com/track/6dcOSnXlejIEYmcqWeocUI"
-    },
-    {
       "added_at": "2023-08-09 04:00:00",
       "album": {
         "name": "i think i like your girlfriend",
@@ -583,22 +727,6 @@
       "duration_ms": 166115,
       "name": "i think i like your girlfriend",
       "url": "https://open.spotify.com/track/4vfqtTA2gCEgorXHfay7XV"
-    },
-    {
-      "added_at": "2023-08-16 04:07:32",
-      "album": {
-        "name": "Aye Best Friend",
-        "url": "https://open.spotify.com/album/6KZOOhXgONg3akXnze2SpQ"
-      },
-      "artists": [
-        {
-          "name": "Lex",
-          "url": "https://open.spotify.com/artist/2io5BDTh5ybKbtvwkRAZZa"
-        }
-      ],
-      "duration_ms": 155526,
-      "name": "Aye Best Friend",
-      "url": "https://open.spotify.com/track/1j8dfLNsSezsfHE5XiJJv5"
     },
     {
       "added_at": "2023-08-16 04:07:32",
@@ -631,22 +759,6 @@
       "duration_ms": 218588,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
-    },
-    {
-      "added_at": "2023-08-16 04:07:32",
-      "album": {
-        "name": "Incognito",
-        "url": "https://open.spotify.com/album/1HtSnYl8tUvfs8pVgJN5xz"
-      },
-      "artists": [
-        {
-          "name": "Raine",
-          "url": "https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG"
-        }
-      ],
-      "duration_ms": 206117,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/3emj9uYlPymC9wCWPfqihi"
     },
     {
       "added_at": "2023-08-16 04:07:32",
@@ -823,22 +935,6 @@
       "duration_ms": 285000,
       "name": "Liar",
       "url": "https://open.spotify.com/track/4oOYJDT0D6cgHsIyoqQSXv"
-    },
-    {
-      "added_at": "2023-08-09 04:00:00",
-      "album": {
-        "name": "Where Do You Go?",
-        "url": "https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 147067,
-      "name": "Where Do You Go?",
-      "url": "https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1099,22 +1195,6 @@
     {
       "added_at": "2023-07-19 04:00:00",
       "album": {
-        "name": "Plastic Ring",
-        "url": "https://open.spotify.com/album/7H753DfuLX1FmbALEsllU9"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 226451,
-      "name": "Plastic Ring",
-      "url": "https://open.spotify.com/track/2YprJIzgd5mrlHrX57kOvO"
-    },
-    {
-      "added_at": "2023-07-19 04:00:00",
-      "album": {
         "name": "cup!",
         "url": "https://open.spotify.com/album/5gAQRdHjiDyojF1Er7FOwe"
       },
@@ -1273,22 +1353,6 @@
       "url": "https://open.spotify.com/track/7p1yFJ7tvOE8pwCbIB1ggu"
     },
     {
-      "added_at": "2023-06-21 03:57:25",
-      "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/2yczGhWquwpckpXCIXEbED"
-      },
-      "artists": [
-        {
-          "name": "Caly Bevier",
-          "url": "https://open.spotify.com/artist/5jMdkF29epK5cTCeMV17fh"
-        }
-      ],
-      "duration_ms": 132253,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/2INw6pVfZExHnTZ9CdrAI6"
-    },
-    {
       "added_at": "2023-06-14 04:00:00",
       "album": {
         "name": "The Greatest Story Never Told",
@@ -1319,70 +1383,6 @@
       "duration_ms": 178588,
       "name": "Window Shopping",
       "url": "https://open.spotify.com/track/63QD2rWbjJjwU9PK1YBOAd"
-    },
-    {
-      "added_at": "2023-06-29 19:43:15",
-      "album": {
-        "name": "brussels sprouts",
-        "url": "https://open.spotify.com/album/2M8QuyHdxAanzktiuKH8HB"
-      },
-      "artists": [
-        {
-          "name": "Samantha Jean",
-          "url": "https://open.spotify.com/artist/3nYLMU5zjw4mzDt178Kz6G"
-        }
-      ],
-      "duration_ms": 184225,
-      "name": "brussels sprouts",
-      "url": "https://open.spotify.com/track/3RrKyh47VGMjKQls0iivoR"
-    },
-    {
-      "added_at": "2023-06-14 04:00:00",
-      "album": {
-        "name": "Pace",
-        "url": "https://open.spotify.com/album/035ay8AGmU0EPNrVxRD3wt"
-      },
-      "artists": [
-        {
-          "name": "CINDERINA",
-          "url": "https://open.spotify.com/artist/7b0H41BnZFcC3MdGUz4qYV"
-        }
-      ],
-      "duration_ms": 163285,
-      "name": "Pace",
-      "url": "https://open.spotify.com/track/58fOulniG4yXyEZLiSrLSf"
-    },
-    {
-      "added_at": "2023-06-14 04:00:00",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/6FXqTawC6dbEB4cq0RFIBF"
-      },
-      "artists": [
-        {
-          "name": "Till",
-          "url": "https://open.spotify.com/artist/6jb6i2O42Rn8es8RpBLRLa"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/4vXmVoQF1ngREaOZNx69Bf"
-    },
-    {
-      "added_at": "2023-06-14 04:00:00",
-      "album": {
-        "name": "Pretty Liar",
-        "url": "https://open.spotify.com/album/762iPRhy1mLxs87TqlZK9l"
-      },
-      "artists": [
-        {
-          "name": "ken xox",
-          "url": "https://open.spotify.com/artist/2rCLvGhv0bvkab7jniDTBU"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Pretty Liar",
-      "url": "https://open.spotify.com/track/2YSB7QmNnUpvs4aowHjTjy"
     },
     {
       "added_at": "2023-06-07 12:22:16",

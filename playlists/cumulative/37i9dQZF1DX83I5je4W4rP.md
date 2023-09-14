@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-260 songs - 15 hr 40 min
+261 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,13 +78,14 @@
 | [Endless Summer](https://open.spotify.com/track/3pQpVawEKfVPBwj8RDdgfD) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Endless Summer](https://open.spotify.com/album/2FWsrjGA1kLgzNURoAGX5E) | 3:25 | 2023-07-28 |  |
 | [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 | 2021-12-10 |  |
 | [Everyday People \(Remix with B\-Real & G.Love\)](https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Everyday People \(Remix with B\-Real & G\. Love\)](https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz) | 3:45 | 2021-12-10 |  |
-| [Everyone Need Love \(with Surfer Girl\)](https://open.spotify.com/track/3QO9GEmkPeqdRMh0Tdf95Q) | [Coyote Island](https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz), [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Everyone Need Love \(with Surfer Girl\)](https://open.spotify.com/album/3jNCx0r3O3vZpAggBtM4Ew) | 3:23 | 2023-04-17 |  |
+| [Everyone Need Love \(with Surfer Girl\)](https://open.spotify.com/track/3QO9GEmkPeqdRMh0Tdf95Q) | [Coyote Island](https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz), [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Everyone Need Love \(with Surfer Girl\)](https://open.spotify.com/album/3jNCx0r3O3vZpAggBtM4Ew) | 3:23 | 2023-04-17 | 2023-09-14 |
 | [Fade Away](https://open.spotify.com/track/6dawVZplfCunQlfVHYCgKa) | [Arise Roots](https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH) | [Fade Away](https://open.spotify.com/album/7jYy1Ueym5wdvKx6BLAjEx) | 4:59 | 2021-12-10 | 2022-07-29 |
 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 | 2022-02-04 |  |
 | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 | 2022-06-14 | 2022-11-17 |
 | [Fantasy](https://open.spotify.com/track/6SuGGyzKWlmyLwXIYZA6ov) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Summer Mixtape](https://open.spotify.com/album/6O4uH6QxqSUfIgYsXB4cMa) | 3:19 | 2023-05-19 | 2023-08-12 |
 | [Fear](https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Fear](https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7) | 3:36 | 2021-12-10 | 2022-07-26 |
 | [Feels Like Home \(with Shwayze\)](https://open.spotify.com/track/54yeE5wI4gQwB1974fmMLV) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [Feels Like Home \(with Shwayze\)](https://open.spotify.com/album/1EupTp6D2JbgUgfM8bQ3S9) | 3:11 | 2021-12-10 | 2022-07-29 |
+| [Feels Right](https://open.spotify.com/track/0xqKiPNtARmiviseWIQj2z) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Noon](https://open.spotify.com/album/1rwkJG8Fx6r2bA0ZFc4FYU) | 2:47 | 2023-07-28 |  |
 | [Fire On Your House](https://open.spotify.com/track/7AYvZwW5W3beUA6mLO8MKe) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Fire On Your House](https://open.spotify.com/album/3g7NOaCdpZgXCGlHRIKi2B) | 3:44 | 2021-12-10 | 2022-07-29 |
 | [Florida Showers](https://open.spotify.com/track/5foyWXMRbfSkz7CLuCbNm9) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7), [Leilani Wolfgramm](https://open.spotify.com/artist/1CJqIxlYOwcuIZAzfhfnZj) | [Florida Showers](https://open.spotify.com/album/3sy47AtfZLZ1TuBdUnk1ee) | 4:05 | 2021-12-10 | 2022-07-29 |
 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2022-07-06 |  |

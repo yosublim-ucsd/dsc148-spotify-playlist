@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,689 likes - 101 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,695 likes - 101 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 100 | [Garbage Baby](https://open.spotify.com/track/0wP9VTET9EAnZOFN6PDBzP) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [Garbage Baby](https://open.spotify.com/album/6gBXVHW4ZFpfGWJyM3xax9) | 4:25 |
 | 101 | [與愛無關 \(劇集《七時吉祥》自愛勇氣曲\)](https://open.spotify.com/track/0SVP6Ws01w946iBsHepY4Y) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [與愛無關](https://open.spotify.com/album/3jq3wU32NdZDqjvYqijI2V) | 3:46 |
 
-Snapshot ID: `MCw0Zjk2MTE1NDIwMjEyNDRjMTVlMzQ1NzlkMDNlMjUwY2VkNGQxMjll`
+Snapshot ID: `MCxiOGM3MWM3NWMwMTEzMjEyOTVkOWEzMzVkNTMzMTcyYWE3OTRlM2Q5`

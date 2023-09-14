@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-147 songs - 8 hr 2 min
+150 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [100](https://open.spotify.com/track/1i0OA7qz1PQkX01TeR8Ua8) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 1:47 | 2023-04-01 | 2023-06-02 |
 | [2023 FLOW](https://open.spotify.com/track/3BcqRnsndjbzXARO1cuQJT) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2023 FLOW](https://open.spotify.com/album/4OJpmHAuQ4O8bB7e2HTdDw) | 5:34 | 2023-03-29 | 2023-04-17 |
 | [36](https://open.spotify.com/track/24uSxern7HZJupb1fGqLuQ) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:58 | 2023-03-29 | 2023-04-17 |
+| [808](https://open.spotify.com/track/5zq4bkV1NxcJ9pyZCXqE6l) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:09 | 2023-09-13 |  |
 | [Aaj Kya Karu?](https://open.spotify.com/track/5fWTE8vJR97JJmqjyhGli4) | [Shuman](https://open.spotify.com/artist/37RVI9e6Cg0mE3QZ3aDcpd) | [Aaj Kya Karu?](https://open.spotify.com/album/33lk0F1GAKHxbKCGMAgZZl) | 3:02 | 2023-04-01 | 2023-04-17 |
 | [ABBU](https://open.spotify.com/track/6XQZXteMzrGkV3ogDLmf2R) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:49 | 2023-03-29 | 2023-07-21 |
 | [Akela](https://open.spotify.com/track/7kgNsbE5PjQq1eqinaZvEN) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Akela](https://open.spotify.com/album/1PqapJIkqEoL6CudXe6Rzd) | 4:03 | 2023-03-29 | 2023-04-17 |
@@ -64,6 +65,7 @@
 | [Gang](https://open.spotify.com/track/7t7osq9vb9bQG5iN5J9WHx) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Stunnah Beatz](https://open.spotify.com/artist/0qtrkagnaYxnByLorZ1dzl) | [Gang](https://open.spotify.com/album/5Gn8zttLWDIDP1sRjij8np) | 2:50 | 2023-08-04 |  |
 | [GANGNUM](https://open.spotify.com/track/5jjF4AbQaA7mTZyGjK5aLo) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:50 | 2023-03-29 | 2023-04-17 |
 | [GHAM](https://open.spotify.com/track/3k1WE3i06G4xQb7ZrOWF15) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [GHAM](https://open.spotify.com/album/2ERqJtsLSUW44zqdAs4ixM) | 3:03 | 2023-04-04 | 2023-07-21 |
+| [Ghummi Ghummi](https://open.spotify.com/track/6NmOh0O40DecD1xCJSuf7p) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:12 | 2023-09-13 |  |
 | [Glacier Gang](https://open.spotify.com/track/4oPPeiS1itm0FKJxRzEG8m) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 2:13 | 2023-04-01 | 2023-06-02 |
 | [Glitch](https://open.spotify.com/track/6AkmSJKHHyI07I1qLOVMVu) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 3:30 | 2023-03-29 | 2023-04-17 |
 | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/track/0fRmEv74VclQ4DFi4RVi5a) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Jizzy](https://open.spotify.com/artist/0Eou17pQD8Wd8sqQnoIOQ4) | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/album/4o7G62VPpg3RE9unGYrFSF) | 3:23 | 2023-03-31 | 2023-07-21 |
@@ -107,6 +109,7 @@
 | [Mar Jaayega](https://open.spotify.com/track/4IkkAPhs4otYakD7FAYSqv) | [Dhruv Sthetick](https://open.spotify.com/artist/4g8Z4if0DrwN5H83ZGpZ44), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Mar Jaayega](https://open.spotify.com/album/1LojtEahZCJwHFFClFp1iz) | 4:03 | 2023-03-29 | 2023-07-21 |
 | [Masroor](https://open.spotify.com/track/4fKz9mqdGS6pqhv0F1VjGj) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Katoptris](https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI) | [Masroor](https://open.spotify.com/album/28lPquTGiDRyQtWD1Wt9pJ) | 3:00 | 2023-07-04 |  |
 | [Mazze Me](https://open.spotify.com/track/3K08GyP1TOm2Cl8uiXdKEJ) | [Hellac](https://open.spotify.com/artist/2VMayBYkzi84MFU7SAUBwH) | [Mazze Me](https://open.spotify.com/album/6gyv6Ae7By40RVl3Wb7E61) | 4:32 | 2023-03-29 | 2023-04-25 |
+| [Meri Jaan](https://open.spotify.com/track/390f3txdKIeV7cCv0thgOB) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:01 | 2023-09-13 |  |
 | [Mic Naal](https://open.spotify.com/track/1SLyCkYNyrG97uxhoTBmJa) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [H$](https://open.spotify.com/artist/6BX0k14TnSKrto2FyXiakW) | [Mic Naal](https://open.spotify.com/album/3HHbnXG28SluMAf6vg1rYO) | 2:56 | 2023-05-09 | 2023-06-02 |
 | [My Time](https://open.spotify.com/track/1Y5D5ru6mwruztcdnnk2XB) | [B\-Deep](https://open.spotify.com/artist/5IeItPO4vwq7NdOA27VR7Y), [Rhymster](https://open.spotify.com/artist/3ZdzS4lByIrWU8bXbeDwnN) | [My Time](https://open.spotify.com/album/13HeMZSSyKhXyvEAA8C6fh) | 2:42 | 2023-03-29 | 2023-04-25 |
 | [Naina](https://open.spotify.com/track/0kdErH3y2RpZJXxsLmBWgf) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Naina](https://open.spotify.com/album/4psLiGQKUug3krI0RcKlZI) | 2:45 | 2023-03-29 | 2023-06-02 |

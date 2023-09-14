@@ -4,7 +4,7 @@
 
 > Crusin' is not a crime, it's a lifestyle!
 
-157 songs - 9 hr 6 min
+158 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [I'm Your Puppet](https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [James & Bobby Purify](https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK) | 2:58 | 2023-05-01 |  |
 | [Ilusión De Amor](https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b) | [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Ilusión De Amor](https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa) | 3:45 | 2023-05-01 |  |
 | [In The Rain](https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:29 | 2023-05-01 |  |
-| [In the Still of the Night](https://open.spotify.com/track/3Dd3FK9DSaoMoUKA5ZPVgw) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Presenting The 5 Satins](https://open.spotify.com/album/6cCH55Vq1UpCfHOFaVKegT) | 3:02 | 2023-05-01 |  |
+| [In the Still of the Night](https://open.spotify.com/track/3Dd3FK9DSaoMoUKA5ZPVgw) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Presenting The 5 Satins](https://open.spotify.com/album/6cCH55Vq1UpCfHOFaVKegT) | 3:02 | 2023-05-01 | 2023-09-14 |
 | [In The Still Of The Nite](https://open.spotify.com/track/5QEJbqvNNkFWzyF1l8d2Ci) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [In The Still Of The Nite](https://open.spotify.com/album/1isEKzUnMZ6UdXKYNznV4e) | 3:04 | 2023-05-01 | 2023-06-08 |
 | [It's Gonna Take a Miracle](https://open.spotify.com/track/6AeOM7N0rK3tYOINY2k5qy) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Best Of Deniece Williams: Gonna Take A Miracle](https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT) | 4:09 | 2023-05-01 | 2023-08-23 |
 | [It's Gonna Take a Miracle](https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Essential Deniece Williams \(The Columbia Years\)](https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv) | 4:10 | 2023-05-01 |  |
@@ -121,6 +121,7 @@
 | [Silly](https://open.spotify.com/track/3XrzApq8R10O6WwNwMw8t4) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Best Of Deniece Williams: Gonna Take A Miracle](https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT) | 5:57 | 2023-05-01 |  |
 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 | 2023-05-01 |  |
 | [Sitting In The Park](https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 3:14 | 2023-05-01 |  |
+| [Slow Walk](https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg) | [Sil Austin](https://open.spotify.com/artist/4ZER6Et93aVvfwzaiwjjbI) | [Swingsation: Sil Austin](https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa) | 2:39 | 2023-08-29 |  |
 | [Smile Now, Cry Later](https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R) | [Sunny & The Sunliners](https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO) | [Mr\. Brown Eyed Soul](https://open.spotify.com/album/35922ds56CsxFFO1qeCB64) | 1:59 | 2023-05-01 |  |
 | [Smile Now, Cry Later](https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF) | [Sunny Ozuna And Sunliners](https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69) | [Cameo Parkway Pop And Soul Gems Of 1966 Vol\. 4](https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8) | 2:00 | 2023-05-01 |  |
 | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE) | [The Vanguards](https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW) | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6) | 3:51 | 2023-05-01 |  |

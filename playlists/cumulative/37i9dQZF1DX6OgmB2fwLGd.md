@@ -2,7 +2,7 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> The soundtrack to the internet\. Cover: Lil Tecca
+> The soundtrack to the internet\. Cover: 310babii
 
 787 songs - 1 day 8 hr 29 min
 

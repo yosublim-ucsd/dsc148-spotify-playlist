@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > Please consider donating to Hawai'i Community Foundation's <a href="https://www.hawaiicommunityfoundation.org/maui\-strong?fbclid=IwAR13k\_bWcOzvA0EM6bF6CSmkSktK8G\[%E2%80%A6\]EzD6jXm7wvU2z18gYZVchaFYOyGe2pBhhcts&mibextid=Zxz2cZ">Maui Strong Fund</a> to provide financial resources quickly to those that have been impacted by the devastating wildfires on Maui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,535 likes - 63 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,638 likes - 63 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Place In The Sun](https://open.spotify.com/track/3dXFwE9yIXuotnjN7wsP2N) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 4:16 |
 | 2 | [Heha Waipiʻo](https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:36 |
-| 3 | [Funny Talk \(feat\. Fiji\)](https://open.spotify.com/track/2uwBFfhuVSgDVc7IWj2qe6) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Funny Talk](https://open.spotify.com/album/4YvX9t3HLTFnomTnOj5QOa) | 2:57 |
+| 3 | [Funny Talk \(with Fiji\)](https://open.spotify.com/track/2uwBFfhuVSgDVc7IWj2qe6) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Funny Talk](https://open.spotify.com/album/4YvX9t3HLTFnomTnOj5QOa) | 2:57 |
 | 4 | [Masese](https://open.spotify.com/track/6hs4GGBUTETtNC41YAdKQJ) | [Kapena](https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61) | [Destinations](https://open.spotify.com/album/6ZoPZ5dkmEhZSuWgIT2NIV) | 3:34 |
 | 5 | [Feel the Sunshine](https://open.spotify.com/track/6ExZ4vG23GsUgAATjdPxwg) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 2:58 |
 | 6 | [Round n Round \(feat\. Pepper & Kaleo Wassman\)](https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX) | [Vana Liya](https://open.spotify.com/artist/12GfQaPLWcOztNYsVL5wIV), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Round n Round](https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ) | 4:56 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 62 | [Whee Ha Swing](https://open.spotify.com/track/6tZkisNMGuSuaH6WTylYPi) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56) | 2:31 |
 | 63 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 |
 
-Snapshot ID: `MCwxYjAxNjg4MDkxYmViZGRhN2Q2OWFhZTlmMDM1M2I4ZTBlYjRjMmYz`
+Snapshot ID: `MCw4YmNjMmI4Nzc3MjhiZTc1NzEzYjQ5N2I5MmNlOGJmMjNlZjliNDZm`

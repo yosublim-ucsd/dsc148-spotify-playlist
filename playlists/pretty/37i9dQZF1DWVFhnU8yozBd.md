@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,621 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,650 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 55 | [Pree Me feat\. なかむらみなみ](https://open.spotify.com/track/6pH2lh0AXnDpPBWRbZZccu) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5) | [Pree Me / Get That Juice](https://open.spotify.com/album/4GKXVkZUsP66QecSY71kEg) | 3:07 |
 | 56 | [Amor en el Cielo](https://open.spotify.com/track/3aRG0ktXmISKj6InRRlVEa) | [Beni Life](https://open.spotify.com/artist/6Lw0rQu6WBi2B1W3XBfUoW) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/6hF1xbglHjBHYkv2FMtyiq) | 5:15 |
 | 57 | [Your Good Times Are Here](https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Your Good Times Are Here](https://open.spotify.com/album/6nEU8r105q0illnVY0ypDh) | 4:45 |
-| 58 | [9 Years \- DJ Koze Remix](https://open.spotify.com/track/5EXuw91HUQM28mjkhGO4eM) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [DJ Koze Presents Pampa, Vol\. 1](https://open.spotify.com/album/41nRW0aXlNZbhCikDqtFzV) | 10:00 |
+| 58 | [9 Years \- DJ Koze Remix](https://open.spotify.com/track/5EXuw91HUQM28mjkhGO4eM) | [Roman Flügel](https://open.spotify.com/artist/67S3oljivUiFIUKzPLYKej) | [DJ Koze Presents Pampa, Vol\. 1](https://open.spotify.com/album/41nRW0aXlNZbhCikDqtFzV) | 10:00 |
 | 59 | [Buttercup](https://open.spotify.com/track/6RfiWrAnIPxuWdMkZ1nALV) | [Peach](https://open.spotify.com/artist/5e6DBZg0HJywmjj9BX9iIN) | [Buttercup](https://open.spotify.com/album/7nsWGTBZzNXdqumFbKAorc) | 5:55 |
 | 60 | [Narcos.Is](https://open.spotify.com/track/2K4LQf66hzw9G3d8A0lZry) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Narcos.Is](https://open.spotify.com/album/3LWogSiWsssj9M1gavl40q) | 5:37 |
 | 61 | [Tjomme \- DJ Koze Remix](https://open.spotify.com/track/7lyaMqYrciQPhxH5wJYhL3) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Local Valley \(Deluxe\)](https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o) | 6:02 |
 | 62 | [Love Divide](https://open.spotify.com/track/2q1fb1ENmNiJAeosPZqAlC) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 4:29 |
-| 63 | [In the Dust of This Planet](https://open.spotify.com/track/1kgd7UZ66qP1i18SNubchS) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [DJ Koze Presents Pampa, Vol\. 1](https://open.spotify.com/album/41nRW0aXlNZbhCikDqtFzV) | 7:59 |
+| 63 | [In the Dust of This Planet](https://open.spotify.com/track/1kgd7UZ66qP1i18SNubchS) | [Axel Boman](https://open.spotify.com/artist/3qxrSwJcJG8XhOEqM1AyPD) | [DJ Koze Presents Pampa, Vol\. 1](https://open.spotify.com/album/41nRW0aXlNZbhCikDqtFzV) | 7:59 |
 | 64 | [Ne Noya \- Daphni Mix](https://open.spotify.com/track/5wah0uTpYKOSuHax1v4olL) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Cos\-Ber\-Zam](https://open.spotify.com/artist/30NndQQgXSx93VvAtlFQw4) | [Jiaolong](https://open.spotify.com/album/4MLv6PbCID5my2Dtya3iUd) | 5:36 |
 | 65 | [Bunny](https://open.spotify.com/track/6ap5AekhAt3k6e0zAknDyV) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 3:34 |
 | 66 | [Sun Phase \- Human Movement Remix](https://open.spotify.com/track/1NeG33plymBYofVlEftPu7) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Sun Phase](https://open.spotify.com/album/1imDuOv4CXSdHbyt6QA4JT) | 6:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 99 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 |
 | 100 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/0zKxARvuFIfUMx1MiuZaMR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/2OYcucJqPHC9paken1byEp) | 4:07 |
 
-Snapshot ID: `MCxjZWY1NTRmOGIyNmNmZGRlYWRmNzMzMmQ5ODk5ZWE2YzJlNTI5YTNk`
+Snapshot ID: `MCw1MTA3YTc3MjRmNmJhY2YzMTkzMjcxYjQxMGM0M2Q3MjkwYzU5MTI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Tu dúo favorito en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,081 likes - 105 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,406 likes - 105 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 13 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 |
 | 14 | [Pastel Con Nutella](https://open.spotify.com/track/2ksvWFIlW7QgXuvk2MA1FT) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Pastel Con Nutella](https://open.spotify.com/album/04fwnwi4UNEcXPCWmd4dU7) | 4:04 |
 | 15 | [Zona Caliente](https://open.spotify.com/track/3QeW2fc6jJsoh7rK926Lq7) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Zona Caliente](https://open.spotify.com/album/0pTEjQ7S1a4dMi6WcTWhDL) | 2:40 |
-| 16 | [PANAMÁ](https://open.spotify.com/track/7fz7HrFRF4y8YEe0duWTDW) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PANAMA](https://open.spotify.com/album/5965FckNzWypHw7yXNGd92) | 2:51 |
+| 16 | [PANAMÁ](https://open.spotify.com/track/7fz7HrFRF4y8YEe0duWTDW) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PANAMÁ](https://open.spotify.com/album/5965FckNzWypHw7yXNGd92) | 2:51 |
 | 17 | [El Amanecer](https://open.spotify.com/track/48H3BsuIXKMYRTuFtxkRhh) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Antezana 247 \(Deluxe Edition\)](https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH) | 3:17 |
 | 18 | [ME CONVIENE](https://open.spotify.com/track/6f2gN0m9L9SOlw0Y0ZLPCt) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [ME CONVIENE](https://open.spotify.com/album/472Rqdk26bvUO36E4ltzfU) | 2:27 |
 | 19 | [No Puedo](https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:55 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 104 | [Salsa Suprema](https://open.spotify.com/track/0A4F5SYr1vmvNJ9mdA7fJQ) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Salsa Suprema](https://open.spotify.com/album/7hKtv2HaJdDylmlykXCcEX) | 2:32 |
 | 105 | [FANTASTICO](https://open.spotify.com/track/4MXvgHbIRDW4iB4PmMvvJc) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:29 |
 
-Snapshot ID: `MCxlNzBjZmExMzgzYTYxNTAzZWEzMjlmZDA5OTE4NjU3YTQ5Mjg1NGMy`
+Snapshot ID: `MCw2YTE1ZTk0YWVmY2U5Y2Q4YjY1NjE4ODBkYzk3MWJkM2E2NDYxZjQ4`

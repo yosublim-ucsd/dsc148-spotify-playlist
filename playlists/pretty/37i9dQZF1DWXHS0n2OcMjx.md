@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,499 likes - 111 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,511 likes - 111 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 110 | [Sidewall](https://open.spotify.com/track/4l7jeahYuBbxTlc9L6G7nY) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Sidewall](https://open.spotify.com/album/0h9LLix6ntwKH349MCZP0j) | 2:12 |
 | 111 | [Ok](https://open.spotify.com/track/0Ta3thn7mF61y9uyLxL21H) | [Chris Keys](https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur) | [Detour](https://open.spotify.com/album/6YxutipFv8Lkuu5fpoDEPp) | 1:11 |
 
-Snapshot ID: `MCxiMzQ0ZDA1ZmNlM2FkMzNkYWNhNmYxZDgyOWNmOWU4ZmVlZDFlMTg1`
+Snapshot ID: `MCwzM2U0YjhiYjk5ZTk0NGYwNzNhOWNhYmNiMDQxNGFmZTI2Y2VhNzUz`
