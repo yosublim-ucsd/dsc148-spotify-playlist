@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "CAE CAE",
+        "url": "https://open.spotify.com/album/6mPQbY35GRyQ9m2cB1Ylq2"
+      },
+      "artists": [
+        {
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170484,
+      "name": "CAE CAE",
+      "url": "https://open.spotify.com/track/1KhKKVn2MCLxZ0q8HovXwv"
+    },
+    {
+      "album": {
         "name": "Calm Down",
         "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
       },
@@ -2202,7 +2220,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202012,
-      "name": "soso",
+      "name": "soso (with Ozuna)",
       "url": "https://open.spotify.com/track/4xy8o1WzpHwEEg0IOiU7rJ"
     },
     {

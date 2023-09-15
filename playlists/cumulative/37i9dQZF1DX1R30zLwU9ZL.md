@@ -4,12 +4,13 @@
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-67 songs - 3 hr 29 min
+68 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Good](https://open.spotify.com/track/5rTLetGFtJPn2PxK5z19xs) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [All Good](https://open.spotify.com/album/3LXpQ1wgl7EMYs8iJi9Kq5) | 2:32 | 2023-02-27 |  |
-| [ALONG THE WAY](https://open.spotify.com/track/1Vs6ls1E9OFuSt6yXsBjNY) | [Swayyvo](https://open.spotify.com/artist/2vd6N0yWTqEdvio3oCSfAt) | [ALONG THE WAY](https://open.spotify.com/album/5mjlZlgpbSxtRcVXH4tx7H) | 3:29 | 2023-02-27 |  |
+| [ALONG THE WAY](https://open.spotify.com/track/15p3C6IC6Jte9BZ5jlmEoS) | [Swayyvo](https://open.spotify.com/artist/2vd6N0yWTqEdvio3oCSfAt) | [Alone In Noise \(Deluxe\)](https://open.spotify.com/album/3uABf0F7qxIGbpWKRga5ml) | 3:29 | 2023-02-27 |  |
+| [ALONG THE WAY](https://open.spotify.com/track/1Vs6ls1E9OFuSt6yXsBjNY) | [Swayyvo](https://open.spotify.com/artist/2vd6N0yWTqEdvio3oCSfAt) | [ALONG THE WAY](https://open.spotify.com/album/5mjlZlgpbSxtRcVXH4tx7H) | 3:29 | 2023-02-27 | 2023-09-15 |
 | [Bad](https://open.spotify.com/track/3og1zOOPN0zMsJtQgcgmit) | [Amber Ryann](https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT) | [A SIGN OF THE TIMES \(Collection\)](https://open.spotify.com/album/2C4dfY6sAJXuA0euglHYTg) | 2:44 | 2023-02-27 |  |
 | [Blow](https://open.spotify.com/track/1bhZHfBsOmNplhDuP9KBVX) | [Clips X Ahoy](https://open.spotify.com/artist/2yz7NBc6Rygnm6X765eXEQ), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Kapoh](https://open.spotify.com/artist/6zmjY4utOtTz5N4Q1PdTVC) | [Blow](https://open.spotify.com/album/3hocdluYW45ShmjyFqZCTr) | 2:48 | 2023-02-27 |  |
 | [Boppin](https://open.spotify.com/track/1ZDP9FNfY3we4AzOxMj3vZ) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB) | [Abhi Vs Kato](https://open.spotify.com/album/7x2mennGJ74CsnR6YMyZqy) | 2:40 | 2023-02-27 |  |

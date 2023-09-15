@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > you too have the opportunity to put Olivia Rodrigo and flyingfish in the same playlist\. Slow Pulp is on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,608 likes - 104 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,882 likes - 104 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

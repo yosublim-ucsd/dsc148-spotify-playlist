@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Arcy Drive \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,042 likes - 125 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,088 likes - 125 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 119 | [Rorschach](https://open.spotify.com/track/0p1Uo9bQhK4uUfLCVhaKQf) | [Secondhand Sound](https://open.spotify.com/artist/7F5gkuNk8gKIYIQtXJNFAw) | [Rorschach](https://open.spotify.com/album/4fuNiaOlWl5i9QoL4X6C7N) | 3:55 |
 | 120 | [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 |
 | 121 | [The Power](https://open.spotify.com/track/0a5fTiH4xSCrnePP16HaTV) | [Diners](https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp) | [DOMINO](https://open.spotify.com/album/1GcgVIOWktZwAEHh7RKENo) | 2:32 |
-| 122 | [spiral](https://open.spotify.com/track/7M0dr4u7mOvBXZchosvilZ) | [untitled halo](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [spiral](https://open.spotify.com/album/7B5kjHvuXhUU54QdVuA1ry) | 2:15 |
+| 122 | [spiral](https://open.spotify.com/track/7M0dr4u7mOvBXZchosvilZ) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [spiral](https://open.spotify.com/album/7B5kjHvuXhUU54QdVuA1ry) | 2:15 |
 | 123 | [Moon Knight](https://open.spotify.com/track/6uX2EzpYn73MgcpCjQC1oe) | [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Moon Knight](https://open.spotify.com/album/2gF9fBwCIgUTygJblP78br) | 2:27 |
 | 124 | [Olly Carp](https://open.spotify.com/track/2VspudiJVujvSewaidcfKZ) | [HYLA](https://open.spotify.com/artist/7hpxHWdnM6cECjtgqMiWOo) | [Olly Carp](https://open.spotify.com/album/09tgHx4T78MhsW4XP0GKte) | 4:35 |
 | 125 | [Bored](https://open.spotify.com/track/3axRguzEmNU9dDMI6mXk7f) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Bored](https://open.spotify.com/album/0pLdIbrh0ss5wQOIAwqn4A) | 3:04 |
 
-Snapshot ID: `MCw3YmQ1ODYyYTMzNTdlZDVhYzBlZTNlNzk0MDcwMDZmZGVmZDc4NzUz`
+Snapshot ID: `MCwxZjcxY2VhZjdiM2E3YTdkNGE3ZDkxYTk4ZGIxM2FkYzI2ZmEyNzM2`

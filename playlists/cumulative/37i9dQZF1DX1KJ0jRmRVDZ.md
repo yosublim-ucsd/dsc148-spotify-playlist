@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-821 songs - 1 day 22 hr 56 min
+822 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [アイデンティティ](https://open.spotify.com/track/6XREfc9wtfsmrod7iHVyz4) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [アイデンティティ](https://open.spotify.com/album/7ABk4YwEoiYyzrJJ85MHjF) | 2:41 | 2022-10-06 | 2022-10-08 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-11 |  |
 | [アイロニー](https://open.spotify.com/track/1JoQ0Iyq02AT0H6QuOZL1j) | [SHIROIRO](https://open.spotify.com/artist/0m4yOZKtpZQZqJLeUunwW8) | [アイロニー](https://open.spotify.com/album/41PIdEyCaAZCIWn6nwUScI) | 2:53 | 2023-03-09 | 2023-03-25 |
-| [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-01-05 |  |
+| [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-01-05 | 2023-09-15 |
 | [アイ独リ論 \-self cover\-](https://open.spotify.com/track/72SQo5lOWxjx0QmVR45kwv) | [ノラ](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj) | [アイ独リ論 \-self cover\-](https://open.spotify.com/album/5fApnTEkwBPHQZKToboLqw) | 2:56 | 2022-06-28 | 2022-06-30 |
 | [アオイナツ](https://open.spotify.com/track/4zUesyooUI2QpxAetqDWgT) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [アオイナツ](https://open.spotify.com/album/4AAnOSns0SjRqE7BB6WmB9) | 4:03 | 2022-07-21 | 2022-07-23 |
 | [アオイハル](https://open.spotify.com/track/5SAM5ms9HkCUcOFE7Cfib5) | [ミセカイ](https://open.spotify.com/artist/0CPZbUqRC7ZymVB0SKsMIi) | [アオイハル](https://open.spotify.com/album/6pJUfEsJ7a3ExT5modeFbM) | 2:58 | 2022-09-20 | 2022-09-22 |
@@ -396,6 +396,7 @@
 | [エウレカ](https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [エウレカ](https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz) | 3:04 | 2023-06-20 |  |
 | [エリート \- self cover](https://open.spotify.com/track/5BKr54q65XKLe3ZSU7gsMJ) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [エリート \(Self Cover\)](https://open.spotify.com/album/0AoQARqFCT8XiO0kVKdTAl) | 2:48 | 2022-07-07 | 2022-07-26 |
 | [エンカウント](https://open.spotify.com/track/7M2q38oWzSc9ISkOgORbry) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0) | [エンカウント](https://open.spotify.com/album/2J1XFeQyBGm29ZN6vBnDxu) | 3:35 | 2022-06-09 | 2022-07-26 |
+| [エンド≒ハッピー](https://open.spotify.com/track/7lphMxxARQakdKCRMI6W8l) | [Syudenmagiwa Online.](https://open.spotify.com/artist/5jvcz5lJW4ohuzA9KPqUUu) | [エンド≒ハッピー](https://open.spotify.com/album/0gbL2v3NSXy0IAskNThGKX) | 3:22 | 2023-09-14 |  |
 | [エンドロール](https://open.spotify.com/track/0eYRGRVfD26DOp0NlJDZ0W) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [エンドロール](https://open.spotify.com/album/2ygdQqOXwp9jbC73fiXfpA) | 3:56 | 2022-06-09 | 2022-07-27 |
 | [オキナグサ](https://open.spotify.com/track/2qBLhZN1JSp54KpQrjxcC5) | [ゼロイチ](https://open.spotify.com/artist/4zHKxwZe1ZfJG644W4gt3m) | [オキナグサ](https://open.spotify.com/album/1u8WZWGRWz2EzTAm3am8VY) | 3:06 | 2022-06-14 | 2022-07-28 |
 | [オトズレ](https://open.spotify.com/track/05AFt9UzXwm9aCHaE2ID33) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [オトズレ](https://open.spotify.com/album/5dOnzydB4X6U3JSf7Sna0b) | 2:44 | 2022-06-09 | 2022-06-12 |

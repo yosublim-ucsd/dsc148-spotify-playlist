@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2?si=UhHlCfaQTmeXGi\-XvTkm7w">Dayo Bello</a>\. Updates every Wednesday.
 
-1,716 songs - 3 day 16 hr 17 min
+1,717 songs - 3 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,7 +862,8 @@
 | [like this.](https://open.spotify.com/track/1u06UpwEtMpKZM0t2sNBlB) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [like this.](https://open.spotify.com/album/3Ekhh7ssCTsnvLbAibEhXa) | 2:19 | 2023-06-30 | 2023-08-26 |
 | [Lily Apart](https://open.spotify.com/track/38k2sOqsDYjWz13DlxshlW) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Lily Apart \(Live\)](https://open.spotify.com/album/2mYYoJsSsp3Y7NhVHledjJ) | 2:47 | 2022-11-30 | 2023-01-12 |
 | [Lily Apart](https://open.spotify.com/track/6EECRcDjI5034NQestBztm) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Peace + Harmony](https://open.spotify.com/album/6zi5m2AW0m14vtgwlOEM3H) | 2:47 | 2022-01-12 | 2022-03-17 |
-| [Limbo](https://open.spotify.com/track/4BMhR515OiK2TII7qzQujj) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/5pXEHD47zKV9KyUcEAuRlV) | 2:45 | 2023-08-09 |  |
+| [Limbo](https://open.spotify.com/track/2CxwqktUwLHo0XtgMaI9Qc) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/22PJnohZYZdtqexRDkX6Qs) | 2:45 | 2023-08-09 |  |
+| [Limbo](https://open.spotify.com/track/4BMhR515OiK2TII7qzQujj) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/5pXEHD47zKV9KyUcEAuRlV) | 2:45 | 2023-08-09 | 2023-09-15 |
 | [Limbs](https://open.spotify.com/track/3EpI50QA1hVSLO4SuX6Hbw) | [Phoenix James](https://open.spotify.com/artist/4ccuoNDrKJ85JUWxl5HJfP) | [Limbs](https://open.spotify.com/album/791ADbltDSB3uaNzedBEKg) | 2:38 | 2023-01-11 | 2023-03-04 |
 | [Link Up](https://open.spotify.com/track/22Lpeq9oezftwqZQ3p5L9v) | [Brianna Knight](https://open.spotify.com/artist/5CnW6JHWxmeApnMuuYxw6O) | [Link Up](https://open.spotify.com/album/3fYWkX4JhKpwSbCnZuuFmm) | 2:48 | 2022-07-27 | 2022-10-15 |
 | [Lions & Cowards](https://open.spotify.com/track/1cC2yM0BbDKlKCjQneWHg7) | [Modha](https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK), [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Lions & Cowards](https://open.spotify.com/album/68GvB7vE1ylJ56WIyAhNe3) | 3:17 | 2023-01-21 | 2023-03-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj?si=4PYdAH_wR5SmcoCmfS6nAw\">Thuto The Human</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=G6AEvZczSDK-lh0B7fbO1w\">MaWhoo</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -574,6 +574,36 @@
       "duration_ms": 416321,
       "name": "Abalele",
       "url": "https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl"
+    },
+    {
+      "album": {
+        "name": "Hakuna Mathata",
+        "url": "https://open.spotify.com/album/5WsgpaaHCVDm0Mn1Dllm2Q"
+      },
+      "artists": [
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Visca",
+          "url": "https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380368,
+      "name": "Abanye Abantwana",
+      "url": "https://open.spotify.com/track/2fMkKYUP9g8Lafn7p8ruvA"
     },
     {
       "album": {
@@ -8448,7 +8478,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 407870,
       "name": "Hamba Nawe",
       "url": "https://open.spotify.com/track/1Eruga1ZvIQcLvc6tbYSTq"
@@ -8642,6 +8672,36 @@
       "duration_ms": 414236,
       "name": "Hayi",
       "url": "https://open.spotify.com/track/5OPN2F25uifTNGZvLIoFgj"
+    },
+    {
+      "album": {
+        "name": "Hayi Baleka (feat. Riky Lenyora & Tman Xpress)",
+        "url": "https://open.spotify.com/album/4zagb2cqNnooGqXeHqvOHw"
+      },
+      "artists": [
+        {
+          "name": "TNK MusiQ",
+          "url": "https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        },
+        {
+          "name": "Riky Lenyora",
+          "url": "https://open.spotify.com/artist/27gE77IpEy2fJgWB1sW9UD"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402853,
+      "name": "Hayi Baleka (feat. Riky Lenyora & Tman Xpress)",
+      "url": "https://open.spotify.com/track/0HAawzskNEhW90xDhQ02nW"
     },
     {
       "album": {
@@ -9734,6 +9794,48 @@
       "duration_ms": 435442,
       "name": "Impilo",
       "url": "https://open.spotify.com/track/4Wnh8bWSMCRmGYvER8Va7u"
+    },
+    {
+      "album": {
+        "name": "Impilo (feat. 2woBunnies, MaWhoo, Leandra.Vert, Toby Franco, Gilano & Sponge 101)",
+        "url": "https://open.spotify.com/album/1FucaSpVFZw4SgDwUROAPs"
+      },
+      "artists": [
+        {
+          "name": "Marlode & Owams",
+          "url": "https://open.spotify.com/artist/3SvH5xQsfneCQ1rPf2DwPm"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+        },
+        {
+          "name": "Gilano",
+          "url": "https://open.spotify.com/artist/7Je13BxXv6qrZxzIc77Caa"
+        },
+        {
+          "name": "Leandra.Vert",
+          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
+        },
+        {
+          "name": "Sponge 101",
+          "url": "https://open.spotify.com/artist/1mdkPsdg5pHdPDikWWu2uq"
+        },
+        {
+          "name": "Toby Franco",
+          "url": "https://open.spotify.com/artist/4TIry72leguyMNcNYc6bqR"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364285,
+      "name": "Impilo (feat. 2woBunnies, MaWhoo, Leandra.Vert, Toby Franco, Gilano & Sponge 101)",
+      "url": "https://open.spotify.com/track/6XovuCMLz24dExiEnAs3VY"
     },
     {
       "album": {
@@ -13417,6 +13519,44 @@
     },
     {
       "album": {
+        "name": "Made Under The Spirit",
+        "url": "https://open.spotify.com/album/4OK0avS8zRJb58Swcm6AOJ"
+      },
+      "artists": [
+        {
+          "name": "Cyfred",
+          "url": "https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4"
+        },
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "Snenaah",
+          "url": "https://open.spotify.com/artist/0XrzCMumeor5KgeMJyevA6"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Soa Mattrix",
+          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358429,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/7MEP2GQc506uFOr1p4M5We"
+    },
+    {
+      "album": {
         "name": "Langa Elihle",
         "url": "https://open.spotify.com/album/5xq1asll3chTkXF5ggDGEf"
       },
@@ -15707,6 +15847,36 @@
     },
     {
       "album": {
+        "name": "The First Chance",
+        "url": "https://open.spotify.com/album/3iZoeRmekwxCKX6in9tmLQ"
+      },
+      "artists": [
+        {
+          "name": "MellowBone",
+          "url": "https://open.spotify.com/artist/1Ij7YLGnj8pNM353d7tcb6"
+        },
+        {
+          "name": "Josiah De Disciple",
+          "url": "https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte"
+        },
+        {
+          "name": "Kya Lamii",
+          "url": "https://open.spotify.com/artist/2yPjdD7KUmsvEYeNCHg4Li"
+        },
+        {
+          "name": "Kiddy Soul",
+          "url": "https://open.spotify.com/artist/1w9sQpeXXWtZlExIX6twAk"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420033,
+      "name": "Mpelaviki",
+      "url": "https://open.spotify.com/track/3fqb0D5BQQAUahhLHkUtVX"
+    },
+    {
+      "album": {
         "name": "Mpho",
         "url": "https://open.spotify.com/album/22dK4rQ6pF6NekdOuxcNhA"
       },
@@ -16970,6 +17140,36 @@
       "duration_ms": 383000,
       "name": "Ngikunika Uthando",
       "url": "https://open.spotify.com/track/52nJW2DTnPP4hzUWkxhYaO"
+    },
+    {
+      "album": {
+        "name": "The Chosen",
+        "url": "https://open.spotify.com/album/0jSP9AZiByh7VuWAsuFIRV"
+      },
+      "artists": [
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Deep Sen",
+          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
+        },
+        {
+          "name": "King Talkzin",
+          "url": "https://open.spotify.com/artist/7DQzmJMUQdAndKhnw7oFSg"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372976,
+      "name": "Ngilimele",
+      "url": "https://open.spotify.com/track/1cuL0U39TgY6KLZ8yHgexM"
     },
     {
       "album": {
@@ -20602,7 +20802,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 416316,
       "name": "Shona Kwelanga (feat. Mawhoo, Da Muziqal Chef & Kabza De Small)",
       "url": "https://open.spotify.com/track/4VrYIDyFUN4IYU3wtjbF8p"
@@ -20928,7 +21128,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 343414,
       "name": "Sisekakeni Babies (feat. Skillz & RudeBoyz)",
       "url": "https://open.spotify.com/track/30KX5p3u1xN8TF83eGY0bQ"
@@ -24054,10 +24254,32 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 424883,
       "name": "TJEYA",
       "url": "https://open.spotify.com/track/3RY7Xboz7N9wErI4WhT7Z4"
+    },
+    {
+      "album": {
+        "name": "For Your Soul (Extended Edition)",
+        "url": "https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf"
+      },
+      "artists": [
+        {
+          "name": "Megadrumz",
+          "url": "https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319369,
+      "name": "Tjina",
+      "url": "https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6"
     },
     {
       "album": {
@@ -26248,7 +26470,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 431464,
       "name": "uWeeeh 2.0",
       "url": "https://open.spotify.com/track/5edhx25VjIxX98TpNx4kRW"
@@ -26368,7 +26590,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 348357,
       "name": "Uyavala",
       "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
@@ -27976,7 +28198,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 381941,
       "name": "yey",
       "url": "https://open.spotify.com/track/37ISMEYWqhRHcPEitHn8Er"
@@ -28204,7 +28426,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 454369,
       "name": "Zinyanya Zami",
       "url": "https://open.spotify.com/track/0B0UNUK5N6bqtMYQBGd6oD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Chetes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,076 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,088 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Mega High](https://open.spotify.com/track/1WMsoTfHfsOQLkfQkkvTn8) | [VILLAGRÁN](https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY) | [Mega High](https://open.spotify.com/album/2FQlaNod5tCo6wz8XARrTV) | 2:40 |
 | 50 | [Ese Día Piensa en Mí](https://open.spotify.com/track/1Eud9Z86w0FRPJr6kx3N0E) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Ese Día Piensa en Mí](https://open.spotify.com/album/5AvsAK2fKnUzDLSp1iKek2) | 3:20 |
 
-Snapshot ID: `MCxlNWMwOTUwOGFhMjExZTQzMTBhNjQ2YzcwZDcyNzE0YmFhNWY2ZjFk`
+Snapshot ID: `MCxkMWFhM2ViZjE3ZmU1ZWZhMDRiZDdjNWRkY2Y0NjVkMTM3NzIxYzNj`

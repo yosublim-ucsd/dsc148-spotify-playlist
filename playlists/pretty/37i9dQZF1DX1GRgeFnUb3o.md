@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,464 likes - 61 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,534 likes - 61 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sub Pop Rock City \- Remastered](https://open.spotify.com/track/555HrUYusY22ERx2xVpzCz) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Screaming Life/Fopp](https://open.spotify.com/album/5wStnX0uKJRKlWX4rifrSb) | 3:15 |
-| 2 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 |
+| 2 | [About A Girl](https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:48 |
 | 3 | [Greatest Gift](https://open.spotify.com/track/2DcJKKN4xlBrVm0HJo5wBV) | [Scratch Acid](https://open.spotify.com/artist/219VCiRViG60EbPiocSWJp) | [The Greatest Gift](https://open.spotify.com/album/35NI0HtkhQ2PAvCYZET9gb) | 2:11 |
 | 4 | [Nothing to Prove](https://open.spotify.com/track/350KDuUQBQWOntj6ULgpiB) | [Wipers](https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2) | [Rarities](https://open.spotify.com/album/2QQmpJEVqlSshdxY0aU1gG) | 2:03 |
 | 5 | [Kill Yr\. Idols](https://open.spotify.com/track/7h11bXXfAeNvvNDIGno9XW) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Confusion Is Sex \(Plus Kill Yr\. Idols\)](https://open.spotify.com/album/0WCESPeSMPElpEddTE4KeG) | 2:51 |
 | 6 | [Gila](https://open.spotify.com/track/08CYTJc8cnoKdHm6VIypnx) | [U\-Men](https://open.spotify.com/artist/22WypD8tTI2wltNMQJZhj6) | [U\-Men](https://open.spotify.com/album/6myhq8w2t4kskkRDxPLHNR) | 2:18 |
-| 7 | [Hunted Down](https://open.spotify.com/track/49svNTJ8LUOZwGrbbvXYMI) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Telephantasm \(Deluxe Edition\)](https://open.spotify.com/album/7H1360Hm13rF0nEzs1FS8v) | 2:40 |
+| 7 | [Hunted Down \- Remastered](https://open.spotify.com/track/1ptag71oeiVJPesvnXuhtc) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Screaming Life/Fopp](https://open.spotify.com/album/5wStnX0uKJRKlWX4rifrSb) | 2:42 |
 | 8 | [Crystals](https://open.spotify.com/track/5f4rnmr9CE7WAHJ3kwvwvj) | [Heroic Doses](https://open.spotify.com/artist/55cwzGJ7U8LrsMptP70w2I) | [Heroic Doses](https://open.spotify.com/album/65UjYVeMrh0D73suWDZmre) | 2:52 |
 | 9 | [Real Men \(Live\)](https://open.spotify.com/track/5SNZLoIt9mPRm3upkWYTHR) | [Savage Republic](https://open.spotify.com/artist/6axnf0hQccT5LWiCewXaPQ) | [Live Trek 1985\-1986](https://open.spotify.com/album/2hVs6bCKNP2xDS450JEFnU) | 3:21 |
 | 10 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 | 15 | [Touch Me I'm Sick](https://open.spotify.com/track/2x5FYXo5rL4Phmn3UPdkK3) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Superfuzz Bigmuff \(Deluxe Edition\)](https://open.spotify.com/album/318b6Is2MnqkuL079NnPko) | 2:32 |
 | 16 | [Be Yr Mama](https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:52 |
 | 17 | [Pins And Needles](https://open.spotify.com/track/5ywYQGUrKmP3EqI8dsez6j) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa) | 3:20 |
-| 18 | [Nothing To Say](https://open.spotify.com/track/2cBRjgIudea4YWPbSlmOzt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [A\-Sides](https://open.spotify.com/album/0WPxPzpdh9Df1YIoqcyunS) | 3:56 |
+| 18 | [Nothing to Say \- Remastered](https://open.spotify.com/track/5wZWabIUTt4K3xmsv1d67X) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Screaming Life/Fopp](https://open.spotify.com/album/5wStnX0uKJRKlWX4rifrSb) | 3:57 |
 | 19 | [The Last Song](https://open.spotify.com/track/2y8H6JFMSZ1QXhoaiBajjK) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 3:38 |
 | 20 | [Shiloh Town](https://open.spotify.com/track/3toUKg94zULWCg8byL9nlq) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [I'll Take Care of You](https://open.spotify.com/album/0NlNOxlL0jM5kKo0AJ7duq) | 3:21 |
 | 21 | [Every Shining Time You Arrive](https://open.spotify.com/track/7trTRyNQJwpEUzAEdjLFPF) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [How It Feels To Be Something On](https://open.spotify.com/album/7lUd8epbP1tQlpxwZfCSZv) | 4:13 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 | 60 | [Good Enough \- Remastered](https://open.spotify.com/track/2wcpa5PSqWRRx2dQhxDjE4) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Every Good Boy Deserves Fudge \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/12SPtVu2JnT2I6D3RNKMX4) | 3:26 |
 | 61 | [Marijuana](https://open.spotify.com/track/2eTUrr93UBSj7qcZcUOKuw) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Smoke 'em if You Got 'em](https://open.spotify.com/album/1kg7rs0ZaIECwU2WCLS58w) | 4:49 |
 
-Snapshot ID: `MCwyZDgyZjM2ZjM0MGQwYmI3ZDc3ODI2ZDBmZTg5MjY1OTBhNDU3YTQx`
+Snapshot ID: `MCw4NWFiYmJlY2Y5NGU3YWJmMGM3YzMzZGY4NjM2NjBhNmEyNjgwNDQ4`

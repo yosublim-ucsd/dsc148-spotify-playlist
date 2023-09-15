@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. MPH
 
-199 songs - 12 hr 29 min
+200 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,8 +160,9 @@
 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 | 2022-04-15 |  |
 | [Put It On Me \(feat\. Mila Falls\)](https://open.spotify.com/track/1VO8LC2PyM13d1LxE6KLSc) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Put It On Me \(feat\. Mila Falls\)](https://open.spotify.com/album/23vTWjk8a8kz5XaH9Z2Z2U) | 3:10 | 2022-04-15 | 2023-08-11 |
 | [Really Tight](https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L) | [Danny Dennett](https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ), [Sando](https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8) | [Really Tight](https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ) | 4:04 | 2022-05-20 | 2022-07-24 |
-| [Redlight](https://open.spotify.com/track/01Kbrkw0CyQv1f6BJ6EprF) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Redlight](https://open.spotify.com/album/6sYxW0BRWV06CQhMchiuHI) | 4:09 | 2023-04-04 |  |
+| [Redlight](https://open.spotify.com/track/01Kbrkw0CyQv1f6BJ6EprF) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Redlight](https://open.spotify.com/album/6sYxW0BRWV06CQhMchiuHI) | 4:09 | 2023-04-04 | 2023-09-15 |
 | [Redlight](https://open.spotify.com/track/2vJ707HOqiCUmvuk2OsdDo) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Redlight](https://open.spotify.com/album/7CZx4YfWKTwCnSUpduSX0o) | 4:09 | 2022-07-14 | 2023-05-19 |
+| [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 | 2023-08-24 |  |
 | [Renegade](https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Renegade](https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8) | 2:34 | 2022-10-28 |  |
 | [Repeat](https://open.spotify.com/track/3Sexd25qv3yWod8ONwMbrM) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Repeat](https://open.spotify.com/album/2AEe70g4XiNVguRpGEy9Iq) | 3:33 | 2022-04-15 | 2022-07-17 |
 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 | 2022-04-15 |  |

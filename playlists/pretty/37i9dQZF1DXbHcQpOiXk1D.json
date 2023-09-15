@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 296519,
+  "num_followers": 296585,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTlmZWJmMWVkM2ZiMTgzMGMwY2M0M2U0YWEwMjMwMmY4Nzk1MjYx",
+  "snapshot_id": "MCw1Y2RlYWEyNzRiNGM2MzljNjQ1OGM5MzhiYWI2MTJkZTkxM2IwYjIx",
   "tracks": [
     {
       "added_at": "2023-09-08 10:01:20",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Mountains, Trees and Seas",
-        "url": "https://open.spotify.com/album/16xRAk41n6Qpmz0kput949"
+        "name": "Everything Is Going to Be OK",
+        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
       },
       "artists": [
         {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
         }
       ],
-      "duration_ms": 306093,
-      "name": "Mountains, Trees and Seas",
-      "url": "https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD"
+      "duration_ms": 76659,
+      "name": "You're Stronger Than You Think",
+      "url": "https://open.spotify.com/track/045wxsluiQXkFHTHbASfQ8"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Everything Is Going to Be OK",
-        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
+        "name": "Mountains, Trees and Seas",
+        "url": "https://open.spotify.com/album/16xRAk41n6Qpmz0kput949"
       },
       "artists": [
         {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
         }
       ],
-      "duration_ms": 76659,
-      "name": "You're Stronger Than You Think",
-      "url": "https://open.spotify.com/track/045wxsluiQXkFHTHbASfQ8"
+      "duration_ms": 306093,
+      "name": "Mountains, Trees and Seas",
+      "url": "https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
+        "name": "An Ever Changing View",
+        "url": "https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 392146,
+      "name": "An Ever Changing View",
+      "url": "https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
         "name": "The Way You Look At Me",
         "url": "https://open.spotify.com/album/0f9Rw9re4jbEx7vhueDfCt"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 287992,
       "name": "Everything Is Going to Be OK",
       "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
-        "name": "An Ever Changing View",
-        "url": "https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 392146,
-      "name": "An Ever Changing View",
-      "url": "https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
+        "name": "Leader",
+        "url": "https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 215413,
+      "name": "Leader",
+      "url": "https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 255264,
       "name": "CODE",
       "url": "https://open.spotify.com/track/7mf1jqnFX2jgZg9bgK8V6r"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
-        "name": "Leader",
-        "url": "https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm"
-      },
-      "artists": [
-        {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
-        }
-      ],
-      "duration_ms": 215413,
-      "name": "Leader",
-      "url": "https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Lean In",
-        "url": "https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 318675,
-      "name": "Lean In",
-      "url": "https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "No Good For Me",
         "url": "https://open.spotify.com/album/7oEjRlVoheANCN72tlbYgS"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 282785,
       "name": "No Good For Me",
       "url": "https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "Lean In",
+        "url": "https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 318675,
+      "name": "Lean In",
+      "url": "https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Friday Film Special",
-        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 249675,
-      "name": "Friday Film Special",
-      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "Woe Is Me",
         "url": "https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 220001,
       "name": "Woe Is Me",
       "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "Friday Film Special",
+        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "Friday Film Special",
+      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 237507,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
         "name": "Annie's Tune",
         "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
       },
@@ -1103,6 +1127,70 @@
       "duration_ms": 216000,
       "name": "your intuition is your friend - radio edit",
       "url": "https://open.spotify.com/track/6rioSjyjKCmkM52gZjJluM"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "COME ON NOW",
+        "url": "https://open.spotify.com/album/5YiopkfBl8jJzfdSMFbOOs"
+      },
+      "artists": [
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Charlie Allen",
+          "url": "https://open.spotify.com/artist/5dSqAfjpdsxryD5P1n8W7t"
+        },
+        {
+          "name": "MckNasty",
+          "url": "https://open.spotify.com/artist/5oqD6uqqP1v8eGpuOrQ462"
+        },
+        {
+          "name": "Luke Smith",
+          "url": "https://open.spotify.com/artist/28wbPbrQPRxwBaGdfCmo9f"
+        },
+        {
+          "name": "Joey Grant",
+          "url": "https://open.spotify.com/artist/2el0vRQYD1T2Xetlf08H06"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "COME ON NOW",
+      "url": "https://open.spotify.com/track/3QD4S81ddphPVQaMGLc8Sl"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 352633,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1155,70 +1243,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 352633,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 389240,
-      "name": "Feet Down South",
-      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
-        "name": "COME ON NOW",
-        "url": "https://open.spotify.com/album/5YiopkfBl8jJzfdSMFbOOs"
-      },
-      "artists": [
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "Charlie Allen",
-          "url": "https://open.spotify.com/artist/5dSqAfjpdsxryD5P1n8W7t"
-        },
-        {
-          "name": "MckNasty",
-          "url": "https://open.spotify.com/artist/5oqD6uqqP1v8eGpuOrQ462"
-        },
-        {
-          "name": "Luke Smith",
-          "url": "https://open.spotify.com/artist/28wbPbrQPRxwBaGdfCmo9f"
-        },
-        {
-          "name": "Joey Grant",
-          "url": "https://open.spotify.com/artist/2el0vRQYD1T2Xetlf08H06"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "COME ON NOW",
-      "url": "https://open.spotify.com/track/3QD4S81ddphPVQaMGLc8Sl"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "My Voice",
         "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
       },
@@ -1259,30 +1283,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 237507,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
       },
@@ -1295,6 +1295,26 @@
       "duration_ms": 220853,
       "name": "We Give Thanks",
       "url": "https://open.spotify.com/track/6FIREyvQivhLO6wQ9BdHwn"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Rust (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1367,22 +1387,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 308600,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "Calling",
         "url": "https://open.spotify.com/album/2Duy6YtXSEmkUCW9mLby8V"
       },
@@ -1399,18 +1403,26 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Fragile Eyes",
-        "url": "https://open.spotify.com/album/2G9G69vAI4Ek21msHECI0E"
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
       },
       "artists": [
         {
-          "name": "Raquel Martins",
-          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
         }
       ],
-      "duration_ms": 264870,
-      "name": "Fragile Eyes",
-      "url": "https://open.spotify.com/track/0JTZDtBqZTCQZlVER9Z9E3"
+      "duration_ms": 319040,
+      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
+      "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
     }
   ],
   "unique_name": "Jazz UK",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: White Shoes & The Couples Company",
+  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: Rock N Roll Mafia",
   "name": "Memorindie",
   "tracks": [
     {
@@ -272,6 +272,24 @@
       "duration_ms": 247000,
       "name": "Awas Polizei!",
       "url": "https://open.spotify.com/track/2bPsnsvezXrMzck5HROMZ5"
+    },
+    {
+      "album": {
+        "name": "Rnrm",
+        "url": "https://open.spotify.com/album/64WKwndg13a7CH0ULLGauO"
+      },
+      "artists": [
+        {
+          "name": "Rock N Roll Mafia",
+          "url": "https://open.spotify.com/artist/6EK3t5PY9iBCzjujQFwYVc"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385411,
+      "name": "Batu Karas",
+      "url": "https://open.spotify.com/track/4ktxvxJxfTXKyzK6ziqlrY"
     },
     {
       "album": {
@@ -744,6 +762,24 @@
       "duration_ms": 283480,
       "name": "Kita Akan Bertemu di Sana",
       "url": "https://open.spotify.com/track/67WXgb9g8eZARad1QRMMpQ"
+    },
+    {
+      "album": {
+        "name": "Dawai Damai (Remastered)",
+        "url": "https://open.spotify.com/album/6yyn1YUqApIVOnEGubFIFL"
+      },
+      "artists": [
+        {
+          "name": "Agrikulture",
+          "url": "https://open.spotify.com/artist/1DjUWo5Izdu6U9lCZWUBwv"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249240,
+      "name": "Kompor Meledug",
+      "url": "https://open.spotify.com/track/1IrWazmEizd0SgFw9GWpZ8"
     },
     {
       "album": {

@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 190769,
       "name": "back to me",
       "url": "https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur"
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 149324,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
@@ -1766,6 +1766,24 @@
       "duration_ms": 212636,
       "name": "Empty House",
       "url": "https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew"
+    },
+    {
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184746,
+      "name": "Empty Room",
+      "url": "https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc"
     },
     {
       "album": {
@@ -5250,7 +5268,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
@@ -5728,6 +5746,24 @@
       "duration_ms": 158000,
       "name": "this is love",
       "url": "https://open.spotify.com/track/7clqHQSGvuEZzTpMM812wu"
+    },
+    {
+      "album": {
+        "name": "this is what autumn feels like",
+        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219909,
+      "name": "this is what autumn feels like",
+      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
     },
     {
       "album": {
@@ -7046,6 +7082,24 @@
       "duration_ms": 291633,
       "name": "\u660e\u65e5\u6674\u308c\u308b\u304b\u306a",
       "url": "https://open.spotify.com/track/39vwAWSRjy6YrG38a32Hoq"
+    },
+    {
+      "album": {
+        "name": "\u661f\u3092\u898b\u308b\u4eba",
+        "url": "https://open.spotify.com/album/20Rf0NcJXvBmWIk8bhmWhb"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308518,
+      "name": "\u661f\u3092\u898b\u308b\u4eba",
+      "url": "https://open.spotify.com/track/40D6bVwmUK7RqigjAnmcmW"
     },
     {
       "album": {

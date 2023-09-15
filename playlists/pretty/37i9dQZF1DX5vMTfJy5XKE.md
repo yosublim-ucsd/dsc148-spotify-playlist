@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,361 likes - 166 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,347 likes - 166 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 38 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1tKcX8hU4OeH8D5SwFB1Uk) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/5NR85nnHSR3UtFL0LwBQfz) | 3:21 |
 | 39 | [At Christmas](https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [At Christmas](https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1) | 2:22 |
 | 40 | [Santa](https://open.spotify.com/track/6tApaHH8Tp58OQZIU9lFch) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Santa](https://open.spotify.com/album/5GVLfhHDPRPpHrUCMEY3vI) | 3:00 |
-| 41 | [Cry Christmas](https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp) | 3:17 |
+| 41 | [Cry Christmas](https://open.spotify.com/track/3BI6drkCxHUnWBKpvfBfLB) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/0SgFUjYNZq7DUIsNLPbJ0n) | 3:17 |
 | 42 | [Breaking up for Christmas](https://open.spotify.com/track/0Ymg8uQRy7ZRSolNHWmTb2) | [Bonnie Stewart](https://open.spotify.com/artist/6TSBE8yAeu3DmFrFiNsTzf), [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [Breaking up for Christmas](https://open.spotify.com/album/01I1O4IZXn5gzziLzD1VRA) | 2:38 |
 | 43 | [Might As Well Have Coal \(with Baby Tate\)](https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382) | 3:57 |
 | 44 | [Daddy's Kissing Santa Claus](https://open.spotify.com/track/5pagGK3C5ZXWii8jNadpf7) | [Havanna Winter](https://open.spotify.com/artist/3QWgcNcKtobgBgbhGoQXDC) | [Daddy's Kissing Santa Claus](https://open.spotify.com/album/0QQ1coSdVAAy67iH1gS7CQ) | 2:06 |
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 150 | [Last Christmas](https://open.spotify.com/track/1t1jP68mqJzqnjU7RtkoIo) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Last Christmas](https://open.spotify.com/album/7iFQc0QyPxE8ZCvTJqmCXH) | 3:20 |
 | 151 | [dear santa](https://open.spotify.com/track/0kAllljYVZIuntRxyw9KOF) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dear santa](https://open.spotify.com/album/5895JDGi3kkWEvkBf8LE7z) | 3:17 |
 | 152 | [long distance christmas](https://open.spotify.com/track/46jGv8HeBxL5ZcL5rjV2EG) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [long distance christmas](https://open.spotify.com/album/3ZFZN7pMgE5GYGHTz7VxfL) | 2:56 |
-| 153 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1CZLZWd7TrQFGdhWjgkZTC) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp) | 2:16 |
+| 153 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3F97vMT76l6x2a4sIJd37K) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/0SgFUjYNZq7DUIsNLPbJ0n) | 2:16 |
 | 154 | [Blue Christmas](https://open.spotify.com/track/10BOzxObaY3OigrOWW6aiO) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Blue Christmas](https://open.spotify.com/album/4RC2Li1E4Z7w2N8BpnCAAr) | 2:13 |
 | 155 | [have yourself a merry little christmas](https://open.spotify.com/track/4cSWTXNjRAlQMlbjQGvvlA) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [have yourself a merry little christmas](https://open.spotify.com/album/5dDL7p4I5XRYBisnLxecVC) | 3:04 |
 | 156 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 165 | [Last Christmas](https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Last Christmas](https://open.spotify.com/album/6gWCpXtACkNTSchRJtD3oo) | 2:48 |
 | 166 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
 
-Snapshot ID: `MCwwZDBjZWY5NzhmMTY1YTIxY2I3OTJiZGNmNTEzNzAxN2VmNzcyODM4`
+Snapshot ID: `MCxjNDFiZmNkODMzMzMyYWEzZmE3MWQ2NWY3MjExYjk2ODY4ZWE5YTcz`

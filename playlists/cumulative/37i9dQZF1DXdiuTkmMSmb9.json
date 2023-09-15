@@ -1981,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "For The Night",
+        "url": "https://open.spotify.com/album/0ASCqVRLWy32K1otTkIVNw"
+      },
+      "artists": [
+        {
+          "name": "Alutondo",
+          "url": "https://open.spotify.com/artist/0vuNvwaPfkZ3YvGR8pQvwa"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "For The Night",
+      "url": "https://open.spotify.com/track/5uvjfyCmTkTdDDZTsfmGIS"
+    },
+    {
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/2tQp7yltog7HsOGuKlvMxE"
       },
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 229339,
       "name": "Hallelujah (feat. Lojay)",
       "url": "https://open.spotify.com/track/0Zb004lei42rERugapZaSt"
@@ -5021,6 +5039,24 @@
     },
     {
       "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/1w0t2M46PMA76fvR5rMEbo"
+      },
+      "artists": [
+        {
+          "name": "Amaal Nuux",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148717,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/7gV7gStLkm7ybb2WZhhksp"
+    },
+    {
+      "album": {
         "name": "Restart",
         "url": "https://open.spotify.com/album/4YhAhOpM344lNiSqHfyHzR"
       },
@@ -5142,6 +5178,24 @@
       "duration_ms": 200209,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/5JHMXUWq4FxSuZndpq3wKI"
+    },
+    {
+      "album": {
+        "name": "RUN IT BACK",
+        "url": "https://open.spotify.com/album/0iF2T4UjvpnWsLwcRqouIJ"
+      },
+      "artists": [
+        {
+          "name": "TheWesternGuide",
+          "url": "https://open.spotify.com/artist/3Ps1KUmU2DZIpboms9Bozn"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191469,
+      "name": "RUN IT BACK",
+      "url": "https://open.spotify.com/track/4MPuNveSlDYUvEnsaojDY2"
     },
     {
       "album": {
@@ -5298,6 +5352,28 @@
       "duration_ms": 171428,
       "name": "Sempe",
       "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "album": {
+        "name": "Shayo",
+        "url": "https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197577,
+      "name": "Shayo",
+      "url": "https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa"
     },
     {
       "album": {
@@ -6415,6 +6491,36 @@
     },
     {
       "album": {
+        "name": "PALMWINE DIARIES VOL.1",
+        "url": "https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Unfortunately",
+      "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"
+    },
+    {
+      "album": {
         "name": "Unload (Reload)",
         "url": "https://open.spotify.com/album/77JPvfvZvPLiT7SOM8jTQU"
       },
@@ -6944,6 +7050,32 @@
       "duration_ms": 207727,
       "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
       "url": "https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce"
+    },
+    {
+      "album": {
+        "name": "Yo Fam!",
+        "url": "https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161111,
+      "name": "Yo Fam!",
+      "url": "https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE"
     },
     {
       "album": {

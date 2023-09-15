@@ -1804,10 +1804,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 179400,
       "name": "If I Had a Hammer",
       "url": "https://open.spotify.com/track/4JMl6POnS2IPBpVVwDl06P"
+    },
+    {
+      "album": {
+        "name": "Hammering it!",
+        "url": "https://open.spotify.com/album/1nlXqpZxlfU3zXyH80IP81"
+      },
+      "artists": [
+        {
+          "name": "Trini Lopez",
+          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179827,
+      "name": "If I Had a Hammer",
+      "url": "https://open.spotify.com/track/2U1t5kdqbSRuiecDAf3yTz"
     },
     {
       "album": {

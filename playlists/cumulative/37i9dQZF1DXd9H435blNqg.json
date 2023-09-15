@@ -2319,6 +2319,24 @@
     },
     {
       "album": {
+        "name": "True Love Is Dead",
+        "url": "https://open.spotify.com/album/3iL3BH10DzqzBhmvxjkKhi"
+      },
+      "artists": [
+        {
+          "name": "Beware Of Darkness",
+          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/2Dnr5QCVLG0jPrC7XweC7E"
+    },
+    {
+      "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/0JQSivRdAZw6cCwtdl3f4I"
       },
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 180480,
       "name": "Walls",
       "url": "https://open.spotify.com/track/3QFAO7ZN8wxBl5eEEwgZ6a"

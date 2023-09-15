@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 162443,
+  "num_followers": 162599,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDFiNGY3MzE4NTg3MDNiZDNhNjc2NTE3Mzk3ZWQwYTUxYmJkNmRl",
+  "snapshot_id": "MCxlYThiYmYyMzY1YjE4NGI2MzUwMzkzN2JlZDkyYjYwYTRjYTBkYTEy",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Piece Of Art",
+        "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        }
+      ],
+      "duration_ms": 196751,
+      "name": "Piece Of Art",
+      "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "L'owe L'owe",
         "url": "https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 449149,
       "name": "L'ow\u00e8 L'ow\u00e8",
       "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Piece Of Art",
-        "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
-      },
-      "artists": [
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        }
-      ],
-      "duration_ms": 196751,
-      "name": "Piece Of Art",
-      "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Hope In Balance",
-        "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
+        "name": "Froozen / Balloons",
+        "url": "https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT"
       },
       "artists": [
         {
-          "name": "S\u00e3o Miguel",
-          "url": "https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq"
-        },
-        {
-          "name": "Sebastian Reynoso",
-          "url": "https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX"
+          "name": "Hosini",
+          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
         }
       ],
-      "duration_ms": 278796,
-      "name": "Hope In Balance",
-      "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
+      "duration_ms": 234744,
+      "name": "Balloons",
+      "url": "https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X"
     }
   ],
   "unique_name": "Melodic & Euphoric",

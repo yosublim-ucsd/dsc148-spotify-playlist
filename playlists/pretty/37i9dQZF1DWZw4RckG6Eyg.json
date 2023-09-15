@@ -1,12 +1,12 @@
 {
   "description": "75 ways to cope with your Indie fomo. Pixey on cover.",
-  "num_followers": 9959,
+  "num_followers": 9960,
   "original_name": "Indie songs from 2022 you may have missed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2FmOWM0ZWNmNjZkZjI2M2FjMjIzYzUzMWI1NWRiNTE3NzM3N2Fl",
+  "snapshot_id": "MCwwYTY4NWU3YzRjNWVmYjMxODM4ZWRkNmJhZjNlODRjNmM1N2Q5YjMy",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 191471,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "maracuya massage",
-      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Blackphemy",
-        "url": "https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW"
-      },
-      "artists": [
-        {
-          "name": "Yb.",
-          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
-        }
-      ],
-      "duration_ms": 204771,
-      "name": "Blackphemy",
-      "url": "https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Why Do I Keep You?",
         "url": "https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 240922,
       "name": "Why Do I Keep You?",
       "url": "https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Blackphemy",
+        "url": "https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW"
+      },
+      "artists": [
+        {
+          "name": "Yb.",
+          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
+        }
+      ],
+      "duration_ms": 204771,
+      "name": "Blackphemy",
+      "url": "https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Valley",
+        "url": "https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD"
+      },
+      "artists": [
+        {
+          "name": "Racoma",
+          "url": "https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Valley",
+      "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "High-Speed Kissing",
         "url": "https://open.spotify.com/album/1y5Kw8PeJnz99ctZzWFrlU"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 188369,
       "name": "High-Speed Kissing",
       "url": "https://open.spotify.com/track/6ljkm9d4eYGQFYX7PxR6h5"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Valley",
-        "url": "https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD"
-      },
-      "artists": [
-        {
-          "name": "Racoma",
-          "url": "https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Valley",
-      "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Enjoy Your Stay",
-        "url": "https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk"
-      },
-      "artists": [
-        {
-          "name": "Hotel Fiction",
-          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
-        }
-      ],
-      "duration_ms": 190079,
-      "name": "Allure",
-      "url": "https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Weak Teeth",
         "url": "https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 203140,
       "name": "Things You Said",
       "url": "https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Enjoy Your Stay",
+        "url": "https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk"
+      },
+      "artists": [
+        {
+          "name": "Hotel Fiction",
+          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+        }
+      ],
+      "duration_ms": 190079,
+      "name": "Allure",
+      "url": "https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Se Eu Acordar",
-        "url": "https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o N\u00e3o",
-          "url": "https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC"
-        },
-        {
-          "name": "Lil Noon",
-          "url": "https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs"
-        }
-      ],
-      "duration_ms": 150540,
-      "name": "Se Eu Acordar",
-      "url": "https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Take Your Turn",
         "url": "https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 256500,
       "name": "Take Your Turn",
       "url": "https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Se Eu Acordar",
+        "url": "https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o N\u00e3o",
+          "url": "https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC"
+        },
+        {
+          "name": "Lil Noon",
+          "url": "https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs"
+        }
+      ],
+      "duration_ms": 150540,
+      "name": "Se Eu Acordar",
+      "url": "https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5"
     },
     {
       "added_at": "2022-11-30 13:45:00",

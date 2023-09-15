@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Young K) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: JUNG YONG HWA(\uc815\uc6a9\ud654)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -5722,7 +5722,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 206820,
       "name": "PIRI",
       "url": "https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69"
@@ -9368,6 +9368,24 @@
       "duration_ms": 278216,
       "name": "Youngblood (From The Original TV Show \"Begin Again Korea\") Ep.1-1",
       "url": "https://open.spotify.com/track/2hHfHsqusupS8iimTLpBVI"
+    },
+    {
+      "album": {
+        "name": "YOUR CITY",
+        "url": "https://open.spotify.com/album/2ey8EdjglcK5i167dwLCLp"
+      },
+      "artists": [
+        {
+          "name": "Jung Yong Hwa",
+          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216106,
+      "name": "Your City",
+      "url": "https://open.spotify.com/track/3nLUsvRPY4vQfTYFk9uEVp"
     },
     {
       "album": {

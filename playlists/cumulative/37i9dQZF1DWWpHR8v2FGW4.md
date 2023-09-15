@@ -4,7 +4,7 @@
 
 > Always come in 1st place.
 
-106 songs - 6 hr 18 min
+107 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Earthquake](https://open.spotify.com/track/7p10Admejdbz7aU8Bd8nQh) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [Earthquake](https://open.spotify.com/album/3N7z1ezQEDSV94VAa6OcU4) | 2:26 | 2022-04-01 | 2022-07-29 |
 | [Empty Bed](https://open.spotify.com/track/4CHDcWhqTsz53Ur9zmvHs8) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [Empty Bed](https://open.spotify.com/album/0rZHZsyJnQb0K0KV6vCdhi) | 3:34 | 2022-04-01 | 2022-05-13 |
 | [Eyes Low](https://open.spotify.com/track/4urIo6uuV3Dio7S0mEOjDn) | [Wismi](https://open.spotify.com/artist/6olEJwSdbJNOAfqY0RgOJ5) | [Eyes Low](https://open.spotify.com/album/47LNCjzVsiaoCBq1YEwcnc) | 3:16 | 2022-04-01 | 2022-07-29 |
-| [Factions \- Protostar Remix](https://open.spotify.com/track/7mXomNGE9DWPp071zTL2xI) | [Synova](https://open.spotify.com/artist/0nZkBPxczfHoKnG6SKOHFd), [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH) | [Factions \(Protostar Remix\)](https://open.spotify.com/album/5jmbuKF5FOa716i7slx7uB) | 4:09 | 2023-06-01 |  |
+| [Factions \- Protostar Remix](https://open.spotify.com/track/7mXomNGE9DWPp071zTL2xI) | [Synova](https://open.spotify.com/artist/0nZkBPxczfHoKnG6SKOHFd), [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH) | [Factions \(Protostar Remix\)](https://open.spotify.com/album/5jmbuKF5FOa716i7slx7uB) | 4:09 | 2023-06-01 | 2023-09-15 |
 | [Falkor's Return](https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ) | [Indecorum](https://open.spotify.com/artist/1nDQX7M3T8BvVi3bdCQyrm) | [Sanctus](https://open.spotify.com/album/4FPf6TQDTjuSKhz33YMJlh) | 3:00 | 2022-04-18 | 2022-08-18 |
 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 | 2022-04-01 |  |
 | [Feed The Addiction](https://open.spotify.com/track/1nqUi4wKalk5jFoFfQET2n) | [ILS](https://open.spotify.com/artist/5IS3dbDJPbnJBUEjQdJhPF) | [Bohemia](https://open.spotify.com/album/14Nq4D67l9s1biXa9t575G) | 4:38 | 2022-07-07 |  |
@@ -105,6 +105,7 @@
 | [This Feeling](https://open.spotify.com/track/2UZtyw4ItKKKB3Rw0sfWsG) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [This Feeling](https://open.spotify.com/album/2uB9v0HVBalbQLwlQpn1MH) | 4:21 | 2022-04-01 | 2022-11-08 |
 | [Tokyo Drift \(Fast & Furious\) \- From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA) | [Teriyaki Boyz](https://open.spotify.com/artist/7HBai5xymOxIWoMWvWshe1) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 4:15 | 2022-04-01 | 2022-05-13 |
 | [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 | 2022-06-17 |  |
+| [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 | 2023-09-05 |  |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2022-04-01 | 2023-02-10 |
 | [Vertigo](https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Vertigo](https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr) | 2:47 | 2022-04-01 | 2022-11-08 |
 | [Vex](https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Vex](https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML) | 3:55 | 2022-04-01 |  |

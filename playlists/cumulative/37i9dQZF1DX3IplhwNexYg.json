@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: Nieve Ella",
+  "description": "The best in current indie rock. Cover: NewDad",
   "name": "pulp",
   "tracks": [
     {
@@ -416,6 +416,24 @@
       "duration_ms": 188254,
       "name": "American Cockroach",
       "url": "https://open.spotify.com/track/20lrGXYjB5SF92sm8Abq7J"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/4ymSlc0IgdFvc61mLUKDbl"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199220,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v"
     },
     {
       "album": {
@@ -7168,7 +7186,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 226253,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7HwP0lytsnQo4MKdqfVQt2"

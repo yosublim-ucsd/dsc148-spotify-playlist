@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "AMINA",
+        "url": "https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "AMINA",
+      "url": "https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x"
+    },
+    {
+      "album": {
         "name": "amphetamine",
         "url": "https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN"
       },
@@ -17352,7 +17370,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 174138,
       "name": "what comes next (feat. 24hoursav & Dua Saleh)",
       "url": "https://open.spotify.com/track/5GFEVttbTjNIQxx7QAR90n"

@@ -1105,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "BUMPIN (with BLVK JVCK)",
+        "url": "https://open.spotify.com/album/7wsAdzdaGKfzkCE8kqjTLh"
+      },
+      "artists": [
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "BUMPIN (with BLVK JVCK)",
+      "url": "https://open.spotify.com/track/6JKyHmlmKDCEbudFvf9pB0"
+    },
+    {
+      "album": {
         "name": "Bunker Buster",
         "url": "https://open.spotify.com/album/41mKx6GIJU5WuxO6ucgvRa"
       },
@@ -3104,7 +3126,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 185571,
       "name": "Get It On",
       "url": "https://open.spotify.com/track/3Ho2FJutH67enqPLYc1K51"

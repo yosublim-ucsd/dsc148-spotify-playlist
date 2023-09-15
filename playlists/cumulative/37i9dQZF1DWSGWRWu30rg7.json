@@ -10891,6 +10891,24 @@
     },
     {
       "album": {
+        "name": "DORA, DORA",
+        "url": "https://open.spotify.com/album/4ExDDeQeeFVKiBNA0cPHuk"
+      },
+      "artists": [
+        {
+          "name": "Tacbo",
+          "url": "https://open.spotify.com/artist/5224c570dMiD896ZBEr7YW"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "DORA, DORA",
+      "url": "https://open.spotify.com/track/2Mwcvy4acEJu50hwLTXIZj"
+    },
+    {
+      "album": {
         "name": "Double Happiness (Freestyle)",
         "url": "https://open.spotify.com/album/415fpCbsmyIl1XDlxeErUt"
       },

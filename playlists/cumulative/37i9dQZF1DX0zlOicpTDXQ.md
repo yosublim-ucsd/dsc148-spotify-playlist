@@ -4,7 +4,7 @@
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-73 songs - 3 hr 39 min
+74 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Celebrations](https://open.spotify.com/track/3bY4lBXpfhVmQI4VHYQAjp) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 2:30 | 2022-11-18 | 2022-11-23 |
 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 | 2022-11-18 |  |
 | [Christmas in Connecticut with You \- From The Netflix Film "The Noel Diary"](https://open.spotify.com/track/3yg3hcZ6ld0vU6NAJ6yyF3) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [Christmas in Connecticut with You \(From The Netflix Film "The Noel Diary"\)](https://open.spotify.com/album/6l6uzqEi7IYHXogIHyioEe) | 3:16 | 2022-11-22 |  |
-| [Christmas Vacation](https://open.spotify.com/track/2UuwMH7KBuWlYYTk7JeK5F) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5) | 1:48 | 2022-11-18 |  |
+| [Christmas Vacation](https://open.spotify.com/track/2UuwMH7KBuWlYYTk7JeK5F) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5) | 1:48 | 2022-11-18 | 2023-09-15 |
 | [Christmas Without You](https://open.spotify.com/track/5dTaAzAttwilDZNwJuf6yN) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:54 | 2022-11-18 |  |
 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 | 2022-11-18 |  |
 | [Diamonds \(Shine Bright\)](https://open.spotify.com/track/04JchRaXdanKuxR1HRYzcm) | [Loni Lovato](https://open.spotify.com/artist/78zmh0WTNg87VyzbGxDoHu) | [The Mighty Thor: The Complete Fantasy Playlist \- Loni Lovato](https://open.spotify.com/album/49BZUDxAcjlCTRNcRF6QSo) | 3:45 | 2022-11-18 |  |
@@ -57,6 +57,7 @@
 | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/track/3pnmwhfvDzJtCVVpGug5Wo) | [Everly](https://open.spotify.com/artist/5QMHsP8RVHiuoiqhgOI6ud) | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/album/40XUWEzP3lS4i9jQzpAOOk) | 4:13 | 2022-11-18 |  |
 | [Presents Giving](https://open.spotify.com/track/0tBuMYiwCLfn7STyA1Smm6) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 2:40 | 2022-11-18 | 2022-11-23 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2022-11-18 | 2023-09-11 |
+| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2yxTGxTDbgcbMN0Ae102bn) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Rockin' Around The Christmas Tree/The Decca Christmas Recordings](https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U) | 2:06 | 2022-11-18 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2022-11-18 |  |
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/3zwjeUjzAm3rwojZNj05P6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sounds Of The Season](https://open.spotify.com/album/4iryAPVDKPc8OeXghdQhBd) | 4:27 | 2022-11-18 |  |
 | [Santa Knows Your Secrets](https://open.spotify.com/track/14WUlHavhcV5P5vzO6RgvP) | [Nightheart](https://open.spotify.com/artist/5sDp3kjXQBm84x86UcbHzd) | [Horselake Road](https://open.spotify.com/album/27dn8hCj3yiiqC1m7qOsrG) | 4:33 | 2022-11-18 |  |

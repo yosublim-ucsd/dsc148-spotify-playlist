@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-509 songs - 1 day 4 hr 49 min
+510 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Back to the Disco](https://open.spotify.com/track/3vmFjP7m0fofxuFIBwGulv) | [VIBE CHECK 95](https://open.spotify.com/artist/67QzxVC1luWKpKnnsCsknr) | [Late Night Love](https://open.spotify.com/album/01KYMllThciCdk1c2XrS6L) | 2:44 | 2022-08-12 | 2022-10-13 |
 | [Bambina](https://open.spotify.com/track/4JD33FONIVW5yF9peUhOgL) | [Bionsen](https://open.spotify.com/artist/5aQc4YLN2WrUtQpa6rjXVT) | [Bambina](https://open.spotify.com/album/28Nvju6iFn22tQ8jm5G2L4) | 3:54 | 2022-01-25 | 2022-07-07 |
 | [Barracuda](https://open.spotify.com/track/79N2zdoambD2gJWzxEV5Ah) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [Metro City](https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv) | 4:11 | 2021-12-08 | 2022-04-21 |
-| [BARSTRUCK](https://open.spotify.com/track/3mzwpTunBMBSgAa7S7I8Jx) | [That's Matt](https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo) | [BARSTRUCK](https://open.spotify.com/album/5cuXE2XJYs6BU8OhGuInWL) | 2:31 | 2023-07-18 |  |
+| [BARSTRUCK](https://open.spotify.com/track/3mzwpTunBMBSgAa7S7I8Jx) | [That's Matt](https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo) | [BARSTRUCK](https://open.spotify.com/album/5cuXE2XJYs6BU8OhGuInWL) | 2:31 | 2023-07-18 | 2023-09-15 |
+| [BARSTRUCK](https://open.spotify.com/track/5brPRu5B01j15YcmXDyM9l) | [That's Matt](https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo) | [BARSTRUCK](https://open.spotify.com/album/79cHDnPaAitEIvF6gyhGbM) | 2:32 | 2023-07-18 |  |
 | [Bbrown](https://open.spotify.com/track/21JcSs9Zkdc2kuNzoLBcbz) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Pleasure](https://open.spotify.com/album/0AMbhzgFEcmVj46N9TPGmU) | 3:38 | 2021-12-08 | 2022-07-22 |
 | [Been So Long](https://open.spotify.com/track/73x6Tbojr86Olrm6UDuW0g) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [CLUB 84](https://open.spotify.com/album/3fm8hub1lMcBTUsBEe4yhh) | 3:07 | 2023-07-18 |  |
 | [Before My Time](https://open.spotify.com/track/0mSKOjc2tvbAxw0agk2WrP) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Before My Time](https://open.spotify.com/album/0GMBFZ8LFLksl9uQyPyd6b) | 3:01 | 2022-11-04 | 2023-07-18 |

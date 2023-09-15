@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Baby Queen
 
-476 songs - 21 hr 55 min
+477 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [BAD B!TCH](https://open.spotify.com/track/1hQytzOArHdHZuFDRLLurh) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [BAD B!TCH](https://open.spotify.com/album/2X0N7b14wqy5XtkzXvmUgU) | 3:02 | 2022-09-16 | 2023-02-04 |
 | [BAD B!TCH](https://open.spotify.com/track/7tN1ARlynrlNNZN7UB9PPf) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [BAD B!TCH](https://open.spotify.com/album/2Qvht1jKHMmAWGDv0BSRCQ) | 3:02 | 2022-09-16 | 2022-10-13 |
 | [Bad Bitch](https://open.spotify.com/track/4BSv6txtXIBg44D9EHpifH) | [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Bad Bitch](https://open.spotify.com/album/6h9dGhDGp7IbnthobQ23xK) | 2:19 | 2022-07-01 | 2023-02-04 |
-| [BAD BITCH](https://open.spotify.com/track/5X83lDwpA03tST04pMfX4N) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/39w0IKP0nvtYOWZsg2JHXu) | 2:17 | 2023-07-14 |  |
+| [BAD BITCH](https://open.spotify.com/track/0ypgX9hLm9BEfJ7ldtFAgH) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:17 | 2023-08-18 |  |
+| [BAD BITCH](https://open.spotify.com/track/5X83lDwpA03tST04pMfX4N) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/39w0IKP0nvtYOWZsg2JHXu) | 2:17 | 2023-07-14 | 2023-09-15 |
 | [Bad Energy](https://open.spotify.com/track/1W3ufvaiblglNP1ohlDTob) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [The Character](https://open.spotify.com/album/7dAPAxXAFZPsBDiSJu1CUx) | 2:22 | 2022-07-29 | 2022-10-29 |
 | [Bad Game Of Telephone](https://open.spotify.com/track/1XlzvHH3NU2csyowpJcr6C) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [Bad Game Of Telephone](https://open.spotify.com/album/20Wa4xEz4oj4tG8n2CNN1s) | 3:05 | 2022-08-19 | 2022-10-08 |
 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 | 2022-10-28 | 2023-05-06 |

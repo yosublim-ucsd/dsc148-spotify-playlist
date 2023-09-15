@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 776197,
+  "num_followers": 776242,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjYxNjA0MjRhMDM2YzcyY2I2OWFiZjBiZWJkMzU2YWRjODMyY2U3",
+  "snapshot_id": "MCw0OWQ0Zjc3MGNiZWVkMjQ2NTU1ZGE4OGE5MWEzMDYwNmVlYTY0OTk1",
   "tracks": [
     {
       "added_at": "2023-08-24 15:10:34",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Begynnelse",
-        "url": "https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW"
-      },
-      "artists": [
-        {
-          "name": "Ester Ackerman",
-          "url": "https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg"
-        }
-      ],
-      "duration_ms": 190777,
-      "name": "Tillsammans",
-      "url": "https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Drommenes Verden",
         "url": "https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 199200,
       "name": "Drommenes Verden",
       "url": "https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Begynnelse",
+        "url": "https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW"
+      },
+      "artists": [
+        {
+          "name": "Ester Ackerman",
+          "url": "https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg"
+        }
+      ],
+      "duration_ms": 190777,
+      "name": "Tillsammans",
+      "url": "https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
+        "name": "Yalmi",
+        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
+      },
+      "artists": [
+        {
+          "name": "Merc La",
+          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Yalmi",
+      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
         "name": "Next to Nothing",
         "url": "https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 159250,
       "name": "Stargaze",
       "url": "https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
-        "name": "Yalmi",
-        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
-      },
-      "artists": [
-        {
-          "name": "Merc La",
-          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Yalmi",
-      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1"
-      },
-      "artists": [
-        {
-          "name": "En Orbita",
-          "url": "https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Arnofio",
         "url": "https://open.spotify.com/album/3GQ0dExzAfoddTSqpl6BLN"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 177000,
       "name": "Arnofio",
       "url": "https://open.spotify.com/track/4xXxZogRtkKgJZxutafFqA"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1"
+      },
+      "artists": [
+        {
+          "name": "En Orbita",
+          "url": "https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Nasal Bones",
-        "url": "https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y"
-      },
-      "artists": [
-        {
-          "name": "Sigmund Clyde",
-          "url": "https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Carnivoran",
-      "url": "https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Sobre las Nubes",
         "url": "https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 177600,
       "name": "Sobre las Nubes",
       "url": "https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Nasal Bones",
+        "url": "https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y"
+      },
+      "artists": [
+        {
+          "name": "Sigmund Clyde",
+          "url": "https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Carnivoran",
+      "url": "https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
-      },
-      "artists": [
-        {
-          "name": "Olivier Lupin",
-          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Perception",
-      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 168000,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
+      },
+      "artists": [
+        {
+          "name": "Olivier Lupin",
+          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq"
-      },
-      "artists": [
-        {
-          "name": "Leon Browder",
-          "url": "https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH"
-        }
-      ],
-      "duration_ms": 240527,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "396 Hz Peace and Tranquility",
         "url": "https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq"
+      },
+      "artists": [
+        {
+          "name": "Leon Browder",
+          "url": "https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH"
+        }
+      ],
+      "duration_ms": 240527,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
         "name": "Penumbra",
         "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 260038,
       "name": "Penumbra",
       "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
-        "name": "Jubran's Lake (432hz)",
-        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Jubran's Lake (432hz) - No Ambience",
-      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
+        "name": "Jubran's Lake (432hz)",
+        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Jubran's Lake (432hz) - No Ambience",
+      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
         "name": "Moonchild's First Flight",
         "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Rest Now",
-        "url": "https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7"
-      },
-      "artists": [
-        {
-          "name": "Gemma Casimaty",
-          "url": "https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Rest Now",
-      "url": "https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Aphelion",
         "url": "https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 200555,
       "name": "Aphelion",
       "url": "https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Rest Now",
+        "url": "https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7"
+      },
+      "artists": [
+        {
+          "name": "Gemma Casimaty",
+          "url": "https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Rest Now",
+      "url": "https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Partly Cloudy",
-        "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
-      },
-      "artists": [
-        {
-          "name": "Gazebo Clouds",
-          "url": "https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "Stars Above",
-      "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Atmospheres For Yoga And Meditation",
         "url": "https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 181000,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Partly Cloudy",
+        "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
+      },
+      "artists": [
+        {
+          "name": "Gazebo Clouds",
+          "url": "https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "Stars Above",
+      "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
+        "name": "Beyond Stillness",
+        "url": "https://open.spotify.com/album/4BI7KuAaWTzwtWo3uCO0c4"
+      },
+      "artists": [
+        {
+          "name": "Sperenza",
+          "url": "https://open.spotify.com/artist/0H36hdcwfQjbJUCkFLIxYJ"
+        }
+      ],
+      "duration_ms": 136041,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/3jmU2oX5JSzv8QzYSTJgxN"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -2003,22 +2019,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Beyond Stillness",
-        "url": "https://open.spotify.com/album/4BI7KuAaWTzwtWo3uCO0c4"
-      },
-      "artists": [
-        {
-          "name": "Sperenza",
-          "url": "https://open.spotify.com/artist/0H36hdcwfQjbJUCkFLIxYJ"
-        }
-      ],
-      "duration_ms": 136041,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/3jmU2oX5JSzv8QzYSTJgxN"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Bertrand of the Ringing",
         "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
       },
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Well Spent",
-        "url": "https://open.spotify.com/album/0csVx6TAPydWGWXoUpnHO6"
-      },
-      "artists": [
-        {
-          "name": "Asgeir Haugen",
-          "url": "https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Well Spent",
-      "url": "https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Cygnus A",
         "url": "https://open.spotify.com/album/0D4vISbqnNZPeEl9lEN2Dc"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 196875,
       "name": "Malin 1",
       "url": "https://open.spotify.com/track/49rlIN0XGY8jRlKgIBKvJe"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Well Spent",
+        "url": "https://open.spotify.com/album/0csVx6TAPydWGWXoUpnHO6"
+      },
+      "artists": [
+        {
+          "name": "Asgeir Haugen",
+          "url": "https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Well Spent",
+      "url": "https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
-        "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
-      },
-      "artists": [
-        {
-          "name": "Hana Maldonado",
-          "url": "https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
-      "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Enlightened",
         "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 226250,
       "name": "Enlightened",
       "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
+        "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
+      },
+      "artists": [
+        {
+          "name": "Hana Maldonado",
+          "url": "https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK"
+        }
+      ],
+      "duration_ms": 217250,
+      "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
+      "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Deep Steadiness",
-        "url": "https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX"
-      },
-      "artists": [
-        {
-          "name": "Winds Of Minds",
-          "url": "https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0"
-        }
-      ],
-      "duration_ms": 156793,
-      "name": "Deep Steadiness",
-      "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Alcyone",
         "url": "https://open.spotify.com/album/3ucA44AcStyBbX26Wl9HVl"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 236124,
       "name": "Alcyone",
       "url": "https://open.spotify.com/track/26DkvMBCB3RouU5R8psVXY"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Deep Steadiness",
+        "url": "https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX"
+      },
+      "artists": [
+        {
+          "name": "Winds Of Minds",
+          "url": "https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0"
+        }
+      ],
+      "duration_ms": 156793,
+      "name": "Deep Steadiness",
+      "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
     },
     {
       "added_at": "2023-08-24 15:10:34",

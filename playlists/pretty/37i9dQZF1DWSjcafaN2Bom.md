@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > The official playlist for Sex Education\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,087 likes - 259 songs - 16 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,168 likes - 259 songs - 16 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 64 | [He Hit Me](https://open.spotify.com/track/3dr0BgjYNMFip7l6n8YCYc) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend EP](https://open.spotify.com/album/3gj2WHR8SraEJm2SfEvGB2) | 4:23 |
 | 65 | [Rockwrok](https://open.spotify.com/track/4zkv4mcvjnY69HMNv0Zzl5) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ha! Ha! Ha!](https://open.spotify.com/album/2qglzVkWCBALdZ8JHMgJhT) | 3:34 |
 | 66 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 |
-| 67 | [Crimson & Clover \- Single Version; Mono](https://open.spotify.com/track/1qTfHUVPsZTnrmvwQrAQdW) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Crimson & Clover / Some Kind of Love](https://open.spotify.com/album/7D5t5lcmEzFyZcr8a1avmL) | 3:28 |
+| 67 | [Crimson and Clover \(Single Version\)](https://open.spotify.com/track/74ohdXevc7VsXl96ofi3Kn) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Celebration: The Complete Roulette Recordings 1966\-1973](https://open.spotify.com/album/7LuVM7ZoQf15BbEa61CpTU) | 3:28 |
 | 68 | [Love Missile F1\-11](https://open.spotify.com/track/6nURTcHJwFrtBwNeflZQUZ) | [Sigue Sigue Sputnik](https://open.spotify.com/artist/6GKVXdXGEOPzpilArcqBun) | [Flaunt It](https://open.spotify.com/album/5UzShGWJIpOfH98tnk2qQl) | 3:44 |
 | 69 | [I Touch Myself](https://open.spotify.com/track/5WAdxow8ofiTbUyt05Wiil) | [Scala & Kolacny Brothers](https://open.spotify.com/artist/5cXCuJjbyxee1uCILXatYZ) | [Dream On](https://open.spotify.com/album/4qjoXLZRCAtui4PWpoRosO) | 2:20 |
 | 70 | [Sexual Healing](https://open.spotify.com/track/4QqrDluEDwmuxnH4Y3H346) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Rock With the Hot 8](https://open.spotify.com/album/4Wt275jWR86DOTn7zgVWFR) | 8:53 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 258 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 259 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
 
-Snapshot ID: `MCxkODgwZjNmMjc3ZDllZDY3NmRjN2Y0YzdhMTA1MmM4ODhjY2U1YWJk`
+Snapshot ID: `MCw5YTE4ZjA3YjQzZGI0ZTYxZWU2OGRhNjhmODVmYjkwYzQyYjQ0MGU5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. ZAND",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. yeule",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 146526,
       "name": "anything u want",
       "url": "https://open.spotify.com/track/3PvsmNvUhhIaAeMK2PFe6p"
@@ -2554,7 +2554,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 153065,
       "name": "DEAD SPACE",
       "url": "https://open.spotify.com/track/3YAgiHn9ESXhCpWgwXzJzH"
@@ -4209,6 +4209,24 @@
     },
     {
       "album": {
+        "name": "Gaunt",
+        "url": "https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs"
+      },
+      "artists": [
+        {
+          "name": "Deijuvhs",
+          "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209097,
+      "name": "Gaunt",
+      "url": "https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9"
+    },
+    {
+      "album": {
         "name": "MONSTAR",
         "url": "https://open.spotify.com/album/2F8FdkVzAfetGVuBRn8zyJ"
       },
@@ -4542,6 +4560,24 @@
       "duration_ms": 154680,
       "name": "GOOD MOOD (feat. grandson)",
       "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
+    },
+    {
+      "album": {
+        "name": "good things",
+        "url": "https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174656,
+      "name": "good things",
+      "url": "https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid"
     },
     {
       "album": {
@@ -7390,7 +7426,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 116056,
       "name": "Moonlight Bop",
       "url": "https://open.spotify.com/track/1nB9wuOJGl3h1M4hdtZeI1"
@@ -8258,7 +8294,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 178789,
       "name": "Piggie",
       "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
@@ -8977,6 +9013,32 @@
     },
     {
       "album": {
+        "name": "Red Eye",
+        "url": "https://open.spotify.com/album/4K50blng8D0LMocyf08grh"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        },
+        {
+          "name": "Taylor Skye",
+          "url": "https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2"
+        },
+        {
+          "name": "IAN STARR",
+          "url": "https://open.spotify.com/artist/5BTyrWm7ePzkLX9czUxsWc"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117438,
+      "name": "Red Eye",
+      "url": "https://open.spotify.com/track/35U5ZWVge94oHMCOAwwWYf"
+    },
+    {
+      "album": {
         "name": "REJECT",
         "url": "https://open.spotify.com/album/1n4TcO2kFYP2iQY5nYmAVe"
       },
@@ -9404,10 +9466,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 193987,
       "name": "Seraphim",
       "url": "https://open.spotify.com/track/4DXDoLAvsGsa0SAeeW4e54"
+    },
+    {
+      "album": {
+        "name": "I've Seen The Lizard People",
+        "url": "https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf"
+      },
+      "artists": [
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110848,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/42wUK6XAnMNv3CULQZ7HMm"
     },
     {
       "album": {
@@ -9816,6 +9896,24 @@
       "duration_ms": 189913,
       "name": "Sodom & Gomorrah",
       "url": "https://open.spotify.com/track/0cgUUrFj9pOmSKzm4MyfIf"
+    },
+    {
+      "album": {
+        "name": "softscars",
+        "url": "https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206099,
+      "name": "softscars",
+      "url": "https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF"
     },
     {
       "album": {
@@ -10904,7 +11002,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 183409,
       "name": "Trust No One",
       "url": "https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v"
@@ -10948,6 +11046,28 @@
       "duration_ms": 90871,
       "name": "UH OH!",
       "url": "https://open.spotify.com/track/2LPgMc1ZM0VcVm1sdeCNwV"
+    },
+    {
+      "album": {
+        "name": "under (feat. phem)",
+        "url": "https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        },
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137926,
+      "name": "under (feat. phem)",
+      "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"
     },
     {
       "album": {

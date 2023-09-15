@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-594 songs - 1 day 6 hr 44 min
+595 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,7 +489,8 @@
 | [Summer](https://open.spotify.com/track/3uJc3NYue0tKZJT8H1v4Z7) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [.GR](https://open.spotify.com/artist/1OMpdIjoqWbL5f559HWCA9), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Summer](https://open.spotify.com/album/0YBU3iFe3NvO3vNLG1IIAc) | 2:39 | 2023-09-08 |  |
 | [summer cloud](https://open.spotify.com/track/1mAcXjJI3LKcuPjVq5O8Ge) | [calima.wav](https://open.spotify.com/artist/6AMRD46xHAlgS5rW7QXcWN) | [summer cloud](https://open.spotify.com/album/7B6KQG9Gpal4AkHPWkG7SN) | 1:59 | 2023-09-08 |  |
 | [summer haze](https://open.spotify.com/track/2RKCKLaC3piFjxevi9iP6n) | [honeyglore](https://open.spotify.com/artist/3nhZn9q2FAqq7tsNe1icFY) | [summer haze](https://open.spotify.com/album/4oDT888zmVYN27yXVSBHlm) | 2:39 | 2023-09-08 |  |
-| [summer haze](https://open.spotify.com/track/5BKszK7QI1EjeEB7SgoQVh) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [summer haze](https://open.spotify.com/album/0tRV2enItxLhyTrMHRYS2V) | 3:44 | 2023-09-08 |  |
+| [summer haze](https://open.spotify.com/track/0aG9gVRYIzdHwMeUQcLm0v) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Summer 32](https://open.spotify.com/album/17dlQVGukmo4BMGc3TOb4D) | 3:44 | 2023-09-08 |  |
+| [summer haze](https://open.spotify.com/track/5BKszK7QI1EjeEB7SgoQVh) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [summer haze](https://open.spotify.com/album/0tRV2enItxLhyTrMHRYS2V) | 3:44 | 2023-09-08 | 2023-09-15 |
 | [summer nights](https://open.spotify.com/track/6N9nUbyfpKOFIyqS2kBiAj) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [summer nights](https://open.spotify.com/album/0zUZMPiqSsBww9NPgUuduc) | 1:57 | 2023-09-08 |  |
 | [Summer Nights in Berlin](https://open.spotify.com/track/29qx3pWrRzp7O6BR0bgAze) | [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn), [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [Summer Nights in Berlin](https://open.spotify.com/album/6Y7zwPclMpDIJ5MfUIpQ4N) | 2:13 | 2023-09-08 |  |
 | [Summers Up](https://open.spotify.com/track/0EvuPahOJtBWlpywLS2Hgb) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Summers Up](https://open.spotify.com/album/0HwS7r8g945hiaSpsjq3Zm) | 2:28 | 2023-09-08 |  |

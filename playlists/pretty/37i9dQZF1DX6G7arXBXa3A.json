@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 389266,
+  "num_followers": 389331,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjM1MGNhNzgyNGY2NTQyMGExM2Y5NGFjMTk5ODM1MjgyOTVmNWFh",
+  "snapshot_id": "MCw4NGRlYjcxZjEyNGVmNmM3MGZkZmFjNTQyNGFmNjNjMDU0MTU4Mzgw",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -495,26 +495,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Tony Bennett With Count Baise",
-        "url": "https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 163122,
-      "name": "Are You Having Any Fun",
-      "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "The World Of Nat King Cole (Expanded Edition)",
         "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 153973,
       "name": "Orange Colored Sky - Remastered 2005",
       "url": "https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Tony Bennett With Count Baise",
+        "url": "https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 163122,
+      "name": "Are You Having Any Fun",
+      "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -755,18 +755,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Boss Brass And Woods",
-        "url": "https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb"
+        "name": "Inspiration (A Tribute To Nat King Cole)",
+        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
       },
       "artists": [
         {
-          "name": "Rob McConnell & The Boss Brass With Phil Woods",
-          "url": "https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 461934,
-      "name": "Greenhouse",
-      "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
+      "duration_ms": 162080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -787,18 +787,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Inspiration (A Tribute To Nat King Cole)",
-        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
+        "name": "Boss Brass And Woods",
+        "url": "https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Rob McConnell & The Boss Brass With Phil Woods",
+          "url": "https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br"
         }
       ],
-      "duration_ms": 162080,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
+      "duration_ms": 461934,
+      "name": "Greenhouse",
+      "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
     },
     {
       "added_at": "2022-07-22 04:02:00",

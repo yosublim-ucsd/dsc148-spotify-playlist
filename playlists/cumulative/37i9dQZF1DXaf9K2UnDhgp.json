@@ -874,10 +874,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 197116,
       "name": "Cry Christmas",
       "url": "https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez"
+    },
+    {
+      "album": {
+        "name": "Cry Christmas",
+        "url": "https://open.spotify.com/album/0SgFUjYNZq7DUIsNLPbJ0n"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197116,
+      "name": "Cry Christmas",
+      "url": "https://open.spotify.com/track/3BI6drkCxHUnWBKpvfBfLB"
     },
     {
       "album": {

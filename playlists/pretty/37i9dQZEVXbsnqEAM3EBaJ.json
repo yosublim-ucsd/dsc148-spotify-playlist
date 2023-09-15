@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMzU3MDAsMDAwMDAwMDBmMDBiNTkyNTllZmNjNjNlOTBkNjE1NjI2NDNiOGE5Nw==",
+  "snapshot_id": "MjgyMzU3MDAsMDAwMDAwMDBlMmI5NzI5MDhhNDJiN2QzOWUwMDk0ZTE1YjM3ZjVhZA==",
   "tracks": [
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Dookie (30th Anniversary Outtakes)",
-        "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Christie Rd. - Outtake",
-      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
-    },
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
@@ -52,9 +36,9 @@
           "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         }
       ],
-      "duration_ms": 428634,
-      "name": "I've Seen All Good People - Live: Yale Bowl, USA 24th July 1971",
-      "url": "https://open.spotify.com/track/79E74cEOPLkFbdOdnErNjl"
+      "duration_ms": 854413,
+      "name": "Perpetual Change - Live: Yale Bowl, USA 24th July 1971",
+      "url": "https://open.spotify.com/track/1AddVSixWyY5c0kJxAYsko"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -75,6 +59,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "To The Faithful Departed (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1CPtOBwQVBkxSCBYnNbZTd"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "Salvation - Early Mix",
+      "url": "https://open.spotify.com/track/4XXbh0DujCStZ5F2rVfX1d"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/5qG5KHu6FlMIpKYle1X2um"
       },
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Qu\u00e9 hermosa estas all\u00ed",
-        "url": "https://open.spotify.com/album/0jvmmDwFUIFDBBqpsaqpti"
-      },
-      "artists": [
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 314932,
-      "name": "Qu\u00e9 hermosa estas all\u00ed",
-      "url": "https://open.spotify.com/track/17MT53RyOPcyQRWW5BNoAW"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Scoring The End Of The World (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 187321,
       "name": "Hollow Points",
       "url": "https://open.spotify.com/track/5J1SceWegPiycCW89uIfAU"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Qu\u00e9 hermosa estas all\u00ed",
+        "url": "https://open.spotify.com/album/0jvmmDwFUIFDBBqpsaqpti"
+      },
+      "artists": [
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 314932,
+      "name": "Qu\u00e9 hermosa estas all\u00ed",
+      "url": "https://open.spotify.com/track/17MT53RyOPcyQRWW5BNoAW"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -220,17 +220,17 @@
       },
       "artists": [
         {
-          "name": "Modest Mussorgsky",
-          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
         },
         {
           "name": "Manuel del Corral",
           "url": "https://open.spotify.com/artist/1399uZh5GCbxPwTfXkx6mb"
         }
       ],
-      "duration_ms": 122711,
-      "name": "Hopak",
-      "url": "https://open.spotify.com/track/7t4bXpsDCAFMHZvkXCPM0K"
+      "duration_ms": 230380,
+      "name": "Hymn to the Sun",
+      "url": "https://open.spotify.com/track/70XVkRO1xd2vnECuo68hzq"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -267,6 +267,26 @@
       "duration_ms": 198571,
       "name": "Happy Birthday Beautiful",
       "url": "https://open.spotify.com/track/4GSuM4hs9whUAxM2jEways"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "GUERRERO INTELECTUAL",
+        "url": "https://open.spotify.com/album/1oqgXGwSnr8beCSnRMdcXS"
+      },
+      "artists": [
+        {
+          "name": "Mago Rey",
+          "url": "https://open.spotify.com/artist/34W0qoIabeEniJH7rLVXHv"
+        },
+        {
+          "name": "Olinca Hidalgo",
+          "url": "https://open.spotify.com/artist/2XA0XXw7Oe3AkLJks9irXp"
+        }
+      ],
+      "duration_ms": 218154,
+      "name": "GUERRERO INTELECTUAL",
+      "url": "https://open.spotify.com/track/3SBFITfLQuTKNlJ7igGRuM"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -348,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
         }
       ],
-      "duration_ms": 319962,
-      "name": "Lights Out - Live In Vienna 1998",
-      "url": "https://open.spotify.com/track/3olFCE0utXa0SwxakIFM85"
+      "duration_ms": 283841,
+      "name": "This Kid's - Live In Vienna 1998",
+      "url": "https://open.spotify.com/track/2kf6PloMCppZSVoJc4hF7v"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -367,26 +387,6 @@
       "duration_ms": 295512,
       "name": "Nada Mas, Nada Menos - remastered",
       "url": "https://open.spotify.com/track/4vEm6KMHaJZo8aU1L7Uztu"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Come On Home",
-        "url": "https://open.spotify.com/album/4j3v3azOHHyP15NNqyVuwA"
-      },
-      "artists": [
-        {
-          "name": "Danni Baylor",
-          "url": "https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK"
-        },
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 225107,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/1t0lazgh8uQmXzXigJkYe8"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 328293,
-      "name": "Don't Fight It - Live",
-      "url": "https://open.spotify.com/track/0SUO9zBxf5FCyKtRPqEwIk"
+      "duration_ms": 278320,
+      "name": "Stone in Love - Live",
+      "url": "https://open.spotify.com/track/4ZO527reOhihJhyDmYgUUr"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -439,8 +439,8 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Insatiable (Early Mix)",
-        "url": "https://open.spotify.com/album/3POJdMPw5gqcHSKvhuqsoQ"
+        "name": "Alice Through the Looking Glass",
+        "url": "https://open.spotify.com/album/3Er6lsWzZmM4oP8RICZseP"
       },
       "artists": [
         {
@@ -448,9 +448,25 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 481900,
-      "name": "Insatiable (Early Mix)",
-      "url": "https://open.spotify.com/track/44DsZlTn7qgFUZtPFewHXW"
+      "duration_ms": 258200,
+      "name": "Alice Through the Looking Glass",
+      "url": "https://open.spotify.com/track/7sArXWDg86rMoLG46QE2ac"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Live In El Paso 1980",
+        "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "School's Out - Live",
+      "url": "https://open.spotify.com/track/3hKo142ynCDNTi0dXj0Jbx"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -467,22 +483,6 @@
       "duration_ms": 508920,
       "name": "Llama Violeta Cham\u00e1nica",
       "url": "https://open.spotify.com/track/5bWnTEQIoOO1mnZfHqw79K"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Live In El Paso 1980",
-        "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 63226,
-      "name": "Sick Things - Live",
-      "url": "https://open.spotify.com/track/6mlAOexwC7hQkmHCDnFADP"
     },
     {
       "added_at": "2023-09-08 03:00:00",

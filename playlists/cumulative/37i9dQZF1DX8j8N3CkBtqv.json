@@ -1078,6 +1078,24 @@
     {
       "album": {
         "name": "Duur Hai Wo",
+        "url": "https://open.spotify.com/album/21ZHoICkVEBGFnoNiSPhBz"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282963,
+      "name": "Duur Hai Wo",
+      "url": "https://open.spotify.com/track/2xdKGuM3SMXYxZIytizcVP"
+    },
+    {
+      "album": {
+        "name": "Duur Hai Wo",
         "url": "https://open.spotify.com/album/5zSrIDdqyNIVdGJiT9d46P"
       },
       "artists": [
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 285357,
       "name": "Duur Hai Wo",
       "url": "https://open.spotify.com/track/2yR3f7t0N1pp48mChKq9Kt"

@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-712 songs - 1 day 18 hr 30 min
+713 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,8 @@
 | [Famous](https://open.spotify.com/track/7cNdS9ne6EUD0tG3KyuPQM) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Famous](https://open.spotify.com/album/7LDgfz6i8kwwF9jfa3exam) | 4:10 | 2021-08-10 | 2022-07-29 |
 | [Feel Good](https://open.spotify.com/track/4NHPOthvR61pq7kNr67v9L) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Top Pop Bops](https://open.spotify.com/album/1wviiaFQH17nGZ3Kra33LL) | 4:08 | 2022-05-11 | 2022-11-13 |
 | [Feel Good](https://open.spotify.com/track/6lcSHIwCOopIcW5cT5NXHI) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Feel Good](https://open.spotify.com/album/2ol2XUe63UErbB0BlMwpbK) | 4:08 | 2021-08-10 | 2022-07-29 |
-| [Feel Good \(feat\. Daya\)](https://open.spotify.com/track/0Ev562zA4pmUsBqjxsxxdx) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Feel Good \(feat\. Daya\)](https://open.spotify.com/album/1fP5UnRB0WNWNHSZRHsRCR) | 4:08 | 2022-05-11 |  |
+| [Feel Good](https://open.spotify.com/track/73g0qO3PkUjLH7vov3Fbuz) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Awake](https://open.spotify.com/album/7A9I9BrNylVCqXzgN3Y6qi) | 4:08 | 2022-11-29 |  |
+| [Feel Good \(feat\. Daya\)](https://open.spotify.com/track/0Ev562zA4pmUsBqjxsxxdx) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Feel Good \(feat\. Daya\)](https://open.spotify.com/album/1fP5UnRB0WNWNHSZRHsRCR) | 4:08 | 2022-05-11 | 2023-09-15 |
 | [Feelings](https://open.spotify.com/track/2dyyOwe0KxTZTJjjXDeLmU) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:14 | 2022-05-11 |  |
 | [Find You](https://open.spotify.com/track/77dwRzKegOkVtlHajKnDCb) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You](https://open.spotify.com/album/25bkGXqgyIbBGfQlHLV42D) | 3:17 | 2021-08-10 |  |
 | [Finders Keepers](https://open.spotify.com/track/3KbnUNSyP1fwh9H5sgA9YZ) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 4:28 | 2022-05-11 |  |

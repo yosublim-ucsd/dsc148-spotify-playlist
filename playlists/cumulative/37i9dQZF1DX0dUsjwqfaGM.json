@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "baby b\u00ean ngo\u00e0i l\u1ea1nh l\u1eafm",
+        "url": "https://open.spotify.com/album/6txNspO1Mna3FI3LZO7Acb"
+      },
+      "artists": [
+        {
+          "name": "kidsai",
+          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
+        },
+        {
+          "name": "Young Draco",
+          "url": "https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA"
+        },
+        {
+          "name": "Blunt",
+          "url": "https://open.spotify.com/artist/3wQDIUs8dMGv8fmHMpTLm7"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192755,
+      "name": "baby b\u00ean ngo\u00e0i l\u1ea1nh l\u1eafm",
+      "url": "https://open.spotify.com/track/51OTmsWRlrHHKssnx5AZj6"
+    },
+    {
+      "album": {
         "name": "Bad Performance",
         "url": "https://open.spotify.com/album/2CKrFtn7APctaOCi10UZ4S"
       },
@@ -404,7 +430,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 233975,
       "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
       "url": "https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll"
@@ -444,6 +470,24 @@
       "duration_ms": 281493,
       "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a",
       "url": "https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o"
+    },
+    {
+      "album": {
+        "name": "Get Me",
+        "url": "https://open.spotify.com/album/7r7IWC6DNLJzbYDMNRn86k"
+      },
+      "artists": [
+        {
+          "name": "Kim Kunni",
+          "url": "https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213260,
+      "name": "Get Me",
+      "url": "https://open.spotify.com/track/5lu7zyOOAmzhZNPsZun4DD"
     },
     {
       "album": {
@@ -666,7 +710,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 231428,
       "name": "H\u00e3y \u0110\u1ec3 Ch\u00fang Ta \u0110\u01b0\u1ee3c C\u00f3 Th\u00eam Th\u1eddi Gian - Acoustic Version",
       "url": "https://open.spotify.com/track/1IuQ1QnMRuISpiS7BMjpS7"
@@ -768,7 +812,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 219082,
       "name": "Internet Love",
       "url": "https://open.spotify.com/track/2rGCYAabfA63PIzhQm7hVq"
@@ -950,7 +994,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 209000,
       "name": "M\u01b0a \u01a0i \u0110\u1eebng R\u01a1i",
       "url": "https://open.spotify.com/track/6LjnpeWCzBpbkP5DqeuqlU"
@@ -1220,7 +1264,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 243062,
       "name": "Th\u1ebf Th\u00f4i",
       "url": "https://open.spotify.com/track/3q9jkVZnem47J0HdQEK8WM"

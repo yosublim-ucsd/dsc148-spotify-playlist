@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Suzan & Freek en Claude",
+  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: MAKSIM & Emma Heesters",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 157509,
       "name": "1000 Kansen",
       "url": "https://open.spotify.com/track/2yNswA6CootF9mdklJfUy0"
+    },
+    {
+      "album": {
+        "name": "100K Tranen",
+        "url": "https://open.spotify.com/album/4b5tmW8Nbt5yzYORGdjpTm"
+      },
+      "artists": [
+        {
+          "name": "Delany",
+          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154805,
+      "name": "100K Tranen",
+      "url": "https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l"
     },
     {
       "album": {
@@ -136,7 +154,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 129604,
       "name": "Aan Vakantie Toe",
       "url": "https://open.spotify.com/track/0zy7nv9DfbpWnNgQFzKiMq"
@@ -158,6 +176,24 @@
       "duration_ms": 128894,
       "name": "Aandacht",
       "url": "https://open.spotify.com/track/2Ekj3qPq6UsiWbuhFZ0Ybu"
+    },
+    {
+      "album": {
+        "name": "ADD",
+        "url": "https://open.spotify.com/album/5NdeujZHuGj57BrSMLvo7Q"
+      },
+      "artists": [
+        {
+          "name": "TIJN",
+          "url": "https://open.spotify.com/artist/13cnCFcBgn9RdB5k0Skoc4"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174339,
+      "name": "ADD",
+      "url": "https://open.spotify.com/track/0wintW8wGWiRuR0A7sV7qu"
     },
     {
       "album": {
@@ -288,7 +324,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 169558,
       "name": "Alles Vergeven",
       "url": "https://open.spotify.com/track/0mlq1DTHPuugqFxb5ZRyju"
@@ -533,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Altijd Onderweg",
+        "url": "https://open.spotify.com/album/7K7CynIwvLxVkzLCmjxDbJ"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177813,
+      "name": "Altijd Onderweg",
+      "url": "https://open.spotify.com/track/2510MF3xvG8LgOC1RVxF5U"
+    },
+    {
+      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/2s2w7H4s0ZERyVrz7uv6zW"
       },
@@ -690,7 +744,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 139050,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/3Zehk6s1n9ZBoDKpYRTK7U"
@@ -708,7 +762,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 131555,
       "name": "Batterij",
       "url": "https://open.spotify.com/track/07Q1TmX0GW2FllCksCE4TE"
@@ -1192,7 +1246,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 138000,
       "name": "Dansen Zonder Schaamte",
       "url": "https://open.spotify.com/track/3nIAUXb5EHifnJfLBf3KkU"
@@ -1572,7 +1626,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 162457,
       "name": "Dinsdagdip",
       "url": "https://open.spotify.com/track/0lWnMTPojFUbHAXSEqXvj5"
@@ -2098,7 +2152,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 151705,
       "name": "Geen Spijt",
       "url": "https://open.spotify.com/track/6AatDOwKjGhKeOBN6TgYUk"
@@ -2264,7 +2318,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 181784,
       "name": "Heel Voorzichtig",
       "url": "https://open.spotify.com/track/4tztLvoZQM8dh9igywG5lj"
@@ -2430,7 +2484,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 154285,
       "name": "Het Is Ok\u00e9",
       "url": "https://open.spotify.com/track/7eNPGRuvBe9QIMCg8iADqM"
@@ -2452,7 +2506,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 147000,
       "name": "Hete Vuren",
       "url": "https://open.spotify.com/track/1oBM2lPmoio5W8VA3bF0zL"
@@ -2938,7 +2992,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 198000,
       "name": "Ik Wacht Op Jou (Je T'attends)",
       "url": "https://open.spotify.com/track/6UoS8duz559g2V25wHv9VO"
@@ -2956,7 +3010,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 175200,
       "name": "Illusies",
       "url": "https://open.spotify.com/track/54E9cqWN03bwOSXpZ0WI3y"
@@ -3010,7 +3064,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 174765,
       "name": "Jij Bent Meer Dan Een Deel Van Mij",
       "url": "https://open.spotify.com/track/77ySbPXifSKDxDn2JXew4M"
@@ -3270,7 +3324,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 171483,
       "name": "Laat Mij 'M Zijn",
       "url": "https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ"
@@ -3310,7 +3364,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 168000,
       "name": "Laatste Trein",
       "url": "https://open.spotify.com/track/2fpFMAwzV3oCjjywWKZj1Y"
@@ -3429,6 +3483,24 @@
     },
     {
       "album": {
+        "name": "Leugenaar II",
+        "url": "https://open.spotify.com/album/7MCmumqUFWvcUfkUSPljxG"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196361,
+      "name": "Leugenaar II",
+      "url": "https://open.spotify.com/track/2YLTNvko2SBU4j0qX4iaQT"
+    },
+    {
+      "album": {
         "name": "Leuk Zolang Het Duurt",
         "url": "https://open.spotify.com/album/44toZgS1DzRUWhZ6mlSRf9"
       },
@@ -3510,6 +3582,24 @@
       "duration_ms": 181915,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/65PPYvLLxqXwYEIdpW8fy6"
+    },
+    {
+      "album": {
+        "name": "Magneet",
+        "url": "https://open.spotify.com/album/0euEcmBRqP9kRVeMyFbL3L"
+      },
+      "artists": [
+        {
+          "name": "Lisa Michels",
+          "url": "https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155835,
+      "name": "Magneet",
+      "url": "https://open.spotify.com/track/6vKcQiib6tIYFtfygjwhWd"
     },
     {
       "album": {
@@ -3979,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "Net Zolang",
+        "url": "https://open.spotify.com/album/6BCzk8O4K6E38EEW71GzdQ"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226473,
+      "name": "Net Zolang",
+      "url": "https://open.spotify.com/track/5v7kikNBNvUXktkB0i2Ht3"
+    },
+    {
+      "album": {
         "name": "Niemand (De Enige)",
         "url": "https://open.spotify.com/album/4PUj0odPADosM9F8G8vanL"
       },
@@ -4019,6 +4127,24 @@
     },
     {
       "album": {
+        "name": "Niet Breken",
+        "url": "https://open.spotify.com/album/0uXGmsQzYBGfNPpsfP3vos"
+      },
+      "artists": [
+        {
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161076,
+      "name": "Niet Breken",
+      "url": "https://open.spotify.com/track/4iv7QWrytOLIRIECHBJkqP"
+    },
+    {
+      "album": {
         "name": "Niet Meer Hopen",
         "url": "https://open.spotify.com/album/0oRrxWkeV6US4g7TsY5nms"
       },
@@ -4030,10 +4156,28 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 145597,
       "name": "Niet Meer Hopen",
       "url": "https://open.spotify.com/track/0NihKI40IGefpU3gaFMinb"
+    },
+    {
+      "album": {
+        "name": "Niet Naar Huis",
+        "url": "https://open.spotify.com/album/5aRqWwUO68r33MD812weKs"
+      },
+      "artists": [
+        {
+          "name": "Ayden",
+          "url": "https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Niet Naar Huis",
+      "url": "https://open.spotify.com/track/4ouO2G1LVrl7auDWbrI89h"
     },
     {
       "album": {
@@ -4149,6 +4293,32 @@
     },
     {
       "album": {
+        "name": "Euro Visie",
+        "url": "https://open.spotify.com/album/01nIt5EO52HpWtk3Z7hoYi"
+      },
+      "artists": [
+        {
+          "name": "Sick & Nimon",
+          "url": "https://open.spotify.com/artist/78oo3JI8z5VDA8voOrA0Tl"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178323,
+      "name": "Nymfomane",
+      "url": "https://open.spotify.com/track/3LXMu9kIUBSor7GgjencRf"
+    },
+    {
+      "album": {
         "name": "Oceaan",
         "url": "https://open.spotify.com/album/6wkRFzlwXWQWMyAtWyAvWi"
       },
@@ -4178,7 +4348,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 147000,
       "name": "Offline Beschikbaar",
       "url": "https://open.spotify.com/track/1Q0HpSHfcqcZzrLT5bGtoO"
@@ -4218,6 +4388,24 @@
       "duration_ms": 177927,
       "name": "Onder Invloed",
       "url": "https://open.spotify.com/track/4hqxHQKbpDxh6lRmw6w2xR"
+    },
+    {
+      "album": {
+        "name": "NIELS",
+        "url": "https://open.spotify.com/album/55kSSo7UN20j1iM7uW80yO"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Onderweg",
+      "url": "https://open.spotify.com/track/2q0ZsFK74e4eZskq758hE8"
     },
     {
       "album": {
@@ -4518,7 +4706,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 172447,
       "name": "Reden",
       "url": "https://open.spotify.com/track/01D46oDUTJaykFjldVmWEe"
@@ -4590,7 +4778,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 187056,
       "name": "Rotterdam",
       "url": "https://open.spotify.com/track/156a5itNldVPstH3WoFnFq"
@@ -4702,7 +4890,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 150999,
       "name": "Simone",
       "url": "https://open.spotify.com/track/233KjtSp13hed57BJgRjul"
@@ -4832,7 +5020,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 172091,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/2M6sp60mWuRoGHapvKDapT"
@@ -5215,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "Tranen Op Papier",
+        "url": "https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2"
+      },
+      "artists": [
+        {
+          "name": "Phillis",
+          "url": "https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168139,
+      "name": "Tranen Op Papier",
+      "url": "https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y"
+    },
+    {
+      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/3l8SohnYNEwrffmjs6lTwx"
       },
@@ -5421,6 +5627,24 @@
     },
     {
       "album": {
+        "name": "Verblind Door De Liefde",
+        "url": "https://open.spotify.com/album/4nibfUi3NOq37haZTqiMkI"
+      },
+      "artists": [
+        {
+          "name": "Ginger",
+          "url": "https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131261,
+      "name": "Verblind Door De Liefde",
+      "url": "https://open.spotify.com/track/6hNBsoqPGscZ7n3AkylGUA"
+    },
+    {
+      "album": {
         "name": "Vergeven, Vergeten",
         "url": "https://open.spotify.com/album/2hYdO6AFjcJVEqzcSwPAhE"
       },
@@ -5562,7 +5786,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 163730,
       "name": "Voel Jij Dat Ook",
       "url": "https://open.spotify.com/track/52eFgkFoYcSk0r7nSN3ldb"

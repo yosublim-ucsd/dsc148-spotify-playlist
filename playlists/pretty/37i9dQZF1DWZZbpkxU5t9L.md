@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,575 likes - 56 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,609 likes - 56 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 55 | [Night Dream](https://open.spotify.com/track/4Avgz7RfIvrincMvVw8bIx) | [chao chao](https://open.spotify.com/artist/4MT9OmyrjZzGG7TZTd9yQ0) | [Night Dream](https://open.spotify.com/album/64LmWlIKafNXIdvYW4D46Z) | 1:58 |
 | 56 | [りんどう](https://open.spotify.com/track/3jAjSQXOTgQDHjRtlvW6P6) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 5:29 |
 
-Snapshot ID: `MCw4YjE5NTcyYmMzNTI1YTdkYTE2NjI2ZDkzYzY3NjRmNGJkZWY2MWQ5`
+Snapshot ID: `MCw1N2UyYWQ0NWUxMmJhOTdhY2M5ZjY1ZDAyNDk0NTFlNjg3NWQ1NzJj`

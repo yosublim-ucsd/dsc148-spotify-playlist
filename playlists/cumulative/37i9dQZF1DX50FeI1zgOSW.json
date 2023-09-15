@@ -2513,6 +2513,24 @@
     },
     {
       "album": {
+        "name": "Story Rewrite",
+        "url": "https://open.spotify.com/album/48IgWLickNf0lBCE5zLOoZ"
+      },
+      "artists": [
+        {
+          "name": "Hidden frequencies",
+          "url": "https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179483,
+      "name": "Story Rewrite",
+      "url": "https://open.spotify.com/track/7jQHimJTn5joGqtUXFnTvA"
+    },
+    {
+      "album": {
         "name": "Thalayaatti Bommai (From \"Think Originals\")",
         "url": "https://open.spotify.com/album/7tO2sPQbhwj5KcHkyGKy99"
       },

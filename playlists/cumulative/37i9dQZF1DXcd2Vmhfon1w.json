@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Prok",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Natos y Waor, Delaossa, Ill Peke\u00f1o",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 208000,
       "name": "Bukowski",
       "url": "https://open.spotify.com/track/04G7s84Y5Wpuq77I6IfVvX"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 207898,
       "name": "Felicidades",
       "url": "https://open.spotify.com/track/1jx9ljlGXGrN1sIuEpBfnF"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 220582,
       "name": "Hasta el amanecer",
       "url": "https://open.spotify.com/track/4BqWFdof5Lct3HBtD8ZzOZ"
@@ -1944,6 +1944,28 @@
       "duration_ms": 99184,
       "name": "Intro",
       "url": "https://open.spotify.com/track/65SfiFQbX26Nxf7x0z6rG8"
+    },
+    {
+      "album": {
+        "name": "Israel B - Selecta Motorseries #05",
+        "url": "https://open.spotify.com/album/6EEQbg6WMNSkVEBKryIiCn"
+      },
+      "artists": [
+        {
+          "name": "Selecta",
+          "url": "https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ"
+        },
+        {
+          "name": "Israel B",
+          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166730,
+      "name": "Israel B - Selecta Motorseries #05",
+      "url": "https://open.spotify.com/track/5PYLohuj2eelCiSAch4wrZ"
     },
     {
       "album": {
@@ -2371,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Lollypop",
+        "url": "https://open.spotify.com/album/1BTOi1Ido10cMMM7i9MCCp"
+      },
+      "artists": [
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "Lollypop",
+      "url": "https://open.spotify.com/track/1K6H2Tpdnd27SJWZz2JS96"
+    },
+    {
+      "album": {
         "name": "Madame Bovary",
         "url": "https://open.spotify.com/album/0SxFte5a7xpVWJtKFfW3cs"
       },
@@ -2554,7 +2594,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 172866,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/7smmyEpJwuZn1CZi0K7pLj"
@@ -2827,6 +2867,32 @@
     },
     {
       "album": {
+        "name": "Montecarlo",
+        "url": "https://open.spotify.com/album/5FAtt63QNBbWHYjxlRGR39"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Delaossa",
+          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
+        },
+        {
+          "name": "Ill Peke\u00f1o",
+          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Montecarlo",
+      "url": "https://open.spotify.com/track/01BwIKOWuerxufZ0sEmJnS"
+    },
+    {
+      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo"
       },
@@ -3066,7 +3132,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 219789,
       "name": "No me hables de barras",
       "url": "https://open.spotify.com/track/0ieETfw7BT0opbN4IqqFT5"
@@ -3932,7 +3998,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 186537,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/4Huf56u4fIIcQwZb9RSe4A"
@@ -4386,7 +4452,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 145535,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/2FARB9OPTpoXdja2vLj8SH"
@@ -4690,7 +4756,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 214000,
       "name": "Wifi",
       "url": "https://open.spotify.com/track/3D4gcNgiD0kMPW4AH1ufpA"

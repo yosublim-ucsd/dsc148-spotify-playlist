@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Delaru\u00e0",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Philip",
   "name": "Raptopia",
   "tracks": [
     {
@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "UNA BANDIERA",
+        "url": "https://open.spotify.com/album/1WzvS4vSVa2YyzfzTYXm5U"
+      },
+      "artists": [
+        {
+          "name": "Philip",
+          "url": "https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "BATIMENT #2 (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/3w0OOMArLZWeMitNkH6C4m"
+    },
+    {
+      "album": {
         "name": "CODICE DA INCIS",
         "url": "https://open.spotify.com/album/3q4VZk659YiCdOoel7cdWY"
       },
@@ -2404,7 +2426,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 169026,
       "name": "Calimero",
       "url": "https://open.spotify.com/track/67HHjOv8uY2gwAQ0Ju0xGR"
@@ -2733,6 +2755,28 @@
     },
     {
       "album": {
+        "name": "CENACOLO",
+        "url": "https://open.spotify.com/album/7epU3lrH6KMWXxSXLkmhFY"
+      },
+      "artists": [
+        {
+          "name": "Fiore Akamono",
+          "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
+        },
+        {
+          "name": "85Prod",
+          "url": "https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143407,
+      "name": "CENACOLO",
+      "url": "https://open.spotify.com/track/2F8lmoE3hktpcwL5vV6CGD"
+    },
+    {
+      "album": {
         "name": "Centomila",
         "url": "https://open.spotify.com/album/4g6MvPjAnAEnP3GNs79maC"
       },
@@ -2804,7 +2848,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 167599,
       "name": "Chakach\u00e0",
       "url": "https://open.spotify.com/track/2y7MyvmXf54VAohtg6eb6s"
@@ -3316,7 +3360,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 169727,
       "name": "Con Te",
       "url": "https://open.spotify.com/track/0cqrtm4RTq72e6RHJEmkqb"
@@ -3334,7 +3378,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 137579,
       "name": "Con Te",
       "url": "https://open.spotify.com/track/0d3X6EsJll4q4rmMdDRtvf"
@@ -3542,7 +3586,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 205306,
       "name": "CR\u00c8ME DE LA CR\u00c8ME",
       "url": "https://open.spotify.com/track/7p5Ncm0MT5ERi8achBZtdn"
@@ -3608,7 +3652,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 143414,
       "name": "CULTO BOY (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/2R1eThHTNJwzxxzgX3hHz2"
@@ -5853,6 +5897,24 @@
     },
     {
       "album": {
+        "name": "The Globe",
+        "url": "https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96300,
+      "name": "GRAMMELOT",
+      "url": "https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4"
+    },
+    {
+      "album": {
         "name": "GRAMMELOT",
         "url": "https://open.spotify.com/album/7gsX8aKhYjccPaGyN4XqOm"
       },
@@ -6344,10 +6406,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 142286,
       "name": "HOUMA 2",
       "url": "https://open.spotify.com/track/6xzQob6VIyKgMcjRWsfZ9u"
+    },
+    {
+      "album": {
+        "name": "HUSTLE",
+        "url": "https://open.spotify.com/album/5OtNvzXxBQFKp4J63xwoRX"
+      },
+      "artists": [
+        {
+          "name": "Silnyya",
+          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137148,
+      "name": "HUSTLE",
+      "url": "https://open.spotify.com/track/2GA2X9ppNsPpcMgBfpszA8"
     },
     {
       "album": {
@@ -7538,7 +7618,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 149589,
       "name": "LACRIME",
       "url": "https://open.spotify.com/track/4ENtTrEgDyusQQ5m8JCWnb"
@@ -7997,6 +8077,24 @@
     },
     {
       "album": {
+        "name": "MALAGA",
+        "url": "https://open.spotify.com/album/6k1CQrZESTG1mNk9plWqmK"
+      },
+      "artists": [
+        {
+          "name": "167 Gang",
+          "url": "https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148804,
+      "name": "MALAGA",
+      "url": "https://open.spotify.com/track/2wP2hvc5vEG37UPcHLJbDM"
+    },
+    {
+      "album": {
         "name": "Malaga",
         "url": "https://open.spotify.com/album/4IziXI7cFEh03rNQUjxMul"
       },
@@ -8432,7 +8530,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 152800,
       "name": "Massafghanistan",
       "url": "https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi"
@@ -9649,6 +9747,28 @@
     },
     {
       "album": {
+        "name": "NON NE VALI LA PENA (feat. Kid Yugi)",
+        "url": "https://open.spotify.com/album/3DXeuobdkmRQ0qn4NBdR8k"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165306,
+      "name": "NON NE VALI LA PENA (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/6DwBVpwBbpopNFHQXQglJO"
+    },
+    {
+      "album": {
         "name": "Non passa l\u2019aria",
         "url": "https://open.spotify.com/album/5KSnm4ibO84on8sxwzW8JT"
       },
@@ -10737,6 +10857,24 @@
     },
     {
       "album": {
+        "name": "Playmaker",
+        "url": "https://open.spotify.com/album/6NFyKfiDiCCYb2kJXl8uqE"
+      },
+      "artists": [
+        {
+          "name": "Lil Cosse",
+          "url": "https://open.spotify.com/artist/75jvCdf9ii6EVSsJtKYOXT"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Playmaker",
+      "url": "https://open.spotify.com/track/7957Ud9GA7uUteFT6VC779"
+    },
+    {
+      "album": {
         "name": "Polizia",
         "url": "https://open.spotify.com/album/2RnBTvII7lXZgqk9N1qtwR"
       },
@@ -11580,7 +11718,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 154285,
       "name": "Responsabile (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/3YNDnWbIzjtVo87DalnFmK"
@@ -11834,7 +11972,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 175133,
       "name": "Rocket (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/0mBodlmNGZMVHCjv58MbBC"
@@ -12166,7 +12304,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 125151,
       "name": "SANGUE CALDO",
       "url": "https://open.spotify.com/track/0G9LVojrr4a6heAOEmoaBX"

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,034 songs - 1 day 15 hr 1 min
+1,035 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -795,7 +795,7 @@
 | [Serenity](https://open.spotify.com/track/6Z8qwaHXtdLLjnsqTNi2eB) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Serenity](https://open.spotify.com/album/46TA6tN5WhVSykcPtUBNHj) | 2:09 | 2022-07-29 | 2022-10-29 |
 | [Settle Down](https://open.spotify.com/track/5E0UCofV3u4xyjeG6C1VEV) | [Wander Sky](https://open.spotify.com/artist/17xlXpr4XlWjdh6J2h6AlM) | [Settle Down](https://open.spotify.com/album/1IjHFuZbG9ohUVdBplxlfi) | 2:08 | 2022-07-01 | 2023-04-12 |
 | [Seven Books](https://open.spotify.com/track/6Op7odTBNKvbCRu60PH8iY) | [maqhiavelli](https://open.spotify.com/artist/67ww86OQXukoNS13vNhNM2) | [Seven Books](https://open.spotify.com/album/1TP5BK2e3LTQaUl6ym46zf) | 3:00 | 2021-11-10 | 2022-10-15 |
-| [Sharp Edges](https://open.spotify.com/track/5NrFLcVYRUyFABknAntDVj) | [Florina Florina](https://open.spotify.com/artist/6npWbAsh6jlgwLpfco3anT) | [Sharp Edges](https://open.spotify.com/album/603xEQQUiOtSCNfe4NQ8kj) | 1:53 | 2022-10-28 |  |
+| [Sharp Edges](https://open.spotify.com/track/5NrFLcVYRUyFABknAntDVj) | [Florina Florina](https://open.spotify.com/artist/6npWbAsh6jlgwLpfco3anT) | [Sharp Edges](https://open.spotify.com/album/603xEQQUiOtSCNfe4NQ8kj) | 1:53 | 2022-10-28 | 2023-09-15 |
 | [Shelter](https://open.spotify.com/track/0plb4PEtiPxW7Qn8rlqd0Y) | [Naute](https://open.spotify.com/artist/2LfwnXXH6HdeP825h4u7lt), [Snowji](https://open.spotify.com/artist/1jBhtlpf2bKt06VAAjwmBK), [Deez Agree](https://open.spotify.com/artist/2xDHLlqk3BQ5vPY1ryXoNz) | [Shelter](https://open.spotify.com/album/12ykqkSLlZYjv70N4juZiO) | 2:19 | 2023-04-20 |  |
 | [Shimmer](https://open.spotify.com/track/79FvTJvLURJtsgbaD0JbEx) | [Chimes & Diamonds](https://open.spotify.com/artist/22hToWuWyog4NvZLmuZKND) | [Shimmer](https://open.spotify.com/album/2EdLiIm0Gr8wkimnQJwtvX) | 2:48 | 2022-04-22 |  |
 | [Shingo](https://open.spotify.com/track/3YegC72pbwviu6fy5zbPh3) | [The Graph](https://open.spotify.com/artist/4bwrakWnAq3spXK7FvNqwY) | [Shingo](https://open.spotify.com/album/7klo4BZCjEJT0158jeEamD) | 2:46 | 2021-11-10 |  |
@@ -910,6 +910,7 @@
 | [The Bonfire](https://open.spotify.com/track/20qRFBt1tXWKUviJ6VbU96) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [The Bonfire](https://open.spotify.com/album/1JligVw73mWa9lWmIei1pk) | 2:39 | 2023-03-16 |  |
 | [The Bus Driver](https://open.spotify.com/track/202IHrJ3WGlLnhcBn7MnJn) | [Dubtrack](https://open.spotify.com/artist/7649N0LXjp4mVaHfuLqcGo) | [The Bus Driver](https://open.spotify.com/album/2mxNnMGuSW9flakR4AyVcC) | 2:25 | 2023-04-20 |  |
 | [The City Weeps](https://open.spotify.com/track/7BYY8V037OArkl6zsD4s7K) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [The City Weeps](https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23) | 2:19 | 2023-09-08 |  |
+| [the eagle](https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch) | [karlaplan.](https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr) | [the eagle](https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd) | 2:12 | 2023-09-08 |  |
 | [The Field](https://open.spotify.com/track/0XzV859RoblQ1Qdu5ugCCv) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [The Field](https://open.spotify.com/album/0gpCwSea1AT1JaDgKwniFx) | 2:18 | 2022-10-01 |  |
 | [The Kaleidoscope](https://open.spotify.com/track/22X60sGBAqAMVqxIwZnMko) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [The Kaleidoscope](https://open.spotify.com/album/6osPfOt5X9epMYvEgtyby6) | 1:59 | 2023-05-19 |  |
 | [The Last Caress](https://open.spotify.com/track/2gyLOxjHak9GNl91uRckOK) | [Nahucast](https://open.spotify.com/artist/5PKH3iR7YxQUrVDeNsAu3S), [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e) | [The Last Caress](https://open.spotify.com/album/04TQTvvd6i65iPy9oJck56) | 2:35 | 2022-07-08 |  |

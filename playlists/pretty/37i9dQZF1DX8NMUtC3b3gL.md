@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,309 likes - 290 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,392 likes - 290 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 99 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 |
 | 100 | [Inner Peace](https://open.spotify.com/track/0eUF2e0MbDLjn3q6oAozI3) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Inner Peace](https://open.spotify.com/album/3WSaq9ZPAbpmybrccwdxbc) | 2:05 |
 | 101 | [By Your Side](https://open.spotify.com/track/1XnYF6p4eFq3lQNloDQDUE) | [Dream Hopper](https://open.spotify.com/artist/6yWYeA3RBCh60Lig4Q1Ldu) | [By Your Side](https://open.spotify.com/album/2C1YmC8MhSNjiIEwsIAFw4) | 2:52 |
-| 102 | [summer haze](https://open.spotify.com/track/5BKszK7QI1EjeEB7SgoQVh) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [summer haze](https://open.spotify.com/album/0tRV2enItxLhyTrMHRYS2V) | 3:44 |
+| 102 | [summer haze](https://open.spotify.com/track/0aG9gVRYIzdHwMeUQcLm0v) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Summer 32](https://open.spotify.com/album/17dlQVGukmo4BMGc3TOb4D) | 3:44 |
 | 103 | [Mystiqa](https://open.spotify.com/track/4RwJDAOh06mjuEGXjr9JbL) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Mystiqa](https://open.spotify.com/album/6M3oABRnIDaxJs6K6g0NJ4) | 2:21 |
 | 104 | [Echoes from the Deep Blue](https://open.spotify.com/track/6Q3pWdM0ZYiCI2zgImmwvm) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Echoes from the Deep Blue](https://open.spotify.com/album/5WFHjTZNGZjn9OYCiLWrfi) | 2:26 |
 | 105 | [In My Lifetime](https://open.spotify.com/track/4xnUnOJbzbWZEVY4Ktublu) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [In My Lifetime](https://open.spotify.com/album/4I8emTVXQz9SwQJ4n0sDio) | 1:49 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 289 | [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 |
 | 290 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 
-Snapshot ID: `MCw2YWE4ZDMyYjdmMWE1YWQ3YTRlNjI1YTZkMWI4NGQzMmU1NmFjNDk2`
+Snapshot ID: `MCw5MDZmZjM1MGY2MjFiZmMzNDA4NTY2Yzk1NzcyMzRkNDIxMWQxOTM5`

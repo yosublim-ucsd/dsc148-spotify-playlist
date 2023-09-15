@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Sparklehorse
 
-5,823 songs - 14 day 4 hr 46 min
+5,824 songs - 14 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,8 @@
 | [Alien Blues \(Feat\. Indigo De Souza\) \- Redux](https://open.spotify.com/track/2lLichO1EHChwrxdeL5s9M) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6), [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Alien Blues \(Redux\)](https://open.spotify.com/album/1ShWod0n65R0ojNlD5IAZF) | 2:35 | 2022-01-21 | 2022-03-05 |
 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 | 2023-08-11 |  |
 | [alienlover](https://open.spotify.com/track/7pBU6cevY5QKMRPhFydtTx) | [Gracie Gray](https://open.spotify.com/artist/2KgkkXOzFBuE67knhA4ebG) | [alienlover](https://open.spotify.com/album/7zAlsAQKjaCZ4qLixVvHj4) | 3:13 | 2021-11-06 | 2021-12-11 |
-| [alife](https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [alife](https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm) | 4:33 | 2023-09-01 |  |
+| [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 | 2023-09-01 |  |
+| [alife](https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [alife](https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm) | 4:33 | 2023-09-01 | 2023-09-15 |
 | [Alive](https://open.spotify.com/track/1C0RqlX4XPT2UqBPmGIITa) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [CoeurWorld](https://open.spotify.com/album/6gWNl92TYvAHcj1KaE8zXm) | 2:26 | 2020-05-01 | 2020-05-22 |
 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 | 2021-10-22 | 2022-01-08 |
 | [Alive and Dying \(Waving, Smiling\)](https://open.spotify.com/track/2vzHb5i39KmD3nG7TZn2Td) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Alive and Dying \(Waving, Smiling\)](https://open.spotify.com/album/7sM2tdfB5aZg4e0HlwLrjk) | 4:16 | 2021-04-24 | 2021-06-26 |
@@ -3015,7 +3016,7 @@
 | [Lilys \- HBO ‘Made For Love’ Cut](https://open.spotify.com/track/4oK4XJa92LlpMNAzx1TMlP) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Lilys \(HBO Made For Love Cut\)](https://open.spotify.com/album/0CxzNVsULMyKLNYfNCtHMF) | 3:39 | 2021-05-03 | 2021-06-26 |
 | [Limousine](https://open.spotify.com/track/3zL4FoSW5burOKQQkEqFPS) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Junior Varsity](https://open.spotify.com/album/3PWehhZAClLw6iOnqRBfMM) | 2:12 | 2021-08-14 | 2021-10-02 |
 | [Line of Fire](https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm) | 3:08 | 2021-09-18 | 2021-11-20 |
-| [Linger](https://open.spotify.com/track/6Eo5VpS0IKPDA2EqPJO9e1) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS) | [Linger](https://open.spotify.com/album/3Ni2lU6KIFz6pFfvkeK2LF) | 3:14 | 2023-09-08 |  |
+| [Linger](https://open.spotify.com/track/6Eo5VpS0IKPDA2EqPJO9e1) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS), [Different Hits](https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK) | [Linger](https://open.spotify.com/album/3Ni2lU6KIFz6pFfvkeK2LF) | 3:14 | 2023-09-08 |  |
 | [Lingers On](https://open.spotify.com/track/3dYJZb05zdGqHu5mC6hhwC) | [Eleanor Kingston](https://open.spotify.com/artist/4NflbC6MLEv2KnPSdLEi7T), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [Lingers On](https://open.spotify.com/album/0QhwHHAn4kh90aT5e6am6p) | 3:40 | 2022-12-09 | 2023-02-11 |
 | [Linked](https://open.spotify.com/track/0izbMfR7hvGHEoGBD5bBli) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/2ON5Z0fO371hIhW8AUTNth) | 6:09 | 2019-07-05 | 2019-08-30 |
 | [Lion](https://open.spotify.com/track/0v487e7WCeZi2lOGbW6RYc) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Today & Tomorrow](https://open.spotify.com/album/7A6aNtppf2VKZE9xTnvm7z) | 3:17 | 2022-11-11 | 2023-01-14 |

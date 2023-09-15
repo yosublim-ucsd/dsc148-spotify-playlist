@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: F\u00faria",
-  "num_followers": 124692,
+  "num_followers": 124807,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmU3NTQ3MDM0NWY2OTQ0M2RjZWZmZWQ5MDhlNTU1YWFmMmEwZDM4",
+  "snapshot_id": "MCwzZWQxMDcwMDUxYmY1ZTljYzY1ZDRhZTExNTQ1MmJmZjdjYzQ1YWM4",
   "tracks": [
     {
       "added_at": "2023-09-08 16:50:55",
@@ -271,6 +271,26 @@
     {
       "added_at": "2023-09-08 16:50:55",
       "album": {
+        "name": "Dama de Vermelho",
+        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Dama de Vermelho",
+      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
+    },
+    {
+      "added_at": "2023-09-08 16:50:55",
+      "album": {
         "name": "Assault (Joias no Pulso)",
         "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 274015,
       "name": "Assault (Joias no Pulso)",
       "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
-    },
-    {
-      "added_at": "2023-09-08 16:50:55",
-      "album": {
-        "name": "Dama de Vermelho",
-        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Dama de Vermelho",
-      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
     },
     {
       "added_at": "2023-09-08 16:50:55",
@@ -787,6 +787,30 @@
     {
       "added_at": "2023-09-08 16:50:55",
       "album": {
+        "name": "Trap Funk Star",
+        "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 206068,
+      "name": "Pe\u00e7as De Griffe",
+      "url": "https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W"
+    },
+    {
+      "added_at": "2023-09-08 16:50:55",
+      "album": {
         "name": "Meu Amigo Di\u00e1rio, Vol. 1 - M.A.D",
         "url": "https://open.spotify.com/album/681qRc7HzASc5cALLkOFLO"
       },
@@ -815,30 +839,6 @@
       "duration_ms": 225000,
       "name": "Jogo Sujo",
       "url": "https://open.spotify.com/track/0lkAURQeEdd49DVZPu020Q"
-    },
-    {
-      "added_at": "2023-09-08 16:50:55",
-      "album": {
-        "name": "Trap Funk Star",
-        "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 206068,
-      "name": "Pe\u00e7as De Griffe",
-      "url": "https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W"
     },
     {
       "added_at": "2023-09-08 16:50:55",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-09-08 16:50:55",
       "album": {
-        "name": "Atg Tape",
-        "url": "https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Offlei Sounds",
-          "url": "https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC"
-        }
-      ],
-      "duration_ms": 152452,
-      "name": "Tiffany",
-      "url": "https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR"
-    },
-    {
-      "added_at": "2023-09-08 16:50:55",
-      "album": {
         "name": "TAURUS",
         "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 190344,
       "name": "99 Problemas",
       "url": "https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw"
+    },
+    {
+      "added_at": "2023-09-08 16:50:55",
+      "album": {
+        "name": "Atg Tape",
+        "url": "https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Offlei Sounds",
+          "url": "https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC"
+        }
+      ],
+      "duration_ms": 152452,
+      "name": "Tiffany",
+      "url": "https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR"
     },
     {
       "added_at": "2023-09-08 16:50:55",
@@ -1111,6 +1111,30 @@
     {
       "added_at": "2023-09-08 16:50:55",
       "album": {
+        "name": "TAURUS",
+        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Duani",
+          "url": "https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        }
+      ],
+      "duration_ms": 209109,
+      "name": "Big D!!!!!",
+      "url": "https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph"
+    },
+    {
+      "added_at": "2023-09-08 16:50:55",
+      "album": {
         "name": "OCF",
         "url": "https://open.spotify.com/album/2KNYVqOm36goIRn810YdJL"
       },
@@ -1147,30 +1171,6 @@
       "duration_ms": 162767,
       "name": "1 Minuto",
       "url": "https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz"
-    },
-    {
-      "added_at": "2023-09-08 16:50:55",
-      "album": {
-        "name": "TAURUS",
-        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Duani",
-          "url": "https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1"
-        },
-        {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
-        }
-      ],
-      "duration_ms": 209109,
-      "name": "Big D!!!!!",
-      "url": "https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph"
     },
     {
       "added_at": "2023-09-08 16:50:55",

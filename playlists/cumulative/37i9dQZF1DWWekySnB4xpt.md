@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Mau y Ricky
 
-138 songs - 8 hr 23 min
+139 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,12 +107,13 @@
 | [Quiero \- TDH's Version](https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Quiero \(TDH's Version\)](https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL) | 2:37 | 2022-05-19 | 2022-10-01 |
 | [Reset](https://open.spotify.com/track/2vGR2udwxxgDzH1nRkIAAa) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:11 | 2021-12-17 |  |
 | [Se Acabó \(feat\. Chino & Nacho\)](https://open.spotify.com/track/0Utzzt4g5obYXkREtLiRR1) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [El Plan](https://open.spotify.com/album/2DVYLr5bpUMkzql2NQlMSW) | 3:27 | 2021-12-17 |  |
-| [Se Como Duele](https://open.spotify.com/track/3tsj7uEsGecyovICaGtJzo) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Serie Platino](https://open.spotify.com/album/3XSI69hVCZmWokb6pfHAef) | 3:13 | 2022-07-01 |  |
+| [Se Como Duele](https://open.spotify.com/track/3tsj7uEsGecyovICaGtJzo) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Serie Platino](https://open.spotify.com/album/3XSI69hVCZmWokb6pfHAef) | 3:13 | 2022-07-01 | 2023-09-15 |
 | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF) | 2:35 | 2021-12-17 |  |
 | [Secreto](https://open.spotify.com/track/5bvBnLBzfBR3rLtArdiclG) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [8](https://open.spotify.com/album/2JnQQ4NCgc9mN2F0LJkQxl) | 3:20 | 2021-12-17 |  |
 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 | 2021-12-17 |  |
 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 | 2021-12-17 | 2022-04-23 |
 | [Sé Como Duele](https://open.spotify.com/track/7a8ShNCakt6bJj1GhNEdYF) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2GfGn4V16KyYJFtkKL4OHY) | 3:13 | 2021-12-17 | 2022-07-29 |
+| [Sé Cómo Duele](https://open.spotify.com/track/1723G9MmbFUTH8yai7AaWL) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2EeG6eYEpdAovdBFioA4C3) | 3:13 | 2023-03-03 |  |
 | [Tan Enamorados \(Nina Bonita\)](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Haciendo Camino](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 4:12 | 2021-12-17 |  |
 | [Te Doy Mi Amor](https://open.spotify.com/track/5cgwBlY1oNdnuNsy4PaXAz) | [Bacanos](https://open.spotify.com/artist/3z3dviTNMzuW5GNEfcZQdP) | [Baila Pa Mi](https://open.spotify.com/album/3V12VqHb3oVpbwFGd3tKGn) | 3:48 | 2021-12-17 |  |
 | [Te Regalo](https://open.spotify.com/track/3z5sIFdvh6TJNJeBzRrQIE) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [Te Regalo](https://open.spotify.com/album/2unJkpyUhicgaOswYDXV0p) | 3:25 | 2021-12-17 |  |

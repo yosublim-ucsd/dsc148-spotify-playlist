@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Dilla",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Mayberg",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -284,6 +284,42 @@
       "duration_ms": 152673,
       "name": "7SD",
       "url": "https://open.spotify.com/track/0uSPEMHkNHifMbwYUP4LwH"
+    },
+    {
+      "album": {
+        "name": "vier aufnahmen",
+        "url": "https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170713,
+      "name": "\\ der sch\u00f6nste mensch der welt",
+      "url": "https://open.spotify.com/track/120jaxjSxt7ocidusCDQoy"
+    },
+    {
+      "album": {
+        "name": "vier aufnahmen",
+        "url": "https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145063,
+      "name": "\\ sympathisch",
+      "url": "https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX"
     },
     {
       "album": {
@@ -1160,7 +1196,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 197683,
       "name": "Danke dass du mich verlassen hast",
       "url": "https://open.spotify.com/track/1D3iM8TeSYE9HqoIT0ATd3"
@@ -1579,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Egal (was passiert)",
+        "url": "https://open.spotify.com/album/4mNn1ZVQzxRhOQjFav5rMe"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198120,
+      "name": "Egal (was passiert)",
+      "url": "https://open.spotify.com/track/0kNkyLekrgYVDt6EPmslv2"
+    },
+    {
+      "album": {
         "name": "Egoist",
         "url": "https://open.spotify.com/album/6cLgeh84azkbBltd6ZOw7S"
       },
@@ -1831,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "es ist sp\u00e4t",
+        "url": "https://open.spotify.com/album/4kiJxNQKvKzuClgBAbHcdW"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121929,
+      "name": "es ist sp\u00e4t",
+      "url": "https://open.spotify.com/track/5eg2Kn2Z85VdZYX6mYkdkw"
+    },
+    {
+      "album": {
         "name": "Wir Werden Sehen",
         "url": "https://open.spotify.com/album/3qx0YVMoydVJuhLPdyimfH"
       },
@@ -1904,6 +1976,24 @@
       "duration_ms": 176262,
       "name": "Farben",
       "url": "https://open.spotify.com/track/1rtc6E93KWPjsDZmsnI875"
+    },
+    {
+      "album": {
+        "name": "Farbverlauf",
+        "url": "https://open.spotify.com/album/6BbW7UG3EPMKyWUTnob6NJ"
+      },
+      "artists": [
+        {
+          "name": "George JR",
+          "url": "https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146964,
+      "name": "Farbverlauf",
+      "url": "https://open.spotify.com/track/0mSTVa3P2tv6zGRK2J63wI"
     },
     {
       "album": {
@@ -2276,7 +2366,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 188786,
       "name": "Gelangweilt",
       "url": "https://open.spotify.com/track/2KEMkFSPFldGv8zBK2wTjt"
@@ -2312,7 +2402,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 142050,
       "name": "Genug",
       "url": "https://open.spotify.com/track/75uNUFBi9YnNGhIX2nyIxA"
@@ -2370,7 +2460,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 188082,
       "name": "Girls",
       "url": "https://open.spotify.com/track/1ekbaHcYd9fUMvRVWT1IHF"
@@ -2392,6 +2482,24 @@
       "duration_ms": 202709,
       "name": "Glatteis",
       "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
+    },
+    {
+      "album": {
+        "name": "gloria",
+        "url": "https://open.spotify.com/album/0Jprwfz5Yv9WzebYv5fKWQ"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "gloria",
+      "url": "https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ"
     },
     {
       "album": {
@@ -2630,7 +2738,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 173026,
       "name": "Hei\u00df/Kalt",
       "url": "https://open.spotify.com/track/0BiieGdpvQqs1KhLCSbrT5"
@@ -2750,7 +2858,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 185443,
       "name": "Ich Feier (feat. DISSY)",
       "url": "https://open.spotify.com/track/3PjOhZBUKPJcpDFHM1yVUJ"
@@ -3019,6 +3127,46 @@
     },
     {
       "album": {
+        "name": "Die Pointe",
+        "url": "https://open.spotify.com/album/37bJUCwPLErO9HkGNJTJFs"
+      },
+      "artists": [
+        {
+          "name": "Kicker Dibs",
+          "url": "https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt"
+        },
+        {
+          "name": "Dery",
+          "url": "https://open.spotify.com/artist/13UxT98QMoLM0jShpdvU0S"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "Irgendwo",
+      "url": "https://open.spotify.com/track/1yJgf4ImIanoAfQudI60N7"
+    },
+    {
+      "album": {
+        "name": "Irgendwo im Nirgendwo",
+        "url": "https://open.spotify.com/album/2uOZo0Rk6iiIJdHaf9RzYS"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189858,
+      "name": "Irgendwo im Nirgendwo",
+      "url": "https://open.spotify.com/track/2NJFMUUAOFj9V0uvEOzltu"
+    },
+    {
+      "album": {
         "name": "Von all dem nichts gewusst",
         "url": "https://open.spotify.com/album/5NQSuJvKv3GHBQYjo3HzBk"
       },
@@ -3186,7 +3334,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 180186,
       "name": "Katharina",
       "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
@@ -3522,6 +3670,28 @@
       "duration_ms": 198080,
       "name": "Laufen lernen",
       "url": "https://open.spotify.com/track/0dY9rVInyyuRCa0rNin52x"
+    },
+    {
+      "album": {
+        "name": "Laut Denken",
+        "url": "https://open.spotify.com/album/2TcpdBpjdbvCeeIAfFR783"
+      },
+      "artists": [
+        {
+          "name": "Flavio",
+          "url": "https://open.spotify.com/artist/6TBB2wdiwVBJYCdaRhOErs"
+        },
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137973,
+      "name": "Laut Denken",
+      "url": "https://open.spotify.com/track/0ByVX07lcLowwxoSOEeMGo"
     },
     {
       "album": {
@@ -3913,6 +4083,24 @@
     },
     {
       "album": {
+        "name": "Moshpit",
+        "url": "https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121022,
+      "name": "Moshpit",
+      "url": "https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY"
+    },
+    {
+      "album": {
         "name": "Mut",
         "url": "https://open.spotify.com/album/4aYZfCtzXSvMFAVRApKo4R"
       },
@@ -4116,7 +4304,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 225790,
       "name": "Nie Rebell",
       "url": "https://open.spotify.com/track/6WbPmqkMgOZ5M8GPVrPmpB"
@@ -4214,6 +4402,24 @@
       "duration_ms": 161956,
       "name": "Nur ein bisschen",
       "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
+    },
+    {
+      "album": {
+        "name": "Offiziell Gl\u00fccklich",
+        "url": "https://open.spotify.com/album/5nI1xih2hIWj0zf056x31C"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Offiziell Gl\u00fccklich",
+      "url": "https://open.spotify.com/track/4zD9KFD8awuhpSuzygS4Pf"
     },
     {
       "album": {
@@ -4492,7 +4698,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 161000,
       "name": "Plottwist",
       "url": "https://open.spotify.com/track/6yx2Rb4TUAKjSMClabhdAu"
@@ -4732,6 +4938,24 @@
     {
       "album": {
         "name": "Rosarot",
+        "url": "https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1"
+      },
+      "artists": [
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159672,
+      "name": "Rosarot",
+      "url": "https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ"
+    },
+    {
+      "album": {
+        "name": "Rosarot",
         "url": "https://open.spotify.com/album/4HWHyApHm2JcakwYgqGAxc"
       },
       "artists": [
@@ -4890,7 +5114,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 157071,
       "name": "schwarzes wasser",
       "url": "https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6"
@@ -5031,6 +5255,24 @@
     },
     {
       "album": {
+        "name": "SIE WOLLEN DIES SIE WOLLEN DAS / 7 tage",
+        "url": "https://open.spotify.com/album/7FoAhKHHzv3eCPda1LoiCx"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123779,
+      "name": "SIE WOLLEN DIES SIE WOLLEN DAS",
+      "url": "https://open.spotify.com/track/0EH4T1vEnWzbzYYRNGNAf3"
+    },
+    {
+      "album": {
         "name": "Skandal im Patriarchat",
         "url": "https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB"
       },
@@ -5078,7 +5320,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 156500,
       "name": "So weit weg wie es geht",
       "url": "https://open.spotify.com/track/25IhvOQQe2P2oBNTIDOPyH"
@@ -5342,7 +5584,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 158441,
       "name": "Star",
       "url": "https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2"
@@ -5618,7 +5860,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 217266,
       "name": "Timoth\u00e9e Chalamet",
       "url": "https://open.spotify.com/track/5JYKaqxrlGN0QiKMTud8Yn"
@@ -5662,6 +5904,24 @@
       "duration_ms": 212142,
       "name": "Toskana",
       "url": "https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf"
+    },
+    {
+      "album": {
+        "name": "Tourrettes",
+        "url": "https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk"
+      },
+      "artists": [
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168188,
+      "name": "Tourrettes",
+      "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
     },
     {
       "album": {
@@ -6240,7 +6500,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 145285,
       "name": "Weinen",
       "url": "https://open.spotify.com/track/1oNkud43ajuoyStDwOpb3z"

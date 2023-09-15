@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Leatherette in cover questa settimana!",
+  "description": "La playlist che \u00e8 come andare ai concerti. Cover: Piqued Jacks",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1233,6 +1233,28 @@
     },
     {
       "album": {
+        "name": "C'era ancora il sole",
+        "url": "https://open.spotify.com/album/4CjrIQTplW9YXFlIdtMyul"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Canali",
+          "url": "https://open.spotify.com/artist/5Q1J5NzWPdZcj26K5DqIDQ"
+        },
+        {
+          "name": "Rossofuoco",
+          "url": "https://open.spotify.com/artist/1KZdpVFl5PG1xZ213r7aFO"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200899,
+      "name": "C'era ancora il sole",
+      "url": "https://open.spotify.com/track/5pSnuu6iJvp8yluC3ZIpqt"
+    },
+    {
+      "album": {
         "name": "C'ho tutto un sogno Ramones",
         "url": "https://open.spotify.com/album/7uv4i53ioio39t8xXNhXw9"
       },
@@ -1302,6 +1324,24 @@
       "duration_ms": 226000,
       "name": "Calamite",
       "url": "https://open.spotify.com/track/4rjM6Ju3F5XEqZ5XJEXdKb"
+    },
+    {
+      "album": {
+        "name": "Calciobalilla",
+        "url": "https://open.spotify.com/album/7KWCYtMXCWOS6VulD55z6K"
+      },
+      "artists": [
+        {
+          "name": "Monteluna",
+          "url": "https://open.spotify.com/artist/6HWN4ZzmkY3LjJwqS4CFRb"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259577,
+      "name": "Calciobalilla",
+      "url": "https://open.spotify.com/track/4Pz2xSB2FxfzsvIhWYj2wP"
     },
     {
       "album": {
@@ -1825,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Color Shades",
+        "url": "https://open.spotify.com/album/32aZ5m6NZ2zv9nlReMdrg1"
+      },
+      "artists": [
+        {
+          "name": "Piqued Jacks",
+          "url": "https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198673,
+      "name": "Color Shades",
+      "url": "https://open.spotify.com/track/1IQFjP1hfifbffLTD4z61b"
+    },
+    {
+      "album": {
         "name": "Colla",
         "url": "https://open.spotify.com/album/5D5w8JApLuc02WQR6nEUSj"
       },
@@ -2288,6 +2346,24 @@
       "duration_ms": 130030,
       "name": "Destroy",
       "url": "https://open.spotify.com/track/1qyC24XBRS8gCtgHdogqSZ"
+    },
+    {
+      "album": {
+        "name": "Detox Retox",
+        "url": "https://open.spotify.com/album/77OqnC3yLRJDpCc87QEpi6"
+      },
+      "artists": [
+        {
+          "name": "The Elephant",
+          "url": "https://open.spotify.com/artist/0DoWJgmqrYGay5SQYudUqY"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124181,
+      "name": "Detox Retox",
+      "url": "https://open.spotify.com/track/737QdNTCpPKTdYSqsaXtTF"
     },
     {
       "album": {
@@ -3256,6 +3332,24 @@
       "duration_ms": 206896,
       "name": "Frutta Fresca",
       "url": "https://open.spotify.com/track/0rNP0DmIwhD3Uj0d05V0rV"
+    },
+    {
+      "album": {
+        "name": "Fumo un po'",
+        "url": "https://open.spotify.com/album/1b4M4WAIslcN8o10yyxgkE"
+      },
+      "artists": [
+        {
+          "name": "Gli Occhi Degli Altri",
+          "url": "https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118643,
+      "name": "Fumo un po'",
+      "url": "https://open.spotify.com/track/6C0ZrXgrzwaN5eE4IV3d4l"
     },
     {
       "album": {
@@ -6909,6 +7003,24 @@
     },
     {
       "album": {
+        "name": "LIQUAMI",
+        "url": "https://open.spotify.com/album/7AMCXVZbtpJHXEB9LT7dJa"
+      },
+      "artists": [
+        {
+          "name": "Liquami",
+          "url": "https://open.spotify.com/artist/7wyIRmUWGF1G4b0E2ZuHAa"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Prodotto tipico",
+      "url": "https://open.spotify.com/track/1OwwiFx2Y3bYnA1k2RRsHx"
+    },
+    {
+      "album": {
         "name": "Proprio tu",
         "url": "https://open.spotify.com/album/59jxe1FypLBdSxb2tMz5Yd"
       },
@@ -8996,6 +9108,28 @@
       "duration_ms": 161744,
       "name": "Tropea",
       "url": "https://open.spotify.com/track/5VguwzuBH9qWhVTmF02MgN"
+    },
+    {
+      "album": {
+        "name": "TU MI MANDI FUORI",
+        "url": "https://open.spotify.com/album/0LWdurIbQWkBm9cqTOfzB1"
+      },
+      "artists": [
+        {
+          "name": "Quarzo Blu",
+          "url": "https://open.spotify.com/artist/1Z06Rc5TWBWnYL2WKoQheu"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131964,
+      "name": "TU MI MANDI FUORI",
+      "url": "https://open.spotify.com/track/235dHwSaoNAWY29a0gSBWw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/322039?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,291 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,420 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 47 | [鬼を起こすな！](https://open.spotify.com/track/4eT73vDsp2s7GvenBGgNsV) | [ポニーのヒサミツ](https://open.spotify.com/artist/5Jgmn1ZKXTKLR1uxbu0lSg) | [鬼を起こすな！](https://open.spotify.com/album/5ngQTEMVlzsReny4EC9rtj) | 3:07 |
 | 48 | [そのまま僕らは旅に出る](https://open.spotify.com/track/7mK5kXVq29RdzXKihQzPHy) | [Sundayカミデ](https://open.spotify.com/artist/68gwW3maybvvPRmjHufvgy) | [そのまま僕らは旅に出る](https://open.spotify.com/album/67FHXmUkK2WdWrD1sn1waY) | 3:53 |
 | 49 | [any clothes](https://open.spotify.com/track/2nV0xxpvaNjFp38TYNLQSJ) | [D.Y.T](https://open.spotify.com/artist/7d4hOy3dp0h9hOWxnraCQY) | [any clothes](https://open.spotify.com/album/2RJgCY0UkcuL5PXpjdc3Gl) | 2:30 |
-| 50 | [This is Love](https://open.spotify.com/track/2UpYcx6CtOFqdz0Enh608Y) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0) | [This is Love](https://open.spotify.com/album/34p5vSdr7BrTg69dU0ThTP) | 3:42 |
+| 50 | [This is Love](https://open.spotify.com/track/2UpYcx6CtOFqdz0Enh608Y) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [高谷秀司](https://open.spotify.com/artist/7dkLPE7h3MieW9fchAcsky) | [This is Love](https://open.spotify.com/album/34p5vSdr7BrTg69dU0ThTP) | 3:42 |
 | 51 | [Polaroid \(prod\. A.G.O\)](https://open.spotify.com/track/0iJOkpME4Aq3BxF6NZ6wvL) | [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Polaroid \(prod\. A.G.O\)](https://open.spotify.com/album/2yqOMxejtQCFu1KCKDkQer) | 3:30 |
 | 52 | [UMA](https://open.spotify.com/track/2vJ8n0NKqQamRSKwDJodZP) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [UMA](https://open.spotify.com/album/3SCVZks7F9EodJEy0BvJBe) | 3:48 |
 | 53 | [うれしくて](https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 6:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Blind man theory](https://open.spotify.com/track/5iRhjCtqluCy2YEGRws7UA) | [ISH\-ONE](https://open.spotify.com/artist/0ywLwPt2AsDYor1f8z9YRP), [TEAM2MVCH](https://open.spotify.com/artist/4uT1lXYK6BODZs8UmLyMBn) | [Illuminate](https://open.spotify.com/album/24WpRSwrojMLNDIBGMDIlw) | 2:35 |
 | 80 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/69xcj07x7CoDq2X82QA14j) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4h3k67qvKQdWTM7LWpSYOH) | 5:12 |
 
-Snapshot ID: `MCw5OGNhOWVlNjE1YzMxOWVkNjU4OTNmZDFmZTE2ZGE3MTY1YzczMmJl`
+Snapshot ID: `MCwwMWI4YjQzZTQ5N2QyZWE3MTNjMzY3NTM2YjEzNzY0MzYyYTFkNmJl`

@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1960s.
 
-223 songs - 10 hr 8 min
+224 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [I'm A Man \- Remastered 2010](https://open.spotify.com/track/4c1OV8KQINR16nYgl3lFbG) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Punk Music](https://open.spotify.com/album/3Pca1TfQuqUzUIhN0JjD0A) | 2:56 | 2022-06-16 | 2022-11-13 |
 | [If I Had a Hammer](https://open.spotify.com/track/2UpIaXFmrG20LfYbxpwo4e) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Trini Lopez \- If I Had a Hammer](https://open.spotify.com/album/6wvcOigHzifG2mM88zutY9) | 2:58 | 2022-06-16 | 2022-11-13 |
 | [If I Had a Hammer](https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Rhino Hi\-Five: Trini Lopez](https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI) | 2:59 | 2021-04-07 | 2022-09-03 |
-| [If I Had a Hammer](https://open.spotify.com/track/4JMl6POnS2IPBpVVwDl06P) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Greatest Hits](https://open.spotify.com/album/7wNWm9v6ZapW2K2yx4HFzz) | 2:59 | 2022-06-16 |  |
+| [If I Had a Hammer](https://open.spotify.com/track/4JMl6POnS2IPBpVVwDl06P) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Greatest Hits](https://open.spotify.com/album/7wNWm9v6ZapW2K2yx4HFzz) | 2:59 | 2022-06-16 | 2023-09-15 |
+| [If I Had a Hammer](https://open.spotify.com/track/2U1t5kdqbSRuiecDAf3yTz) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Hammering it!](https://open.spotify.com/album/1nlXqpZxlfU3zXyH80IP81) | 2:59 | 2022-06-16 |  |
 | [In the Midnight Hour](https://open.spotify.com/track/4Px3eyuChcQdX1GXytgxF2) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:37 | 2021-04-07 |  |
 | [It Takes Two](https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK) | 2:57 | 2021-04-07 |  |
 | [It's In The Kiss \(The Shoop Shoop Song\)](https://open.spotify.com/track/35hfuechuOqaW31ogdauO7) | [Betty Everett](https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl) | [No Place To Hide](https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q) | 2:09 | 2021-04-07 |  |

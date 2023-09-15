@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "2 Fresh",
+        "url": "https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD"
+      },
+      "artists": [
+        {
+          "name": "Abstraktt",
+          "url": "https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137622,
+      "name": "2 Fresh",
+      "url": "https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt"
+    },
+    {
+      "album": {
         "name": "Abasakoom",
         "url": "https://open.spotify.com/album/6recifnSNcbsFOKrc6d2ck"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 226162,
       "name": "K\u0254\u0254",
       "url": "https://open.spotify.com/track/5XCBMETHAG2klPDEcUP4Jy"
@@ -2077,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Oliver Khan",
+        "url": "https://open.spotify.com/album/4z9KOiawTgEyS7JsG6VAn9"
+      },
+      "artists": [
+        {
+          "name": "Bosom P-Yung",
+          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200733,
+      "name": "Oliver Khan",
+      "url": "https://open.spotify.com/track/144P7iTQDdvpdQUPKYzsjD"
+    },
+    {
+      "album": {
         "name": "ON TEN",
         "url": "https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4"
       },
@@ -2272,7 +2308,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 168071,
       "name": "Ride (feat. Terrist Carter & O'Kenneth)",
       "url": "https://open.spotify.com/track/4EPXk7ufo9aCCPHNnEN0lZ"
@@ -2558,7 +2594,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 135625,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/1wZfdwMq8dgacs2CF1mT7x"
@@ -2656,6 +2692,32 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
+    },
+    {
+      "album": {
+        "name": "We Goofed",
+        "url": "https://open.spotify.com/album/0kxiSbstlxUDwPdOVGnwxO"
+      },
+      "artists": [
+        {
+          "name": "Appietus",
+          "url": "https://open.spotify.com/artist/3aupsfQC9Iy7j3uSEnTqoN"
+        },
+        {
+          "name": "Asenke",
+          "url": "https://open.spotify.com/artist/2xroUocjdynbenU8vVWwer"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182789,
+      "name": "We Goofed",
+      "url": "https://open.spotify.com/track/1yN9EQOrLJlcAuBx6fCakL"
     },
     {
       "album": {

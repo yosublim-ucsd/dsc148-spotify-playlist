@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Avance!",
+        "url": "https://open.spotify.com/album/49RdQZp2zxI37E4T4XHo2X"
+      },
+      "artists": [
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316640,
+      "name": "Avance!",
+      "url": "https://open.spotify.com/track/1vEzxSoZCiKWexl4kLptO7"
+    },
+    {
+      "album": {
         "name": "Avanto",
         "url": "https://open.spotify.com/album/7mlcm953YiLSKkF39a0V6n"
       },
@@ -318,7 +336,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 406546,
       "name": "Brief of Bawa",
       "url": "https://open.spotify.com/track/5zTYrVDnEN2MdEEgxef44P"
@@ -450,7 +468,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 475909,
       "name": "Concrete Material",
       "url": "https://open.spotify.com/track/1lsfDuTKA2VqxWp4o0DOSf"
@@ -591,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Direction Zero",
+        "url": "https://open.spotify.com/album/7vGYQw6dwogNb67igmzHBq"
+      },
+      "artists": [
+        {
+          "name": "New 4",
+          "url": "https://open.spotify.com/artist/0ZHzxJeMzblX3jpkIthHSx"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303093,
+      "name": "Direction Zero",
+      "url": "https://open.spotify.com/track/1g3OXg3fy4uuvT6f1lfTrr"
+    },
+    {
+      "album": {
         "name": "Duke",
         "url": "https://open.spotify.com/album/5Ypwfjq7GbjGHXYiKeLxeN"
       },
@@ -620,7 +656,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 174195,
       "name": "D\u00e4g\u00e4 D\u00e4g\u00e4",
       "url": "https://open.spotify.com/track/1ClFUVHYgThdnktoMhcDVE"
@@ -660,7 +696,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 353000,
       "name": "Elastic Energy",
       "url": "https://open.spotify.com/track/43p6GKAUMfmhdlmAC6PN8i"
@@ -1016,7 +1052,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 315213,
       "name": "I\u00b4ll Be Seeing You",
       "url": "https://open.spotify.com/track/5vPBcZIGc4sttgZR9kM3VR"
@@ -1402,7 +1438,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 322320,
       "name": "L\u00f6yly",
       "url": "https://open.spotify.com/track/5PajsYtW5p4Ouut9qxesuZ"
@@ -1442,7 +1478,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 300306,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/5g7R1HYpEUNtD1G0yYadAI"
@@ -1478,7 +1514,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 271376,
       "name": "Mountain Man Exit",
       "url": "https://open.spotify.com/track/7xKRYjwpDJHiWBSRNFscJ0"
@@ -1834,7 +1870,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 194013,
       "name": "Poncho",
       "url": "https://open.spotify.com/track/5l2mlrojPLmgdfMkgVxvCn"
@@ -1914,7 +1950,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 269479,
       "name": "Rediscovery",
       "url": "https://open.spotify.com/track/0v22LOn7a7fNc1R6UyTXZ4"
@@ -2094,7 +2130,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 378839,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/57bfuyhyiUI3clhgozihNJ"
@@ -2142,7 +2178,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 224573,
       "name": "Sola",
       "url": "https://open.spotify.com/track/7dLT70xFb21N9Un90stelN"
@@ -2372,7 +2408,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 263250,
       "name": "The World Is Your Oyster",
       "url": "https://open.spotify.com/track/2yeGxLeOGTlQKZSUK2Mni7"

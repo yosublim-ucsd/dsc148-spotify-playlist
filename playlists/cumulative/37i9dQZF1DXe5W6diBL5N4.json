@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: KEY)",
-  "name": "New Music K-Pop",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: KEY) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "name": "New Music K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
       "album": {
@@ -3748,7 +3748,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 160533,
       "name": "Adulting",
       "url": "https://open.spotify.com/track/6loqQEv0DKuPc4ztKG4gAR"
@@ -4906,6 +4906,32 @@
       "duration_ms": 170060,
       "name": "All Day (feat. Kinn)",
       "url": "https://open.spotify.com/track/41FN5URQhScXWknQkUs9et"
+    },
+    {
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/5En4URlRU0cYW054eGAbEj"
+      },
+      "artists": [
+        {
+          "name": "NO:EL",
+          "url": "https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV"
+        },
+        {
+          "name": "Jhnovr",
+          "url": "https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "All Day (Feat. Skinny Brown)",
+      "url": "https://open.spotify.com/track/6HZG6ifnO3qnsf1huWfZKU"
     },
     {
       "album": {
@@ -7526,6 +7552,28 @@
       "duration_ms": 206786,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/41GURJxjE5urzLnrw2O2sI"
+    },
+    {
+      "album": {
+        "name": "New Edition 54",
+        "url": "https://open.spotify.com/album/3lMF3BkP1OeRmYMCwMYdIZ"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "SOSEOM",
+          "url": "https://open.spotify.com/artist/4y3jFtAJVCGQkFDj5ezM0c"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336078,
+      "name": "Autumn 1984, Mungdol (Feat. SOSEOM)",
+      "url": "https://open.spotify.com/track/7F32hVeUOIaANRzPOZumP3"
     },
     {
       "album": {
@@ -32825,6 +32873,24 @@
     },
     {
       "album": {
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/2rnENdTyCUxjhDyHQ6VibS"
+      },
+      "artists": [
+        {
+          "name": "POW",
+          "url": "https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204654,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/02qdS2zq2LYGkSOr3Q7gMm"
+    },
+    {
+      "album": {
         "name": "Favorite (\ucd5c\uc560)",
         "url": "https://open.spotify.com/album/2hUPUHk1fNAtc52hdyMG48"
       },
@@ -34256,6 +34322,24 @@
       "duration_ms": 177373,
       "name": "Flip That",
       "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
+    },
+    {
+      "album": {
+        "name": "LIVE",
+        "url": "https://open.spotify.com/album/5F1koK6DqFJbX3U6KFCm9K"
+      },
+      "artists": [
+        {
+          "name": "mimiirose",
+          "url": "https://open.spotify.com/artist/3699Hh55qWXd0kWWMWRR2o"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190613,
+      "name": "FLIRTING",
+      "url": "https://open.spotify.com/track/0QpdxzNEOT4THlREQyMiBs"
     },
     {
       "album": {
@@ -46997,6 +47081,28 @@
     },
     {
       "album": {
+        "name": "I don\u2019t know a single thing",
+        "url": "https://open.spotify.com/album/0uEU48JdeuVxFZ5a4CUhuu"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214111,
+      "name": "I don\u2019t know a single thing (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/0Y9C5yhzY7Pa1AqjUFrizq"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Know Yet What Love Is",
         "url": "https://open.spotify.com/album/0D0qoAkmyItrDgRCSdiHsJ"
       },
@@ -47718,6 +47824,24 @@
       "duration_ms": 205266,
       "name": "I lost a precious person (Feat. Lee Ji yong)",
       "url": "https://open.spotify.com/track/5JpB60VhiWsX5FEHAm2HON"
+    },
+    {
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/6V34HS1tPKxG7HDQNyM2Dq"
+      },
+      "artists": [
+        {
+          "name": "Hyeda",
+          "url": "https://open.spotify.com/artist/1mP6D4fCZeT7J8CjhK6T3W"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156506,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5HNEpNWPKgvsfVIFPhWVwu"
     },
     {
       "album": {
@@ -54084,6 +54208,24 @@
       "duration_ms": 256173,
       "name": "I\u2032m Sorry",
       "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
+    },
+    {
+      "album": {
+        "name": "I\u2032m Still In Love With You",
+        "url": "https://open.spotify.com/album/7DznUUwxhcd3C9urHroOIe"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Hyun",
+          "url": "https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246280,
+      "name": "I\u2032m Still In Love With You",
+      "url": "https://open.spotify.com/track/5qtvMj1louZUaU2WeDRGa8"
     },
     {
       "album": {
@@ -68869,6 +69011,24 @@
     },
     {
       "album": {
+        "name": "More Than Words",
+        "url": "https://open.spotify.com/album/0sIpe88JxLKvxDXBYR9Vs2"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235050,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/0DIec6uDOoIvvNUWnoiL5J"
+    },
+    {
+      "album": {
         "name": "Morning Coffee",
         "url": "https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz"
       },
@@ -69370,6 +69530,24 @@
       "duration_ms": 204333,
       "name": "My",
       "url": "https://open.spotify.com/track/2bJGIta6XqAUFI5OWFqThA"
+    },
+    {
+      "album": {
+        "name": "My",
+        "url": "https://open.spotify.com/album/15jXs8wxw3OUl7dkNDavWl"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "My",
+      "url": "https://open.spotify.com/track/7zBXNHQd8Jk3Pzhb3cYdW8"
     },
     {
       "album": {
@@ -70748,6 +70926,24 @@
       "duration_ms": 147397,
       "name": "My tempo",
       "url": "https://open.spotify.com/track/6QHMUiXsbFfc7xUwQ8Q7ru"
+    },
+    {
+      "album": {
+        "name": "My Time",
+        "url": "https://open.spotify.com/album/3xlPKqOeXG7pSvk8tA6wco"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148960,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/2uymLlkO57qpLZUAry8I1R"
     },
     {
       "album": {
@@ -74935,6 +75131,32 @@
     },
     {
       "album": {
+        "name": "\uad6d\ubbfc\uc0ac\ud615\ud22c\ud45c OST Part.2 (Soundtrack)",
+        "url": "https://open.spotify.com/album/732l2xQNqYKcuxPAb4XMLD"
+      },
+      "artists": [
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        },
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "1Kyne",
+          "url": "https://open.spotify.com/artist/0x1RhctezsPRui0CZpQKl5"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202517,
+      "name": "ON FIRE",
+      "url": "https://open.spotify.com/track/05tRwmT03LBgdJvuhwlMaJ"
+    },
+    {
+      "album": {
         "name": "On It",
         "url": "https://open.spotify.com/album/2SPO2Os0TOOrpU6PprfJQ4"
       },
@@ -78300,7 +78522,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 228014,
       "name": "PARANG",
       "url": "https://open.spotify.com/track/31XuzzJoJgCqFC2AGubogc"
@@ -78740,6 +78962,32 @@
       "duration_ms": 250202,
       "name": "People Who Make Me Sad - Live",
       "url": "https://open.spotify.com/track/3ANqW8SN10Tf1hp3Lg1NqC"
+    },
+    {
+      "album": {
+        "name": "Attitude #7",
+        "url": "https://open.spotify.com/album/4waQHNpq3jtqaeGgmfAfoJ"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        },
+        {
+          "name": "floryy",
+          "url": "https://open.spotify.com/artist/2F9YMUpMgAlX2GrNTTj6Iz"
+        },
+        {
+          "name": "Min",
+          "url": "https://open.spotify.com/artist/34i0mYEs7QoU4YbBjvzEiA"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "Pepperoni (feat. floryy & Min)",
+      "url": "https://open.spotify.com/track/5reAjU8Vaz6dO8A5UIxA2j"
     },
     {
       "album": {
@@ -81408,6 +81656,24 @@
       "duration_ms": 228440,
       "name": "Pseudoscience (feat. Chang Kiha)",
       "url": "https://open.spotify.com/track/4ivKqBkDfSRYc3H2DBdBW3"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/4HtyIpV9g7NKd8YFR1m2UE"
+      },
+      "artists": [
+        {
+          "name": "withus",
+          "url": "https://open.spotify.com/artist/2aWP9dfGI1dsRSOEYEU6Pb"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198117,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/35YNlbCXaK6LeoU74XnNFj"
     },
     {
       "album": {
@@ -97782,7 +98048,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 183548,
       "name": "Surf (Feat. Choiza)",
       "url": "https://open.spotify.com/track/6uA1hEfeJU801IyZjFe2cP"
@@ -98676,7 +98942,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 182533,
       "name": "Take It, Flip It (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/2QazvOMRU7KdBlnPYKMMTF"
@@ -100352,6 +100618,24 @@
       "duration_ms": 202840,
       "name": "That's Why I Can't Talk About Love (Feat. Woo)",
       "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
+    },
+    {
+      "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231759,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI"
     },
     {
       "album": {
@@ -117783,6 +118067,24 @@
     },
     {
       "album": {
+        "name": "You are not alone",
+        "url": "https://open.spotify.com/album/6LoJ9xxF1aIVBzoP69niqE"
+      },
+      "artists": [
+        {
+          "name": "Joo Yein",
+          "url": "https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220735,
+      "name": "You are not alone",
+      "url": "https://open.spotify.com/track/3GPngKI1hBWUFjIz7AwEq8"
+    },
+    {
+      "album": {
         "name": "You Are Shining (feat. Kang, Dae-Wong & Roh, Yu-Ha)",
         "url": "https://open.spotify.com/album/6gs6fpfwiHFJjhZbAGbiSx"
       },
@@ -118606,7 +118908,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 235175,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/6Ca2C9ycBna1WXfL5cB6Gn"
@@ -118736,7 +119038,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 229418,
       "name": "You're not with me",
       "url": "https://open.spotify.com/track/05lTuxqRmUAGk4LiL5J0c0"
@@ -118954,6 +119256,24 @@
       "duration_ms": 174732,
       "name": "youniverse",
       "url": "https://open.spotify.com/track/2dUGqnu9mM7mdfqFec8AEM"
+    },
+    {
+      "album": {
+        "name": "YOUR CITY",
+        "url": "https://open.spotify.com/album/2ey8EdjglcK5i167dwLCLp"
+      },
+      "artists": [
+        {
+          "name": "Jung Yong Hwa",
+          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216106,
+      "name": "Your City",
+      "url": "https://open.spotify.com/track/3nLUsvRPY4vQfTYFk9uEVp"
     },
     {
       "album": {

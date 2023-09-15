@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paula Rivas.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,556 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,562 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 24 | [Me Enamore De Mi](https://open.spotify.com/track/5Ollqs3igkGH8yxiAyCjj1) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Todas Seremos Reinas](https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd) | 2:48 |
 | 25 | [Dame Luz](https://open.spotify.com/track/6SCiGD1ztcfEu7tPaUI027) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Grandes Exitos](https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV) | 4:58 |
 | 26 | [Aprendí De Ti](https://open.spotify.com/track/1734yg0bzf4SyRTrE61l6o) | [Soledad Guerrero](https://open.spotify.com/artist/2mC6OvTH4wDXUVYofwCrki) | [Soledad](https://open.spotify.com/album/7EY7Z13sJfpKBrWnrttzvx) | 3:50 |
-| 27 | [Matorrales](https://open.spotify.com/track/4Ps9r2oTq5c60edB1Pj0sn) | [La Guacha](https://open.spotify.com/artist/1XjMUgVvJTqba3Cvsbw1zi) | [Fácil](https://open.spotify.com/album/4NYS5h8qs6oZOwylo3OVBT) | 2:52 |
-| 28 | [Cartas Marcadas](https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [La Gran Fonda de Chile](https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O) | 3:26 |
+| 27 | [Cartas Marcadas](https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [La Gran Fonda de Chile](https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O) | 3:26 |
+| 28 | [Matorrales](https://open.spotify.com/track/4Ps9r2oTq5c60edB1Pj0sn) | [La Guacha](https://open.spotify.com/artist/1XjMUgVvJTqba3Cvsbw1zi) | [Fácil](https://open.spotify.com/album/4NYS5h8qs6oZOwylo3OVBT) | 2:52 |
 | 29 | [Sol](https://open.spotify.com/track/3zUQoz6OJXMXQKxl4ZpbG7) | [Daniela Aleuy](https://open.spotify.com/artist/5kSn1413nGC2FFmlW8dUOZ) | [Asi Soy Yo](https://open.spotify.com/album/7GtOunYjJqGqTQRcCipDVU) | 4:32 |
 | 30 | [Dos Locos](https://open.spotify.com/track/4WcGj3bftsrOnwNmktfGR8) | [Monserrat Bustamante](https://open.spotify.com/artist/1whqJsYsiIvbWi0Kz0kHLx) | [La Chica de Rojo](https://open.spotify.com/album/1APLL3BxSZiYpMQ4v15Ao1) | 4:16 |
 | 31 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Brindemos por Ellos](https://open.spotify.com/track/7G8iKkndVdVZyVdS4Fz1cV) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [Aquí Comienza Nuestra Historia](https://open.spotify.com/album/0VD7iwPecnytsRxk4JUaAU) | 2:37 |
 | 50 | [Demencia por Amor](https://open.spotify.com/track/0HVTRu8tQNY1NpMLOeYY2s) | [Cecilia Echenique](https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY) | [Demencia por Amor](https://open.spotify.com/album/3s1mZseI3Qt1ekDMvIB3fF) | 2:43 |
 
-Snapshot ID: `MCxmNjFhMmI5YTA0YTliN2E3MTY5MmE5YzI3YmY5NDNjMzBjZDFkOTIw`
+Snapshot ID: `MCw1ZDgxODZjZjg0Yjc5NDgxZmU2NWViYzBhM2FkZTc0YTVkM2NhZjE0`

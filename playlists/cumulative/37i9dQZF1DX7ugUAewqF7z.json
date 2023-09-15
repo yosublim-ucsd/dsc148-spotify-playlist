@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "HARD",
+      "url": "https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB"
+    },
+    {
+      "album": {
         "name": "REFORM",
         "url": "https://open.spotify.com/album/3wnAkM2CZcrvxWZdbVsilr"
       },
@@ -484,6 +502,24 @@
       "duration_ms": 220547,
       "name": "HAWAIIAN COUPLE (feat. Brown Bunny & Ashley)",
       "url": "https://open.spotify.com/track/6h1DFkq91YcMrEzWeUDRyA"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
     },
     {
       "album": {
@@ -1219,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Still With You",
+        "url": "https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239905,
+      "name": "Still With You",
+      "url": "https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 10th Mini Album 'FML'",
         "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
       },
@@ -1706,6 +1760,24 @@
       "duration_ms": 194821,
       "name": "\ud61c\uc131",
       "url": "https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia"
+    },
+    {
+      "album": {
+        "name": "REMAKE & MIX No. 18",
+        "url": "https://open.spotify.com/album/2xdJzg2ig5qzKFxZOR3CLa"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204440,
+      "name": "\ud658\ud76c",
+      "url": "https://open.spotify.com/track/70r7vfU7iVkc4CpyzjOMGg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7ugUAewqF7z"

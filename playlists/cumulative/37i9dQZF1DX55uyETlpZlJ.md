@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-174 songs - 9 hr 30 min
+176 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Insane](https://open.spotify.com/track/2lpDO8UTGW6CPEZE4y7vir) | [Sachin Suri](https://open.spotify.com/artist/6YY1ho1om7CaoKvvYc9Sw5) | [Insane](https://open.spotify.com/album/53V4IN0tZJE74Cxt3CIsOv) | 2:39 | 2023-04-12 | 2023-06-09 |
 | [Jagatthu](https://open.spotify.com/track/5ubqj7xBDKK8J9uAr9bs30) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/54X5dZUsZQTj6bJxFs4lg1), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Jagatthu](https://open.spotify.com/album/31GY7jUvoTbSneAchHuuMR) | 3:25 | 2023-01-12 | 2023-08-17 |
 | [Jagave Neenu Gelathiye \- From "Love 360"](https://open.spotify.com/track/0qOStIaAwFSH363kmoj5dD) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Jagave Neenu Gelathiye \(From "Love 360"\)](https://open.spotify.com/album/4ymqUEcGQ11j0HrYrizvIs) | 4:10 | 2022-06-13 | 2023-06-10 |
+| [Jai Ganesha](https://open.spotify.com/track/3AaghYGVFOfmrLui28QIq9) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Jai Ganesha](https://open.spotify.com/album/7tKACaZToxNtnW8y9yPr5N) | 4:18 | 2023-09-14 |  |
 | [Kaaduvalavale](https://open.spotify.com/track/5AnZosJYFmi1kkh4LdVVEO) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kaaduvalavale](https://open.spotify.com/album/6w8fcNBCtvW5rtAnpoJyLv) | 4:04 | 2023-09-01 |  |
 | [Kaanada Manasige](https://open.spotify.com/track/7mtZbE8zeSCUtwXpqtO70N) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:39 | 2023-06-27 |  |
 | [Kaanade \(feat\. Karna\)](https://open.spotify.com/track/5Y6CBJuvzdLv7s0sfH1DpP) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Kaanade \(feat\. Karna\)](https://open.spotify.com/album/2SXhcy1ti12xehLrFzrZmi) | 3:37 | 2023-05-25 | 2023-06-08 |
@@ -118,6 +119,7 @@
 | [Nee Nanna Jeeva](https://open.spotify.com/track/4n4xk4fMDCz0Vam3261app) | [Naveen Hiremath](https://open.spotify.com/artist/000WyXOWRZlAYSCHOl6vbw) | [Nee Nanna Jeeva](https://open.spotify.com/album/4qVOsEyOFZZ281rQj3vkGU) | 4:38 | 2023-04-17 | 2023-09-01 |
 | [Nee Saniha](https://open.spotify.com/track/53F1QXJzhN3mpHU0Q2JOnz) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Nee Saniha](https://open.spotify.com/album/5ZD61t4W97RsGNm1ds6nLr) | 4:26 | 2023-05-03 | 2023-09-05 |
 | [Neeli Modagalu](https://open.spotify.com/track/2685mgG3FA17n55sR9p59k) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Neeli Modagalu](https://open.spotify.com/album/4WVkXb39DguSdjVxf8cotL) | 4:22 | 2023-08-09 |  |
+| [Neene](https://open.spotify.com/track/3zSmzrISU59x6c0gwUxvHt) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Neene](https://open.spotify.com/album/05ysqm2w8zVUd1mJHipqhC) | 2:42 | 2023-09-14 |  |
 | [Neene Illade](https://open.spotify.com/track/6lo8HaKpbucdA2eGaHFSYs) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG) | [Neene Illade](https://open.spotify.com/album/2v8IFuiNx11xHjNpmA4PGk) | 3:23 | 2022-11-15 | 2023-08-25 |
 | [Neene Nanna Dilruba](https://open.spotify.com/track/30TLwuKugPfrnMGJUyOpCX) | [Sneha P](https://open.spotify.com/artist/7a340nNpfXGVZrWSrJeZ1x), [Ashwin G](https://open.spotify.com/artist/7rY02n29nmQUH6J1sTs6lK) | [Neene Nanna Dilruba](https://open.spotify.com/album/12mK3U7Mre8X8KnDzdbHfj) | 3:06 | 2023-06-19 |  |
 | [Neene Neene](https://open.spotify.com/track/3oNl7SQVQnogVXaXdfbdhw) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Manvith Karkera](https://open.spotify.com/artist/6lGuqxlQ4esOsUzZNZ1Pkw) | [Neene Neene](https://open.spotify.com/album/4V6OLQHOHCSYf8MM3xWisY) | 4:36 | 2023-09-06 |  |

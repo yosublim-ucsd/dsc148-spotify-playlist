@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,707 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,730 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 50 | [Uma Fase](https://open.spotify.com/track/6xkKyZinrWXX4FVUuuBeSD) | [Afree](https://open.spotify.com/artist/218HbunxGqD47MTClAmg6s), [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl) | [Uma Fase](https://open.spotify.com/album/1B56BdIqTZvCMk0UOhkDbY) | 3:18 |
 
-Snapshot ID: `MCwxNDE1ODU3MTFlYjg1OGE1NzU4YTgxOTQ3MDAyOWQzYjkyNzIyZTdh`
+Snapshot ID: `MCxkOTI5ZDVmMTEzMTBjNjYxYzllZTU1NzQxZDYxMzdkZDcwZGU4YThh`

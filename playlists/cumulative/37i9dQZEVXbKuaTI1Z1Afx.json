@@ -6806,7 +6806,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
@@ -9673,7 +9673,7 @@
     },
     {
       "album": {
-        "name": "Elovrga",
+        "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
       "artists": [
@@ -9694,7 +9694,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194769,
-      "name": "Elovrga",
+      "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
     },
     {
@@ -18024,7 +18024,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 175882,
       "name": "Last laugh",
       "url": "https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp"
@@ -24541,6 +24541,28 @@
     },
     {
       "album": {
+        "name": "Paper Soldier \"Im A Millionaire\"",
+        "url": "https://open.spotify.com/album/5r87cxbNMZ927FGs5cHk3Y"
+      },
+      "artists": [
+        {
+          "name": "Orinera",
+          "url": "https://open.spotify.com/artist/61H490NdD34Q2wx3CONmPa"
+        },
+        {
+          "name": "letain",
+          "url": "https://open.spotify.com/artist/5ly0xIQ94xMILNk589aZ0z"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241742,
+      "name": "Paper Soldier \"Im A Millionaire\"",
+      "url": "https://open.spotify.com/track/7I9wErN1AynDlnKIwUYbg8"
+    },
+    {
+      "album": {
         "name": "Bat Out Of Hell",
         "url": "https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM"
       },
@@ -28028,7 +28050,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 256000,
       "name": "seasons",
       "url": "https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUORUyb9eLKN.md) - [plain]
 
 > Emerging DJ & producer <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a> demonstrates her talent with an emotive and mellifluous mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,972 likes - 15 songs - 59 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,975 likes - 15 songs - 59 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUORUyb9eLKN.md) - [plain]
 | 14 | [Blue Train Lines \- Nina Kraviz Main Mix \- Mixed](https://open.spotify.com/track/2fRIVfamAty7uwGzG44B9U) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Blue Train Lines \- Nina Kraviz Main Mix \(Mixed\)](https://open.spotify.com/album/4WSJ3sAWnx0EwlmNcN0Anx) | 3:39 |
 | 15 | [Don’t Leave Me Like That \- Mixed](https://open.spotify.com/track/3xmcVmrwIRL1yscp07oZUf) | [Aera](https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk) | [Don’t Leave Me Like That \(Mixed\)](https://open.spotify.com/album/6EY00rOfTdP13lFT7J7ORT) | 3:42 |
 
-Snapshot ID: `MCw4OTgzOGRlOWJhNzhlNjdkNGZlZDYzNjJmYzk5OGJjODE4OTg3MGM0`
+Snapshot ID: `MCxiNTVlYTI2ZDJmYzNkOWZlZTBiMDVmZjJhNTQ3MjU3ZGYxYzMwZmI0`

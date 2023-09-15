@@ -4,7 +4,7 @@
 
 > 
 
-240 songs - 11 hr 33 min
+242 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Gehenna](https://open.spotify.com/track/4oXCZ5OSTS8W4hAguOt6t6) | [Råttorna](https://open.spotify.com/artist/2zpHM549kWRtsmmssXfhdV) | [Utan Titel](https://open.spotify.com/album/03sEIVrDvh6QIwgvRk3lJe) | 1:50 | 2021-12-14 | 2022-07-12 |
 | [Grabbarna på stan](https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Grabbarna på Stan](https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L) | [Grabbarna på Stan](https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D) | 3:34 | 2021-12-14 | 2023-08-08 |
 | [Gravöl](https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/2M63nUb95NAqYou8reFFwo) | 3:06 | 2021-12-14 | 2023-04-30 |
-| [Gravöl](https://open.spotify.com/track/3FHqXZWwfSRnUCleK2U0eI) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/32VvPLYDMKpWrko4eTSA9k) | 3:06 | 2023-05-04 |  |
+| [Gravöl](https://open.spotify.com/track/3FHqXZWwfSRnUCleK2U0eI) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/32VvPLYDMKpWrko4eTSA9k) | 3:06 | 2023-05-04 | 2023-09-15 |
 | [Gravöl](https://open.spotify.com/track/7MpxKmGzenyey44GR0aUpf) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/0VL3W04CrMBCsBH92C1M66) | 3:06 | 2021-12-14 | 2022-07-29 |
 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 | 2021-12-14 |  |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/0TMfcKnvRgT4n9Xi9VZq2o) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken i tiden](https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO) | 4:10 | 2021-12-14 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [Hon Får...](https://open.spotify.com/track/3Ct9pVOfBcYnGr4NJ4QnSH) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Gryningstid](https://open.spotify.com/album/1xHfxbBMgFsSwZ5y7HNYdW) | 4:08 | 2021-12-14 | 2022-07-29 |
 | [Hon Får...](https://open.spotify.com/track/5sbPNqCZq15zNo0ZQj75gT) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Gryningstid](https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM) | 4:08 | 2021-12-14 |  |
 | [Håll höjd](https://open.spotify.com/track/0HvIpVm3SxEYMi7F02sfNK) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Som en dålig film](https://open.spotify.com/album/3EHdMsEKuqUtvAhProY9Hc) | 5:08 | 2021-12-14 |  |
+| [I Din Sol](https://open.spotify.com/track/5gihLvviOhCQSs80u4tRiF) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 1:49 | 2023-09-14 |  |
 | [Idrottslärarn e sträng!](https://open.spotify.com/track/2mNxYWVvBvNUkVT4AlhzQ8) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 2:08 | 2021-12-14 | 2022-07-22 |
 | [Ingen äger mig](https://open.spotify.com/track/5dmO8OXn6YkF5r1bCZDPIT) | [Vidro](https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8) | [Vidro / Cankro \(Brasil Tour\)](https://open.spotify.com/album/08tdwukMxzhjRCFr7owfBw) | 1:17 | 2021-12-14 | 2022-07-22 |
 | [Jag Går Upp Och Håller Käften](https://open.spotify.com/track/0CyGNDM8ulsItXRJyi0iPI) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Feber](https://open.spotify.com/album/1VlxCiN1DYTqwG4o1OTiGr) | 3:27 | 2021-12-14 | 2022-07-29 |
@@ -164,7 +165,7 @@
 | [OS\-Guld i höjdhopp](https://open.spotify.com/track/6jdMz8tqMfOfk3kv0MRZ5U) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [OS\-Guld i höjdhopp](https://open.spotify.com/album/7yDRXR1hWI7e7Gait9gbyF) | 1:23 | 2021-12-14 | 2022-07-28 |
 | [Pang du är död](https://open.spotify.com/track/5snjFt767FRhSy2bs8pUpy) | [Vacum](https://open.spotify.com/artist/7toGHd2HbxVXuywksD4zwO) | [Pang du är död](https://open.spotify.com/album/1QL4xEdm7uU9MlbtcO6pOX) | 2:40 | 2021-12-14 | 2022-07-17 |
 | [Pappa betalar](https://open.spotify.com/track/4ImGyVmcLOZli8H7mkOpyI) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/3hyMLQZD8Obgjo5KTalhyb) | 2:31 | 2021-12-14 | 2022-07-28 |
-| [Pappa Betalar](https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:31 | 2021-12-14 |  |
+| [Pappa Betalar](https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:31 | 2021-12-14 | 2023-09-15 |
 | [Patriarkatet](https://open.spotify.com/track/1l55KW7G3lKMgDWaeBDE8n) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/5usEd1n4iAj3AdSAHlu7os) | 3:10 | 2021-12-14 |  |
 | [Patriarkatet](https://open.spotify.com/track/5qhAF20De3Qh3EOUORPPYE) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf) | 3:10 | 2021-12-14 | 2022-07-28 |
 | [Patriarkatets sista fäste](https://open.spotify.com/track/0Rddyq01rWTekFWfcfEA32) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 5:03 | 2021-12-14 | 2022-07-10 |
@@ -174,6 +175,7 @@
 | [Psykopaten](https://open.spotify.com/track/2NXA45aJcDNJ8zdE9LB4YO) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Sista Dansen](https://open.spotify.com/album/1wXD1Pkuf56DSvkQE3kFQz) | 3:19 | 2023-05-04 |  |
 | [Psykopaten](https://open.spotify.com/track/4c6adBbwi1LnSJDwSayW9Y) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Sista Dansen](https://open.spotify.com/album/11i9Y2YSd0dEMcALvVNhXa) | 3:19 | 2021-12-14 | 2023-04-30 |
 | [Psykopaten](https://open.spotify.com/track/4qOqU9o554mByA76yjqjqW) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Sista Dansen](https://open.spotify.com/album/7M2HcnLOTErxyzFcJPJuKx) | 3:19 | 2021-12-14 | 2022-07-29 |
+| [Punkfestival](https://open.spotify.com/track/2HsOYlJSGyrQoMU5ju4YJ9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Punkfestival](https://open.spotify.com/album/2dHXmO7yLflqWRsE1O0b5A) | 2:22 | 2023-09-14 |  |
 | [Punkrockarflicka](https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f) | 2:08 | 2021-12-14 |  |
 | [Punkrockarflicka](https://open.spotify.com/track/7GYUhdtGSplEH3cBzjWzBG) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/3xGTy8zsGg9kZf0rCzjQLU) | 2:08 | 2021-12-14 | 2022-07-29 |
 | [Revolt](https://open.spotify.com/track/1VwFou4F5pU4ABwqytvOHB) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Revolt](https://open.spotify.com/album/23JQxqGj0Xva3gm0Vx48g8) | 2:41 | 2021-12-14 | 2022-07-29 |

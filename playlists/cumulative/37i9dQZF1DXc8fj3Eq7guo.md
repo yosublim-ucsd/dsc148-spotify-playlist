@@ -2,7 +2,7 @@
 
 ### [Drop Pin](https://open.spotify.com/playlist/37i9dQZF1DXc8fj3Eq7guo)
 
-> Lets us take a trip around Africa\. We shall stop where you are
+> Where you at? We outside!
 
 50 songs - 3 hr 24 min
 

@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 쏜애플\(THORNAPPLE\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Seen Hyun Hee\(신현희\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-598 songs - 1 day 12 hr 39 min
+600 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [I Thought I Was An Adult 어른인 줄 알았어](https://open.spotify.com/track/4JuldopgBVxrFgROeBU8y6) | [흔적 Heunjeok](https://open.spotify.com/artist/1JLEa6Ne72F5PpIsLdL1gW) | [200326](https://open.spotify.com/album/5EDCJR4y81CObk37e0xBio) | 2:29 | 2022-04-12 | 2022-04-19 |
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2021-12-21 | 2022-04-21 |
 | [I want to live with you 당신과 함께 살고 싶어요](https://open.spotify.com/track/4Jvgf76h1R9xRfLQAgjixK) | [jungumul 정우물](https://open.spotify.com/artist/4kkPYliE6UmXoj81Xzr4s6) | [I want to live with you 당신과 함께 살고 싶어요](https://open.spotify.com/album/1wvNe35sWSsk35B8hrFgcP) | 3:29 | 2022-04-12 | 2022-04-21 |
-| [I Want You](https://open.spotify.com/track/2r3lmIMjeiBVfurRKM2XXn) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [I Want You](https://open.spotify.com/album/6LYuWto4dMfk00uHWZkkLx) | 3:48 | 2023-08-24 |  |
+| [I Want You](https://open.spotify.com/track/2r3lmIMjeiBVfurRKM2XXn) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [I Want You](https://open.spotify.com/album/6LYuWto4dMfk00uHWZkkLx) | 3:48 | 2023-08-24 | 2023-09-15 |
 | [I was wrong](https://open.spotify.com/track/2Nudb9hCRVGqePHBBedTic) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Songs from a bed](https://open.spotify.com/album/3d8OKUqQ7KBBK7iFMnK1ZE) | 4:30 | 2021-12-12 | 2022-06-25 |
 | [I Will Give You Everything](https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [\[Vol.48\] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'](https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv) | 3:32 | 2021-12-21 | 2022-06-23 |
 | [I'll Eat Up Your Darkness](https://open.spotify.com/track/4NKa7tW2N6mCdQSJKCP2hF) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Be Trapped In A Picture](https://open.spotify.com/album/6fhEPy3mHzSdp87i48Yono) | 3:35 | 2023-07-17 | 2023-07-28 |
@@ -323,6 +323,7 @@
 | [MIMI](https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4) | 3:27 | 2021-12-12 |  |
 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2022-08-12 | 2022-09-06 |
 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 | 2022-06-20 | 2022-07-05 |
+| [MISHMASH](https://open.spotify.com/track/7qBdRew80c7Di2CirI6XaO) | [신현희](https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ) | [MISHMASH](https://open.spotify.com/album/77CBeZWS4hBgPqPCD6OkkY) | 3:35 | 2023-09-15 |  |
 | [Moment](https://open.spotify.com/track/3jYl9vCYKeVDawBCu5iHK5) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Moment](https://open.spotify.com/album/5UUtfxQNNJknc3HwxZRQTO) | 3:37 | 2022-03-31 | 2022-04-20 |
 | [Money like \(feat\. meenoi\)](https://open.spotify.com/track/5U5QitagofLaXFkoVO1oLF) | [HOSIN](https://open.spotify.com/artist/3XOcDV9I5btpQqBqkEQWuU), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Money like](https://open.spotify.com/album/67YuFY9QZKY3loKA6634Sv) | 4:02 | 2022-07-04 | 2022-07-09 |
 | [monochrome](https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [monochrome](https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx) | 4:21 | 2022-09-05 | 2022-09-21 |
@@ -558,6 +559,7 @@
 | [Where are you](https://open.spotify.com/track/6j0CMk5tIEl57UuO9PrLpX) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Traveller, No.101](https://open.spotify.com/album/1h8ZiPrGqNQzyJVBSj6X7e) | 3:54 | 2021-12-21 | 2022-07-26 |
 | [where it hurts](https://open.spotify.com/track/15QOQ6K93vx2azVqcSfSeK) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [where it hurts](https://open.spotify.com/album/1CR5Ron4gj2R3cbSXf6GFV) | 3:21 | 2022-03-31 | 2022-04-04 |
 | [white](https://open.spotify.com/track/0wxpTeDCewMoDP7dOajNOZ) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [wintersleep](https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg) | 3:00 | 2023-01-10 | 2023-02-16 |
+| [White night](https://open.spotify.com/track/7oSP7hAMuF1R31jp8HnkfH) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [White night](https://open.spotify.com/album/2Fqe1wd9tWMAWNye43ZZKW) | 3:37 | 2023-09-15 |  |
 | [Who’s with me?](https://open.spotify.com/track/2YEFyXyF1zG78qwLcZrHAg) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [Who’s with me?](https://open.spotify.com/album/0gwUIHdPdLUJLPtWI4ZLQA) | 2:58 | 2022-04-12 | 2022-04-17 |
 | [Willow Tree](https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B) | 4:39 | 2022-09-05 | 2022-09-21 |
 | [Wings](https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC) | 3:15 | 2021-12-12 |  |
@@ -588,7 +590,7 @@
 | [Young People](https://open.spotify.com/track/1T3kSXQGxdY144SzofbEQt) | [nijuu](https://open.spotify.com/artist/5DOwMhG96lFhlPpNG9oaWW) | [Young People](https://open.spotify.com/album/1Q1jrlmvrqpxQOLa7i9VGh) | 3:04 | 2022-03-31 | 2022-05-12 |
 | [Your Voice Makes Me Dream](https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK) | [Dinner Coat](https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV) | [Your Voice Makes Me Dream](https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n) | 4:00 | 2021-12-12 | 2022-07-27 |
 | [Youth](https://open.spotify.com/track/2LT8gtraNXInH6DZdP6jrt) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/22Isp3j1eaoVzQrUm5zbiq) | 6:01 | 2021-12-12 | 2022-07-29 |
-| [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 | 2022-07-27 |  |
+| [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 | 2022-07-27 | 2023-09-15 |
 | [Zero One](https://open.spotify.com/track/2MPynctIqjFhmRLKRpBamF) | [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Zero One](https://open.spotify.com/album/6hHfHInmTWnwDPyOUpzMXn) | 4:27 | 2022-03-31 | 2022-04-12 |
 | [각자의 밤 Night Night](https://open.spotify.com/track/3KZaT9PJu1rTrDYiK9OG0t) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [각자의 밤 Night Night](https://open.spotify.com/album/7s0Ari3SZ2pxqZtjWw57v9) | 3:45 | 2022-04-12 | 2022-04-21 |
 | [긴 꿈 A Long Dream](https://open.spotify.com/track/1UGChD0glZlsdVBbfWbjUH) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [긴 꿈 A Long Dream](https://open.spotify.com/album/5gU9PA1qYEXUfjnp79q1rj) | 4:18 | 2021-12-21 | 2022-07-28 |

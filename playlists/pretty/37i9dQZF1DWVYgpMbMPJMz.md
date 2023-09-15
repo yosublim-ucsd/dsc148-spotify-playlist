@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB?si=oEx1sLF5QH\-b2Qr\_h7gSpQ">Gateway Worship<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,553 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,717 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [THAT'S WHAT I BELIEVE](https://open.spotify.com/track/4axmmCsHDChtKd2JdnD3OL) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [THAT'S WHAT I BELIEVE](https://open.spotify.com/album/0qKj76842Qf6U8uFYD8KZW) | 4:22 |
 | 100 | [It Is Finished](https://open.spotify.com/track/3pBJ1CM7P48h9XaExiL6EX) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Kingdom Kids, Vol\. 2](https://open.spotify.com/album/09SYVhIz581fCHeLcRI4oU) | 4:26 |
 
-Snapshot ID: `MCwzZTEyZmQ2MjA4M2NkMzg5YzRhZGI1NWQ3ZjJhZmIxM2M4YjBkY2Ix`
+Snapshot ID: `MCxkZjlhZGYwOGQ2ZGMxZjU2N2EzMDcxNTIxNGYxOWUyM2ZlNDFkOTYz`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 296383,
+  "num_followers": 296528,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzRiNWUyZGQ3NjIwM2JjZWI2YTZhNTQyZjEyOGMwODgzMWQzN2U5",
+  "snapshot_id": "MCw2ZTM5ZTljNGRmZDRlZWU2MDYwZmI2NzhjMzUwNmJkZGQ5MzgzZTA4",
   "tracks": [
     {
       "added_at": "2023-07-14 02:37:32",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
-      },
-      "artists": [
-        {
-          "name": "SKYND",
-          "url": "https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M"
-        }
-      ],
-      "duration_ms": 291502,
-      "name": "Tyler Hadley",
-      "url": "https://open.spotify.com/track/6Cpz693XZKlnvcxXs1886F"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Symbols",
         "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 367933,
       "name": "Megalomaniac",
       "url": "https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
+      },
+      "artists": [
+        {
+          "name": "SKYND",
+          "url": "https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M"
+        }
+      ],
+      "duration_ms": 291502,
+      "name": "Tyler Hadley",
+      "url": "https://open.spotify.com/track/6Cpz693XZKlnvcxXs1886F"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Dein Helfer in der Not",
-        "url": "https://open.spotify.com/album/1p28xpi0caBt3ccAqcK7ZY"
+        "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+        "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
       },
       "artists": [
         {
-          "name": "Ost+Front",
-          "url": "https://open.spotify.com/artist/2eYQ3xCgZtpkVQNgXlpuRs"
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Ikarus",
-      "url": "https://open.spotify.com/track/1b6Ew1aj2KZ8P4v1WAHZXu"
+      "duration_ms": 247040,
+      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+      "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
-        "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
+        "name": "Dein Helfer in der Not",
+        "url": "https://open.spotify.com/album/1p28xpi0caBt3ccAqcK7ZY"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "Ost+Front",
+          "url": "https://open.spotify.com/artist/2eYQ3xCgZtpkVQNgXlpuRs"
         }
       ],
-      "duration_ms": 247040,
-      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
-      "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
+      "duration_ms": 211400,
+      "name": "Ikarus",
+      "url": "https://open.spotify.com/track/1b6Ew1aj2KZ8P4v1WAHZXu"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
+        "name": "FullBlackHabit",
+        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
+      },
+      "artists": [
+        {
+          "name": "16Volt",
+          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Suffering You",
+      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
         "name": "Recoded",
         "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 344918,
       "name": "Hatred Will Prevail - Monolith Remix",
       "url": "https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
-        "name": "FullBlackHabit",
-        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
-      },
-      "artists": [
-        {
-          "name": "16Volt",
-          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Suffering You",
-      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Supernaut",
-        "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
-      },
-      "artists": [
-        {
-          "name": "1000 Homo DJs",
-          "url": "https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb"
-        }
-      ],
-      "duration_ms": 402706,
-      "name": "Supernaut",
-      "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Eurotrash",
         "url": "https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 198333,
       "name": "Doctor Online",
       "url": "https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "Supernaut",
+        "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
+      },
+      "artists": [
+        {
+          "name": "1000 Homo DJs",
+          "url": "https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb"
+        }
+      ],
+      "duration_ms": 402706,
+      "name": "Supernaut",
+      "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"
     },
     {
       "added_at": "2023-07-14 02:37:32",

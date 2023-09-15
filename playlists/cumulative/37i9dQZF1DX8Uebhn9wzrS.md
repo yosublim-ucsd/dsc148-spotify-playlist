@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,565 songs - 2 day 11 hr 26 min
+1,566 songs - 2 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Carefree](https://open.spotify.com/track/5XnR3n6J751EXp5rvRyPhN) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Carefree](https://open.spotify.com/album/5pQr8mt9srheqPnV7IGmiF) | 2:14 | 2022-11-18 | 2022-12-12 |
 | [Carefree](https://open.spotify.com/track/6v1RXsOcvnzjWIBgIIeqk1) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Park](https://open.spotify.com/album/714GHMkc56vatUwbcfXk92) | 2:14 | 2022-12-09 |  |
 | [Carefree & Happy](https://open.spotify.com/track/3Lyj1sMnwdz5Af3ii2R3YA) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Carefree & Happy](https://open.spotify.com/album/2WUVuApdBfTbtyHFQMcpiK) | 2:28 | 2022-08-05 | 2022-08-19 |
+| [Careless](https://open.spotify.com/track/69PYB04q2aTC3i9wFzRC3T) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM) | [Careless](https://open.spotify.com/album/0QDeDHId4agJs6w0G630zO) | 2:03 | 2023-09-13 |  |
 | [Carnations](https://open.spotify.com/track/68dXXkD5db6XjHMRdcLFbq) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Carnations](https://open.spotify.com/album/3uhOX14bV6HBYKQLAPGbCR) | 1:49 | 2022-06-17 | 2022-08-12 |
 | [Cartoons & Cereal](https://open.spotify.com/track/3NA3j32GZcVlLHE5ouertM) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:55 | 2022-04-15 | 2022-12-03 |
 | [casern letter](https://open.spotify.com/track/3i4IbAgobwLr3fTrNrbfNW) | [skylarks](https://open.spotify.com/artist/1d1Go2fDIrLgYVWCnrvKow) | [dr\. jyhkel](https://open.spotify.com/album/64SXdegWLZtEFAevppKenc) | 2:03 | 2022-04-15 | 2022-05-27 |
@@ -317,7 +318,7 @@
 | [Cosiness](https://open.spotify.com/track/271aCriufcy9de7q9J0vMD) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Cosiness](https://open.spotify.com/album/2xyUPtl6EUBTLMEtWacEUC) | 2:12 | 2023-04-20 |  |
 | [Cosmetics](https://open.spotify.com/track/57JRVNAO9gTmmLVIlkqibb) | [Mr Zakky](https://open.spotify.com/artist/7JHrK8hjsA4ndEFOU8hN9O) | [Cosmetics](https://open.spotify.com/album/3iv3djrrxI7UnqO7J2OrVT) | 1:44 | 2022-09-16 |  |
 | [Costa Calma](https://open.spotify.com/track/24NZxpbfzt63NTDghVS43j) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Costa Calma](https://open.spotify.com/album/2J4NHehoXZvV1fgPNFnL7H) | 2:20 | 2022-05-27 | 2022-11-12 |
-| [Court Mix](https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Court Mix](https://open.spotify.com/album/1FKVxpuffdBOe2vzCpTGO0) | 1:39 | 2022-11-11 |  |
+| [Court Mix](https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Court Mix](https://open.spotify.com/album/1FKVxpuffdBOe2vzCpTGO0) | 1:39 | 2022-11-11 | 2023-09-15 |
 | [Cravings](https://open.spotify.com/track/0iGfk7XZl6YCXEsHNGOuYc) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Cravings](https://open.spotify.com/album/0i2saFNmr3DXFWvwVC72hm) | 1:36 | 2022-11-18 |  |
 | [Cream](https://open.spotify.com/track/7eQOu4XYBDd1ynA8fcVqaQ) | [BUTTER](https://open.spotify.com/artist/2dsmILbZhqhou4oj1qUDm1) | [Cream](https://open.spotify.com/album/2FVgHaMpWTzSrbumS1S5cc) | 1:36 | 2022-08-19 | 2022-12-17 |
 | [Create your own](https://open.spotify.com/track/5xqsnPwf5kPC0t6OjMldGK) | [Fog Syndrome](https://open.spotify.com/artist/4NXRqaZArYh3bigTkqLd2G) | [Fog Syndrome](https://open.spotify.com/album/2iHPHfcK0Uixn74qn8SDJa) | 2:04 | 2022-10-01 | 2023-09-13 |
@@ -872,7 +873,7 @@
 | [Mind Over Mountain](https://open.spotify.com/track/31CmhtyEei4sFc7Ju9QEGo) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2) | [Balance](https://open.spotify.com/album/11VMCr6cd59ZW59CvkG5xq) | 3:16 | 2022-07-01 | 2022-11-26 |
 | [Mind Resort](https://open.spotify.com/track/4GNH93F2jGWeEqxeDzbtsY) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Mind Resort](https://open.spotify.com/album/0orwW2kyIMiREWC7fQ7s11) | 2:12 | 2022-11-25 | 2023-03-25 |
 | [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 | 2022-09-02 |  |
-| [Mindchatter](https://open.spotify.com/track/5vKh3U5WDmo7X8aPcVDIFV) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [Mindchatter](https://open.spotify.com/album/0H8r0Cq6xlAg0JvqOfiMuT) | 2:05 | 2022-10-01 | 2023-09-12 |
+| [Mindchatter](https://open.spotify.com/track/5vKh3U5WDmo7X8aPcVDIFV) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [Mindchatter](https://open.spotify.com/album/0H8r0Cq6xlAg0JvqOfiMuT) | 2:05 | 2022-10-01 |  |
 | [Miniscule](https://open.spotify.com/track/6taFLGjpIKa19YkW7ql9BU) | [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [One Flew Over the Bird's Nest](https://open.spotify.com/album/4SQ1EW9BxsPeikp4PNLhmO) | 1:32 | 2023-06-06 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-15 | 2022-05-27 |
 | [Mirrored](https://open.spotify.com/track/2C0mLKtJ2I7tjPGwbb2MEi) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Mirrored](https://open.spotify.com/album/5wCJDR7CHKPetG8flITMnR) | 2:20 | 2022-04-15 | 2022-12-03 |
@@ -1264,7 +1265,7 @@
 | [Solutions](https://open.spotify.com/track/09o5eBgKfrfXh6JZBd5S6I) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Cold Nights](https://open.spotify.com/album/0rwTZ7187ULO6YpLEDGSsf) | 1:46 | 2023-04-20 |  |
 | [Someday](https://open.spotify.com/track/6DD1Ddv0U7cTA2pqqmjWxR) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Someday](https://open.spotify.com/album/2hSAOh15pAteCBD9wP2vOB) | 2:03 | 2022-12-16 |  |
 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 | 2022-04-15 |  |
-| [somethings up](https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [somethings up](https://open.spotify.com/album/3f5XgiJhXdkBL7yqY9PuP9) | 1:52 | 2022-10-01 |  |
+| [somethings up](https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [somethings up](https://open.spotify.com/album/3f5XgiJhXdkBL7yqY9PuP9) | 1:52 | 2022-10-01 | 2023-09-15 |
 | [somewhat breezy](https://open.spotify.com/track/3UbbHzb70XtG3ozVzNXR6v) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [somewhat breezy](https://open.spotify.com/album/4YzDP6DkHpOEmRIRajmHQU) | 2:02 | 2022-04-15 | 2022-10-29 |
 | [somewhere in time](https://open.spotify.com/track/3HFdGHqnhjH2QizQW46oBt) | [leonoel](https://open.spotify.com/artist/1kGDwOMmp0ZnSQLP74MHfo), [Adam Panek](https://open.spotify.com/artist/4irDpwU4JhKKCu4r1yRbR9), [Oscar Jakonen](https://open.spotify.com/artist/1uUseRx5lV0ENp9BbNUcng) | [somewhere in time](https://open.spotify.com/album/5mgWGyzUMyDKXtAF0wvvk1) | 2:16 | 2022-08-12 | 2022-12-09 |
 | [sonic colors](https://open.spotify.com/track/76kN4WGmfKyPGUcpZLNvx2) | [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [sonic colors](https://open.spotify.com/album/5C1vvF0d0KNOWGhsLtSh41) | 2:00 | 2022-05-27 | 2022-11-19 |

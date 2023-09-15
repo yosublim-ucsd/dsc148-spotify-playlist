@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ?si=Ckgdjp4_RKq26gq0mHehdw\">Mpumi Mutsweni</a>\n",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=3_xCYoTQQwOHpkOOXc6oiA\">Spirit Of Praise</a>\n",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 438000,
       "name": "Awesome God",
       "url": "https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg"
@@ -72,7 +72,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 304559,
       "name": "Awuhluleki",
       "url": "https://open.spotify.com/track/2bfeBqV3zS6moeaq5AFQ5m"
@@ -126,7 +126,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 271184,
       "name": "Bayohlala Bejabula - Live",
       "url": "https://open.spotify.com/track/7egEv6e5U0343tYtJWYJdW"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 219361,
       "name": "Jehova",
       "url": "https://open.spotify.com/track/0W9Fy1ylmJUkNwi49iL9jm"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 328136,
       "name": "Ke Mang",
       "url": "https://open.spotify.com/track/6VvauPfH0TWMfu4KMUsKPU"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 293316,
       "name": "KE SIKILOE KE JESU",
       "url": "https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 136226,
       "name": "Ke Tshepile Wena - Acoustic Mix",
       "url": "https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 248999,
       "name": "Keep me",
       "url": "https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 276819,
       "name": "Liyez'Ixesha",
       "url": "https://open.spotify.com/track/5W6xoNGYkme6joSMEc5atz"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 333120,
       "name": "Liyinqaba",
       "url": "https://open.spotify.com/track/4WCMWuPMDVEfzzFDrMLrXg"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 233034,
       "name": "Makubenjalo",
       "url": "https://open.spotify.com/track/7E1nIwEdItgP3pRkNVY6UQ"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 274782,
       "name": "Mandisithele",
       "url": "https://open.spotify.com/track/2M4FfMNUar2NUEWFjKEhka"
@@ -1510,10 +1510,32 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 474618,
       "name": "Ngisize ngisize Nkosi Yami",
       "url": "https://open.spotify.com/track/1EtlmAlMg6V3Cb4gklkovA"
+    },
+    {
+      "album": {
+        "name": "Spirit Of Praise, Vol. 9 (Live)",
+        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Canaan Nyathi",
+          "url": "https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513913,
+      "name": "Ngithol\u2019 uMhlobo (Live)",
+      "url": "https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn"
     },
     {
       "album": {
@@ -1568,7 +1590,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 348264,
       "name": "Nithini Webantu (Ilizwi Lenkosi)",
       "url": "https://open.spotify.com/track/2IvSE2xIirukcfM3pIOdlV"
@@ -1604,7 +1626,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 386977,
       "name": "Nkosi Sikelela uBaba",
       "url": "https://open.spotify.com/track/3DovCSCmydiBY6Tdu90imJ"
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 471040,
       "name": "Nkosi Yethu Simakade",
       "url": "https://open.spotify.com/track/3uT8mhU2exkks3TGbWo614"
@@ -1644,7 +1666,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 382441,
       "name": "Nkosi Yezulu",
       "url": "https://open.spotify.com/track/2UMAfpKFTCnNpDdNV4xFfE"
@@ -2212,7 +2234,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 241500,
       "name": "Ukuhlala Kuye",
       "url": "https://open.spotify.com/track/2l8fI1B2jMjFr4iWAaMLRI"
@@ -2230,7 +2252,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 230295,
       "name": "Ukunxanela Komoya Wakho",
       "url": "https://open.spotify.com/track/0WeTsHx1DqIdPF51XGbAGa"
@@ -2378,7 +2400,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 168306,
       "name": "Unjalo wena Kuphakama",
       "url": "https://open.spotify.com/track/4v0USK76OtYzuZ73g4FcZm"
@@ -2526,7 +2548,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 331044,
       "name": "Walats3(Life Giver)",
       "url": "https://open.spotify.com/track/2ygzqWER8vIMEoMXM3nEwc"
@@ -2588,7 +2610,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 354038,
       "name": "We the Forgiven",
       "url": "https://open.spotify.com/track/0mlqXss7EiDxxv0sZ7J0FW"
@@ -2610,7 +2632,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 403568,
       "name": "We Worship",
       "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
@@ -2628,7 +2650,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 240640,
       "name": "Wozani Zindlamafa",
       "url": "https://open.spotify.com/track/3jWzOF0KBySjTHyVMdAz5e"
@@ -2804,7 +2826,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 697274,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/6XxVNBMA2Ci1S1lXtpmQo7"

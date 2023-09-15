@@ -9071,20 +9071,24 @@
     },
     {
       "album": {
-        "name": "LOSE FIRST, WIN LATER",
+        "name": "LOSE FIRST, WIN LATER (DEMO)",
         "url": "https://open.spotify.com/album/5btr8xOvQkSJ88TQKusa81"
       },
       "artists": [
         {
           "name": "Tec",
           "url": "https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI"
+        },
+        {
+          "name": "KLWN CAT",
+          "url": "https://open.spotify.com/artist/3njKTUDQIOswiLKoYRePBd"
         }
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158312,
-      "name": "LOSE FIRST, WIN LATER",
+      "name": "LOSE FIRST, WIN LATER - DEMO",
       "url": "https://open.spotify.com/track/6FvMmoVFEl6cGvAQXMNeu9"
     },
     {

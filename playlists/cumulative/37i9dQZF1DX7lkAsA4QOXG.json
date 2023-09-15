@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Circle Game",
+        "url": "https://open.spotify.com/album/1zI5sP4mAW9p0eQsEMQSNi"
+      },
+      "artists": [
+        {
+          "name": "Lauren Bush",
+          "url": "https://open.spotify.com/artist/0voLSXF4pGAKwcDXctLdLD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349413,
+      "name": "Circle Game",
+      "url": "https://open.spotify.com/track/1nznIr3ZHzQFYoQZ6s98ri"
+    },
+    {
+      "album": {
         "name": "For All I Care",
         "url": "https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV"
       },
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 260361,
       "name": "Get Here",
       "url": "https://open.spotify.com/track/2IX8WR2FoBLii7teJJLibA"
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 226558,
       "name": "Maybe I'm Amazed",
       "url": "https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu"
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 342473,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/2mLjXYU12qbQRrMcxUhhse"
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 229493,
       "name": "Simple Twist Of Fate",
       "url": "https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv"
@@ -3286,6 +3304,24 @@
       "duration_ms": 220795,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/7MF6TekcON2t7g8aGijtqI"
+    },
+    {
+      "album": {
+        "name": "Jazz Pop Covers by JazzEcho",
+        "url": "https://open.spotify.com/album/6zrW0dqr05YPJPLbf3nuyT"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162480,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4GjfAPlsQg9U6YqdwJHkxC"
     },
     {
       "album": {

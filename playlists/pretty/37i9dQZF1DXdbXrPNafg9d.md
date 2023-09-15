@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Sparklehorse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,630 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,727 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 33 | [fuck it let's go bowling](https://open.spotify.com/track/5R6hSiOjgtsVHrCpBBbGNH) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [fuck it let's go bowling](https://open.spotify.com/album/0TyfNQFKzG50W0seYUhJtF) | 2:45 |
 | 34 | [Leave In The Morning](https://open.spotify.com/track/2NV0xEWJNdaMzdP94pksrl) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Leave In The Morning](https://open.spotify.com/album/1gRQl5tQu5KTWyvs3zdd2p) | 2:48 |
 | 35 | [PIE](https://open.spotify.com/track/3y52gC9TBIn6rQ68GuaJOV) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [PIE](https://open.spotify.com/album/3e2Kh3tYvXGXkZ5AhwZGko) | 4:35 |
-| 36 | [Linger](https://open.spotify.com/track/6Eo5VpS0IKPDA2EqPJO9e1) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS) | [Linger](https://open.spotify.com/album/3Ni2lU6KIFz6pFfvkeK2LF) | 3:14 |
-| 37 | [alife](https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [alife](https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm) | 4:33 |
+| 36 | [Linger](https://open.spotify.com/track/6Eo5VpS0IKPDA2EqPJO9e1) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS), [Different Hits](https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK) | [Linger](https://open.spotify.com/album/3Ni2lU6KIFz6pFfvkeK2LF) | 3:14 |
+| 37 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 |
 | 38 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 |
 | 39 | [The Freedom to Fuck Off](https://open.spotify.com/track/2DTRZKLOfm8BQOdNljrF7K) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [The Freedom to Fuck Off](https://open.spotify.com/album/2vym6dm3afTUtwAj48681k) | 4:02 |
 | 40 | [A Barely Lit Path](https://open.spotify.com/track/6LGvWHB0braCdC7D5riRCt) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [A Barely Lit Path](https://open.spotify.com/album/2PDvJr7NSgcBmIRUH5Ypxv) | 6:15 |

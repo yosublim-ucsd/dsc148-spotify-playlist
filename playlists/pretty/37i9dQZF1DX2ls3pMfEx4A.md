@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 
 > Songs that will make you and your kids laugh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,591 likes - 51 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,598 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 26 | [My Bologna](https://open.spotify.com/track/77exFA9gOKLvj6yhyX07HD) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | ["Weird Al" Yankovic](https://open.spotify.com/album/1gnhuWdl30liEUM2jy9lxl) | 2:01 |
 | 27 | [Farting Is a Part of Life](https://open.spotify.com/track/34mZzYo0duXZRlZqs7rHOV) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [The Really Really Really Really Boring Album](https://open.spotify.com/album/2yr8p98bJvQlImtgFhJEH4) | 1:37 |
 | 28 | [Backstroke Raptor](https://open.spotify.com/track/61cqeAOa4dTULClwl8GbL7) | [The Story Pirates](https://open.spotify.com/artist/0zYdQnfdS9MuLxnuXIft9N) | [Backstroke Raptor](https://open.spotify.com/album/5MkL58FpXaeuTrzKRev3z9) | 3:48 |
-| 29 | [The Derp Song](https://open.spotify.com/track/71fp15098CPhaPyQ8t7ldo) | [Derp Bros.](https://open.spotify.com/artist/2FE1YmX6oLj15z9AeJ3pOp) | [The Derp Song](https://open.spotify.com/album/6PAiGJ6F3lB9ZAGK0BUF3P) | 1:00 |
+| 29 | [The Derp Song](https://open.spotify.com/track/3tdXCwXPkCMsYpFQk3eeka) | [Derp Brothers](https://open.spotify.com/artist/1IGJVJa1bkVSLpfZnEYGjl) | [The Derp Song](https://open.spotify.com/album/7nvnrY9ZqdH7gW51260K0I) | 0:58 |
 | 30 | [Jungle Boogie](https://open.spotify.com/track/1pwkwI43EaA79HlDWNSEok) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:40 |
 | 31 | [Waffle City](https://open.spotify.com/track/5q3j5mwaPy1ZwA3PnfG4aV) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Waffle City](https://open.spotify.com/album/5SzrF02E4eectM3r6vYMW8) | 2:11 |
 | 32 | [Goofy Goober Rock](https://open.spotify.com/track/3xZek9XkEaX130o3XN9cvd) | [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj) | [SpongeBob's Greatest Hits](https://open.spotify.com/album/7n5FErCSkbQ4g2TZXKU6GD) | 2:54 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 50 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
 | 51 | [B\-I\-N\-G\-O](https://open.spotify.com/track/4xdQOzApn01AUGHYjOOKEn) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [New Year's Eve 2021 with the Frenchies](https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF) | 1:57 |
 
-Snapshot ID: `MCw4MzFkZjMwMWQyODcxZjgyM2NkMzk4ODA2YTY0Mzk3ZWQxMmJlNDAx`
+Snapshot ID: `MCxlNjVmMTlhMDMzNjc4NjM1ZTU0MDk2NmZmMjMxZGYxY2Q5M2Q4ZDc3`

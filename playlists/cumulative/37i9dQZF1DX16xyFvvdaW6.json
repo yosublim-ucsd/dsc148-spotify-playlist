@@ -150,6 +150,24 @@
     {
       "album": {
         "name": "Fiel",
+        "url": "https://open.spotify.com/album/0yXPcyG4gS3W6m2aQACbVD"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243249,
+      "name": "El H\u00e9roe De La Humanidad",
+      "url": "https://open.spotify.com/track/2Ct8UONdpODoRYJKre38R1"
+    },
+    {
+      "album": {
+        "name": "Fiel",
         "url": "https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG"
       },
       "artists": [
@@ -160,7 +178,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 243249,
       "name": "El H\u00e9roe De La Humanidad",
       "url": "https://open.spotify.com/track/61ZdhQyMoPmftovugJ7uk2"

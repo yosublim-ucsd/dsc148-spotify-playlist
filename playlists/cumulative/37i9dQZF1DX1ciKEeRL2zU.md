@@ -4,7 +4,7 @@
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-98 songs - 7 hr 23 min
+99 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Seasons](https://open.spotify.com/track/3gmKj3ulv2GGeW4JkmphHE) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/2gzo5OG9jbP3f6K6iF0vp5) | 3:47 | 2023-02-10 |  |
 | [Siyathandana](https://open.spotify.com/track/3pSWBAu9rrzoD5RwHGBdtc) | [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Songs in The Key of Love](https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK) | 4:30 | 2022-02-11 | 2023-02-11 |
 | [Siyathandana](https://open.spotify.com/track/1NaxpfTsKPGG3Dpw6Fnv35) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Sweet And Short 2.0](https://open.spotify.com/album/0v3xefa1vgoNtsAnM30FuU) | 6:36 | 2022-02-11 |  |
-| [Sondela](https://open.spotify.com/track/749pe97jomnW5rw0mEjCkR) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ), [Sipho Mbele](https://open.spotify.com/artist/5zzBzuDDkT4uz1UWubvWh5) | [Sondela](https://open.spotify.com/album/7GeMrR8cQSwri1oBuAahiD) | 5:30 | 2022-02-11 |  |
+| [Sondela](https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Sondelani](https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j) | 5:30 | 2023-02-10 |  |
+| [Sondela](https://open.spotify.com/track/749pe97jomnW5rw0mEjCkR) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ), [Sipho Mbele](https://open.spotify.com/artist/5zzBzuDDkT4uz1UWubvWh5) | [Sondela](https://open.spotify.com/album/7GeMrR8cQSwri1oBuAahiD) | 5:30 | 2022-02-11 | 2023-09-15 |
 | [Sondela My Love](https://open.spotify.com/track/1OKkFjd0I0vGXRMDKTc1jf) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato), [Tee Tee](https://open.spotify.com/artist/4aBFsMUKrFmmWErhjffHBW) | [Sondela My Love](https://open.spotify.com/album/0AQvG3M6bwk3QlGYYDXgO5) | 3:49 | 2023-02-10 |  |
 | [Sour Milk](https://open.spotify.com/track/3AYK6HKlBhIibr1vp2Wqwy) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Sour Milk](https://open.spotify.com/album/67CS03j1fTXxcdDSzHfqqd) | 3:03 | 2022-02-11 |  |
 | [Sthandwa](https://open.spotify.com/track/4HMG4YWOq9oZglVU5GPEg0) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Inqola](https://open.spotify.com/album/5rNY0UdEy0YkCibLfPBzMF) | 4:26 | 2022-02-11 |  |

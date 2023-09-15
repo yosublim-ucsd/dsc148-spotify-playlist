@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Dilan Balkay
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,361 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,351 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 54 | [Anne Issues](https://open.spotify.com/track/5ewLmTUqNGV5gsIEfM0sUT) | [Susel](https://open.spotify.com/artist/7vnq43HvsdNjgXPYhvqok4) | [Anne Issues](https://open.spotify.com/album/6rYDD1EWFh2UYjK4PsDglb) | 1:25 |
 | 55 | [Yıllarını Silenler Anlatsın](https://open.spotify.com/track/4uj5qt8GoI21aBnmJ83ZEu) | [Nazlı Yaşan](https://open.spotify.com/artist/6wEC8NwWVlVXzvKRKETpMp) | [Yıllarını Silenler Anlatsın](https://open.spotify.com/album/4cQrQej8jdzLpyxG0H17W0) | 3:01 |
 
-Snapshot ID: `MCw0NDhiOGY0ZWM4NDcyMWVlZjE5YmQyYzY3ODIxNjkyYTVhYzg4Y2Rl`
+Snapshot ID: `MCwwYTg2NjhlYWIyNDk0NjA2YmY1Nzc5MDVmMTZjNzBjNWNjZjViNWJj`

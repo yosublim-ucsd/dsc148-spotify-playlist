@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,978 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,188 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 35 | [Envy \(They Don't Know Vocal Remix\)](https://open.spotify.com/track/1GpOWSP9X3lo05xbtEmvuV) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [They Don't Know](https://open.spotify.com/album/39adZ9WsxbgqLpHP2FLDWO) | 5:48 |
 | 36 | [Girls Like Us \- Extended Mix](https://open.spotify.com/track/75jvPWqVp6IiFBMuaWSvGe) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/1C5RzkueJX7bh2ZrzpA2fa) | [Girls Like Us](https://open.spotify.com/album/2Z7K9KQn69qXxXIIglNYlg) | 5:56 |
 | 37 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
-| 38 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
-| 39 | [It's the Way '99](https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7) | [Future Underground Nation](https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws) | [It's the Way '99](https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B) | 5:03 |
+| 38 | [It's the Way '99](https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7) | [Future Underground Nation](https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws) | [It's the Way '99](https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B) | 5:03 |
+| 39 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
 | 40 | [Love Shy \- Club Asylum Remix](https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 3:41 |
 | 41 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
 | 42 | [Just In Case \- Dub\-A\-Holics Roller's Revival Mix Edit](https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Summer Heat](https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH) | 3:39 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 55 | [Dooms Night \- Timo Maas Radio Edit](https://open.spotify.com/track/12GwtT1n24TIpp2RER56Ij) | [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr) | [Dooms Night](https://open.spotify.com/album/6JRerP3qDsohb4wEbseoeL) | 3:47 |
 | 56 | [True](https://open.spotify.com/track/4UIVcg8hsML6ZFCW6geRbX) | [Jaimeson](https://open.spotify.com/artist/7hzWocQ4TBX5jTqgt9UBPW) | [Jaimeson Revisited](https://open.spotify.com/album/7ddvdxSZngAeBFFcvl45De) | 6:19 |
 | 57 | [What Going On](https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:06 |
-| 58 | [You Used to Hold Me \- Original Mix](https://open.spotify.com/track/4UcubRTZEdPHBOns9Y9zZZ) | [Scott & Leon](https://open.spotify.com/artist/24labonn3Rx2LF8PTyVK4H), [SYLVIA MASON](https://open.spotify.com/artist/08rl4ZXJxHMQoc9UpvgsNw) | [Scott & Leon \- You Used to Hold Me \-EP](https://open.spotify.com/album/6MxISa3lEe2NTw4jlceiPA) | 5:26 |
-| 59 | [Let Me Be Your Fantasy \- Trick Or Treat Remix Edit](https://open.spotify.com/track/6dA4KrYTgjl6Ovq8T5HqRG) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc), [MC Tails](https://open.spotify.com/artist/3vPcO95a6acN37Kvuhw9Co) | [Let Me Be Your Fantasy](https://open.spotify.com/album/0qDzH1CtYjMw3uf3S5pnN9) | 3:52 |
+| 58 | [Let Me Be Your Fantasy \- Trick Or Treat Remix Edit](https://open.spotify.com/track/6dA4KrYTgjl6Ovq8T5HqRG) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc), [MC Tails](https://open.spotify.com/artist/3vPcO95a6acN37Kvuhw9Co) | [Let Me Be Your Fantasy](https://open.spotify.com/album/0qDzH1CtYjMw3uf3S5pnN9) | 3:52 |
+| 59 | [You Used to Hold Me \- Original Mix](https://open.spotify.com/track/4UcubRTZEdPHBOns9Y9zZZ) | [Scott & Leon](https://open.spotify.com/artist/24labonn3Rx2LF8PTyVK4H), [SYLVIA MASON](https://open.spotify.com/artist/08rl4ZXJxHMQoc9UpvgsNw) | [Scott & Leon \- You Used to Hold Me \-EP](https://open.spotify.com/album/6MxISa3lEe2NTw4jlceiPA) | 5:26 |
 | 60 | [Oh No \(Sentimental Things\) \- Oxide Remix](https://open.spotify.com/track/4ZzLtmgHbUTqmV6wvtZq0l) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [They Don't Know](https://open.spotify.com/album/39adZ9WsxbgqLpHP2FLDWO) | 5:33 |
 | 61 | [Wishing I Were Home](https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Wishing I Were Home](https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i) | 6:15 |
 | 62 | [Bring Me Down \- Vocal Mix](https://open.spotify.com/track/049MMnSYqnfbUFyAZlq8SY) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R), [Zac Toms](https://open.spotify.com/artist/4NIatCnGgmP3CVi1kP07yk) | [Bring Me Down 2014](https://open.spotify.com/album/69ctY5wPad54fhQJDvuZEB) | 5:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Cheque One\-Two](https://open.spotify.com/track/2P3UUkbX6dR9DFNLFnuP8a) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:03 |
 | 75 | [Kung\-Fu](https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU) | [187 Lockdown](https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p) | [187](https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4) | 6:31 |
 
-Snapshot ID: `MCw5MWE4NDUwMDAzMDlkYjE4YmY2YWE4ZWZlNDllOGVmNDE4Y2EwYTBj`
+Snapshot ID: `MCw2Yjg4OTJkZDU0MDZhYmQ5MThlODYxNzE5NTBlY2MzMzMyMDYyYWNk`

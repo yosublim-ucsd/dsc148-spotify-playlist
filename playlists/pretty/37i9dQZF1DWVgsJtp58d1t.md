@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=GfiVs7RvQSSscqFajmwI\-Q">Teezo Touchdown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,787 likes - 118 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,769 likes - 118 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 117 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 |
 | 118 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 |
 
-Snapshot ID: `MCxmYjBlZTViOGRjMjJkOWRmMjA1MmQ2MTUyOTI2NDNmZTY5ZjFiYzA2`
+Snapshot ID: `MCwxMDE3NGIxYjIyNzZmYjNiM2RjMGIxYzlhOWQ2ZTJkYzZkZGU0ODEw`

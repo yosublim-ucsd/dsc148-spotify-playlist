@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,223 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,255 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 30 | [Todo para Mi](https://open.spotify.com/track/3x3ajfjfMqRVcht85ZG89W) | [Blest](https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw) | [Lo Mejor de la Música Cristiana](https://open.spotify.com/album/739VThS5Uq7FlQTCe9IAhN) | 4:26 |
 | 31 | [Tu Historia](https://open.spotify.com/track/2Edzf0McD1MOWTwI5GbF1b) | [Renacer](https://open.spotify.com/artist/23Yee5PRZs6MB8tR3Jynxe) | [Consumenos](https://open.spotify.com/album/1bIA3sfkrfFkHAU0KJFj9x) | 4:27 |
 | 32 | [Tu Sangre Clama](https://open.spotify.com/track/3lUGO4PQnRj3KICj44DfZT) | [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8) | [Tu Sangre Clama](https://open.spotify.com/album/6z3NBhEg5SwukG5PUDkPPL) | 7:46 |
-| 33 | [El Héroe De La Humanidad](https://open.spotify.com/track/61ZdhQyMoPmftovugJ7uk2) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:03 |
+| 33 | [El Héroe De La Humanidad](https://open.spotify.com/track/2Ct8UONdpODoRYJKre38R1) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0yXPcyG4gS3W6m2aQACbVD) | 4:03 |
 | 34 | [En mi palma te escribí](https://open.spotify.com/track/4kkLruWcwJ6B2qSGl58zkf) | [La voz del desierto](https://open.spotify.com/artist/3o3NVYDVBPfg4tWKe6hKuC) | [Él me vuelve a levantar](https://open.spotify.com/album/6mTchxlwaF1UCRmGlof1uB) | 3:55 |
 | 35 | [Revolución](https://open.spotify.com/track/3On8E0EIn0lFMc2Jbc9k0v) | [Padre Jony](https://open.spotify.com/artist/42HGVpAbSf1xevhPB2gero) | [Madrid 2011 \(Música para la JMJ / Music for WYD\)](https://open.spotify.com/album/3UbwDXMWN6ewsV7V9SfKQd) | 3:43 |
 | 36 | [La Bendición](https://open.spotify.com/track/6TLsEUOdntbYlNYzIC3FaG) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/61OVjCoGUuvjoFOkLwTf4J) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 49 | [Otra Oportunidad](https://open.spotify.com/track/0g1dQ5Wafzv5umVhjNcEle) | [Revoluzion Estereo](https://open.spotify.com/artist/07y7DBTR7GwPS7sapmxrtG) | [Revoluzion Estereo](https://open.spotify.com/album/6LpcHauCrtKT0UJuXG8YI8) | 4:15 |
 | 50 | [Porque Fingir](https://open.spotify.com/track/7v13JBeYnHzgB4enyvcOcP) | [180 Grados](https://open.spotify.com/artist/5EFB2QpDOSYieHayE27uZ8) | [Cambio](https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM) | 4:04 |
 
-Snapshot ID: `MCw4ZjQ4YTdlOWNlZWNlNjRmMmI4NjFjYjExZjk3ODA0M2M5YzQ0MmI5`
+Snapshot ID: `MCwxZGE0ZTYzNjczODYwY2UwODgxMmMyZGIxZGUyNjNiZDBlZGJjNWUz`

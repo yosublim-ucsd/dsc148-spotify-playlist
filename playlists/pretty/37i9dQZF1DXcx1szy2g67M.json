@@ -1,12 +1,12 @@
 {
   "description": "Zo klinkt de zomer van 2023! ",
-  "num_followers": 544499,
+  "num_followers": 544666,
   "original_name": "Summer '23",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmUzOGEzYjAxNTA0YzZmYzUwNzUwZmM1M2RkYjBmMzYxMmUwNzIy",
+  "snapshot_id": "MCxjMDgwNGE1YWM1ZTQ1Y2JjZWU0MDU2Y2I2ZWQxMDhjYWU2OTVjMjlj",
   "tracks": [
     {
       "added_at": "2023-09-10 20:52:46",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-09-10 20:52:46",
       "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/7kZ4FOhBJmEtYbrITAO6h7"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "duration_ms": 147925,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/6SEnSnZvVF9jW5OGQpSgBc"
+    },
+    {
+      "added_at": "2023-09-10 20:52:46",
+      "album": {
         "name": "Rocketship",
         "url": "https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ"
       },
@@ -303,6 +319,22 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2023-09-10 20:52:46",
+      "album": {
+        "name": "OMG It's Happening",
+        "url": "https://open.spotify.com/album/46JiaUNCZPaPF0zZzE1Hu8"
+      },
+      "artists": [
+        {
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+        }
+      ],
+      "duration_ms": 179599,
+      "name": "OMG It's Happening",
+      "url": "https://open.spotify.com/track/3UDWgZznpvkwYx92b0hjJ8"
     },
     {
       "added_at": "2023-09-10 20:52:46",
@@ -527,22 +559,6 @@
       "duration_ms": 162353,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP"
-    },
-    {
-      "added_at": "2023-09-10 20:52:46",
-      "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/7kZ4FOhBJmEtYbrITAO6h7"
-      },
-      "artists": [
-        {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
-        }
-      ],
-      "duration_ms": 147925,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/6SEnSnZvVF9jW5OGQpSgBc"
     },
     {
       "added_at": "2023-09-10 20:52:46",
@@ -995,22 +1011,6 @@
       "duration_ms": 153037,
       "name": "Meltdown",
       "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
-    },
-    {
-      "added_at": "2023-09-10 20:52:46",
-      "album": {
-        "name": "OMG It's Happening",
-        "url": "https://open.spotify.com/album/46JiaUNCZPaPF0zZzE1Hu8"
-      },
-      "artists": [
-        {
-          "name": "DI-RECT",
-          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
-        }
-      ],
-      "duration_ms": 179599,
-      "name": "OMG It's Happening",
-      "url": "https://open.spotify.com/track/3UDWgZznpvkwYx92b0hjJ8"
     },
     {
       "added_at": "2023-09-10 20:52:46",

@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 748635,
+  "num_followers": 748785,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODZjOGViNjM5MDIyM2U4N2ZhNDgyNzJkZWUxNzEwY2QzNGRkZDAw",
+  "snapshot_id": "MCwwMDg4ZGZkOGI0MjBkY2YzMzdlNzJmOWVjYTFhOTE3NjZiY2ZkZTZl",
   "tracks": [
     {
       "added_at": "2023-09-08 08:01:11",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-08 08:01:11",
       "album": {
-        "name": "Gee Whiz But This Is a Lonesome Town",
-        "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
-      },
-      "artists": [
-        {
-          "name": "Moriarty",
-          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
-    },
-    {
-      "added_at": "2023-09-08 08:01:11",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 250866,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
+    },
+    {
+      "added_at": "2023-09-08 08:01:11",
+      "album": {
+        "name": "Gee Whiz But This Is a Lonesome Town",
+        "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
+      },
+      "artists": [
+        {
+          "name": "Moriarty",
+          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
     },
     {
       "added_at": "2023-09-08 08:01:11",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-09-08 08:01:11",
       "album": {
-        "name": "La symphonie des \u00e9clairs",
-        "url": "https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "duration_ms": 266422,
-      "name": "Dis-moi que tu m'aimes",
-      "url": "https://open.spotify.com/track/3ow5CelrJnKuAmzzbOtOJ7"
-    },
-    {
-      "added_at": "2023-09-08 08:01:11",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/0YBjEXcSYKyZ1UGzTfvWEf"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 243093,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/4VAzUwIL69PDIMjmhzBwMD"
+    },
+    {
+      "added_at": "2023-09-08 08:01:11",
+      "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "duration_ms": 266422,
+      "name": "Dis-moi que tu m'aimes",
+      "url": "https://open.spotify.com/track/3ow5CelrJnKuAmzzbOtOJ7"
     },
     {
       "added_at": "2023-09-08 08:01:11",

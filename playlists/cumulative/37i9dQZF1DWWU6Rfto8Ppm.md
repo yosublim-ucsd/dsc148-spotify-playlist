@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-400 songs - 1 day 0 hr 5 min
+401 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Calentamiento](https://open.spotify.com/track/6bKLzIH6wdyX4y1cl0O2fN) | [Jadiel](https://open.spotify.com/artist/1K0lOPFlbPF3Volp5qIYNw), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Calentamiento](https://open.spotify.com/album/50P9Kc9hBUuyNiozCKMDTo) | 3:38 | 2022-12-16 | 2023-07-29 |
 | [Cantinero](https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc) | [Fusion Perreo](https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI) | [Cantinero](https://open.spotify.com/album/5COfnmgB3zAma9C2PSFWS1) | 3:41 | 2022-05-13 | 2022-06-09 |
 | [Carita Bonita](https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4) | [Erre XI](https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed), [PeeWee](https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp) | [Luny Tunes Presents ERRE XI](https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl) | 4:14 | 2022-10-12 |  |
-| [Chambonea](https://open.spotify.com/track/3SESZ1maRpb7b12VpbgRWN) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Vida Escante](https://open.spotify.com/album/4zdEAfhZ9PymOasYqNK6uZ) | 2:51 | 2023-04-20 |  |
+| [Chambonea](https://open.spotify.com/track/3SESZ1maRpb7b12VpbgRWN) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Vida Escante](https://open.spotify.com/album/4zdEAfhZ9PymOasYqNK6uZ) | 2:51 | 2023-04-20 | 2023-09-15 |
 | [Chica 10](https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh) | [Fusion Perreo](https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI) | [Chica 10](https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG) | 3:49 | 2022-05-13 |  |
 | [Chica Plastica](https://open.spotify.com/track/3sVpw06XTctdLcq1lnc3Cu) | [Johnny Prez](https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw), [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [El Dragon](https://open.spotify.com/album/6d5MGIEbLpHEOaBtZeR5pO) | 4:14 | 2022-10-12 | 2023-05-10 |
 | [Chica Ven Pa' Aca](https://open.spotify.com/track/5mmh6YyxJeS34vAe4M447R) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Los Matadores del Genero](https://open.spotify.com/album/5csCMnX1VNrZmzz1saqakQ) | 3:24 | 2021-12-17 | 2022-07-29 |
@@ -263,7 +263,8 @@
 | [Perdóname](https://open.spotify.com/track/4JOcMuy5myeEaNCKlu5j19) | [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX), [Demphra](https://open.spotify.com/artist/6iWtjkkeqeuVyPlFTVXMxh) | [Perdóname](https://open.spotify.com/album/1QT53Qn2B1mQFF7CfNONXw) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 | 2022-07-27 |  |
 | [Perdóname](https://open.spotify.com/track/0I0o9LdUckzfXcxjWy1vlo) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/5iiLFpwUmmDOjbulpAzica) | 4:02 | 2022-05-13 | 2022-05-16 |
-| [Permitame](https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Permitame](https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB) | 3:05 | 2022-07-27 |  |
+| [Permitame](https://open.spotify.com/track/1UfnwkKkzkHZ6h8XEUlr8G) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 3:04 | 2023-08-14 |  |
+| [Permitame](https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Permitame](https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB) | 3:05 | 2022-07-27 | 2023-09-15 |
 | [Permitame](https://open.spotify.com/track/1nkigJQgXmEKKJQWkiXwes) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Perreando en la Casa](https://open.spotify.com/album/219WqxfbsIdbNbc8TXiFAW) | 3:05 | 2022-10-12 | 2022-11-13 |
 | [Permitame](https://open.spotify.com/track/4uJSxi5beZ9GSzq5OKH09h) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Melodia De La Calle](https://open.spotify.com/album/49Ff1eCn22aFRuI5avDtZ6) | 3:05 | 2021-12-17 | 2022-07-29 |
 | [Pobre Diabla](https://open.spotify.com/track/26RZ3DhnVlytdG6N1oxW1E) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Gold Series "The Last Don"](https://open.spotify.com/album/3hKDEHUzH1GmdohemezsEw) | 4:12 | 2021-12-17 | 2022-07-29 |
@@ -321,7 +322,7 @@
 | [Sigue Bailando Mi Amor](https://open.spotify.com/track/0Ueebi9UrB6jtIcGYal2uM) | [El Roockie](https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4) | [Sigue Bailando Mi Amor](https://open.spotify.com/album/2MqCJi6VjXC2mYtnD219gr) | 3:18 | 2022-09-26 |  |
 | [Sin Miedo](https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ) | 3:16 | 2021-12-17 | 2023-08-15 |
 | [Sin Miedo](https://open.spotify.com/track/6aibYCJcHtpQgwq35ohOKs) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/3IhY9gtZHtaGPjvWR8PCcp) | 3:17 | 2023-08-14 |  |
-| [Sin Tu Amor \(feat\. Alex Pro\)](https://open.spotify.com/track/63hZCrRfcZza3npjwt3Ezs) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Alex Pro](https://open.spotify.com/artist/2v6k4KGZsj9Tx3gn2aECFO) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:29 | 2023-07-31 | 2023-09-11 |
+| [Sin Tu Amor \(feat\. Alex Pro\)](https://open.spotify.com/track/63hZCrRfcZza3npjwt3Ezs) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Alex Pro](https://open.spotify.com/artist/2v6k4KGZsj9Tx3gn2aECFO) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:29 | 2023-07-31 |  |
 | [Sol, Playa Y Arena](https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [It's My Time](https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe) | 3:08 | 2021-12-17 |  |
 | [Sola](https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 2:53 | 2021-12-17 |  |
 | [Solitaria](https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Pura Playa](https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk) | 3:38 | 2022-05-13 |  |

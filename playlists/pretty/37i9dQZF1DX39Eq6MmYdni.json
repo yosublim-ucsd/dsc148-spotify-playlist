@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera & Grupo Firme",
-  "num_followers": 14291,
+  "num_followers": 14366,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjIwMGRlMmY5ZmY0YmJiYTY1ZjExODc5NmRmODc5ZmY5MzQ2NmVk",
+  "snapshot_id": "MCxkNjllZDFiYTk5ZTRiNmYwMWM0NmMzZTljYWZhYzczMGIyYzZjZWE5",
   "tracks": [
     {
       "added_at": "2023-08-18 21:56:20",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
-    },
-    {
-      "added_at": "2023-08-18 21:56:20",
-      "album": {
         "name": "Tirando la H",
         "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 119333,
       "name": "Tirando la H",
       "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
+    },
+    {
+      "added_at": "2023-08-18 21:56:20",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2023-08-18 21:56:20",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
+        "name": "Perfecci\u00f3n",
+        "url": "https://open.spotify.com/album/6JmjHJcvGcNv6JEjZb7Hwv"
+      },
+      "artists": [
+        {
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 120857,
+      "name": "Perfecci\u00f3n",
+      "url": "https://open.spotify.com/track/70PhHGQlEU2C5pcAR7rVnY"
+    },
+    {
+      "added_at": "2023-08-18 21:56:20",
+      "album": {
         "name": "Lo Dice El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0tELO6VB2M4J9Egbk3ENZl"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
-        "name": "Mi Tesoro (En Vivo)",
-        "url": "https://open.spotify.com/album/3izA85ST6c3tnSLoYg8v6W"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 182603,
-      "name": "Mi Tesoro (En Vivo)",
-      "url": "https://open.spotify.com/track/5upZqOtEEFH9TwdYorE7Af"
-    },
-    {
-      "added_at": "2023-08-18 21:56:20",
-      "album": {
         "name": "Pa Quererte",
         "url": "https://open.spotify.com/album/0oBSqtS4zt2ZGSAiTZuHvF"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
-        "name": "Perfecci\u00f3n",
-        "url": "https://open.spotify.com/album/6JmjHJcvGcNv6JEjZb7Hwv"
+        "name": "Mi Tesoro (En Vivo)",
+        "url": "https://open.spotify.com/album/3izA85ST6c3tnSLoYg8v6W"
       },
       "artists": [
         {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
-      "duration_ms": 120857,
-      "name": "Perfecci\u00f3n",
-      "url": "https://open.spotify.com/track/70PhHGQlEU2C5pcAR7rVnY"
+      "duration_ms": 182603,
+      "name": "Mi Tesoro (En Vivo)",
+      "url": "https://open.spotify.com/track/5upZqOtEEFH9TwdYorE7Af"
     }
   ],
   "unique_name": "Rompiendo: Texas",

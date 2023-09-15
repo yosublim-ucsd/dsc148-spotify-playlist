@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Karkwa
 
-2,030 songs - 4 day 12 hr 30 min
+2,031 songs - 4 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Banque de Beats Mondiale](https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Banque de Beats Mondiale](https://open.spotify.com/album/62KeY1v3G53EralWy54EJh) | 2:15 | 2023-06-16 | 2023-06-24 |
 | [Bar\-Mitzvah](https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Bar\-Mitzvah](https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0) | 2:07 | 2022-07-22 | 2022-08-20 |
 | [Barbade](https://open.spotify.com/track/5zzOE42zx3RsAt8YSHeFrk) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [45 Degrés](https://open.spotify.com/album/0uffrPthhPnBvRdfdYvd4s) | 3:12 | 2022-07-22 | 2022-08-20 |
-| [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 | 2023-07-07 |  |
+| [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 | 2023-07-07 | 2023-09-15 |
 | [Barrières](https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K) | [Fifo](https://open.spotify.com/artist/5OFfXZvVHDQ76SarIJtG0a), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Barrières](https://open.spotify.com/album/2qgaxwFqAEolIIln26xxTF) | 3:25 | 2022-10-21 | 2022-11-05 |
 | [Battleship](https://open.spotify.com/track/2RgRCdL6UgBkPUFabrM36G) | [David Jalbert](https://open.spotify.com/artist/73hJgSbsD0XvlYzI1ZmVpa) | [Le doigt d'honneur Tome II](https://open.spotify.com/album/18YetqWoWPzenG5RtA5pt0) | 3:17 | 2022-03-18 | 2022-03-26 |
 | [Bavard](https://open.spotify.com/track/6R3tleNvmMHJyHCDU5fxET) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Renaissance](https://open.spotify.com/album/2zMexOBKvZIyu0LGwwZZu0) | 3:37 | 2022-01-21 | 2022-02-05 |
@@ -2000,6 +2000,7 @@
 | [À deux \- Extrait de la Bande Originale du film « Les Déguns 2 »](https://open.spotify.com/track/2lTsd9ofFTLuOPj07J00aq) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [À deux \(Extrait de la Bande Originale du film « Les Déguns 2 »\)](https://open.spotify.com/album/0lccVcAosJkypnQzpJc96K) | 2:50 | 2023-08-11 |  |
 | [À hauteur d'homme \- Live](https://open.spotify.com/track/4cdpUgva88X0YhKQo7nfu1) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [L'entends\-tu encore, Vallières? \(le spectacle intégral / Live\)](https://open.spotify.com/album/6xPHbBQOt3OHsJCYdEwHYn) | 3:50 | 2022-11-11 | 2022-11-26 |
 | [À l'aube](https://open.spotify.com/track/6TCqAnjf9GpTIeGIthLZg0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [À l'aube](https://open.spotify.com/album/6tNyzj2OVtD3W4rVoNFA0I) | 3:03 | 2022-05-13 | 2022-05-20 |
+| [À l'inverse](https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [À l'inverse](https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX) | 2:55 | 2023-09-08 |  |
 | [À la danse](https://open.spotify.com/track/5hv4VnqMXXi4xD1dfOfigp) | [Émilie Landry](https://open.spotify.com/artist/09wVe7ulMAlyVMZpKEI5ar) | [À la danse](https://open.spotify.com/album/7AMrml4ZxzpDudV4IDEiis) | 3:26 | 2022-07-01 | 2022-07-16 |
 | [À la maison](https://open.spotify.com/track/262iZhl0uou39JD0irMRdX) | [Pièce sur Pièce](https://open.spotify.com/artist/3qYKJEdlcaY29kCX0ADiUU) | [EP3](https://open.spotify.com/album/2YtgCxAn3lAwBOidRQ8lDe) | 4:42 | 2022-02-04 | 2022-02-12 |
 | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/track/0xDNmS1FLbONayk21JM7NT) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy), [Standard Emmanuel](https://open.spotify.com/artist/03eMkqsGXAfGVyH9DvbO7D) | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/album/6HxlVrZdTIK2KXSJ5GhIw4) | 5:33 | 2023-08-18 | 2023-08-26 |

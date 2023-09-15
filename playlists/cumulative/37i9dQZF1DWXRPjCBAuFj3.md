@@ -2,7 +2,7 @@
 
 ### [Rap Internazionale](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Il rap più forte del mondo in una sola playlist\. Cover: Travis Scott
+> Il rap più forte del mondo in una sola playlist\. Cover: Doja Cat
 
 415 songs - 21 hr 43 min
 

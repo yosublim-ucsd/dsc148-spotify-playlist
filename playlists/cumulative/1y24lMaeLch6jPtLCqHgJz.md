@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-215 songs - 11 hr 9 min
+217 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Falling For You](https://open.spotify.com/track/4PUbu73TaNrlRfoiPndPCg) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Eline Esmee](https://open.spotify.com/artist/34t231FBcrTXTbRFFnzker) | [Falling For You](https://open.spotify.com/album/7BG4Z7k5d6LEYETBh55Ztz) | 2:50 | 2022-08-11 | 2023-08-12 |
 | [Far I Go](https://open.spotify.com/track/5e4Qud4VuYciLCafNaF2v0) | [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e), [John Knows](https://open.spotify.com/artist/4sUbeWVI8JYbNHyKL5LqkE), [Dare County](https://open.spotify.com/artist/3x6K65pMW3Ei35TXKC03rL) | [Far I Go](https://open.spotify.com/album/0phavb4PCvU3uQ0vEIR3F1) | 2:44 | 2022-12-15 | 2023-09-02 |
 | [Faraba](https://open.spotify.com/track/15rllcb8N7UmpDmiM4Jiyq) | [Jimmi Rider](https://open.spotify.com/artist/1cd0IMgYU4aMsi2fSh8jJV), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Faraba](https://open.spotify.com/album/47JxkBAqugQKcSnazKEwvO) | 2:18 | 2023-08-25 |  |
+| [Fearless Dreamers](https://open.spotify.com/track/1fF9VfW5Xa1BXy6dVBgPvt) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Fearless Dreamers](https://open.spotify.com/album/0T7N8MYxT5ms02M5PKg1eW) | 2:44 | 2023-09-14 |  |
 | [Fears In The Fire](https://open.spotify.com/track/1EwYWqQsaBhm98CphY1tKs) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/4AI6ApB66OHFrpMgqiUG3g) | 2:37 | 2022-07-29 | 2023-04-29 |
 | [Feel My Love \(feat\. Joe Taylor\) \- Festival Mix](https://open.spotify.com/track/7kB4ZalpJf99nZgftlV73E) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Feel My Love \(feat\. Joe Taylor\) \[Festival Mix\]](https://open.spotify.com/album/4k5O3Q13AoUSvJZymOtuk1) | 3:06 | 2022-07-29 |  |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2023-08-10 |  |
@@ -123,6 +124,7 @@
 | [Into the Great Unknown](https://open.spotify.com/track/4oE5XjA6GRbACGi0iar6PJ) | [WildVibes](https://open.spotify.com/artist/6BEqzY6INFaHKQ2mqWWuNs), [Fancy Floss](https://open.spotify.com/artist/36Qux635tnV9mSMJNOGUGo) | [Into the Great Unknown](https://open.spotify.com/album/2mfNztsYjVIpgfzSaWGfli) | 3:27 | 2023-06-02 | 2023-07-29 |
 | [Kings \- Shogun Remix](https://open.spotify.com/track/2HpnvnsKMnl88LLOz1xPPh) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT) | [\#aparttogether \(The Remixes Part 1\)](https://open.spotify.com/album/0OeB4MQV2JLoX7JlIdKwvG) | 3:03 | 2022-08-26 | 2023-09-09 |
 | [La La Life](https://open.spotify.com/track/7zEfs60wAzIOj0M2dbbjAg) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [La La Life](https://open.spotify.com/album/3DQSbcTRwObXj0zEDCPFi0) | 2:44 | 2023-08-25 |  |
+| [Last Call](https://open.spotify.com/track/0REO4HZjpt0pnQUtYwI6Mp) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Brïah](https://open.spotify.com/artist/69ZxNjgOfcItRkCpPnIIOz) | [Last Call](https://open.spotify.com/album/2s1Vxe2gPtaTty5ZcrG2qY) | 3:47 | 2023-09-14 |  |
 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 | 2022-07-29 |  |
 | [Like Dis](https://open.spotify.com/track/4BlhVVLEJ7H2QsPcZ0v6bL) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Like Dis](https://open.spotify.com/album/2pFskPFDiMLmH3D8HHKpDl) | 2:18 | 2023-08-24 |  |
 | [Lions Roar \(feat\. Philip Strand\)](https://open.spotify.com/track/7DCJZlDIubI1B2z4EoZ7VD) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Lions Roar \(feat\. Philip Strand\)](https://open.spotify.com/album/44pquiGbX8vB0u7VSizA6V) | 2:57 | 2022-11-18 | 2023-04-22 |

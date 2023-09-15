@@ -1,40 +1,32 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 33296,
+  "num_followers": 33324,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzQ5M2FlMzE2MmM3ZmNhYzZmYzQyZjNlYWViNzIwZjNkNDg2OTBm",
+  "snapshot_id": "MCxiMmZhNmM0NTJlZTUxOTRmMDBlN2UzZjdjZmJkMGE0YWQ1MWRhMmM3",
   "tracks": [
     {
-      "added_at": "2023-09-08 00:01:00",
+      "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "Yesu (Jesus)",
-        "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
+        "name": "Spirit Of Praise, Vol. 9 (Live)",
+        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
       },
       "artists": [
         {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
         },
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Guya",
-          "url": "https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH"
+          "name": "Canaan Nyathi",
+          "url": "https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333"
         }
       ],
-      "duration_ms": 235559,
-      "name": "Yesu (Jesus)",
-      "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
+      "duration_ms": 513913,
+      "name": "Ngithol\u2019 uMhlobo (Live)",
+      "url": "https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -133,6 +125,22 @@
       "url": "https://open.spotify.com/track/3jWzOF0KBySjTHyVMdAz5e"
     },
     {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "Liberty",
+        "url": "https://open.spotify.com/album/6OT3uygECDrzpVjGd2rjy3"
+      },
+      "artists": [
+        {
+          "name": "Stefan Green",
+          "url": "https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO"
+        }
+      ],
+      "duration_ms": 237692,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/2Qjl9RwO2qQZaLpXQgJqIZ"
+    },
+    {
       "added_at": "2023-06-23 00:01:00",
       "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
@@ -201,6 +209,26 @@
       "url": "https://open.spotify.com/track/7pHDixs53icP6n2Yoi5mtD"
     },
     {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "Joyful Noise",
+        "url": "https://open.spotify.com/album/4rEJpPtx2uMpFYHfh0Iii1"
+      },
+      "artists": [
+        {
+          "name": "His Church Music",
+          "url": "https://open.spotify.com/artist/1jMeFoQnHRPmCYctBPZqbp"
+        },
+        {
+          "name": "Pamela Myburgh",
+          "url": "https://open.spotify.com/artist/0fmsGte6TDNGk9WwaAAhfJ"
+        }
+      ],
+      "duration_ms": 299360,
+      "name": "Joyful Noise",
+      "url": "https://open.spotify.com/track/3wNVEsiyCWRkwEZvncGOOT"
+    },
+    {
       "added_at": "2023-08-04 00:01:00",
       "album": {
         "name": "Be Okay",
@@ -231,6 +259,26 @@
       "duration_ms": 655253,
       "name": "Bow Down and Worship - Live",
       "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/74aAyivHbswbVLoqBBwpOV"
+      },
+      "artists": [
+        {
+          "name": "Chan\u00e9",
+          "url": "https://open.spotify.com/artist/2prZqMnNuyFYxrjIMIUkPE"
+        },
+        {
+          "name": "Julanie J",
+          "url": "https://open.spotify.com/artist/5FWjsO7SEyEQj4pTFUGsUD"
+        }
+      ],
+      "duration_ms": 184565,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/5pol8d0lIHv6664Ow4l9XE"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -299,6 +347,34 @@
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "The Maverick Way - EP",
+        "url": "https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 556673,
+      "name": "More Than Able (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -375,6 +451,34 @@
       "duration_ms": 433773,
       "name": "Haleluyah Mdumiseni (Live)",
       "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
+    },
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "Yesu (Jesus)",
+        "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Guya",
+          "url": "https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH"
+        }
+      ],
+      "duration_ms": 235559,
+      "name": "Yesu (Jesus)",
+      "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1501,22 +1605,6 @@
       "url": "https://open.spotify.com/track/7rvB5RRZFsbj4mjTNJfOG5"
     },
     {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
-        "name": "You Restore",
-        "url": "https://open.spotify.com/album/4qwpP2cLhv5pkPz4MPHQUl"
-      },
-      "artists": [
-        {
-          "name": "CRC Music",
-          "url": "https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7"
-        }
-      ],
-      "duration_ms": 252686,
-      "name": "You Restore",
-      "url": "https://open.spotify.com/track/6WNy8lG1fbcsqtutkQj62L"
-    },
-    {
       "added_at": "2023-04-21 00:01:00",
       "album": {
         "name": "Jesu Uyalalela",
@@ -1623,22 +1711,6 @@
     {
       "added_at": "2023-02-21 14:33:20",
       "album": {
-        "name": "Provider",
-        "url": "https://open.spotify.com/album/5tlzyGjF93HuiYZgkeQZjz"
-      },
-      "artists": [
-        {
-          "name": "Ruan Josh",
-          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
-        }
-      ],
-      "duration_ms": 240574,
-      "name": "Provider",
-      "url": "https://open.spotify.com/track/0A5qMUHOf4XVGO5wWrp6cl"
-    },
-    {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
         "name": "The Great Shepherd",
         "url": "https://open.spotify.com/album/33eY0hoLeLU58nPAFtDKiM"
       },
@@ -1651,22 +1723,6 @@
       "duration_ms": 334341,
       "name": "The Great Shepherd",
       "url": "https://open.spotify.com/track/5L7D9BRV28mN3ph3E9QKuh"
-    },
-    {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Strong God",
-      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
     },
     {
       "added_at": "2023-02-21 14:33:20",
@@ -1739,22 +1795,6 @@
       "duration_ms": 225876,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/1eaDQEbF8TkRj19kw5EEKN"
-    },
-    {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
-        "name": "For His Glory",
-        "url": "https://open.spotify.com/album/4bIg1qW3SmBMu59i3uQvXn"
-      },
-      "artists": [
-        {
-          "name": "CRC Music",
-          "url": "https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7"
-        }
-      ],
-      "duration_ms": 251275,
-      "name": "My Shepherd",
-      "url": "https://open.spotify.com/track/5UTYCylVomPTnNpzdsaVBA"
     },
     {
       "added_at": "2023-02-21 14:33:20",

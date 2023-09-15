@@ -4,13 +4,14 @@
 
 > Releases from the legendary label.
 
-123 songs - 7 hr 31 min
+126 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Million](https://open.spotify.com/track/5Su8uzlRIS20exFLAeyuDQ) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [How It Feels To Be Something On](https://open.spotify.com/album/7lUd8epbP1tQlpxwZfCSZv) | 5:38 | 2019-10-02 |  |
 | [100 Million](https://open.spotify.com/track/6nsayttmV66bQXTXWAs93V) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [How It Feels To Be Something On](https://open.spotify.com/album/3q4JL92gEyjHojgSrkYwWR) | 5:38 | 2019-10-02 | 2022-07-29 |
-| [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 | 2019-10-02 |  |
+| [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 | 2019-10-02 | 2023-09-15 |
+| [About A Girl](https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:48 | 2019-10-02 |  |
 | [About A Girl \- Remastered](https://open.spotify.com/track/4T0OWC2ISMWVDAIdhIPXK4) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/4vEqluvGq8AC9Xx2Fx4cZ3) | 2:48 | 2019-10-02 | 2022-07-29 |
 | [Be Yr Mama](https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:52 | 2019-10-02 |  |
 | [Be Yr Mama](https://open.spotify.com/track/4zVWgMpKtdZ2PjUiAwmBJ1) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/3lQ9hhX2B7DPtEDZznyRtT) | 2:52 | 2019-10-02 | 2022-07-29 |
@@ -42,7 +43,8 @@
 | [Good Enough \- Remastered](https://open.spotify.com/track/2wcpa5PSqWRRx2dQhxDjE4) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Every Good Boy Deserves Fudge \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/12SPtVu2JnT2I6D3RNKMX4) | 3:26 | 2019-10-02 |  |
 | [Greatest Gift](https://open.spotify.com/track/2DcJKKN4xlBrVm0HJo5wBV) | [Scratch Acid](https://open.spotify.com/artist/219VCiRViG60EbPiocSWJp) | [The Greatest Gift](https://open.spotify.com/album/35NI0HtkhQ2PAvCYZET9gb) | 2:11 | 2019-10-02 |  |
 | [Greatest Gift](https://open.spotify.com/track/4tuaP1HtdTUmQI0dCyH37E) | [Scratch Acid](https://open.spotify.com/artist/219VCiRViG60EbPiocSWJp) | [The Greatest Gift](https://open.spotify.com/album/1gdaXqxaF8wRNdHiZfjodQ) | 2:11 | 2019-10-02 | 2022-07-29 |
-| [Hunted Down](https://open.spotify.com/track/49svNTJ8LUOZwGrbbvXYMI) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Telephantasm \(Deluxe Edition\)](https://open.spotify.com/album/7H1360Hm13rF0nEzs1FS8v) | 2:40 | 2019-10-02 |  |
+| [Hunted Down](https://open.spotify.com/track/49svNTJ8LUOZwGrbbvXYMI) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Telephantasm \(Deluxe Edition\)](https://open.spotify.com/album/7H1360Hm13rF0nEzs1FS8v) | 2:40 | 2019-10-02 | 2023-09-15 |
+| [Hunted Down \- Remastered](https://open.spotify.com/track/1ptag71oeiVJPesvnXuhtc) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Screaming Life/Fopp](https://open.spotify.com/album/5wStnX0uKJRKlWX4rifrSb) | 2:42 | 2019-10-02 |  |
 | [Hunted Down \- Remastered](https://open.spotify.com/track/4nnDr2vyxvKudkOH4CQv3K) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Screaming Life/Fopp](https://open.spotify.com/album/2yN7nOorUYUHWZdbZLeOB1) | 2:42 | 2019-10-02 | 2022-07-29 |
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/78WsXfoC65EE9X5djYf2jx) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Munki](https://open.spotify.com/album/6MdsCUxxSnrkVkcKUfl2kn) | 2:37 | 2019-10-02 | 2022-07-29 |
 | [I Love Rock N Roll](https://open.spotify.com/track/74AdkaCp9HYmS8eA9S5PK8) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Munki](https://open.spotify.com/album/6BMc7cqJLOb9Z6RF5IXiPR) | 2:37 | 2019-10-02 |  |
@@ -79,8 +81,9 @@
 | [Negative Creep](https://open.spotify.com/track/5IeTFRymTDiza7DciBD1Gk) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:55 | 2019-10-02 |  |
 | [Negative Creep \- Remastered](https://open.spotify.com/track/4zIsMAQASzCg6XK7WExT54) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/4vEqluvGq8AC9Xx2Fx4cZ3) | 2:55 | 2019-10-02 | 2022-07-29 |
 | [Nothing to Prove](https://open.spotify.com/track/350KDuUQBQWOntj6ULgpiB) | [Wipers](https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2) | [Rarities](https://open.spotify.com/album/2QQmpJEVqlSshdxY0aU1gG) | 2:03 | 2019-10-02 |  |
-| [Nothing To Say](https://open.spotify.com/track/2cBRjgIudea4YWPbSlmOzt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [A\-Sides](https://open.spotify.com/album/0WPxPzpdh9Df1YIoqcyunS) | 3:56 | 2019-10-02 |  |
+| [Nothing To Say](https://open.spotify.com/track/2cBRjgIudea4YWPbSlmOzt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [A\-Sides](https://open.spotify.com/album/0WPxPzpdh9Df1YIoqcyunS) | 3:56 | 2019-10-02 | 2023-09-15 |
 | [Nothing to Say \- Remastered](https://open.spotify.com/track/0R2xy4cVDKxCs8DNSFrqJu) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Screaming Life/Fopp](https://open.spotify.com/album/2yN7nOorUYUHWZdbZLeOB1) | 3:57 | 2019-10-02 | 2022-07-29 |
+| [Nothing to Say \- Remastered](https://open.spotify.com/track/5wZWabIUTt4K3xmsv1d67X) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Screaming Life/Fopp](https://open.spotify.com/album/5wStnX0uKJRKlWX4rifrSb) | 3:57 | 2019-10-02 |  |
 | [One Out Of Four](https://open.spotify.com/track/0JAXLIqmyixm7IP6XvE32l) | [Seaweed](https://open.spotify.com/artist/4jzHHEC3qk1j4hnIWPUnsu) | [Despised](https://open.spotify.com/album/4SqyFATx6gD7ihP6wIrO6G) | 2:42 | 2019-10-02 | 2022-07-29 |
 | [One Out Of Four](https://open.spotify.com/track/3HN4YbxCAJKvxxNUjQoJF5) | [Seaweed](https://open.spotify.com/artist/4jzHHEC3qk1j4hnIWPUnsu) | [Despised](https://open.spotify.com/album/39ylZDF4NVFkdHem63NaMG) | 2:42 | 2019-10-02 |  |
 | [Overcome By Happiness](https://open.spotify.com/track/1MHcxJZZD2fLfjccwJiO79) | [Pernice Brothers](https://open.spotify.com/artist/1CgvL3gASrnuI8SKXr8K7F) | [Overcome by Happiness](https://open.spotify.com/album/0JVnEUvaJbqAKTQzKNKU3A) | 3:40 | 2019-10-02 |  |

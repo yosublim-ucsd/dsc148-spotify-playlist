@@ -4,7 +4,7 @@
 
 > New music from Cardi B, Megan Thee Stallion and Young Nudy.
 
-1,762 songs - 3 day 19 hr 6 min
+1,763 songs - 3 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Brand New 911](https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 2:58 | 2022-07-22 | 2022-07-30 |
 | [bread & butter](https://open.spotify.com/track/6GoVUO5vla1JtUj2rq9Yl4) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [bread & butter](https://open.spotify.com/album/332Rucu5r475vGx2bntaPb) | 3:46 | 2023-06-02 |  |
 | [Break My Heart](https://open.spotify.com/track/13VvjrXWYzG9lWViL8Y9vM) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Break My Heart](https://open.spotify.com/album/73wpA6cBZPGR7MFFLet4xz) | 2:49 | 2022-11-11 | 2023-02-04 |
+| [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 | 2023-09-14 |  |
 | [Brick On My Face \(feat\. 2 Chainz\)](https://open.spotify.com/track/233YXWBEQGuvWwNqJQf1XY) | [T.R.U.](https://open.spotify.com/artist/7uwQPQsBYgrSd63xgeMyuM), [Worl](https://open.spotify.com/artist/3IWnphotT2WN2jXtYl2AWs), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [No Face No Case](https://open.spotify.com/album/4ZZTAaaz4zrCL1q3cfTnYt) | 2:34 | 2020-02-07 | 2020-02-14 |
 | [Bring The Hook](https://open.spotify.com/track/1giI9yVIG71xY8lPwSDzWY) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Colors Teaser](https://open.spotify.com/album/4Lrv8Pqc5Gay4X34ZwOa2I) | 4:25 | 2022-01-14 | 2022-01-21 |
 | [Broke As Fuck](https://open.spotify.com/track/1faIb3PPSzEifCHUOJ691R) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Lost Boy](https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu) | 3:16 | 2019-07-26 | 2019-10-25 |

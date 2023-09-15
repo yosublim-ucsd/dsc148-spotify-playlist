@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,856 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,960 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 81 | [Fulani](https://open.spotify.com/track/3HS62i8kDcfuq2MkcB6OCM) | [The Nile Project](https://open.spotify.com/artist/1LwX3TYza2Yek1QdH3OLoX) | [Tana](https://open.spotify.com/album/19gZ7DkaEvTw5jWPRo3peP) | 8:29 |
 | 82 | [El Sicuri](https://open.spotify.com/track/7GBhEInpST7Dx9fE0tBMEI) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 2:55 |
 | 83 | [Seri Fu Sidi](https://open.spotify.com/track/75o9d7oVlZ2OQZOIJqaHox) | [Vieux Diop](https://open.spotify.com/artist/4eb4nhTKc0HeQmbtM7rIUo) | [Traditional Songs Of West Africa](https://open.spotify.com/album/6VKQNG7uICpflkFx7ExUCM) | 5:10 |
-| 84 | [Sia](https://open.spotify.com/track/1LV3SQm9GCEXQaThAVJWDK) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 3:52 |
+| 84 | [Sia](https://open.spotify.com/track/0gFd7V0BZLh1IEomUhLjk9) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/5B1f3qkeZb13XTu4a4hjHv) | 3:52 |
 | 85 | [Maimouna](https://open.spotify.com/track/1QJTBTHxAjjOaFrXi66k3B) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [At Peace](https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1) | 3:34 |
-| 86 | [Yideni](https://open.spotify.com/track/2CKw6pe4Y2SKjwzwi2JLSk) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 6:29 |
+| 86 | [Yideni](https://open.spotify.com/track/2JwHTSryCZYyyo2saHvNwO) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/5B1f3qkeZb13XTu4a4hjHv) | 6:29 |
 | 87 | [Ubaba](https://open.spotify.com/track/3QWNXhctFFysLOmMokjr7K) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg) | [Udondolo](https://open.spotify.com/album/2JVIW82O1VMiPUHfHNItgw) | 4:37 |
 | 88 | [Ngum Nya Ko](https://open.spotify.com/track/1bXhMdba6mVxONY2uewg6y) | [Gerald Toto](https://open.spotify.com/artist/5yGh5A5zAzDYeAeSksnWiW), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Lokua Kanza](https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk) | [Bondeko](https://open.spotify.com/album/7clzPL1gMDlSCIKjkncP9Z) | 3:58 |
 | 89 | [Where We Go](https://open.spotify.com/track/0RTeNUGTnAz0jiDVaNfMZ3) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [1958](https://open.spotify.com/album/3uyHh4SFgda0Y3Sjgg26V9) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Wanita](https://open.spotify.com/track/6cBLK1pC202FMxthSKg1NN) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:39 |
 | 100 | [Makambo](https://open.spotify.com/track/2F9aMslwYQurvgv7DGS7S5) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Exile \(Real World Gold\)](https://open.spotify.com/album/3wDdQn9tgxEIjjo1pnc7X7) | 5:00 |
 
-Snapshot ID: `MCw2ZmFmNDVjN2ZiMjg1YjA5NDAzMmQwNTU3YzA4NGYxNGRlZGM0NzJh`
+Snapshot ID: `MCxmMzBhNzRmN2VlNzllMzkzMGZjYzRhZDBjNjcxZmYwMjBlODRjZGMy`

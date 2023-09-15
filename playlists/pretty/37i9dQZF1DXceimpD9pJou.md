@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um?si=Fm\_HvuHsRYGF3SWmRdep9A">Ayrton Day</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,528 likes - 99 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,599 likes - 99 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

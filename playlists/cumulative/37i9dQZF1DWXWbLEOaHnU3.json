@@ -349,6 +349,32 @@
     },
     {
       "album": {
+        "name": "Around This World",
+        "url": "https://open.spotify.com/album/0dOAIqC38jQ0DMhcnsyuSz"
+      },
+      "artists": [
+        {
+          "name": "Lewii",
+          "url": "https://open.spotify.com/artist/58hDolhCljy3ctehl4Nc3U"
+        },
+        {
+          "name": "Pat Sundaze",
+          "url": "https://open.spotify.com/artist/4NGdiOT1X09FSNYexgLGIk"
+        },
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287323,
+      "name": "Around This World",
+      "url": "https://open.spotify.com/track/7kqJSVxOCtFRdVAQ0X7Hla"
+    },
+    {
+      "album": {
         "name": "Art & Melody",
         "url": "https://open.spotify.com/album/4twfO817zVAGCfuZEg4bPy"
       },
@@ -1305,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t"
+      },
+      "artists": [
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        },
+        {
+          "name": "Zahar",
+          "url": "https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335834,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8"
+    },
+    {
+      "album": {
         "name": "Dreamlike",
         "url": "https://open.spotify.com/album/2vO8jppjM5Ld8NbLPefGBc"
       },
@@ -1563,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "Enimatek",
+        "url": "https://open.spotify.com/album/00TsqOQn92UASwSACrS81W"
+      },
+      "artists": [
+        {
+          "name": "Kore-G",
+          "url": "https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Enimatek",
+      "url": "https://open.spotify.com/track/6QXjBAxGgcDcSx4VjH7Pf2"
+    },
+    {
+      "album": {
         "name": "Enlightenment",
         "url": "https://open.spotify.com/album/2LyO7cVpobBnG29q2YCxiF"
       },
@@ -1633,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Extra-Terra",
+        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+      },
+      "artists": [
+        {
+          "name": "GRAViiTY",
+          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231269,
+      "name": "Extra-Terra",
+      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
+    },
+    {
+      "album": {
         "name": "Falling Down",
         "url": "https://open.spotify.com/album/4qWKZYFGNAJ7kaP5iwA3hH"
       },
@@ -1670,7 +1754,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 357000,
       "name": "Falling Into The Darkness",
       "url": "https://open.spotify.com/track/4jZnHTXCNzmu1fklBFveJe"
@@ -1886,7 +1970,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 435428,
       "name": "Frequency - Aura Vortex Remix",
       "url": "https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I"
@@ -2026,7 +2110,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 251586,
       "name": "Go and Get It",
       "url": "https://open.spotify.com/track/68mHAuRNqFWBKVTxF1qtth"
@@ -2066,6 +2150,24 @@
       "duration_ms": 399347,
       "name": "Gotcha",
       "url": "https://open.spotify.com/track/2JqYDo6wWxZ0TszJ2FXnzg"
+    },
+    {
+      "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348274,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
     },
     {
       "album": {
@@ -2582,7 +2684,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 406478,
       "name": "Keleno",
       "url": "https://open.spotify.com/track/3167iOe6WMN5VgukbH8EXw"
@@ -2681,6 +2783,32 @@
     },
     {
       "album": {
+        "name": "Lights On",
+        "url": "https://open.spotify.com/album/1LEo1BgOu006DGD7bXW6gx"
+      },
+      "artists": [
+        {
+          "name": "Suicide Toast",
+          "url": "https://open.spotify.com/artist/28BYI4pXNMVIoBc5oNnQV7"
+        },
+        {
+          "name": "Mausio",
+          "url": "https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q"
+        },
+        {
+          "name": "Dodobeatz",
+          "url": "https://open.spotify.com/artist/52dpNnsxLJ9ldbf0cWWbx6"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181276,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/39FiLxdIcBO5oZaH87Rax7"
+    },
+    {
+      "album": {
         "name": "Locos",
         "url": "https://open.spotify.com/album/7fiOw6vOVbQ0sUwwE5Gq4L"
       },
@@ -2755,6 +2883,32 @@
     },
     {
       "album": {
+        "name": "Lose My Cool",
+        "url": "https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Carrera",
+          "url": "https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX"
+        },
+        {
+          "name": "Umali",
+          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
+        },
+        {
+          "name": "Djapatox",
+          "url": "https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236978,
+      "name": "Lose My Cool",
+      "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
+    },
+    {
+      "album": {
         "name": "Low (LUNAX Remix)",
         "url": "https://open.spotify.com/album/0ZDlbRhsIMedIxxmqOXU0H"
       },
@@ -2796,7 +2950,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 250285,
       "name": "LSD",
       "url": "https://open.spotify.com/track/0o3w18l2cLJNZNJHwQySjO"
@@ -3042,7 +3196,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 550985,
       "name": "Mystical Experience",
       "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
@@ -3090,7 +3244,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 219310,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd"
@@ -3760,7 +3914,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 284571,
       "name": "Road to You",
       "url": "https://open.spotify.com/track/6UgRQwY5a5cr9utpFKU95K"
@@ -3782,6 +3936,28 @@
       "duration_ms": 446197,
       "name": "Sacred Space - Original mix",
       "url": "https://open.spotify.com/track/4WgAzEQpYRXn7oyWG3Iu0H"
+    },
+    {
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/1GxtaYGp8kJ6wc1RFDmUbW"
+      },
+      "artists": [
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "TERRA",
+          "url": "https://open.spotify.com/artist/6EMXsJEdrX9vLI7DWSjG5l"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370563,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/6Hy6Az0d1SFPAtN8iBZiIs"
     },
     {
       "album": {
@@ -4288,6 +4464,24 @@
       "duration_ms": 203250,
       "name": "Something",
       "url": "https://open.spotify.com/track/1KgU8LZ7MWxBkCugjWFRJ2"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/35Ffi0K47kX3cwYrEJqwrJ"
+      },
+      "artists": [
+        {
+          "name": "Leoni FX",
+          "url": "https://open.spotify.com/artist/3sAcCJ5dt2f31QF9nBhK3h"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385352,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/2ojmhabZNcF1zzZncwrqzB"
     },
     {
       "album": {
@@ -5224,7 +5418,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 379300,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/3vQurSrefHhu4M7f71U0is"

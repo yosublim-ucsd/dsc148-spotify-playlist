@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 95030,
+  "num_followers": 95073,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTZiMzVjZjA1MmU0Njk1YTVhY2RiNTc3OGIyY2M4ZTNkYjI3YjYy",
+  "snapshot_id": "MCxkMDQyNWU4ZWI4NGY5ZDA2YzM0Njc3YmNjMjMyYjNlYzg5YjA1OTg1",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -111,18 +111,22 @@
     {
       "added_at": "2020-04-07 09:19:20",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/0M6etJRitjGp9FyYImM6Nn"
+        "name": "Third World Child",
+        "url": "https://open.spotify.com/album/1RIv8PQTIchFfs76YPeB9k"
       },
       "artists": [
         {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+          "name": "Johnny Clegg",
+          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
+        },
+        {
+          "name": "Savuka",
+          "url": "https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7"
         }
       ],
-      "duration_ms": 354053,
-      "name": "Ndihamba Nawe",
-      "url": "https://open.spotify.com/track/7ySKl4stuFkqah4184kgnu"
+      "duration_ms": 291000,
+      "name": "Asimbonanga (Mandela)",
+      "url": "https://open.spotify.com/track/25u53mEJMoUkHcBWYavOVT"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -143,26 +147,6 @@
       "duration_ms": 745653,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
-    },
-    {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Third World Child",
-        "url": "https://open.spotify.com/album/1RIv8PQTIchFfs76YPeB9k"
-      },
-      "artists": [
-        {
-          "name": "Johnny Clegg",
-          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
-        },
-        {
-          "name": "Savuka",
-          "url": "https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Asimbonanga (Mandela)",
-      "url": "https://open.spotify.com/track/25u53mEJMoUkHcBWYavOVT"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -393,22 +377,6 @@
       "url": "https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
-        "url": "https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm"
-      },
-      "artists": [
-        {
-          "name": "The Funkees",
-          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
-        }
-      ],
-      "duration_ms": 448914,
-      "name": "Akula Owu Onyeara",
-      "url": "https://open.spotify.com/track/5ww9r75Y8JPRgAAc3qJPms"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Guz Hits",
@@ -423,6 +391,22 @@
       "duration_ms": 332720,
       "name": "Dlala Mapantsula",
       "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+        "url": "https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/5ww9r75Y8JPRgAAc3qJPms"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -615,22 +599,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Ojah Awake",
-        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
-      },
-      "artists": [
-        {
-          "name": "Osibisa",
-          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "The Warrior",
-      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -663,6 +631,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "Ojah Awake",
+        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "Juju Music",
         "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 428800,
       "name": "Ja Funmi",
       "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m"
+      },
+      "artists": [
+        {
+          "name": "Evi-Edna Ogholi",
+          "url": "https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL"
+        }
+      ],
+      "duration_ms": 339386,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN"
     }
   ],
   "unique_name": "Classic Afropop",

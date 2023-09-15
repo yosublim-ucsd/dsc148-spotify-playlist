@@ -7829,6 +7829,24 @@
     },
     {
       "album": {
+        "name": "Farv\u00e4l",
+        "url": "https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158507,
+      "name": "Farv\u00e4l",
+      "url": "https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc"
+    },
+    {
+      "album": {
         "name": "S\u00e5 mycket b\u00e4ttre 2021 - Tolkningarna",
         "url": "https://open.spotify.com/album/1hdMYrIDrIMxgowte5V9w4"
       },
@@ -11984,6 +12002,28 @@
       "duration_ms": 186408,
       "name": "I Need Love (feat. Trevor Daniel)",
       "url": "https://open.spotify.com/track/6t0nlLzuahyBab1sYqfOGG"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "album": {
@@ -23864,7 +23904,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 166216,
       "name": "Stj\u00e4rnorna",
       "url": "https://open.spotify.com/track/2FZax4rYTOkcnG02PrJDzk"
@@ -27682,7 +27722,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 167851,
       "name": "V\u00e5ran s\u00e5ng (Sveriges Officiella VM-l\u00e5t 2023)",
       "url": "https://open.spotify.com/track/1p0RjMued7Tmm0o7CjzoHY"

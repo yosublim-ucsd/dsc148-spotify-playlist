@@ -392,10 +392,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 161173,
       "name": "Boogie Woogie Country Girl",
       "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
+    },
+    {
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/1PXqvaRKvq3RTrpWZLL3AH"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161173,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/3YaLFRRsz94OYlAZ2BZiWz"
     },
     {
       "album": {
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 185861,
       "name": "La Salle Street Breakdown",
       "url": "https://open.spotify.com/track/3BqTjVgE1Yno4SoEuw7KEc"
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 169000,
       "name": "Let Me Go Home, Whiskey",
       "url": "https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA"

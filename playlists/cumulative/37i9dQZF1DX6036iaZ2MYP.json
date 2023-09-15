@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 393628,
       "name": "Are You",
       "url": "https://open.spotify.com/track/6pe39thx4HeFncnNASbqWE"
@@ -813,6 +813,28 @@
     },
     {
       "album": {
+        "name": "Nature's Symphony",
+        "url": "https://open.spotify.com/album/6x1NTp6Rlng5He3SSb0SxE"
+      },
+      "artists": [
+        {
+          "name": "KWAMZ",
+          "url": "https://open.spotify.com/artist/3xBE0TlbZwkC5tv0pooF58"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149253,
+      "name": "Confidence (feat. JMANI)",
+      "url": "https://open.spotify.com/track/34HOB2Bm3eL9ixMXGLWoWm"
+    },
+    {
+      "album": {
         "name": "Confusion (Amapiano RMX)",
         "url": "https://open.spotify.com/album/1RHsdPiTmMEQ3fF9N6OVNL"
       },
@@ -1000,6 +1022,36 @@
       "duration_ms": 167272,
       "name": "Danger - Remix",
       "url": "https://open.spotify.com/track/6JXxHEuWl3ETZ59dmIuESd"
+    },
+    {
+      "album": {
+        "name": "Danger (RMX)",
+        "url": "https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc"
+      },
+      "artists": [
+        {
+          "name": "Pronto",
+          "url": "https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Danger - RMX",
+      "url": "https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD"
     },
     {
       "album": {
@@ -1274,6 +1326,24 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180157,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
     },
     {
       "album": {
@@ -1768,7 +1838,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 132063,
       "name": "Ind\u00e9cis",
       "url": "https://open.spotify.com/track/7AC89GUw6Iju5Y96mNJ7BW"
@@ -1812,6 +1882,28 @@
       "duration_ms": 214000,
       "name": "Insensitive",
       "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
+    },
+    {
+      "album": {
+        "name": "Insomnie (feat. Ya Levis)",
+        "url": "https://open.spotify.com/album/4e0dL7zfHXkmNidenDkufa"
+      },
+      "artists": [
+        {
+          "name": "Locko",
+          "url": "https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ"
+        },
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179908,
+      "name": "Insomnie (feat. Ya Levis)",
+      "url": "https://open.spotify.com/track/08jAdH80Up9QDh4YEKGeiB"
     },
     {
       "album": {
@@ -2318,6 +2410,24 @@
       "duration_ms": 132385,
       "name": "Luvin It",
       "url": "https://open.spotify.com/track/15IiH9MIKo0moBwzZMSjoB"
+    },
+    {
+      "album": {
+        "name": "Ma jolie",
+        "url": "https://open.spotify.com/album/79p1bCrAr8ONsd2Y1p2kRV"
+      },
+      "artists": [
+        {
+          "name": "Diane Dddd",
+          "url": "https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144793,
+      "name": "Ma jolie",
+      "url": "https://open.spotify.com/track/3Vcq4ea5Q2aGEtgMhbCc5x"
     },
     {
       "album": {
@@ -2880,7 +2990,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 183626,
       "name": "Noche",
       "url": "https://open.spotify.com/track/6B2ly4YtSOCibwfbQVbd4c"
@@ -3128,7 +3238,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 197000,
       "name": "Pas science",
       "url": "https://open.spotify.com/track/3mFVhqa64mBXD8OFPcLxZ0"
@@ -3404,7 +3514,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 174188,
       "name": "Sans moi",
       "url": "https://open.spotify.com/track/3kYTLEQwQx0oWu9Ws4uckJ"
@@ -3590,7 +3700,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 157722,
       "name": "Someone",
       "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"

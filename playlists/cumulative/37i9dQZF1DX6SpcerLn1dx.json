@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3HMPBf4mlZFF8wUtev97Pg"
+      },
+      "artists": [
+        {
+          "name": "Randy Bachman",
+          "url": "https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Shakin' All Over",
+      "url": "https://open.spotify.com/track/17JFh41BYZoo0OGCxhA6IU"
+    },
+    {
+      "album": {
         "name": "Shakin' All Over",
         "url": "https://open.spotify.com/album/2sD0yWp6l0iIED0Be21Mhz"
       },
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 159866,
       "name": "Shakin' All Over - Single Version",
       "url": "https://open.spotify.com/track/58cDx1uTmaAaF2rqU0UrtF"

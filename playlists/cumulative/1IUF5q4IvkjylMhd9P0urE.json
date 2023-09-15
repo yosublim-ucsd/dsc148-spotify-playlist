@@ -5765,6 +5765,24 @@
     },
     {
       "album": {
+        "name": "Perfect Heaven",
+        "url": "https://open.spotify.com/album/7pdJKOUlvuVdhQsUH2ePdm"
+      },
+      "artists": [
+        {
+          "name": "15 15",
+          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201080,
+      "name": "Perfect Heaven",
+      "url": "https://open.spotify.com/track/1QUcA3ozlUTz4HGWqWjrRP"
+    },
+    {
+      "album": {
         "name": "Philo",
         "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
       },

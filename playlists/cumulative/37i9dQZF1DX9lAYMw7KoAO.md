@@ -2,7 +2,7 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=c1UgoHcnT0KV2QwyKm6DYQ">Sunmisola Agbebi</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=lfRsfewZTretJz2DGfw\-dg">Spirit Of Praise</a>
 
 357 songs - 1 day 7 hr 25 min
 

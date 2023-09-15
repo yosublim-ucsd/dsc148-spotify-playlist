@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-205 songs - 12 hr 31 min
+206 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,8 +186,9 @@
 | [Thought About You](https://open.spotify.com/track/5DAKp37tzpJEXfEAmx3k2N) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth \(Ultimate Edition / Big Machine Radio Release Special\)](https://open.spotify.com/album/5g5uono9ZO5JKfwb57WsMI) | 3:46 | 2022-11-04 | 2022-11-13 |
 | [Thought About You](https://open.spotify.com/track/6CWzNUUmNLpiBMyR5cMzJK) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth \(Ultimate Edition\)](https://open.spotify.com/album/5kNJYMb1mTyoqKx1tBTt53) | 3:46 | 2022-07-15 |  |
 | [Three](https://open.spotify.com/track/1XE2AiPIecv5qDJvoajruU) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN) | [Three](https://open.spotify.com/album/4qBC2PWgHdkaec6uwBiKUh) | 3:30 | 2022-04-15 |  |
+| [Three Wooden Crosses](https://open.spotify.com/track/0riGx0wA6jMQsFmgdOUgcH) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Rise and Shine](https://open.spotify.com/album/3w1h1oQiVj7Z6GRgu8WRCX) | 3:21 | 2023-08-25 |  |
 | [Three Wooden Crosses](https://open.spotify.com/track/3y1celx9jzjsbfI9T3hmvw) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Three Wooden Crosses: The Inspirational Hits of Randy Travis](https://open.spotify.com/album/17GFGc299gAbkJWoIu5eba) | 3:21 | 2021-12-10 | 2022-07-29 |
-| [Three Wooden Crosses](https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:21 | 2022-07-15 |  |
+| [Three Wooden Crosses](https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:21 | 2022-07-15 | 2023-09-15 |
 | [Three Wooden Crosses](https://open.spotify.com/track/46xU9J8WQiQoMVJ67faeXY) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | ['Til You Can't \- Sad Country](https://open.spotify.com/album/7u18s6Yb1UvHVfe7pbzWPH) | 3:21 | 2022-11-04 | 2022-11-13 |
 | [Three Wooden Crosses \- The Bootlegger Sessions](https://open.spotify.com/track/2mhU8jchJbM4u164c2CQ1z) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Three Wooden Crosses \(The Bootlegger Sessions\)](https://open.spotify.com/album/29Zi5oXaoj4XnTKw4gvE1d) | 3:14 | 2022-09-23 |  |
 | [Today](https://open.spotify.com/track/0ykWGiYuB9gJmEcvSSS0aj) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [NOW That's What I Call Country Vol\. 10 \(Deluxe Edition\)](https://open.spotify.com/album/3PJeU5QNgycnIXNNrRPjFX) | 3:42 | 2022-11-04 | 2022-11-14 |

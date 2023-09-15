@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Blondshell.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,286 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,334 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 85 | [Too Cold to Hold](https://open.spotify.com/track/5BUHjtdwcBBeIVKViknLfV) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Say I Won't](https://open.spotify.com/album/5sImBI3vR27SaInKMVtT6m) | 3:10 |
 | 86 | [If the Wheels Are Coming off, The Wheels Are Coming Off](https://open.spotify.com/track/3wZmkZ64WdPwkhJUBkfYe2) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Compact Trauma](https://open.spotify.com/album/6ADAOhSIu5dIJqBN2rxMtz) | 4:18 |
 | 87 | [Gary Ashby \- Nourished By Time Remix](https://open.spotify.com/track/5qwB9umTGvkY1eNBFbChhG) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Swampy EP](https://open.spotify.com/album/1VmrTROTocJs7TChmovroz) | 2:13 |
-| 88 | [el prado freestyle](https://open.spotify.com/track/2SM2dnkNkwcXXPgprjpxW4) | [untitled halo](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [el prado freestyle](https://open.spotify.com/album/7vGhSZQpXZT933HIrvaZhB) | 2:28 |
+| 88 | [el prado freestyle](https://open.spotify.com/track/2SM2dnkNkwcXXPgprjpxW4) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [el prado freestyle](https://open.spotify.com/album/7vGhSZQpXZT933HIrvaZhB) | 2:28 |
 | 89 | [Last Living Buffalo](https://open.spotify.com/track/3BOhoENNsKpSmG3ZOfU1iq) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [Last Living Buffalo](https://open.spotify.com/album/1F7dOibX5qhJEhGUlCn78b) | 3:14 |
 | 90 | [Ghost with a Peach Skin](https://open.spotify.com/track/5cD2vEAaTKeSUrpFR8Umbs) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [Rotten Bun for an Eggless Century](https://open.spotify.com/album/0tqVbc2hj5nC8JoYiqWQEz) | 3:09 |
 | 91 | [Caroline](https://open.spotify.com/track/1QihdrOippsltEK1LqdbPI) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 |
 | 100 | [bleed](https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [bleed](https://open.spotify.com/album/5g7nVEocQGj2yBKJcWVgIX) | 2:57 |
 
-Snapshot ID: `MCw2MDEyNGVkOTIzNzVkN2Y4NGM1NzcwZTVlNGE5MWJjZDM3ZjhmM2Rj`
+Snapshot ID: `MCxjMDM5ODFkNmZkZmRlYmUwNjJhYmJiNmRjN2RhZTkzODM3ZWNmYjRm`

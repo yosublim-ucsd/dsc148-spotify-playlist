@@ -1796,6 +1796,24 @@
     {
       "album": {
         "name": "Pateando Piedras",
+        "url": "https://open.spotify.com/album/0Av7hm17VTE9gQgJ2pg7WW"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179188,
+      "name": "Por Que No Se Van",
+      "url": "https://open.spotify.com/track/0U79l5US7T8snNuDSrZ3X6"
+    },
+    {
+      "album": {
+        "name": "Pateando Piedras",
         "url": "https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo"
       },
       "artists": [
@@ -1824,7 +1842,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 182880,
       "name": "Por Qu\u00e9 No Se Van",
       "url": "https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV"

@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura with JAHKOY.
 
-754 songs - 1 day 15 hr 40 min
+755 songs - 1 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,8 @@
 | [Lift you \(feat\. Lisa Michelle\)](https://open.spotify.com/track/0ATm5nvGPXFO9y6N8BTXpm) | [Solitair](https://open.spotify.com/artist/7bCQj0gFuYAroOiMArR4Dm), [Lisa Michelle](https://open.spotify.com/artist/74AQzfoMGlwg8em2Y1wcvt) | [Lift you \(feat\. Lisa Michelle\)](https://open.spotify.com/album/0j6657pVi07cP9lOL8GqI4) | 3:41 | 2022-11-04 | 2022-11-26 |
 | [Lights Off](https://open.spotify.com/track/32ytKn2jo3zaml5PmCbV8E) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K) | [Lights Off](https://open.spotify.com/album/6qQibR24FZmiDbhFJIDX7C) | 2:30 | 2022-06-17 | 2022-11-26 |
 | [like u](https://open.spotify.com/track/6xQ4rD1wJqsMGod1op0PW4) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [like u](https://open.spotify.com/album/3Q7ntjuAdwCjXhgLnbf2qt) | 2:27 | 2023-06-30 |  |
-| [Limbo](https://open.spotify.com/track/4BMhR515OiK2TII7qzQujj) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/5pXEHD47zKV9KyUcEAuRlV) | 2:45 | 2023-07-07 |  |
+| [Limbo](https://open.spotify.com/track/2CxwqktUwLHo0XtgMaI9Qc) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/22PJnohZYZdtqexRDkX6Qs) | 2:45 | 2023-09-08 |  |
+| [Limbo](https://open.spotify.com/track/4BMhR515OiK2TII7qzQujj) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/5pXEHD47zKV9KyUcEAuRlV) | 2:45 | 2023-07-07 | 2023-09-15 |
 | [Lindsay's Freestyle](https://open.spotify.com/track/0xOnej2rwWRGRAwXFvTaYa) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [Lindsay's Freestyle](https://open.spotify.com/album/5qU1eX4515l80GTqll49eV) | 2:56 | 2022-02-18 | 2022-04-23 |
 | [Liquorice](https://open.spotify.com/track/5UEnl8IntXqIABMLOIrz2l) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Liquorice](https://open.spotify.com/album/5XT8Y2ZfswLOpgZE5lXfyy) | 2:17 | 2022-02-18 | 2022-04-23 |
 | [Little Bit](https://open.spotify.com/track/47rk9eQwI1zUlaZymVQeWQ) | [Bobby Freemont](https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD), [Chrome Daphne](https://open.spotify.com/artist/1xmCcy94yRRsYYOdd8r6GC) | [Little Bit](https://open.spotify.com/album/6flVS16mkfOamQyQVboaQa) | 2:27 | 2022-11-25 | 2023-02-11 |

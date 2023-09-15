@@ -161,6 +161,42 @@
     },
     {
       "album": {
+        "name": "Altijd Iemand",
+        "url": "https://open.spotify.com/album/76ecoEvQrwYITnL3Vrq5Pk"
+      },
+      "artists": [
+        {
+          "name": "Ricky Koole",
+          "url": "https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350406,
+      "name": "Altijd iemand",
+      "url": "https://open.spotify.com/track/3LsZn1eGywgz7llFGZId7h"
+    },
+    {
+      "album": {
+        "name": "Amsterdam (Dans Le Port d\u2019Amsterdam) [Radio Edit]",
+        "url": "https://open.spotify.com/album/5sKPMlzMUV8MeJfWX08Xrc"
+      },
+      "artists": [
+        {
+          "name": "Beatrice van der Poel",
+          "url": "https://open.spotify.com/artist/3cC6Pho7NuQ0RkbXsDu1cE"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180866,
+      "name": "Amsterdam (Dans Le Port d\u2019Amsterdam) - Radio Edit",
+      "url": "https://open.spotify.com/track/7JriL9Ma697yGzlTp3H5io"
+    },
+    {
+      "album": {
         "name": "Het Beste Van",
         "url": "https://open.spotify.com/album/0J3DulwNVPpjHZSm6R6TAm"
       },
@@ -784,7 +820,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 266748,
       "name": "Het Land van Koning Jan",
       "url": "https://open.spotify.com/track/4szdNd2JPBB9ZbKQbg3MFs"
@@ -838,7 +874,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 247814,
       "name": "Het Werd Zomer",
       "url": "https://open.spotify.com/track/7J7fNdedcP2urV48omGkHu"
@@ -975,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Jouw Ogen",
+        "url": "https://open.spotify.com/album/4dkc4FlkKVgUHtnPEc8RMe"
+      },
+      "artists": [
+        {
+          "name": "Sjors Van Der Panne",
+          "url": "https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210453,
+      "name": "Jouw Ogen",
+      "url": "https://open.spotify.com/track/54MtBoHYiT2c3NyJswx2xw"
+    },
+    {
+      "album": {
         "name": "Ken Je Mij",
         "url": "https://open.spotify.com/album/2wyfmgzMM1RSBgQVUsvJKS"
       },
@@ -1004,7 +1058,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 229825,
       "name": "Kijk Niet Achterom",
       "url": "https://open.spotify.com/track/0QL7jSoLircjh2hLC0SYAi"
@@ -1116,7 +1170,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 183345,
       "name": "Laat Mij In Die Waan - In De Basis",
       "url": "https://open.spotify.com/track/26mA2v7PUMenye7GiIZ9jo"
@@ -1134,7 +1188,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 275084,
       "name": "Lente '22",
       "url": "https://open.spotify.com/track/2XIp445YfKTy3VuHBpMkaj"
@@ -1286,7 +1340,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 259146,
       "name": "Mijn Houten Hart",
       "url": "https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0"
@@ -1322,7 +1376,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 247211,
       "name": "Mijn moeder het water",
       "url": "https://open.spotify.com/track/1vH0TQxVFEG7PasQSarzSW"
@@ -1916,7 +1970,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 118011,
       "name": "Verbinding Verbroken",
       "url": "https://open.spotify.com/track/62DcDrTg5pddwjRQq3vEUZ"

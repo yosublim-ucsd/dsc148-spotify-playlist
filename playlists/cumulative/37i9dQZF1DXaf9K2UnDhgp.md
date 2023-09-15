@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-215 songs - 11 hr 45 min
+216 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Christmastime](https://open.spotify.com/track/3KssJXt4QgQ7wdce7xlXj7) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [A Very Special Christmas 3](https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45) | 3:16 | 2021-11-26 |  |
 | [Christmastime](https://open.spotify.com/track/6j7IMHstB2Z6NT3E9ZhSEA) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Rarities And B\-Sides](https://open.spotify.com/album/1lgOEjXcAJGWEQO1q4akqu) | 3:16 | 2021-11-26 | 2022-07-29 |
 | [Christmastime](https://open.spotify.com/track/33mLDrRes0z6s3xi7iU3Zt) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Christmas Alternative 2020](https://open.spotify.com/album/4yj7gRp8DeiIIPPNwrBCrE) | 3:16 | 2022-11-09 | 2022-11-13 |
-| [Cry Christmas](https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp) | 3:17 | 2022-11-11 |  |
+| [Cry Christmas](https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp) | 3:17 | 2022-11-11 | 2023-09-15 |
+| [Cry Christmas](https://open.spotify.com/track/3BI6drkCxHUnWBKpvfBfLB) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/0SgFUjYNZq7DUIsNLPbJ0n) | 3:17 | 2022-12-20 |  |
 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/01sU6lFqUbZufGXM4EjkXO) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [Cole Rolland](https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc) | [Jingle Bell Rock / Dance of the Sugar Plum Fairy](https://open.spotify.com/album/4XaF5rkbxBH0PArJqK6kFp) | 1:45 | 2021-11-26 |  |
 | [December's Here](https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN) | 2:59 | 2021-11-26 | 2022-11-09 |
 | [Don't Shoot Me Santa](https://open.spotify.com/track/0VnM98fVPYamafDoW7yza7) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Ryan Pardey](https://open.spotify.com/artist/7ywLsMIT1NHbZS6hxGScvm) | [Don't Waste Your Wishes](https://open.spotify.com/album/30huok00bCQ0TxIJDtz09w) | 4:05 | 2022-11-09 |  |

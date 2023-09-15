@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 258200,
       "name": "Alice Through the Looking Glass",
       "url": "https://open.spotify.com/track/7sArXWDg86rMoLG46QE2ac"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 224800,
       "name": "Christie Rd. - Outtake",
       "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 225107,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/1t0lazgh8uQmXzXigJkYe8"
@@ -3404,7 +3404,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 328293,
       "name": "Don't Fight It - Live",
       "url": "https://open.spotify.com/track/0SUO9zBxf5FCyKtRPqEwIk"
@@ -4877,6 +4877,28 @@
     },
     {
       "album": {
+        "name": "GUERRERO INTELECTUAL",
+        "url": "https://open.spotify.com/album/1oqgXGwSnr8beCSnRMdcXS"
+      },
+      "artists": [
+        {
+          "name": "Mago Rey",
+          "url": "https://open.spotify.com/artist/34W0qoIabeEniJH7rLVXHv"
+        },
+        {
+          "name": "Olinca Hidalgo",
+          "url": "https://open.spotify.com/artist/2XA0XXw7Oe3AkLJks9irXp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218154,
+      "name": "GUERRERO INTELECTUAL",
+      "url": "https://open.spotify.com/track/3SBFITfLQuTKNlJ7igGRuM"
+    },
+    {
+      "album": {
         "name": "UNDEROATH VOYEURIST | Digital Ghost",
         "url": "https://open.spotify.com/album/18NawZFszlESLx6Y6nyfwQ"
       },
@@ -5588,7 +5610,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 122711,
       "name": "Hopak",
       "url": "https://open.spotify.com/track/7t4bXpsDCAFMHZvkXCPM0K"
@@ -5684,7 +5706,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 230380,
       "name": "Hymn to the Sun",
       "url": "https://open.spotify.com/track/70XVkRO1xd2vnECuo68hzq"
@@ -6166,7 +6188,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 428634,
       "name": "I've Seen All Good People - Live: Yale Bowl, USA 24th July 1971",
       "url": "https://open.spotify.com/track/79E74cEOPLkFbdOdnErNjl"
@@ -6632,7 +6654,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 481900,
       "name": "Insatiable (Early Mix)",
       "url": "https://open.spotify.com/track/44DsZlTn7qgFUZtPFewHXW"
@@ -7774,7 +7796,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 319962,
       "name": "Lights Out - Live In Vienna 1998",
       "url": "https://open.spotify.com/track/3olFCE0utXa0SwxakIFM85"
@@ -10210,7 +10232,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 854413,
       "name": "Perpetual Change - Live: Yale Bowl, USA 24th July 1971",
       "url": "https://open.spotify.com/track/1AddVSixWyY5c0kJxAYsko"
@@ -11494,7 +11516,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 165293,
       "name": "Salvation - Early Mix",
       "url": "https://open.spotify.com/track/4XXbh0DujCStZ5F2rVfX1d"
@@ -11664,6 +11686,24 @@
       "duration_ms": 175150,
       "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
       "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
+    },
+    {
+      "album": {
+        "name": "Live In El Paso 1980",
+        "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147720,
+      "name": "School's Out - Live",
+      "url": "https://open.spotify.com/track/3hKo142ynCDNTi0dXj0Jbx"
     },
     {
       "album": {
@@ -12052,7 +12092,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 63226,
       "name": "Sick Things - Live",
       "url": "https://open.spotify.com/track/6mlAOexwC7hQkmHCDnFADP"
@@ -12706,6 +12746,24 @@
       "duration_ms": 160200,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/0ekj7zzX4WF1gaG4ovazV7"
+    },
+    {
+      "album": {
+        "name": "Live In Tokyo",
+        "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278320,
+      "name": "Stone in Love - Live",
+      "url": "https://open.spotify.com/track/4ZO527reOhihJhyDmYgUUr"
     },
     {
       "album": {
@@ -13994,7 +14052,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 283841,
       "name": "This Kid's - Live In Vienna 1998",
       "url": "https://open.spotify.com/track/2kf6PloMCppZSVoJc4hF7v"

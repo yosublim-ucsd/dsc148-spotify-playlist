@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 155131,
       "name": "A1",
       "url": "https://open.spotify.com/track/2PLvCLvJWw5WQmrFmtR5Mg"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 239490,
       "name": "Be Easy",
       "url": "https://open.spotify.com/track/0NMukraEM5cTE6xRhKqJik"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 352811,
       "name": "Carpe Diem - Felipe Gordon Deep Latino Remix",
       "url": "https://open.spotify.com/track/1smiWBblaZbashjVZd1GcW"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 335130,
       "name": "Cascades",
       "url": "https://open.spotify.com/track/5KL2TfaqLYbwguDHnEPJYJ"
@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "Brilliant Mud",
+        "url": "https://open.spotify.com/album/73OCol3JVs2XjcknZ8h2CK"
+      },
+      "artists": [
+        {
+          "name": "Feelds",
+          "url": "https://open.spotify.com/artist/74W4mKE9RR576xVZiMGE8W"
+        },
+        {
+          "name": "Allysha Joy",
+          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261073,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/4pTY7fvhW6v0OtUGleAqUg"
+    },
+    {
+      "album": {
         "name": "Favourite",
         "url": "https://open.spotify.com/album/1xMxEZDSHfSfrdKgSfGD3v"
       },
@@ -869,6 +891,42 @@
     },
     {
       "album": {
+        "name": "I DM U",
+        "url": "https://open.spotify.com/album/5Xkm7MoWZZ8uh4aVaXuIyd"
+      },
+      "artists": [
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263206,
+      "name": "I DM U",
+      "url": "https://open.spotify.com/track/07oNLCkaprnGmx3edA3b1S"
+    },
+    {
+      "album": {
+        "name": "I Need Therapy 2.4 (alt_demo)",
+        "url": "https://open.spotify.com/album/6YQvIFdk95oCIGcO4sCI05"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126450,
+      "name": "I Need Therapy 2.4 (alt_demo)",
+      "url": "https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8"
+    },
+    {
+      "album": {
         "name": "I'm Scanning Things I Can't See / Dark Dancing",
         "url": "https://open.spotify.com/album/0KwTL3GstzmHzXYVfVYpx9"
       },
@@ -1033,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Listen To The Sky",
+        "url": "https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT"
+    },
+    {
+      "album": {
         "name": "Between the Abstract",
         "url": "https://open.spotify.com/album/08RkTLcmCy8RvbLD4MacKZ"
       },
@@ -1062,7 +1138,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 323584,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/4WhxZNWqt4rzXf6ctk73CY"
@@ -1124,6 +1200,24 @@
       "duration_ms": 79518,
       "name": "meek // flip",
       "url": "https://open.spotify.com/track/0nEPmXlrxnugrEdJQxc2L2"
+    },
+    {
+      "album": {
+        "name": "Pure Grooves Vol. 1",
+        "url": "https://open.spotify.com/album/796eeTpFCvH90a7DweaaNq"
+      },
+      "artists": [
+        {
+          "name": "Paul Cherry",
+          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188870,
+      "name": "Modern Miracle",
+      "url": "https://open.spotify.com/track/6FtqBfzpYGTFt7yQPIaOFg"
     },
     {
       "album": {
@@ -1189,6 +1283,36 @@
     },
     {
       "album": {
+        "name": "Shadowlands",
+        "url": "https://open.spotify.com/album/0kiImzjohOce2DmKzymLju"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        },
+        {
+          "name": "John Raymond",
+          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        },
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215695,
+      "name": "New Meaning",
+      "url": "https://open.spotify.com/track/6mPQan4lLDiKid0LWGIPHm"
+    },
+    {
+      "album": {
         "name": "Rarities 2010 - 2020: Japanese Tour Singles",
         "url": "https://open.spotify.com/album/30lV8rmhO9bbOTD6NpZMts"
       },
@@ -1251,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164019,
+      "name": "Nothing on Me",
+      "url": "https://open.spotify.com/track/4qsv98a7IMkAJQzO1k8hkx"
+    },
+    {
+      "album": {
         "name": "Remixes and Dubs",
         "url": "https://open.spotify.com/album/44fftVVsXoC0zoDrUPpRSS"
       },
@@ -1284,10 +1426,32 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 373436,
       "name": "Oscillate",
       "url": "https://open.spotify.com/track/2KCj8oBO9PmOgSOqEOyQQK"
+    },
+    {
+      "album": {
+        "name": "Otherway",
+        "url": "https://open.spotify.com/album/5oZxjxrWQOSFLahaUvAqZq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Noah Miller",
+          "url": "https://open.spotify.com/artist/0ofVQtXisiSCBVTW9tNUTS"
+        },
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170973,
+      "name": "Otherway",
+      "url": "https://open.spotify.com/track/1HibS69wIuHNaotBNJeCk2"
     },
     {
       "album": {
@@ -1302,7 +1466,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 212113,
       "name": "Over The Moon",
       "url": "https://open.spotify.com/track/5asQpx4UqHbWOYBNP375Qv"
@@ -1439,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Return To Centaurus",
+        "url": "https://open.spotify.com/album/259Nkot64XM40bU3tEyQFb"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582566,
+      "name": "Return To Centaurus",
+      "url": "https://open.spotify.com/track/7cNuV7yVldD6vj1rdAKUBw"
+    },
+    {
+      "album": {
         "name": "Rust (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0"
       },
@@ -1480,6 +1662,28 @@
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
+    },
+    {
+      "album": {
+        "name": "Safe From Harm (feat. Reginald AK)",
+        "url": "https://open.spotify.com/album/5RJG4hvaVACcuORpFWiuV6"
+      },
+      "artists": [
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        },
+        {
+          "name": "Reginald AK",
+          "url": "https://open.spotify.com/artist/0kHgwv7BrZSTH06wEtYQQa"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340503,
+      "name": "Safe From Harm (feat. Reginald AK)",
+      "url": "https://open.spotify.com/track/6zczzMm469kNZuPTqp0oLf"
     },
     {
       "album": {
@@ -1612,6 +1816,28 @@
       "duration_ms": 160000,
       "name": "Smile - Sensible J Remix",
       "url": "https://open.spotify.com/track/1pzIC0OPepB5tp94bxYMt0"
+    },
+    {
+      "album": {
+        "name": "Some Of Us Are Brave (Deluxe)",
+        "url": "https://open.spotify.com/album/5YZgQjRn0dTBZDKBFhokgA"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173981,
+      "name": "Some Of Us Are Brave (Georgia Anne Muldrow's Geemix)",
+      "url": "https://open.spotify.com/track/0kVJEG5pdADLbeyEabOyYi"
     },
     {
       "album": {
@@ -2141,6 +2367,28 @@
     },
     {
       "album": {
+        "name": "Waiting For You (feat. Naomi Sharon)",
+        "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219998,
+      "name": "Waiting For You (feat. Naomi Sharon)",
+      "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "album": {
         "name": "WAY OUT (feat. Milan Ring, matt mcwaters, & ?uestlove)",
         "url": "https://open.spotify.com/album/1uggfls8BO7LmNnyhtqpRP"
       },
@@ -2212,6 +2460,28 @@
       "duration_ms": 316000,
       "name": "What Not To Do - Moodymann Remix",
       "url": "https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK"
+    },
+    {
+      "album": {
+        "name": "Who By Fire",
+        "url": "https://open.spotify.com/album/2ZwCEwQtkwBO9N3vq9JiSv"
+      },
+      "artists": [
+        {
+          "name": "Skinny Pelembe",
+          "url": "https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN"
+        },
+        {
+          "name": "Beth Orton",
+          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Who By Fire",
+      "url": "https://open.spotify.com/track/2L1f1Z7lUleocWWWg4JRKR"
     },
     {
       "album": {
@@ -2296,7 +2566,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 170147,
       "name": "You Don't Even Know",
       "url": "https://open.spotify.com/track/0fZCZuIkZMwOAb3Ygw2faP"

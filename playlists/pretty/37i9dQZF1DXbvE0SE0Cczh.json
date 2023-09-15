@@ -1,12 +1,12 @@
 {
   "description": "From new retro to classic country blues, honky tonk, rockabilly, and more.",
-  "num_followers": 334649,
+  "num_followers": 334747,
   "original_name": "Jukebox Joint",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2I0NDhhYmM5Y2U2MGU3N2VlZmFiMWVjYjUxMjZkYWQwMDM2NDMw",
+  "snapshot_id": "MCwyZDdlZTVhZjhkYmYyNzMzMzFkNmQ2OGNkMmVjOGY1NzQyODEyMzk4",
   "tracks": [
     {
       "added_at": "2022-08-16 21:20:04",
@@ -475,8 +475,8 @@
     {
       "added_at": "2022-08-16 21:20:04",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "All I Have to Do Is Dream",
+        "url": "https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+      "duration_ms": 140373,
+      "name": "All I Have to Do Is Dream (Single Version)",
+      "url": "https://open.spotify.com/track/0Q1tq0hFra4W9k6kx1MSjG"
     },
     {
       "added_at": "2022-08-16 21:20:04",
@@ -735,18 +735,22 @@
     {
       "added_at": "2022-08-16 21:20:04",
       "album": {
-        "name": "Dance To The Bop",
-        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
+        "name": "Sings Hank Williams",
+        "url": "https://open.spotify.com/album/0X7AlTPtEDf0Kv1QqYQwlU"
       },
       "artists": [
         {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
         }
       ],
-      "duration_ms": 156306,
-      "name": "Be-Bop-A-Lula",
-      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
+      "duration_ms": 168554,
+      "name": "Folsom Prison Blues",
+      "url": "https://open.spotify.com/track/121sjkub4p4zcFNozkKnQD"
     },
     {
       "added_at": "2022-08-16 21:20:04",

@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-124 songs - 9 hr 3 min
+126 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Saya](https://open.spotify.com/track/51QzpyWfcrpPAqBLUIDsex) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Fasiya](https://open.spotify.com/album/7h7MgG54nO4RvaPj01CEX6) | 3:55 | 2022-08-05 |  |
 | [Seri Fu Sidi](https://open.spotify.com/track/75o9d7oVlZ2OQZOIJqaHox) | [Vieux Diop](https://open.spotify.com/artist/4eb4nhTKc0HeQmbtM7rIUo) | [Traditional Songs Of West Africa](https://open.spotify.com/album/6VKQNG7uICpflkFx7ExUCM) | 5:10 | 2022-08-05 |  |
 | [Seydou](https://open.spotify.com/track/2SD12dIAtIKz39Sqp1LYPo) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | ["Folon".....The Past](https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV) | 5:48 | 2022-08-05 |  |
-| [Sia](https://open.spotify.com/track/1LV3SQm9GCEXQaThAVJWDK) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 3:52 | 2022-08-05 |  |
+| [Sia](https://open.spotify.com/track/0gFd7V0BZLh1IEomUhLjk9) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/5B1f3qkeZb13XTu4a4hjHv) | 3:52 | 2023-03-14 |  |
+| [Sia](https://open.spotify.com/track/1LV3SQm9GCEXQaThAVJWDK) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 3:52 | 2022-08-05 | 2023-09-15 |
 | [Simbo Salaba](https://open.spotify.com/track/2emh3LCxxzqekzR0ekc6t5) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [Simbo Salaba](https://open.spotify.com/album/5hEajz3vakPl6PYnVikUCA) | 4:30 | 2022-08-05 | 2023-03-15 |
 | [Sohlangana khona \(We Will Meet There\)](https://open.spotify.com/track/5R53of9PqwA6RyDwht0Sun) | [Vusa Mkhaya](https://open.spotify.com/artist/1Zcfa6xRf2ZShaD9lcVR8E), [Brian Bangura](https://open.spotify.com/artist/1DzpwojcAYW8Pu3e90sJls), [Ramadu](https://open.spotify.com/artist/1xChafGbiQpAoWuyxFLWkY), [Handsome Mabhiza](https://open.spotify.com/artist/6AZhQmpoUMvqdA8b4r3q9b), [Othnell Mangoma Moyo](https://open.spotify.com/artist/2BTkglCPvt9QTqWZUWFxTn) | [Vusa Mkhaya: Vocalism](https://open.spotify.com/album/6YkNFMEvza2qgoyLKKYvfY) | 5:09 | 2022-08-05 |  |
 | [Soni Lene](https://open.spotify.com/track/2y9EC2nMGKwIqohE2eDFW0) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT) | [Soni Lene](https://open.spotify.com/album/1BSFzidGa1HoyMS4i3Kzvu) | 5:07 | 2023-03-14 |  |
@@ -131,6 +132,7 @@
 | [Xarit](https://open.spotify.com/track/1zWqMvDlArrjvNvZr5gfyJ) | [Diali Cissokho & Kaira Ba](https://open.spotify.com/artist/0I5q96SJ25V0fvPDl2EUEx) | [Routes](https://open.spotify.com/album/75oaoHY53aYTaQkWyLESRE) | 3:16 | 2022-08-05 | 2023-03-15 |
 | [Xingwavilani](https://open.spotify.com/track/16Ddy1wdlOZI8ha2Vnr9fX) | [Yinguica](https://open.spotify.com/artist/1m4eSsCu1zZiNqFqp0Se9S) | [Sounds of Africa: Mozambique](https://open.spotify.com/album/1up7lXRtbbdhWsGYVdT1gH) | 3:06 | 2022-08-05 | 2022-11-13 |
 | [Xingwavilani](https://open.spotify.com/track/7GPj18Puh8fllh4m614bgO) | [Yinguica](https://open.spotify.com/artist/1m4eSsCu1zZiNqFqp0Se9S) | [Marrabenta Music from Mozambique](https://open.spotify.com/album/0qDwNVvzLXpCbIEjuQ43Hv) | 3:06 | 2022-08-05 |  |
-| [Yideni](https://open.spotify.com/track/2CKw6pe4Y2SKjwzwi2JLSk) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 6:29 | 2022-08-05 |  |
+| [Yideni](https://open.spotify.com/track/2CKw6pe4Y2SKjwzwi2JLSk) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 6:29 | 2022-08-05 | 2023-09-15 |
+| [Yideni](https://open.spotify.com/track/2JwHTSryCZYyyo2saHvNwO) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/5B1f3qkeZb13XTu4a4hjHv) | 6:29 | 2023-03-14 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

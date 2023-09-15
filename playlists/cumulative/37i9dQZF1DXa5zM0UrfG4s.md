@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-320 songs - 14 hr 50 min
+321 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Legevakta](https://open.spotify.com/track/5IczZgxpuYLHkQiEdGchNR) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Legevakta](https://open.spotify.com/album/2ZW7Zk1r1rK1V9ZNlsl1gb) | 2:34 | 2022-05-19 | 2022-06-01 |
 | [Leve 1000 ganger](https://open.spotify.com/track/5ihRXKlKNectm7d93ja6n7) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Leve 1000 ganger](https://open.spotify.com/album/1XTxuZ06vAFTuD7S6s4Dt3) | 3:09 | 2023-08-24 |  |
 | [LEVE LAVISH \(Ace Of Spades\)](https://open.spotify.com/track/0xj1IHKOaoLv39QhPZnprR) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [10 LAPPER](https://open.spotify.com/artist/1rfSDoxOf0PEPe3yuYuPz8) | [LEVE LAVISH \(Ace Of Spades\)](https://open.spotify.com/album/7gwvJWzd7xJ12WRelYerxD) | 2:19 | 2022-03-03 | 2022-07-24 |
-| [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 | 2022-07-28 |  |
+| [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 | 2022-07-28 | 2023-09-15 |
 | [Levva Livet](https://open.spotify.com/track/61mTvagExZvija6RD4IfiC) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/3r18UsS2QfsHlrpOZFuTyn) | 4:34 | 2022-03-24 | 2022-04-19 |
 | [LIGGA \(HazyDays\)](https://open.spotify.com/track/0dkrp4JRUuCAw4JtRSxJPo) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [LIGGA \(HazyDays\)](https://open.spotify.com/album/31dXdQuqs7m0449DYzvpY8) | 2:25 | 2022-02-17 | 2022-05-15 |
 | [Ligga low](https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Ligga low](https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d) | 2:31 | 2021-12-16 |  |
@@ -201,6 +201,7 @@
 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 | 2021-12-16 |  |
 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 | 2023-06-22 |  |
 | [Mango IPA \- Remix](https://open.spotify.com/track/6TUkYXRUzsB9i5fBK0BJ30) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ), [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo), [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Mango IPA \(Remix\)](https://open.spotify.com/album/4ykZO8NjS3qSnvg5H1JTQM) | 3:22 | 2021-12-16 | 2022-10-16 |
+| [MASSE BASS](https://open.spotify.com/track/0cf57fei5SIXNXNpm4J2lo) | [HÆNRIK](https://open.spotify.com/artist/0Cbloj3JVaNSDP5VrxyEik) | [MASSE BASS](https://open.spotify.com/album/4hYsFbbfnlTavEWV62JIAL) | 2:09 | 2023-09-14 |  |
 | [Mawbys](https://open.spotify.com/track/0afgcFu473Mm5dyKQgNQGq) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Thomskalle](https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn), [Ginger Joe](https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS) | [Mawbys](https://open.spotify.com/album/43BorH9aWDTNcbCWGreg0I) | 3:04 | 2023-06-22 |  |
 | [Mawbys](https://open.spotify.com/track/6R20ReFHCSjtK3vMUZI3Yv) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Thomskalle](https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn), [Ginger Joe](https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS) | [Mawbys](https://open.spotify.com/album/55wTUqbJh1I6jhmNZKexO8) | 3:04 | 2022-10-15 | 2023-06-17 |
 | [Mcdonalds](https://open.spotify.com/track/4cFsatzEJO0qROt1Dj5z8u) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e) | 2:07 | 2022-12-01 | 2023-05-10 |

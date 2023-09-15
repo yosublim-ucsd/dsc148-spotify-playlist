@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-156 songs - 9 hr 49 min
+157 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,8 +47,9 @@
 | [Dry Fantasy](https://open.spotify.com/track/2oUXRX74mg3tByEamEIPIW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ritchie Sacramento](https://open.spotify.com/album/7l4srAaJNA9IIQNBJj7eqA) | 5:10 | 2021-10-14 | 2022-11-13 |
 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 | 2021-10-14 |  |
 | [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2021-10-14 |  |
-| [Ember](https://open.spotify.com/track/1xUsZV6sIKDfOBJIxSrAcU) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3kHGKSPT55zIpALNPpI6TM) | 2:40 | 2021-10-14 |  |
+| [Ember](https://open.spotify.com/track/1xUsZV6sIKDfOBJIxSrAcU) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3kHGKSPT55zIpALNPpI6TM) | 2:40 | 2021-10-14 | 2023-09-15 |
 | [Ember](https://open.spotify.com/track/6dYcB7modGAixjXyjkk8Hn) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3pH3ulLQ0XIYNTEyrjV63f) | 2:40 | 2021-10-14 | 2023-01-27 |
+| [Ember](https://open.spotify.com/track/6KLZxWLnzXC8QLMF0iKTqm) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 2:40 | 2023-03-27 |  |
 | [Evaporate](https://open.spotify.com/track/0W0OvPCLT47F8FojLyzWM4) | [Dirty Dreamer](https://open.spotify.com/artist/5zoxiaLvLZspEXDf4nRStt) | [Evaporate](https://open.spotify.com/album/1ttNH67F2Yb1E9fMppcyDu) | 4:11 | 2021-10-14 |  |
 | [Fabric](https://open.spotify.com/track/4fKwR6uFpoUMjhkGJSbARk) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Half Light](https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn) | 3:17 | 2021-10-14 |  |
 | [Fabric](https://open.spotify.com/track/6KKX0WTwDjUitN49lJWway) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Fabric](https://open.spotify.com/album/7l6o6Kzr8hBqRNUWbVIv1Q) | 3:17 | 2021-10-14 | 2022-07-29 |

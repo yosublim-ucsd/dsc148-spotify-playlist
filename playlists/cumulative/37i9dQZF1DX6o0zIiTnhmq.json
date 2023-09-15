@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Ganesh Bhakti Sangrah",
+        "url": "https://open.spotify.com/album/0nL4UuEp3jT8dL68IXuWEs"
+      },
+      "artists": [
+        {
+          "name": "Ankita Bramhe",
+          "url": "https://open.spotify.com/artist/1FKFRFij4L7rPTm8J4HPkj"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154390,
+      "name": "Ganesh Stuti",
+      "url": "https://open.spotify.com/track/30s5J8ytFaCovIy0rrNPZO"
+    },
+    {
+      "album": {
         "name": "Mantras for a Happy Life",
         "url": "https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k"
       },
@@ -820,7 +838,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 251360,
       "name": "Nam Myoho Renge Kyo Mantra (Devotion to the Mystic Law)",
       "url": "https://open.spotify.com/track/4exQWqZNQ4aQzasBj3Dir9"
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 99700,
       "name": "Restorative Mantras",
       "url": "https://open.spotify.com/track/6Mp8hiNPzsvsCXxAmmUK2d"
@@ -1664,6 +1682,24 @@
       "duration_ms": 39000,
       "name": "Tilak Mantra",
       "url": "https://open.spotify.com/track/3aTqStXPCeMC41rIUPv7XJ"
+    },
+    {
+      "album": {
+        "name": "Ganesh Bhakti Sangrah",
+        "url": "https://open.spotify.com/album/0nL4UuEp3jT8dL68IXuWEs"
+      },
+      "artists": [
+        {
+          "name": "Suresh Wadkar",
+          "url": "https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435915,
+      "name": "Vakratunda Mahakaya - Suresh Wadkar",
+      "url": "https://open.spotify.com/track/1zJYaxEYpe3A5ioSXS9ZOR"
     },
     {
       "album": {

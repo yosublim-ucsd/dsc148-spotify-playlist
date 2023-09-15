@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Aperol Spiritz",
+        "url": "https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315200,
+      "name": "Aperol Spiritz",
+      "url": "https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde"
+    },
+    {
+      "album": {
         "name": "Aqui Conmigo E.P.",
         "url": "https://open.spotify.com/album/0HX7nQolcrzsoeAXdw99WZ"
       },
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 355750,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/0Ea1vhRQJME0EUa9oUIcFW"
@@ -2257,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Motown Swagger",
+        "url": "https://open.spotify.com/album/07fDbONnuIiwwmc2MaaiyV"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438750,
+      "name": "Motown Swagger",
+      "url": "https://open.spotify.com/track/4wT8rqDlZPLfIN34TSibdd"
+    },
+    {
+      "album": {
         "name": "Groovin' Attitude EP",
         "url": "https://open.spotify.com/album/5jviDuz9FZI7HuifpFlL9B"
       },
@@ -2634,6 +2670,28 @@
       "duration_ms": 434580,
       "name": "Poppy",
       "url": "https://open.spotify.com/track/3uXlmol1b1oL04D5GFBjR7"
+    },
+    {
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/4dy3cRd0wwv1e2PsXThwXY"
+      },
+      "artists": [
+        {
+          "name": "William Djoko",
+          "url": "https://open.spotify.com/artist/4EAeSI62JIrlq6cyxeV3hO"
+        },
+        {
+          "name": "Foremost Poets",
+          "url": "https://open.spotify.com/artist/6bxNGNLzoododCo2iYnW5F"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406147,
+      "name": "Pornography",
+      "url": "https://open.spotify.com/track/77ltdRhy9R9AnDWFcKLLSA"
     },
     {
       "album": {
@@ -3368,7 +3426,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 492899,
       "name": "The Observer",
       "url": "https://open.spotify.com/track/6QoVPPIRdkiNCVcCUJOzbI"
@@ -3590,7 +3648,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 274015,
       "name": "Together We Rise",
       "url": "https://open.spotify.com/track/4sHYIG3VE8ZZKnf7lC5nFT"

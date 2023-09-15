@@ -4,7 +4,7 @@
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more.
 
-111 songs - 4 hr 54 min
+113 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,10 +17,11 @@
 | [Action Packed](https://open.spotify.com/track/5X4RBTKTA0FENrLxHUfZkr) | [Ronnie Dawson](https://open.spotify.com/artist/2Fgg6KYXIgeRY3VxQjX9lP) | [Rockin' Bones](https://open.spotify.com/album/1BqE7sSumMEzQ0q2K3ST08) | 2:17 | 2019-03-04 | 2023-03-06 |
 | [All I Have To Do Is Dream](https://open.spotify.com/track/6Et30R1GtviOIDU7wYYyxp) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Simply \- The Everly Brothers \( 42 Essential Tracks\)](https://open.spotify.com/album/4wKRl6zRLNrg1WpHwpIGtX) | 2:19 | 2019-03-04 | 2022-07-29 |
 | [All I Have to Do Is Dream](https://open.spotify.com/track/5KPSG4BvDmFy0uLXrdGSUm) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [100 Greatest Feel Good](https://open.spotify.com/album/5PHIHxs0Xiu66Ah511IRFw) | 2:23 | 2022-08-16 | 2022-11-13 |
-| [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 | 2022-05-06 |  |
+| [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 | 2022-05-06 | 2023-09-15 |
+| [All I Have to Do Is Dream \(Single Version\)](https://open.spotify.com/track/0Q1tq0hFra4W9k6kx1MSjG) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:20 | 2022-08-16 |  |
 | [All I've Got To Do \- Remastered 2009](https://open.spotify.com/track/5tztLBvTlNC15Np2tnQ5Ll) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:02 | 2019-03-04 | 2022-08-17 |
 | [Be\-Bop\-a\-Lula](https://open.spotify.com/track/4AaHCzwKBltFBqp9ngboWU) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Reeling and Rocking](https://open.spotify.com/album/3OfWasjuVTLrqFpLOgMKEi) | 2:34 | 2019-03-04 | 2022-07-29 |
-| [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 | 2022-05-06 |  |
+| [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 | 2022-05-06 | 2023-09-15 |
 | [Be\-Bop\-A\-Lula \- Remastered 2002](https://open.spotify.com/track/47SAgHC0xBRxVCIKMpGjjD) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [50s Songs](https://open.spotify.com/album/5zemG3yD3NjXHlMWO8AAyY) | 2:37 | 2022-08-16 | 2022-11-13 |
 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 | 2019-03-04 |  |
 | [Blue Suede Shoes \- Remastered](https://open.spotify.com/track/3htVOUt4zoFthJhqtJMGTo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 1:59 | 2019-03-04 |  |
@@ -43,6 +44,7 @@
 | [Everyday](https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 2:09 | 2022-05-06 |  |
 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 | 2022-02-11 |  |
 | [Folsom Prison Blues](https://open.spotify.com/track/5O6mz4qn6q7MSKubAzRnDW) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:42 | 2019-03-04 | 2022-05-07 |
+| [Folsom Prison Blues](https://open.spotify.com/track/121sjkub4p4zcFNozkKnQD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Sings Hank Williams](https://open.spotify.com/album/0X7AlTPtEDf0Kv1QqYQwlU) | 2:48 | 2022-08-16 |  |
 | [Folsom Prison Blues](https://open.spotify.com/track/1Vw5YUBbtlUmkhEnee55Zo) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [With His Hot and Blue Guitar](https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E) | 2:48 | 2022-05-06 |  |
 | [Great Balls Of Fire](https://open.spotify.com/track/6vR4LDbi4H6iwC3YDUL6jT) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Live From Austin TX](https://open.spotify.com/album/4BUYX8tv99QAq6ZwJrd6ZQ) | 1:49 | 2019-03-04 | 2022-05-07 |
 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 | 2022-05-06 |  |

@@ -6856,7 +6856,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 205733,
       "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
       "url": "https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv"
@@ -7478,6 +7478,24 @@
       "duration_ms": 215240,
       "name": "\u30a8\u30f3\u30ab\u30a6\u30f3\u30c8",
       "url": "https://open.spotify.com/track/7M2q38oWzSc9ISkOgORbry"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30f3\u30c9\u2252\u30cf\u30c3\u30d4\u30fc",
+        "url": "https://open.spotify.com/album/0gbL2v3NSXy0IAskNThGKX"
+      },
+      "artists": [
+        {
+          "name": "Syudenmagiwa Online.",
+          "url": "https://open.spotify.com/artist/5jvcz5lJW4ohuzA9KPqUUu"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202737,
+      "name": "\u30a8\u30f3\u30c9\u2252\u30cf\u30c3\u30d4\u30fc",
+      "url": "https://open.spotify.com/track/7lphMxxARQakdKCRMI6W8l"
     },
     {
       "album": {

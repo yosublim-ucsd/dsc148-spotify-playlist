@@ -1914,6 +1914,24 @@
     {
       "album": {
         "name": "Mezana Dounia",
+        "url": "https://open.spotify.com/album/5B1f3qkeZb13XTu4a4hjHv"
+      },
+      "artists": [
+        {
+          "name": "Massa Dembele",
+          "url": "https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Sia",
+      "url": "https://open.spotify.com/track/0gFd7V0BZLh1IEomUhLjk9"
+    },
+    {
+      "album": {
+        "name": "Mezana Dounia",
         "url": "https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz"
       },
       "artists": [
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 232120,
       "name": "Sia",
       "url": "https://open.spotify.com/track/1LV3SQm9GCEXQaThAVJWDK"
@@ -2482,10 +2500,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 389626,
       "name": "Yideni",
       "url": "https://open.spotify.com/track/2CKw6pe4Y2SKjwzwi2JLSk"
+    },
+    {
+      "album": {
+        "name": "Mezana Dounia",
+        "url": "https://open.spotify.com/album/5B1f3qkeZb13XTu4a4hjHv"
+      },
+      "artists": [
+        {
+          "name": "Massa Dembele",
+          "url": "https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389626,
+      "name": "Yideni",
+      "url": "https://open.spotify.com/track/2JwHTSryCZYyyo2saHvNwO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4ioFWie6Zm8"

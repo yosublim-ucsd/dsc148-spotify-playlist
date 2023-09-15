@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tedua
 
-117 songs - 6 hr 24 min
+118 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 | 2023-03-23 |  |
 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 | 2022-04-28 |  |
 | [Bitch Affianco \(feat\. Il Ghost\)](https://open.spotify.com/track/7GMdUBnPCy8ttOJwxUW6HM) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:36 | 2022-04-28 |  |
+| [BLACKOUT](https://open.spotify.com/track/4HKQTz6RoJkFwlFLBAsJqm) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:06 | 2023-09-14 |  |
 | [Bottiglie Privè](https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Bottiglie Privè](https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj) | 3:09 | 2022-04-28 |  |
 | [Brivido](https://open.spotify.com/track/52dGHpZuhlsB28gV4z6MSv) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Grandi Classici Rap Italiano I GOT 5 ON IT](https://open.spotify.com/album/1lCXo2TP1ryw3AsaTgwDac) | 3:47 | 2022-10-25 | 2022-11-14 |
 | [Brivido](https://open.spotify.com/track/631EjX7Jgo7QeSn2JbRoBz) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Pensando a te Rap Italiano Game Over](https://open.spotify.com/album/23KDlmJHZGCeM8G6LUhsRm) | 3:47 | 2022-07-14 |  |
@@ -88,7 +89,7 @@
 | [Mezzanotte in Punto \(con Franco126, Ketama126 & Bresh\)](https://open.spotify.com/track/4HPnwAsUMcudDgVCNLOzum) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:57 | 2022-09-15 | 2023-04-13 |
 | [Mi manchi](https://open.spotify.com/track/02azuYiDfYtTJ568UwYPQ3) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:06 | 2022-10-25 | 2022-11-13 |
 | [Mi manchi](https://open.spotify.com/track/0L2Sq3mlGZsSvrOu15LZSi) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:06 | 2022-04-28 | 2022-10-26 |
-| [Mi manchi](https://open.spotify.com/track/7Jgi200kgCNvAuZw2W8Nxq) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 3:06 | 2022-10-25 |  |
+| [Mi manchi](https://open.spotify.com/track/7Jgi200kgCNvAuZw2W8Nxq) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 3:06 | 2022-10-25 | 2023-09-15 |
 | [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 | 2022-09-29 | 2023-03-18 |
 | [MON AMOUR \(feat\. Shiva\)](https://open.spotify.com/track/0OU0XbP0WnsLwFTVgeXFeu) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [J](https://open.spotify.com/album/5cmbVE8sridz5LqFNEAWwy) | 2:33 | 2022-04-28 | 2022-07-29 |
 | [MON AMOUR \(feat\. Shiva\)](https://open.spotify.com/track/4IQpT8aOGChYX4ORMOW0YY) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [J](https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO) | 2:33 | 2022-07-14 |  |

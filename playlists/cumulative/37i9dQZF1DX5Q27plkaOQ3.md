@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Subtronics & HOL!
 
-399 songs - 22 hr 45 min
+400 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-04-15 | 2023-03-11 |
 | [Bullet Hole](https://open.spotify.com/track/3r1IPri4eZ4WHNAMCd38Bs) | [Point.Blank](https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v) | [Dark Matter EP](https://open.spotify.com/album/6iqrCQIQZEptZ2O1e6nBQR) | 2:45 | 2021-12-17 | 2022-07-31 |
 | [Bump This](https://open.spotify.com/track/2O5oAio774pIRQGe3mnh5T) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Dubs In Limbo](https://open.spotify.com/album/3pmTlgjrJEYzS26fKhgshb) | 3:18 | 2022-10-21 | 2022-10-25 |
+| [BUMPIN \(with BLVK JVCK\)](https://open.spotify.com/track/6JKyHmlmKDCEbudFvf9pB0) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [BUMPIN \(with BLVK JVCK\)](https://open.spotify.com/album/7wsAdzdaGKfzkCE8kqjTLh) | 2:01 | 2023-09-08 |  |
 | [Bunker Buster](https://open.spotify.com/track/4sIb34wgeE5G0XXGTrpERP) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Bunker Buster](https://open.spotify.com/album/41mKx6GIJU5WuxO6ucgvRa) | 3:53 | 2021-12-17 | 2022-03-12 |
 | [BURN IT DOWN](https://open.spotify.com/track/77elxudyDSnfEGEoEwI5Ix) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [ADAM ON EARTH](https://open.spotify.com/artist/4M3WL2gwGr5CeUGdklBGZa) | [NEW BREED](https://open.spotify.com/album/5zHzlUyTFZstQbmjb4EqwH) | 2:46 | 2022-08-19 | 2023-08-12 |
 | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [JV Rhymes](https://open.spotify.com/artist/3ZaDHRjorwqXosRgVoCYUG) | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/album/1RVaWpU0bqwfPazcEjWacX) | 3:33 | 2022-03-04 | 2023-05-13 |
@@ -154,7 +155,7 @@
 | [GAME OVER](https://open.spotify.com/track/0MwhtZx5lhT4HUey9HPwoW) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5), [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W) | [GAME OVER](https://open.spotify.com/album/1xmqJrt14gPX50jRItkRty) | 2:46 | 2023-03-31 | 2023-07-15 |
 | [Gawdam](https://open.spotify.com/track/35LfVddGN6zR5gE78o0EdU) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8) | [Gawdam](https://open.spotify.com/album/0qSMwW0ZBiZJUuFsxmr3Oj) | 2:36 | 2021-12-17 | 2022-03-12 |
 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 | 2022-02-04 | 2022-09-10 |
-| [Get It On](https://open.spotify.com/track/3Ho2FJutH67enqPLYc1K51) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Get It On](https://open.spotify.com/album/0l8a4E9Qc0w6TPHbweipbI) | 3:05 | 2023-05-12 |  |
+| [Get It On](https://open.spotify.com/track/3Ho2FJutH67enqPLYc1K51) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Get It On](https://open.spotify.com/album/0l8a4E9Qc0w6TPHbweipbI) | 3:05 | 2023-05-12 | 2023-09-15 |
 | [Get Up](https://open.spotify.com/track/5bW5xB2hInPhcLHhwJXbYR) | [SoDown](https://open.spotify.com/artist/61u2rGJj9r6d7utXK0J0oS), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Get Up](https://open.spotify.com/album/1VxLRJpczwSafsznDhCUtU) | 3:04 | 2022-04-01 | 2022-11-01 |
 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 | 2023-07-28 |  |
 | [GIGACHAD](https://open.spotify.com/track/2VXSei3puBk9C8EW5v1MmF) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [GIGACHAD](https://open.spotify.com/album/4ZsbsF13Yc5hSQ4y6XZlnV) | 3:32 | 2022-02-25 | 2023-04-01 |

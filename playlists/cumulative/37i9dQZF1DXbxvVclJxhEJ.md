@@ -4,7 +4,7 @@
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-93 songs - 4 hr 49 min
+94 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [My Journey To The Sky](https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Marie Knight](https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 3:10 | 2022-05-25 |  |
 | [New That Ain't Right](https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L) | [Perline Ellison](https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh) | [Female Blues \- The Remaining Titles Vol\. 2 \(1938\-1949\)](https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU) | 2:59 | 2022-05-25 |  |
 | [Nobody Knows You When You're Down and Out \- 78rpm Version](https://open.spotify.com/track/3ru8IZrBxuFFHOFKEvvpFP) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Essential Bessie Smith](https://open.spotify.com/album/0NSxpb50uBMgAzOJQpp4Ag) | 2:56 | 2022-05-25 | 2023-08-24 |
+| [Nursery Rhyme Rock](https://open.spotify.com/track/1CZ4Wzu1EHqyGT2AsIeDlG) | [Wynona Carr](https://open.spotify.com/artist/0v6JkAzkEJ6lCw6hAVs5VP) | [Jump Jack Jump!](https://open.spotify.com/album/7xAQpANaShSbcAUfPs39ci) | 1:56 | 2023-08-23 |  |
 | [Rock Me \- Remastered](https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:36 | 2022-05-25 |  |
 | [Rock the Bop](https://open.spotify.com/track/3EhF0bDSHc4pwyjLEnHpBq) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Hot Boppin Girls Vol\. 1](https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx) | 2:10 | 2022-05-25 | 2022-07-25 |
 | [Rock The Bop](https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Love You!](https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp) | 2:13 | 2022-07-08 |  |
@@ -100,6 +101,6 @@
 | [Wang Dang Doodle](https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years](https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC) | 3:01 | 2022-05-25 | 2023-08-24 |
 | [When The Levee Breaks](https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb) | [Memphis Minnie & Kansas Joe](https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl) | [Queen Of The Blues](https://open.spotify.com/album/6DgLR9u6il9EhtkKEx4AiY) | 3:08 | 2022-05-25 |  |
 | [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/320ZZJr1jagnULcoB1dTx5) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [The Magic of Big Maybelle](https://open.spotify.com/album/5Hqv6mLzLW9DckvKdW41YS) | 2:40 | 2022-05-25 | 2022-07-22 |
-| [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/2QrBIUz6Mbmkh5dqcLzTHp) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 2:44 | 2022-07-08 |  |
+| [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/2QrBIUz6Mbmkh5dqcLzTHp) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 2:44 | 2022-07-08 | 2023-09-15 |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

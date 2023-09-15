@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 46075,
+  "num_followers": 46119,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0",
+  "snapshot_id": "MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl",
   "tracks": [
     {
       "added_at": "2023-08-18 13:43:08",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
+        "name": "Still Frame Replay",
+        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 464453,
+      "name": "The Memory of Our Love",
+      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
         "name": "You Can't Lose What You Ain't Never Had",
         "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 433360,
       "name": "How Unlucky Can One Man Be",
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
-        "name": "Still Frame Replay",
-        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 464453,
-      "name": "The Memory of Our Love",
-      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
+        "name": "The Blues",
+        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 502973,
+      "name": "Lonely World",
+      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 229200,
       "name": "Ooh Baby",
       "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
-        "name": "The Blues",
-        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 502973,
-      "name": "Lonely World",
-      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
+        "name": "Jackie Sings The Blues",
+        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 124786,
+      "name": "Please Tell Me Why",
+      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
         "name": "Remastered from the Archives",
         "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 158333,
       "name": "Help The Poor",
       "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
-        "name": "Jackie Sings The Blues",
-        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 124786,
-      "name": "Please Tell Me Why",
-      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -963,6 +963,26 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
+        "name": "Right Kinda Wrong",
+        "url": "https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J"
+      },
+      "artists": [
+        {
+          "name": "Oscar LaDell",
+          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
+        },
+        {
+          "name": "Chris Armour",
+          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Slow Burning Love",
+      "url": "https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
         "name": "Straight from the Heart",
         "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 160853,
       "name": "You Put the Heart on Me",
       "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
-        "name": "Right Kinda Wrong",
-        "url": "https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J"
-      },
-      "artists": [
-        {
-          "name": "Oscar LaDell",
-          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
-        },
-        {
-          "name": "Chris Armour",
-          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Slow Burning Love",
-      "url": "https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn"
     },
     {
       "added_at": "2023-08-18 13:43:08",

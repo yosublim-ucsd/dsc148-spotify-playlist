@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Cima Favela",
+        "url": "https://open.spotify.com/album/1MuVGDebeM6n2s0FuVUvcK"
+      },
+      "artists": [
+        {
+          "name": "Nicholas",
+          "url": "https://open.spotify.com/artist/2Y5CUrIyRo9uaUTasckcHB"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "Cima Favela",
+      "url": "https://open.spotify.com/track/4jywdVdJvrKrAdN9OyaAWW"
+    },
+    {
+      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/15axyA5TYLSMDDsUS64xIH"
       },
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 224000,
       "name": "CLIMA QUENTE",
       "url": "https://open.spotify.com/track/4wsm6HtaiBEgSIloZzLMa0"
@@ -2797,6 +2815,24 @@
     },
     {
       "album": {
+        "name": "FICAR RICO E FICAR CONTIGO",
+        "url": "https://open.spotify.com/album/7t37wd5YM5uaSFAE3Ba285"
+      },
+      "artists": [
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "FICAR RICO E FICAR CONTIGO",
+      "url": "https://open.spotify.com/track/7ieKYTIZabcFxyAnlfVqAQ"
+    },
+    {
+      "album": {
         "name": "Filha da Tuga",
         "url": "https://open.spotify.com/album/0Y02EPeDM8ULYof2SbV7aN"
       },
@@ -2972,6 +3008,24 @@
       "duration_ms": 187686,
       "name": "Gang Sta Perigoso",
       "url": "https://open.spotify.com/track/0CylWENyHqmjXv7jyYVIAx"
+    },
+    {
+      "album": {
+        "name": "Gangway #3",
+        "url": "https://open.spotify.com/album/57UUmV6fL7JSPreYVeOkGr"
+      },
+      "artists": [
+        {
+          "name": "Carlito Lagangzz",
+          "url": "https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Gangway #3",
+      "url": "https://open.spotify.com/track/6UcAbc5vFLZy2gQ7QLM2Ln"
     },
     {
       "album": {
@@ -3176,7 +3230,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 157059,
       "name": "Habilidosa",
       "url": "https://open.spotify.com/track/6UopYtiItZd9VWAKSaX8pF"
@@ -3376,7 +3430,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 312506,
       "name": "JAMANTAH",
       "url": "https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD"
@@ -3584,7 +3638,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 195651,
       "name": "LACAZETTE CU DELE ALLI",
       "url": "https://open.spotify.com/track/66ZF8N3u5bzCNfEqUAqznX"
@@ -5390,6 +5444,24 @@
       "duration_ms": 199195,
       "name": "Popo",
       "url": "https://open.spotify.com/track/24QcmVdz7CwEYhohJxJ4EX"
+    },
+    {
+      "album": {
+        "name": "Por Aqui",
+        "url": "https://open.spotify.com/album/6GvAx2uva7eI6ir7KOp1CJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139506,
+      "name": "Por Aqui",
+      "url": "https://open.spotify.com/track/6Pre7MaAvhrV8VgiwTX7KP"
     },
     {
       "album": {

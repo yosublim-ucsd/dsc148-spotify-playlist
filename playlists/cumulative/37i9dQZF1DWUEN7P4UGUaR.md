@@ -2,7 +2,7 @@
 
 ### [Aseda](https://open.spotify.com/playlist/37i9dQZF1DWUEN7P4UGUaR)
 
-> Fresh gospel music from Ghana\. Cover: Nacee
+> Fresh gospel music from Ghana\. Cover: Joyce Blessing
 
 67 songs - 5 hr 57 min
 

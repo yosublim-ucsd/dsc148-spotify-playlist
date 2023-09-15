@@ -4,7 +4,7 @@
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-87 songs - 5 hr 30 min
+88 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Malaria](https://open.spotify.com/track/4wwwdmufC8EWrU0sWpT3PB) | [Harry Roesli Gang](https://open.spotify.com/artist/504yLLdKsDJ4UCtVYPRcDF) | [Philosophy Gang](https://open.spotify.com/album/7Lk4rAv9PxwaU0ymdulZmv) | 3:02 | 2023-03-16 |  |
 | [Masih](https://open.spotify.com/track/6GU3OTg3eOPlDQ4A9r1Jap) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:35 | 2023-08-09 |  |
 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Mustache and Beard](https://open.spotify.com/artist/016QI3CCkvtFY60hN9lPLc) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 | 2023-08-11 |  |
+| [Membisu](https://open.spotify.com/track/0MCcd7qtxzOXncK5eFaBeW) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:57 | 2023-09-14 |  |
 | [Mereguk Anti Depresan Lagi](https://open.spotify.com/track/4nWqe6ojnCrOZWsGHqdpWE) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [Mereguk Anti Depresan Lagi](https://open.spotify.com/album/7DxaK1trwu4UD76ldZ4JvI) | 3:51 | 2023-03-16 |  |
 | [MOKSA](https://open.spotify.com/track/5vGj9cAtJRhzNlqEdUOyrs) | [Saptarasa](https://open.spotify.com/artist/3dnQwz2O4A87p0qKzP7e8M) | [MOKSA](https://open.spotify.com/album/7fBsK8IA2iooPAPzChSPaF) | 4:51 | 2023-03-16 |  |
 | [Monokrom](https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:34 | 2023-03-16 |  |

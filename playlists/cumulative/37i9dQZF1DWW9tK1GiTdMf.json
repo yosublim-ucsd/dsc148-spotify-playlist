@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b  YUNGBLUD in cover!",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b Olivia Rodrigo in cover!",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 170909,
       "name": "Blocco",
       "url": "https://open.spotify.com/track/5lIPRFOQfMxzaebBamFhne"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 171437,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/5iJoUukQtwJ883xshmOuAR"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 156387,
       "name": "Cambiare mai",
       "url": "https://open.spotify.com/track/66uMoh8K65vxhfluSkx6eF"
@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 180666,
       "name": "COLPA MIA",
       "url": "https://open.spotify.com/track/5vu4OsOmCIV7gOCO5daNMf"
@@ -4373,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+    },
+    {
+      "album": {
         "name": "gfy (with Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F"
       },
@@ -5170,7 +5188,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
@@ -6356,6 +6374,24 @@
       "duration_ms": 239346,
       "name": "Lost Honor",
       "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
     },
     {
       "album": {
@@ -7550,7 +7586,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 175693,
       "name": "NON MI VOGLIO FERMARE",
       "url": "https://open.spotify.com/track/5ClKWhaAANRK1BFERsAZuK"
@@ -8174,7 +8210,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 142725,
       "name": "PERCH\u00c9 NON TI CAPIVO",
       "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
@@ -8262,7 +8298,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 151409,
       "name": "PICCOLI",
       "url": "https://open.spotify.com/track/3F86TXXBuXxQWLF3Gl0Zqr"
@@ -10336,7 +10372,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 207741,
       "name": "Spent\u00f8 & Stanc\u00f8",
       "url": "https://open.spotify.com/track/2ei3Ki6ygpBcG1eUrbndux"
@@ -10654,7 +10690,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 184880,
       "name": "Storia Stupida",
       "url": "https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ"
@@ -11416,7 +11452,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 134114,
       "name": "Tinder",
       "url": "https://open.spotify.com/track/6fdbDa6L0sFK31d8FC9pt7"
@@ -11732,7 +11768,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 202500,
       "name": "Tutto tua madre",
       "url": "https://open.spotify.com/track/5HygGj8n3EqNWmsZfGx65y"

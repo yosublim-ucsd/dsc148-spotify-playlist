@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Saiko y Caleb Calloway.",
-  "num_followers": 524646,
+  "num_followers": 524671,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTAyNjY4OTA2MTk3MDZjNWFhNjliYzA0YTEwZDY4ZTg0MTMyZjZk",
+  "snapshot_id": "MCwwZjY0NjMzMDFjZmUyOWMwMDMyNDZjMzY5ZDMwZDFkZTQ3NGM0Yjdi",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -515,6 +515,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Ex-Special",
+        "url": "https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Ex-Special",
+      "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Cafe Malib\u00fa",
         "url": "https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 260307,
       "name": "Cafe Malib\u00fa",
       "url": "https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Ex-Special",
-        "url": "https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Ex-Special",
-      "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 177728,
+      "name": "CHIQUITA",
+      "url": "https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "La Pena",
         "url": "https://open.spotify.com/album/54A7E3gz7qBCtv9mENTEAF"
       },
@@ -1435,22 +1455,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "MIDNIGHT",
-        "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
+        "name": "Otra Botella",
+        "url": "https://open.spotify.com/album/221oXFxVCAXnlcVzMLkBBM"
       },
       "artists": [
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
         }
       ],
-      "duration_ms": 177728,
-      "name": "CHIQUITA",
-      "url": "https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD"
+      "duration_ms": 190211,
+      "name": "Otra Botella",
+      "url": "https://open.spotify.com/track/2bXFM7qP61YdQjHb6obdJL"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1475,22 +1491,6 @@
       "duration_ms": 247124,
       "name": "Mood - Remix",
       "url": "https://open.spotify.com/track/2rRXFhzzZ7uNvQTR54CTVk"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Otra Botella",
-        "url": "https://open.spotify.com/album/221oXFxVCAXnlcVzMLkBBM"
-      },
-      "artists": [
-        {
-          "name": "Darkiel",
-          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
-        }
-      ],
-      "duration_ms": 190211,
-      "name": "Otra Botella",
-      "url": "https://open.spotify.com/track/2bXFM7qP61YdQjHb6obdJL"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Qu\u00e9date La Foto",
-        "url": "https://open.spotify.com/album/3JiRuTWgrgOItrSvIPxSSh"
+        "name": "DESAHOGO",
+        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
       },
       "artists": [
         {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
         }
       ],
-      "duration_ms": 138240,
-      "name": "Qu\u00e9date La Foto",
-      "url": "https://open.spotify.com/track/4FczI1mFJsg7I62h851mpL"
+      "duration_ms": 195573,
+      "name": "AUNQUE ME DUELA",
+      "url": "https://open.spotify.com/track/2TGslH3xek402zoafuiabh"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Qu\u00e9date La Foto",
+        "url": "https://open.spotify.com/album/3JiRuTWgrgOItrSvIPxSSh"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Qu\u00e9date La Foto",
+      "url": "https://open.spotify.com/track/4FczI1mFJsg7I62h851mpL"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "D.N.D (feat. Nio Garcia)",
         "url": "https://open.spotify.com/album/2bvnyGn8HgeYVkqjIrQaxr"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 240303,
       "name": "D.N.D (feat. Nio Garcia)",
       "url": "https://open.spotify.com/track/5dpV98IziKB0xupnrXUe9E"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "DESAHOGO",
-        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "AUNQUE ME DUELA",
-      "url": "https://open.spotify.com/track/2TGslH3xek402zoafuiabh"
     },
     {
       "added_at": "2023-09-08 04:00:00",

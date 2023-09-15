@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 131951,
       "name": "At The End Of The Day",
       "url": "https://open.spotify.com/track/3x16lncPJzr2VDTtVrPpgj"
@@ -13622,6 +13622,24 @@
       "duration_ms": 145000,
       "name": "Kanskje en vakker dag",
       "url": "https://open.spotify.com/track/58cLKmndeBJ6iVv5zyBYnF"
+    },
+    {
+      "album": {
+        "name": "Kastepiisk",
+        "url": "https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm"
+      },
+      "artists": [
+        {
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201159,
+      "name": "Kastepiisk",
+      "url": "https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em"
     },
     {
       "album": {

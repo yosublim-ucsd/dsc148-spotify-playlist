@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "dance away tonight",
+        "url": "https://open.spotify.com/album/4EdKyEqSrSK2FI6OBqLDrs"
+      },
+      "artists": [
+        {
+          "name": "Indie Anthony",
+          "url": "https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169302,
+      "name": "dance away tonight",
+      "url": "https://open.spotify.com/track/10rQtOwXrmW8008vFEknVm"
+    },
+    {
+      "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
       },
@@ -1497,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "How to Slow a Dream",
+        "url": "https://open.spotify.com/album/0LCWCiU903ZdIXXwaE2iTh"
+      },
+      "artists": [
+        {
+          "name": "R. Missing",
+          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "How to Slow a Dream",
+      "url": "https://open.spotify.com/track/5IQ1lVitMg6YCNAH3EgOtL"
+    },
+    {
+      "album": {
         "name": "Hoy Solo Quiero Odiar",
         "url": "https://open.spotify.com/album/026JhDvcnQ7E77tQZQFCbw"
       },
@@ -1718,6 +1754,24 @@
       "duration_ms": 193337,
       "name": "It Feels Like I Start over Again",
       "url": "https://open.spotify.com/track/79721eJS5TNJHyUWDT1coe"
+    },
+    {
+      "album": {
+        "name": "It's In My Head",
+        "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181792,
+      "name": "It's In My Head",
+      "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
     },
     {
       "album": {

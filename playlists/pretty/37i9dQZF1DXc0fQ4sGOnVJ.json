@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150299,
+  "num_followers": 150317,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTgwNmU1NzkxMmQ1ZDBhMTVjNWQyMmJiNjNjMjU0YzM2MmZiNGQy",
+  "snapshot_id": "MCxlNDI4NDg3YTMwMDVkNjc2ZTlkNWQ0ZmZjZWEzM2MzMzU0ZTFmYzI1",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
+        "name": "Mud Digger 10",
+        "url": "https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp"
+      },
+      "artists": [
+        {
+          "name": "Twang and Round",
+          "url": "https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM"
+        }
+      ],
+      "duration_ms": 210425,
+      "name": "Live for Today",
+      "url": "https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
         "name": "Trucks Gone Wild",
         "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Mud Digger 10",
-        "url": "https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp"
-      },
-      "artists": [
-        {
-          "name": "Twang and Round",
-          "url": "https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM"
-        }
-      ],
-      "duration_ms": 210425,
-      "name": "Live for Today",
-      "url": "https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "BUCKLE BUNNY",
         "url": "https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS"
       },
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Slow Cookin' & Soul Food: The 2 Piece Combo",
-        "url": "https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC"
+        "name": "Redneck Rich",
+        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
       },
       "artists": [
         {
-          "name": "Willie Jones",
-          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+          "name": "Cody Parks and The Dirty South",
+          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
         }
       ],
-      "duration_ms": 208189,
-      "name": "Slow Cookin'",
-      "url": "https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX"
+      "duration_ms": 282462,
+      "name": "Redneck Rich",
+      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
     }
   ],
   "unique_name": "Field Party",

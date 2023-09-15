@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Olivia Rodrigo, Cardi B & Megan Thee Stallion, Tyler Childers, Marshmello & Dove Cameron, d4vd  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,172,061 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,172,309 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [TKO](https://open.spotify.com/track/5V9ri3wZCY3ChAbqxk5Pso) | [DURRY](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Suburban Legend](https://open.spotify.com/album/0XBOirwu0hluwBbEb8hdMe) | 3:27 |
 | 100 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
 
-Snapshot ID: `MCwzMzFkZTFiMzdkNTJjY2M2NDNhM2Y4MGQ2YTU2OTJmNjMxNWU2Yjhj`
+Snapshot ID: `MCwwMGU0MGJjYzQxNTNmNjFjMTk2NGY3ZjVkNDJiZTE3M2Q0YmUxNzdh`

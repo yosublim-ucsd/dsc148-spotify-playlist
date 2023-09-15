@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: kindapatri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,695 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,712 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Mátalos suavemente](https://open.spotify.com/track/5KlVOqbZXRIeDfqgU5ZJhE) | [el cielo sobre berlín](https://open.spotify.com/artist/5B7gxY776vyTw5Opg07H1s) | [El Cielo Sobre Berlín 3 \(1ª Parte\)](https://open.spotify.com/album/5iF3V2yFWh8sva47KkuSvt) | 3:37 |
 | 50 | [Escúchame Mi Vida](https://open.spotify.com/track/1JzcWGNhuYrc6897P9XWQK) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9) | [Escúchame Mi Vida](https://open.spotify.com/album/5fqZvRqJ8HXBu9scb2lUyz) | 3:02 |
 
-Snapshot ID: `MCxiNjYwN2RkZjcxZWU0YzQ0MGVhZDFjNzI5OTI4Nzg2NTQ0MzJiZjU2`
+Snapshot ID: `MCw3NDAwZjNiMjIzMWJiMTgwZTZhZmY3M2FlYTg3M2MxYzczYTk1YWI0`

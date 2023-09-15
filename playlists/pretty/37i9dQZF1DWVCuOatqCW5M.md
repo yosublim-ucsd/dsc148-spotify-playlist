@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Jubin Nautiyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,714 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,780 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Ho Nai Sakda](https://open.spotify.com/track/3od3JMEcDk7yHsVp2PU5Mw) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 3:00 |
 | 50 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 |
 
-Snapshot ID: `MCw4ZTIwYjI4ZTRjOWI1YWE5MTgzZjcwNDlhZDQwY2Y4N2Y2MTcwY2Y4`
+Snapshot ID: `MCwyODkzNmUwYTBiZTE3ZTE2MGMzZmQ3ZDNjNjg1YTlmZjhkM2U0ZGYx`

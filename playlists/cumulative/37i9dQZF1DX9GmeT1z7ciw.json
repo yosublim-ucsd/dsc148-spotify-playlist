@@ -252,10 +252,28 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 208080,
       "name": "GIANT KILLING",
       "url": "https://open.spotify.com/track/33vKlMcJhRU005TOkOJENe"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/4qSxXHpKqiVSlrpXY5Vj1l"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208080,
+      "name": "GIANT KILLING",
+      "url": "https://open.spotify.com/track/5B2dUopTUbPBD9Q0Zgfysf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Logan Ledger
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,500 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,536 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Bottom of the Bottle](https://open.spotify.com/track/25VNwhFzmlWtTQIRdrZK7m) | [TK & The Holy Know\-Nothings](https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG) | [Bottom of the Bottle](https://open.spotify.com/album/5VPkEIN5M0cVcjgbm3raz4) | 4:13 |
 | 100 | [Frosty](https://open.spotify.com/track/4D5MtmWgnC6lv4m9BERyIx) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Frosty](https://open.spotify.com/album/4aR1lEKx4pN2K4A4A8ylI5) | 3:51 |
 
-Snapshot ID: `MCwyYWI0ODAwZTdiY2VlZGZiMTU1Nzk4NTkwZTc5M2Y0M2FmMTQ3YTM0`
+Snapshot ID: `MCxjZDhkMjRjYWY4MzE2ZDZhYzU1YTIzMWE0YWM2N2EyMzlkNGEwMDc0`

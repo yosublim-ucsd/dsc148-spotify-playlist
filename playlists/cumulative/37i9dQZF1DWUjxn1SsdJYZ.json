@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Srirachi",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: ENZO",
   "name": "Local Hype",
   "tracks": [
     {
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 165600,
       "name": "Burn Dat",
       "url": "https://open.spotify.com/track/6BImby3pdYdP0BnieFxBLt"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 151538,
       "name": "CROSS YOUR MIND",
       "url": "https://open.spotify.com/track/4kvwywL33yWI00hjCQ02u5"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 176923,
       "name": "Dancing In The Rain",
       "url": "https://open.spotify.com/track/17xba4xQ0g7JbC74SFuRRA"
@@ -4042,7 +4042,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 162093,
       "name": "HARDCORE",
       "url": "https://open.spotify.com/track/5OPpGcWUVwGUNJW9piIs1c"
@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 134791,
       "name": "HOWDY",
       "url": "https://open.spotify.com/track/7aqbida4rEftUNzxvKs8Bz"
@@ -5562,7 +5562,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 171259,
       "name": "Lights, Camera, Action!",
       "url": "https://open.spotify.com/track/3sQcBoba9CA04dzaymeb8v"
@@ -6196,7 +6196,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 151163,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/5tj4mOsSHvTaivDLlg7ZqL"
@@ -6516,7 +6516,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 137647,
       "name": "Mr BNE",
       "url": "https://open.spotify.com/track/19eMPQIRS1As63QOfbVPKh"
@@ -7070,7 +7070,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 195259,
       "name": "Nothing To Something",
       "url": "https://open.spotify.com/track/3TMnFIjrBUMDcclBmG8gIt"
@@ -7252,7 +7252,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 158400,
       "name": "ON ME",
       "url": "https://open.spotify.com/track/1Oc2BByelG8e5ih7xr6K12"
@@ -7310,7 +7310,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 159207,
       "name": "One Time",
       "url": "https://open.spotify.com/track/1j8G9BQBlP6uiwzHdhEjSt"
@@ -7652,6 +7652,28 @@
       "duration_ms": 192000,
       "name": "Payday",
       "url": "https://open.spotify.com/track/30DwyjRdWbvFlIR2TvdXcs"
+    },
+    {
+      "album": {
+        "name": "Play for Keeps",
+        "url": "https://open.spotify.com/album/1NQn3XcLiZNFwC5pqsYdgl"
+      },
+      "artists": [
+        {
+          "name": "FMB",
+          "url": "https://open.spotify.com/artist/1Kk4fSEcYeC4Z02ie8ZntE"
+        },
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182093,
+      "name": "Play for Keeps",
+      "url": "https://open.spotify.com/track/1aD6KGgZ6duNKQJQVulwmT"
     },
     {
       "album": {
@@ -8397,6 +8419,32 @@
     },
     {
       "album": {
+        "name": "Rtr",
+        "url": "https://open.spotify.com/album/2WjsVMTw6Bk7hF7IpS9k83"
+      },
+      "artists": [
+        {
+          "name": "Hp Boyz",
+          "url": "https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp"
+        },
+        {
+          "name": "HP ONIT",
+          "url": "https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG"
+        },
+        {
+          "name": "HP YJ",
+          "url": "https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Rtr",
+      "url": "https://open.spotify.com/track/1qCz701lWN4xaC5AGdvv3U"
+    },
+    {
+      "album": {
         "name": "Rude",
         "url": "https://open.spotify.com/album/4J9GlXS82hwkZN7CBEFeVl"
       },
@@ -8608,7 +8656,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 186240,
       "name": "SALAMANCA",
       "url": "https://open.spotify.com/track/1NIs2VWR40OAKPgj6ROpP0"
@@ -9366,7 +9414,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 181760,
       "name": "SUMMER LOVE",
       "url": "https://open.spotify.com/track/6nt94WhadnrRyVlM88zEoK"
@@ -9388,6 +9436,24 @@
       "duration_ms": 152561,
       "name": "Sway",
       "url": "https://open.spotify.com/track/4b6PF6INUHpeoYtEQTWOxD"
+    },
+    {
+      "album": {
+        "name": "SWEEP",
+        "url": "https://open.spotify.com/album/1wNQzHC0JvBBooqXdUwuTn"
+      },
+      "artists": [
+        {
+          "name": "Khi'leb",
+          "url": "https://open.spotify.com/artist/1KO82XcaphTWqMWAf6qXgy"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184090,
+      "name": "SWEEP",
+      "url": "https://open.spotify.com/track/1MF5nqFJTaS7xNVkte77TT"
     },
     {
       "album": {
@@ -9540,7 +9606,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 120006,
       "name": "TASTY",
       "url": "https://open.spotify.com/track/56W1tGtrbPxrxkoQm5bgSn"
@@ -10735,6 +10801,24 @@
     },
     {
       "album": {
+        "name": "We Ride",
+        "url": "https://open.spotify.com/album/54BeNq6d1lkoLM8foqjx9k"
+      },
+      "artists": [
+        {
+          "name": "ENZO",
+          "url": "https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187038,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/0ZndP0d6W6ICRmSlKgMiS4"
+    },
+    {
+      "album": {
         "name": "We Them Boyz (feat. Jaecy)",
         "url": "https://open.spotify.com/album/0qn4k950Hux9jAGQGrkRX7"
       },
@@ -11216,6 +11300,24 @@
       "duration_ms": 135652,
       "name": "YAPPA YAPPA",
       "url": "https://open.spotify.com/track/78SgARD9dvoL6P3E3WSXWA"
+    },
+    {
+      "album": {
+        "name": "You Tried!",
+        "url": "https://open.spotify.com/album/6Zu4KRm7scoTS7AWab8O6G"
+      },
+      "artists": [
+        {
+          "name": "Yung Gwopp",
+          "url": "https://open.spotify.com/artist/11T18BfcT9H4yKtTcHEEJL"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158415,
+      "name": "You Tried!",
+      "url": "https://open.spotify.com/track/5iE8B0whBgXW0j6Z9O1f3z"
     },
     {
       "album": {

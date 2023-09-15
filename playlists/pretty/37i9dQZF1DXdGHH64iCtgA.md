@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut down Etro's SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Marco De Vincenzo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,688 likes - 61 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,896 likes - 61 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 38 | [Casualty](https://open.spotify.com/track/7eKebagU8RXRnPitSnd3hT) | [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [When Love Hurts](https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP) | 5:07 |
 | 39 | [Modafinil Blues](https://open.spotify.com/track/4No4T12hxjiPsOqUtN5HVU) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [Bunny](https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo) | 5:00 |
 | 40 | [Shades of Blue](https://open.spotify.com/track/47JVgLUOFUp4iZ60wR5nv2) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Shades of Blue](https://open.spotify.com/album/0IISH2eLnsPMmjjNwZEElq) | 3:54 |
-| 41 | [Butterfly \- Malik Djoudi Remix](https://open.spotify.com/track/1KQtHHc9UQ5qcouSGd8l2i) | [Leonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC), [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Butterfly \(Remixes\)](https://open.spotify.com/album/3TAsLhBSwjq9iZWvp49jAG) | 3:28 |
-| 42 | [Épouser la nuit](https://open.spotify.com/track/58CYcQHLke4WHv6usQplh0) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Tempéraments](https://open.spotify.com/album/07oac8ZypPw4d1VtOmxknA) | 3:37 |
+| 41 | [Épouser la nuit](https://open.spotify.com/track/58CYcQHLke4WHv6usQplh0) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Tempéraments](https://open.spotify.com/album/07oac8ZypPw4d1VtOmxknA) | 3:37 |
+| 42 | [Butterfly \- Malik Djoudi Remix](https://open.spotify.com/track/1KQtHHc9UQ5qcouSGd8l2i) | [Leonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC), [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Butterfly \(Remixes\)](https://open.spotify.com/album/3TAsLhBSwjq9iZWvp49jAG) | 3:28 |
 | 43 | [Salt](https://open.spotify.com/track/3jks0Wb2Pnq981bSX3X44x) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 5:24 |
 | 44 | [Ninna Nanna per adulteri \- Remastered](https://open.spotify.com/track/0p6pIexL8DXGPy5qxfc8jF) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Cuore di Mamma \- Mother's Heart \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/354OTWPlr0SbFKnZJsNu8K) | 3:04 |
 | 45 | [Esperanto](https://open.spotify.com/track/6cQKCdlyFHGQkvXLnBx7g2) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 3:34 |

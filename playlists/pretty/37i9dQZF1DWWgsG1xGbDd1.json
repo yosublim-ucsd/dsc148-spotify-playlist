@@ -1,12 +1,12 @@
 {
   "description": "You feel the sun on your face. ",
-  "num_followers": 120153,
+  "num_followers": 120224,
   "original_name": "Vintage Vibes: Sunny Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWU5ZWNjYjViZTAyMDEwNjU3MTdkYTYzNWRiMWE1MWI0MTMxYmM3",
+  "snapshot_id": "MCw5ZTQ1MzQwMWNlZDBiZjQ0ODBjMWU0ZWM1ODEyMzhlNzJiNGYwYTQ0",
   "tracks": [
     {
       "added_at": "2021-04-23 09:55:04",
@@ -39,22 +39,6 @@
       "duration_ms": 197666,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Freddie McGregor: The Anthology",
-        "url": "https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf"
-      },
-      "artists": [
-        {
-          "name": "Freddie McGregor",
-          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Bobby Babylon",
-      "url": "https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -107,22 +91,6 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "Buffalo Soldier",
-      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
         "name": "Alton & Hortense Ellis",
         "url": "https://open.spotify.com/album/2Q8BPKtSNcI3YHc0gHtW0q"
       },
@@ -135,6 +103,22 @@
       "duration_ms": 198000,
       "name": "People Make the World Go Round",
       "url": "https://open.spotify.com/track/1XMBtQ6S7DJoj1FDLpFBgq"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "Buffalo Soldier",
+      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -251,22 +235,6 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 256239,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
         "name": "Reggae For House Parties",
         "url": "https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c"
       },
@@ -283,6 +251,22 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 256239,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
         "name": "Fat Back Ska, Vol. 2",
         "url": "https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 250360,
       "name": "Freedom Sounds",
       "url": "https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Bobby Bobylon: Deluxe Edition",
+        "url": "https://open.spotify.com/album/1NhP0Jn5grdBKwsRWx8L4x"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Bobby Bobylon",
+      "url": "https://open.spotify.com/track/3t0VvMqwrXM4RgrBYlB235"
     },
     {
       "added_at": "2021-04-23 09:55:04",

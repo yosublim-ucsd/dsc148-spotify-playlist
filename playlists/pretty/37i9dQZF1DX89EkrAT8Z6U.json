@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 573211,
+  "num_followers": 574637,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmIzMWRhY2Q4NGE1ZTk4MjlkYjIyZmZjYjRhZDE1NTFjMGExZjYz",
+  "snapshot_id": "MCw3Njc5MTc1NTJiNjdmZTg0NTc5NjhiM2IzNTU1NGU1YzNjN2E0YWUw",
   "tracks": [
     {
       "added_at": "2023-09-06 17:53:17",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "JoJo Pose",
-        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo Fresh",
-          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
-        }
-      ],
-      "duration_ms": 105333,
-      "name": "JoJo Pose",
-      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "DONNA",
         "url": "https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 158710,
       "name": "CHROME BERETTA",
       "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "JoJo Pose",
+        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo Fresh",
+          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
+        }
+      ],
+      "duration_ms": 105333,
+      "name": "JoJo Pose",
+      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
+        "name": "Break Shit",
+        "url": "https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 95483,
+      "name": "Break Shit",
+      "url": "https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
         "name": "MK Plus Ultra",
         "url": "https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 139910,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "Break Shit",
-        "url": "https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        }
-      ],
-      "duration_ms": 95483,
-      "name": "Break Shit",
-      "url": "https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j"
     }
   ],
   "unique_name": "sh\u014dnen",

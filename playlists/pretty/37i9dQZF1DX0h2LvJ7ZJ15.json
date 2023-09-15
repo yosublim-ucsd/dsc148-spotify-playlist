@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1015007,
+  "num_followers": 1017656,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjA2N2M0ZmFiNTFjNjAzZjFkNTllNzhmZDM4NDExYjVmYTVhMjMy",
+  "snapshot_id": "MCxkMDNkOTc3YjgyZjA1NzQ2YjI4YTVmOTBkYjUwMWRjMDk0YWU1ZTll",
   "tracks": [
     {
       "added_at": "2023-08-03 13:04:48",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-03 13:04:48",
       "album": {
-        "name": "Go (Remixes)",
-        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "go - Lower & Slower",
-      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
-    },
-    {
-      "added_at": "2023-08-03 13:04:48",
-      "album": {
         "name": "Vision (Slowed)",
         "url": "https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh"
       },
@@ -899,30 +883,42 @@
     {
       "added_at": "2023-08-03 13:04:48",
       "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) [Slowed + Reverb]",
-        "url": "https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC"
+        "name": "Go (Remixes)",
+        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "xxtristanxo",
-          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 138646,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz"
+      "duration_ms": 224000,
+      "name": "go - Lower & Slower",
+      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "Unstoppable (The Remixes)",
+        "url": "https://open.spotify.com/album/0o83iaAMM8MAPQ1LivQbtU"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        },
+        {
+          "name": "slater",
+          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
+        }
+      ],
+      "duration_ms": 252750,
+      "name": "Unstoppable - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/6UvgVaHDtycFqUM1LPxhxu"
     }
   ],
   "unique_name": "slowed and reverbed",

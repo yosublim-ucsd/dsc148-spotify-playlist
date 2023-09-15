@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Wilkinson",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status, Hedex",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -4922,6 +4922,32 @@
       "duration_ms": 299466,
       "name": "Limb By Limb - DJ SS Remix",
       "url": "https://open.spotify.com/track/7aMmnUhaQdRmBoV2pC17GK"
+    },
+    {
+      "album": {
+        "name": "Liquor & Cigarettes (feat. ArrDee)",
+        "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "Liquor & Cigarettes (feat. ArrDee)",
+      "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
     },
     {
       "album": {
@@ -9874,7 +9900,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 197142,
       "name": "Y'all Ready For Dis",
       "url": "https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom"

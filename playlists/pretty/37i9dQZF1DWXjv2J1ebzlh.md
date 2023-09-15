@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,400 likes - 1,175 songs - 3 day 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,435 likes - 1,175 songs - 3 day 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -548,7 +548,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 538 | [Brunch With Suki](https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Sketches From An Island 2](https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9) | 3:44 |
 | 539 | [Mi Swing es Tropical](https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3) | 3:42 |
 | 540 | [Óyeme mamá \- Remastered](https://open.spotify.com/track/6heFoEvSziwH4yhlpjEOGR) | [Bob Azzam](https://open.spotify.com/artist/6aHHLKbMeqAmTkdwcogHjE), [Miny Gerard](https://open.spotify.com/artist/5URopjR9yCNq7HoH16iimi) | [Ali Baba Twist \(Remastered\)](https://open.spotify.com/album/257IHylM8z0MccqQQTJMjM) | 2:22 |
-| 541 | [Lontano, lontano](https://open.spotify.com/track/7FyDX9fePRaMSnOosfOZ4T) | [Luigi Tenco](https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK) | [Lontano, lontano nel tempo](https://open.spotify.com/album/44vAlFlydCLj7aDbMObDYE) | 2:44 |
+| 541 | [Lontano Lontano](https://open.spotify.com/track/4ZYGEZv0CaH3cRqM9N1yx2) | [Luigi Tenco](https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK) | [Super Best](https://open.spotify.com/album/3JZLgure5oGqk29vpo7AQv) | 2:45 |
 | 542 | [El Carretero](https://open.spotify.com/track/7qxk3J7GsdDPWgoGtc7rCv) | [Guillermo Portabales](https://open.spotify.com/artist/5tU4QY77fd3PavzBZvM3bJ) | [Aquellas Lindas Melodías](https://open.spotify.com/album/6du8B3YQfMOeVqsosckAkm) | 3:10 |
 | 543 | [Ta Goumara Ki Apidia \(Berries And Pears\)](https://open.spotify.com/track/5aLa1d4PKhA1aEfj7j08Cm) | [Tassos Chalkias](https://open.spotify.com/artist/0DaAqsG59w7BIlmkGqM3lB), [Τάσος Χαλκιάς](https://open.spotify.com/artist/0UDej84yFql8T3E2oAQA9V) | [Divine Reeds](https://open.spotify.com/album/1ClJ09EtIM2rIfoTrRvLnu) | 3:02 |
 | 544 | [Carolina, Carol Bela](https://open.spotify.com/track/5u496fy6Ru5GLZgOnloFTd) | [Os Brazoes](https://open.spotify.com/artist/6YyTvidUn2EXirwMvrYkPF) | [Os Brazões](https://open.spotify.com/album/53bKRuFx3J3dthjlT1xzpD) | 2:06 |
@@ -1184,4 +1184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1174 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1175 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCwwMjQwZGQ5MjE5MzdjNzJmZGE1MzRkYmI5N2M2ZjBkN2FmNTgxMGU1`
+Snapshot ID: `MCxjZWE3NmM2Mzc1ZmY4M2FlMWIxYjA2MjFkNGQ5ODk4YzZlMzE4NTRm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Awdella",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Maulana Ardiansyah",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -1419,6 +1419,28 @@
     },
     {
       "album": {
+        "name": "Ku Tak Bisa (Live Ska Reggae)",
+        "url": "https://open.spotify.com/album/49iF2rvuxoIWLORKzwHozO"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        },
+        {
+          "name": "Ochi Alvira",
+          "url": "https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285791,
+      "name": "Ku Tak Bisa - Live Ska Reggae",
+      "url": "https://open.spotify.com/track/1bWf6khDmlEU6TrGihA7v8"
+    },
+    {
+      "album": {
         "name": "Perspektif",
         "url": "https://open.spotify.com/album/2B5g8Dua4wmu7JOnNX9e8K"
       },
@@ -2436,6 +2458,24 @@
       "duration_ms": 270055,
       "name": "Seribu Kali Cinta",
       "url": "https://open.spotify.com/track/3SrbdfVE2DGOUaHG3kd7rZ"
+    },
+    {
+      "album": {
+        "name": "Sia Sia Merindu (Live Ska Reggae)",
+        "url": "https://open.spotify.com/album/0udbI2HzOdI6RLliHbnHhk"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303348,
+      "name": "Sia Sia Merindu - (Live Ska Reggae)",
+      "url": "https://open.spotify.com/track/1A2f3LAchcQ1ayhAt3yx3z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,568 songs - 3 day 12 hr 37 min
+1,569 songs - 3 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-05 | 2022-04-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-05-15 |
 | [Bambina \(WTF\)](https://open.spotify.com/track/3BABTkGs0AIECWbwswLegi) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt) | [Bambina \(WTF\)](https://open.spotify.com/album/1zBJqSpdKCDaJ6PGIiyU6H) | 3:44 | 2022-03-05 | 2022-04-05 |
-| [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-23 |  |
+| [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-23 | 2023-09-15 |
 | [Basilikanlehtiä](https://open.spotify.com/track/59dLug7VWleLt2vqUjqZYW) | [Paperi T](https://open.spotify.com/artist/3rOOythoKLiiyXJYh3XIMu), [Ringa Manner](https://open.spotify.com/artist/7y3uvzm0oMkZ9HAUOFyumv) | [Basilikanlehtiä](https://open.spotify.com/album/2hlU1AL8VixQMCQbrZoMDs) | 3:03 | 2023-03-04 | 2023-03-12 |
 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 | 2023-06-24 | 2023-06-27 |
 | [Because Of You](https://open.spotify.com/track/320jqrATpl9762bCQkmLDf) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Because Of You](https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu) | 2:59 | 2023-05-15 | 2023-05-19 |
@@ -711,6 +711,7 @@
 | [Kääntöpuolii](https://open.spotify.com/track/5LIJUyoE2btHHMoBY43NbT) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Kääntöpuolii](https://open.spotify.com/album/1QW7sJqmVZdyyflE7dG4Qm) | 3:02 | 2022-09-24 | 2022-10-09 |
 | [Köyhä laulaa \(feat\. Diandra\)](https://open.spotify.com/track/3csvI7Z6Zi0uiQbbpUkvhE) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Diandra](https://open.spotify.com/artist/1Pk1wOWlZbizyfAptxFHxg) | [Köyhä laulaa \(feat\. Diandra\)](https://open.spotify.com/album/1qmiOUIRqSr0yytDlg1Hnw) | 2:43 | 2023-06-17 |  |
 | [LA PAURA DEL BUIO](https://open.spotify.com/track/2l7V3AuTxGuswKjGovaSEv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:29 | 2021-05-29 | 2021-05-30 |
+| [LACOSTE](https://open.spotify.com/track/2jZMZM4VRQ4ROgw8GnL9UC) | [Ax & Huligan](https://open.spotify.com/artist/3jwBl4QHMabizUrnfyKaaq) | [LACOSTE](https://open.spotify.com/album/6dsrYa4H5YG3rB9Y9P4JQT) | 2:43 | 2023-09-14 |  |
 | [Lady Domina](https://open.spotify.com/track/2f6H6tU0BRpAMBTr0QQZ2c) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Lady Domina](https://open.spotify.com/album/0PDYfPl40HLz4SHsrzz1sb) | 3:26 | 2021-03-27\* | 2021-05-05 |
 | [Lady Domina](https://open.spotify.com/track/3MKOwfLUjNj0lziLVp7sAK) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 3:26 | 2021-09-12 | 2021-09-26 |
 | [Laiffii](https://open.spotify.com/track/7fQRZtAla6g2k57LTizQkI) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Mun tapa pelata](https://open.spotify.com/album/27Khq95w5Gzg522w4It8TK) | 3:19 | 2022-10-09 | 2022-10-13 |

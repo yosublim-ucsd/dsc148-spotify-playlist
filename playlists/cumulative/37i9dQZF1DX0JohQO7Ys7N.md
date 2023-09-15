@@ -2,7 +2,7 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Xenia Manasseh
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Nviiri The Storyteller & Bensoul
 
 137 songs - 7 hr 41 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Sen Morimoto Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Mohini Dey Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "Against the Current",
+        "url": "https://open.spotify.com/album/67328OLYIX861NVfQv8rOM"
+      },
+      "artists": [
+        {
+          "name": "Zac Zinger",
+          "url": "https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328208,
+      "name": "Against the Current",
+      "url": "https://open.spotify.com/track/5gylvM6VmhSAiwWiyc8HH1"
+    },
+    {
+      "album": {
         "name": "Aguadulce",
         "url": "https://open.spotify.com/album/3NUWfSDfBIXYxJR7p3frv0"
       },
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 176368,
       "name": "Asawari",
       "url": "https://open.spotify.com/track/6HWga9JFQbfbUA14FbIQ1l"
@@ -2034,6 +2052,24 @@
       "duration_ms": 132500,
       "name": "BAM!",
       "url": "https://open.spotify.com/track/47ddPZaTtDaZXsSlN7odQP"
+    },
+    {
+      "album": {
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/0zpo1VvclMjpCKLX3LfHv7"
+      },
+      "artists": [
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192906,
+      "name": "Baolu",
+      "url": "https://open.spotify.com/track/3uf5GelkcZwEyuYQkQOOOQ"
     },
     {
       "album": {
@@ -4207,6 +4243,40 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5FmLzaMLG8dIHvYNpJrgWu"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Terreon Gully",
+          "url": "https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P"
+        },
+        {
+          "name": "Dario Chiazzolino",
+          "url": "https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327503,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3B5Wk1AhqKSSB4EQAP7WBO"
+    },
+    {
+      "album": {
         "name": "Tremors in the Static",
         "url": "https://open.spotify.com/album/32pAFO5XYKEOVcodlL4uY7"
       },
@@ -4450,7 +4520,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 255307,
       "name": "Como El Viento",
       "url": "https://open.spotify.com/track/1btzPRLIQCbQgni2IZ7T1n"
@@ -5082,6 +5152,28 @@
       "duration_ms": 369563,
       "name": "Dark Blues",
       "url": "https://open.spotify.com/track/5ZM52Ilr4LgDy0YDTFAclC"
+    },
+    {
+      "album": {
+        "name": "Dark Days Are Done",
+        "url": "https://open.spotify.com/album/0MwQNJ3VI3vLCvGCKDSBfX"
+      },
+      "artists": [
+        {
+          "name": "Rudi Creswick",
+          "url": "https://open.spotify.com/artist/1u238rg67yiJYzLpylTeCG"
+        },
+        {
+          "name": "Ni Maxine",
+          "url": "https://open.spotify.com/artist/60iNWYBsD9L0ucxpSbxpgS"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246546,
+      "name": "Dark Days Are Done",
+      "url": "https://open.spotify.com/track/5XJw265ihad2JxCt1nHY9K"
     },
     {
       "album": {
@@ -6054,7 +6146,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 188132,
       "name": "Du-Rag",
       "url": "https://open.spotify.com/track/0X9jMXZlMwqTYINyvbezK9"
@@ -8663,6 +8755,24 @@
     },
     {
       "album": {
+        "name": "Hard Time",
+        "url": "https://open.spotify.com/album/3SHQ9U2mCbBntwUWyKyljx"
+      },
+      "artists": [
+        {
+          "name": "Apollo Suns",
+          "url": "https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228909,
+      "name": "Hard Time",
+      "url": "https://open.spotify.com/track/16ybC5S5WA0boJGBb6I8FY"
+    },
+    {
+      "album": {
         "name": "Harwood Alley Song",
         "url": "https://open.spotify.com/album/05hrhLI8YAlrb7ffnWN3m4"
       },
@@ -9114,6 +9224,40 @@
       "duration_ms": 244680,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/4jnY1m7dqVG9NMWbc9xG4g"
+    },
+    {
+      "album": {
+        "name": "STEPS OF THE BLUE",
+        "url": "https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u4e95 \u79c0\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ"
+        },
+        {
+          "name": "\u4e2d\u6797\u4fca\u4e5f",
+          "url": "https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc"
+        },
+        {
+          "name": "\u517c\u677e \u8846",
+          "url": "https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1"
+        },
+        {
+          "name": "\u5c0f\u5ddd\u664b\u5e73",
+          "url": "https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7"
+        },
+        {
+          "name": "\u5c0f\u7530\u6850\u548c\u5bdb",
+          "url": "https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370493,
+      "name": "HYPNOSIS",
+      "url": "https://open.spotify.com/track/1BN4yBmqYDOAWRPtEfNjax"
     },
     {
       "album": {
@@ -10224,6 +10368,24 @@
       "duration_ms": 32608,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0SiLR8SvPyeLFYLMmuITqe"
+    },
+    {
+      "album": {
+        "name": "MOHINI DEY",
+        "url": "https://open.spotify.com/album/0JO8dpHTSkyYs7XpNCT04D"
+      },
+      "artists": [
+        {
+          "name": "Mohini Dey",
+          "url": "https://open.spotify.com/artist/3jGVx8ZyTVFWokbgl6BDdo"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328850,
+      "name": "Introverted Soul",
+      "url": "https://open.spotify.com/track/1UtSgVxpPmmTXZSZHLkSG5"
     },
     {
       "album": {
@@ -11586,7 +11748,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 338946,
       "name": "Last Hour",
       "url": "https://open.spotify.com/track/1wqkwHmmgjlmrvfLQPPhwg"
@@ -12984,7 +13146,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 243058,
       "name": "Maurice",
       "url": "https://open.spotify.com/track/5x3R65K1vpFrdtorg5oD9D"
@@ -13298,7 +13460,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 396000,
       "name": "Middle Ground",
       "url": "https://open.spotify.com/track/2O6SDo3uFiZMLt2GLtTvWI"
@@ -13482,6 +13644,24 @@
       "duration_ms": 226730,
       "name": "Milonga",
       "url": "https://open.spotify.com/track/11XMMojJjPScvfPYP0warO"
+    },
+    {
+      "album": {
+        "name": "Oumuamua",
+        "url": "https://open.spotify.com/album/6dcPVoKO70IIa5cSnjCtVx"
+      },
+      "artists": [
+        {
+          "name": "Golden Mean",
+          "url": "https://open.spotify.com/artist/4A8byZgEqs8YRqUQ2HMmhA"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88683,
+      "name": "Miniature",
+      "url": "https://open.spotify.com/track/2jcwTNEjZxcK8hV4ZALiJD"
     },
     {
       "album": {
@@ -16200,7 +16380,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 279586,
       "name": "Pira\u00f1a",
       "url": "https://open.spotify.com/track/0vEW5eJdKqXYtXeHWQyqzQ"
@@ -17362,7 +17542,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 223000,
       "name": "resketch",
       "url": "https://open.spotify.com/track/08TJVPBVXL871ukrtwfIs5"
@@ -17438,6 +17618,24 @@
       "duration_ms": 340000,
       "name": "Resurgence",
       "url": "https://open.spotify.com/track/5qtmaZ4LY7yXy5Iv556dZX"
+    },
+    {
+      "album": {
+        "name": "Return To Centaurus",
+        "url": "https://open.spotify.com/album/259Nkot64XM40bU3tEyQFb"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582566,
+      "name": "Return To Centaurus",
+      "url": "https://open.spotify.com/track/7cNuV7yVldD6vj1rdAKUBw"
     },
     {
       "album": {
@@ -17768,6 +17966,24 @@
       "duration_ms": 396033,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/4dqH5N2vU9q7z2UDum903X"
+    },
+    {
+      "album": {
+        "name": "Routes To Knowledge",
+        "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
+      },
+      "artists": [
+        {
+          "name": "The Golden Eternity",
+          "url": "https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177201,
+      "name": "Routes To Knowledge",
+      "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
     },
     {
       "album": {
@@ -18248,7 +18464,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 228219,
       "name": "Serpentine",
       "url": "https://open.spotify.com/track/3exot3dINaZOhGhw9kL9vX"
@@ -18764,6 +18980,24 @@
       "duration_ms": 195292,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2UgnC0W64XIBJCZzwn2JYk"
+    },
+    {
+      "album": {
+        "name": "Love & Life",
+        "url": "https://open.spotify.com/album/7nP1xklE0UrB0wqDp6C2gl"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419840,
+      "name": "Slow Down Look Around",
+      "url": "https://open.spotify.com/track/68zqnkWb08lWCBBqs8o24X"
     },
     {
       "album": {
@@ -19586,7 +19820,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 314446,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2l8nWLkLuQTrRgsuGpQkT1"
@@ -21307,6 +21541,28 @@
     },
     {
       "album": {
+        "name": "They Forbid Our Love",
+        "url": "https://open.spotify.com/album/09TmDF1DLew2pA4Tz4yi3p"
+      },
+      "artists": [
+        {
+          "name": "Rachelle Vanleeuwen",
+          "url": "https://open.spotify.com/artist/376UH2QKNnQcVieekEBFFT"
+        },
+        {
+          "name": "Bossa & Bose",
+          "url": "https://open.spotify.com/artist/41Jm51lh9fzqOBW18to4Ov"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223508,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/7dnOB4RX7GTyXV5QfhZ6w6"
+    },
+    {
+      "album": {
         "name": "First Quartet",
         "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
       },
@@ -21852,7 +22108,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 414355,
       "name": "The Way Things Used to Be",
       "url": "https://open.spotify.com/track/3UscXl5jHftt87jRNBVyQM"
@@ -23960,7 +24216,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 95508,
       "name": "Weird Funk Wout Lyrics",
       "url": "https://open.spotify.com/track/7oN2Jvf4lbXH3cH65kGnZf"

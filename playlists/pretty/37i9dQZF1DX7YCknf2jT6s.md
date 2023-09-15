@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Irreversible Entanglements
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,069 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,183 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Weezy](https://open.spotify.com/track/59quKh2wIPL3bom9F5MjI5) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [Weezy](https://open.spotify.com/album/1JYqRJ8grwAazaCF5OmMcL) | 7:11 |
 | 100 | [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 |
 
-Snapshot ID: `MCxlZjdjOWE5OGY2NWNhMWZiNTI0YjFkZmNhYTI0M2NlNWVkYTUyMTMz`
+Snapshot ID: `MCw1NGYxNmM3YmQ4OWQyOTgxMmViYzZkMjUwZTIxODM5NThlODIwMTU5`

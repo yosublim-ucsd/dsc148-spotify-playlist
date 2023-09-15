@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Kika Boom, Kaya Conky",
-  "num_followers": 223581,
+  "num_followers": 223628,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzNjMDVkNmNkNDc5YzdlNzQ2ZDRiZTE2YjljZDUwM2JmNjMyY2Vj",
+  "snapshot_id": "MCw3YjcyNGE2YzEzNGI2ZTQ5OTE4NWRkZTJjYmQ3M2I5ZGRiZWI4NzFl",
   "tracks": [
     {
       "added_at": "2023-09-02 00:04:15",
@@ -619,6 +619,26 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
+        "name": "Aladim",
+        "url": "https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "duration_ms": 145588,
+      "name": "Aladim",
+      "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
         "name": "F\u00f3rmula",
         "url": "https://open.spotify.com/album/1ncmgUI98E7illDvzbQNt0"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 146086,
       "name": "F\u00f3rmula",
       "url": "https://open.spotify.com/track/6L7popTiDKKLHafG3X0ZSF"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
-        "name": "Aladim",
-        "url": "https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj"
-      },
-      "artists": [
-        {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
-        },
-        {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
-        }
-      ],
-      "duration_ms": 145588,
-      "name": "Aladim",
-      "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
     },
     {
       "added_at": "2023-09-02 00:04:15",

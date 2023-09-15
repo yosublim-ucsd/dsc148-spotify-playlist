@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 47373,
+  "num_followers": 47385,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzE5N2U5NmM3NjczOTVkYTgzMTFmN2M0OTk5MDZhNDE4NjZkOGFk",
+  "snapshot_id": "MCxkN2E4ZTBlNDJiYTNlYmE1MGJjNDkzZmY5NzVkNzJhZWQwNmFhOGRm",
   "tracks": [
     {
       "added_at": "2023-09-06 11:45:24",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-09-06 11:45:24",
       "album": {
-        "name": "Maskhara",
-        "url": "https://open.spotify.com/album/7bXGhJWxIhnFvwDKr9vqHx"
+        "name": "Mariam",
+        "url": "https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI"
       },
       "artists": [
         {
-          "name": "Bashar Murad",
-          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+          "name": "ELCONTAINER",
+          "url": "https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z"
         }
       ],
-      "duration_ms": 186411,
-      "name": "Maskhara",
-      "url": "https://open.spotify.com/track/7602Aziy9m0JAcnzKX8mcC"
+      "duration_ms": 235000,
+      "name": "Mariam",
+      "url": "https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd"
     },
     {
       "added_at": "2023-09-06 11:45:24",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-09-06 11:45:24",
       "album": {
-        "name": "Mariam",
-        "url": "https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI"
+        "name": "Maskhara",
+        "url": "https://open.spotify.com/album/7bXGhJWxIhnFvwDKr9vqHx"
       },
       "artists": [
         {
-          "name": "ELCONTAINER",
-          "url": "https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z"
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Mariam",
-      "url": "https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd"
+      "duration_ms": 186411,
+      "name": "Maskhara",
+      "url": "https://open.spotify.com/track/7602Aziy9m0JAcnzKX8mcC"
     },
     {
       "added_at": "2023-09-06 11:45:24",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-06 11:45:24",
       "album": {
-        "name": "Fattah Al Ward",
-        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Che Guevara",
-      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
-    },
-    {
-      "added_at": "2023-09-06 11:45:24",
-      "album": {
         "name": "Today Is the day",
         "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 151058,
       "name": "Today is the day",
       "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
+    },
+    {
+      "added_at": "2023-09-06 11:45:24",
+      "album": {
+        "name": "Fattah Al Ward",
+        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Che Guevara",
+      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
     },
     {
       "added_at": "2023-09-06 11:45:24",

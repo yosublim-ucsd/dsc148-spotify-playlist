@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-140 songs - 9 hr 15 min
+141 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,5 +148,6 @@
 | [耳の聞こえなくなった恋人とそのうたうたい](https://open.spotify.com/track/48ssyI0wm2iaMyRUV3wKGs) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [君に聞かせる物語](https://open.spotify.com/album/1pvG1ihTMac9pd6JKsMdbc) | 5:19 | 2022-04-26 | 2022-07-29 |
 | [英雄の歌](https://open.spotify.com/track/2V9vuPonpAqGzqCYXHT2ZW) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [世界が君を必要とする時が来たんだ/英雄の歌](https://open.spotify.com/album/4fKd56AlInqxf9Y99bBgiG) | 4:06 | 2022-04-26 | 2022-07-29 |
 | [酸素](https://open.spotify.com/track/5McAa6twIUx1O166bRugRe) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 5:02 | 2022-04-26 |  |
+| [黄金航路](https://open.spotify.com/track/0HEBnfrJ4ABLT09sDG1pco) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [黄金航路](https://open.spotify.com/album/6rNxeuwwDQxNywsGHaKGp3) | 3:21 | 2023-09-14 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

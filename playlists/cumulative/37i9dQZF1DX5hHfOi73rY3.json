@@ -1783,6 +1783,28 @@
     },
     {
       "album": {
+        "name": "Foreign Ororo (Special Edition)",
+        "url": "https://open.spotify.com/album/5wfam3DHsK7cduTO0VCHQB"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151229,
+      "name": "Rinse & Repeat",
+      "url": "https://open.spotify.com/track/6PUqoHHVVIdcdlKaCAHt23"
+    },
+    {
+      "album": {
         "name": "Rinse & Repeat",
         "url": "https://open.spotify.com/album/0mjQLxpw5AdIxWI4Jqpenn"
       },
@@ -1798,7 +1820,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 152600,
       "name": "Rinse & Repeat",
       "url": "https://open.spotify.com/track/5oYYYDhyPFPXjAn4TzymOC"

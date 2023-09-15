@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Set the bars high with Malayalam Hip-Hop!\nCover : Sreenath Bhasi",
+  "description": "Set the bars high with Malayalam Hip-Hop!\nCover : Parimal Shais, MC Couper, Thirumali & Hanumankind",
   "name": "Hip-Hop Malayalam",
   "tracks": [
     {
@@ -298,6 +298,36 @@
       "duration_ms": 224250,
       "name": "Avastha",
       "url": "https://open.spotify.com/track/34xTAbD9NbfABNGwoAkfUH"
+    },
+    {
+      "album": {
+        "name": "Ayyayyo",
+        "url": "https://open.spotify.com/album/4AUgdGeQBTqfPpPfbvaDJf"
+      },
+      "artists": [
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        },
+        {
+          "name": "MC Couper",
+          "url": "https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB"
+        },
+        {
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220253,
+      "name": "Ayyayyo",
+      "url": "https://open.spotify.com/track/5yX1n7GniBnjMlrS5GairC"
     },
     {
       "album": {
@@ -962,7 +992,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 123355,
       "name": "KYA",
       "url": "https://open.spotify.com/track/5GtOlPfo6yKyiASYo9YQrc"
@@ -1378,7 +1408,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 153750,
       "name": "Oorakkudukku",
       "url": "https://open.spotify.com/track/6OPImTghaIDMXtdqDz99yL"
@@ -2138,7 +2168,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4jAcGLximA53NQ1DwOPM9S"

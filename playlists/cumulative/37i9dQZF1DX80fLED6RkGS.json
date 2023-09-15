@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Bidii Na Ujanja",
+        "url": "https://open.spotify.com/album/63aVh132tMv0Gjxj6QNpPK"
+      },
+      "artists": [
+        {
+          "name": "Ochungulo Family",
+          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Bidii Na Ujanja",
+      "url": "https://open.spotify.com/track/171r8LQDLAvmGvykZNOa2f"
+    },
+    {
+      "album": {
         "name": "Big Bazu",
         "url": "https://open.spotify.com/album/3vd6etKHS90srBicgqOkx8"
       },
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 134843,
       "name": "Kata Simu Tupo Site",
       "url": "https://open.spotify.com/track/0VMGcgmsopiILdjbAeWa9O"
@@ -3356,6 +3374,28 @@
       "duration_ms": 177743,
       "name": "Matire",
       "url": "https://open.spotify.com/track/0KsqSRSSsKWXO6iyqfev1b"
+    },
+    {
+      "album": {
+        "name": "Matokeo",
+        "url": "https://open.spotify.com/album/1IYKUDzq8smxvyHaNKyz9W"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "BOUTROSS MUNENE",
+          "url": "https://open.spotify.com/artist/2FYVwXN9GPxa5yYcMoQiMm"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234947,
+      "name": "Matokeo",
+      "url": "https://open.spotify.com/track/1fcist535HjFco6ntIxKEH"
     },
     {
       "album": {
@@ -4914,7 +4954,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 149933,
       "name": "Rich Rich Man",
       "url": "https://open.spotify.com/track/3P4DNpkmokl9jNpOhnYooK"

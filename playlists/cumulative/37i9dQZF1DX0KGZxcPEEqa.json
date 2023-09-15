@@ -3649,6 +3649,32 @@
     },
     {
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/7A9I9BrNylVCqXzgN3Y6qi"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248156,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/73g0qO3PkUjLH7vov3Fbuz"
+    },
+    {
+      "album": {
         "name": "Feel Good (feat. Daya)",
         "url": "https://open.spotify.com/album/1fP5UnRB0WNWNHSZRHsRCR"
       },
@@ -3668,7 +3694,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 248156,
       "name": "Feel Good (feat. Daya)",
       "url": "https://open.spotify.com/track/0Ev562zA4pmUsBqjxsxxdx"

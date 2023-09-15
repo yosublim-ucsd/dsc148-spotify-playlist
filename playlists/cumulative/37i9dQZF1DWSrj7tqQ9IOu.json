@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Emma Hoet",
+  "description": "The best French indie tracks right now. Cover: Z\u00e9lie",
   "name": "Made in France",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 174545,
       "name": "a ride",
       "url": "https://open.spotify.com/track/7zIynZNxk2CBmIkjp1CcjP"
+    },
+    {
+      "album": {
+        "name": "A Taste Of Possibility",
+        "url": "https://open.spotify.com/album/4SiCcKUuHVHXJwRcPsb2Yf"
+      },
+      "artists": [
+        {
+          "name": "Keep Dancing Inc",
+          "url": "https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226640,
+      "name": "A Taste Of Possibility",
+      "url": "https://open.spotify.com/track/09qAEZgB4KcFixRPilvca1"
     },
     {
       "album": {
@@ -511,6 +529,24 @@
     },
     {
       "album": {
+        "name": "bb l'eau sal\u00e9e <3",
+        "url": "https://open.spotify.com/album/7vZ6cKjPGMmx8BIlWifr0n"
+      },
+      "artists": [
+        {
+          "name": "BARON.E",
+          "url": "https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "bb l'eau sal\u00e9e <3",
+      "url": "https://open.spotify.com/track/6qMeuBJkaGj9rGDkw550pV"
+    },
+    {
+      "album": {
         "name": "BB toi & moi",
         "url": "https://open.spotify.com/album/3kV1bmXtcOSdv8nEyZpuBv"
       },
@@ -682,6 +718,28 @@
       "duration_ms": 265000,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2zkXYQrGkffMqvQvYrtxg8"
+    },
+    {
+      "album": {
+        "name": "Burning House",
+        "url": "https://open.spotify.com/album/6De2kkNHabZmLoTcTdLvf8"
+      },
+      "artists": [
+        {
+          "name": "Peter and the Roses",
+          "url": "https://open.spotify.com/artist/29HCxaihPBQDqCyDxbaWjE"
+        },
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252203,
+      "name": "Burning House",
+      "url": "https://open.spotify.com/track/2VHE71w44Y2xjA8pSoN8tp"
     },
     {
       "album": {
@@ -1086,7 +1144,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 157426,
       "name": "coraz\u00f3n caramelo",
       "url": "https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj"
@@ -1496,7 +1554,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 218520,
       "name": "D\u00e9cla",
       "url": "https://open.spotify.com/track/05LxLrui38KJAD1Ui1yGqN"
@@ -2441,6 +2499,28 @@
     },
     {
       "album": {
+        "name": "Honn\u00eate",
+        "url": "https://open.spotify.com/album/5e7f0QJkEgwda9ke50M43K"
+      },
+      "artists": [
+        {
+          "name": "Mattyeux",
+          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179920,
+      "name": "Honn\u00eate",
+      "url": "https://open.spotify.com/track/38rGEAgvkS19rOmPjV4DPx"
+    },
+    {
+      "album": {
         "name": "Hot Summer",
         "url": "https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh"
       },
@@ -2962,7 +3042,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 181712,
       "name": "Kic\u00e9Kic\u00e9",
       "url": "https://open.spotify.com/track/2MPZECEDHleHucVAsDdeoD"
@@ -4602,7 +4682,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
@@ -4808,6 +4888,24 @@
       "duration_ms": 202893,
       "name": "Pacific Ave",
       "url": "https://open.spotify.com/track/4sUznhMUu1NCVZYuO5mVkF"
+    },
+    {
+      "album": {
+        "name": "Palmiers rivi\u00e8res",
+        "url": "https://open.spotify.com/album/77MDV4dCwp4U5ctsl6K5gL"
+      },
+      "artists": [
+        {
+          "name": "Napkey",
+          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173193,
+      "name": "Palmiers rivi\u00e8res",
+      "url": "https://open.spotify.com/track/7ySvklbmgkHsyrWwcHzY2U"
     },
     {
       "album": {
@@ -6284,7 +6382,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 235386,
       "name": "The Sun is Up",
       "url": "https://open.spotify.com/track/5L3nOOVZV7V8PeVkAfYYbt"

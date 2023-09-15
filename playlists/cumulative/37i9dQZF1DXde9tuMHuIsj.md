@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Hades66
 
-287 songs - 16 hr 34 min
+288 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Mention](https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra 2](https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ) | 3:03 | 2023-01-02 | 2023-07-01 |
 | [Mi Ego](https://open.spotify.com/track/7kMEULSicpabScwQenlnK7) | [El Pinche Valentin](https://open.spotify.com/artist/7EquQBFR1KIRdtc9wtq77m), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Anubis](https://open.spotify.com/album/4dP6IVaVS03eOk30hJqLby) | 2:25 | 2022-04-01 | 2022-05-04 |
 | [Mi Vicio](https://open.spotify.com/track/67VUbFHrTusJgK0JOofLXU) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Mi Vicio](https://open.spotify.com/album/1amIwstC3mDDvcgCiew7zB) | 3:41 | 2023-01-20 | 2023-05-27 |
-| [Mi Vicio \- Remix](https://open.spotify.com/track/7tpeqecMwVxj1iQHDQt2TI) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 4:44 | 2023-05-26 |  |
+| [Mi Vicio \- Remix](https://open.spotify.com/track/7tpeqecMwVxj1iQHDQt2TI) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 4:44 | 2023-05-26 | 2023-09-15 |
 | [Miko](https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Miko](https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo) | 2:15 | 2023-05-12 | 2023-07-01 |
 | [Milano Town \(with DJ Drama, Shiva & Murda Beatz\)](https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 3:51 | 2023-05-26 | 2023-08-19 |
 | [Milloneta](https://open.spotify.com/track/6U2fTWEr4MffXBDSMr2ML2) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Apokalypsis 2](https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH) | 3:38 | 2022-03-18 | 2022-05-04 |
@@ -197,6 +197,7 @@
 | [Naiky](https://open.spotify.com/track/4mjCmn2Mepi8NpkjWicWwf) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Naiky](https://open.spotify.com/album/2NWK95vxT1vpCMW8GIa4Qe) | 2:36 | 2022-08-05 | 2023-02-11 |
 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 | 2022-05-03 | 2023-02-11 |
 | [Nena Trampa](https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:27 | 2022-06-03 | 2023-02-11 |
+| [Neymar \- Remix](https://open.spotify.com/track/1pkfnn0nqvaBaoiT29pvwF) | [Jan Blakeee](https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Diley](https://open.spotify.com/artist/2xnEIFXI7V22eccHVveexp) | [Neymar \(Remix\)](https://open.spotify.com/album/4p4nlwIbNxYl0CUqNwgpUQ) | 3:08 | 2023-09-08 |  |
 | [Nikes, Diamantes y Skinnies](https://open.spotify.com/track/5uN1KfOgIAEKcUjANVlHvM) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Nikes, Diamantes y Skinnies](https://open.spotify.com/album/3YyOGCZR0MOHPkxxLG57F6) | 3:00 | 2022-03-18 | 2023-02-11 |
 | [No Creyeron](https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [No Creyeron](https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25) | 2:30 | 2022-05-03 | 2023-02-11 |
 | [No Hitter](https://open.spotify.com/track/6lfR9MIXbfSE6s10w3fHhA) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [No Hitter](https://open.spotify.com/album/23zdnj9x2xFuNNBgPxUYGi) | 2:44 | 2022-09-09 | 2023-07-01 |

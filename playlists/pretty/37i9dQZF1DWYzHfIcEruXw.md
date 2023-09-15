@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,906 likes - 66 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,038 likes - 66 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 49 | [Union](https://open.spotify.com/track/5lWjB3gZdGSMNOY1AA7MDv) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Reunion](https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS) | 3:44 |
 | 50 | [ここだけの話](https://open.spotify.com/track/5akmSTTj0tX4bXnwka8fL1) | [Chatmonchy](https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc) | [チャットモンチー BEST〜2005\-2011〜](https://open.spotify.com/album/5AmFBptKbg5oQKSCHkwjhA) | 3:20 |
 | 51 | [Koi wo Shita nowa](https://open.spotify.com/track/4djnzEBxRzNkitxZRPGmzy) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Shimetta Natsu no Hajimari](https://open.spotify.com/album/6vpsmEKP8UPBJW8uzdY06r) | 6:00 |
-| 52 | [Songbirds](https://open.spotify.com/track/7bSd1aNSVD6XxyqxQXc1F6) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Songbirds](https://open.spotify.com/album/4Pb1Px7D4XtomO4qKjuXNc) | 5:33 |
+| 52 | [Songbirds](https://open.spotify.com/track/3z2yF9qSgolThZ8gINNYq6) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [WHALE LIVING](https://open.spotify.com/album/13LSam3N9VjYJU1bGf44UG) | 5:29 |
 | 53 | [Hello,world!](https://open.spotify.com/track/1YqVJ2YSgwxWpfuENocF2t) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Butterflies](https://open.spotify.com/album/7xEb9qTZuR3LMPETeHR1A5) | 4:08 |
 | 54 | [世界はあなたの色になる](https://open.spotify.com/track/7ynpWZgax9H43b9dWPU9wt) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [声明 / Still Alive](https://open.spotify.com/album/7edMjpLvwAPeYL2SxwyfkS) | 5:00 |
 | 55 | [I Love](https://open.spotify.com/track/1dn81uNv9YaiSkcN4ed0Ib) | [Azusa](https://open.spotify.com/artist/35jlPjvRx3pLt2yQYbFFRL) | [Azusa](https://open.spotify.com/album/7wNwrmYurpkiLdwd3uxkQw) | 4:23 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 65 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 |
 | 66 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
 
-Snapshot ID: `MCw4NjlkY2EyMTAzOTNmMWE1ODc4ZGJlNTRkYmNhOWJlOWI5MzZiNTVh`
+Snapshot ID: `MCw3ZmNmNWNiYTRmNDg5ZWFmODI5NDdjMWFhMmZjODg4ZmNmMGIxNjE4`

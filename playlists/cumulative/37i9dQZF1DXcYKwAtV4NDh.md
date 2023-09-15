@@ -4,7 +4,7 @@
 
 > A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-126 songs - 6 hr 23 min
+127 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Ring of Fire](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Ring Of Fire: The Best Of Johnny Cash](https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2) | 2:38 | 2020-10-14 |  |
 | [San Antonio Rose](https://open.spotify.com/track/0cZGEJpAvUkPaCRTd4g4Ew) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [San Antonio Rose](https://open.spotify.com/album/07mLD26DBfZKSHxr3deO2g) | 3:25 | 2020-10-14 |  |
 | [Seven Year Ache](https://open.spotify.com/track/3pnRd3epmXjorMfOaG4qGd) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Seven Year Ache](https://open.spotify.com/album/4FgXzkDie2opVddw91pH8K) | 3:15 | 2020-10-14 | 2023-07-13 |
-| [Seven Year Ache](https://open.spotify.com/track/1vNDmbf8AqmIys2RHBZmOo) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Hits 1979 \- 1989](https://open.spotify.com/album/3Bn77PH5xZ2QedRQM6DJPP) | 3:17 | 2023-01-13 |  |
+| [Seven Year Ache](https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Seven Year Ache](https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn) | 3:15 | 2023-01-13 |  |
+| [Seven Year Ache](https://open.spotify.com/track/1vNDmbf8AqmIys2RHBZmOo) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Hits 1979 \- 1989](https://open.spotify.com/album/3Bn77PH5xZ2QedRQM6DJPP) | 3:17 | 2023-01-13 | 2023-09-15 |
 | [She Thinks I Still Care](https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The New Favorites Of George Jones](https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR) | 2:34 | 2020-10-14 |  |
 | [She's In Love With The Boy](https://open.spotify.com/track/4EJvW4NHAk7TrIeX44jjXF) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Love Songs](https://open.spotify.com/album/3F3ssJx3jlQBOkD6EVM7Z1) | 4:05 | 2020-10-14 |  |
 | [Stand By Your Man \- Official Audio](https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Stand By Your Man](https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr) | 2:37 | 2020-10-14 |  |

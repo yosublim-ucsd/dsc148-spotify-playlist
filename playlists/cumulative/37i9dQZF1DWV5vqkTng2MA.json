@@ -906,7 +906,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 171468,
       "name": "Don't Want to Say Good-bye",
       "url": "https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 193066,
       "name": "How Bad We Need Each Other",
       "url": "https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz"
@@ -4032,6 +4032,24 @@
     {
       "album": {
         "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240973,
+      "name": "The Beachland Ballroom",
+      "url": "https://open.spotify.com/track/2rX97r2QjIXxHYjLAcGpSZ"
+    },
+    {
+      "album": {
+        "name": "CRAWLER",
         "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
       },
       "artists": [
@@ -4042,7 +4060,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 240973,
       "name": "The Beachland Ballroom",
       "url": "https://open.spotify.com/track/6numDs6jtM3BAVO2NRrwXC"

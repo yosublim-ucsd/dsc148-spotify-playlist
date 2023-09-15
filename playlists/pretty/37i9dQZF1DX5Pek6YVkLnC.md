@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,792 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,826 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 9 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 |
 | 10 | [Trapstar \(with DJ Drama & Hades66\)](https://open.spotify.com/track/0qIiVth60KlgFjzKfWI6R0) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 4:55 |
 | 11 | [1% \- Remix](https://open.spotify.com/track/1F4Vm45mboD6k5VAx83pJu) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [1% \(Remix\)](https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW) | 4:50 |
-| 12 | [TAN CAGAU](https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [TAN CAGAU](https://open.spotify.com/album/6qKfE7JFAQcMn1Pj7Sxxlv) | 3:05 |
-| 13 | [Porche Carrera](https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF) | [DimeWest](https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Porche Carrera](https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn) | 3:08 |
+| 12 | [Porche Carrera](https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF) | [DimeWest](https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Porche Carrera](https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn) | 3:08 |
+| 13 | [TAN CAGAU](https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [TAN CAGAU](https://open.spotify.com/album/6qKfE7JFAQcMn1Pj7Sxxlv) | 3:05 |
 | 14 | [Lo Que Se Va](https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [CONXSIÓN](https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW) | 4:13 |
 | 15 | [Mi Vicio \- Remix](https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Mi Vicio \(Remix\)](https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr) | 4:44 |
 | 16 | [obstáculo](https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [obstáculo](https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [Los Costos](https://open.spotify.com/track/0ZAYDTMC8NhYlKehcG9uZC) | [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Uno X Ciento](https://open.spotify.com/album/2eIR3IdzD32qKQQuLeQOXM) | 3:09 |
 | 50 | [Quiero](https://open.spotify.com/track/4Lxsnyn9yJnkkHZKTAQynR) | [Mhane](https://open.spotify.com/artist/7iZYxykcEg1PSVTW7cWdqK), [Robert Taylor](https://open.spotify.com/artist/1PbZZhQGxXdxgrcR1W8Ete) | [Quiero](https://open.spotify.com/album/20gGKogH9MsM0IegKgrX5f) | 2:58 |
 
-Snapshot ID: `MCwxZThkMjJlZmY2ZGYxZjg2NDE3OGU0NDdmMmYyMGUyMGNiZmU1ZDRj`
+Snapshot ID: `MCw5MDA1ODJiNTlkN2I0NWU0MDk0OGU3YWUyNzIxMzE3NmI0NTA5ZWUx`

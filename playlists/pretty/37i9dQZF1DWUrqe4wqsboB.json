@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 3138,
+  "num_followers": 3151,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmRjZmUxNzc0OGQ0YjU4MDQ0NDA1YzAzNGQ5ZjBmODRiZGEyYTIx",
+  "snapshot_id": "MCw5MjZlMTBkMjJlYWY3OGM5MWRhNDNkMTMxOTI4M2RmYjI0ZTkxNjZh",
   "tracks": [
     {
       "added_at": "2023-08-29 17:45:03",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
+        "name": "Te Gusta, Me Gusta",
+        "url": "https://open.spotify.com/album/6NzxWW8X0f5Eye27bOMBWB"
+      },
+      "artists": [
+        {
+          "name": "Neysa Blay",
+          "url": "https://open.spotify.com/artist/221r7E6QASURKauguQwGWw"
+        }
+      ],
+      "duration_ms": 182634,
+      "name": "Te Gusta, Me Gusta",
+      "url": "https://open.spotify.com/track/1BZZhlU3Mdab6jIMgM6gu8"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
         "name": "Me Saben a Miel",
         "url": "https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Te Gusta, Me Gusta",
-        "url": "https://open.spotify.com/album/6NzxWW8X0f5Eye27bOMBWB"
-      },
-      "artists": [
-        {
-          "name": "Neysa Blay",
-          "url": "https://open.spotify.com/artist/221r7E6QASURKauguQwGWw"
-        }
-      ],
-      "duration_ms": 182634,
-      "name": "Te Gusta, Me Gusta",
-      "url": "https://open.spotify.com/track/1BZZhlU3Mdab6jIMgM6gu8"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "La Rareza",
         "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "EVEVerT\u00e9 (*XOXO 2)",
-        "url": "https://open.spotify.com/album/0sQwqf70LMb007dswR3Em3"
+        "name": "El Hijo de Borik\u00e9n",
+        "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
       },
       "artists": [
         {
-          "name": "CANDE",
-          "url": "https://open.spotify.com/artist/41e5QAfoWQhKQEmqqbDgBp"
+          "name": "El Hijo de Borik\u00e9n",
+          "url": "https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG"
         }
       ],
-      "duration_ms": 160004,
-      "name": "Me Levant\u00e9 Hoy",
-      "url": "https://open.spotify.com/track/4Hmae2vybwrNtxTyE3c7Oe"
+      "duration_ms": 257091,
+      "name": "Flow Criollo",
+      "url": "https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "El Hijo de Borik\u00e9n",
-        "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
+        "name": "EVEVerT\u00e9 (*XOXO 2)",
+        "url": "https://open.spotify.com/album/0sQwqf70LMb007dswR3Em3"
       },
       "artists": [
         {
-          "name": "El Hijo de Borik\u00e9n",
-          "url": "https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG"
+          "name": "CANDE",
+          "url": "https://open.spotify.com/artist/41e5QAfoWQhKQEmqqbDgBp"
         }
       ],
-      "duration_ms": 257091,
-      "name": "Flow Criollo",
-      "url": "https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5"
+      "duration_ms": 160004,
+      "name": "Me Levant\u00e9 Hoy",
+      "url": "https://open.spotify.com/track/4Hmae2vybwrNtxTyE3c7Oe"
     },
     {
       "added_at": "2023-08-29 17:45:03",

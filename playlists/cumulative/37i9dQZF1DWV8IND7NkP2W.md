@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-654 songs - 1 day 5 hr 26 min
+655 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Cross the Bridge](https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH) | 2:18 | 2022-10-20 |  |
 | [Cross the Bridge](https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt) | 2:18 | 2022-10-20 | 2022-10-22 |
 | [Cruisin](https://open.spotify.com/track/1GZxk4b3eaucDlcaAAs8cJ) | [MeS The Funk](https://open.spotify.com/artist/6h2bl2LD56yaah3wzvLKRe) | [Cruisin](https://open.spotify.com/album/1OOt6UGoO3GI6lprfutvDO) | 3:45 | 2022-03-24 | 2022-09-15 |
+| [Crushing](https://open.spotify.com/track/7FHelgV9xeITVJjKwGUzOm) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Crushing](https://open.spotify.com/album/1Dge2M4uqmtw9v2z3Yy10S) | 3:34 | 2023-09-07 |  |
 | [Cry In The Gaze \(about you\)](https://open.spotify.com/track/0hNmUYwnK8VzUEKnzXyA5P) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Cry In The Gaze \(about you\)](https://open.spotify.com/album/2D9JioL3U8aaTHP5c0qeqn) | 1:42 | 2023-08-15 |  |
 | [Cumulonimbus](https://open.spotify.com/track/0TWfmcz5fsrRvaD01Yf5eM) | [Takayuki Hashiguchi](https://open.spotify.com/artist/18eJdTU5Sepx9LX7KHZv1k), [Michiaki Shirata](https://open.spotify.com/artist/3B6nen9hs1iq9MGAy4aCBL) | [The Sun Rises Everywhere \#1](https://open.spotify.com/album/411a5hlbXHUm6r1ipYABjd) | 2:12 | 2021-12-23 | 2022-07-10 |
 | [Curiosity](https://open.spotify.com/track/1hfsCP7K0yXHCdWwSuqH9l) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [coyolate](https://open.spotify.com/artist/0EvzMWIv5MlTboNHIVDtmJ) | [Curiosity](https://open.spotify.com/album/6eeJBJnn3HPMSrAJToQLoZ) | 2:43 | 2021-12-23 | 2022-07-29 |
@@ -279,7 +280,7 @@
 | [Jet Stream](https://open.spotify.com/track/2sIVqfcDOisETTaV6Bbrs2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Jet Stream](https://open.spotify.com/album/0k2iMwFXahyiZMSwmdjmRj) | 2:46 | 2023-05-18 | 2023-05-20 |
 | [JUNK STORY](https://open.spotify.com/track/3EioC8UfNqsaHgVKTktNUE) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [JUNK STORY](https://open.spotify.com/album/0MtEmJKf6IBPaCjafWEeDr) | 2:07 | 2021-12-23 | 2022-07-27 |
 | [JUST KEEP IT](https://open.spotify.com/track/3Drv8dUZUirRJpOvixlDUA) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM) | 3:13 | 2022-10-28 | 2022-10-29 |
-| [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 | 2022-10-29 |  |
+| [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 | 2022-10-29 | 2023-09-15 |
 | [K Bye](https://open.spotify.com/track/7K6TygqDoUz9TqhVzZWxVj) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [K Bye](https://open.spotify.com/album/5BevqJGwWGDUtatocaA6Ef) | 3:18 | 2021-12-23 | 2022-02-10 |
 | [Kadena Sea Wall](https://open.spotify.com/track/2V6xMEfwzUfjxW4beJlgsu) | [SENZU BEATS](https://open.spotify.com/artist/6pi8VD4XdJYHEesPGqySWV) | [Kadena Sea Wall](https://open.spotify.com/album/2xmvVG7ZhKDDAAWjx2QSWv) | 1:56 | 2021-12-23 | 2022-07-29 |
 | [kageokuri](https://open.spotify.com/track/3Nw9mVyDGmSQ3Ik9BUBBD9) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [kageokuri](https://open.spotify.com/album/0d6OaFJOV6iROQFrRhew6C) | 3:35 | 2022-07-21 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > All of the 2023 nominees in one playlist! More info on this year's event can be found at <a href="https://www.thestellarawards.com/index.html">stellarawards.com</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,288 likes - 70 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,297 likes - 70 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 19 | [You've Been Good To Me \- Live](https://open.spotify.com/track/38jmSzizGEhwJL7uZ7S6JU) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 9:30 |
 | 20 | [Any Attack](https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Any Attack](https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg) | 1:53 |
 | 21 | [Blak Sheep Freestyle](https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:05 |
-| 22 | [He's Been Good](https://open.spotify.com/track/4jfLmwnaZd8RR8kVIZZnSH) | [Miz Tiffany](https://open.spotify.com/artist/4diLM7OgmADzEyYPOK5aM2), [Try Bishop](https://open.spotify.com/artist/1Aw7tLtaxspgiFUdqYqFbO) | [He's Been Good](https://open.spotify.com/album/13c8oJgyXJT720691H0omV) | 2:06 |
+| 22 | [He's Been Good](https://open.spotify.com/track/4jfLmwnaZd8RR8kVIZZnSH) | [Miz Tiffany](https://open.spotify.com/artist/4diLM7OgmADzEyYPOK5aM2), [TRYBISHOP](https://open.spotify.com/artist/0e44Q9LppcYbLzap5k8IV8) | [He's Been Good](https://open.spotify.com/album/13c8oJgyXJT720691H0omV) | 2:06 |
 | 23 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 |
 | 24 | [Every Blessing \- Live](https://open.spotify.com/track/2s3VW5hoQSBq1lyBhf1FkN) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Transitions \(Live\)](https://open.spotify.com/album/5mD4kziOFHDka8m5xqFSzV) | 5:00 |
 | 25 | [It's Gonna Be Bigger \(feat\. Demarcus Kelly & JaNae Jones\)](https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Demarcus Kelly](https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf), [JaNae Jones](https://open.spotify.com/artist/5102IyNmHzRcI2gGRf4Ffv) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 4:52 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 69 | [I Will Rejoice](https://open.spotify.com/track/0dbeFxQu8T7h3sgxZihKMl) | [Dulaneyland Music](https://open.spotify.com/artist/4lPHaqNFHpsvmZqggig0dq), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Morning Songs](https://open.spotify.com/album/0RDeruMTKlnOL1BoUwWTem) | 4:10 |
 | 70 | [Confidence \- Live](https://open.spotify.com/track/2VfZzYhwL2OwmPlXPNrkvJ) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [The Invitation](https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg) | 4:55 |
 
-Snapshot ID: `MCxlYTYyMjQ0ZDk3YTQ0YmI3NTExZGM5YWIyODg0ZTcxYjBkMTRhMzk3`
+Snapshot ID: `MCwzMGJiZjg4MmM5NTVlNzcyMDcwNmU5YjMzZDU0NzkxMGJlNTQzMmEx`

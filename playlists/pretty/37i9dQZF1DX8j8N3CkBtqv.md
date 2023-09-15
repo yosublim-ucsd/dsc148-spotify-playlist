@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Raghav Meattle
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,800 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,808 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 6 | [Badal](https://open.spotify.com/track/5gwMfrLGUV91qxBNbX9Fri) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Badal](https://open.spotify.com/album/4vX0qUy6r5iN5cZ6nJluEB) | 3:44 |
 | 7 | [Tu Hi Re](https://open.spotify.com/track/5ox2LabZsOpCs9y0xk6IVD) | [Advait Sawant](https://open.spotify.com/artist/5mhT19r58fZAT8ZKB8dGGr), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Deepak Yadav](https://open.spotify.com/artist/0NIWSXCf0iXZt3sKCZTg7D) | [Tu Hi Re](https://open.spotify.com/album/66dT3TPDD589XaaMz9952E) | 3:06 |
 | 8 | [Baatein Ankahi](https://open.spotify.com/track/6VuPelGxBidVYznwlkwUaM) | [Kappi Kat](https://open.spotify.com/artist/7yB0vks4iLj3AI16Rwlh7f) | [Baatein Ankahi](https://open.spotify.com/album/01VYxRraiMd0nfk5zWv6JC) | 3:24 |
-| 9 | [Duur Hai Wo](https://open.spotify.com/track/2yR3f7t0N1pp48mChKq9Kt) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/5zSrIDdqyNIVdGJiT9d46P) | 4:45 |
+| 9 | [Duur Hai Wo](https://open.spotify.com/track/2xdKGuM3SMXYxZIytizcVP) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/21ZHoICkVEBGFnoNiSPhBz) | 4:42 |
 | 10 | [Mann](https://open.spotify.com/track/3euf8ftyX9tjpqXJgF5NlM) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mann](https://open.spotify.com/album/5Qq2PhlbpXN3GYNJ6gstup) | 3:11 |
 | 11 | [Muskurayega](https://open.spotify.com/track/0AUyEpUEtwv3VdIDVanQg0) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn), [Yashraj Mukhate](https://open.spotify.com/artist/1Ki1jGLoZSYLza3HnudAhI) | [Muskurayega](https://open.spotify.com/album/1892Qln1rYhD8V6tT0ECJF) | 3:43 |
 | 12 | [Poore Hue](https://open.spotify.com/track/2NtcYKkDQB4VJVvb8qHcIf) | [Sayuj Jain](https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI) | [Poore Hue](https://open.spotify.com/album/0DYcqWdoQQs8jcgC67lyG6) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Toot Rahi Hoon](https://open.spotify.com/track/3EkjwOEWuhPWKKg8pzVlow) | [Shai](https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [Toot Rahi Hoon](https://open.spotify.com/album/2T7C17uo1db3aCIluvDrfP) | 2:29 |
 | 50 | [Bin Tere](https://open.spotify.com/track/3HmkI0yLP6fE6wPrjjTnWJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Bin Tere](https://open.spotify.com/album/4vTudmkF2X0nlMCcXMUixp) | 3:26 |
 
-Snapshot ID: `MCxjM2U0ODU4OGVmNmYxM2NjMjliNjQ4YzMxOGMwNjZlMzIyZWFlOGRi`
+Snapshot ID: `MCw3NWVlNzMwYjliNTMzYjRjYTA5ZmJhMzNjMTY3MmU1NmUyNDNmMTZj`

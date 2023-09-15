@@ -4,7 +4,7 @@
 
 > All E.L.F's go to playlist! Check out SUPER JUNIOR: THE LAST MAN STANDING on Disney+!
 
-190 songs - 11 hr 20 min
+191 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [No Love](https://open.spotify.com/track/5mMqlFlWJNAApggUOEfYDn) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD LIAR \- The 4th Mini Special Album](https://open.spotify.com/album/0ExK4LxhnukLaSgbmwITmj) | 3:19 | 2022-03-01 |  |
 | [Old Movie](https://open.spotify.com/track/4irpe5iV20BPi1HtsK7VMD) | [KIM HEECHUL](https://open.spotify.com/artist/7GbN8yzIP7CFK5bNbUi6L3) | [Old Movie](https://open.spotify.com/album/76jD9lWVRVUipbbw8MNZ7v) | 3:50 | 2022-03-01 |  |
 | [One More Time \(Otra Vez\)](https://open.spotify.com/track/1Zz7lQOhWPYh8dNQCwVkdG) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [One More Time \- Special Mini Album](https://open.spotify.com/album/0vgV211bUsihsckzNaejxe) | 3:06 | 2022-03-01 |  |
+| [One More Time \(Otra Vez\) \- Feat\. REIK Japanese Version](https://open.spotify.com/track/2GABJtjPw7wIavuYvPJsbF) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Star](https://open.spotify.com/album/2rKWBsMfhY7yUd6KczLAod) | 3:07 | 2022-12-26 |  |
 | [One More Time \(Otra Vez\) \- SJ Version](https://open.spotify.com/track/0dAwu9pKdrm4psaIxXwCuC) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [One More Time \- Special Mini Album](https://open.spotify.com/album/6caW8rU3a8QvNvSirSMVgc) | 3:06 | 2022-03-01 | 2022-07-29 |
 | [Only U](https://open.spotify.com/track/0ElyviAmPCWaumxyMeVIgl) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [SPY \- The 6th Album Repackage](https://open.spotify.com/album/5qlpNPHBw11axwSZzVKM3C) | 3:37 | 2022-07-12 |  |
 | [Only U](https://open.spotify.com/track/2XC7XVdPlfm5EkMMrlPb7e) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [SPY](https://open.spotify.com/album/5mNCx1ukvVBY8o06qTBcpb) | 3:37 | 2022-03-01 | 2022-07-29 |

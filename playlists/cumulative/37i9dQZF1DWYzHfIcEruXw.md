@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-117 songs - 8 hr 29 min
+118 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,9 @@
 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 | 2021-12-21 |  |
 | [Shadow and Truth](https://open.spotify.com/track/7o3gAMq6ZwOQzkE0Zg53cq) | [ONE Ⅲ NOTES](https://open.spotify.com/artist/31a9NQSz0FMcHVcUcetb4V) | [Shadow and Truth](https://open.spotify.com/album/52RXF3L59X40qv0JDwq8G5) | 4:14 | 2021-12-21 |  |
 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 | 2021-12-21 |  |
+| [Songbirds](https://open.spotify.com/track/3z2yF9qSgolThZ8gINNYq6) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [WHALE LIVING](https://open.spotify.com/album/13LSam3N9VjYJU1bGf44UG) | 5:29 | 2023-07-04 |  |
 | [Songbirds](https://open.spotify.com/track/56WdyKvj6C0qO3UDnnuyzy) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [WHALE LIVING](https://open.spotify.com/album/6g2VJGloN8HVnedNkGEmK7) | 5:29 | 2021-12-21 | 2022-07-29 |
-| [Songbirds](https://open.spotify.com/track/7bSd1aNSVD6XxyqxQXc1F6) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Songbirds](https://open.spotify.com/album/4Pb1Px7D4XtomO4qKjuXNc) | 5:33 | 2021-12-21 |  |
+| [Songbirds](https://open.spotify.com/track/7bSd1aNSVD6XxyqxQXc1F6) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Songbirds](https://open.spotify.com/album/4Pb1Px7D4XtomO4qKjuXNc) | 5:33 | 2021-12-21 | 2023-09-15 |
 | [Sparkling Daydream](https://open.spotify.com/track/343P4NOfSrRoWq3l9hNfZl) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [NOISY Lab.](https://open.spotify.com/album/1xFcpdZWds4oZSICgjY1BI) | 4:09 | 2021-12-21 |  |
 | [Synchrogazer](https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:27 | 2021-12-21 |  |
 | [Union](https://open.spotify.com/track/5lWjB3gZdGSMNOY1AA7MDv) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Reunion](https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS) | 3:44 | 2021-12-21 |  |

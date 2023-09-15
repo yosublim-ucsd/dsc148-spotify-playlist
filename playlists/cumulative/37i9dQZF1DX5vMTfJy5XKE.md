@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-373 songs - 19 hr 34 min
+375 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Christmas With You](https://open.spotify.com/track/3ZI1F5STp9JBSEX1eNqOcM) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:54 | 2022-11-11 |  |
 | [Christmas Without You](https://open.spotify.com/track/1cKKOUekhGu2JblwwUiOJS) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Christmas Without You](https://open.spotify.com/album/57RnITpQre0GUw21xqlfiI) | 3:57 | 2021-12-24 | 2022-09-28 |
 | [Cozy Christmas](https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Cozy Christmas / December Baby](https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe) | 3:57 | 2022-11-25 |  |
-| [Cry Christmas](https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp) | 3:17 | 2022-11-11 |  |
+| [Cry Christmas](https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp) | 3:17 | 2022-11-11 | 2023-09-15 |
+| [Cry Christmas](https://open.spotify.com/track/3BI6drkCxHUnWBKpvfBfLB) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/0SgFUjYNZq7DUIsNLPbJ0n) | 3:17 | 2022-11-11 |  |
 | [Cómo Poder Olvidar \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 | 2022-11-18 |  |
 | [Daddy's Kissing Santa Claus](https://open.spotify.com/track/5pagGK3C5ZXWii8jNadpf7) | [Havanna Winter](https://open.spotify.com/artist/3QWgcNcKtobgBgbhGoQXDC) | [Daddy's Kissing Santa Claus](https://open.spotify.com/album/0QQ1coSdVAAy67iH1gS7CQ) | 2:06 | 2022-12-02 |  |
 | [Dead by Xmas](https://open.spotify.com/track/1ZTPI3OI726WrlvH5O2qR0) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Dead by Xmas](https://open.spotify.com/album/22kcuMi9eUIwCxQzbIjmv1) | 3:24 | 2022-12-09 |  |
@@ -142,7 +143,8 @@
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5YikWMRcibixD0sJffm8v3) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Joy to the World](https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh) | 3:14 | 2021-12-24 | 2022-07-29 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1tKcX8hU4OeH8D5SwFB1Uk) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/5NR85nnHSR3UtFL0LwBQfz) | 3:21 | 2022-12-09 |  |
 | [have yourself a merry little christmas](https://open.spotify.com/track/4cSWTXNjRAlQMlbjQGvvlA) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [have yourself a merry little christmas](https://open.spotify.com/album/5dDL7p4I5XRYBisnLxecVC) | 3:04 | 2022-10-28 |  |
-| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1CZLZWd7TrQFGdhWjgkZTC) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp) | 2:16 | 2022-11-11 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1CZLZWd7TrQFGdhWjgkZTC) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp) | 2:16 | 2022-11-11 | 2023-09-15 |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3F97vMT76l6x2a4sIJd37K) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/0SgFUjYNZq7DUIsNLPbJ0n) | 2:16 | 2022-11-11 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1x86q4ESOVmMpdoK0FMbya) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 4:16 | 2022-11-11 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2uMVrTOTXP5Ux9lvkHX4XK) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas In New York](https://open.spotify.com/album/5kxfHvomY2PCiPIvW9esZd) | 3:35 | 2021-12-24 | 2022-07-29 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/7a5PhDoCdjDuLvsmlliQe9) | [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8), [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/5f7X6pQrJafUXsxujtaluN) | 2:47 | 2021-12-24 | 2022-07-28 |

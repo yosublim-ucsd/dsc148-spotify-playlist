@@ -4,7 +4,7 @@
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-104 songs - 4 hr 6 min
+105 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Merengue!](https://open.spotify.com/track/3T5DRtuj3RlqKM70IL5Dzu) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:15 | 2022-03-24 |  |
 | [Monster Moves](https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:55 | 2022-03-24 |  |
 | [Mother May I?](https://open.spotify.com/track/3KQu5t8RJ2UaEgrdfbotp8) | [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj), [Amelia Robinson](https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK) | [Everyone Together Now!](https://open.spotify.com/album/15zXp1K6Q2RlZxBhuBC9sK) | 3:33 | 2022-03-24 |  |
+| [MOVE YOUR BODY](https://open.spotify.com/track/2vp7HOVvYo7Z5ZqCAuRCli) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [MOVE YOUR BODY](https://open.spotify.com/album/0mPdAgH86rN9Yt48HrpnOG) | 2:06 | 2023-09-14 |  |
 | [My Jam](https://open.spotify.com/track/4r5ibfNn0SOvfF2Dh1znnH) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [My Jam](https://open.spotify.com/album/2d3S8K0TuX800sJc4sBB80) | 2:45 | 2022-03-24 |  |
 | [Party Rock Anthem](https://open.spotify.com/track/7D8ItasOi4lYmatNSFDbUm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Pre\-School Singalong: Dance Party](https://open.spotify.com/album/01j1juyb8v02R3DUMEDl7L) | 3:24 | 2022-03-24 | 2022-11-13 |
 | [Party Rock Anthem](https://open.spotify.com/track/2oNJsgvVdw5YSqhn91p9Ta) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 21](https://open.spotify.com/album/272fQpCPOG9CcFHXs7dZyd) | 3:25 | 2022-03-24 |  |

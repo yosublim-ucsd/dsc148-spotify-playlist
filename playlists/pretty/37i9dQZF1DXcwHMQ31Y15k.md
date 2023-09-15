@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Kalia Siska
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,867 likes - 87 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,264 likes - 87 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

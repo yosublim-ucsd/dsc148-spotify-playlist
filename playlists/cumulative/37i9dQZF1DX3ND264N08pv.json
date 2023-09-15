@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 201944,
       "name": "Den Haag Hakk\u00fbh",
       "url": "https://open.spotify.com/track/4i4Wy1Rp9OmeHz98xWMR4V"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 200666,
       "name": "Hardcore Style",
       "url": "https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr"
@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 224001,
       "name": "Hell Boy",
       "url": "https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 237115,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/6NPNOsupIs4l08lqCy8y9C"
@@ -3261,6 +3261,28 @@
     },
     {
       "album": {
+        "name": "Syndicate Of Noise (Official SYNDICATE 2023 Anthem)",
+        "url": "https://open.spotify.com/album/6qPEbdsMpIYye8KPfQ9NsQ"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273729,
+      "name": "Syndicate Of Noise - Official SYNDICATE 2023 Anthem",
+      "url": "https://open.spotify.com/track/2QXxOoPaqduErHktm3wmRu"
+    },
+    {
+      "album": {
         "name": "Syndicate Of Rave (Official Syndicate 2021 Anthem)",
         "url": "https://open.spotify.com/album/40KpN0B8gZGe7YXRO1ZtPv"
       },
@@ -3378,6 +3400,28 @@
       "duration_ms": 194710,
       "name": "The Deadly Fist",
       "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
+    },
+    {
+      "album": {
+        "name": "The Gospel (Geck-o's Gabber Confession Remix)",
+        "url": "https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo"
+      },
+      "artists": [
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        },
+        {
+          "name": "Geck-O",
+          "url": "https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "The Gospel - Geck-o's Gabber Confession Remix",
+      "url": "https://open.spotify.com/track/1aj0Wx51HvxGj1dnDFNEnm"
     },
     {
       "album": {

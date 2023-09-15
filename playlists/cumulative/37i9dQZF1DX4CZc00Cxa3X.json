@@ -4244,10 +4244,6 @@
         {
           "name": "John Also Bennett",
           "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
-        },
-        {
-          "name": "JAB",
-          "url": "https://open.spotify.com/artist/3mhteIkcexCtGabHwV0GsP"
         }
       ],
       "date_added": "2023-09-01",
@@ -5888,7 +5884,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 168000,
       "name": "Tsukiyo",
       "url": "https://open.spotify.com/track/0LcM0jJCxhAOw8fjLjehes"
@@ -6258,7 +6254,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 250341,
       "name": "We Search for the Lights",
       "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"

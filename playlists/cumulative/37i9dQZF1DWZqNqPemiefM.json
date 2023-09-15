@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 296000,
       "name": "a beautiful day",
       "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
@@ -5037,6 +5037,24 @@
     },
     {
       "album": {
+        "name": "pacific oceanap",
+        "url": "https://open.spotify.com/album/6iUzAUPUgaMkuEJjmBD9lp"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160008,
+      "name": "pacific oceanap",
+      "url": "https://open.spotify.com/track/5n5VPlLd25pZm7MmVeB8NL"
+    },
+    {
+      "album": {
         "name": "EVACUATION",
         "url": "https://open.spotify.com/album/1I0nVoDJ2sdi4QcNHNCt8c"
       },
@@ -5540,6 +5558,24 @@
       "duration_ms": 215760,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/1J1MyEX7vkcBnoAhvAmxwt"
+    },
+    {
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/2zDHmZdQLOGHnTjYPmYnpF"
+      },
+      "artists": [
+        {
+          "name": "Sancho Meiso Chaya",
+          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439878,
+      "name": "Rev.3",
+      "url": "https://open.spotify.com/track/24L5wD0DUMyGVk8iJQFg6L"
     },
     {
       "album": {
@@ -6724,7 +6760,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"

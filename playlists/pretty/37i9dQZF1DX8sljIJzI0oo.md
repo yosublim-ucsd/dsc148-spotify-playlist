@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Bringing in the heat every Thursday\. 🔥 Listen to all the mixtapes <a href="https://open.spotify.com/genre/0JQ5DAqbMKFNhzOQgaEZ0b">here</a>\. Cover: Cruz Cafuné
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,910,946 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,911,070 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 9 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 |
 | 10 | [Subliminal](https://open.spotify.com/track/3WoxM5hRv3lkLDoowGCJKu) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Sammy](https://open.spotify.com/artist/2K2ulcqPr7kB2ZwzLmx3vp) | [Subliminal](https://open.spotify.com/album/78S20bvtAt6N8vPO3Mnl50) | 3:22 |
 | 11 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
-| 12 | [Elovrga](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Elovrga](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
+| 12 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
 | 13 | [Ex\-Special](https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ex\-Special](https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp) | 3:49 |
 | 14 | [Detective](https://open.spotify.com/track/691cTXnqfCaLvOdvgIk27G) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa) | [Detective](https://open.spotify.com/album/1oKYGo8iBWcpXD6eM3293t) | 2:58 |
 | 15 | [+ SINCERO](https://open.spotify.com/track/2wRoKIerlhzPSbeIVvSB2J) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [+ SINCERO](https://open.spotify.com/album/6zWsMwn5J8zyA5P72LaUpZ) | 2:17 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [No Dice Na'](https://open.spotify.com/track/1JZ8bH1RCRqepLSR8HLcfr) | [DreamyBaby](https://open.spotify.com/artist/0eoD8oTKamUPrgSKNxRewE) | [CUMPLEAÑOS](https://open.spotify.com/album/4hhZgb0s5TtKFazP2Vo9vr) | 3:48 |
 | 25 | [jukiada](https://open.spotify.com/track/1o069EXYorALqprEPFrjqu) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [jukiada](https://open.spotify.com/album/2mch4cEQ6AiGuDeTfqFr3A) | 3:15 |
 
-Snapshot ID: `MCw5ZWJiOGMyNzM5NjI5YjJlYjY0MjM0ZjZkNjg2NGMwNmJjNzQ1ODU5`
+Snapshot ID: `MCw4MWVhNWEzNDdkNzE5OTk4YmYyY2E3MDNlNDczYjc1NDA1YzU3ZDE2`

@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-422 songs - 1 day 4 hr 1 min
+423 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Abrázame](https://open.spotify.com/track/5WeMnpMIAf3yfoUC1QKOGR) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [12 Grandes exitos Vol\. 1](https://open.spotify.com/album/2cUyK6GaXJd9NGVNjQ3sqa) | 4:11 | 2021-12-21 | 2022-07-29 |
 | [Abuso](https://open.spotify.com/track/7E66UHV8KbleXkVnnUoY7J) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Dueña de mi corazón](https://open.spotify.com/album/5tVO7XieYjimEPG6Azp6Uv) | 4:06 | 2021-12-21 | 2022-07-25 |
 | [Acaríciame](https://open.spotify.com/track/6MVNYTim9yCQMQgnpx517N) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [La Más Completa Colección](https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a) | 4:13 | 2021-12-21 | 2022-07-29 |
+| [Acaríciame](https://open.spotify.com/track/22mBFQDC3JJvJAahX7hOmH) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [O Ella o Yo](https://open.spotify.com/album/0Xy14kGbjkFXjijXR5UhWt) | 4:15 | 2021-12-21 |  |
 | [Acaríciame](https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [Lo Mejor De Maria Conchita Alonso](https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x) | 4:18 | 2021-12-21 | 2022-11-13 |
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 | 2021-12-21 |  |
 | [Al Otro Lado del Sol \- Remasterizado](https://open.spotify.com/track/4ZTTPx3wc82d1R92z7A4Fs) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Al Otro Lado del Sol \(Remasterizado\)](https://open.spotify.com/album/5L5or9U2fOKsE1GXLWz8YA) | 4:22 | 2021-12-21 | 2022-07-28 |
@@ -117,7 +118,7 @@
 | [Déjame Volver Contigo](https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 4:23 | 2021-12-21 |  |
 | [El Amor Acaba](https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 4:20 | 2021-12-21 |  |
 | [El Amor Acaba \- Remasterizado](https://open.spotify.com/track/0GZPuQa3yjeOtybpDWcAoI) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [José José \- Secretos 30 Aniversario](https://open.spotify.com/album/0ExU6HD9OWFwDtLu0eFqDY) | 4:18 | 2021-12-21 | 2022-07-29 |
-| [El Día Que Puedas](https://open.spotify.com/track/5771xKcFZR5MT4HDzbSulB) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 4:00 | 2021-12-21 |  |
+| [El Día Que Puedas](https://open.spotify.com/track/5771xKcFZR5MT4HDzbSulB) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 4:00 | 2021-12-21 | 2023-09-15 |
 | [El Día Que Puedas](https://open.spotify.com/track/5eHMSmVfVni0JW1nZ15pUH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:07 | 2021-12-21 | 2023-05-16 |
 | [El Espejo](https://open.spotify.com/track/05CYnVAe90P2wKom3vTkw9) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Boleros Por Amor Y Desamor](https://open.spotify.com/album/36WNeT5OVjLwRSv02au3Hm) | 4:55 | 2021-12-21 | 2022-07-29 |
 | [El Gato Que Está Triste y Azul \- Un Gato Nel Blu](https://open.spotify.com/track/3SrnZHhXpgtvHerbxEDOWW) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [30 Grandes Canciones](https://open.spotify.com/album/0SHZBwCrRg88Yw6JK850gR) | 3:51 | 2021-12-21 |  |

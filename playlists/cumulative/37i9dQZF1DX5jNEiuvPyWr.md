@@ -2,7 +2,7 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : GR OMEGA
+> Le meilleur du rap français version cloud\. Photo : Elh Kmer
 
 257 songs - 12 hr 54 min
 

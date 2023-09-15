@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,222 songs - 2 day 20 hr 40 min
+1,223 songs - 2 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-06-19 | 2021-09-22 |
 | [FREESTYLE 1](https://open.spotify.com/track/6g12ki5xI3oUmz8yznhCxt) | [Dimoff](https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP) | [FREESTYLE 1](https://open.spotify.com/album/0NTHsDHK0ocVXHpOUSlyhN) | 2:01 | 2023-04-19 |  |
 | [FREESTYLE2](https://open.spotify.com/track/6WdB48ut73Y4Dx4swcZoxM) | [Dimoff](https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP) | [FREESTYLE2](https://open.spotify.com/album/5B0DBG2YvwBZgROJSyPWDf) | 2:04 | 2023-07-13 | 2023-08-26 |
+| [Fresh](https://open.spotify.com/track/0yUGncTJaPNZuOp4tkhTwg) | [Hotvibez](https://open.spotify.com/artist/7f4xrM2aayisIjXZxjzcGb) | [Fresh](https://open.spotify.com/album/7jUDmOYfB4cCEGrrJ0rapF) | 2:24 | 2023-09-14 |  |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Hypeman](https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-01-03 |
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-06-25 | 2022-06-27 |
 | [FUCKBOY](https://open.spotify.com/track/1giNmoFbA8uFFgz2AESYie) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Tarikata](https://open.spotify.com/artist/6g2FqVaYfRyTgIAQbE3kNP) | [LOTUS](https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8) | 2:57 | 2022-06-04 | 2022-06-18 |
@@ -1121,7 +1122,7 @@
 | [Единствено](https://open.spotify.com/track/1jmwXsqCLABS1RNUtcz7GC) | [Emilia](https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU), [DENIS TEOFIKOV](https://open.spotify.com/artist/5QO5nSTzmwGYnTFsJb8Gq6) | [Единствено](https://open.spotify.com/album/2IOxdLl1FzyGEzNIYwdAv4) | 3:47 | 2022-04-19 | 2022-08-03 |
 | [Едно си пожелавам](https://open.spotify.com/track/0unwwudnsmwECyhTncRAA8) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Едно си пожелавам](https://open.spotify.com/album/6OnkmJVLcW3pS79gtIiQHB) | 3:15 | 2022-11-13 | 2022-11-20 |
 | [Ела, Хабиби](https://open.spotify.com/track/0mOFdyp76eRHMi09yTolXS) | [Emilia](https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Ела, Хабиби](https://open.spotify.com/album/4yarZg2w7Qn15Nc1lDecVD) | 2:51 | 2023-07-08 |  |
-| [Ергенът](https://open.spotify.com/track/03bI9QgaNNzCmtwSnhOKsY) | [Emrah](https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr), [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Чар](https://open.spotify.com/artist/31wm402BlJEVmT6IXtcgfJ) | [Ергенът](https://open.spotify.com/album/6B5fRlZmYySSwijGswmJ1g) | 4:32 | 2023-06-10 |  |
+| [Ергенът](https://open.spotify.com/track/03bI9QgaNNzCmtwSnhOKsY) | [Emrah](https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr), [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Чар](https://open.spotify.com/artist/31wm402BlJEVmT6IXtcgfJ) | [Ергенът](https://open.spotify.com/album/6B5fRlZmYySSwijGswmJ1g) | 4:32 | 2023-06-10 | 2023-09-15 |
 | [Женен](https://open.spotify.com/track/0yxnBa0bqbDE87o1wQswIs) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq), [Gabriella](https://open.spotify.com/artist/5KHGNMZtf5BjebLwFGqYxT) | [Женен](https://open.spotify.com/album/4GMKfkyDYJqvL3wUo8OCzq) | 3:10 | 2022-02-10 | 2022-05-06 |
 | [Жестоко е](https://open.spotify.com/track/70PkUpUzOf1RI7pJE9roM4) | [Alex Robov](https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA), [Lusi](https://open.spotify.com/artist/0hJ4aIczqam9dEguU4OvXa) | [Жестоко е](https://open.spotify.com/album/4Zq6EJBFQkC2yerxYLi1Wg) | 2:40 | 2023-05-25 | 2023-07-02 |
 | [Живей, мило мое](https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Живей, мило мое](https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc) | 3:09 | 2023-04-30 |  |

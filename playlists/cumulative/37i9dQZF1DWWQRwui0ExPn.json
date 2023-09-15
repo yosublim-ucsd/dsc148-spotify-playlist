@@ -12327,6 +12327,24 @@
     },
     {
       "album": {
+        "name": "Bluestar",
+        "url": "https://open.spotify.com/album/00ga0NtAX4eEmIDypIj9n8"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137455,
+      "name": "Bluestar",
+      "url": "https://open.spotify.com/track/4ZappxcqIGiHg3VHUgQcyz"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/5Jf7WDUO0rmuJ698bFDZF9"
       },
@@ -24652,6 +24670,24 @@
       "duration_ms": 159693,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1uURYg5bMU1Jmct8hd2eaK"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/47PqCG6mFjoiElcwBgki3R"
+      },
+      "artists": [
+        {
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126954,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/66Mwem6Xn0VyE4D3uVVvnJ"
     },
     {
       "album": {
@@ -38672,7 +38708,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 143157,
       "name": "Gekkoland",
       "url": "https://open.spotify.com/track/5lAk6M4AYvDkL04iAQr09L"
@@ -62928,7 +62964,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 130285,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/5GbTwVVmFQKawH8S52XYXx"
@@ -93028,7 +93064,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 158808,
       "name": "spring",
       "url": "https://open.spotify.com/track/4XChGuM6Vcl9wFwB5SLgR8"
@@ -95948,7 +95984,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 130658,
       "name": "sun rays",
       "url": "https://open.spotify.com/track/5VxEekaL327bsxLOehHMJ3"
@@ -97940,7 +97976,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 157241,
       "name": "Sweetheart Saga",
       "url": "https://open.spotify.com/track/2mNdHkeA9NB8Rbk9SPy1VB"
@@ -107188,7 +107224,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 150037,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/4NpTasMwdpoCE10GmUQ9an"

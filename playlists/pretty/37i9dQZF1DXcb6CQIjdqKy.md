@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj?si=uPRuNh0yTOqvRdVCBxYRUg">Lauren Daigle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,579,021 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,579,554 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

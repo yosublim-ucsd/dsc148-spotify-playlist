@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 137065,
+  "num_followers": 137157,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGI4MGNmNThmYTYzOGQzNzViMGE2MTU0ODc2NzIxZmQ3NzQyNDc2",
+  "snapshot_id": "MCxhZWM2ZmMxODM4YWQ3MWVhYzEyM2VlYjY5NDEzOTA0MjhmOTMxOWVl",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -199,18 +199,26 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "A Calf Born in Winter",
-        "url": "https://open.spotify.com/album/7At6mG0vv1DWLVuRrRr3S0"
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Sophie Barker",
+          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
         }
       ],
-      "duration_ms": 209024,
-      "name": "A Calf Born in Winter",
-      "url": "https://open.spotify.com/track/230tKtsKM3eigmK2CtssAO"
+      "duration_ms": 338279,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -251,26 +259,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
+        "name": "A Calf Born in Winter",
+        "url": "https://open.spotify.com/album/7At6mG0vv1DWLVuRrRr3S0"
       },
       "artists": [
         {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Sophie Barker",
-          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 338279,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
+      "duration_ms": 209024,
+      "name": "A Calf Born in Winter",
+      "url": "https://open.spotify.com/track/230tKtsKM3eigmK2CtssAO"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -975,22 +975,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Permutation",
-        "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 282573,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "A Grand Love Story",
         "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
       },
@@ -1007,18 +991,34 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "H\u00f4tel Costes",
-        "url": "https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8"
+        "name": "Permutation",
+        "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
       },
       "artists": [
         {
-          "name": "De-Phazz",
-          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
-      "duration_ms": 264253,
-      "name": "No jive",
-      "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
+      "duration_ms": 282573,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+        "name": "H\u00f4tel Costes",
+        "url": "https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8"
       },
       "artists": [
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "De-Phazz",
+          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
         }
       ],
-      "duration_ms": 207253,
-      "name": "Hey Now",
-      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
+      "duration_ms": 264253,
+      "name": "No jive",
+      "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
     },
     {
       "added_at": "2020-09-04 01:12:56",

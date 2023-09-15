@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Aje",
+        "url": "https://open.spotify.com/album/2nXACAmcwj81IwAJ7AebT7"
+      },
+      "artists": [
+        {
+          "name": "Badwolf",
+          "url": "https://open.spotify.com/artist/0xXbbSlxdM5nFDIxunsLbD"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Aje",
+      "url": "https://open.spotify.com/track/0SML7NqZGHWeWdoVBXTGW4"
+    },
+    {
+      "album": {
         "name": "Al Barakah",
         "url": "https://open.spotify.com/album/4CBcSSXGCC7q6CPYv9rigq"
       },
@@ -296,6 +314,24 @@
       "duration_ms": 184077,
       "name": "All On Me - Spotify Singles",
       "url": "https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm"
+    },
+    {
+      "album": {
+        "name": "Aluta",
+        "url": "https://open.spotify.com/album/5AGGhnDzlCCPjq74uDfZ4t"
+      },
+      "artists": [
+        {
+          "name": "OV",
+          "url": "https://open.spotify.com/artist/6m4OztP0eEgXadXD9biIN0"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Aluta",
+      "url": "https://open.spotify.com/track/42zyObr3pHrqizANcRdSQK"
     },
     {
       "album": {
@@ -1649,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/3wKyONrSgO5XaH4ojx5bw5"
+      },
+      "artists": [
+        {
+          "name": "MzVee",
+          "url": "https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/4o288GFXXDZIo745sGSFRJ"
+    },
+    {
+      "album": {
         "name": "Devil Agent (2 Fighting)",
         "url": "https://open.spotify.com/album/5bYg6iGA8bULUtNUlovZUK"
       },
@@ -1978,6 +2032,24 @@
       "duration_ms": 201897,
       "name": "Family",
       "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
+    },
+    {
+      "album": {
+        "name": "Fate",
+        "url": "https://open.spotify.com/album/4ReLbue8ShBMjIGbJjGGAw"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178105,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/1QCV9ndrHVnqtMcqXszEN6"
     },
     {
       "album": {
@@ -3134,6 +3206,28 @@
       "duration_ms": 140050,
       "name": "Icon",
       "url": "https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ"
+    },
+    {
+      "album": {
+        "name": "IDme (owo to po leti)",
+        "url": "https://open.spotify.com/album/3oohgPgt3Cj2hhsRUZRpvi"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145125,
+      "name": "IDme (owo to po leti)",
+      "url": "https://open.spotify.com/track/6tJxcQmhOM9jY744gFKWdY"
     },
     {
       "album": {
@@ -5661,6 +5755,28 @@
     },
     {
       "album": {
+        "name": "Shayo",
+        "url": "https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197577,
+      "name": "Shayo",
+      "url": "https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa"
+    },
+    {
+      "album": {
         "name": "Shine / LOL",
         "url": "https://open.spotify.com/album/1c5eNOPt7Lbn8blLBcJVhv"
       },
@@ -6638,7 +6754,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 138527,
       "name": "Win",
       "url": "https://open.spotify.com/track/6oCXQ7IW3eH3YpImlzAs1Q"
@@ -6696,6 +6812,28 @@
       "duration_ms": 155920,
       "name": "WO WO",
       "url": "https://open.spotify.com/track/2D1D9hmwCBApc1JHEA7WaB"
+    },
+    {
+      "album": {
+        "name": "Yakpata",
+        "url": "https://open.spotify.com/album/4TBrmjzEa4cT3A6VS5jyUb"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Black",
+          "url": "https://open.spotify.com/artist/4RBd9AXV1VdGxlWoKVWwXM"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151708,
+      "name": "Yakpata",
+      "url": "https://open.spotify.com/track/1pkAPx26VBIFO8LqYIVWww"
     },
     {
       "album": {

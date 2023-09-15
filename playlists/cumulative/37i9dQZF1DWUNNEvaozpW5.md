@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Rulo y la contrabanda.
+> Lo mejor del rock de aquí, como Arco.
 
-327 songs - 21 hr 16 min
+328 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Adictos a la Euforia](https://open.spotify.com/track/5PZCYFztuEZXuqTzUM8plq) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Adictos a la Euforia](https://open.spotify.com/album/2mT7d69rBY6ShAJu1Vqaea) | 3:55 | 2022-11-10 | 2022-11-25 |
 | [Adiós papá](https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:57 | 2023-08-21 |  |
 | [Agradecido](https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Un Palo Al Agua \(20 Grandes Canciones\)](https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq) | 4:33 | 2022-05-19 | 2022-07-29 |
-| [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 | 2022-07-21 |  |
+| [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 | 2022-07-21 | 2023-09-15 |
 | [Aire](https://open.spotify.com/track/5J8H8pUNxaNj5feLUkDf9u) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [MIMÉTIKA](https://open.spotify.com/album/5b0PxTOb5z40gtv2xnmy9l) | 4:00 | 2022-06-16 | 2022-06-24 |
 | [Aire, Fuego, Tierra y Mar](https://open.spotify.com/track/15F1D3mT2w341QZmRWL1Su) | [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA), [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN) | [Aire, Fuego, Tierra y Mar](https://open.spotify.com/album/4X8K0zgmZ0N8KzJknrtXpp) | 4:39 | 2023-04-27 | 2023-05-05 |
 | [Al Infierno Sin Papeles](https://open.spotify.com/track/5TJ7VhK15u08NDVsWzgD24) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Al Infierno Sin Papeles](https://open.spotify.com/album/7D8e0S6pShMYu0UF8ByGac) | 5:46 | 2022-12-22 | 2023-01-06 |
@@ -39,6 +39,7 @@
 | [ARRÁNCAME EL ALMA](https://open.spotify.com/track/2rGbtFJsnWtY0jKl868YYx) | [Linze](https://open.spotify.com/artist/1tTfoCV93H1A7jvq1PpRJq) | [ARRÁNCAME EL ALMA](https://open.spotify.com/album/3EFNUH21C9xipxUk1VfZOe) | 3:04 | 2023-05-25 | 2023-06-02 |
 | [Aullando en el desierto](https://open.spotify.com/track/41AWQymPR0w55FSm7BXHY6) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [Aullando en el desierto](https://open.spotify.com/album/32aN325jALV3HzwipqtBP7) | 3:22 | 2023-06-01 | 2023-06-16 |
 | [Aunque el Infierno Se Congele](https://open.spotify.com/track/0H7HxKm2szWXhI3JBWATta) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Aunque el Infierno Se Congele](https://open.spotify.com/album/6vMDqzQYAO3cqbLRPTGGoC) | 3:10 | 2023-02-16 | 2023-03-03 |
+| [Aunque estemos muertos](https://open.spotify.com/track/3uO3mTwDGHrarie8K4tNMu) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Aunque estemos muertos](https://open.spotify.com/album/2dBTJbTVyoXU0SbJHbd9ZR) | 4:42 | 2023-09-14 |  |
 | [Aviones Plateados \- En Directo](https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:50 | 2022-05-19 | 2023-04-27 |
 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 | 2022-05-26 |  |
 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 | 2023-08-17 |  |
@@ -277,7 +278,7 @@
 | [Rozando el aire](https://open.spotify.com/track/32TFVoHMTunbU7FWjmSLLW) | [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ), [Nebraska](https://open.spotify.com/artist/408Xlsk3OkET9JXTbU7LxU), [Caracolas](https://open.spotify.com/artist/3iihv1PWr600Gr0u0pnuGh) | [Rozando el aire](https://open.spotify.com/album/0DxftajLNHVKD2wz27pFUu) | 3:56 | 2023-05-25 | 2023-06-16 |
 | [Ruido](https://open.spotify.com/track/1W3JzWJtS57tYDHWTdnloU) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Ruido](https://open.spotify.com/album/29Na8tgQE576CZhA8cdzV9) | 4:58 | 2022-05-26 | 2022-07-27 |
 | [Ruido Blanco](https://open.spotify.com/track/5QNS6ozG3BwrcPPMSBq81h) | [Chelsea Boots](https://open.spotify.com/artist/60ug17UU1lHhqisQwRPxkX) | [Parte I](https://open.spotify.com/album/34idRxomeCJD1h9JSzYViA) | 3:28 | 2023-05-25 | 2023-06-02 |
-| [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 | 2022-06-23 |  |
+| [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 | 2022-06-23 | 2023-09-15 |
 | [Salir](https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Canciones Prohibidas](https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG) | 5:18 | 2022-05-19 |  |
 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 | 2022-06-09 | 2023-09-08 |
 | [Se acaba el baile](https://open.spotify.com/track/2Ne8blsOJHicHczTEAE318) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Los potros del tiempo](https://open.spotify.com/album/2wq6iSLc1qwarbRghaaKJY) | 3:39 | 2022-12-22 | 2023-04-14 |
@@ -316,7 +317,7 @@
 | [Tómalo](https://open.spotify.com/track/2iNJLWve5nchk4PJZQMevq) | [O'Funk'illo](https://open.spotify.com/artist/3GaVCQ4OFLD0BdrXoCKKh8), [Cristian de Moret](https://open.spotify.com/artist/0Lf8YxCqt0flPbiPlBDSPQ) | [Tómalo](https://open.spotify.com/album/60us7zkHW1FYUCy0ppS1Gz) | 3:33 | 2023-06-22 | 2023-06-30 |
 | [Tú ya lo sabes](https://open.spotify.com/track/40u2FUHUMV8oX1lifP6w49) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Tú ya lo sabes](https://open.spotify.com/album/5bWkiHpl38kYEn2a3r1peb) | 4:30 | 2022-09-08 | 2022-09-23 |
 | [Un Poco de Amor](https://open.spotify.com/track/59gm4EA48jXDNrvfDGNlj4) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Un Poco de Amor](https://open.spotify.com/album/3kZtuPCnTQAy9IgTmxqi98) | 3:24 | 2022-05-19 | 2022-06-24 |
-| [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 | 2022-05-26 | 2022-06-27 |
+| [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 | 2022-05-26 |  |
 | [Una Noche Sin Ti](https://open.spotify.com/track/3oUITstGqQVTlFyF32H1Un) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:19 | 2022-06-09 | 2022-07-13 |
 | [Urgente](https://open.spotify.com/track/6skMg3jxXmP2rYp5k7IIcY) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Urgente](https://open.spotify.com/album/67ni11vAsCYVVuZgPkeigJ) | 4:19 | 2023-03-16 | 2023-03-31 |
 | [Uróboros](https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Uróboros](https://open.spotify.com/album/3VYt0Dcj9hPc9ztby9ykl9) | 3:37 | 2023-07-13 |  |

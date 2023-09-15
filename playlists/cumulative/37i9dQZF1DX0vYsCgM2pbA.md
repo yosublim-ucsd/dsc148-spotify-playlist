@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-138 songs - 8 hr 33 min
+139 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2022-12-01 |  |
 | [Blessed](https://open.spotify.com/track/5Sqcm0TFvJd0SDDgrWgFSa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Blessed](https://open.spotify.com/album/5HHocvYdlIP6aEJZ6SDtkn) | 2:42 | 2022-12-01 | 2023-01-13 |
 | [Blip](https://open.spotify.com/track/5HvNPQrx34MJKnvoecVLxz) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Blip](https://open.spotify.com/album/6FeQh0v9766yT2fvM4H3EK) | 2:42 | 2022-12-01 | 2023-01-13 |
-| [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 | 2023-05-11 |  |
+| [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 | 2023-05-11 | 2023-09-15 |
 | [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 | 2022-12-01 |  |
 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 | 2022-12-01 |  |
 | [Careless Whisper](https://open.spotify.com/track/7xIO7GPKco0eG3kxpQpDku) | [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf) | [Careless Whisper](https://open.spotify.com/album/0mfeqXYenUaDj6jJYHxOOR) | 2:42 | 2022-12-01 | 2023-01-13 |
@@ -146,5 +146,6 @@
 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 | 2022-12-01 |  |
 | [Yield](https://open.spotify.com/track/0nBj151JdB5Cp7RYM5pDU8) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 4:16 | 2023-07-13 | 2023-08-25 |
 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 | 2023-01-26 |  |
+| [Your Love \(feat\. House Gospel Choir\) \(Helsloot Remix\)](https://open.spotify.com/track/2NHygo6Jm4sUgKw76WvaJp) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Your Love \(feat\. House Gospel Choir\) \(Helsloot Remix\)](https://open.spotify.com/album/6MoSADkkX59Vn5RDrNcDyw) | 4:13 | 2023-09-07 |  |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

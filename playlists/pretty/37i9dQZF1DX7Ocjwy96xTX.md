@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > dark & dreamy for night creatures
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,399 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,908 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 16 | [Junkie](https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Junkie](https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg) | 3:36 |
 | 17 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 |
 | 18 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 |
-| 19 | [spiral](https://open.spotify.com/track/7M0dr4u7mOvBXZchosvilZ) | [untitled halo](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [spiral](https://open.spotify.com/album/7B5kjHvuXhUU54QdVuA1ry) | 2:15 |
+| 19 | [spiral](https://open.spotify.com/track/7M0dr4u7mOvBXZchosvilZ) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [spiral](https://open.spotify.com/album/7B5kjHvuXhUU54QdVuA1ry) | 2:15 |
 | 20 | [Giving My All 2 U](https://open.spotify.com/track/4EkOA5QmlVDoq5JtSQMRxc) | [WEB](https://open.spotify.com/artist/2P64joyhsQaekrBR6LZRQ3) | [Giving My All 2 U](https://open.spotify.com/album/7IjOfbF7Lb1L6i7wlHbE2Y) | 1:17 |
 | 21 | [wonder if u care](https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [wonder if u care](https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4) | 2:14 |
 | 22 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 49 | [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 |
 | 50 | [Fading Strangers](https://open.spotify.com/track/2XF1JdrtOorRbxw02e3tFI) | [Unreality](https://open.spotify.com/artist/18LV0HPxHANRVU6z3L7xKs) | [Fading Strangers](https://open.spotify.com/album/287xZvqs6sT1Sme8GnVkaf) | 3:15 |
 
-Snapshot ID: `MCwwYzgwOWFiNmFiMjAwNmM0OWFkZmQ2MDQyNjg2YTc1OGU1ZjIyZmFk`
+Snapshot ID: `MCxjZjViNmQ3ZGRlMjcwM2VlNWI4ZjA0YmZjZWZiMzYwODJiNjBmOWQ5`

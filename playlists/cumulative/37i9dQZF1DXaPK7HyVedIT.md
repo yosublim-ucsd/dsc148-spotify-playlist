@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok
 
-120 songs - 6 hr 22 min
+121 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [The Way You Lie](https://open.spotify.com/track/2pKSx4iITnvmewjPzsAu8l) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [The Way You Lie](https://open.spotify.com/album/7s1z9ixqcgzAu8HvOYvilP) | 2:41 | 2023-07-21 |  |
 | [The Weekend](https://open.spotify.com/track/4UPcfEc5whve9QxkgO1Ctl) | [Reznikov](https://open.spotify.com/artist/2INLOHIkRAYNha5uKGiRhn) | [The Weekend](https://open.spotify.com/album/78vyj9aBIscDMC6QNujqbH) | 3:09 | 2023-07-21 | 2023-09-02 |
 | [Think It's Just Enough](https://open.spotify.com/track/5lia1eBt1OvZRFngvsga6g) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Think It's Just Enough](https://open.spotify.com/album/0EttXqOKkbEkhKwKXmUTxv) | 4:24 | 2023-07-21 |  |
-| [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/2WJhtbWwlKny2SOzT58JRD) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC) | 3:51 | 2023-08-25 |  |
+| [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/2WJhtbWwlKny2SOzT58JRD) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC) | 3:51 | 2023-08-25 | 2023-09-15 |
+| [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/6XzYPtLcf1pVmjZ1y2k5T0) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/50foag5P06HSWOkVrnZg33) | 3:51 | 2023-09-11 |  |
 | [Tina](https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [Tina](https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8) | 4:22 | 2023-07-21 | 2023-08-26 |
 | [TRiPPPY](https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr) | [Cour T.](https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o) | [TRiPPPY](https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ) | 5:30 | 2023-08-18 |  |
 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 | 2023-08-18 |  |

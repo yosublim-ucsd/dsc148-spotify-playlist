@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "2 Fresh",
+        "url": "https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD"
+      },
+      "artists": [
+        {
+          "name": "Abstraktt",
+          "url": "https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137622,
+      "name": "2 Fresh",
+      "url": "https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt"
+    },
+    {
+      "album": {
         "name": "234 (PRBLMS)",
         "url": "https://open.spotify.com/album/5PYhGPNQLtnQSawhjaHzq3"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
@@ -2225,6 +2243,28 @@
     },
     {
       "album": {
+        "name": "IDme (owo to po leti)",
+        "url": "https://open.spotify.com/album/3oohgPgt3Cj2hhsRUZRpvi"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145125,
+      "name": "IDme (owo to po leti)",
+      "url": "https://open.spotify.com/track/6tJxcQmhOM9jY744gFKWdY"
+    },
+    {
+      "album": {
         "name": "Ikebe",
         "url": "https://open.spotify.com/album/4Aqq7G5GPVE3yuqfcAfVek"
       },
@@ -2324,7 +2364,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 181714,
       "name": "JAIYE EVERYDAY",
       "url": "https://open.spotify.com/track/1XHXaCmp8ruWJMyNAuXgy6"
@@ -2999,6 +3039,32 @@
     },
     {
       "album": {
+        "name": "Smoke Break Vol.2",
+        "url": "https://open.spotify.com/album/3hcpu050xbDERmszMMfmF6"
+      },
+      "artists": [
+        {
+          "name": "Dusten Truce fka D-Truce",
+          "url": "https://open.spotify.com/artist/4RVAC7ldsfgOf2lybypHdv"
+        },
+        {
+          "name": "Emmeno",
+          "url": "https://open.spotify.com/artist/1O3XebVqhYtCfgRFJV8jxF"
+        },
+        {
+          "name": "Jess ETA",
+          "url": "https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1LuBz3QaRPSXBdIwtcjdqY"
+    },
+    {
+      "album": {
         "name": "World Citizens",
         "url": "https://open.spotify.com/album/7rQGIVZH1sptr2Hq3Lqcy4"
       },
@@ -3474,7 +3540,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 163813,
       "name": "Out There",
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"

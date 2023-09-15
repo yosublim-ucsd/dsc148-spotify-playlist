@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 
 > The best tracks from the great Miles Davis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,664 likes - 75 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,729 likes - 75 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 46 | [Move](https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:34 |
 | 47 | [Jeru](https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 3:13 |
 | 48 | [So What \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:22 |
-| 49 | [Just Squeeze Me](https://open.spotify.com/track/3QWC9bsUI7weE7bkeEQz9a) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [The Legendary Prestige Quintet Sessions](https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm) | 7:28 |
+| 49 | [Just Squeeze Me \- Miles Davis And His Quintet](https://open.spotify.com/track/3C2iim4vUBGbQWBnTR6o9q) | [Miles Davis And His Quintet](https://open.spotify.com/artist/0LW6sREPWemmi5wZDhTh0M) | [Miles And His Quintet \(Miles Davis And His Quintet\)](https://open.spotify.com/album/6AZ1jpH5CEub6Iza2HXZrp) | 7:29 |
 | 50 | [Green Haze \- RVG Remaster](https://open.spotify.com/track/6tDTNXUEGNaFgGibFZS5MU) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Musings Of Miles](https://open.spotify.com/album/7fRwdr4MvqlJhhhssTKutU) | 5:51 |
 | 51 | [Circle](https://open.spotify.com/track/67HzeILnvRD6gjciRW3B17) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Smiles](https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV) | 5:52 |
 | 52 | [Freddie Freeloader \(feat\. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers\)](https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 74 | [On The Corner \- Take 4](https://open.spotify.com/track/3R1vAfFxWwZvli1NepW9TY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete On The Corner Sessions](https://open.spotify.com/album/4ORrWT9p5FH1jhTCATKEcj) | 5:16 |
 | 75 | [Bluebird \- New Take 1](https://open.spotify.com/track/1qJXyjyunPZG7lnvwRNGiI) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker Memorial, Vol\. 1](https://open.spotify.com/album/1ZVtgzuTIOTBKn4LmgNwTX) | 2:55 |
 
-Snapshot ID: `MCxkZDQzNGRmMmU5ZTNjYmQwMjZjMGUyNWRlOGVkMDJhMTkwNTkxYTM1`
+Snapshot ID: `MCw4OTAwOGZjNWYyNDc1ZDdmMmUxYzllMzZhMDRjOTU1YThkNGUxZmQ3`

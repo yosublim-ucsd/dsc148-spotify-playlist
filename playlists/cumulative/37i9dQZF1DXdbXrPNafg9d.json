@@ -3587,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "everything is alive",
+        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273492,
+      "name": "alife",
+      "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
+    },
+    {
+      "album": {
         "name": "alife",
         "url": "https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm"
       },
@@ -3598,7 +3616,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 273492,
       "name": "alife",
       "url": "https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu"
@@ -56166,6 +56184,10 @@
         {
           "name": "Sabrina Song",
           "url": "https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS"
+        },
+        {
+          "name": "Different Hits",
+          "url": "https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK"
         }
       ],
       "date_added": "2023-09-08",

@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: illiomote
 
-828 songs - 2 day 3 hr 40 min
+829 songs - 2 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2023-01-12 | 2023-02-01 |
 | [Ready To Say Goodbye \- feat\. Misi Ke](https://open.spotify.com/track/7kx2HMEHrRyi3nhlhnDGot) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Ready To Say Goodbye \(feat\. Misi Ke\)](https://open.spotify.com/album/2wSTNJxMq78DSnNemgrk2D) | 3:23 | 2023-04-04 | 2023-05-08 |
 | [Reef Chorus](https://open.spotify.com/track/1NKE5EXQ6gucJtyl4WuLGJ) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Reef Chorus](https://open.spotify.com/album/5mX6krPHBq8N2NQP3LtXjK) | 5:59 | 2023-07-20 | 2023-07-28 |
+| [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-14 |  |
 | [Renaissance](https://open.spotify.com/track/1H85Nr99BItA1XgQkqUWhz) | [Sho Takahashi](https://open.spotify.com/artist/642xssKVEVaV5IJXySEUsh) | [Renaissance](https://open.spotify.com/album/6sFX2upcgTDJ1MKHPgS8yF) | 3:36 | 2023-08-27 | 2023-09-06 |
 | [Rent\-A\-Car](https://open.spotify.com/track/2VvE9W1K2cMPaRsFi7kwLv) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Rent\-A\-Car](https://open.spotify.com/album/3715NHRrk351GtX0NhjkPv) | 3:01 | 2023-08-08 | 2023-08-16 |
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2023-01-12 | 2023-02-08 |
@@ -716,7 +717,7 @@
 | [少年](https://open.spotify.com/track/1kMlMvY21mWORqvrEVVnPX) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [少年](https://open.spotify.com/album/3HghVTA1RhGHzVmvIcri32) | 3:54 | 2023-03-14 | 2023-03-16 |
 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 | 2023-07-06 |  |
 | [市井のディスコ](https://open.spotify.com/track/4jqvN0dBhk1I0H3pRxsbcN) | [片想い](https://open.spotify.com/artist/7oOtm11Zlovb1drk8T1zhK) | [市井のディスコ](https://open.spotify.com/album/0s5So4ezp7cPd7bxnoFWTd) | 4:06 | 2023-08-22 | 2023-08-30 |
-| [帰ろう](https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [帰ろう](https://open.spotify.com/album/45ANe5X8QzmFz8isn8JGSf) | 3:48 | 2023-05-23 |  |
+| [帰ろう](https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [帰ろう](https://open.spotify.com/album/45ANe5X8QzmFz8isn8JGSf) | 3:48 | 2023-05-23 | 2023-09-15 |
 | [幽霊](https://open.spotify.com/track/5aJwduSF9XWNHxBBEImSNc) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [幽霊](https://open.spotify.com/album/3kYcafDQ4uHEQKTB7VTXme) | 3:28 | 2023-01-12 | 2023-01-27 |
 | [広高](https://open.spotify.com/track/5JjTcAbdvKPX3JLBP150EL) | [SAI](https://open.spotify.com/artist/26CHm3gYd2zeEfTZeyZzal) | [広高](https://open.spotify.com/album/0YHpnNrAojzAUWTnfk35kq) | 2:26 | 2023-03-16 | 2023-03-29 |
 | [微風](https://open.spotify.com/track/1Fu1Zhso5GXOqn7T2LN22x) | [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [微風](https://open.spotify.com/album/6aUCLekBUGPPdn71mfheiw) | 3:09 | 2023-02-21 | 2023-03-01 |

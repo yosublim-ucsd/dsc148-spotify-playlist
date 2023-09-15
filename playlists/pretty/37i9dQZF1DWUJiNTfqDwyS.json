@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 315518,
+  "num_followers": 316363,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmFlMTVjOGE3ODNlY2MzZTQyYjRkMTY0MjU1ZjllOWY4ZjA5OGIx",
+  "snapshot_id": "MCxlMzQ4YTg3N2JlYTA5MmYwNzRiMzJkYTFhYjc5YzhmZTY4YzY0NTE0",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "The Sickness",
-        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Shout 2000",
-      "url": "https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Greatest Lovesongs Vol. 666",
         "url": "https://open.spotify.com/album/6meTP5bnTECxbCBv8hzD7c"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 234026,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/0evX82L72YwaZIEKw5fEQT"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "The Sickness",
+        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 258053,
+      "name": "Shout 2000",
+      "url": "https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA"
     },
     {
       "added_at": "2023-08-23 14:56:37",

@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : DJ Arafat
 
-144 songs - 8 hr 27 min
+145 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Judas](https://open.spotify.com/track/7zzkXGRNhnkeqGMCKLkLyo) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Judas](https://open.spotify.com/album/5LH3Ut39XL9NEpKXLS2dwn) | 4:05 | 2021-12-20 | 2022-04-15 |
 | [Kabato](https://open.spotify.com/track/0umgit0awfo3yy5qy1wmqA) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Kabato](https://open.spotify.com/album/0fbnFf6YWQa9blwHrvMh1v) | 3:25 | 2023-04-13 | 2023-05-19 |
 | [Kabato](https://open.spotify.com/track/5sQ8C2QYSJPtkx4cDperWl) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Kabato](https://open.spotify.com/album/1T1kSNDG0W34MKT9E2eY6I) | 3:25 | 2023-05-18 |  |
-| [Ketebo](https://open.spotify.com/track/2jQsq7YctsPXWrEqdBgLbU) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU) | [Ketebo](https://open.spotify.com/album/7qfS1oh8pMTb5mBwKbFA7A) | 2:54 | 2023-03-23 |  |
+| [Ketebo](https://open.spotify.com/track/2jQsq7YctsPXWrEqdBgLbU) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU) | [Ketebo](https://open.spotify.com/album/7qfS1oh8pMTb5mBwKbFA7A) | 2:54 | 2023-03-23 | 2023-09-15 |
 | [Kindotila \- Remix](https://open.spotify.com/track/0ZxIKjaUl31uLgla5QJILZ) | [Yvane Kouame](https://open.spotify.com/artist/3C5aa2x3FFL4JdVjXKJYwP), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kindotila \(Remix\)](https://open.spotify.com/album/1TMpL7PorVe5YKhc2zlf3L) | 2:41 | 2023-01-05 | 2023-05-19 |
 | [Kiniwara](https://open.spotify.com/track/0G6pdgRWKkgcTudR5gYqmv) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kiniwara](https://open.spotify.com/album/5xhHfQT7gG3l5Y8VD0ufv1) | 2:51 | 2023-06-29 |  |
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 | 2022-08-12 |
@@ -88,6 +88,7 @@
 | [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 | 2022-06-16 |  |
 | [L'ÉLU](https://open.spotify.com/track/0uBeyUIhQz9VMFhusb4amm) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [L'ÉLU](https://open.spotify.com/album/7z6dxGFKND8D4HVJ4jXcSW) | 3:40 | 2021-12-20 | 2022-01-22 |
 | [La colère du lion](https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [La colère du lion](https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p) | 7:01 | 2021-12-20 | 2022-08-26 |
+| [La Pression](https://open.spotify.com/track/5xtKQTfSc41tLz1gttkghz) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [La Pression](https://open.spotify.com/album/6BLbAR5GXdbWGttpORbPot) | 3:00 | 2023-09-14 |  |
 | [La victoire \- Remix](https://open.spotify.com/track/0FYfNzQ2zhmZFMgAFNVEqL) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [La victoire \(Remix\)](https://open.spotify.com/album/71ZaRIJrHO1VOi8ifqlsdj) | 3:40 | 2021-12-20 | 2022-01-22 |
 | [LA VOIX AUTORISÉE](https://open.spotify.com/track/64JJMek8ikqXOSyUPFxigT) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [LA VOIX AUTORISÉE](https://open.spotify.com/album/6qufDDfosaF5gaQLRkmL4T) | 4:21 | 2022-04-14 | 2023-02-03 |
 | [La vérité](https://open.spotify.com/track/5e89B7HTL78eGqD52uThwT) | [2Boyz](https://open.spotify.com/artist/0NdS4SVwgaxj7O4dtUxwos), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [La vérité](https://open.spotify.com/album/7FdXFRSZjwcqzLOuTKpgdC) | 3:33 | 2021-12-20 | 2022-06-03 |

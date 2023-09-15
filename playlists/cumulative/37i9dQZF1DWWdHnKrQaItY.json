@@ -1349,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "MOVE YOUR BODY",
+        "url": "https://open.spotify.com/album/0mPdAgH86rN9Yt48HrpnOG"
+      },
+      "artists": [
+        {
+          "name": "Zindzi & The Zillionaires",
+          "url": "https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126546,
+      "name": "MOVE YOUR BODY",
+      "url": "https://open.spotify.com/track/2vp7HOVvYo7Z5ZqCAuRCli"
+    },
+    {
+      "album": {
         "name": "My Jam",
         "url": "https://open.spotify.com/album/2d3S8K0TuX800sJc4sBB80"
       },

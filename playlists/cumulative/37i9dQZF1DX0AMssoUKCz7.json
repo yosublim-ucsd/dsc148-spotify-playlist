@@ -8273,6 +8273,32 @@
     },
     {
       "album": {
+        "name": "Night Sky",
+        "url": "https://open.spotify.com/album/0bgqv0wbYkJTzYYRnzBRzW"
+      },
+      "artists": [
+        {
+          "name": "Ruffnux",
+          "url": "https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf"
+        },
+        {
+          "name": "Tenjo",
+          "url": "https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f"
+        },
+        {
+          "name": "Jakob Dreams",
+          "url": "https://open.spotify.com/artist/3ChusCE5PNXmuRuqGzJKVz"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Night Sky",
+      "url": "https://open.spotify.com/track/2jGAAhfQMS0Nz1I90uRqHv"
+    },
+    {
+      "album": {
         "name": "No Diggity",
         "url": "https://open.spotify.com/album/42vpQq9br7zBjdcX1cGiIA"
       },
@@ -13702,7 +13728,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 182654,
       "name": "You Are A Traveler",
       "url": "https://open.spotify.com/track/0WYyQGmQy979roTvrVwlTb"

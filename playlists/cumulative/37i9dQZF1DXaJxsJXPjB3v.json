@@ -1212,10 +1212,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 263733,
       "name": "Skangkgata",
       "url": "https://open.spotify.com/track/70e5LboOZBwRrbwZb36ISE"
+    },
+    {
+      "album": {
+        "name": "Tempy Life",
+        "url": "https://open.spotify.com/album/4TcdlZ58Tfqi1vWfIFqe1w"
+      },
+      "artists": [
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264893,
+      "name": "Skangkgata",
+      "url": "https://open.spotify.com/track/1IySzC0vuHqXITiwa5reMf"
     },
     {
       "album": {

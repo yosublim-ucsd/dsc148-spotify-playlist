@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Melenas
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,081 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,097 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [fatal](https://open.spotify.com/track/4UE8NKlNA2KVbm5R85RQrb) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [clásico vol\. 2](https://open.spotify.com/album/0zwQOZWB0CAu6uic0VN1Ax) | 3:31 |
 | 50 | [Sol \(tras una larga noche\)](https://open.spotify.com/track/1KPe9lv6J8aG3BPymqy2Kh) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Sol \(tras una larga noche\)](https://open.spotify.com/album/42v3lPWVRheA1mMW6YfcPL) | 3:45 |
 
-Snapshot ID: `MCwxYTlkOWMxYjdhZTZhYWQ4YzQzNzk3OWQ1ZjFmN2EzMjg1MGI1NDA4`
+Snapshot ID: `MCw2ZjE1MzlhMzVkZjE0NWRiYTE1ZDBiY2UxYTY1YmE3NTgxZTNjZWZi`

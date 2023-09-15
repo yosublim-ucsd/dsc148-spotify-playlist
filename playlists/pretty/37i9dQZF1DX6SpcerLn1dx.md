@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SpcerLn1dx.md) - [plain]
 
 > Get spooky with these creepy classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 672 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 689 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SpcerLn1dx.md) - [plain]
 | 55 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |
 | 56 | [Black Magic Woman \- 2018 Master](https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 2:52 |
 | 57 | [The Crypt Jam](https://open.spotify.com/track/21zjT55VHzq3PHc2CQlAeJ) | [The Crypt Keeper](https://open.spotify.com/artist/3qTu9ge2h0VltEnDZQ1e2D) | [Original Music From Tales From The Crypt](https://open.spotify.com/album/7wyQJPnNpvGimZrQ7PGO4q) | 4:30 |
-| 58 | [Shakin' All Over \- Single Version](https://open.spotify.com/track/58cDx1uTmaAaF2rqU0UrtF) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Anthology](https://open.spotify.com/album/3S0M6vf4qXcg38cRrjFUSG) | 2:39 |
+| 58 | [Shakin' All Over](https://open.spotify.com/track/17JFh41BYZoo0OGCxhA6IU) | [Randy Bachman](https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg) | [Anthology](https://open.spotify.com/album/3HMPBf4mlZFF8wUtev97Pg) | 2:39 |
 | 59 | [Zombie Zoo](https://open.spotify.com/track/6fKYUIurKDNTHz7bEOaOj6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 | 60 | [D.O.A.](https://open.spotify.com/track/0whBqRSuzEa2ZLv1LeG3K6) | [Bloodrock](https://open.spotify.com/artist/522yoVmanZmrgK5qy3GyRK) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 4:34 |
 
-Snapshot ID: `MCwwZmM5NDJkNDVhOTRjNmFmZGI3ZmZmMDQ4MzYxODViNTI1NDcyYzhm`
+Snapshot ID: `MCxjZjU1YmUwN2QzYWNlZjJkMzA1NjQ0NzY4MDg0NjVhMWYwN2VhZTNl`

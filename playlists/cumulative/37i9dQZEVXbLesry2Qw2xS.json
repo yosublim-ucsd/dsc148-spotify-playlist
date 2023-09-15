@@ -5548,7 +5548,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
@@ -8158,7 +8158,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -9146,7 +9146,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 127741,
       "name": "GMFU (w/ 6arelyhuman)",
       "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
@@ -20475,6 +20475,28 @@
     },
     {
       "album": {
+        "name": "qldne aeg",
+        "url": "https://open.spotify.com/album/5lhETZ4ity3auio9V3qeF8"
+      },
+      "artists": [
+        {
+          "name": "boipepperoni",
+          "url": "https://open.spotify.com/artist/0MjPNmazpZOmBH1nOMaeQY"
+        },
+        {
+          "name": "EiK 2509",
+          "url": "https://open.spotify.com/artist/3U0NdaCegcpzmmrIFradRB"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283428,
+      "name": "qldne aeg",
+      "url": "https://open.spotify.com/track/08ac136xbx2M04GRKewhX9"
+    },
+    {
+      "album": {
         "name": "Queen of Kings",
         "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
       },
@@ -20660,6 +20682,24 @@
       "duration_ms": 206519,
       "name": "Raju reede",
       "url": "https://open.spotify.com/track/7vm2h29bN23fwr8lwRTLgo"
+    },
+    {
+      "album": {
+        "name": "Random Lines",
+        "url": "https://open.spotify.com/album/4TfzALS8YsawS3S3oRACRj"
+      },
+      "artists": [
+        {
+          "name": "LO-FI ROOTS",
+          "url": "https://open.spotify.com/artist/4840I5vgCbKl2opugLm1mE"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119248,
+      "name": "Random Lines",
+      "url": "https://open.spotify.com/track/3gowlDDy5PZOY6tuDRWVBR"
     },
     {
       "album": {
@@ -30010,7 +30050,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 140689,
       "name": "\u0427\u0451\u0440\u043d\u044b\u0439 \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
       "url": "https://open.spotify.com/track/5FJssp1RN96K5AI7K2gJLY"

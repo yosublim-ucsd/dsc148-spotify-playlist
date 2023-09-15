@@ -164,7 +164,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 175906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 159586,
       "name": "Kiss of Fire",
       "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
@@ -3187,6 +3187,10 @@
         "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
       },
       "artists": [
+        {
+          "name": "Kristin Amarie",
+          "url": "https://open.spotify.com/artist/0lhOm4jmoIIpcz37f8GTuK"
+        },
         {
           "name": "David Lanz",
           "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"

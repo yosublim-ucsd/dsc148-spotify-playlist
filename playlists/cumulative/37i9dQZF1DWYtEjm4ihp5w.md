@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Mons
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Pause, Diib
 
 158 songs - 8 hr 21 min
 

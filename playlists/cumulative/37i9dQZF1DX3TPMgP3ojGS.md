@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,740 songs - 3 day 6 hr 0 min
+1,741 songs - 3 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Asylum](https://open.spotify.com/track/5TvVsOFZDkMhb9Kb9GXY9M) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Asylum](https://open.spotify.com/album/3ILqmVB2qJCCt5jzgWm1un) | 3:22 | 2022-03-24 | 2022-06-30 |
 | [At First Sight](https://open.spotify.com/track/7Ffpq66dn7HBkds2cw5UPa) | [Mactominie](https://open.spotify.com/artist/6NFevN87KdATGwxaQvh7ik) | [At First Sight](https://open.spotify.com/album/18VNY5VhRXG44aHPWR0Bdk) | 2:42 | 2021-03-27 | 2022-07-29 |
 | [At Night](https://open.spotify.com/track/4QGD0QyFrCOOplMtVGNFiE) | [Oscar Sundberg](https://open.spotify.com/artist/6dqgUbsMsMRsWoRnuibxwl) | [Lost And Found](https://open.spotify.com/album/6YqfoKDp9GzqvtM1o5J584) | 2:43 | 2022-03-29 | 2022-04-03 |
-| [At The End Of The Day](https://open.spotify.com/track/3x16lncPJzr2VDTtVrPpgj) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [The Old Oak Tree](https://open.spotify.com/album/1mFItBvAGzfPeKdarGWBWo) | 2:11 | 2023-04-15 |  |
+| [At The End Of The Day](https://open.spotify.com/track/3x16lncPJzr2VDTtVrPpgj) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [The Old Oak Tree](https://open.spotify.com/album/1mFItBvAGzfPeKdarGWBWo) | 2:11 | 2023-04-15 | 2023-09-15 |
 | [At The Tivoli](https://open.spotify.com/track/19GNiqhGxo18QvYl3MCdf4) | [Lena Sievers](https://open.spotify.com/artist/1yGv7UPideRPL4IngN6hM0) | [At The Tivoli](https://open.spotify.com/album/0nmQZh29BG30c4ufEZlqYy) | 2:05 | 2021-05-08 | 2021-05-16 |
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-12-24 | 2023-04-16 |
 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 | 2021-08-06 | 2022-04-14 |
@@ -760,6 +760,7 @@
 | [Just the way you are](https://open.spotify.com/track/2OXm1TWbGDL8MhdDWRtSnB) | [Clarence Fischer](https://open.spotify.com/artist/0GagqJW5kwV1vGuMDrSvvP) | [Just the way you are](https://open.spotify.com/album/1PcZqOUTmZrsfUZW7A2kga) | 3:22 | 2021-08-29 | 2022-07-23 |
 | [Just Us](https://open.spotify.com/track/1QQUFiArleFKStW1ttUfoN) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 3:35 | 2021-03-19 | 2022-04-12 |
 | [Kanskje en vakker dag](https://open.spotify.com/track/58cLKmndeBJ6iVv5zyBYnF) | [Kaja Voll](https://open.spotify.com/artist/30GIlEJx2Y7KvXfrbwDsK2) | [Kanskje en vakker dag](https://open.spotify.com/album/1dIzMpEXGafWy3qPn7j9op) | 2:25 | 2021-05-11 | 2022-04-01 |
+| [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 | 2023-09-05 |  |
 | [Kebnekajse](https://open.spotify.com/track/5bP9JMP7HKh1G3sJtTymgT) | [Karin Borg](https://open.spotify.com/artist/0mWi0Jr9Ir8GPGVBpQqI1W) | [Kebnekajse](https://open.spotify.com/album/348NyuQd5wh8DVmDH3mxs6) | 2:19 | 2021-03-11 | 2022-04-04 |
 | [Keep Me](https://open.spotify.com/track/21rxhltWEcMhJmEaSbma3z) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Sleepless](https://open.spotify.com/album/14hIy4MWeAp4AknOaad82A) | 3:10 | 2021-03-27 | 2022-04-05 |
 | [Keeper](https://open.spotify.com/track/4VQK45PgScV4fwxiet9m0n) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Sonder](https://open.spotify.com/album/7Bz611M0ElO4oYmyxVnprP) | 4:57 | 2022-04-14 | 2022-04-16 |

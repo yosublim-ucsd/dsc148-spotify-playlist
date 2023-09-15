@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Jon Langston
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,392 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,974 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Country Music Made Me Do It](https://open.spotify.com/track/2hV9ZAWIPDoMxAglFbIwEb) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Country Music Made Me Do It](https://open.spotify.com/album/5EuUtOWJK2C5VFNkHBKZdU) | 3:29 |
 | 100 | [Never Not Remember You](https://open.spotify.com/track/3PigB8AnVf6zPtWvVC5fJL) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Never Not Remember You](https://open.spotify.com/album/0unG2Z8Ac26MVI2qKnNk5z) | 2:57 |
 
-Snapshot ID: `MCw5YWY0ZGZmZTc3ZTQ5OGI5MGQxZGQ1ZTExZmMwZjVlN2IxNTFiOTgy`
+Snapshot ID: `MCwwNTM0MjA5NWQ2MGNjODU5ZWNmY2Y2ZjBjZTVkNTVhMmFmNTE0ZTk3`

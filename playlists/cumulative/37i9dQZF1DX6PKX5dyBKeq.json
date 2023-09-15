@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Clavish & Aitch",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Ashbeck & Rushy",
   "name": "Rap UK",
   "tracks": [
     {
@@ -2421,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/5bZlhG6Byx0JRvFBurvHGP"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224584,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/4Q2is8M0wHvGbdr1fE3jdJ"
+    },
+    {
+      "album": {
         "name": "Avengers (feat. Popcaan)",
         "url": "https://open.spotify.com/album/4oAFfQnW4DcAwh4MSawVI2"
       },
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 194455,
       "name": "Back Roads",
       "url": "https://open.spotify.com/track/0808GWyq2snY4C53X6CzkR"
@@ -5963,6 +5981,28 @@
     },
     {
       "album": {
+        "name": "RUSH HOUR",
+        "url": "https://open.spotify.com/album/7uiiweBAaAaw8JtpivRhxU"
+      },
+      "artists": [
+        {
+          "name": "Ashbeck",
+          "url": "https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9"
+        },
+        {
+          "name": "Rushy",
+          "url": "https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171677,
+      "name": "CELLY",
+      "url": "https://open.spotify.com/track/7ItFjL0zfTNC6QPn3tUlaD"
+    },
+    {
+      "album": {
         "name": "Cemetery Walks",
         "url": "https://open.spotify.com/album/0Sdd4D7e1wGdqZXCw4nBGt"
       },
@@ -9034,7 +9074,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 227256,
       "name": "Double Tap",
       "url": "https://open.spotify.com/track/77w0gjrcC63Mv0kzP35uxN"
@@ -11350,7 +11390,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 206931,
       "name": "Freedom 2",
       "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
@@ -11900,7 +11940,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 158222,
       "name": "Go Getter",
       "url": "https://open.spotify.com/track/2fbll0OSNaePTCitaM2dnt"
@@ -13710,7 +13750,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 163333,
       "name": "I Made It",
       "url": "https://open.spotify.com/track/3xVngvSWR0VkQjkQFgN9UK"
@@ -14249,6 +14289,24 @@
     },
     {
       "album": {
+        "name": "It's Up",
+        "url": "https://open.spotify.com/album/7xnJECtaafhlrUC1WfHt28"
+      },
+      "artists": [
+        {
+          "name": "Lil Macks",
+          "url": "https://open.spotify.com/artist/0r8PPl6CXkR4SWhbyoSTLU"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "It's Up",
+      "url": "https://open.spotify.com/track/7wTsF9jAPE9TdpPKEZuPTC"
+    },
+    {
+      "album": {
         "name": "I\u2019m Back",
         "url": "https://open.spotify.com/album/6Zbdr0vAj2d1BpZu6k06KY"
       },
@@ -14778,7 +14836,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 182937,
       "name": "Just 4 Me",
       "url": "https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y"
@@ -15066,7 +15124,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 138610,
       "name": "KILOS MIX",
       "url": "https://open.spotify.com/track/0HTblRTEtzPswxEr0LGT8d"
@@ -21164,6 +21222,28 @@
       "duration_ms": 139354,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1CH8BQSYIiQvLJuEJ48pAc"
+    },
+    {
+      "album": {
+        "name": "PARK CHINOIS",
+        "url": "https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202221,
+      "name": "PARK CHINOIS",
+      "url": "https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ"
     },
     {
       "album": {
@@ -29926,7 +30006,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 140281,
       "name": "Veteran",
       "url": "https://open.spotify.com/track/2cHetITRRw9TZtcmsVdjbS"
@@ -30342,6 +30422,32 @@
       "duration_ms": 212801,
       "name": "Warzone (feat. Headie One)",
       "url": "https://open.spotify.com/track/0IJM1hkBCOibW2TJcLJTtf"
+    },
+    {
+      "album": {
+        "name": "TRAPPING - The Movie Soundtrack",
+        "url": "https://open.spotify.com/album/13ABxjXthQ8LLYi5xKWRV1"
+      },
+      "artists": [
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        },
+        {
+          "name": "TRAPPING",
+          "url": "https://open.spotify.com/artist/0f2YKqC2t6A77UsAJ9s1KH"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184619,
+      "name": "Waste Time",
+      "url": "https://open.spotify.com/track/1KnXMdJGQIu3w1VG4BoRmD"
     },
     {
       "album": {

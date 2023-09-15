@@ -4,7 +4,7 @@
 
 > Get spooky with these creepy classics
 
-84 songs - 5 hr 45 min
+85 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,9 +64,10 @@
 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 | 2021-10-25 |  |
 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/7Hr3goCB0X7Yzej8R9aGPS) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [A New Career in a New Town \(1977 \- 1982\)](https://open.spotify.com/album/6DcvIymXDe8sCD1u0fzi8J) | 5:13 | 2021-10-25 | 2022-11-13 |
 | [Season of the Witch](https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 4:53 | 2021-10-25 |  |
+| [Shakin' All Over](https://open.spotify.com/track/17JFh41BYZoo0OGCxhA6IU) | [Randy Bachman](https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg) | [Anthology](https://open.spotify.com/album/3HMPBf4mlZFF8wUtev97Pg) | 2:39 | 2021-10-25 |  |
 | [Shakin' All Over](https://open.spotify.com/track/0CWqJFyQ88sgYrbfFhqINp) | [Randy Bachman](https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg) | [Shakin' All Over](https://open.spotify.com/album/2sD0yWp6l0iIED0Be21Mhz) | 2:45 | 2021-10-25 | 2022-11-13 |
 | [Shakin' All Over](https://open.spotify.com/track/2jX4y8iUPtrAan4gzzKi7h) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Shakin' All Over](https://open.spotify.com/album/4MiiEjLiUWLUDNSbubCNyK) | 2:45 | 2021-10-25 | 2022-07-29 |
-| [Shakin' All Over \- Single Version](https://open.spotify.com/track/58cDx1uTmaAaF2rqU0UrtF) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Anthology](https://open.spotify.com/album/3S0M6vf4qXcg38cRrjFUSG) | 2:39 | 2021-10-25 |  |
+| [Shakin' All Over \- Single Version](https://open.spotify.com/track/58cDx1uTmaAaF2rqU0UrtF) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Anthology](https://open.spotify.com/album/3S0M6vf4qXcg38cRrjFUSG) | 2:39 | 2021-10-25 | 2023-09-15 |
 | [Spirit in the Sky](https://open.spotify.com/track/0Y2SrByf4G3kbq2nBEHQRn) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Music From The Motion Picture Michael](https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22) | 3:59 | 2021-10-25 | 2022-07-29 |
 | [Spirit In The Sky](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 | 2021-10-25 |  |
 | [Spirit In The Sky](https://open.spotify.com/track/2W0DbzekRbeASpkhfLhHbi) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Fourth of July 2021](https://open.spotify.com/album/0fRLn5cUz7tjWvbSz03s0G) | 4:02 | 2021-10-25 | 2022-11-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,893 likes - 54 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,949 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 24 | [Viva La Vida](https://open.spotify.com/track/7cNNiZYPFtWyojppe2MK8J) | [Katie Herzig](https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3) | [Viva La Vida](https://open.spotify.com/album/24a1xuBGgOqj62qlBR1eZR) | 3:13 |
 | 25 | [Turn Your Lights Down Low](https://open.spotify.com/track/4q0LoVlpbnEKjciXc9Ho39) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 5:00 |
 | 26 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 |
-| 27 | [Chandelier](https://open.spotify.com/track/1KByKWssiOQo6rJ1CcyyPX) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Covers](https://open.spotify.com/album/2o8DOpex7NQ9Y9hBvxNRxS) | 3:34 |
+| 27 | [Chandelier](https://open.spotify.com/track/1KByKWssiOQo6rJ1CcyyPX) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Covers](https://open.spotify.com/album/2o8DOpex7NQ9Y9hBvxNRxS) | 3:35 |
 | 28 | [Someone Like You](https://open.spotify.com/track/6VtoP2sJt5oCmPOQIve2sf) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz) | 4:36 |
 | 29 | [7 Years](https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [7 Years](https://open.spotify.com/album/5MupNow8t7OcTop26MnsrO) | 3:58 |
 | 30 | [Fight Song](https://open.spotify.com/track/0IrhV0bATs87xuR8OF0wtB) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Fight Song](https://open.spotify.com/album/1BiEHzeJtADPwVNOKBwKtc) | 4:00 |

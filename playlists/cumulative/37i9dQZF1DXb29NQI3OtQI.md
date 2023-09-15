@@ -2,7 +2,7 @@
 
 ### [00s Easy Rock](https://open.spotify.com/playlist/37i9dQZF1DXb29NQI3OtQI)
 
-> The best easy rock from the 2000s\. Cover: Lifehouse.
+> The best easy rock from the 2000s\. Cover: Switchfoot
 
 113 songs - 7 hr 43 min
 

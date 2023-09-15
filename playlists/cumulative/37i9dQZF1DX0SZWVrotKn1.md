@@ -4,7 +4,7 @@
 
 > Tú me dejaste caer pero el perreo me levantó.
 
-112 songs - 6 hr 45 min
+113 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Pegao](https://open.spotify.com/track/2cOLPCuhMrTzrErYHwVFAj) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Y Yandel Presentan: Los Vaqueros](https://open.spotify.com/album/5gHKtewt6CtuGLiAj2m3XC) | 3:52 | 2021-09-24 |  |
 | [Perdóname](https://open.spotify.com/track/4JOcMuy5myeEaNCKlu5j19) | [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX), [Demphra](https://open.spotify.com/artist/6iWtjkkeqeuVyPlFTVXMxh) | [Perdóname](https://open.spotify.com/album/1QT53Qn2B1mQFF7CfNONXw) | 4:03 | 2021-09-24 | 2022-07-29 |
 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 | 2022-02-11 |  |
-| [Permitame](https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Permitame](https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB) | 3:05 | 2022-02-11 |  |
+| [Permitame](https://open.spotify.com/track/1UfnwkKkzkHZ6h8XEUlr8G) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 3:04 | 2023-04-20 |  |
+| [Permitame](https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Permitame](https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB) | 3:05 | 2022-02-11 | 2023-09-15 |
 | [Permitame](https://open.spotify.com/track/1nkigJQgXmEKKJQWkiXwes) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Perreando en la Casa](https://open.spotify.com/album/219WqxfbsIdbNbc8TXiFAW) | 3:05 | 2022-09-30 | 2022-11-13 |
 | [Permitame](https://open.spotify.com/track/4uJSxi5beZ9GSzq5OKH09h) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Melodia De La Calle](https://open.spotify.com/album/49Ff1eCn22aFRuI5avDtZ6) | 3:05 | 2022-02-11 | 2022-07-29 |
 | [Permitame \(feat\. Yandel\)](https://open.spotify.com/track/5ydCNFk70aZqC9jNsl2rQm) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Melodia De La Calle](https://open.spotify.com/album/26uxqzo94VkVRJDYUDi3uT) | 3:04 | 2021-09-24 | 2022-07-29 |

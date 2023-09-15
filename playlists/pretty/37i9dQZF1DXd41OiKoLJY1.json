@@ -1,15 +1,375 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: AJAA Artwork: Isu Kim\n",
-  "num_followers": 57038,
+  "description": "Fresh releases from your future favorite artists. Cover: Suspiria Pink  Artwork: Isu Kim\n",
+  "num_followers": 57074,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTg0MTQwMTg3YWVmYjRjZGQ1NDA2NGU4M2U0NzQyYzNkYTU4ZGRk",
+  "snapshot_id": "MCw3ZDc0MTllODc4MTdjZDUzYjM2MThlNTNlMDM3OTYzYzZiYWNiZWU2",
   "tracks": [
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6e8NDmOzMAlb3LphpbFFY8"
+      },
+      "artists": [
+        {
+          "name": "Krei",
+          "url": "https://open.spotify.com/artist/1EVBedRMHOBRFKH4B0gaFI"
+        }
+      ],
+      "duration_ms": 124772,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6mb2Xy88Jot68haTBPtDn2"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5v67Qa8ewJuC1JitQWZbhT"
+      },
+      "artists": [
+        {
+          "name": "Suspiria Pink",
+          "url": "https://open.spotify.com/artist/4IKpNf1Bm3nSEa4LZi2F28"
+        }
+      ],
+      "duration_ms": 350955,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/4DV0r0U8ONIEBq8dlFTnBK"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "TALK",
+        "url": "https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44"
+      },
+      "artists": [
+        {
+          "name": "dulai",
+          "url": "https://open.spotify.com/artist/1DwP6HIWrPItZ3hmJkKxQ1"
+        },
+        {
+          "name": "leeza",
+          "url": "https://open.spotify.com/artist/7KmrzNyuaqGPAVVXd9A0Nx"
+        }
+      ],
+      "duration_ms": 144807,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/2F5Qkb1wJNnmQFQ3Edrzfb"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/4EHgT3MZWsbYH5604pVTBc"
+      },
+      "artists": [
+        {
+          "name": "Good Luck Mito",
+          "url": "https://open.spotify.com/artist/7BROMA8gOwOPo07OFWxU9d"
+        }
+      ],
+      "duration_ms": 227560,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/0bGDSMvtpQd4ikRombkPyC"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Never Forget",
+        "url": "https://open.spotify.com/album/68pklr70H6q78VYqLwm7g8"
+      },
+      "artists": [
+        {
+          "name": "Chael",
+          "url": "https://open.spotify.com/artist/2FRvpsh0jsRlOV5V4pJloA"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/5kGEYnjDYO3S3VQjpcydc2"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Tama Na",
+        "url": "https://open.spotify.com/album/5C1aXKuPcgian90kxyq5rd"
+      },
+      "artists": [
+        {
+          "name": "Ichan",
+          "url": "https://open.spotify.com/artist/3U65jtJ0G4RudAEsuanoQA"
+        },
+        {
+          "name": "Thome",
+          "url": "https://open.spotify.com/artist/0TlpoVBa03V0XNXBq7Gjrh"
+        }
+      ],
+      "duration_ms": 192206,
+      "name": "Tama Na",
+      "url": "https://open.spotify.com/track/6V9RhzpiKXobpSc7DzKACg"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "On Heat",
+        "url": "https://open.spotify.com/album/76vZMmysIIRw0zx2divx1W"
+      },
+      "artists": [
+        {
+          "name": "Mikay B",
+          "url": "https://open.spotify.com/artist/1UErefOeoEIFYatT4sgS4G"
+        },
+        {
+          "name": "Corrgtd",
+          "url": "https://open.spotify.com/artist/1wkoRzaLhMGNfNEp7Lj9pV"
+        }
+      ],
+      "duration_ms": 210291,
+      "name": "On Heat",
+      "url": "https://open.spotify.com/track/1nDS87VMqoCKOhEmmijbn2"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Tagaytay Nights",
+        "url": "https://open.spotify.com/album/7AFzPm382QMHI06XM2QhPl"
+      },
+      "artists": [
+        {
+          "name": "LIEN",
+          "url": "https://open.spotify.com/artist/7KVDN4p3IBUDnYrAHlue7V"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "Tagaytay Nights",
+      "url": "https://open.spotify.com/track/2hrq0mHZrpgQPc8b2FBt2S"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Bagong Siglo",
+        "url": "https://open.spotify.com/album/7LYLKXyZ6PGjEXiZFKk6Rs"
+      },
+      "artists": [
+        {
+          "name": "Sound",
+          "url": "https://open.spotify.com/artist/4fon6I2F4biN5OAfOs40Iy"
+        }
+      ],
+      "duration_ms": 242246,
+      "name": "Bagong Siglo",
+      "url": "https://open.spotify.com/track/0bJz0TDniUEYAkN1tSO0dO"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Kahit Na Ang Sungit Mo",
+        "url": "https://open.spotify.com/album/1uS7tF7xuNbAES8fAKnyCJ"
+      },
+      "artists": [
+        {
+          "name": "Cladge",
+          "url": "https://open.spotify.com/artist/3rMRT566R5aqW45GWOuJPK"
+        }
+      ],
+      "duration_ms": 146932,
+      "name": "Kahit Na Ang Sungit Mo",
+      "url": "https://open.spotify.com/track/2pOVdYsx8H0Vy4vJcYEFP2"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Not Usual",
+        "url": "https://open.spotify.com/album/6gplgQNxuLTRnWvJiPLs7M"
+      },
+      "artists": [
+        {
+          "name": "SK!D",
+          "url": "https://open.spotify.com/artist/44IMSufMeFgCqrPpBTI9Di"
+        }
+      ],
+      "duration_ms": 214495,
+      "name": "Not Usual",
+      "url": "https://open.spotify.com/track/409GJKLg6aIMjLum8ldQAI"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "INY",
+        "url": "https://open.spotify.com/album/7paWK0U1kpPtAfvRVlH5eW"
+      },
+      "artists": [
+        {
+          "name": "Gunna Lex",
+          "url": "https://open.spotify.com/artist/31CmIg7rZYD3l0UD5qD7MP"
+        },
+        {
+          "name": "Lamanila",
+          "url": "https://open.spotify.com/artist/1pZs1mhm2iejueAsqokPWL"
+        },
+        {
+          "name": "Clumsy",
+          "url": "https://open.spotify.com/artist/4ifyWuaY38kLTehLtVJ2jp"
+        }
+      ],
+      "duration_ms": 163870,
+      "name": "INY",
+      "url": "https://open.spotify.com/track/4wLCVuJssqzrTvMVKSBf4f"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Most Hated",
+        "url": "https://open.spotify.com/album/1PW7KxGhdBTdireoKZSQQp"
+      },
+      "artists": [
+        {
+          "name": "Saintjayp",
+          "url": "https://open.spotify.com/artist/5xDw2ESwCe7Mms65pq9nVS"
+        },
+        {
+          "name": "Nueve Lio",
+          "url": "https://open.spotify.com/artist/7cKm260VTIxmFu0I202kFI"
+        }
+      ],
+      "duration_ms": 155663,
+      "name": "Most Hated",
+      "url": "https://open.spotify.com/track/08yV1tDzlKZ1Gs7zZJevbw"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "MILKSHAKE",
+        "url": "https://open.spotify.com/album/7M8hPx77eqYjm5KbyMlLj6"
+      },
+      "artists": [
+        {
+          "name": "davidgocray",
+          "url": "https://open.spotify.com/artist/7IGGcRfxyZgcplCukyvWx1"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "MILKSHAKE",
+      "url": "https://open.spotify.com/track/4Ear6ErY42P4ncN7ABYeu1"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "FUBU",
+        "url": "https://open.spotify.com/album/34n4ChWVzC4CCm0p6WlbXk"
+      },
+      "artists": [
+        {
+          "name": "U Fretz",
+          "url": "https://open.spotify.com/artist/5WFJkIcvmmSKUYT07hzC5U"
+        }
+      ],
+      "duration_ms": 148718,
+      "name": "FUBU",
+      "url": "https://open.spotify.com/track/34M5MdVeVN9ik9FSQ3cV2Y"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Your Time",
+        "url": "https://open.spotify.com/album/0PPx2qRJuFbaKqAgfFgjMM"
+      },
+      "artists": [
+        {
+          "name": "Yanyan Rafols",
+          "url": "https://open.spotify.com/artist/2DFVN580LCBfRUfVy3m1mp"
+        }
+      ],
+      "duration_ms": 198503,
+      "name": "Your Time",
+      "url": "https://open.spotify.com/track/7sTmSFgpcBolXdSAicInNt"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "GOODFELLAS",
+        "url": "https://open.spotify.com/album/4acRyU3DxxrKUJGReglFAx"
+      },
+      "artists": [
+        {
+          "name": "Ruther",
+          "url": "https://open.spotify.com/artist/31zipYoACFKp7kDDp9HON9"
+        }
+      ],
+      "duration_ms": 162576,
+      "name": "GOODFELLAS",
+      "url": "https://open.spotify.com/track/6bf1b2KaFyD9NIRlDXEemG"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Forrest Gump Freestyle",
+        "url": "https://open.spotify.com/album/7IMpjYANaJruX02DkKLgIq"
+      },
+      "artists": [
+        {
+          "name": "Red Dot",
+          "url": "https://open.spotify.com/artist/4FeguGMmvf7pMfyvZVcWhT"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Forrest Gump Freestyle",
+      "url": "https://open.spotify.com/track/1BD61ja6dTdntaah679JrN"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/2OEL8NQxKZ5yylbbSGG2BS"
+      },
+      "artists": [
+        {
+          "name": "The 12/21",
+          "url": "https://open.spotify.com/artist/4nM97dII7qHxrZKU0IjKYE"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/1x8Kju9hogmgxusGqLoYlR"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "If her heart ain't mine",
+        "url": "https://open.spotify.com/album/6w25OCs9kdBbya017zonkA"
+      },
+      "artists": [
+        {
+          "name": "Asian Passerby",
+          "url": "https://open.spotify.com/artist/2FaAmGYDQTjcp72YgszyYJ"
+        }
+      ],
+      "duration_ms": 201912,
+      "name": "If her heart ain't mine",
+      "url": "https://open.spotify.com/track/0xbc9VyKpNTetJel5vginJ"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Kailan Kaya",
+        "url": "https://open.spotify.com/album/50X46zz6VQa2tVhEXUSfHQ"
+      },
+      "artists": [
+        {
+          "name": "Jake sue",
+          "url": "https://open.spotify.com/artist/4pHJMjb8iXM90sJDbOaxf2"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Kailan Kaya",
+      "url": "https://open.spotify.com/track/0oArCxXFF7nrWamCgAkYVq"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Delusyonal",
         "url": "https://open.spotify.com/album/3DtHrNDTZfImT3yqdmHT6S"
@@ -25,7 +385,7 @@
       "url": "https://open.spotify.com/track/5J7utyhPkxHZxZXdQh02IE"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/2Wu7hLFHalklYvHDIiTPoZ"
@@ -41,7 +401,7 @@
       "url": "https://open.spotify.com/track/4v0gAyFjpWihZwbT8A48BR"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "JESUS NAKA PEACE",
         "url": "https://open.spotify.com/album/2WYYGer67RJw2W6tSYrCTb"
@@ -57,7 +417,7 @@
       "url": "https://open.spotify.com/track/6fr2p2X8udmdOMU5X3u5JZ"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "4 \u00dc",
         "url": "https://open.spotify.com/album/1HSg6ThaYBKtzohSrtLLtN"
@@ -73,7 +433,7 @@
       "url": "https://open.spotify.com/track/3mCED5zZ8Xyu37eKzOiwag"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Kamay",
         "url": "https://open.spotify.com/album/521mbRcbE3PxzKBi0OhPUR"
@@ -89,7 +449,7 @@
       "url": "https://open.spotify.com/track/25tV4jyqxLvaCmc1sAllel"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Di Nila Alam",
         "url": "https://open.spotify.com/album/3nvMEu783MT0Z3wtMbBoGI"
@@ -105,7 +465,7 @@
       "url": "https://open.spotify.com/track/66D77u8TyWWP2DhBWf9Vpx"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "SIGE SUMABAY",
         "url": "https://open.spotify.com/album/1qJn8VDB3qpwhGgxsOmVcM"
@@ -121,7 +481,7 @@
       "url": "https://open.spotify.com/track/68Mq0WuufOCHhrrXe8xzQ4"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "DKL",
         "url": "https://open.spotify.com/album/3mMNDqFmww0WMzYPS5zGJT"
@@ -137,7 +497,7 @@
       "url": "https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Sayawan Na",
         "url": "https://open.spotify.com/album/2tKmR4MfTXEr56bgK111Fj"
@@ -153,7 +513,7 @@
       "url": "https://open.spotify.com/track/6tKC5WvQcX1RqyM9Ina1HS"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Ano Ba Talaga",
         "url": "https://open.spotify.com/album/4f1ARYbxxP5IQPWfUMGMNz"
@@ -169,7 +529,7 @@
       "url": "https://open.spotify.com/track/2HEemBB75MEuLqBdr5Dfwq"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/0HnJFAoOrnwrFgZBMKZUCW"
@@ -189,7 +549,7 @@
       "url": "https://open.spotify.com/track/0T6IrFyuPfLCcRD986iUbg"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "no label",
         "url": "https://open.spotify.com/album/3kUF99JlMpZ5E76EXs1fAZ"
@@ -209,7 +569,7 @@
       "url": "https://open.spotify.com/track/6D8sAcIhCyRRIITOTcVK5d"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "FCC BOYS",
         "url": "https://open.spotify.com/album/0vn0Mlnuf4W2rC8YjkTXv4"
@@ -229,7 +589,7 @@
       "url": "https://open.spotify.com/track/3u04ddUOJQ68wOVAVloM0d"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/75L2FZs0o3tXXvcwi06NlK"
@@ -253,7 +613,7 @@
       "url": "https://open.spotify.com/track/6IEDtUYVEAC1tSVd22R12C"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Wandered Lonely",
         "url": "https://open.spotify.com/album/5SHQ55a3wLz6qO0kyx8cYS"
@@ -269,7 +629,7 @@
       "url": "https://open.spotify.com/track/2G68vZlO4eF8jtYQBOLOHy"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Kilig",
         "url": "https://open.spotify.com/album/0DdjrlS5m083TfXkdNIBnV"
@@ -285,7 +645,7 @@
       "url": "https://open.spotify.com/track/3JoysThpvLBagXyjMBkRu3"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "UWU",
         "url": "https://open.spotify.com/album/7oQVuv0VJi1WUjRvsBuT6m"
@@ -301,7 +661,7 @@
       "url": "https://open.spotify.com/track/2Zib8gVapc6UJWCksjN4MZ"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Ngada't Kamatay",
         "url": "https://open.spotify.com/album/3yAM3eP8PT6upXlPO7PM3c"
@@ -317,7 +677,7 @@
       "url": "https://open.spotify.com/track/0hpnE7BlImzkzCNH18g7dk"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Di Nagpapaalam",
         "url": "https://open.spotify.com/album/5x6Pza6lHaIvUeNdw3PMXg"
@@ -333,7 +693,7 @@
       "url": "https://open.spotify.com/track/477JwouqAiUJU3QvTMzFqh"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Kailan?",
         "url": "https://open.spotify.com/album/2PBXrPcgzMktqfSIo1a9tZ"
@@ -349,7 +709,7 @@
       "url": "https://open.spotify.com/track/1mCRq8iaMRADtKtNcuhain"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "pull me up (break it off)",
         "url": "https://open.spotify.com/album/1Qaju1PDrNg5GxlzDkPUG6"
@@ -365,7 +725,7 @@
       "url": "https://open.spotify.com/track/3v18xgzVqIFonlXIMb23ym"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Ayoko ng Ulitin",
         "url": "https://open.spotify.com/album/5g0YlOUoLDqqEIh1lMvWOo"
@@ -381,7 +741,7 @@
       "url": "https://open.spotify.com/track/62Rop4kC6xArEDwYKV2O4Z"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/2SICZge37ldeuH04vPmfGq"
@@ -397,7 +757,7 @@
       "url": "https://open.spotify.com/track/6yN2sunvHJIhFvHn99YdHl"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "PAALAM",
         "url": "https://open.spotify.com/album/6RCw6WQusUr5nqcBvrdxK0"
@@ -413,7 +773,7 @@
       "url": "https://open.spotify.com/track/1EAyjNIZQrTPMRwA3BqXWv"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "You Know Why",
         "url": "https://open.spotify.com/album/5apkeU6giPiXDWy3opgoHB"
@@ -429,7 +789,7 @@
       "url": "https://open.spotify.com/track/2jDBOI6k7xdrKnriP7UZqE"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Magdamag",
         "url": "https://open.spotify.com/album/3iDeh0fFf7vcAPSDA6eSTh"
@@ -445,7 +805,7 @@
       "url": "https://open.spotify.com/track/1t3YrmdkNAjonhIUBIpm8Y"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/5lCiWYQZF7CLhirdeuFXEK"
@@ -465,7 +825,7 @@
       "url": "https://open.spotify.com/track/5Xzg002lXQpUmJCZHeLPKK"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "lately",
         "url": "https://open.spotify.com/album/2E8kbBu4PvlhK6eABA7hzf"
@@ -481,7 +841,7 @@
       "url": "https://open.spotify.com/track/3YnTdXRTanguQKUxkPwgC7"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Mahimbing",
         "url": "https://open.spotify.com/album/0aPDajq1yOzGLYMgz3e952"
@@ -497,7 +857,7 @@
       "url": "https://open.spotify.com/track/1BIWy84Qpw2TTXUxTeNEQH"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Pintig",
         "url": "https://open.spotify.com/album/4bF21PJHU2mD1Xtj0F7x6J"
@@ -513,7 +873,7 @@
       "url": "https://open.spotify.com/track/5KJy2qiuLZiQgN1KgnIf2a"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Day 1's",
         "url": "https://open.spotify.com/album/5Ljh9MlaIgxdbEnMVWdqtj"
@@ -533,7 +893,7 @@
       "url": "https://open.spotify.com/track/1wDDJksKr54KrHc3gftNja"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Friendly",
         "url": "https://open.spotify.com/album/3ccLvFCoKwWa8p2imKHW4T"
@@ -549,7 +909,7 @@
       "url": "https://open.spotify.com/track/3xemdEY0o53WtIVemghnBl"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "PA TRY NGA",
         "url": "https://open.spotify.com/album/5GQz8SRfDTQ8EenAr0kll4"
@@ -565,7 +925,7 @@
       "url": "https://open.spotify.com/track/7krb49Rlsp4WHkcZZgo1Pm"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Call You In Heaven",
         "url": "https://open.spotify.com/album/1xPWP62NnQSHmttUMgfPuo"
@@ -581,7 +941,7 @@
       "url": "https://open.spotify.com/track/0VTuxQ54M4gDNk2TfY0mQt"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Ngiti",
         "url": "https://open.spotify.com/album/0coPmrouKYNZhTIhYbWpIm"
@@ -597,7 +957,7 @@
       "url": "https://open.spotify.com/track/67gfgb76lYSkw8UBLsojFm"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/0Z6qxVBAoM8nceCoUqM5Or"
@@ -617,7 +977,7 @@
       "url": "https://open.spotify.com/track/51b1T1ZktWpAvR0hMs9EBP"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/0PK29QgtBVmCSQjrGT4DJ2"
@@ -633,7 +993,7 @@
       "url": "https://open.spotify.com/track/2MsMUGQXVg28LVCa1laFIj"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "i might need u",
         "url": "https://open.spotify.com/album/4nXemnh4tScmeapaFobJww"
@@ -649,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3ALVrfTdXJfYNb5WE0udW3"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "CHEKE",
         "url": "https://open.spotify.com/album/14Yq1ALWq9GgBULqGl7YX5"
@@ -665,7 +1025,7 @@
       "url": "https://open.spotify.com/track/4tnpk7TpeHWI7gkIEPdsKX"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Gising",
         "url": "https://open.spotify.com/album/1D49LSwByTNMOGWhLwINNr"
@@ -681,7 +1041,7 @@
       "url": "https://open.spotify.com/track/0f7KIN5qqHLCxTUqiwN9o5"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Zone",
         "url": "https://open.spotify.com/album/5bPOIsODE5DrtcEgZueMuH"
@@ -701,7 +1061,7 @@
       "url": "https://open.spotify.com/track/1rumncAJysoKoz5AtGOqD5"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Sunflower Girl",
         "url": "https://open.spotify.com/album/0lL3RN6t6KaVhZ380gowDc"
@@ -717,7 +1077,7 @@
       "url": "https://open.spotify.com/track/7fNYrzBgQp8kZ8YIOxITuO"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "really",
         "url": "https://open.spotify.com/album/68AdNsOiBxk5RkcFNrq6z7"
@@ -733,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4hMrbt1U96Se3pNb2bnMbM"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/1nLGUM2e0ZuT6Mh9jw6i8x"
@@ -749,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4IXDjMZgsmonWwRDXtjP6w"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Ronahn",
         "url": "https://open.spotify.com/album/53LrYtUgZdTQB6bxxJxfO8"
@@ -765,7 +1125,7 @@
       "url": "https://open.spotify.com/track/1l1XDC9ToQyw252qCiWElQ"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Jefn",
         "url": "https://open.spotify.com/album/73aDP5Ds9p1MyRm6lz6fOc"
@@ -781,7 +1141,7 @@
       "url": "https://open.spotify.com/track/39VjRTEheEIVNtqDgvmkSd"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "REAL ONES",
         "url": "https://open.spotify.com/album/0S4ylRGYaCHFbjc9EoUaMn"
@@ -801,7 +1161,7 @@
       "url": "https://open.spotify.com/track/2EoC2RNRckXUnrvcdQEmhe"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Electric Wind God Fist",
         "url": "https://open.spotify.com/album/7vwrfrqiMoRyhIW4RXIWRU"
@@ -817,7 +1177,7 @@
       "url": "https://open.spotify.com/track/2MtpYoniQYD2Llvxh6BAp8"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "Lakaw",
         "url": "https://open.spotify.com/album/6vtWezYaEz18T1OkSP0zxf"
@@ -833,7 +1193,7 @@
       "url": "https://open.spotify.com/track/07MVF0tNoL6Cclh6MbUDDu"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "For Keeps",
         "url": "https://open.spotify.com/album/0F8VMB8iNhdON5tHLxdxd4"
@@ -849,7 +1209,7 @@
       "url": "https://open.spotify.com/track/3IUwdeCnZWuGuJI0fsxfLI"
     },
     {
-      "added_at": "2023-09-07 16:00:00",
+      "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "LOVE DIARY (Page 1: Contentment)",
         "url": "https://open.spotify.com/album/4DcgLE5Vi0gkXwMsTwvMEu"
@@ -867,410 +1227,6 @@
       "duration_ms": 261346,
       "name": "LOVE DIARY - Page 1: Contentment",
       "url": "https://open.spotify.com/track/2w7iul07zm0KUzT4kZO6ZZ"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Dogs In The Summer",
-        "url": "https://open.spotify.com/album/3TYz9iIdmFs9hw9BOOsCcX"
-      },
-      "artists": [
-        {
-          "name": "The One Pesos",
-          "url": "https://open.spotify.com/artist/120AkSqHkiSNkanAkWEMRk"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "Dogs In The Summer",
-      "url": "https://open.spotify.com/track/0KW9PyyR0mkMKtEOEWJvSU"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Haging",
-        "url": "https://open.spotify.com/album/7qznKc6PkpXUWwzpsoiIlX"
-      },
-      "artists": [
-        {
-          "name": "Misha De Leon",
-          "url": "https://open.spotify.com/artist/78S03n1EkSdtQyVITyPyl8"
-        }
-      ],
-      "duration_ms": 224132,
-      "name": "Haging",
-      "url": "https://open.spotify.com/track/6zalkKKAGNnSND6C5mNlqw"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Run and Gun",
-        "url": "https://open.spotify.com/album/1k0CqNSGlgsgXCjQZjRblr"
-      },
-      "artists": [
-        {
-          "name": "Comic's Trip",
-          "url": "https://open.spotify.com/artist/310zOlUDYa8Q9kLGhB0PSN"
-        }
-      ],
-      "duration_ms": 227241,
-      "name": "Run and Gun",
-      "url": "https://open.spotify.com/track/3aO1TaQBdq6yNECN5Z8FIx"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "OH, INDAY",
-        "url": "https://open.spotify.com/album/2z40tIhyP2reIXHS7AzKHw"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Vasquez",
-          "url": "https://open.spotify.com/artist/6oyhXZ7eZsXKakCcCVS18y"
-        }
-      ],
-      "duration_ms": 259555,
-      "name": "OH, INDAY",
-      "url": "https://open.spotify.com/track/7DSZBxXmILLFLWwPxLcfQl"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "hawak nang mahigpit",
-        "url": "https://open.spotify.com/album/0s2sWVERTIJ1rJ4PBhM730"
-      },
-      "artists": [
-        {
-          "name": "ischi",
-          "url": "https://open.spotify.com/artist/5cdH6V4FS28zQgu4nyvaja"
-        }
-      ],
-      "duration_ms": 208882,
-      "name": "hawak nang mahigpit",
-      "url": "https://open.spotify.com/track/21piMoYDTXQOVRh8rhKRJq"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Kahit Na",
-        "url": "https://open.spotify.com/album/1PyY97apCpz7cVXxy3eQnM"
-      },
-      "artists": [
-        {
-          "name": "Ataska",
-          "url": "https://open.spotify.com/artist/5WXOc5RknE9PY8ie8plLvx"
-        }
-      ],
-      "duration_ms": 301714,
-      "name": "Kahit Na",
-      "url": "https://open.spotify.com/track/2Y6R5ita2VAqFxvrTGU81m"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Pagmamahal",
-        "url": "https://open.spotify.com/album/7oTkFVvPk1iBTb7AVqNCPc"
-      },
-      "artists": [
-        {
-          "name": "Primo",
-          "url": "https://open.spotify.com/artist/0BrL1OP8ovgwrMIpfkoKAx"
-        },
-        {
-          "name": "Allan Benavides",
-          "url": "https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg"
-        }
-      ],
-      "duration_ms": 191489,
-      "name": "Pagmamahal",
-      "url": "https://open.spotify.com/track/6k4Co91WkrJ6VhKF87uZUj"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/5MT1HwpY7nTJ8ACR9Va0Wy"
-      },
-      "artists": [
-        {
-          "name": "Young Fresho",
-          "url": "https://open.spotify.com/artist/4BIRCoA30qQVo9iqaV2E6m"
-        },
-        {
-          "name": "Allan Benavides",
-          "url": "https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg"
-        }
-      ],
-      "duration_ms": 235131,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1XiZBCkXuDN3Zs7S8zDB8W"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "ALL I NEED",
-        "url": "https://open.spotify.com/album/0Q5B2x9XO6bCqLN8loYo31"
-      },
-      "artists": [
-        {
-          "name": "SJ Maglana",
-          "url": "https://open.spotify.com/artist/28lD6fIj7acTZNQHr7UIqc"
-        }
-      ],
-      "duration_ms": 179710,
-      "name": "ALL I NEED",
-      "url": "https://open.spotify.com/track/3MAmSIviBmEkAheObV7sHn"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/3kGzbutzEVNfONRVcXwyf4"
-      },
-      "artists": [
-        {
-          "name": "Gab Mabanta",
-          "url": "https://open.spotify.com/artist/2BcBX0znvjTTuUw2f0bTQQ"
-        }
-      ],
-      "duration_ms": 277741,
-      "name": "Dreamland",
-      "url": "https://open.spotify.com/track/06QalNnVHUw4CCh52rHHLx"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "I Like It",
-        "url": "https://open.spotify.com/album/0IEtkK9WHyIqW1KFGZ9ZHt"
-      },
-      "artists": [
-        {
-          "name": "Kyrus",
-          "url": "https://open.spotify.com/artist/2WN13ZeABzdwbyqbyXK6az"
-        },
-        {
-          "name": "Hijo",
-          "url": "https://open.spotify.com/artist/5FKfbso0qRACpiLxHQ0Ad6"
-        }
-      ],
-      "duration_ms": 205858,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/7F5nzfvqecq7vPzc13YgRJ"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "From A to B",
-        "url": "https://open.spotify.com/album/2MJgFu3u7nlH3sAWETJwPn"
-      },
-      "artists": [
-        {
-          "name": "Sound",
-          "url": "https://open.spotify.com/artist/4fon6I2F4biN5OAfOs40Iy"
-        }
-      ],
-      "duration_ms": 231120,
-      "name": "From A to B",
-      "url": "https://open.spotify.com/track/7dUFtxszvlgw4sgKbxbxlw"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Tabi",
-        "url": "https://open.spotify.com/album/2ZlszttVNxGJo3kRJ58NNT"
-      },
-      "artists": [
-        {
-          "name": "deyo",
-          "url": "https://open.spotify.com/artist/5bF9hgr4Q88TwENK5D32Vq"
-        }
-      ],
-      "duration_ms": 227123,
-      "name": "Tabi",
-      "url": "https://open.spotify.com/track/7wgWeB6RKAfcMOq48npmoE"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "boho babe",
-        "url": "https://open.spotify.com/album/3JT6cNrOKXXoD7yH98yiSS"
-      },
-      "artists": [
-        {
-          "name": "buko boys",
-          "url": "https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa"
-        },
-        {
-          "name": "Sunny Side Up!",
-          "url": "https://open.spotify.com/artist/62JSntrhTQZg2buPDIoGjQ"
-        }
-      ],
-      "duration_ms": 146976,
-      "name": "boho babe",
-      "url": "https://open.spotify.com/track/4P9VD39kOCzF02VwQ98MAv"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/0mWUfnQkonmY7Td5XN31T6"
-      },
-      "artists": [
-        {
-          "name": "Mica Javier",
-          "url": "https://open.spotify.com/artist/1fwxng0bfmgRfzdutglXEa"
-        }
-      ],
-      "duration_ms": 172075,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1UiEbiTRPVVq84zWwLYyku"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Di Na Bale",
-        "url": "https://open.spotify.com/album/07u7dY3CBYc6gbJIqOtbMz"
-      },
-      "artists": [
-        {
-          "name": "Chasing Juan",
-          "url": "https://open.spotify.com/artist/7ds8mkniNEN13hKVoupaKJ"
-        }
-      ],
-      "duration_ms": 316928,
-      "name": "Di Na Bale",
-      "url": "https://open.spotify.com/track/2OwyswZDemMdj4sWsSWJX5"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Kasama Ka",
-        "url": "https://open.spotify.com/album/4TSuZZlI1vRqtvMdMrTgkR"
-      },
-      "artists": [
-        {
-          "name": "Tone of Bali",
-          "url": "https://open.spotify.com/artist/1W5aJnZLNl6NAD7RGp2kHm"
-        }
-      ],
-      "duration_ms": 259185,
-      "name": "Kasama Ka",
-      "url": "https://open.spotify.com/track/4cXpHhLgGYsLJbAOdEUDqK"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Panaginip",
-        "url": "https://open.spotify.com/album/7qwVJnYQm5YxdyEBnLbg7l"
-      },
-      "artists": [
-        {
-          "name": "Andria Sanchez",
-          "url": "https://open.spotify.com/artist/25Yb7BpKOuS8fjj6Ld9sfl"
-        }
-      ],
-      "duration_ms": 248250,
-      "name": "Panaginip",
-      "url": "https://open.spotify.com/track/2n5EF0EeUJCojO6jZydZbu"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Taran",
-        "url": "https://open.spotify.com/album/202pbgYdkE1pf8FTItEOwO"
-      },
-      "artists": [
-        {
-          "name": "VINCENT",
-          "url": "https://open.spotify.com/artist/27U7ONzMa208Zf4JBPvH4G"
-        }
-      ],
-      "duration_ms": 239954,
-      "name": "Taran",
-      "url": "https://open.spotify.com/track/2M0G2cix4niAmJ7KK0xRWg"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "SUNSET AVENUE",
-        "url": "https://open.spotify.com/album/0ljHRn6vNocbPoRv5LLyWn"
-      },
-      "artists": [
-        {
-          "name": "enbi",
-          "url": "https://open.spotify.com/artist/77SPiREka8o40HIsiPC00M"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "SUNSET AVENUE",
-      "url": "https://open.spotify.com/track/61CDCKlS9tFDSjCzlIBSrs"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Beso",
-        "url": "https://open.spotify.com/album/6zYsR32lruQMdKfeJRwW8k"
-      },
-      "artists": [
-        {
-          "name": "Dani Zam",
-          "url": "https://open.spotify.com/artist/0bJM4Kl0INlyoFuQvAVjgq"
-        }
-      ],
-      "duration_ms": 217301,
-      "name": "Beso",
-      "url": "https://open.spotify.com/track/44AjudaoSiBmXKXPQNGKZo"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Sa Dulo",
-        "url": "https://open.spotify.com/album/6iyzIBXRAg4wy6QdxlzjsS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Keith",
-          "url": "https://open.spotify.com/artist/42pNpv8jLdLIBfjJu43S87"
-        },
-        {
-          "name": "delo",
-          "url": "https://open.spotify.com/artist/0SSFp9AW4bh2oOTALqvvjs"
-        }
-      ],
-      "duration_ms": 226417,
-      "name": "Sa Dulo",
-      "url": "https://open.spotify.com/track/7G6DEX3VMydNGd7zqenmLf"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Love Drunk",
-        "url": "https://open.spotify.com/album/4TePh4JOrRahbnKi6JeO13"
-      },
-      "artists": [
-        {
-          "name": "Kat Jaranilla",
-          "url": "https://open.spotify.com/artist/6jH3n7EE4IYALcTS2bWs3s"
-        }
-      ],
-      "duration_ms": 239609,
-      "name": "Love Drunk",
-      "url": "https://open.spotify.com/track/5Y91KEv2ayl59beaAl892q"
-    },
-    {
-      "added_at": "2023-09-07 16:00:00",
-      "album": {
-        "name": "Di Mawala",
-        "url": "https://open.spotify.com/album/5U1t3udLxHDXjCUv6kxeHb"
-      },
-      "artists": [
-        {
-          "name": "Kwelyo",
-          "url": "https://open.spotify.com/artist/4xxffyQ9hr0Jf4Z7wmIKxM"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Di Mawala",
-      "url": "https://open.spotify.com/track/6zqHExNIPCPHsCVgt1Iqz2"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

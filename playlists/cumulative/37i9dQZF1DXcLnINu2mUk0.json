@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "Aura Diferente",
+        "url": "https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd"
+      },
+      "artists": [
+        {
+          "name": "BiDU",
+          "url": "https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg"
+        },
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251147,
+      "name": "Aura Diferente",
+      "url": "https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf"
+    },
+    {
+      "album": {
         "name": "aventura",
         "url": "https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la"
       },
@@ -1732,7 +1754,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 178443,
       "name": "Crime Scene",
       "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
@@ -2502,7 +2524,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 210092,
       "name": "Eu At\u00e9 Percebo",
       "url": "https://open.spotify.com/track/0KIkEVPxKOJpEvtnHO1NTk"
@@ -2669,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "FAZ ME FICAR",
+        "url": "https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q"
+      },
+      "artists": [
+        {
+          "name": "Zarco",
+          "url": "https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236099,
+      "name": "FAZ ME FICAR",
+      "url": "https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4"
+    },
+    {
+      "album": {
         "name": "Faz T\u00e3o Bem",
         "url": "https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO"
       },
@@ -2698,7 +2738,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 228000,
       "name": "Fazer-te sonhar",
       "url": "https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ"
@@ -3477,6 +3517,32 @@
     },
     {
       "album": {
+        "name": "Interfeer",
+        "url": "https://open.spotify.com/album/20HDAlAV4WyhRQ8JmgwwvB"
+      },
+      "artists": [
+        {
+          "name": "Ch\u00e1 Black",
+          "url": "https://open.spotify.com/artist/3tiL6mQyAaxxHVa8lMudaI"
+        },
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a"
+        },
+        {
+          "name": "MasterPiece",
+          "url": "https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "Interfeer",
+      "url": "https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk"
+    },
+    {
+      "album": {
         "name": "Jorge Mundo",
         "url": "https://open.spotify.com/album/2jtgdgFSqKMJX2AuBIXnYA"
       },
@@ -3506,7 +3572,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 172300,
       "name": "Jura",
       "url": "https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8"
@@ -4579,6 +4645,24 @@
     },
     {
       "album": {
+        "name": "Muda",
+        "url": "https://open.spotify.com/album/350MDczLAQuFoU07xEjRCB"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177859,
+      "name": "Muda",
+      "url": "https://open.spotify.com/track/5lTx1aJfs6rqYVqQbSzbve"
+    },
+    {
+      "album": {
         "name": "Mulata",
         "url": "https://open.spotify.com/album/5r5xWUDtPtW8BSxndYvPnN"
       },
@@ -5142,7 +5226,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 165000,
       "name": "N\u00e3o Liga Pra Mim",
       "url": "https://open.spotify.com/track/52HXxFOvQ3o8qMT9lmdaWZ"
@@ -5568,7 +5652,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 207366,
       "name": "Perdidos num ride",
       "url": "https://open.spotify.com/track/7Bf3UJA5Dsg4egyw4VgVG2"
@@ -5674,6 +5758,24 @@
       "duration_ms": 184302,
       "name": "Ponto Fraco",
       "url": "https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx"
+    },
+    {
+      "album": {
+        "name": "Por Aqui",
+        "url": "https://open.spotify.com/album/6GvAx2uva7eI6ir7KOp1CJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139506,
+      "name": "Por Aqui",
+      "url": "https://open.spotify.com/track/6Pre7MaAvhrV8VgiwTX7KP"
     },
     {
       "album": {
@@ -6189,6 +6291,24 @@
     },
     {
       "album": {
+        "name": "Ros\u00e9",
+        "url": "https://open.spotify.com/album/6Zx2HE5kAE5xiA5hPLbyOH"
+      },
+      "artists": [
+        {
+          "name": "Walter 4reignr",
+          "url": "https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "Ros\u00e9",
+      "url": "https://open.spotify.com/track/72bRHyV4lbyH52SoDdnESG"
+    },
+    {
+      "album": {
         "name": "Rubi",
         "url": "https://open.spotify.com/album/5GZRN9j6B5N7Gk5jtvaRtM"
       },
@@ -6622,7 +6742,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 172229,
       "name": "Ser\u00e1 Que Sentes",
       "url": "https://open.spotify.com/track/2XeXwzaBmXXHq2yQvvvqJE"
@@ -7064,7 +7184,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 156134,
       "name": "S\u00f3 Uma Noite",
       "url": "https://open.spotify.com/track/4IE65liqpq2jxwj77ih2MK"
@@ -7310,7 +7430,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 151678,
       "name": "tinha + sonhos",
       "url": "https://open.spotify.com/track/0TNO84l24GT3hyFpqxJ8U6"
@@ -7464,6 +7584,24 @@
       "duration_ms": 232896,
       "name": "Tudo Mudou",
       "url": "https://open.spotify.com/track/2XfGBVchQoNXdxmiZTnhSP"
+    },
+    {
+      "album": {
+        "name": "TRIAGEM",
+        "url": "https://open.spotify.com/album/3i1DXVUJpTTBnxbRD8fB0K"
+      },
+      "artists": [
+        {
+          "name": "Dinis Mota",
+          "url": "https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "TUDO OU NADA",
+      "url": "https://open.spotify.com/track/3FzM5fHg2Wu87fuLxBstDY"
     },
     {
       "album": {
@@ -7752,6 +7890,24 @@
       "duration_ms": 195450,
       "name": "VEM C\u00c1",
       "url": "https://open.spotify.com/track/1g7U6zOh8csoqUabagx8lM"
+    },
+    {
+      "album": {
+        "name": "Vem S\u00f3",
+        "url": "https://open.spotify.com/album/6n6Wocb8xJMU2i1T2EKgGd"
+      },
+      "artists": [
+        {
+          "name": "Maudito",
+          "url": "https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199322,
+      "name": "Vem S\u00f3",
+      "url": "https://open.spotify.com/track/2rpA0HiRKG8bV132SiopRU"
     },
     {
       "album": {
@@ -8068,6 +8224,24 @@
       "duration_ms": 171665,
       "name": "You",
       "url": "https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA"
+    },
+    {
+      "album": {
+        "name": "\u00c0 Tona",
+        "url": "https://open.spotify.com/album/6AQ5jQ3Tqm0ygMnBnmWUbe"
+      },
+      "artists": [
+        {
+          "name": "Dote",
+          "url": "https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134743,
+      "name": "\u00c0 Tona",
+      "url": "https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M"
     },
     {
       "album": {

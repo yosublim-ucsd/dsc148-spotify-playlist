@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Kvelertak
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,024 likes - 61 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,196 likes - 61 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 60 | [To the Sun](https://open.spotify.com/track/5vs8QzAN9krzgIm1FxVmtG) | [Damnation Plan](https://open.spotify.com/artist/3LhVTmnVEbbCqdpXOB16uX) | [The New Horizon](https://open.spotify.com/album/6GXdc5klfFVUjVOpzGeI6u) | 6:36 |
 | 61 | [Maleza](https://open.spotify.com/track/0FNTjXiR3I7dXqmyHeAGuW) | [Hoguera](https://open.spotify.com/artist/2RKZo5LF5w25L7FBtFJqc6) | [Maleza](https://open.spotify.com/album/4LbaVnE1fVtjAEujj8dU8k) | 3:03 |
 
-Snapshot ID: `MCxhNzg1MzdhMGNmZmQxY2Q5Zjk5MDNkNTE5ZWYxNjQ4NTJjZmFhMWU4`
+Snapshot ID: `MCwwMDE5YWUyNjkxMWQ2NzRjYWUyYzhkNmVkNzkxYzU0M2ViMzNhOTll`

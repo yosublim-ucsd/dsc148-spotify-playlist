@@ -1698,8 +1698,8 @@
           "url": "https://open.spotify.com/artist/4diLM7OgmADzEyYPOK5aM2"
         },
         {
-          "name": "Try Bishop",
-          "url": "https://open.spotify.com/artist/1Aw7tLtaxspgiFUdqYqFbO"
+          "name": "TRYBISHOP",
+          "url": "https://open.spotify.com/artist/0e44Q9LppcYbLzap5k8IV8"
         }
       ],
       "date_added": "2023-07-13",
@@ -3124,7 +3124,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 268625,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 216000,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"

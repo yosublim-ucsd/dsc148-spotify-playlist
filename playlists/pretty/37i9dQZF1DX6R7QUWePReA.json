@@ -1,12 +1,12 @@
 {
   "description": "Timeless heart-warming classics from 1950- 1980 for the holiday season.",
-  "num_followers": 2938739,
+  "num_followers": 2938884,
   "original_name": "Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzMxNzM4MzQzZjdhOTRhMTVhZWIzM2NmMzc3ZGE0YzliNTA5MTZh",
+  "snapshot_id": "MCwyNWE2ZmJmMjE0M2U2MDQ1NWJhYTNiMGYxZTAxYWY4MGU4YzUyNjYy",
   "tracks": [
     {
       "added_at": "2022-12-25 16:26:03",
@@ -827,18 +827,26 @@
     {
       "added_at": "2022-12-25 16:26:03",
       "album": {
-        "name": "Bing's Gold Records - The Original Decca Recordings",
-        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
+        "name": "Holiday Inn (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
       },
       "artists": [
         {
           "name": "Bing Crosby",
           "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Ken Darby Singers",
+          "url": "https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi"
+        },
+        {
+          "name": "John Scott Trotter & His Orchestra",
+          "url": "https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN"
         }
       ],
-      "duration_ms": 177026,
-      "name": "I'll Be Home For Christmas - Single Version",
-      "url": "https://open.spotify.com/track/1fjOitI0vZ41P63p1MQLcc"
+      "duration_ms": 177480,
+      "name": "White Christmas - 1947 Version",
+      "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
     },
     {
       "added_at": "2022-12-25 16:26:03",

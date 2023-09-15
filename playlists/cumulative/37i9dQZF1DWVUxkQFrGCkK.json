@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Eduardo made a new friend today",
+        "url": "https://open.spotify.com/album/0qL0cfgq3HE7y7HLj4lKNN"
+      },
+      "artists": [
+        {
+          "name": "Hosiannah",
+          "url": "https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193201,
+      "name": "Eduardo made a new friend today",
+      "url": "https://open.spotify.com/track/2FbPKlQ56pBpMFtKTV3zdi"
+    },
+    {
+      "album": {
         "name": "efyo",
         "url": "https://open.spotify.com/album/4fbtnbXpdOJb4kXm3p2G6w"
       },
@@ -2098,6 +2116,36 @@
       "duration_ms": 335238,
       "name": "Guidance Through My Perc",
       "url": "https://open.spotify.com/track/4VBzyCMQxsuKHfd7y4zuOE"
+    },
+    {
+      "album": {
+        "name": "Halele (Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/1yXnqlrXTziXCE5wOibl54"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Samuel Cosmic",
+          "url": "https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Halele - Alex Wann Remix",
+      "url": "https://open.spotify.com/track/0aKzsoEohmOFHb3zVQOGkO"
     },
     {
       "album": {
@@ -4607,6 +4655,32 @@
     },
     {
       "album": {
+        "name": "summer on the inside",
+        "url": "https://open.spotify.com/album/1bkPNy0jxEKPG7nSTn5Saa"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Max Kaluza",
+          "url": "https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205166,
+      "name": "summer on the inside",
+      "url": "https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj"
+    },
+    {
+      "album": {
         "name": "Summertime / Can't Stop",
         "url": "https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG"
       },
@@ -5484,7 +5558,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 278000,
       "name": "White Isle Memories - Inner Sprit Rework",
       "url": "https://open.spotify.com/track/2HeLCivhX1xg4prGCQBpr6"

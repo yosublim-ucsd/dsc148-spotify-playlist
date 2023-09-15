@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,519 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,664 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Joy Brings Me Down](https://open.spotify.com/track/7GMAT3z6PIY4mQ1pQkpfAX) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Joy Brings Me Down](https://open.spotify.com/album/3D4eXoW15Kti0ZkcY2WsEc) | 3:29 |
 | 50 | [Fire Mountain](https://open.spotify.com/track/5Fe5T906lixiSW38HcYQXQ) | [Demons My Friends](https://open.spotify.com/artist/0pRENjZBkVS4Lh5TBioQDy) | [Demons Seem To Gather](https://open.spotify.com/album/1VVJxELD3Pn8lihdYqKCk6) | 3:44 |
 
-Snapshot ID: `MCxmMjA1NDBlNDNkZTJjMzdmOGJmMTE2YThiYWI1Y2UxOGY2MDJmOWY3`
+Snapshot ID: `MCwyMmIwZTQxMDEwMjUzNWNkMjRjMzkxOGUxOGY4ZDlhMmJmYmE1Y2Fh`

@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-240 songs - 11 hr 59 min
+241 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bocanegra](https://open.spotify.com/track/57e8weoxM68ESpTZrv1KPX) | [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy), [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk), [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Black is Beltza \(Soinu\-banda\)](https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE) | 4:17 | 2021-09-03 | 2023-01-19 |
 | [Bocanegra](https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV) | 4:22 | 2021-09-03 |  |
 | [Bocanegra](https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cañonazo Electrocumbiero](https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju) | 4:24 | 2021-09-03 | 2022-07-29 |
-| [Bomber Man](https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Bomber Man](https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe) | 2:14 | 2021-09-03 |  |
+| [Bomber Man](https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Bomber Man](https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe) | 2:14 | 2021-09-03 | 2023-09-15 |
 | [Boogie Tonight](https://open.spotify.com/track/3o4bLIUTj0R3YIZOVtDWZG) | [Eddie y los Grasosos](https://open.spotify.com/artist/38WzKEi8tjrcKZ7i5CPHkP) | [Rockin' Club](https://open.spotify.com/album/7AAdyyFFslDJ4bAGc4NsWF) | 2:47 | 2021-09-03 | 2022-07-28 |
 | [Borrachos y Surfistas](https://open.spotify.com/track/122LPBGVDdRpw8FoXglkxq) | [Hermanos Calavera](https://open.spotify.com/artist/36weG6heSpZ3qboTbh6SGw) | [Hermanos Calavera](https://open.spotify.com/album/7FK2SnAbtByKTeAhBoZOMG) | 2:39 | 2021-09-03 | 2022-07-21 |
 | [Brasil](https://open.spotify.com/track/2tnw2r9CDNfFaYYaa7bwxl) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Prueba de Fuego](https://open.spotify.com/album/4B3X3FXinXFLV1h69mqVUE) | 3:03 | 2021-09-03 | 2022-07-29 |
@@ -134,7 +134,7 @@
 | [Lancha Con Fondo De Cristal](https://open.spotify.com/track/3y0nZ0vHHBhmqRdYuz0DNV) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 2:12 | 2023-07-28 |  |
 | [Last Call](https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Swingin' Singles](https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3) | 1:55 | 2021-09-03 |  |
 | [Logan's Run](https://open.spotify.com/track/1eBUpSGH2gLrrB2Wy2lwCZ) | [The Nebulas](https://open.spotify.com/artist/1AT04gH0CP5RTSTFkJQCi1) | [The Nebulas](https://open.spotify.com/album/0sQaPVhkMbLaVtQuQu2eCk) | 2:57 | 2021-09-03 | 2022-07-15 |
-| [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 | 2021-09-03 | 2023-08-23 |
+| [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 | 2021-09-03 |  |
 | [Love Special Delivery](https://open.spotify.com/track/1FAM8gwc0xTtsgIza7JlFs) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Love Special Delivery / Sail On, Sailor](https://open.spotify.com/album/3fljjkZOzsIjG6FF7PaQE7) | 2:22 | 2021-09-03 | 2022-07-19 |
 | [Mad Waves](https://open.spotify.com/track/5TKLfhIuRiwFs65utNQ651) | [Los Pegajosos](https://open.spotify.com/artist/4ipiEnWeX9r4MinEb9hco6) | [Profecía Celeste](https://open.spotify.com/album/1OUbvQlEfRsVTvIgFJuk2X) | 3:23 | 2021-09-03 | 2022-07-28 |
 | [Magneto](https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [The Incredible Crocotiger](https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P) | 2:50 | 2021-09-03 |  |
@@ -227,7 +227,7 @@
 | [The Guns Of Brixton](https://open.spotify.com/track/2T1I1KpJwkXEVeBnlm70Kn) | [The Anacondas](https://open.spotify.com/artist/32Ux0YK2riaKZNTMqeUiJz) | [The Anacondas](https://open.spotify.com/album/6ZJeq5JVmG2IAwKdwEVUWc) | 2:43 | 2021-09-03 | 2022-07-28 |
 | [The Last Wave](https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:07 | 2021-09-03 |  |
 | [The Trouble With Those Mothra Girls](https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 3:29 | 2021-09-03 |  |
-| [The Very Thought Of You](https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:48 | 2023-07-28 |  |
+| [The Very Thought Of You](https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:48 | 2023-07-28 | 2023-09-15 |
 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 | 2021-09-03 |  |
 | [Third Stone from the Sun](https://open.spotify.com/track/5aqZp6mHibX1qaPFabgDe2) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Calling Up Spirits](https://open.spotify.com/album/51KwH3TBjlgo5JE7FK6Fux) | 6:32 | 2023-07-28 |  |
 | [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 | 2021-09-03 | 2023-07-29 |
@@ -240,6 +240,7 @@
 | [Una Chica Me Dijo una Vez](https://open.spotify.com/track/1tzcfcBpgv2uaZsWwTi73f) | [Los Moustros del Espacio Exterior](https://open.spotify.com/artist/7x7xd2Q9q00hWdSYBgr8Bl), [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Una Chica Me Dijo una Vez](https://open.spotify.com/album/6ezRzAQ2YzBP4CZwYEy4jn) | 3:14 | 2021-09-03 | 2022-07-28 |
 | [Vaquero](https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Death Calavera 2.2](https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW) | 2:52 | 2021-09-03 |  |
 | [Volar](https://open.spotify.com/track/3sfk92mTJYV2L9bcvW8d2Z) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sábado](https://open.spotify.com/album/7kuSs5f1rvSnxTm5Xccjiq) | 3:44 | 2021-09-03 | 2022-07-22 |
+| [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 | 2023-07-28 |  |
 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 | 2021-09-03 |  |
 | [Walk, Don't Run](https://open.spotify.com/track/74Qp7hzjPFQZUBMpNDqUIM) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Walk Don't Run \- All\-Time Greatest Hits](https://open.spotify.com/album/6OezD06HfOjBAQiXqTsXTJ) | 2:06 | 2021-09-03 |  |
 | [Whirlpool](https://open.spotify.com/track/4uUyxCK28787qPada57VMI) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:06 | 2021-09-03 |  |

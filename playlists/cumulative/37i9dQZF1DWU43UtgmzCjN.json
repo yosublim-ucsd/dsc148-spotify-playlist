@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 187893,
       "name": "El Jardinero",
       "url": "https://open.spotify.com/track/6Ije7DlkQW6yWLMSmxxTdW"
@@ -504,6 +504,24 @@
       "duration_ms": 189786,
       "name": "El Jardinero",
       "url": "https://open.spotify.com/track/0C7BYwQCy97wohoDE41D9y"
+    },
+    {
+      "album": {
+        "name": "El Jardinero",
+        "url": "https://open.spotify.com/album/0vb2KGJa1hHJVli2xq5lSL"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193106,
+      "name": "El Jardinero",
+      "url": "https://open.spotify.com/track/15p94RmWiXBXQidL2kX7F2"
     },
     {
       "album": {

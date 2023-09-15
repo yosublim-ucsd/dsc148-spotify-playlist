@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,115 songs - 5 day 22 hr 38 min
+2,116 songs - 5 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1212,7 +1212,8 @@
 | [Lokognolo](https://open.spotify.com/track/1kGgfMfE884VVKc1q4sa4t) | [Bebe Manga](https://open.spotify.com/artist/1memK9vKb8XlJ57toAUkMV) | [Ami / Oyomiya](https://open.spotify.com/album/5PwKWho58El5sWnSU4T1vH) | 4:23 | 2022-07-12 |  |
 | [Longa 79](https://open.spotify.com/track/0toK7sDp952XXK5iqmZENF) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 3:31 | 2022-07-12 | 2022-11-20 |
 | [Longa 79](https://open.spotify.com/track/4674J8wqzOhLLSQGbqbvKq) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 3:31 | 2022-10-31 |  |
-| [Lontano, lontano](https://open.spotify.com/track/7FyDX9fePRaMSnOosfOZ4T) | [Luigi Tenco](https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK) | [Lontano, lontano nel tempo](https://open.spotify.com/album/44vAlFlydCLj7aDbMObDYE) | 2:44 | 2022-07-27 |  |
+| [Lontano Lontano](https://open.spotify.com/track/4ZYGEZv0CaH3cRqM9N1yx2) | [Luigi Tenco](https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK) | [Super Best](https://open.spotify.com/album/3JZLgure5oGqk29vpo7AQv) | 2:45 | 2023-08-31 |  |
+| [Lontano, lontano](https://open.spotify.com/track/7FyDX9fePRaMSnOosfOZ4T) | [Luigi Tenco](https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK) | [Lontano, lontano nel tempo](https://open.spotify.com/album/44vAlFlydCLj7aDbMObDYE) | 2:44 | 2022-07-27 | 2023-09-15 |
 | [Lontano, lontano](https://open.spotify.com/track/7EDMham9KB0OcdKJLB1d4P) | [Luigi Tenco](https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK) | [Tenco](https://open.spotify.com/album/0fNomAOOWeQfJP0ZGvMu7w) | 2:46 | 2022-06-09 | 2022-07-29 |
 | [Lontano, lontano \- Remastered](https://open.spotify.com/track/7g84cTCE7feLRzZHXHFrrj) | [Luigi Tenco](https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK) | [Per Sempre \(Remastered\)](https://open.spotify.com/album/3kKYDtbvS3AuegMJ6LQxCQ) | 2:47 | 2022-10-31 | 2022-11-13 |
 | [Look up in the Sky \(Négro Nature\)](https://open.spotify.com/track/003ykc4d5MQSGiPEWsS02p) | [Francis The Great](https://open.spotify.com/artist/6b3eaRragnwUwBRZg5HUBE) | [Ravissante Baby \(Negro Phasing\)](https://open.spotify.com/album/013qIzqr8EdcQCtKJTCPbS) | 12:49 | 2022-07-12 | 2022-07-29 |

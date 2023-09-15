@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 187025,
       "name": "Enby",
       "url": "https://open.spotify.com/track/21oXYSZJMteZhiOWe8kRPQ"
@@ -2352,6 +2352,24 @@
       "duration_ms": 229096,
       "name": "Klonopin",
       "url": "https://open.spotify.com/track/0PtOBq6BjknohejkwXahix"
+    },
+    {
+      "album": {
+        "name": "Dreams Of A Dancefloor EP",
+        "url": "https://open.spotify.com/album/5nQWnGTyv8hPti6XkHKdZ4"
+      },
+      "artists": [
+        {
+          "name": "Octo Octa",
+          "url": "https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283620,
+      "name": "Let Yourself Go!",
+      "url": "https://open.spotify.com/track/7f2cK2TS5SL2yqsJgqMwV1"
     },
     {
       "album": {
@@ -3593,6 +3611,28 @@
     },
     {
       "album": {
+        "name": "Rush (Remixes)",
+        "url": "https://open.spotify.com/album/2YdP8LNldo2EPpJGlSN2Au"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156391,
+      "name": "Rush - Big Freedia Remix",
+      "url": "https://open.spotify.com/track/08arf0AI69o6qdMSZWVrJm"
+    },
+    {
+      "album": {
         "name": "The Line Is A Curve",
         "url": "https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD"
       },
@@ -4002,6 +4042,24 @@
       "duration_ms": 368556,
       "name": "Supertouch",
       "url": "https://open.spotify.com/track/5Qn5hlzIjTynSHxDoKRTr9"
+    },
+    {
+      "album": {
+        "name": "Suspended Disbelief",
+        "url": "https://open.spotify.com/album/5ocoNwK1sr0lgLaY8Gz6Xo"
+      },
+      "artists": [
+        {
+          "name": "Lupa J",
+          "url": "https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217321,
+      "name": "Suspended Disbelief",
+      "url": "https://open.spotify.com/track/679PIiVJw7a2jvvkqffPqP"
     },
     {
       "album": {

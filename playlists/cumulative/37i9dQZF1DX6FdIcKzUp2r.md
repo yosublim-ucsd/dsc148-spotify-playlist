@@ -4,7 +4,7 @@
 
 > Work or rest with these gems from the 80s.
 
-199 songs - 14 hr 26 min
+200 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [In Too Deep \- Remastered 2007](https://open.spotify.com/track/4tmvNDYDxzspyUTVckmwI9) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP) | 5:02 | 2018-12-12 | 2022-07-29 |
 | [Is This The World We Created...? \- Remastered 2011](https://open.spotify.com/track/78BjB6GC1JPt4LgA8O0sys) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 2:14 | 2018-12-12 | 2022-07-29 |
 | [It's a Mystery](https://open.spotify.com/track/15fdjzKpxFAQcFpmwbsB9a) | [Toyah](https://open.spotify.com/artist/17xleTMStusKOyQrNuK3sQ) | [Best of Toyah](https://open.spotify.com/album/3SUk8sx6Q2BbEO9SWRsEX9) | 4:03 | 2018-12-12 | 2022-11-13 |
+| [It's A Mystery](https://open.spotify.com/track/6n9NhulTHVIbf7EIxr5a3s) | [Toyah](https://open.spotify.com/artist/17xleTMStusKOyQrNuK3sQ) | [Anthem](https://open.spotify.com/album/06mr4v7HULh34HDsYbBner) | 4:08 | 2018-12-12 |  |
 | [It's Your Life](https://open.spotify.com/track/5XDXGFXhsSlx8kBV6B61Pz) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Soul Searchin'](https://open.spotify.com/album/45wKWR3E2wrm7z0tHNFu1Q) | 5:00 | 2018-12-12 | 2022-05-13 |
 | [Italian Song](https://open.spotify.com/track/1LuHp6sD2xyapjqpokQhr9) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [Private Collection](https://open.spotify.com/album/1qi65TrtdSDtJMi2qR4yyX) | 2:54 | 2018-12-12 | 2022-07-29 |
 | [Italian Song \- Remastered](https://open.spotify.com/track/0MK9yAbikyhhxVfOeYICzP) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [Private Collection \(Remastered 2016\)](https://open.spotify.com/album/1TZEZc4QRSt4wIXWT3Iiif) | 2:53 | 2018-12-12 | 2022-11-13 |
@@ -197,7 +198,7 @@
 | [White Eagle \- 1995 Remaster](https://open.spotify.com/track/5NNSddZXHgTFSbH2cUaH3Y) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [White Eagle](https://open.spotify.com/album/2A0SJoM4mCeUrnnahHLNOw) | 4:34 | 2018-12-12 |  |
 | [White Eagle \- 1995 Remaster](https://open.spotify.com/track/0D0V9aHKDAf2pGeYpkv8bN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [The Virgin Years: 1977\-1983](https://open.spotify.com/album/4m0s6OQ4k2mLNJRXhPQlX8) | 4:35 | 2018-12-12 | 2022-07-29 |
 | [Wild Theme](https://open.spotify.com/track/3y4PR76Jfpt1grXViXwWoh) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Music From Local Hero](https://open.spotify.com/album/6fLhTUrZZ1kppTuFw2Jboa) | 3:38 | 2018-12-12 | 2022-07-29 |
-| [Wild Theme](https://open.spotify.com/track/0RDDGPBOc9hgqQiBHvCBVi) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Local Hero](https://open.spotify.com/album/0xWqprLlB2Rjve0qQPoaaw) | 3:39 | 2018-12-12 |  |
+| [Wild Theme](https://open.spotify.com/track/0RDDGPBOc9hgqQiBHvCBVi) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Local Hero](https://open.spotify.com/album/0xWqprLlB2Rjve0qQPoaaw) | 3:39 | 2018-12-12 | 2023-09-15 |
 | [Will You?](https://open.spotify.com/track/4PtZnR7nR4zUlSm1efYvry) | [Hazel O'Connor](https://open.spotify.com/artist/7Dwkme6QjRdS4dF4eNNJ5Y) | [Breaking Glass](https://open.spotify.com/album/02m7p5Qxr1RZld36bUBjVK) | 4:49 | 2018-12-12 | 2022-07-29 |
 | [With God On Our Side](https://open.spotify.com/track/2UesoZg57jd9tvS81tFOHa) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/30C3EQGiT0zJQAI37XR9R7) | 6:37 | 2018-12-12 | 2022-07-29 |
 | [With God On Our Side](https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 6:40 | 2018-12-12 |  |

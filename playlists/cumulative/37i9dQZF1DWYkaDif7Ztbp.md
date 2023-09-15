@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq?si=yOjTyRd5TlONTpa6PfLsow"> Patoranking </a>
+> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=\_c1njftZTzisDvAeyoWsqA"> Tyla </a>
 
 322 songs - 19 hr 18 min
 

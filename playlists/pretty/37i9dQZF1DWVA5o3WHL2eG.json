@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: MOLA",
-  "num_followers": 28748,
+  "num_followers": 28760,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGQ5NWNlY2VkNDdmODEzNmFiYmUwNDNjMDdlOTg3MTM0YWUwYTU0",
+  "snapshot_id": "MCw4OTQ3ODNlMjUwMWRkOGUyOGM3NGU4YWYwZTY0ODY5ZDk0YzlhNDU4",
   "tracks": [
     {
       "added_at": "2023-09-06 07:58:29",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
+        "name": "schwarzes wasser",
+        "url": "https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe"
+      },
+      "artists": [
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+        }
+      ],
+      "duration_ms": 157071,
+      "name": "schwarzes wasser",
+      "url": "https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
         "name": "Lying",
         "url": "https://open.spotify.com/album/1M0c54SpS4tyuPC54ftu3T"
       },
@@ -435,18 +451,18 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "schwarzes wasser",
-        "url": "https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe"
+        "name": "SNACKS",
+        "url": "https://open.spotify.com/album/0lw9eCEYXFQFoVyDiiGD5D"
       },
       "artists": [
         {
-          "name": "jolle",
-          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
         }
       ],
-      "duration_ms": 157071,
-      "name": "schwarzes wasser",
-      "url": "https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6"
+      "duration_ms": 169173,
+      "name": "SNACKS",
+      "url": "https://open.spotify.com/track/1EFiUnowtm0apXZcy0WS62"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -479,22 +495,6 @@
       "duration_ms": 164124,
       "name": "Br\u00fcckengel\u00e4nder",
       "url": "https://open.spotify.com/track/3E8XHenUPvLE8UXQXSQQvh"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
-        "name": "SNACKS",
-        "url": "https://open.spotify.com/album/0lw9eCEYXFQFoVyDiiGD5D"
-      },
-      "artists": [
-        {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
-        }
-      ],
-      "duration_ms": 169173,
-      "name": "SNACKS",
-      "url": "https://open.spotify.com/track/1EFiUnowtm0apXZcy0WS62"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "Interstate Bridge",
-        "url": "https://open.spotify.com/album/4YY8cfIETTVzSVMtJRuzxl"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Interstate Bridge",
-      "url": "https://open.spotify.com/track/2k33m5kYVtQzTJXyUarRuu"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Three Weeks Ahead",
         "url": "https://open.spotify.com/album/1KZv7ETELLclLujd2ZAz8B"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 229268,
       "name": "Three Weeks Ahead",
       "url": "https://open.spotify.com/track/2I7Qu6GIQHEg22DBeoHgaZ"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "Interstate Bridge",
+        "url": "https://open.spotify.com/album/4YY8cfIETTVzSVMtJRuzxl"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Interstate Bridge",
+      "url": "https://open.spotify.com/track/2k33m5kYVtQzTJXyUarRuu"
     },
     {
       "added_at": "2023-09-06 07:58:29",

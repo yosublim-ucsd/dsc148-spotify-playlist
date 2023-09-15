@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 235785,
       "name": "Roselia",
       "url": "https://open.spotify.com/track/4xMVyWjK7rvXNkUAVXCd3S"
@@ -1637,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "\u518d\u966a\u6211\u4e00\u500b\u590f\u5929\u300a\u5730\u7344\u91cc\u9577\u300b\u63d2\u66f2",
+        "url": "https://open.spotify.com/album/7BO8kzouWz0SOA5sAmgy3N"
+      },
+      "artists": [
+        {
+          "name": "Sophie Chen",
+          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192077,
+      "name": "\u518d\u966a\u6211\u4e00\u500b\u590f\u5929\u300a\u5730\u7344\u91cc\u9577\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/7jMnF7k6f9L1IWCOLnTQO1"
+    },
+    {
+      "album": {
         "name": "\u51fa\u8d70",
         "url": "https://open.spotify.com/album/0lGn56lhCvMeqiVppbz9YM"
       },
@@ -1940,6 +1958,24 @@
       "duration_ms": 231154,
       "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
       "url": "https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq"
+    },
+    {
+      "album": {
+        "name": "\u541e\u901d",
+        "url": "https://open.spotify.com/album/5mEZDN63B0NiQk2ye6moY9"
+      },
+      "artists": [
+        {
+          "name": "\u66fe\u5609\u5049",
+          "url": "https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269722,
+      "name": "\u541e\u901d",
+      "url": "https://open.spotify.com/track/7DMgn9G9e4fLTURRItApyv"
     },
     {
       "album": {
@@ -3342,7 +3378,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
@@ -4114,7 +4150,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 200156,
       "name": "\u6d77\u6d0b\u65e5\u8a18 Ocean Diary (feat. \u8212\u7c73\u6069Suming)",
       "url": "https://open.spotify.com/track/5KvNMaFwXzkVOJQ3yKGM4a"
@@ -4792,6 +4828,24 @@
       "duration_ms": 312770,
       "name": "\u81f4\u3002\u9752\u6625 - \u4e0d\u63d2\u96fb\u7248",
       "url": "https://open.spotify.com/track/69AwI75lGm1Dza1DosVPrs"
+    },
+    {
+      "album": {
+        "name": "\u8239\u5230\u6a4b\u982d\u81ea\u7136\u76f4",
+        "url": "https://open.spotify.com/album/5gMcbYIRxCGPUAAIQ4v2XZ"
+      },
+      "artists": [
+        {
+          "name": "Anni Hung",
+          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231057,
+      "name": "\u8239\u5230\u6a4b\u982d\u81ea\u7136\u76f4",
+      "url": "https://open.spotify.com/track/4Sfk5EfGrDR3b3QLCWU7CU"
     },
     {
       "album": {

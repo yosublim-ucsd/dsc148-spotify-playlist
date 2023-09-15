@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,343 likes - 111 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,345 likes - 111 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 11 | [Little Drummer Boy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7tTPXjxNFjij4xzGeO3KLt) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5F2LTPWjIl2YWeDlZSbNb3) | 3:52 |
 | 12 | [Don't Shoot Me Santa](https://open.spotify.com/track/0VnM98fVPYamafDoW7yza7) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Ryan Pardey](https://open.spotify.com/artist/7ywLsMIT1NHbZS6hxGScvm) | [Don't Waste Your Wishes](https://open.spotify.com/album/30huok00bCQ0TxIJDtz09w) | 4:05 |
 | 13 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/01sU6lFqUbZufGXM4EjkXO) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [Cole Rolland](https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc) | [Jingle Bell Rock / Dance of the Sugar Plum Fairy](https://open.spotify.com/album/4XaF5rkbxBH0PArJqK6kFp) | 1:45 |
-| 14 | [Cry Christmas](https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp) | 3:17 |
+| 14 | [Cry Christmas](https://open.spotify.com/track/3BI6drkCxHUnWBKpvfBfLB) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/0SgFUjYNZq7DUIsNLPbJ0n) | 3:17 |
 | 15 | [We Wish You A Merry Christmas](https://open.spotify.com/track/1swm2Hei9tUlcohs0zj7DU) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 1:24 |
 | 16 | [Yule Shoot Your Eye Out \- Bonus Track](https://open.spotify.com/track/24ZZV8nmMT0TD5jVdkqNhK) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:41 |
 | 17 | [Santa Baby \- Recorded at Strongroom Studios London](https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Santa Baby \(Recorded at Strongroom Studios London\)](https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ) | 2:43 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 110 | [Happy Holidays, You Bastard](https://open.spotify.com/track/5lE1g5Qsi1stIjYh8O5FC1) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 0:42 |
 | 111 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
 
-Snapshot ID: `MCwzZWViOTg5YmE0ZTExYmVkMzJkZDM2MzAyYTgyMzU5NTYwMGM2MmUw`
+Snapshot ID: `MCxlY2MzZDAwYTVmYWJkYjM0N2U0ODQ2M2FkNWI0Nzk5MTg3OGZhZjU1`

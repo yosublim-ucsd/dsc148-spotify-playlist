@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Romy",
+  "description": "New music off the beaten track. Cover: NEIL FRANCES",
   "name": "OFF POP",
   "tracks": [
     {
@@ -1336,6 +1336,28 @@
       "duration_ms": 307142,
       "name": "Colder & Closer - Suzanne Kraft Remix",
       "url": "https://open.spotify.com/track/4znP6MIqYAC4fxTmNNUo7w"
+    },
+    {
+      "album": {
+        "name": "Come Too Far",
+        "url": "https://open.spotify.com/album/5kQdCoqBJfEnCPjRoFIxQl"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Paul Brenning",
+          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253233,
+      "name": "Come Too Far",
+      "url": "https://open.spotify.com/track/3otrrqE6sLMxpbr7QRh5ak"
     },
     {
       "album": {
@@ -3099,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/3fW5jXxfLXPYMCc4vJqitm"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245372,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/6Dr2wJDKpLYLK6eJBxU3Q7"
+    },
+    {
+      "album": {
         "name": "Girlfriend / Damn, dis-moi (feat. D\u00e2m-Funk) [Remixes]",
         "url": "https://open.spotify.com/album/4v89sPqV3R11XnlY2TLIqi"
       },
@@ -3552,7 +3592,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 212666,
       "name": "Hip Neck Spine - Hercules & Love Affair Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/7xt5cSFtWjQa7BKp0UX5kl"
@@ -6166,7 +6206,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 330545,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/0YDIy9Ixkh7dH36GanI1YJ"
@@ -7032,6 +7072,28 @@
       "duration_ms": 181240,
       "name": "She's On My Mind",
       "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
+    },
+    {
+      "album": {
+        "name": "should sleep",
+        "url": "https://open.spotify.com/album/2vIiA0ULu72YnqRDKlrxkI"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "J.P. Bimeni",
+          "url": "https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269907,
+      "name": "should sleep",
+      "url": "https://open.spotify.com/track/0oixdxR51PVtYYnkd09G0Q"
     },
     {
       "album": {
@@ -8088,7 +8150,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 190423,
       "name": "The Way You Had Me",
       "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
@@ -8222,6 +8284,24 @@
       "duration_ms": 221142,
       "name": "Too Much Yayo",
       "url": "https://open.spotify.com/track/0fBrjGe5JD1XKifxYjwbbF"
+    },
+    {
+      "album": {
+        "name": "Tratado",
+        "url": "https://open.spotify.com/album/4g09uUdGjos9R4tWzsQRF0"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254902,
+      "name": "Tratado",
+      "url": "https://open.spotify.com/track/3FIHVdnrLoAiwpHHwIf5Hb"
     },
     {
       "album": {
@@ -9134,7 +9214,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 175000,
       "name": "You Knew - Edit",
       "url": "https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl"

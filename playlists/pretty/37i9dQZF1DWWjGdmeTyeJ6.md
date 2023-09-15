@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Anycia\. Updates every Wednesday\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,295 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,346 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 18 | [Glass & Gold](https://open.spotify.com/track/0mVoYEaPRwfrXgc5yBuvKn) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Glass & Gold](https://open.spotify.com/album/3OBzSs4ik0n2Se5kNTsCIX) | 3:24 |
 | 19 | [Wet Jesus](https://open.spotify.com/track/6GiL3h2qDN2FDfymWZ5jdI) | [Daggy Man](https://open.spotify.com/artist/4nlx8JC05qQU06qyOFo6Kg), [Thomas Calder](https://open.spotify.com/artist/5nM5PCz9TgE2054Kjup7lL) | [Wet Jesus](https://open.spotify.com/album/7KI1E1jLRlSA6JupqR6rpa) | 3:19 |
 | 20 | [Ebbs and Flows](https://open.spotify.com/track/6sfKeR4COlQzomHlfMTbpj) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [Ebbs and Flows](https://open.spotify.com/album/4qqvBins9wxYYFCDftF8yu) | 3:01 |
-| 21 | [LOSE FIRST, WIN LATER](https://open.spotify.com/track/6FvMmoVFEl6cGvAQXMNeu9) | [Tec](https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI) | [LOSE FIRST, WIN LATER](https://open.spotify.com/album/5btr8xOvQkSJ88TQKusa81) | 2:38 |
+| 21 | [LOSE FIRST, WIN LATER \- DEMO](https://open.spotify.com/track/6FvMmoVFEl6cGvAQXMNeu9) | [Tec](https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI), [KLWN CAT](https://open.spotify.com/artist/3njKTUDQIOswiLKoYRePBd) | [LOSE FIRST, WIN LATER \(DEMO\)](https://open.spotify.com/album/5btr8xOvQkSJ88TQKusa81) | 2:38 |
 | 22 | [LUCKY](https://open.spotify.com/track/2KxeLlTGctzbh8EXm4eW7d) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [AREN'T YOU LUCKY?](https://open.spotify.com/album/11PbZ0Vle1SnLTHw0zRXWA) | 2:37 |
 | 23 | [someone else](https://open.spotify.com/track/3rBz7akK9WFZJAyNaK5BXC) | [miicah](https://open.spotify.com/artist/2aB4Le4Kw8PHghlMJ2T2oi) | [bad holiday](https://open.spotify.com/album/6uoCaXFcvWnZNS0ownDiiq) | 3:45 |
 | 24 | [Water](https://open.spotify.com/track/2oWwkZox6LKv7vQccsOlMv) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [UGH](https://open.spotify.com/album/3eFOkUfSZ4yUH9b8804KR1) | 1:53 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 52 | [protected](https://open.spotify.com/track/0yzOpsdCAxEzga6pGo76d6) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [r u missing](https://open.spotify.com/album/1JC06HUJLcl40hRtZxfwLY) | 2:15 |
 | 53 | [Oliver](https://open.spotify.com/track/1cJyI5SqNLsIG7RoXKhsvn) | [Bella Porter](https://open.spotify.com/artist/4jby3degVGgbEuzneg4iU3) | [Oliver](https://open.spotify.com/album/0p2R73LIfq7Fcro9ecDSlL) | 3:41 |
 
-Snapshot ID: `MCw5NjczY2RiZDllODg4NGRhYWNmNjdiNjc0MDBjNTJkMTE0NDhmZGNm`
+Snapshot ID: `MCw5OTBkNTY5YmYzNjBjMDA1MjA3MDZhOGJhZjM3MWFjNmQ1MzY2NzEz`

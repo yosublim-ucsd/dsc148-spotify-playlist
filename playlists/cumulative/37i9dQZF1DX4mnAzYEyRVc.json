@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 158933,
       "name": "Der Song den jeder kennt",
       "url": "https://open.spotify.com/track/0Qev6YcGtupcouKqxrfrWz"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 269211,
       "name": "Eastern Standard Time",
       "url": "https://open.spotify.com/track/0MD62jX5sCoiKqCFrq8hx2"
@@ -3052,6 +3052,28 @@
       "duration_ms": 162036,
       "name": "Gospel Skabarnak",
       "url": "https://open.spotify.com/track/2eNVwAWPCzRGb4YLaUvT1X"
+    },
+    {
+      "album": {
+        "name": "Gotta Keep It Going",
+        "url": "https://open.spotify.com/album/37mFb0lfYnSslaJxUYabIX"
+      },
+      "artists": [
+        {
+          "name": "The Gramophone Allstars",
+          "url": "https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN"
+        },
+        {
+          "name": "Rodrigo Lavi\u00f1a",
+          "url": "https://open.spotify.com/artist/2GY6Es5fP09QBZW8KDbbv5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225397,
+      "name": "Gotta Keep It Going",
+      "url": "https://open.spotify.com/track/1pBrnr4hWlpQl2a2TXyd8j"
     },
     {
       "album": {
@@ -5176,7 +5198,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 255500,
       "name": "Mudik",
       "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
@@ -5688,6 +5710,24 @@
       "duration_ms": 186760,
       "name": "Nobody but Me",
       "url": "https://open.spotify.com/track/4AcLEMpXmqWJwdVU1bRd5W"
+    },
+    {
+      "album": {
+        "name": "No\u010dn\u00ed pt\u00e1ci",
+        "url": "https://open.spotify.com/album/23jNX9AOg5j9mQNwktCgcM"
+      },
+      "artists": [
+        {
+          "name": "Sto zv\u00ed\u0159at",
+          "url": "https://open.spotify.com/artist/4fLCFZWbgAALL8veJBj8lX"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209626,
+      "name": "Noc je je\u0161t\u011b mlad\u00e1",
+      "url": "https://open.spotify.com/track/66DzNV3HkTmYlYA9shXAr2"
     },
     {
       "album": {
@@ -9564,6 +9604,24 @@
       "duration_ms": 229160,
       "name": "Uptown Top Ranking - Remastered 2001",
       "url": "https://open.spotify.com/track/23d9yhuGmp2AbAJzFVBwUv"
+    },
+    {
+      "album": {
+        "name": "Utakatarattara",
+        "url": "https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Utakatarattara",
+      "url": "https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS"
     },
     {
       "album": {

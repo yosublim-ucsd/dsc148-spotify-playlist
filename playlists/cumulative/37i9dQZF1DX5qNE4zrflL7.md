@@ -4,7 +4,7 @@
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-152 songs - 8 hr 9 min
+153 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Communication Breakdown \- Remaster](https://open.spotify.com/track/2E64SWjM9rQmAshItmdbcw) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin \(Remaster\)](https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU) | 2:30 | 2021-10-06 |  |
 | [Complication](https://open.spotify.com/track/4Sb3TdqgOi35RoL78Y1LtC) | [The Monks](https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy) | [Black Monk Time](https://open.spotify.com/album/0YEmNXaNDq03tfgFmG4MOj) | 2:22 | 2021-10-06 |  |
 | [Crimson & Clover](https://open.spotify.com/track/0I4yYE831a8SW8QIx6bz4x) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Anthology](https://open.spotify.com/album/3yS8gcHmbKBK6XhLmq7ZcK) | 3:29 | 2021-10-06 | 2022-07-29 |
-| [Crimson & Clover \- Single Version; Mono](https://open.spotify.com/track/1qTfHUVPsZTnrmvwQrAQdW) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Crimson & Clover / Some Kind of Love](https://open.spotify.com/album/7D5t5lcmEzFyZcr8a1avmL) | 3:28 | 2021-10-06 |  |
+| [Crimson & Clover \- Single Version; Mono](https://open.spotify.com/track/1qTfHUVPsZTnrmvwQrAQdW) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Crimson & Clover / Some Kind of Love](https://open.spotify.com/album/7D5t5lcmEzFyZcr8a1avmL) | 3:28 | 2021-10-06 | 2023-09-15 |
+| [Crimson and Clover \(Single Version\)](https://open.spotify.com/track/74ohdXevc7VsXl96ofi3Kn) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Celebration: The Complete Roulette Recordings 1966\-1973](https://open.spotify.com/album/7LuVM7ZoQf15BbEa61CpTU) | 3:28 | 2021-10-06 |  |
 | [Crimson and Clover \- Single Version](https://open.spotify.com/track/523jqbnMzb79V2isPqctui) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [60s Pop Essentials](https://open.spotify.com/album/24Kkq3iVZ0UbedAvM7zSur) | 3:28 | 2021-10-06 | 2022-11-13 |
 | [Death Cab for Cutie \- 2007 Remaster](https://open.spotify.com/track/3pYM1COOgzTV1QUokz2BSX) | [The Bonzo Dog Band](https://open.spotify.com/artist/6Q7D1oEccgTc8MAYdMgtIx) | [Gorilla](https://open.spotify.com/album/6uFpUlhisObpcBkMevFrOo) | 2:54 | 2021-10-06 |  |
 | [Debora](https://open.spotify.com/track/5ADiy8c2ir9ewoKnsGWrYs) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/3NvakF8DkALyWdzQabFo1S) | 3:07 | 2021-10-06 |  |

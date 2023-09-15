@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: laye
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,827 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,835 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 26 | [Try To Get Away](https://open.spotify.com/track/02t7y7rdTXxq98vQW93VAr) | [Carlyn](https://open.spotify.com/artist/12D87T2sauvafmdyGDhu87) | [Try To Get Away](https://open.spotify.com/album/4SLaooZZpaXSBnUDMPMsGi) | 2:35 |
 | 27 | [Ride](https://open.spotify.com/track/7kMUUqZq6kYVeL2MwRZJTy) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [Bluxz](https://open.spotify.com/artist/1r8Auc1h8ytYw3hYKnJ33a), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Marriott](https://open.spotify.com/artist/3sotQBK04iF2DkV7DfQ1Vs), [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa) | [Ride](https://open.spotify.com/album/7ndcDivVteSQArE1XORpuv) | 2:39 |
 | 28 | [Wait on You](https://open.spotify.com/track/0bkaEQFMm2pxKm1A6JIgbg) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Wait On You](https://open.spotify.com/album/5os2gq7OO3CJWwTdrczrVm) | 3:06 |
-| 29 | [Limbo](https://open.spotify.com/track/4BMhR515OiK2TII7qzQujj) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/5pXEHD47zKV9KyUcEAuRlV) | 2:45 |
+| 29 | [Limbo](https://open.spotify.com/track/2CxwqktUwLHo0XtgMaI9Qc) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/22PJnohZYZdtqexRDkX6Qs) | 2:45 |
 | 30 | [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 |
 | 31 | [Pity Party](https://open.spotify.com/track/4olueFSoiu5OskQ3PjRd0s) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Pity Party](https://open.spotify.com/album/1iBTWJmgEcMCGZHFHC3IBb) | 3:02 |
 | 32 | [Esa No](https://open.spotify.com/track/2I7i0wmHNpJsCEMXqkiM08) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Esa No](https://open.spotify.com/album/7uZ9DXoxcXvWUpedaWc7wL) | 1:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Does This Sound Good To You?](https://open.spotify.com/track/5TkhXF4u5gPLgqii04ek6d) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Does This Sound Good To You?](https://open.spotify.com/album/67TDi71dKdJTezgHn2NdUe) | 4:27 |
 | 50 | [mundane](https://open.spotify.com/track/1mRGGMgNmToBG2arFHFhru) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [mundane](https://open.spotify.com/album/1gCFvzhsVFmj7G1ejCDPhg) | 2:41 |
 
-Snapshot ID: `MCxiMDRjN2FhY2E0NTQ2NTRlMjhmYTQ1ZTVlNWVmOGE0OGZiMDJlYzdk`
+Snapshot ID: `MCwxNjA1ODdiZDU0MTliMDhkZGVmZmM1ZmY4YzVmZjRiMzY5ZWUzMDkx`

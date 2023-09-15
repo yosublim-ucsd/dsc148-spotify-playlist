@@ -4919,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "Fizzled",
+        "url": "https://open.spotify.com/album/0jWIcdOR33k2u0cQeRd8sc"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208093,
+      "name": "Fizzled",
+      "url": "https://open.spotify.com/track/70bB2mVy2OOOy2AhI9NyNK"
+    },
+    {
+      "album": {
         "name": "HIDEOUT: THE NEW DAY WE STEP INTO - SEASON 2.",
         "url": "https://open.spotify.com/album/0XI2pmH6pUEjx0d9iOqx9x"
       },

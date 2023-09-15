@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 20993,
+  "num_followers": 21008,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjE5NzVjMDljMDM4ZjE5ODA4YjQwMjVhOGZjNDc1YjFkYWYwNDFh",
+  "snapshot_id": "MCxkMzZmNTU3MDE3ODM2YTYxNGE0YzM3NGNiMmQ0NWFhNmM2MmIyNDYz",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -63,8 +63,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Punta Mix 2019",
-        "url": "https://open.spotify.com/album/1yUOla9I4KEqzzAJH9JgW7"
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7"
       },
       "artists": [
         {
@@ -72,13 +72,13 @@
           "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         },
         {
-          "name": "MC Productions Inc",
-          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
+          "name": "MC Productions",
+          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
         }
       ],
-      "duration_ms": 301342,
-      "name": "Punta Mix 2019",
-      "url": "https://open.spotify.com/track/5LP391Nx0za8MUzi9WynnX"
+      "duration_ms": 192954,
+      "name": "La Parranda (Sei Sei Bei)",
+      "url": "https://open.spotify.com/track/3llzQNADFAhTK81sdx2rqR"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -215,8 +215,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7"
+        "name": "Punta Mix 2019",
+        "url": "https://open.spotify.com/album/1yUOla9I4KEqzzAJH9JgW7"
       },
       "artists": [
         {
@@ -224,13 +224,13 @@
           "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         },
         {
-          "name": "MC Productions",
-          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
         }
       ],
-      "duration_ms": 192954,
-      "name": "La Parranda (Sei Sei Bei)",
-      "url": "https://open.spotify.com/track/3llzQNADFAhTK81sdx2rqR"
+      "duration_ms": 301342,
+      "name": "Punta Mix 2019",
+      "url": "https://open.spotify.com/track/5LP391Nx0za8MUzi9WynnX"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 1",
-        "url": "https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 282723,
-      "name": "Punta Silver",
-      "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Hablo Espa\u00f1ol",
         "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 186410,
       "name": "Hablo Espa\u00f1ol",
       "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 282723,
+      "name": "Punta Silver",
+      "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -399,18 +399,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 4",
-        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
       },
       "artists": [
         {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
         }
       ],
-      "duration_ms": 444533,
-      "name": "Puntas Garifunas Criollas 2",
-      "url": "https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3"
+      "duration_ms": 240536,
+      "name": "Pedazo De Mujer",
+      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -431,18 +431,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+        "name": "Batalla de las Puntas, Vol. 4",
+        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
       },
       "artists": [
         {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
         }
       ],
-      "duration_ms": 240536,
-      "name": "Pedazo De Mujer",
-      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
+      "duration_ms": 444533,
+      "name": "Puntas Garifunas Criollas 2",
+      "url": "https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -531,18 +531,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Va Ca\u00f1on!",
-        "url": "https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe"
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
       },
       "artists": [
         {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
         }
       ],
-      "duration_ms": 238184,
-      "name": "Otro Amor Llego",
-      "url": "https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9"
+      "duration_ms": 166557,
+      "name": "Mira Honduras",
+      "url": "https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -579,18 +579,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+        "name": "Va Ca\u00f1on!",
+        "url": "https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe"
       },
       "artists": [
         {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
         }
       ],
-      "duration_ms": 166557,
-      "name": "Mira Honduras",
-      "url": "https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg"
+      "duration_ms": 238184,
+      "name": "Otro Amor Llego",
+      "url": "https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9"
     },
     {
       "added_at": "2020-05-26 15:53:13",

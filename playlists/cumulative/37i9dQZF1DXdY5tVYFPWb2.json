@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 190045,
       "name": "candy",
       "url": "https://open.spotify.com/track/2UGlEEIp5JTjwfmLX4RFhj"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 197500,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
@@ -3444,6 +3444,24 @@
       "duration_ms": 298999,
       "name": "KISS",
       "url": "https://open.spotify.com/track/3tVxy9ELaFCugIRJZuTZZA"
+    },
+    {
+      "album": {
+        "name": "Kitai to Yokan",
+        "url": "https://open.spotify.com/album/4e1KSg9V4VqHn87Q9eBLOv"
+      },
+      "artists": [
+        {
+          "name": "Skirt",
+          "url": "https://open.spotify.com/artist/3PVdr6pwvDMZ9UKTCb1Tkd"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216106,
+      "name": "Kitai to Yokan",
+      "url": "https://open.spotify.com/track/3uXhwYBekTnCBSw1EOqPTr"
     },
     {
       "album": {
@@ -4334,6 +4352,28 @@
       "duration_ms": 270133,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
+    },
+    {
+      "album": {
+        "name": "missing summer (Hugh Keice\u3000Remix - Korean Ver.)",
+        "url": "https://open.spotify.com/album/1YZXtuwz8Ohy0WcMKR93Wg"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        },
+        {
+          "name": "Hugh Keice",
+          "url": "https://open.spotify.com/artist/74w143cx7ODBg7fiKC23aO"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "missing summer - Hugh Keice\u3000Remix - Korean Ver.",
+      "url": "https://open.spotify.com/track/7fv8egRaKe98kxMpTYkSUh"
     },
     {
       "album": {
@@ -8131,6 +8171,24 @@
     },
     {
       "album": {
+        "name": "UMA",
+        "url": "https://open.spotify.com/album/3SCVZks7F9EodJEy0BvJBe"
+      },
+      "artists": [
+        {
+          "name": "um-hum",
+          "url": "https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228872,
+      "name": "UMA",
+      "url": "https://open.spotify.com/track/2vJ8n0NKqQamRSKwDJodZP"
+    },
+    {
+      "album": {
         "name": "UNDR BLUE",
         "url": "https://open.spotify.com/album/7o5PEy2vFqEbfN6UhV1yVj"
       },
@@ -10375,6 +10433,32 @@
     },
     {
       "album": {
+        "name": "\u30e1\u30ed\u30c7\u30a3 (feat. \u8494\u7530\u5f69\u73e0 & \u9ad9\u77f3\u3042\u304b\u308a)",
+        "url": "https://open.spotify.com/album/5cnBdECOvU0mv7sXn7snG3"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        },
+        {
+          "name": "\u8494\u7530\u5f69\u73e0",
+          "url": "https://open.spotify.com/artist/4XORR0FPl43HuS4ZMgSrjg"
+        },
+        {
+          "name": "\u9ad9\u77f3\u3042\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7C8Jhm5iqg2Wjwte4neNrT"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "\u30e1\u30ed\u30c7\u30a3 (feat. \u8494\u7530\u5f69\u73e0 & \u9ad9\u77f3\u3042\u304b\u308a)",
+      "url": "https://open.spotify.com/track/59MOghNeV6K16bCxsRsaTY"
+    },
+    {
+      "album": {
         "name": "\u30e2\u30ca\u30ea\u30b6\u306e\u6d99",
         "url": "https://open.spotify.com/album/42gLMIxChPhg6mriBI9Qtf"
       },
@@ -10422,7 +10506,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 228872,
       "name": "\u30e6\u30a6\u30de",
       "url": "https://open.spotify.com/track/2YWcSCPUv0ZHp3w9gUtFjs"
@@ -11642,7 +11726,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 216106,
       "name": "\u671f\u5f85\u3068\u4e88\u611f",
       "url": "https://open.spotify.com/track/7neEHqeY6dENBc8TNrgkwl"

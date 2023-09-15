@@ -1,13 +1,29 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 121635,
+  "num_followers": 121801,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2ZhNjE3ZDlhOGVjNTcyYzQyNzdjN2JlMWI4YjU4MTc1ODhiNTJk",
+  "snapshot_id": "MCw2YmIxYTE3NzVlNzAwMGNiNzU5ZjhmMGQ4ZmY2ZDE0YTk4YWVhNzc3",
   "tracks": [
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "Al\u00edvio",
+        "url": "https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 285098,
+      "name": "Al\u00edvio",
+      "url": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP"
+    },
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 214445,
       "name": "T\u00e1 Chorando Por Qu\u00ea?",
       "url": "https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
-        "name": "Al\u00edvio",
-        "url": "https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 285098,
-      "name": "Al\u00edvio",
-      "url": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP"
     },
     {
       "added_at": "2023-09-01 05:58:33",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT"
-      },
-      "artists": [
-        {
-          "name": "Vocal Livre",
-          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
-        },
-        {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        }
-      ],
-      "duration_ms": 279989,
-      "name": "Eu, Poema: Releitura",
-      "url": "https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
         "name": "Infinito Amor",
         "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 243417,
       "name": "Infinito Amor",
       "url": "https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT"
+      },
+      "artists": [
+        {
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        }
+      ],
+      "duration_ms": 279989,
+      "name": "Eu, Poema: Releitura",
+      "url": "https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z"
     },
     {
       "added_at": "2023-09-01 05:58:33",
@@ -1019,42 +1019,6 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
-        "name": "Soul Hymns (Live Sessions)",
-        "url": "https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 321536,
-      "name": "Captured - Live Session",
-      "url": "https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
-        "name": "Miseric\u00f3rdia \u00c9s",
-        "url": "https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 154104,
-      "name": "Miseric\u00f3rdia \u00c9s",
-      "url": "https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
         "name": "Louvor IV",
         "url": "https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9"
       },
@@ -1075,6 +1039,42 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
+        "name": "Miseric\u00f3rdia \u00c9s",
+        "url": "https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 154104,
+      "name": "Miseric\u00f3rdia \u00c9s",
+      "url": "https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "Soul Hymns (Live Sessions)",
+        "url": "https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 321536,
+      "name": "Captured - Live Session",
+      "url": "https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
         "name": "Ent\u00e3o Vem",
         "url": "https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
-        "name": "Eu Te Amo, Senhor",
-        "url": "https://open.spotify.com/album/4gxN4G9Yj5gPB1hhgHUrKU"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Moreno",
-          "url": "https://open.spotify.com/artist/7aL8gEvgW9buUDMXHdkqAP"
-        }
-      ],
-      "duration_ms": 326136,
-      "name": "Eu Te Amo, Senhor",
-      "url": "https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
         "name": "Pra Viver Project",
         "url": "https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 195000,
       "name": "Pra Viver - Ac\u00fastico",
       "url": "https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "Eu Te Amo, Senhor",
+        "url": "https://open.spotify.com/album/4gxN4G9Yj5gPB1hhgHUrKU"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Moreno",
+          "url": "https://open.spotify.com/artist/7aL8gEvgW9buUDMXHdkqAP"
+        }
+      ],
+      "duration_ms": 326136,
+      "name": "Eu Te Amo, Senhor",
+      "url": "https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY"
     },
     {
       "added_at": "2023-09-01 05:58:33",
@@ -1155,6 +1155,22 @@
       "duration_ms": 202431,
       "name": "O Tempo N\u00e3o Para",
       "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "O Banquete",
+        "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
+      },
+      "artists": [
+        {
+          "name": "O Bairro Novo",
+          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
+        }
+      ],
+      "duration_ms": 280760,
+      "name": "Corpo I",
+      "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
     },
     {
       "added_at": "2023-09-01 05:58:33",
@@ -1211,22 +1227,6 @@
       "duration_ms": 287647,
       "name": "Visita",
       "url": "https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
-        "name": "Cora\u00e7\u00e3o de Aprendiz",
-        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        }
-      ],
-      "duration_ms": 303071,
-      "name": "Cora\u00e7\u00e3o de Aprendiz",
-      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
     }
   ],
   "unique_name": "Chocolate Crente",

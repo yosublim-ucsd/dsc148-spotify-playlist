@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Freight Man",
+        "url": "https://open.spotify.com/album/3khIXfE6StiZSkmsfGEw6k"
+      },
+      "artists": [
+        {
+          "name": "Josie",
+          "url": "https://open.spotify.com/artist/0lkn1fc0HZVVtrl8otRdT1"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Freight Man",
+      "url": "https://open.spotify.com/track/7nUmTjJSeR9rpNu9yDZEbO"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/7aCQ8ykn17ablkh4ys2xTJ"
       },

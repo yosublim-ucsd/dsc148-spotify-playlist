@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=\"https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=JVS0nSqOQgqGlEDNyvU_nw\">Naffymar</a> ",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=\"https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs?si=072RrhXmSRuLjvOUIsQ-UA\">Emandiong</a> ",
   "name": "Youth Service",
   "tracks": [
+    {
+      "album": {
+        "name": "1 Am in Lagos",
+        "url": "https://open.spotify.com/album/4iUCe7rcetOwTrLONCr4KQ"
+      },
+      "artists": [
+        {
+          "name": "Quiz Tha Great",
+          "url": "https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        },
+        {
+          "name": "Pastor Brian Jones",
+          "url": "https://open.spotify.com/artist/44rM9ZiF6yxf3YW9d7Ik1z"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183823,
+      "name": "1 Am in Lagos",
+      "url": "https://open.spotify.com/track/6gM0MRc4d2sQq7HN5uBsiB"
+    },
     {
       "album": {
         "name": "Forever",
@@ -158,7 +184,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 273760,
       "name": "Aka Ngozi (The Hand of God)",
       "url": "https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo"
@@ -516,7 +542,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 191996,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/5BqNOgYcrc9e5tcnyNQPdU"
@@ -917,6 +943,56 @@
     },
     {
       "album": {
+        "name": "Cast Am Out (remix pack)",
+        "url": "https://open.spotify.com/album/3SdYix0MS20UcRaxcJOlsF"
+      },
+      "artists": [
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        },
+        {
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+        },
+        {
+          "name": "Kelar Thrillz",
+          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
+        },
+        {
+          "name": "Quiz Tha Great",
+          "url": "https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v"
+        },
+        {
+          "name": "The membrane",
+          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
+        },
+        {
+          "name": "Sammy Hart",
+          "url": "https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230068,
+      "name": "Cast Am Out - remix Pt.1",
+      "url": "https://open.spotify.com/track/5oTOAOBCMjj4YjKFpJ9xPR"
+    },
+    {
+      "album": {
         "name": "Catapult",
         "url": "https://open.spotify.com/album/3zvzvISRTz2gBbNS1OjIUB"
       },
@@ -1088,7 +1164,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 157826,
       "name": "Confam",
       "url": "https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz"
@@ -1110,7 +1186,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 205712,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/1ZCgUvDTcHTRsl0SqZyWSw"
@@ -2102,7 +2178,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 176482,
       "name": "Falala",
       "url": "https://open.spotify.com/track/64VQFnOF4na9PpqsSeg36E"
@@ -2318,6 +2394,28 @@
       "duration_ms": 160549,
       "name": "Fire on the Mountain",
       "url": "https://open.spotify.com/track/1u2W22pbY0opK1gcETuFaF"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/0GzUWbbrW1mpSpb2iSNhzr"
+      },
+      "artists": [
+        {
+          "name": "Same OG",
+          "url": "https://open.spotify.com/artist/76h9OBfmrRBZI5R4PA3r6i"
+        },
+        {
+          "name": "Licy-Be",
+          "url": "https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121730,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/7rvky1xs7Ewil4rUjtxcSk"
     },
     {
       "album": {
@@ -2846,7 +2944,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 149549,
       "name": "God No Go Shame Us",
       "url": "https://open.spotify.com/track/6oHUaQylY7C9vpLDrLR32C"
@@ -2927,6 +3025,28 @@
     },
     {
       "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
+      },
+      "artists": [
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216111,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
+    },
+    {
+      "album": {
         "name": "GOOD GOOD GOD",
         "url": "https://open.spotify.com/album/7D12vNVnTLlF3GIhTgKLPl"
       },
@@ -2986,7 +3106,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 166934,
       "name": "Got What I Need",
       "url": "https://open.spotify.com/track/1abrJnWbUK8jWxxhT11lS3"
@@ -3132,7 +3252,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 140198,
       "name": "Halle",
       "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
@@ -3978,7 +4098,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 198504,
       "name": "IN LOVE",
       "url": "https://open.spotify.com/track/1gRPJdqgiJ4Koignp3lcZH"
@@ -4622,7 +4742,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 132146,
       "name": "Lord Arise - Let The Enemy Be Scattered",
       "url": "https://open.spotify.com/track/2MmZGEYWcwNNcmHzAaXnuq"
@@ -4710,7 +4830,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 234684,
       "name": "Masoyina - Speed up version",
       "url": "https://open.spotify.com/track/5QY6fa6Z5xXOJwRLDwjGFe"
@@ -4802,6 +4922,32 @@
       "duration_ms": 1005517,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/5QiL1OCJS1pQ9ql08pp4m6"
+      },
+      "artists": [
+        {
+          "name": "Wiffi Drips",
+          "url": "https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7"
+        },
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0DW4H9Xdxds3zZ4qSQnl1x"
     },
     {
       "album": {
@@ -4999,6 +5145,24 @@
     },
     {
       "album": {
+        "name": "Mon Dieu",
+        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
+      },
+      "artists": [
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Mon Dieu",
+      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
+    },
+    {
+      "album": {
         "name": "More Love",
         "url": "https://open.spotify.com/album/461cLE59aPBIGvdV2vBqDi"
       },
@@ -5014,6 +5178,36 @@
       "duration_ms": 184322,
       "name": "More Love",
       "url": "https://open.spotify.com/track/19rlmg0t6eqNh0feDTVPOW"
+    },
+    {
+      "album": {
+        "name": "The Maverick Way - EP",
+        "url": "https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556673,
+      "name": "More Than Able (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
     },
     {
       "album": {
@@ -5138,7 +5332,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 131065,
       "name": "My Dey",
       "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
@@ -5611,6 +5805,24 @@
     },
     {
       "album": {
+        "name": "LIVE IN LAGOS",
+        "url": "https://open.spotify.com/album/6pbRSHAID65hj5yDF7wSrk"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217341,
+      "name": "OLULANA - Live in Lagos",
+      "url": "https://open.spotify.com/track/2oJ6YukjG68VK7MrMnFX4B"
+    },
+    {
+      "album": {
         "name": "Oluwa",
         "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
       },
@@ -5732,7 +5944,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 163399,
       "name": "On My Case",
       "url": "https://open.spotify.com/track/04IQOJLLfOYcoyddANSaiY"
@@ -6098,7 +6310,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 171600,
       "name": "Presence",
       "url": "https://open.spotify.com/track/3AgqlwUYIjvS3R1wfzzzvC"
@@ -6226,7 +6438,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 152322,
       "name": "Ready",
       "url": "https://open.spotify.com/track/598oVJcsNFUACqMC1o5syH"
@@ -7070,7 +7282,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 144071,
       "name": "Tear Rubber Grace",
       "url": "https://open.spotify.com/track/6ecyIaD5GRVlRUBNZrLYn1"
@@ -7450,7 +7662,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 194526,
       "name": "Victory",
       "url": "https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf"
@@ -7596,7 +7808,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 238200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
@@ -7644,7 +7856,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 180062,
       "name": "What I Want II",
       "url": "https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp"

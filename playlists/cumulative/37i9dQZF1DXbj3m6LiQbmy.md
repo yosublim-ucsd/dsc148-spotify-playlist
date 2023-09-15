@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Yosef, MYDRAMA, KAPUT, Evra e Blue Phelix in cover! ✨
 
-304 songs - 18 hr 23 min
+305 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Lights Down Low](https://open.spotify.com/track/7KcYOID0yLOTK9Zzk22orw) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Lights Down Low](https://open.spotify.com/album/6oroiCK7V2vbl5pCt4U9gI) | 3:18 | 2021-11-19 | 2022-07-28 |
 | [Limiti](https://open.spotify.com/track/340ADpMLhgu8uFdo2RTwmT) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Limiti](https://open.spotify.com/album/3OAUDH6YcxdeTityP71SAL) | 2:17 | 2023-03-17 |  |
 | [Lingua in Fiamme](https://open.spotify.com/track/5bViZhr1ilSTa5CKy2Lbyy) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Lingua in Fiamme](https://open.spotify.com/album/2Ma0QxRuiFjfQd35owYuXy) | 3:03 | 2022-07-04 | 2023-02-25 |
-| [Lingua in Fiamme](https://open.spotify.com/track/66dUFD7kK9aHU4AwKJeMEL) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Lingua in Fiamme](https://open.spotify.com/album/2LKM66yAYt1a0XS0jCdymF) | 3:03 | 2023-02-28 |  |
+| [Lingua in Fiamme](https://open.spotify.com/track/66dUFD7kK9aHU4AwKJeMEL) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Lingua in Fiamme](https://open.spotify.com/album/2LKM66yAYt1a0XS0jCdymF) | 3:03 | 2023-02-28 | 2023-09-15 |
 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 | 2022-06-12 | 2022-06-27 |
 | [Lolita](https://open.spotify.com/track/3izyPpgjYjbKEFtng3IEcS) | [PRISTINE BABE](https://open.spotify.com/artist/0X8u1C9pKwm2tdvMKMVc31) | [Lolita](https://open.spotify.com/album/5CcDEtm147K0SuKsALChfM) | 3:49 | 2021-11-19 | 2022-02-01 |
 | [Lose You](https://open.spotify.com/track/2xKJ1lp7QG8E9VqpXSu1i6) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [I Feel Cream](https://open.spotify.com/album/6kceeYJdBMthVBI7VLKpoQ) | 3:31 | 2022-06-26 | 2022-07-16 |
@@ -205,11 +205,12 @@
 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 | 2021-11-19 | 2023-01-25 |
 | [PARTENOPE](https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO II](https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ) | 3:37 | 2022-06-12 | 2022-06-27 |
 | [pensieri sbagliati](https://open.spotify.com/track/7M0FIW15udOyzZwZz2Anqd) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO 2](https://open.spotify.com/album/09mCErmqw632szFpDPrvn0) | 2:55 | 2021-11-19 | 2023-02-28 |
-| [Penz a te](https://open.spotify.com/track/4S9OgKUA1qiloXuYJ7XwTr) | [SDREUSS](https://open.spotify.com/artist/58n2gUMUzz1GJg8Y9Cy9NW) | [Penz a te](https://open.spotify.com/album/46xblQZrMDOB98CDiDm1n3) | 2:27 | 2022-06-26 |  |
+| [Penz a te](https://open.spotify.com/track/4S9OgKUA1qiloXuYJ7XwTr) | [SDREUSS](https://open.spotify.com/artist/58n2gUMUzz1GJg8Y9Cy9NW) | [Penz a te](https://open.spotify.com/album/46xblQZrMDOB98CDiDm1n3) | 2:27 | 2022-06-26 | 2023-09-15 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2022-06-12 | 2022-06-27 |
 | [Pepper on the Tongue](https://open.spotify.com/track/0pBhLio0KuHjWI1AOHL4H6) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 6:12 | 2023-05-04 |  |
 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 | 2021-11-19 | 2023-06-06 |
 | [Perché piangi Palermo](https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Perché piangi Palermo](https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey) | 5:49 | 2021-11-19 | 2023-06-09 |
+| [Piccola Inutile](https://open.spotify.com/track/2BrerWrh38QmRzjaeN9PMU) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Piccola Inutile](https://open.spotify.com/album/220BF5aubxcU1oxYpl4qwg) | 3:19 | 2023-09-14 |  |
 | [Play With Myself](https://open.spotify.com/track/2oSAdln9nEAmkeXyKZuHBu) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Kuntessa](https://open.spotify.com/artist/3vJiNTj6tI54H1wa61rDlU) | [Maison Belissimo](https://open.spotify.com/album/2rQu03UOssXQjmatsLxWfb) | 3:54 | 2022-06-26 | 2023-06-09 |
 | [Power to the People \- Boombass Remix](https://open.spotify.com/track/5KI0TuNNQCPVQW7aaMB1EU) | [ROLLOVER DJS](https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF), [Boombass](https://open.spotify.com/artist/3EddlMzXk28s8fElHCfi6f) | [Power to the People](https://open.spotify.com/album/3RKkCUYEHlvyp1cQVAtx3t) | 6:18 | 2021-11-19 | 2022-07-27 |
 | [PRAY](https://open.spotify.com/track/0znJt9mv0fI2DKSkJ8TfTY) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [PRAY](https://open.spotify.com/album/1aP12hQEnwTJtUqIxQo9Ju) | 2:23 | 2022-06-02 |  |

@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Adolescent's Orquestra
 
-239 songs - 18 hr 1 min
+240 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,8 +78,9 @@
 | [El Dinero](https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [From Miami a La Habana](https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn) | 4:23 | 2022-05-20 | 2023-09-04 |
 | [El Dinero](https://open.spotify.com/track/0hUFHcJHCPsvq9F2ClNKxt) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [From Miami a La Habana](https://open.spotify.com/album/2xqB7zwRnJHhV4A0Sw5yMi) | 4:23 | 2022-05-20 | 2022-07-03 |
 | [El Dolor del Amor](https://open.spotify.com/track/3gk0FtOab0jeNSGKqVUYCH) | [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa), [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [El Dolor del Amor](https://open.spotify.com/album/3VaVRs5KYljDjd2FoAtv6e) | 4:42 | 2022-01-21 | 2022-02-09 |
+| [El Gran Varon](https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 6:54 | 2023-08-18 |  |
 | [El Gran Varon](https://open.spotify.com/track/1N3G6QQfF0579fHoFQmMzi) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/7LXE7sKQkfDtOJJX3bFwdm) | 6:54 | 2022-01-01 | 2022-07-29 |
-| [El Gran Varón](https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 6:54 | 2022-05-20 |  |
+| [El Gran Varón](https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 6:54 | 2022-05-20 | 2023-09-15 |
 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 | 2023-04-28 |  |
 | [El Que Siempre Soñó](https://open.spotify.com/track/2comgM8wcrT3UbA2DFk5UX) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Que Siempre Soñó](https://open.spotify.com/album/2Xx9zTlqe5Vn7ZcXxqWnE6) | 5:23 | 2022-01-01 | 2022-05-29 |
 | [El Tren](https://open.spotify.com/track/7c1xgHtKieddvGRpgnHFPx) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Porfi Baloa](https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 4:18 | 2023-06-02 |  |

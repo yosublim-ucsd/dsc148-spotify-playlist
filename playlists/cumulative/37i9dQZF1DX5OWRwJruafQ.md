@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-201 songs - 9 hr 41 min
+202 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Jhoonte](https://open.spotify.com/track/3dPThOApKc4R5dPoKxHsx1) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Jhoonte](https://open.spotify.com/album/0MXIzksYo12EZKYQiGC8KT) | 2:30 | 2023-04-03 | 2023-04-21 |
 | [Jithon Marji Puchli](https://open.spotify.com/track/3CUCtrH1gxtvdlHVBoS2A2) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Luxury](https://open.spotify.com/album/2FyyQsfCgLxlWK2etDRUle) | 4:23 | 2023-06-13 |  |
 | [JOURNEY](https://open.spotify.com/track/1M0eK04kGu4ucZ08VVyP4o) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:54 | 2023-07-31 |  |
+| [Judge](https://open.spotify.com/track/2t3u2kqwm3GgZtXh6AZLNN) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ), [Spy Boi](https://open.spotify.com/artist/1gttYcIL5LonZdudIP1HLb) | [Buss](https://open.spotify.com/album/7ByQiP8tW3nB0dBzdislAz) | 2:25 | 2023-09-14 |  |
 | [Jungle](https://open.spotify.com/track/5PBoyMck1mdc6zKeHQjeBS) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Jungle](https://open.spotify.com/album/14pOspmSYB2qjQ7FE2xMxd) | 3:00 | 2023-05-26 | 2023-06-10 |
 | [Kalakaar](https://open.spotify.com/track/1P2kP6CnEQunaOaOQVcxDE) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [Kalakaar](https://open.spotify.com/album/0vbvJKEtYuVEeOKwAMvOxx) | 2:39 | 2023-05-24 | 2023-05-27 |
 | [Kheti](https://open.spotify.com/track/1hMyjH2oMJFxvSCCrPZZJu) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Kheti](https://open.spotify.com/album/3e3Q7c1GmicU3kxmU9WWg8) | 2:15 | 2023-06-09 | 2023-07-13 |
@@ -141,7 +142,7 @@
 | [Nattiyan](https://open.spotify.com/track/0DzcKCvxOBiueaJOnK9WhG) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 3:07 | 2023-04-01 | 2023-04-15 |
 | [Navigation](https://open.spotify.com/track/1FEv3Eim0qpTQP5DMLZeXe) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Sejal Puri](https://open.spotify.com/artist/5krsrrFzTaI3Mb51twW6Dg), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Navigation](https://open.spotify.com/album/3b1uXfpYcttiBlXZ804FSz) | 3:00 | 2023-07-25 |  |
 | [Never Ending](https://open.spotify.com/track/3QWwHA9yV64KMcUUggOofL) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Never Ending](https://open.spotify.com/album/3UPmZcg6np0DqEo2SonSNu) | 2:38 | 2023-07-24 |  |
-| [No Fake](https://open.spotify.com/track/4BKx5bluk9JK84PkzjIe4h) | [ABY](https://open.spotify.com/artist/474lx20917Ts6yKqKc6lF5) | [No Fake](https://open.spotify.com/album/4wxbtYf37aiM1RF0Q1iGS2) | 3:01 | 2023-09-12 |  |
+| [No Fake](https://open.spotify.com/track/4BKx5bluk9JK84PkzjIe4h) | [ABY](https://open.spotify.com/artist/474lx20917Ts6yKqKc6lF5), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr) | [No Fake](https://open.spotify.com/album/4wxbtYf37aiM1RF0Q1iGS2) | 3:01 | 2023-09-12 |  |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-29 |  |
 | [No Safety](https://open.spotify.com/track/20UbVolWK6m0Z0ombwnJuv) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [No Safety](https://open.spotify.com/album/3e1Hy7oriakodVpnsQHOCW) | 1:58 | 2023-08-11 |  |
 | [No Way Back](https://open.spotify.com/track/6OA60KrsBqTBUS1uk4kVwo) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Yaari Ghumaan](https://open.spotify.com/artist/7IStg4VLfRCVMMIL5RgToK) | [Versatile](https://open.spotify.com/album/7EDCJpN41sqQERoxzIsk4V) | 2:34 | 2023-04-14 | 2023-04-21 |

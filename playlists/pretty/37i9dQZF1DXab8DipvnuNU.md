@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Curated by Bun B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,365 likes - 94 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,410 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 66 | [Ain't No Future In Yo' Frontin'](https://open.spotify.com/track/00ReeHCY0FQUyuAUyPJdnk) | [MC Breed](https://open.spotify.com/artist/63727CmmJ8oWFh8eAHvDYq), [DFC](https://open.spotify.com/artist/7MwTRMdXjyKSrMIyv3UY8Z) | [MC Breed & DFC](https://open.spotify.com/album/7mLks5uEIPmT0056mb5oV3) | 4:04 |
 | 67 | [Down For My Niggaz](https://open.spotify.com/track/6SSJcmQgBEvHqqCivyVfqG) | [C\-Murder](https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x), [Magic](https://open.spotify.com/artist/5RszwcBlHzry6slQ9LRcSw), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Trapped In Crime](https://open.spotify.com/album/7MDd3o71CPSVTi3F58gWVu) | 3:45 |
 | 68 | [Apache](https://open.spotify.com/track/51ml2bJs9zDLv1PbzNQzPP) | [Incredible Bongo Band](https://open.spotify.com/artist/6tw3wmGmRXSWP9GqsnvY7B) | [40 Years of the Incredible Bongo Band](https://open.spotify.com/album/2dtnXYyS4Qx7CvgpWOO8Na) | 4:53 |
-| 69 | [The Choice Is Yours](https://open.spotify.com/track/1I1ycyokEiLqNHeRR3c63i) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [A Wolf In Sheep's Clothing](https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO) | 3:23 |
-| 70 | [Treat 'Em Right](https://open.spotify.com/track/2QHmGfplU3ypWOGgJM46in) | [Chubb Rock](https://open.spotify.com/artist/4dVRITwfej74WkmNpgYVPb) | [The One](https://open.spotify.com/album/2SRmJGHAMj3Bi8AqvHEJAo) | 4:43 |
+| 69 | [Treat 'Em Right](https://open.spotify.com/track/2QHmGfplU3ypWOGgJM46in) | [Chubb Rock](https://open.spotify.com/artist/4dVRITwfej74WkmNpgYVPb) | [The One](https://open.spotify.com/album/2SRmJGHAMj3Bi8AqvHEJAo) | 4:43 |
+| 70 | [The Choice Is Yours](https://open.spotify.com/track/1I1ycyokEiLqNHeRR3c63i) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [A Wolf In Sheep's Clothing](https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO) | 3:23 |
 | 71 | [Getto Jam](https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx) | [Domino](https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1) | [Domino](https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR) | 4:19 |
 | 72 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 |
 | 73 | [Barre Baby \(feat\. Ronnetta Spencer\)](https://open.spotify.com/track/1NVv0XLVxypQEuoQa4bjAQ) | [Big Moe](https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr) | [City Of Syrup](https://open.spotify.com/album/6WqHRoNaFwM6K5KkTsQPGn) | 2:59 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 93 | [Top Billin'](https://open.spotify.com/track/0ctyMxVlNs8oE7k0ZMcrKn) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [Old School Hip Hop Beats](https://open.spotify.com/album/2KDLQ8ypKKudHoO49Ttpi0) | 2:55 |
 | 94 | [Could This Be Love](https://open.spotify.com/track/0W9DTUYHHGLl62f4ETnTWI) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love \(Deluxe\)](https://open.spotify.com/album/2kw3VjK47np2HYq8IkvgXk) | 5:13 |
 
-Snapshot ID: `MCwwY2IzMjliODBkOGQ5MTIzOWU3NjM1Njc3Y2ZjZmQxNDU3ZGNmZWFk`
+Snapshot ID: `MCwzN2U5MGZiYzA5OTU0ZGU0NzVjODllYjFhNzg3OTRiNmRjNTY0Nzk3`

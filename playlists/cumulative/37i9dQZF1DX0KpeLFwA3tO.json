@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Hawthorne Heights",
+  "description": "The best new music from the wide world of punk. Cover: All Time Low",
   "name": "All New Punk",
   "tracks": [
     {
@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 151958,
       "name": "A Track In Orbit",
       "url": "https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro"
@@ -3727,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/5MCauxko02CqzLRjptNIuX"
+      },
+      "artists": [
+        {
+          "name": "EXUM",
+          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235599,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/7lLp5dtiWkM8d0oVfnD2WS"
+    },
+    {
+      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/0flAFOXNfYloq2KK4mQn0m"
       },
@@ -4510,7 +4528,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 125787,
       "name": "Crossed that Line",
       "url": "https://open.spotify.com/track/4sRm3EfDwKfBDqp9TmCs6T"
@@ -6709,6 +6727,28 @@
     },
     {
       "album": {
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "album": {
         "name": "Fall Apart",
         "url": "https://open.spotify.com/album/7FNAUPTB5IFHkuqJ64vv2y"
       },
@@ -6720,7 +6760,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 218692,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/5NYTMw9LKD1l0KSQgcS8HG"
@@ -6742,6 +6782,24 @@
       "duration_ms": 228451,
       "name": "Fall From Grace",
       "url": "https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0"
+    },
+    {
+      "album": {
+        "name": "Fallen Short",
+        "url": "https://open.spotify.com/album/7Dcgqmfp566cAcShiWhUqi"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157324,
+      "name": "Fallen Short",
+      "url": "https://open.spotify.com/track/1mbnRS3a0TgqsrahokSF43"
     },
     {
       "album": {
@@ -11481,6 +11539,24 @@
     },
     {
       "album": {
+        "name": "lean",
+        "url": "https://open.spotify.com/album/3AYUu1D07qlUVKTsYsk5Br"
+      },
+      "artists": [
+        {
+          "name": "snake eyes",
+          "url": "https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168303,
+      "name": "lean",
+      "url": "https://open.spotify.com/track/0F6B4EvpEqiTtHNfDxBOIm"
+    },
+    {
+      "album": {
         "name": "Leap Year",
         "url": "https://open.spotify.com/album/0Jm6plY3SnAKezKKgBCI5q"
       },
@@ -11834,7 +11910,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 212000,
       "name": "LIES",
       "url": "https://open.spotify.com/track/2QrUWzndXheW05HL6boFny"
@@ -12362,7 +12438,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 384186,
       "name": "Los Angeles (feat. James Murphy)",
       "url": "https://open.spotify.com/track/0sueSpJiVi3YT5t1KGuEJw"
@@ -12678,7 +12754,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 315640,
       "name": "Lovely Murk",
       "url": "https://open.spotify.com/track/2BYJiIQwds17fOiTtecQbt"
@@ -13700,7 +13776,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 178858,
       "name": "Monk Stomp",
       "url": "https://open.spotify.com/track/71GeOAupAQc6PPrHXC5SNi"
@@ -17498,7 +17574,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 322493,
       "name": "Running",
       "url": "https://open.spotify.com/track/70Ihkxi5xu9AEWBob1JBX7"
@@ -18805,6 +18881,24 @@
     },
     {
       "album": {
+        "name": "Small Town Cop Override",
+        "url": "https://open.spotify.com/album/5jvhqxotMpBffc37keEnix"
+      },
+      "artists": [
+        {
+          "name": "The Native Cats",
+          "url": "https://open.spotify.com/artist/47wmOuObU5RGLiiCpsnAS4"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80106,
+      "name": "Small Town Cop Override",
+      "url": "https://open.spotify.com/track/6Pg79YzRjjxsX2dWmHNwvG"
+    },
+    {
+      "album": {
         "name": "Snack Run",
         "url": "https://open.spotify.com/album/5RMfiR0EZQ1lfNK1PDjOnK"
       },
@@ -19676,7 +19770,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 201316,
       "name": "Strange Neighbour",
       "url": "https://open.spotify.com/track/6pHUXTAkA0oeZjUQNYkwWN"
@@ -20152,7 +20246,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 100858,
       "name": "Sylvie's A Mess",
       "url": "https://open.spotify.com/track/4KHhb8Yvy03AtfsWMTPalP"
@@ -22647,6 +22741,42 @@
     },
     {
       "album": {
+        "name": "USA",
+        "url": "https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "USA",
+      "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
+    },
+    {
+      "album": {
+        "name": "use me",
+        "url": "https://open.spotify.com/album/4JUtkSVltrPsPmpEkadMK7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181873,
+      "name": "use me",
+      "url": "https://open.spotify.com/track/0KNLFtX4moDQ4jcuziocBQ"
+    },
+    {
+      "album": {
         "name": "Vacant",
         "url": "https://open.spotify.com/album/4yLPxyHasl9mJqoslA0TzK"
       },
@@ -23139,6 +23269,24 @@
     },
     {
       "album": {
+        "name": "We Want It All",
+        "url": "https://open.spotify.com/album/6Nj5gwr96LKpb64BxfMr1D"
+      },
+      "artists": [
+        {
+          "name": "Raygun Cowboys",
+          "url": "https://open.spotify.com/artist/2UKtH8VoQ4nJl77F9pBf9U"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206677,
+      "name": "We Want It All",
+      "url": "https://open.spotify.com/track/6hggw174msZ3VnkjJAUWlR"
+    },
+    {
+      "album": {
         "name": "Lost Lights",
         "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
       },
@@ -23414,6 +23562,24 @@
       "duration_ms": 230014,
       "name": "Where Did All My Friends Go?",
       "url": "https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp"
+    },
+    {
+      "album": {
+        "name": "Where My Girls At",
+        "url": "https://open.spotify.com/album/60uul0uNlvOJ4joAbQuXQz"
+      },
+      "artists": [
+        {
+          "name": "NOBRO",
+          "url": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148577,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/6P2P7BRXglUXZXZoXrz6YN"
     },
     {
       "album": {

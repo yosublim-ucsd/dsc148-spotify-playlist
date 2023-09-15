@@ -198,7 +198,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 402545,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
@@ -264,7 +264,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 534954,
       "name": "Alive - Solomun Remix",
       "url": "https://open.spotify.com/track/41QaOln9qjWg6dTENPmujr"
@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Ano EP",
+        "url": "https://open.spotify.com/album/3X7duLBTg1yRaYk5rEMlvJ"
+      },
+      "artists": [
+        {
+          "name": "MOL\u00d8",
+          "url": "https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419486,
+      "name": "Ano",
+      "url": "https://open.spotify.com/track/7GEuIUb8ffHIsZ05O5Zdcl"
+    },
+    {
+      "album": {
         "name": "Trick, Pt. 2",
         "url": "https://open.spotify.com/album/32EQU8Pm0tHEoKtasPVIkk"
       },
@@ -688,7 +706,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 377366,
       "name": "Ava",
       "url": "https://open.spotify.com/track/6YQhTXPHmVbFH0qsYva8Uf"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 195000,
       "name": "Bigger Than Prince - Marco Lys Remix",
       "url": "https://open.spotify.com/track/1JTGpoOr4o6eC7AiEjLdum"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 178131,
       "name": "Boom Boom (feat. CHRSTPHR)",
       "url": "https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1"
@@ -1925,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Children Of 95",
+        "url": "https://open.spotify.com/album/0lPtLvaconuzEsRPFEnRKv"
+      },
+      "artists": [
+        {
+          "name": "Tal Fussman",
+          "url": "https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357842,
+      "name": "Children Of 95",
+      "url": "https://open.spotify.com/track/0W3fiSN6ebq9V3kFb0KGPn"
+    },
+    {
+      "album": {
         "name": "CIRCLES (Rodriguez Jr. Remix)",
         "url": "https://open.spotify.com/album/3HJEiJoDYSoT967vQQBui6"
       },
@@ -2272,7 +2308,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 208571,
       "name": "Coral",
       "url": "https://open.spotify.com/track/3xKFeabUGHFTOGi7KMt3eR"
@@ -2330,7 +2366,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 390000,
       "name": "Daka - Original Mix",
       "url": "https://open.spotify.com/track/0h8bhIOhbhzmr1qIqSGm8p"
@@ -2676,6 +2712,32 @@
       "duration_ms": 375865,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/0WhwH8se1uvdwktL3buvlg"
+    },
+    {
+      "album": {
+        "name": "Diamond Therapy",
+        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199472,
+      "name": "Diamond Therapy",
+      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
     },
     {
       "album": {
@@ -4510,7 +4572,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 200718,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4wJ6GzWqWebaKHXrKot0ju"
@@ -5223,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "Spiritual Milk",
+        "url": "https://open.spotify.com/album/4sonMTh4GV9Y1rvJTfdZ8R"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246294,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/6uEJCO0lG0px9ibsdA3g9a"
+    },
+    {
+      "album": {
         "name": "In2u",
         "url": "https://open.spotify.com/album/6pgsvIIvooO8OfqYBNG2ud"
       },
@@ -5594,7 +5674,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 169440,
       "name": "Just Keep Walking - Mark Knight & James Hurr Remix",
       "url": "https://open.spotify.com/track/7DuvvY1Vefu3nkenjSsDAH"
@@ -6827,6 +6907,24 @@
     },
     {
       "album": {
+        "name": "Midtown Playground",
+        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222475,
+      "name": "Midtown Playground",
+      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
+    },
+    {
+      "album": {
         "name": "Milkshake",
         "url": "https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw"
       },
@@ -6842,6 +6940,28 @@
       "duration_ms": 414226,
       "name": "Milkshake",
       "url": "https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn"
+    },
+    {
+      "album": {
+        "name": "Milkshake 20 (Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176949,
+      "name": "Milkshake 20 - Alex Wann Remix",
+      "url": "https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F"
     },
     {
       "album": {
@@ -6948,6 +7068,24 @@
       "duration_ms": 260655,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/7ebulpHSffs4Thc0VM0LHv"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1AvEymaoSwYcv8KnsbpihF"
+      },
+      "artists": [
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548786,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3kB6Dx68otpYKCwmhcuHE1"
     },
     {
       "album": {
@@ -7094,6 +7232,28 @@
       "duration_ms": 288780,
       "name": "Moonlight - Radio Edit",
       "url": "https://open.spotify.com/track/2XCHKQnCTDbfWueZzmHeX0"
+    },
+    {
+      "album": {
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175856,
+      "name": "More Baby",
+      "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
     },
     {
       "album": {
@@ -7382,7 +7542,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 238080,
       "name": "NCO",
       "url": "https://open.spotify.com/track/7gsfjBakj8aTxZuW6vwUvT"
@@ -7566,6 +7726,24 @@
       "duration_ms": 243692,
       "name": "No More",
       "url": "https://open.spotify.com/track/0WbB2lzpZD5Up5ufK0CIyg"
+    },
+    {
+      "album": {
+        "name": "Children Of 95",
+        "url": "https://open.spotify.com/album/0lPtLvaconuzEsRPFEnRKv"
+      },
+      "artists": [
+        {
+          "name": "Tal Fussman",
+          "url": "https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383106,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2nmQ5ipEeHc9BYWqlczZ6O"
     },
     {
       "album": {
@@ -8070,6 +8248,28 @@
       "duration_ms": 366829,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/0QlbAULH5qAs4b3RfQ7CoL"
+    },
+    {
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/5b0fpXy3TWrqDdATRUGlKt"
+      },
+      "artists": [
+        {
+          "name": "Sian",
+          "url": "https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y"
+        },
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Over It - Paige Remix",
+      "url": "https://open.spotify.com/track/7rIkoBTgfiRl00bMUT3fl6"
     },
     {
       "album": {
@@ -8642,6 +8842,28 @@
       "duration_ms": 420000,
       "name": "Ray Of Solar - Alex Wann & Sasson Remix",
       "url": "https://open.spotify.com/track/7kPUvwFtA9e1COxyyNrvpR"
+    },
+    {
+      "album": {
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
     },
     {
       "album": {
@@ -10376,7 +10598,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 231721,
       "name": "Stop & Go - Jacques Greene Remix",
       "url": "https://open.spotify.com/track/1Aa1ZTsxrNPWehEriKJxnK"
@@ -11244,7 +11466,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 199044,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
@@ -11996,6 +12218,24 @@
       "duration_ms": 191369,
       "name": "True Love to the Grave (feat. Claudia Kane)",
       "url": "https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC"
+    },
+    {
+      "album": {
+        "name": "Tudo Bem, Tudo Bom",
+        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "Tudo Bem, Tudo Bom - Radio Edit",
+      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
     },
     {
       "album": {

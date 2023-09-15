@@ -2207,6 +2207,28 @@
     },
     {
       "album": {
+        "name": "LUN\u00c1TICA",
+        "url": "https://open.spotify.com/album/4jDsH7WHlSfT6f6tBnqvd4"
+      },
+      "artists": [
+        {
+          "name": "Kapla y Miky",
+          "url": "https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221739,
+      "name": "LUN\u00c1TICA",
+      "url": "https://open.spotify.com/track/33Xyl65sH96UGX52H199GU"
+    },
+    {
+      "album": {
         "name": "Malvada (feat. Jae S)",
         "url": "https://open.spotify.com/album/7fNNajuPo4mkxRfvAwUpIR"
       },
@@ -3894,7 +3916,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 163259,
       "name": "Sueltas",
       "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"

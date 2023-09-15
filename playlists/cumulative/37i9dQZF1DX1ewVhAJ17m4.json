@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the best new songs from the pop punk scene. Cover: KennyHoopla",
+  "description": "All the best new songs from the pop punk scene. Cover: All Time Low ft Avril Lavigne ",
   "name": "Pop Punk's Not Dead",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 235574,
       "name": "(Full Free) Radical",
       "url": "https://open.spotify.com/track/6zk5XHx4mEtIuNDNvkT7Re"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 117880,
       "name": "A Cow to Milk",
       "url": "https://open.spotify.com/track/5e5fS4bgmZnMgBw95aHEis"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 160892,
       "name": "Down",
       "url": "https://open.spotify.com/track/3V7D3sAnk5KBNBBWPL7REL"
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 218290,
       "name": "Everything Else Can Wait",
       "url": "https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 137397,
       "name": "F.A.K.E.",
       "url": "https://open.spotify.com/track/4wwOhNPQXD88Tz0AY5a7Lj"
@@ -1878,6 +1878,46 @@
       "duration_ms": 151268,
       "name": "Facedown",
       "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
+    },
+    {
+      "album": {
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "album": {
+        "name": "Fallen Short",
+        "url": "https://open.spotify.com/album/7Dcgqmfp566cAcShiWhUqi"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157324,
+      "name": "Fallen Short",
+      "url": "https://open.spotify.com/track/1mbnRS3a0TgqsrahokSF43"
     },
     {
       "album": {
@@ -1976,7 +2016,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 216900,
       "name": "Feeling Fine",
       "url": "https://open.spotify.com/track/5ME9PbpmM05EobMN3sHqIh"
@@ -2272,7 +2312,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 132291,
       "name": "Get Away (I Wanna Get Get Get Get Get Get Get Get)",
       "url": "https://open.spotify.com/track/2QVrkOeN5bz8H96exrcgvi"
@@ -2398,7 +2438,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 163567,
       "name": "Good Days Again",
       "url": "https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O"
@@ -2836,7 +2876,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 132401,
       "name": "HUNGOVER",
       "url": "https://open.spotify.com/track/2GHVMfuNzmKWA3gk3EyEGT"
@@ -3198,7 +3238,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 183491,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4"
@@ -3444,10 +3484,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 162592,
       "name": "Life's a Brittany",
       "url": "https://open.spotify.com/track/71LUSp3iOUP66Cv3V8S75B"
+    },
+    {
+      "album": {
+        "name": "Life's a Pill",
+        "url": "https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217749,
+      "name": "Life's a Pill",
+      "url": "https://open.spotify.com/track/4XvNALxzCzwFymLvN9Daes"
     },
     {
       "album": {
@@ -4724,7 +4782,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 161683,
       "name": "Seeing Red (with Dusty Locane & Rah Swish)",
       "url": "https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh"
@@ -4995,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "Slow Dance",
+        "url": "https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc"
+      },
+      "artists": [
+        {
+          "name": "Life After Youth",
+          "url": "https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212034,
+      "name": "Slow Dance",
+      "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
+    },
+    {
+      "album": {
         "name": "SURVIVORS GUILT: THE MIXTAPE//",
         "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
       },
@@ -5076,7 +5152,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 208181,
       "name": "Songs on the Radio",
       "url": "https://open.spotify.com/track/5rrq3Q48Zh8kZ38mhC6rAm"
@@ -5192,6 +5268,24 @@
       "duration_ms": 142538,
       "name": "Stop Living & Don't Dream",
       "url": "https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/3vW6XXJIIfZZRd7TtNR5J1"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154274,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2SISsR0V9kNjOHU9sJa413"
     },
     {
       "album": {
@@ -5567,6 +5661,24 @@
     },
     {
       "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
+    },
+    {
+      "album": {
         "name": "flare guns in the living room",
         "url": "https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1"
       },
@@ -5625,6 +5737,24 @@
     },
     {
       "album": {
+        "name": "This Year",
+        "url": "https://open.spotify.com/album/6ZuCFVhMJy0CHa27KrZGfu"
+      },
+      "artists": [
+        {
+          "name": "Sessions",
+          "url": "https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224251,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/7qJidLLWcla3tTTpZmKuNQ"
+    },
+    {
+      "album": {
         "name": "Thorns",
         "url": "https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC"
       },
@@ -5672,7 +5802,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 243329,
       "name": "to me",
       "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
@@ -5752,6 +5882,24 @@
       "duration_ms": 133041,
       "name": "TRIVIAL PURSUIT",
       "url": "https://open.spotify.com/track/3GkVGyEdZPy7Q6Dyn1YZJ3"
+    },
+    {
+      "album": {
+        "name": "Turn The Lights Off",
+        "url": "https://open.spotify.com/album/0bHSiFQKxzzUlAHJIYoYt1"
+      },
+      "artists": [
+        {
+          "name": "Try Again",
+          "url": "https://open.spotify.com/artist/0qa6JDkoQvWpF0hhPFPBGr"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154142,
+      "name": "Turn The Lights Off",
+      "url": "https://open.spotify.com/track/758nO1KOUiGEjnkGZqDHNX"
     },
     {
       "album": {
@@ -5878,6 +6026,24 @@
       "duration_ms": 174000,
       "name": "Up In Smoke",
       "url": "https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf"
+    },
+    {
+      "album": {
+        "name": "use me",
+        "url": "https://open.spotify.com/album/4JUtkSVltrPsPmpEkadMK7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181873,
+      "name": "use me",
+      "url": "https://open.spotify.com/track/0KNLFtX4moDQ4jcuziocBQ"
     },
     {
       "album": {

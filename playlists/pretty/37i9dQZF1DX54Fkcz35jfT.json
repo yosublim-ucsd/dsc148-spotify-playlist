@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u6625\u306d\u3080\u308a",
-  "num_followers": 39635,
+  "num_followers": 39700,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmIyYzYxNDcwYTJiOTg4NzY0Yzg5MTNkM2JhNWRhNDM5MDJiZDQz",
+  "snapshot_id": "MCw3ZmQzZWY2NGUwMGVmNWI2YjdmMmE2ODY3MjVlNmRmZjQyNDcwNGVm",
   "tracks": [
     {
       "added_at": "2023-09-12 15:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-09-12 15:00:00",
       "album": {
+        "name": "gene",
+        "url": "https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W"
+      },
+      "artists": [
+        {
+          "name": "Pay money To my Pain",
+          "url": "https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw"
+        }
+      ],
+      "duration_ms": 485880,
+      "name": "Voice",
+      "url": "https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd"
+    },
+    {
+      "added_at": "2023-09-12 15:00:00",
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2023-09-12 15:00:00",
       "album": {
-        "name": "AXIS",
-        "url": "https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ"
-      },
-      "artists": [
-        {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Hunter or Prey",
-      "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
-    },
-    {
-      "added_at": "2023-09-12 15:00:00",
-      "album": {
         "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 (2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.)",
         "url": "https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd"
       },
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-09-12 15:00:00",
       "album": {
-        "name": "gene",
-        "url": "https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W"
+        "name": "AXIS",
+        "url": "https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ"
       },
       "artists": [
         {
-          "name": "Pay money To my Pain",
-          "url": "https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw"
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
         }
       ],
-      "duration_ms": 485880,
-      "name": "Voice",
-      "url": "https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd"
+      "duration_ms": 224960,
+      "name": "Hunter or Prey",
+      "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
     },
     {
       "added_at": "2023-09-12 15:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-12 15:00:00",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 150180,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
-    },
-    {
-      "added_at": "2023-09-12 15:00:00",
-      "album": {
         "name": "LUST (Selected Edition)",
         "url": "https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE"
       },
@@ -1527,26 +1511,6 @@
       "duration_ms": 222479,
       "name": "\u30d3\u30ad\u30cb\u30fb\u30b9\u30dd\u30fc\u30c4\u30fb\u30dd\u30f3\u30c1\u30f3",
       "url": "https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv"
-    },
-    {
-      "added_at": "2023-09-12 15:00:00",
-      "album": {
-        "name": "living dead!!",
-        "url": "https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI"
-      },
-      "artists": [
-        {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
-        }
-      ],
-      "duration_ms": 147157,
-      "name": "living dead!!",
-      "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
     },
     {
       "added_at": "2023-09-12 15:00:00",
@@ -1567,18 +1531,22 @@
     {
       "added_at": "2023-09-12 15:00:00",
       "album": {
-        "name": "RARA",
-        "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
+        "name": "living dead!!",
+        "url": "https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI"
       },
       "artists": [
         {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
         }
       ],
-      "duration_ms": 235973,
-      "name": "NAME",
-      "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
+      "duration_ms": 147157,
+      "name": "living dead!!",
+      "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
     },
     {
       "added_at": "2023-09-12 15:00:00",
@@ -1615,6 +1583,22 @@
     {
       "added_at": "2023-09-12 15:00:00",
       "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 150180,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+    },
+    {
+      "added_at": "2023-09-12 15:00:00",
+      "album": {
         "name": "Futurism",
         "url": "https://open.spotify.com/album/6xj3q3QLSFJkqaBX3B9CYM"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 252093,
       "name": "Love at First Sight",
       "url": "https://open.spotify.com/track/6NLHGKCYCnXt7pU6VQSrAf"
+    },
+    {
+      "added_at": "2023-09-12 15:00:00",
+      "album": {
+        "name": "RARA",
+        "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "NAME",
+      "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
     },
     {
       "added_at": "2023-09-12 15:00:00",

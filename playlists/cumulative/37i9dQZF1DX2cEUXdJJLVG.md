@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-271 songs - 16 hr 21 min
+273 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Laredo](https://open.spotify.com/track/6uZtDv3kmFYbB6iiOS1GiR) | [Meeka Kates](https://open.spotify.com/artist/24XZ9joYiC4hzMYXihqgc1) | [Laredo](https://open.spotify.com/album/2GZ2wiEkYIc4uUtkFk0jHE) | 4:12 | 2022-09-09 |  |
 | [Let No Man Put Asunder \- Dam Swindle Remix](https://open.spotify.com/track/5nyWYE1Ld3Gr3xbFUMIbVP) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Dam Swindle x Salsoul Reworks Vol\. 1](https://open.spotify.com/album/1axQNdwJ7JJ4yjmQ4ryPzf) | 7:34 | 2022-09-09 | 2022-10-15 |
 | [Like That](https://open.spotify.com/track/63McwMFvGQQR6VjeB1P3n6) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5) | [Like That](https://open.spotify.com/album/4FFmc9mfb3rIxpeYLMQyLf) | 2:22 | 2022-09-09 | 2023-07-08 |
+| [Lose My Luck](https://open.spotify.com/track/1RtS7PJNB3iSlZDy4LBpzW) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy), [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [Super\-Sonic Family Vol\. 2 \- Part 2](https://open.spotify.com/album/1IBVTjdpwq7zVp427hgTAK) | 3:35 | 2023-09-14 |  |
 | [Losing My Perfection](https://open.spotify.com/track/5Fmi8gEdTDTARDnxdwiY7v) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [FLIPSIDE](https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9) | 3:02 | 2023-08-30 |  |
 | [Losing My Perfection](https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Losing My Perfection](https://open.spotify.com/album/0C7bqhOiwfgGuPR0jlUDF2) | 3:02 | 2022-09-09 | 2023-09-03 |
 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 | 2022-09-09 | 2023-07-08 |
@@ -150,6 +151,7 @@
 | [May \(Late Night Version\)](https://open.spotify.com/track/0jGESyKIfEIdK34TpDpkJZ) | [Bkk](https://open.spotify.com/artist/37iEII5f2rWL5OxjUZ2wWw), [Sterke Atleet](https://open.spotify.com/artist/4byoowp8keg9sWSNaOfjOB) | [May \(Late Night Version\)](https://open.spotify.com/album/0zcPycXAwlLj3B1jJrsHQ4) | 3:07 | 2022-09-09 |  |
 | [Mesmerised](https://open.spotify.com/track/4lMtKkkqdMCYDxas6mhIiT) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Side B](https://open.spotify.com/album/3QdmdNXgpy0GScerOTwvkg) | 4:12 | 2022-10-30 | 2022-11-13 |
 | [Mesmerised](https://open.spotify.com/track/7qfnAR8gVQZG1cSsRIoKnG) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 4:12 | 2022-09-09 |  |
+| [Milk & Honey](https://open.spotify.com/track/6yG8sxSJNeaViOHwcNs24B) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [Milk & Honey / Light](https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m) | 2:50 | 2023-09-14 |  |
 | [Mind Games.](https://open.spotify.com/track/7L4C8Mur28u7dJbP1wYiow) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Mind Games.](https://open.spotify.com/album/4RuPSYj750tA7tiWElq7Pc) | 2:32 | 2023-03-20 | 2023-04-21 |
 | [Money](https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:18 | 2022-10-27 |  |
 | [Money Issues](https://open.spotify.com/track/2q1zLeupdzKqYIB2e8MNVt) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Money Issues](https://open.spotify.com/album/2oBMyUdLTSihgNlSkExIux) | 2:57 | 2023-02-23 |  |

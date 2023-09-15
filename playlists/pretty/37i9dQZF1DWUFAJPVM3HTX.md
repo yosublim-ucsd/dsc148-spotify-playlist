@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2?si=UhHlCfaQTmeXGi\-XvTkm7w">Dayo Bello</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,434 likes - 188 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,587 likes - 188 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 110 | [sweet and simple](https://open.spotify.com/track/7KSa3c6YqhMqAX4B8tTADy) | [Maria Aragon](https://open.spotify.com/artist/2aiQfmxcWSx7RrqSVbhiFX) | [sweet and simple](https://open.spotify.com/album/29nCMeGdJtBZzYj1hEakEB) | 3:06 |
 | 111 | [Element](https://open.spotify.com/track/1x1XSgeUOIBCDvE7W0XSnC) | [Yael Santé](https://open.spotify.com/artist/0GRUSX1l2HR3S6NAo15ajV) | [Element](https://open.spotify.com/album/42cibIwgligKf6fsaY0MxU) | 3:13 |
 | 112 | [AQUARIUS](https://open.spotify.com/track/0Ttmsrh12z26jzhu0LkEar) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [AQUARIUS](https://open.spotify.com/album/0bzEqzgIeug1z49RboQE8i) | 3:55 |
-| 113 | [Limbo](https://open.spotify.com/track/4BMhR515OiK2TII7qzQujj) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/5pXEHD47zKV9KyUcEAuRlV) | 2:45 |
+| 113 | [Limbo](https://open.spotify.com/track/2CxwqktUwLHo0XtgMaI9Qc) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/22PJnohZYZdtqexRDkX6Qs) | 2:45 |
 | 114 | [save yourself](https://open.spotify.com/track/1h2WWba7PtW9uTapvlvtwL) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Hindsight](https://open.spotify.com/album/5vNTlYU1zn1rWoAwrpQxso) | 3:08 |
 | 115 | [Affirm Me](https://open.spotify.com/track/0BxOS9BMSKeRjxhraqlARz) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Affirm Me](https://open.spotify.com/album/63T7MVZ5c7tS9ZDNB1H6i2) | 3:28 |
 | 116 | [All Roads](https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [All Roads](https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9) | 3:17 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 187 | [Love so Sweet](https://open.spotify.com/track/507ZRCsU0kTlDIy6yhud0k) | [Gen Bello](https://open.spotify.com/artist/4ZbEWjblNsCE61flvcbOMs) | [This Again](https://open.spotify.com/album/47Qk48pSUoIIYQNZswyMk8) | 3:48 |
 | 188 | [complicated](https://open.spotify.com/track/4yU9YWG5rNLTfSfGlXMmoO) | [THANKQ](https://open.spotify.com/artist/18V0w2L9TopQYP73r34tE6) | [complicated](https://open.spotify.com/album/144acRFPtkJHcYq8plsV4f) | 2:00 |
 
-Snapshot ID: `MCxhNWY2YTQ3MWFkM2Y1YWU5ZTBmYjZlNmIwZWYwYTU4ODYwMTc1YWE2`
+Snapshot ID: `MCxkNTU3NGY1MjlmMDJlNDIyZmEwYWM4ZTNiZDc1NDg0YTA4Y2Y4ZDQ3`

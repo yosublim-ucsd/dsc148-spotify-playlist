@@ -1,12 +1,12 @@
 {
   "description": "Duquesa e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 215546,
+  "num_followers": 215613,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjZiMDhlMTRmOGI3NmI1NTc5OWFlY2I2NTE4OTk2Y2U1YTdiZmFl",
+  "snapshot_id": "MCw2MzE2M2ZkYjkwYTVkZDBjMTA2NTRiZTMyY2U0Mzg4MzQ1ZmUyNzhm",
   "tracks": [
     {
       "added_at": "2023-09-08 16:54:46",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-09-08 16:54:46",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/4CDi4Q8cBDaSi7T7RixE7F"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "03 Greedo",
-          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Choices",
-      "url": "https://open.spotify.com/track/6R2kAOhzSAQekI8Z5PL6Yq"
-    },
-    {
-      "added_at": "2023-09-08 16:54:46",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 138305,
       "name": "Famigerado",
       "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
+    },
+    {
+      "added_at": "2023-09-08 16:54:46",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/4CDi4Q8cBDaSi7T7RixE7F"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/6R2kAOhzSAQekI8Z5PL6Yq"
     },
     {
       "added_at": "2023-09-08 16:54:46",
@@ -695,30 +695,6 @@
     {
       "added_at": "2023-09-08 16:54:46",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Jogo",
-      "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
-    },
-    {
-      "added_at": "2023-09-08 16:54:46",
-      "album": {
         "name": "Preto Demais",
         "url": "https://open.spotify.com/album/0r4tvWwDSlhMPOw9j70nx6"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 178119,
       "name": "Frozone",
       "url": "https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT"
+    },
+    {
+      "added_at": "2023-09-08 16:54:46",
+      "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Jogo",
+      "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
     },
     {
       "added_at": "2023-09-08 16:54:46",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-09-08 16:54:46",
       "album": {
-        "name": "Zulu: Quarta Parede, Vol.3",
-        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 289090,
-      "name": "O Pre\u00e7o da Guerra",
-      "url": "https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu"
-    },
-    {
-      "added_at": "2023-09-08 16:54:46",
-      "album": {
         "name": "A noite toda",
         "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 184615,
       "name": "A noite toda",
       "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
+    },
+    {
+      "added_at": "2023-09-08 16:54:46",
+      "album": {
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+        }
+      ],
+      "duration_ms": 289090,
+      "name": "O Pre\u00e7o da Guerra",
+      "url": "https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu"
     },
     {
       "added_at": "2023-09-08 16:54:46",

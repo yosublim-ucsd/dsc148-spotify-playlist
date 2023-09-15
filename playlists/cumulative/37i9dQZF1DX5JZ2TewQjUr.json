@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Hedgehog ",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: quentinn\u00ae",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 300000,
       "name": "2081",
       "url": "https://open.spotify.com/track/6NjAkkX62qYn1rSdjOf0u5"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 176385,
       "name": "afternoon bike rides",
       "url": "https://open.spotify.com/track/3mS16K8RGzxyXZ4YhUpOeu"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 215000,
       "name": "Blue Moon (feat. Yusuke Kobayashi from The Novembers)",
       "url": "https://open.spotify.com/track/1j5ncONtcKhA2LPs6edqhL"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 182790,
       "name": "Blue Skies Dreamin'",
       "url": "https://open.spotify.com/track/68DNB2bxp7niPYQCzfBj7n"
@@ -2533,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "GHOSTED (Prod. Jom Donato & Shrinjay Ghosh)",
+        "url": "https://open.spotify.com/album/3ymWQzCYogShcn2sPPJTSI"
+      },
+      "artists": [
+        {
+          "name": "KAREN YEE",
+          "url": "https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158367,
+      "name": "GHOSTED (Prod. Jom Donato & Shrinjay Ghosh)",
+      "url": "https://open.spotify.com/track/0zElDp0olI2fPoeBh1BQB3"
+    },
+    {
+      "album": {
         "name": "GIGGLE",
         "url": "https://open.spotify.com/album/2D0xcHpatH08bxmjLzi8aq"
       },
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 176000,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/7vROJMPklHwGy39TIIXIDq"
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 126975,
       "name": "I LIKE U",
       "url": "https://open.spotify.com/track/30Qsh8LvXViQWlOMxI5BNk"
@@ -3390,10 +3408,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 213500,
       "name": "If We End",
       "url": "https://open.spotify.com/track/4RbWvpCUZpoGFkTnrHsVCB"
+    },
+    {
+      "album": {
+        "name": "ificouldbelikeu",
+        "url": "https://open.spotify.com/album/6aEzMsII9GSPie2c88HyEt"
+      },
+      "artists": [
+        {
+          "name": "raph",
+          "url": "https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130501,
+      "name": "ificouldbelikeu",
+      "url": "https://open.spotify.com/track/2snsFKei1kEzSF1f2iDxmL"
     },
     {
       "album": {
@@ -3708,7 +3744,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 197652,
       "name": "Last Letter",
       "url": "https://open.spotify.com/track/3o7eTQeMe2uRkXWFLKH8rC"
@@ -3882,7 +3918,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 180000,
       "name": "LGBT (Let's Get Bread Today)",
       "url": "https://open.spotify.com/track/3RSjsjxM9CDDd8P2qYEDrA"
@@ -4320,7 +4356,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 155660,
       "name": "Mayhem",
       "url": "https://open.spotify.com/track/2M17XSJDnyzWP3z9exWlMI"
@@ -4386,6 +4422,24 @@
       "duration_ms": 224050,
       "name": "Meteor (ft. XTIE)",
       "url": "https://open.spotify.com/track/6gVWfhKoyqo6og7at367jo"
+    },
+    {
+      "album": {
+        "name": "Midnight Portrait",
+        "url": "https://open.spotify.com/album/5mwliUdcOyn2gUaoQ6rJS6"
+      },
+      "artists": [
+        {
+          "name": "Pabylon",
+          "url": "https://open.spotify.com/artist/1Bw6PlMIF1Vm2suJcgyA8E"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176163,
+      "name": "Midnight Portrait",
+      "url": "https://open.spotify.com/track/6P5ODsARG46t3bCCs32Rf8"
     },
     {
       "album": {
@@ -5266,7 +5320,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 212029,
       "name": "Out!",
       "url": "https://open.spotify.com/track/6jMNZk7djhEVDl0RnHSi45"
@@ -5515,6 +5569,28 @@
     },
     {
       "album": {
+        "name": "POP THAT SHIT",
+        "url": "https://open.spotify.com/album/0nTzfNhyvIKE7AybqRgfGt"
+      },
+      "artists": [
+        {
+          "name": "ProdiG",
+          "url": "https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1"
+        },
+        {
+          "name": "YINJ",
+          "url": "https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143296,
+      "name": "POP THAT SHIT",
+      "url": "https://open.spotify.com/track/1UFVCU3yUSbTFpDGITkBs6"
+    },
+    {
+      "album": {
         "name": "Pretending To Be Somebody Else",
         "url": "https://open.spotify.com/album/68UShtWizNHmHZE4r7MkgO"
       },
@@ -5569,6 +5645,24 @@
     },
     {
       "album": {
+        "name": "ELEVATOR",
+        "url": "https://open.spotify.com/album/0wYMhbOFBFl5hWE7VVZ71Q"
+      },
+      "artists": [
+        {
+          "name": "quentinn\u00ae",
+          "url": "https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "PROBLEMS\u2122",
+      "url": "https://open.spotify.com/track/5vnDjl0XrHZpgf2WCV6WyV"
+    },
+    {
+      "album": {
         "name": "Pull My Hair",
         "url": "https://open.spotify.com/album/4oILzeu5oXO9HeLSJ92Z0V"
       },
@@ -5598,7 +5692,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 243478,
       "name": "put me in a coffin",
       "url": "https://open.spotify.com/track/3cP4kUF6RJ1erMJ5xGafkD"
@@ -6295,6 +6389,32 @@
     },
     {
       "album": {
+        "name": "Sorry\u5462\u5ea6\u4fc2\u9999\u6e2f (REMIX)",
+        "url": "https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN"
+      },
+      "artists": [
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        },
+        {
+          "name": "The Low Mays",
+          "url": "https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O"
+        },
+        {
+          "name": "KALAI \u5bb6\u9e97",
+          "url": "https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246387,
+      "name": "Sorry\u5462\u5ea6\u4fc2\u9999\u6e2f - REMIX",
+      "url": "https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE"
+    },
+    {
+      "album": {
         "name": "SOUL (feat. sunshine blvd.)",
         "url": "https://open.spotify.com/album/3HGos1wXHhSXT4Vq5okUa6"
       },
@@ -6386,7 +6506,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 276111,
       "name": "Spaceship - SZEMEI1994 Remix",
       "url": "https://open.spotify.com/track/5b6Bz3LfzrNymVDF5ecQYB"
@@ -7113,6 +7233,24 @@
     },
     {
       "album": {
+        "name": "Till Frustrated",
+        "url": "https://open.spotify.com/album/5x7AVjmy0DiitickihNFzs"
+      },
+      "artists": [
+        {
+          "name": "Kai Yannis",
+          "url": "https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259125,
+      "name": "Till Frustrated",
+      "url": "https://open.spotify.com/track/1ane3Db3PbqCUQlYcCL4hU"
+    },
+    {
+      "album": {
         "name": "Time Is Running",
         "url": "https://open.spotify.com/album/3Tk9l82FUZyP6W6du57tXD"
       },
@@ -7128,6 +7266,28 @@
       "duration_ms": 139469,
       "name": "Time Is Running",
       "url": "https://open.spotify.com/track/1nKZqPS4cg1gbZAdqxQEcN"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4Ypx5o8FVNnIxhalsO0jrV"
+      },
+      "artists": [
+        {
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
+        },
+        {
+          "name": "DatBaddie",
+          "url": "https://open.spotify.com/artist/49Dro0WxMu6uazK7ucMFnZ"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201490,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/027JnuX0aYpMqWjIzXAOVf"
     },
     {
       "album": {
@@ -8546,7 +8706,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 192643,
       "name": "\u4e8c\u6cca\u4e09\u65e5",
       "url": "https://open.spotify.com/track/1znnzG14xxoMvHYHvMyypO"
@@ -9044,7 +9204,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 156521,
       "name": "\u5187\u5f97\u5443 Can't Lie",
       "url": "https://open.spotify.com/track/2WDqq746wkH0PbIkgfXlDt"
@@ -9066,6 +9226,24 @@
       "duration_ms": 117200,
       "name": "\u51fa\u6c34\u8299\u84c9",
       "url": "https://open.spotify.com/track/3x2OFytSWdt2TkdJrWNtn5"
+    },
+    {
+      "album": {
+        "name": "\u6d77\u95ca\u5929\u7a7a sea wide sky empty",
+        "url": "https://open.spotify.com/album/0r3y1Watg2URRb59Kuqloz"
+      },
+      "artists": [
+        {
+          "name": "34 pessimists",
+          "url": "https://open.spotify.com/artist/7CIc2EIGlSABfECh8nV4Li"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176103,
+      "name": "\u51fa\u9580\u53e3\u98df\u8c46\u8150\u82b1",
+      "url": "https://open.spotify.com/track/72vHdnHpYOZNjjQNmf2D1k"
     },
     {
       "album": {
@@ -9694,7 +9872,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 193544,
       "name": "\u59b3\u597d\u975a (feat. RebelMan)",
       "url": "https://open.spotify.com/track/0QPl6JsMOYKa61ThXXrzrW"
@@ -11308,7 +11486,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 295290,
       "name": "\u706b\u6d77",
       "url": "https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73"
@@ -11405,6 +11583,24 @@
     },
     {
       "album": {
+        "name": "\u7261\u4e39\u6a13",
+        "url": "https://open.spotify.com/album/1HqCPhAR9KxHbJ5LAn1MRk"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u6d8c\u4e8b\u767c",
+          "url": "https://open.spotify.com/artist/6ClTWrZnl5uWikZC82fhAT"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212790,
+      "name": "\u7261\u4e39\u6a13",
+      "url": "https://open.spotify.com/track/7KQ2rcbPpgqIIBAdjSrgiq"
+    },
+    {
+      "album": {
         "name": "\u7345\u543c\u529f",
         "url": "https://open.spotify.com/album/3DF4F2rqsFSRjObVaeUq0g"
       },
@@ -11456,6 +11652,28 @@
       "duration_ms": 304615,
       "name": "\u7406\u60f3\u7684\u6216\u4e0d\u592a\u4f60\u60f3",
       "url": "https://open.spotify.com/track/5THAfQAUKw6T6OEm6QqnKy"
+    },
+    {
+      "album": {
+        "name": "\u7529\u8eab (feat. CotaBoii)",
+        "url": "https://open.spotify.com/album/3JuWMejLdX2RxP0VhL3WiM"
+      },
+      "artists": [
+        {
+          "name": "\u5340\u5b50\u7433",
+          "url": "https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I"
+        },
+        {
+          "name": "CotaBoii",
+          "url": "https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202099,
+      "name": "\u7529\u8eab (feat. CotaBoii)",
+      "url": "https://open.spotify.com/track/1ECUIV8lgeLLKx4FP92aX7"
     },
     {
       "album": {
@@ -12092,7 +12310,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 150000,
       "name": "\u8d85\u7d1a\u52c1\u7206\u53f1\u54a4\u98a8\u96f2\u91d1\u66f2",
       "url": "https://open.spotify.com/track/6YuNeZj7x1kOsp1XsfMF6a"

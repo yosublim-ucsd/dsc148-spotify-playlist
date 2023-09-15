@@ -4,7 +4,7 @@
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-299 songs - 18 hr 18 min
+300 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Jamaica Ska \- feat.キヨサク\(MONGOL800\)& TAKUMA\(10\-FEET\)](https://open.spotify.com/track/08Wje5tHb2e3jASChDkMtg) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [キヨサク](https://open.spotify.com/artist/22ivd52nfgHJWEGxEoMZSK), [Takuma](https://open.spotify.com/artist/2f5KOd9rSQlzMvjg80Ckbe) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 3:54 | 2021-12-21 | 2022-04-21 |
 | [Jaque Mate](https://open.spotify.com/track/1X3Ry0jCUS7oqH3WqedtOm) | [Los Pies Negros](https://open.spotify.com/artist/0WtbEWWoAzRJ2q3bU8bpeN) | [Detras de ese Disfraz](https://open.spotify.com/album/72zoq2BV2oBMW52Q3DVOT5) | 2:45 | 2021-12-21 | 2022-03-04 |
 | [Juntos para Siempre](https://open.spotify.com/track/3gJSh0C11qoUhMjAAoSTa5) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Juntos para Siempre](https://open.spotify.com/album/3xsci3p0vlU6tK0rJn9QO8) | 4:45 | 2021-12-21 | 2022-07-09 |
-| [Kasualidad](https://open.spotify.com/track/24vddb7YLG2Ha0F9T9Whn3) | [Ska Prensao](https://open.spotify.com/artist/0zpJ9TatAuySVMfhTLV8Az) | [Kasualidad](https://open.spotify.com/album/0FtTPER1MfrtYM8b94J7tT) | 5:03 | 2023-06-02 |  |
+| [Kasualidad](https://open.spotify.com/track/24vddb7YLG2Ha0F9T9Whn3) | [Ska Prensao](https://open.spotify.com/artist/0zpJ9TatAuySVMfhTLV8Az) | [Kasualidad](https://open.spotify.com/album/0FtTPER1MfrtYM8b94J7tT) | 5:03 | 2023-06-02 | 2023-09-15 |
 | [Kilómetros](https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:11 | 2021-12-21 |  |
 | [Kilómetros \- En Vivo](https://open.spotify.com/track/6Cqxghbtzx0DdnQYnMwpEw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [20 Años: El Show Más Feliz del Mundo \(En Vivo\)](https://open.spotify.com/album/3LcZw9ONp2XAz0VDJ5RILj) | 5:04 | 2021-12-21 | 2023-07-01 |
 | [Konfesión](https://open.spotify.com/track/20K8gKxabOpZe5BEJH2thY) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Ací Estem](https://open.spotify.com/album/3gBBuswdlFKPtSj3FITA79) | 4:11 | 2021-12-21 | 2022-07-22 |
@@ -208,6 +208,7 @@
 | [Párate Y Mira](https://open.spotify.com/track/0bhzdFuUaNH7QV3c2ZKGOK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 4:07 | 2021-12-21 | 2023-04-22 |
 | [Pétalos y Espinas](https://open.spotify.com/track/5PuQnsvoQf0cLKxw5PYxyx) | [Don Khumalo](https://open.spotify.com/artist/0qMaXTy9PNkpddaWMF819n) | [Ska Mestizo \- Rebel Music from Venezuela](https://open.spotify.com/album/7eMjCXrF22PrzFMvUVIfdq) | 3:39 | 2021-12-21 | 2022-01-12 |
 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 | 2021-12-21 |  |
+| [Que me quemen tus ojos](https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Que me quemen tus ojos](https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ) | 2:39 | 2023-09-15 |  |
 | [Queda en Esta Noche](https://open.spotify.com/track/1PA14CUHy7pwikmVZCCuj7) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Queda en Esta Noche](https://open.spotify.com/album/3o3B8TKeUGTX2aNaNKcWZU) | 2:29 | 2021-12-21 | 2022-07-29 |
 | [Quereme Así](https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Chanchos Amigos](https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY) | 4:22 | 2021-12-21 |  |
 | [Quinta Série](https://open.spotify.com/track/0pv84csez62xBpafUTjJLx) | [Banana Kush](https://open.spotify.com/artist/0AKrnOIY3Ws6R4heYoLBx0) | [Quinta Série](https://open.spotify.com/album/4ODOV14kHREVR543A7NhpF) | 2:10 | 2023-09-01 |  |

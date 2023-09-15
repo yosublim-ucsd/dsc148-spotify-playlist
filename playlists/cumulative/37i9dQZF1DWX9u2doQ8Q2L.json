@@ -828,7 +828,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 136866,
       "name": "ANGRY ANGRY",
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 207615,
       "name": "ATARI",
       "url": "https://open.spotify.com/track/21gjq7cgnOscRURiGhOGPP"
@@ -8083,6 +8083,28 @@
     },
     {
       "album": {
+        "name": "missing summer (Hugh Keice\u3000Remix - Korean Ver.)",
+        "url": "https://open.spotify.com/album/1YZXtuwz8Ohy0WcMKR93Wg"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        },
+        {
+          "name": "Hugh Keice",
+          "url": "https://open.spotify.com/artist/74w143cx7ODBg7fiKC23aO"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "missing summer - Hugh Keice\u3000Remix - Korean Ver.",
+      "url": "https://open.spotify.com/track/7fv8egRaKe98kxMpTYkSUh"
+    },
+    {
+      "album": {
         "name": "Mistakes",
         "url": "https://open.spotify.com/album/4hdRFduT29SvN8VGPhEzBM"
       },
@@ -10797,6 +10819,24 @@
     },
     {
       "album": {
+        "name": "RUN FOR YOU",
+        "url": "https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178099,
+      "name": "RUN FOR YOU",
+      "url": "https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N"
+    },
+    {
+      "album": {
         "name": "Runner's High",
         "url": "https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia"
       },
@@ -13274,7 +13314,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 217428,
       "name": "The Swallow (feat. Midories)",
       "url": "https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC"
@@ -15661,6 +15701,32 @@
     },
     {
       "album": {
+        "name": "\u3044\u3061\u3054\u30df\u30eb\u30af Remixes (vol.1)",
+        "url": "https://open.spotify.com/album/2EkzxW9cbYFd1earWgzukv"
+      },
+      "artists": [
+        {
+          "name": "Tomggg",
+          "url": "https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE"
+        },
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        },
+        {
+          "name": "ISLTR",
+          "url": "https://open.spotify.com/artist/79xUV4cJhPVjkfn9mm1ZuR"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "\u3044\u3061\u3054\u30df\u30eb\u30af - ISLTR Remix",
+      "url": "https://open.spotify.com/track/5xI8FJWUOduxstAJrBdGkI"
+    },
+    {
+      "album": {
         "name": "\u3044\u3064\u304b\u6e1a\u3078",
         "url": "https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds"
       },
@@ -16444,7 +16510,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 203554,
       "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
       "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
@@ -17509,6 +17575,24 @@
     },
     {
       "album": {
+        "name": "\u56de\u8ee2\u3059\u308b\u30a4\u30ce\u30bb\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/0U0C2l2gKqiYPNAxUEl6M5"
+      },
+      "artists": [
+        {
+          "name": "Mom",
+          "url": "https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241918,
+      "name": "\u56de\u8ee2\u3059\u308b\u30a4\u30ce\u30bb\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/74a1XunqQF0AsK0ilBTacK"
+    },
+    {
+      "album": {
         "name": "\u571f\u661f\u3068\u30e6\u30cb\u30b3\u30fc\u30f3",
         "url": "https://open.spotify.com/album/22jKKpIgO83SVo2sF8kCMb"
       },
@@ -18104,6 +18188,24 @@
       "duration_ms": 216722,
       "name": "\u65c5\u884c",
       "url": "https://open.spotify.com/track/0psnaTdXFZvtCdmh2aRHr9"
+    },
+    {
+      "album": {
+        "name": "\u661f\u3092\u898b\u308b\u4eba",
+        "url": "https://open.spotify.com/album/20Rf0NcJXvBmWIk8bhmWhb"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308518,
+      "name": "\u661f\u3092\u898b\u308b\u4eba",
+      "url": "https://open.spotify.com/track/40D6bVwmUK7RqigjAnmcmW"
     },
     {
       "album": {
@@ -18950,7 +19052,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 236386,
       "name": "\u81ea\u7531",
       "url": "https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M"

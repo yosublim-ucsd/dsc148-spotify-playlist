@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-416 songs - 1 day 5 hr 41 min
+417 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Flight](https://open.spotify.com/track/5I9K0eZ8dT8dzzK973XQkK) | [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [Flight](https://open.spotify.com/album/4lp6QsrXTu9GEBgEUQVHQY) | 3:20 | 2022-02-04 | 2022-05-02 |
 | [Floating Point](https://open.spotify.com/track/74to5kEhZdvStCc9bS9hSG) | [Massive Z](https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv), [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Floating Point](https://open.spotify.com/album/5wjAYZF4Qns8OBlycPcccu) | 4:28 | 2023-04-07 |  |
 | [Forever in a Dream](https://open.spotify.com/track/44WZP6f4DW2g4GxnTPF1IJ) | [John Noseda](https://open.spotify.com/artist/1GHQDN0HXk1MVl7zyhqlXA) | [Forever in a Dream](https://open.spotify.com/album/3zPZDwIYxL5a5KIgvoiZJv) | 5:23 | 2022-04-01 | 2022-04-21 |
-| [Fractal Forms](https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx) | [Earmake](https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Unusual Cosmic Process](https://open.spotify.com/artist/37oPFegoFXsfDNMdVOASlT) | [Fractal Forms](https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6) | 3:55 | 2021-10-15 |  |
+| [Fractal Forms](https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx) | [Earmake](https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Unusual Cosmic Process](https://open.spotify.com/artist/37oPFegoFXsfDNMdVOASlT) | [Fractal Forms](https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6) | 3:55 | 2021-10-15 | 2023-09-15 |
 | [Fringe Society](https://open.spotify.com/track/6HXVNP9mGsbTKG6ovKLzcH) | [Sami Matar](https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1) | [District 970](https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd) | 3:42 | 2021-10-15 |  |
 | [From Her to Infinity](https://open.spotify.com/track/3zbwO2XUIbssaR0FTAKIdP) | [Nite Flights](https://open.spotify.com/artist/0L910zfKWNLTkB3p6CNWRK) | [Nite Flights](https://open.spotify.com/album/31AjUJmaHvfROCEokD6FS3) | 5:12 | 2022-04-01 | 2022-04-19 |
 | [Full Force](https://open.spotify.com/track/3SA3kgjY0RwgOMpuapcrte) | [Glowline](https://open.spotify.com/artist/5O5Al4ErSslplYN5lH8tXs) | [Drive](https://open.spotify.com/album/06xszmQDKX7RjtOt5Xq4Kv) | 3:27 | 2022-07-22 |  |
@@ -361,6 +361,7 @@
 | [Sugar](https://open.spotify.com/track/0boFCbuZjHFMRBbueUaXXz) | [Kit Grill](https://open.spotify.com/artist/7Mq8bgNDcBNm7nAwFT3Zhz) | [Ride](https://open.spotify.com/album/0OjByUyTYbmS7wW6zbfSed) | 3:16 | 2021-10-15 | 2022-07-01 |
 | [Summer Is Over \- Fury Weekend Remix](https://open.spotify.com/track/3YN9eeNlFB4zEStaV9RBlo) | [Nouveau Arcade](https://open.spotify.com/artist/2NfoN7WCze5NEJe3J98CQx), [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH) | [Summer Is Over \(Fury Weekend Remix\)](https://open.spotify.com/album/3ei5DAzCrXMzK4PXCqhBAg) | 3:55 | 2022-04-01 |  |
 | [Sunset \(Instrumental\)](https://open.spotify.com/track/0MAxu9K4UZ8NLr6b1eV8WG) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer \(The Instrumentals\)](https://open.spotify.com/album/2E60vWHEWojqhE9yMhg4Mj) | 5:26 | 2022-04-01 | 2022-04-19 |
+| [Sunset \- Instrumental](https://open.spotify.com/track/2J43YVo3TYyx68swXmhNan) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer \(The Instrumentals\)](https://open.spotify.com/album/4wkUDLUZ0AoN9Gi1eRw3Bd) | 5:26 | 2023-06-30 |  |
 | [Synth City](https://open.spotify.com/track/4YdWRIPolAXD21GYYPndLv) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Synth City](https://open.spotify.com/album/2bCp88gEYdTDe9fHdhvXZP) | 3:37 | 2022-04-01 |  |
 | [Synthesizer Hearts \- W.H\. Lung Remix](https://open.spotify.com/track/2a42N7b4XOl42OsL2EZvQt) | [Eve Maret](https://open.spotify.com/artist/6EPKhshyGfzUrurBHGJAnA), [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [Synthesizer Hearts \(W.H\. Lung Remix\)](https://open.spotify.com/album/5yWyDTD3ymcTb6lXXtyRzU) | 6:00 | 2021-10-15 | 2022-02-02 |
 | [Take Flight](https://open.spotify.com/track/0KeiErfNgpVfRzsMTjiwXz) | [Jordan F](https://open.spotify.com/artist/1qSGsjM9uWGLbH1PWUPV7A) | [Slipstream](https://open.spotify.com/album/0FMbzF7zhw3WdI7qTgJkP0) | 4:33 | 2022-04-01 | 2022-04-20 |
@@ -371,7 +372,7 @@
 | [Tenshi](https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t) | [Formal One](https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59) | [Tenshi](https://open.spotify.com/album/0ee0sndipg58Uqr5a6bhq7) | 4:15 | 2022-07-15 |  |
 | [Terraform](https://open.spotify.com/track/5gEwTLSV33opPhxQ8im1Jj) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr), [Magic Sword](https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1) | [New & Improved](https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa) | 5:08 | 2022-02-04 |  |
 | [Territory](https://open.spotify.com/track/0HWFz9sKXuXlIZgVUvOKPU) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Exile](https://open.spotify.com/album/2FObixyCMUYQoTdp2INbNv) | 3:22 | 2021-10-15 |  |
-| [Tessellate](https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa) | [Eagle Eyed Tiger](https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8) | [Pressure Point](https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C) | 3:56 | 2022-07-22 |  |
+| [Tessellate](https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa) | [Eagle Eyed Tiger](https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8) | [Pressure Point](https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C) | 3:56 | 2022-07-22 | 2023-09-15 |
 | [Test Pilot](https://open.spotify.com/track/03RyqN0APr814lnjzziKtT) | [Stilz](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ), [The Encounter](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g) | [Starcrash](https://open.spotify.com/album/317tn0rmvrIfQOYemUNRM5) | 4:04 | 2022-07-22 |  |
 | [Test Pilot](https://open.spotify.com/track/3k7F9Z4RKOajIRQ2gDWO7N) | [Stilz](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ), [The Encounter](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g) | [Starcrash](https://open.spotify.com/album/4Ovn7lQ2W3agN3KvqgaXFx) | 4:04 | 2021-10-15 | 2022-07-29 |
 | [The Arcane Arts](https://open.spotify.com/track/5sPkgogsCQFYKnYZMwkODz) | [Arcis](https://open.spotify.com/artist/11jVTF2G0ClyW9H9tZeUHM) | [Adamo](https://open.spotify.com/album/6Y9N6GkECmc6F8oSsW9vQ5) | 2:52 | 2022-02-04 | 2023-02-04 |
@@ -393,7 +394,7 @@
 | [Through This Night](https://open.spotify.com/track/4yRsZmx9UTbCGA6fy957ur) | [Wolf Saga](https://open.spotify.com/artist/0Lwn2PjwIw7QaoN7gHyqCA) | [Through This Night](https://open.spotify.com/album/4Rv2lK5ME3ebeJX8cmF70l) | 3:19 | 2021-10-15 | 2022-04-09 |
 | [Time Lapse](https://open.spotify.com/track/2e89lDHEhoebqkT7eHdHRj) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Kalax](https://open.spotify.com/album/6bgFThml9TuZ5KywB6mRCr) | 4:19 | 2021-10-15 | 2022-07-29 |
 | [Time Lapse](https://open.spotify.com/track/7oMI71Jb3USQX5ILk5lp6x) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Kalax](https://open.spotify.com/album/7voXS1czW5xne4u6vsuSKS) | 4:19 | 2022-07-22 |  |
-| [Timewarp](https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Timewarp](https://open.spotify.com/album/46yAHb7Pxl8S1jJh2m3r7C) | 4:07 | 2022-04-15 | 2022-07-29 |
+| [Timewarp](https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Timewarp](https://open.spotify.com/album/46yAHb7Pxl8S1jJh2m3r7C) | 4:07 | 2022-04-15 |  |
 | [Timmy Goes To Space](https://open.spotify.com/track/3ygygDgeSK98dfOknKRLUw) | [Mr\. Maen](https://open.spotify.com/artist/0d5tUTjMd6EFBWNeRMKpb3) | [Slow Love](https://open.spotify.com/album/07x3cBPHSNxNA5MUQw2HKk) | 3:32 | 2022-04-01 |  |
 | [Too Far Gone](https://open.spotify.com/track/10n7xcB7chcHmHBvEyMqjB) | [Echo\-Eclipse](https://open.spotify.com/artist/6KGpRKwr3IKBxeEeUW7DLc) | [Arcade Machine](https://open.spotify.com/album/0GeQGXS8uLRnqNKIgnOxSd) | 3:06 | 2021-10-15 | 2022-07-27 |
 | [Transmission](https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Transmission](https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw) | 3:06 | 2021-10-15 | 2023-05-28 |

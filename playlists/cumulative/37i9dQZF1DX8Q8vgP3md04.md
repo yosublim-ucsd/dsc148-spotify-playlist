@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-95 songs - 7 hr 29 min
+97 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Disc 1: Sitalekish Des Alishign \(A\. Agonafir\)](https://open.spotify.com/track/6Hux3tjwWhozjKoOajz9nb) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- 6\-cd Box Set](https://open.spotify.com/album/1tIZbl4nLZZlj9nhb4PCc4) | 5:04 | 2018-10-04 | 2022-07-29 |
 | [Dèra](https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:23 | 2018-10-04 | 2022-10-15 |
 | [Dèra](https://open.spotify.com/track/5Ib3C5Pwn5vVGjONPEjlJg) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/7hRfo6CmgWCk8ekWnG2zpR) | 6:23 | 2018-10-04 |  |
-| [Ena](https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0) | [Muluken Dawit](https://open.spotify.com/artist/2zUgHt41Ctg8PSdKvqBRwV) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:42 | 2018-10-04 |  |
+| [Ena](https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0) | [Muluken Dawit](https://open.spotify.com/artist/2zUgHt41Ctg8PSdKvqBRwV) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:42 | 2018-10-04 | 2023-09-15 |
 | [Endet Lichal](https://open.spotify.com/track/1o7uMGTxPvKVsS8H5g8kEw) | [Dawit Mellesse](https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V) | [Andiken](https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf) | 5:29 | 2018-10-04 |  |
 | [Eregnaye](https://open.spotify.com/track/6Iki5Wkf0HQDsWCyo4c5u8) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ), [Girma Tefera](https://open.spotify.com/artist/1dmAk6wk38badxBpqhLfM6) | [Eregnaye](https://open.spotify.com/album/4bb71Vk2GN2UM3gb2hR2DI) | 5:09 | 2023-08-14 |  |
 | [Eregnaye](https://open.spotify.com/track/7ypVDpwS7wfIss9W8F3kZK) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ), [Girma Tefera](https://open.spotify.com/artist/1dmAk6wk38badxBpqhLfM6) | [Eregnaye](https://open.spotify.com/album/5txMikXdaVUvDjzmOAuMe9) | 5:09 | 2023-03-17 | 2023-09-02 |
@@ -76,15 +76,17 @@
 | [Mulatu](https://open.spotify.com/track/0LhzIa0cXP8DJEs1nOCXZG) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/70dZnG0Bfa3a0GZKGzhTaa) | 6:20 | 2020-07-03 | 2022-07-29 |
 | [Mulatu](https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX) | 6:20 | 2020-07-03 |  |
 | [Nigerewa](https://open.spotify.com/track/3DvQz7jA79KweYLM4yRQJ8) | [Amanuel Yemane](https://open.spotify.com/artist/34vR4pOtaY9230Nmc1BKP8) | [Habesha](https://open.spotify.com/album/7xeGTsVCULFt42tcgv85zK) | 4:57 | 2020-07-21 | 2022-11-18 |
+| [One Life](https://open.spotify.com/track/5I6ohxdSpuR6oxR15nvDqP) | [BiniZion](https://open.spotify.com/artist/0gP8OJt9A0EdaSAyuUhSEU) | [One Life](https://open.spotify.com/album/1PkZwghjdN9FKrrCPWR8gb) | 3:02 | 2023-09-14 |  |
 | [Qal](https://open.spotify.com/track/0ZM9wgVnliFhDKdNdND349) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Sidist \(VI\)](https://open.spotify.com/album/25lSM4Kr3XmfZPALspAiNH) | 4:51 | 2022-11-17 |  |
 | [Rega](https://open.spotify.com/track/5srRfLAfga930OVMWupdB7) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm), [Ahadu](https://open.spotify.com/artist/656D6SvS3ESkvQdroZMC6W), [Ezra](https://open.spotify.com/artist/2WrgUQR8a2v9yu8ViT1aIH) | [Rega](https://open.spotify.com/album/6V0xmnyjX86ZfvuUTVKaLB) | 4:15 | 2019-11-25 |  |
 | [Setaleksh Des Alishign, Abinet Agonafir](https://open.spotify.com/track/3x1IPNc49eHFIRYPqrge1h) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- Dance](https://open.spotify.com/album/7JIzV5YLIR8GidhHgQ4LJa) | 5:04 | 2018-10-04 | 2022-11-14 |
+| [She Will Be Loved](https://open.spotify.com/track/2R167fmwPN79bfF1BqqNol) | [TK SNO](https://open.spotify.com/artist/1k6HVfpL0t6d9ZIiOT4xWR) | [She Will Be Loved](https://open.spotify.com/album/6P86LrrDckjeM4TqdyknhO) | 3:36 | 2023-09-14 |  |
 | [Shegnehush](https://open.spotify.com/track/4bUns4JjV5XAYlSx0i9lYI) | [Theodros Kassahun](https://open.spotify.com/artist/2CMA5fXRHJUfaokzsmGucv) | [Teddy](https://open.spotify.com/album/5h1VNzRDbt6hayX9hgHuf8) | 5:37 | 2018-10-04 | 2023-06-24 |
 | [Shelter](https://open.spotify.com/track/0InSfY3vAN0dcy7MiyxdSM) | [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Shelter](https://open.spotify.com/album/5gbL8MJfWftKPNW4JfXp2P) | 4:19 | 2020-06-05 | 2023-03-18 |
 | [Shelter](https://open.spotify.com/track/5hiih9ZGthFog3buukf7Ss) | [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Shelter](https://open.spotify.com/album/1aDK3U8NLFyi5zBYLRFxUK) | 4:19 | 2020-06-05 | 2022-11-12 |
 | [Shemuna](https://open.spotify.com/track/4PrrAmcyo4P6NBivJ8OlZF) | [Hewan Gebrewold](https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE) | [Hewan](https://open.spotify.com/album/7wBjOh16t8N52X8jUngcxD) | 3:27 | 2022-11-17 |  |
 | [Sherosa](https://open.spotify.com/track/40FlcwnMrGOAaOzWn6kQg9) | [Dagi D](https://open.spotify.com/artist/3YOmlimmUHkxvGOKvjHxYp) | [Sherosa](https://open.spotify.com/album/1oHNRptCAPInR033NI1pfa) | 3:28 | 2023-06-23 | 2023-08-15 |
-| [Sitalekish Des Alishign](https://open.spotify.com/track/2UMLCweE5NvY4sdeJCaFFX) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [Hidden Beauty](https://open.spotify.com/album/2HPUUWewF1dWh0IXbP6LUh) | 5:05 | 2018-10-04 |  |
+| [Sitalekish Des Alishign](https://open.spotify.com/track/2UMLCweE5NvY4sdeJCaFFX) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [Hidden Beauty](https://open.spotify.com/album/2HPUUWewF1dWh0IXbP6LUh) | 5:05 | 2018-10-04 | 2023-09-15 |
 | [Tefa Yemileyen](https://open.spotify.com/track/7FTywuxqZm5nFhoZGP0xn2) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Keras Gar Negeger](https://open.spotify.com/album/6AxXfgZACYYxYWdp6mwBr2) | 5:02 | 2018-10-04 | 2023-03-18 |
 | [Tewedaj](https://open.spotify.com/track/4FHNogeGpRbEFRlLCqw1GH) | [Haleluya Tekletsadik](https://open.spotify.com/artist/4ZpsiP2o6O2aNe2E7Kk9Ke) | [Tewedaj, Vol\. 1](https://open.spotify.com/album/6xDnveRco4B2JmHZdJeV6W) | 3:26 | 2022-11-17 |  |
 | [Teywa](https://open.spotify.com/track/1wmNXWGVkLxaJNYWNV8oq5) | [Aman](https://open.spotify.com/artist/10H83AFY6wbiZCiOd8guQR) | [Studio 30 Volume 1](https://open.spotify.com/album/3BGMxmK1XEj84UosGYTk61) | 3:05 | 2022-11-17 |  |

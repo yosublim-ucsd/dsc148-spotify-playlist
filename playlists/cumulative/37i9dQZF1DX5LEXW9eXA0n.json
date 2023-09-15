@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bCar, the garden(\uce74\ub354\uac00\ub4e0)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "New & hot K-Pop ballads. (Cover:\bCar, the garden(\uce74\ub354\uac00\ub4e0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 201049,
       "name": "As much as I loved you",
       "url": "https://open.spotify.com/track/3eGK0gMmmumUC1RTcBKHcI"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 226080,
       "name": "Be there",
       "url": "https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz"
@@ -1412,6 +1412,24 @@
       "duration_ms": 240773,
       "name": "Because I am a woman",
       "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
+    },
+    {
+      "album": {
+        "name": "Because I Don't Love You",
+        "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223826,
+      "name": "Because I Don't Love You",
+      "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
     },
     {
       "album": {
@@ -2715,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "Crush on you",
+        "url": "https://open.spotify.com/album/15XmBCE8jEWzbqzD0Z1vuw"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175040,
+      "name": "Crush on you",
+      "url": "https://open.spotify.com/track/3TUPqVuyNK2mPeA9QmHygo"
+    },
+    {
+      "album": {
         "name": "Darling",
         "url": "https://open.spotify.com/album/3E66L4GRXng49nIsQloQFi"
       },
@@ -3890,7 +3926,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 241506,
       "name": "Even if it rains again",
       "url": "https://open.spotify.com/track/3NYhHnmZGKX1wzeBwjeNfK"
@@ -4106,7 +4142,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 211386,
       "name": "Faded Memory",
       "url": "https://open.spotify.com/track/0zjwHLeSkLxisoO9X9W192"
@@ -4164,7 +4200,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 245293,
       "name": "Fall in LOVE",
       "url": "https://open.spotify.com/track/6X900TdkAkOHEaziJEliQR"
@@ -4428,7 +4464,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 220986,
       "name": "Fix make-up",
       "url": "https://open.spotify.com/track/6QjOs1V84HqJmJGCQBnG8g"
@@ -4565,6 +4601,24 @@
     },
     {
       "album": {
+        "name": "Flower in the Desert",
+        "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259133,
+      "name": "Flower in the Desert - Kor Version",
+      "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
+    },
+    {
+      "album": {
         "name": "NONSTOP",
         "url": "https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY"
       },
@@ -4684,7 +4738,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 260653,
       "name": "For My Love(2023)",
       "url": "https://open.spotify.com/track/3V8fMqqEnhsUuG77YXQMeY"
@@ -5306,6 +5360,24 @@
       "duration_ms": 172350,
       "name": "He's next to you, instead of me",
       "url": "https://open.spotify.com/track/1vMxDpmSBRHhh0eRCLxQcQ"
+    },
+    {
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257026,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
     },
     {
       "album": {
@@ -7108,7 +7180,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 237933,
       "name": "If I Love Again",
       "url": "https://open.spotify.com/track/7mU6Lqaggxunr1sRgPWNsJ"
@@ -7292,6 +7364,28 @@
       "duration_ms": 220256,
       "name": "If With You",
       "url": "https://open.spotify.com/track/0RNKYZOIYM1kWRE2lJ4kJm"
+    },
+    {
+      "album": {
+        "name": "If you lovingly call my name (GyeongseoYeji x Jeon Gunho)",
+        "url": "https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d"
+      },
+      "artists": [
+        {
+          "name": "GyeongseoYeji",
+          "url": "https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9"
+        },
+        {
+          "name": "Jeon Gunho",
+          "url": "https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "If you lovingly call my name",
+      "url": "https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD"
     },
     {
       "album": {
@@ -8014,6 +8108,24 @@
       "duration_ms": 256173,
       "name": "I\u2032m Sorry",
       "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
+    },
+    {
+      "album": {
+        "name": "I\u2032m Still In Love With You",
+        "url": "https://open.spotify.com/album/7DznUUwxhcd3C9urHroOIe"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Hyun",
+          "url": "https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246280,
+      "name": "I\u2032m Still In Love With You",
+      "url": "https://open.spotify.com/track/5qtvMj1louZUaU2WeDRGa8"
     },
     {
       "album": {
@@ -9055,6 +9167,24 @@
     },
     {
       "album": {
+        "name": "Love Fool",
+        "url": "https://open.spotify.com/album/1G8G3j5EIPIsIMtL71hsco"
+      },
+      "artists": [
+        {
+          "name": "J-Cera",
+          "url": "https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233626,
+      "name": "Love Fool",
+      "url": "https://open.spotify.com/track/5gst02IN8JD3CfXM7IfVnc"
+    },
+    {
+      "album": {
         "name": "Beginning is the First Kiss (Original Television Soundtrack), Pt.7",
         "url": "https://open.spotify.com/album/5N1C8ku1f0eBcsPPlNOvxI"
       },
@@ -9412,7 +9542,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 258880,
       "name": "Love(2023)",
       "url": "https://open.spotify.com/track/0lIJtNAYZctC1ikLeKRf4M"
@@ -9434,6 +9564,42 @@
       "duration_ms": 273586,
       "name": "Love, ing",
       "url": "https://open.spotify.com/track/53NfwDBeFuzW8eDxEQyCJd"
+    },
+    {
+      "album": {
+        "name": "Love, Maybe (A Business Proposal OST Special Track)",
+        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
+    },
+    {
+      "album": {
+        "name": "Love..What is it",
+        "url": "https://open.spotify.com/album/4tJCXCEaUtRo4J6XaOZdb4"
+      },
+      "artists": [
+        {
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "Love..What is it",
+      "url": "https://open.spotify.com/track/1q9TLiBIGcjEchuhPSIz8c"
     },
     {
       "album": {
@@ -10108,6 +10274,24 @@
       "duration_ms": 186047,
       "name": "Moon of Seoul",
       "url": "https://open.spotify.com/track/6jmn2IEoU3Yfw3j4hKgSlm"
+    },
+    {
+      "album": {
+        "name": "More Than Words",
+        "url": "https://open.spotify.com/album/0sIpe88JxLKvxDXBYR9Vs2"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235050,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/0DIec6uDOoIvvNUWnoiL5J"
     },
     {
       "album": {
@@ -12546,7 +12730,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 178400,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/5irJLTz79CZXLOJ9FZ7Duy"
@@ -16678,7 +16862,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 223493,
       "name": "With you",
       "url": "https://open.spotify.com/track/7FrabSVdfcPggA25gq3LJU"
@@ -17010,7 +17194,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 215653,
       "name": "You Are The Sea",
       "url": "https://open.spotify.com/track/6lTD3lLyCXNojKvse242Fb"
@@ -17794,6 +17978,24 @@
       "duration_ms": 253622,
       "name": "\uc0ac\ub791\uc774 \ub2a6\uc5b4\uc11c \ubbf8\uc548\ud574",
       "url": "https://open.spotify.com/track/6YaIQLN1KDocHTQuxPjBhN"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\uc774\ub77c \uc4f0\uace0 \uc774\ubcc4\uc774\ub77c \uc77d\uc5b4 (Write love and Read breakup)",
+        "url": "https://open.spotify.com/album/3e0vL5HQsCead5QUmN1Igj"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "\uc0ac\ub791\uc774\ub77c \uc4f0\uace0 \uc774\ubcc4\uc774\ub77c \uc77d\uc5b4 (Write love and Read breakup)",
+      "url": "https://open.spotify.com/track/1VJJ5i8jxeWc3rRFD0tJ8Z"
     },
     {
       "album": {

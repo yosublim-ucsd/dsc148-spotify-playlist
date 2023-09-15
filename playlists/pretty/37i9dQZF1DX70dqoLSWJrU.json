@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 64982,
+  "num_followers": 65036,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjQ5NzI2ZDI2ZDEyY2NlZTA3Yzc0MTFiNmRjNjY3NDk2OWNkOTUw",
+  "snapshot_id": "MCxkM2Q3NTc4ODNkYWI1NWI0NGU1ZDc3ZDNhMDY3ZGUxZjFiNTRhOGJi",
   "tracks": [
     {
       "added_at": "2023-08-31 11:42:11",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
+        "name": "The Second Time Around",
+        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 146226,
+      "name": "Don't Cry Baby",
+      "url": "https://open.spotify.com/track/52JFZ4D1kYCspWMolxYtTo"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 279376,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
-        "name": "The Second Time Around",
-        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 146226,
-      "name": "Don't Cry Baby",
-      "url": "https://open.spotify.com/track/52JFZ4D1kYCspWMolxYtTo"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Blue And Sentimental - 1947 Version",
-      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "The Second Time Around",
         "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 177200,
       "name": "Fool That I Am",
       "url": "https://open.spotify.com/track/5RC6D893kdyFTbbXq9G3qZ"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
+        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "Blue And Sentimental - 1947 Version",
+      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -439,30 +439,18 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Good Morning Heartache",
-        "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
+        "name": "In The Land Of Hi-Fi",
+        "url": "https://open.spotify.com/album/4dKbs1IepsLdxwHUqNFe3x"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        },
-        {
-          "name": "Fi Mar\u00f3stica",
-          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
-        },
-        {
-          "name": "Leo Gasso",
-          "url": "https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 193177,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
+      "duration_ms": 153706,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -499,18 +487,30 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "In The Land Of Hi-Fi",
-        "url": "https://open.spotify.com/album/4dKbs1IepsLdxwHUqNFe3x"
+        "name": "Good Morning Heartache",
+        "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        },
+        {
+          "name": "Fi Mar\u00f3stica",
+          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
+        },
+        {
+          "name": "Leo Gasso",
+          "url": "https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
         }
       ],
-      "duration_ms": 153706,
-      "name": "I'll Never Smile Again",
-      "url": "https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh"
+      "duration_ms": 193177,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Once Upon A Summertime",
-      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "Lonely And Blue",
         "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 202866,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Once Upon A Summertime",
+      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "There Must Be A Way",
-      "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "Social Call",
         "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 251680,
       "name": "Gone With the Wind",
       "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "There Must Be A Way",
+      "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Gentle Is My Love",
-        "url": "https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "Who Can I Turn To (When Nobody Needs Me)",
-      "url": "https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "Inside Betty Carter",
         "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 308626,
       "name": "Beware My Heart",
       "url": "https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Gentle Is My Love",
+        "url": "https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "Who Can I Turn To (When Nobody Needs Me)",
+      "url": "https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "I'm Gonna Laugh You Right Out Of My Life - Remastered",
-      "url": "https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "The Rockin' Chair Lady",
         "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 189533,
       "name": "Blues In My Heart",
       "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "I'm Gonna Laugh You Right Out Of My Life - Remastered",
+      "url": "https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Swedish Sensation",
-        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 145106,
-      "name": "My Old Flame",
-      "url": "https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "Waiter, Make Mine The Blues",
         "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 281653,
       "name": "Whatever Happened To You?",
       "url": "https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Swedish Sensation",
+        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 145106,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ"
     },
     {
       "added_at": "2023-08-31 11:42:11",

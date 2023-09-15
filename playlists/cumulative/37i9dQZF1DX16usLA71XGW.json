@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Polaris, Mayonde, Muthoni Drummer Queen",
+  "description": "East Africa queens in their music bag. Cover: Abigail Chams",
   "name": "Malkia",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 205680,
       "name": "Halichachi",
       "url": "https://open.spotify.com/track/6SWpURhRKx8IN6IXzCSV2S"
@@ -954,6 +954,24 @@
       "duration_ms": 174757,
       "name": "Mbikka",
       "url": "https://open.spotify.com/track/0aX9cCnSbOK71jbkIoTdnL"
+    },
+    {
+      "album": {
+        "name": "Milele",
+        "url": "https://open.spotify.com/album/19bugQdphaPV2owzpESgWb"
+      },
+      "artists": [
+        {
+          "name": "Abigail Chams",
+          "url": "https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217826,
+      "name": "Milele",
+      "url": "https://open.spotify.com/track/0GRikCkCDjo6KZflphU4J6"
     },
     {
       "album": {

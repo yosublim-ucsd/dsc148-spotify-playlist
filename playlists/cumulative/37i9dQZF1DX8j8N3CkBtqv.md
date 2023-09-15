@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Raghav Meattle
 
-208 songs - 11 hr 32 min
+209 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-19 | 2023-06-17 |
 | [Dokhi Na](https://open.spotify.com/track/1FqYFTYND93fbxXjxZcGWC) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Dokhi Na](https://open.spotify.com/album/3H3uwQikqS1WpHLCK93Nfh) | 2:39 | 2023-08-25 |  |
 | [Dreams](https://open.spotify.com/track/69KsBGYUsA6bn6BKdS9eTF) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Dreams](https://open.spotify.com/album/10DvgJVSmj2PZbKQz2ci7x) | 2:27 | 2023-08-25 |  |
-| [Duur Hai Wo](https://open.spotify.com/track/2yR3f7t0N1pp48mChKq9Kt) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/5zSrIDdqyNIVdGJiT9d46P) | 4:45 | 2023-09-01 |  |
+| [Duur Hai Wo](https://open.spotify.com/track/2xdKGuM3SMXYxZIytizcVP) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/21ZHoICkVEBGFnoNiSPhBz) | 4:42 | 2023-09-08 |  |
+| [Duur Hai Wo](https://open.spotify.com/track/2yR3f7t0N1pp48mChKq9Kt) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/5zSrIDdqyNIVdGJiT9d46P) | 4:45 | 2023-09-01 | 2023-09-15 |
 | [Ek Deewane Ko](https://open.spotify.com/track/2z0a7Fk1pBfj9et2nd5tS3) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Ek Deewane Ko](https://open.spotify.com/album/4qn1vEiA3nfTIOgjmWEkrh) | 4:53 | 2023-07-21 | 2023-08-25 |
 | [Fida](https://open.spotify.com/track/1RnGyOqCbgpfmSh423M4t1) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Fida](https://open.spotify.com/album/0JQ7xpuT2g8TlnT8r7hamD) | 2:52 | 2023-07-21 | 2023-08-25 |
 | [Ghar](https://open.spotify.com/track/2GQXTvZ5S5RcfqmD1SdAVy) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ghar](https://open.spotify.com/album/5fyj5enOtY9sgh84Jc4kbP) | 2:57 | 2023-04-14 | 2023-06-30 |

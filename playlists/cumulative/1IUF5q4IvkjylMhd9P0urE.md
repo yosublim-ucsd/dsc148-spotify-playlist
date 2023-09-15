@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-410 songs - 23 hr 49 min
+411 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Passed Me By](https://open.spotify.com/track/2nVxL1B523h70Gign7W2Le) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Passed Me By](https://open.spotify.com/album/3XXKD7oise1AekkRWE9aRu) | 4:03 | 2023-04-13 | 2023-08-04 |
 | [Peace Out](https://open.spotify.com/track/2X5zj7DzFKDHBfKLD4XKIo) | [Jadasea](https://open.spotify.com/artist/4DJHbK2NrlVn7hCkTrUs69), [Laron](https://open.spotify.com/artist/1a7hu7ndcG1JtWgKv7iUzG), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [The Corner: Vol\. 1](https://open.spotify.com/album/130usqSO6dsfvQZQZNzwvl) | 2:50 | 2023-02-10 | 2023-05-24 |
 | [Peak](https://open.spotify.com/track/4ynNhvuTx1aVqi7HTzf2DB) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW) | [Homecoming](https://open.spotify.com/album/7bPPSzJsmrt0wBnvRQ0jzs) | 4:12 | 2022-09-16 | 2022-11-09 |
+| [Perfect Heaven](https://open.spotify.com/track/1QUcA3ozlUTz4HGWqWjrRP) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Perfect Heaven](https://open.spotify.com/album/7pdJKOUlvuVdhQsUH2ePdm) | 3:21 | 2023-09-14 |  |
 | [Philo](https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Philo](https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl) | 2:45 | 2022-10-10 | 2023-01-19 |
 | [Phiriya \- Provhat and Enayet's Club Refix](https://open.spotify.com/track/7uWZGP4flPZTbR6JloHCPl) | [Enayet](https://open.spotify.com/artist/0VbG8iCREMYiDnanRI1WJ9), [Provhat Rahman](https://open.spotify.com/artist/6rztoI78qH7PEu9wF6UYw9) | [Phiriya](https://open.spotify.com/album/5Mb86I2dGoYRWPJN73Ak6m) | 5:20 | 2023-05-23 | 2023-08-04 |
 | [Phonkay](https://open.spotify.com/track/7Gi8tO48Xe7IcgiVXTqs1x) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI), [Danny Daze](https://open.spotify.com/artist/6xYBrFTJUOzyzMvhUiFHuB), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Homecore! Miami All\-Stars](https://open.spotify.com/album/66XFndmwDXr8Eu6llRCzSd) | 2:25 | 2023-03-15 | 2023-07-04 |

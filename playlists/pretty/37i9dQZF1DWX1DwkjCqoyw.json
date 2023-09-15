@@ -1,12 +1,12 @@
 {
   "description": "The biggest crossover songs from the islands all in one place. Cover: Shaggy",
-  "num_followers": 122879,
+  "num_followers": 122920,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDlkZTZkM2U5M2UwYjM4Mzg2N2NlOGVhYzQxNjc1ZTY1ZTkyNGQ2",
+  "snapshot_id": "MCxjYTYyMjc0MTViZDE1YTkxYzQ2NWU2MjZmYzcyZTY3ZTIwNmFjNTc3",
   "tracks": [
     {
       "added_at": "2023-05-16 15:57:09",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-16 15:57:09",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/6eYxm1llvPLQe5oW3d5tba"
-      },
-      "artists": [
-        {
-          "name": "Prince Swanny",
-          "url": "https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Catch 22",
-      "url": "https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw"
-    },
-    {
-      "added_at": "2023-05-16 15:57:09",
-      "album": {
         "name": "Verified Choppa 2",
         "url": "https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 139093,
       "name": "Verified Choppa 2",
       "url": "https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1"
+    },
+    {
+      "added_at": "2023-05-16 15:57:09",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/6eYxm1llvPLQe5oW3d5tba"
+      },
+      "artists": [
+        {
+          "name": "Prince Swanny",
+          "url": "https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Catch 22",
+      "url": "https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw"
     },
     {
       "added_at": "2023-05-16 15:57:09",

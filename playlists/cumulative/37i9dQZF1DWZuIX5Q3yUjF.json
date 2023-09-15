@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Angela Iris",
+  "description": "Il meglio dell'R&B italiano. Cover: Sidea",
   "name": "anima R&B",
   "tracks": [
     {
@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 169868,
       "name": "Cambio di scena",
       "url": "https://open.spotify.com/track/4CmhDQAXV7lbRTMcOMbjbe"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 173647,
       "name": "Ci Taglia Fuori (feat. Etto)",
       "url": "https://open.spotify.com/track/6Ajw24K2OsznxL8KS7xgWk"
@@ -2115,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Finestra",
+        "url": "https://open.spotify.com/album/5kJ53sioZcR0ATW3KEU76t"
+      },
+      "artists": [
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191227,
+      "name": "Finestra",
+      "url": "https://open.spotify.com/track/0mO9Lg7RI1f9Yv5OLRF6nt"
+    },
+    {
+      "album": {
         "name": "Fior di glicine",
         "url": "https://open.spotify.com/album/3KTYT0lzuD9WSaMah6hU55"
       },
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 201915,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3g40wAr31QX58ILTMUcu10"
@@ -3514,7 +3532,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 178857,
       "name": "Limite",
       "url": "https://open.spotify.com/track/1HYwX6zxcel9LD2ej5QEGR"
@@ -3612,7 +3630,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 152390,
       "name": "Loop",
       "url": "https://open.spotify.com/track/5kb5FZXaaRYHPJeq3VJHIi"
@@ -4000,7 +4018,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 172500,
       "name": "Mi Gira La Testa",
       "url": "https://open.spotify.com/track/114YeEt2XdzX57hb96uG7B"
@@ -4094,6 +4112,28 @@
       "duration_ms": 167142,
       "name": "Monodose",
       "url": "https://open.spotify.com/track/4Doceb3PbB1O4Rdijrn2Qp"
+    },
+    {
+      "album": {
+        "name": "Aurora Boreale",
+        "url": "https://open.spotify.com/album/3nNoz14HXFxQk26LZit46f"
+      },
+      "artists": [
+        {
+          "name": "Shadaloo",
+          "url": "https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR"
+        },
+        {
+          "name": "Geeno",
+          "url": "https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136129,
+      "name": "Morire cos\u00ec",
+      "url": "https://open.spotify.com/track/5jQTtIoySA3wz57mny0dqV"
     },
     {
       "album": {
@@ -4842,7 +4882,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 186420,
       "name": "parole dette male",
       "url": "https://open.spotify.com/track/72FMKiJcDj3jjUFJgLvZ5Q"
@@ -5839,6 +5879,24 @@
     },
     {
       "album": {
+        "name": "Senza di me",
+        "url": "https://open.spotify.com/album/2XoPsN6vqdB9Z8q1fijGEp"
+      },
+      "artists": [
+        {
+          "name": "Gyuse",
+          "url": "https://open.spotify.com/artist/6hj6eKlYId3xev1piRmEqr"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Senza di me",
+      "url": "https://open.spotify.com/track/7mBnEZdrqckJ6wQJtPm6hk"
+    },
+    {
+      "album": {
         "name": "Senza Te",
         "url": "https://open.spotify.com/album/3GmzaEJniZOLhoQCKoJYdP"
       },
@@ -6560,7 +6618,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 190909,
       "name": "Tardi",
       "url": "https://open.spotify.com/track/6Mg0jN7cUV4yAn7L56I5Hy"
@@ -6880,7 +6938,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 160000,
       "name": "Tutto bene",
       "url": "https://open.spotify.com/track/5TRlRhA8nXcS9lrMkqWJxJ"
@@ -7076,6 +7134,32 @@
       "duration_ms": 163053,
       "name": "Universo",
       "url": "https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x"
+    },
+    {
+      "album": {
+        "name": "VACANZE ROMANE",
+        "url": "https://open.spotify.com/album/3XZkGxvlna9o3kIYyquhwf"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Lenola",
+          "url": "https://open.spotify.com/artist/2ZcZ2OBjYjxxIfAXyumxJu"
+        },
+        {
+          "name": "Folcast",
+          "url": "https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186739,
+      "name": "VACANZE ROMANE",
+      "url": "https://open.spotify.com/track/3F5xoT8lQhOWVR69JXJSaj"
     },
     {
       "album": {

@@ -12528,6 +12528,24 @@
     {
       "album": {
         "name": "Limbo",
+        "url": "https://open.spotify.com/album/22PJnohZYZdtqexRDkX6Qs"
+      },
+      "artists": [
+        {
+          "name": "Yoko Gold",
+          "url": "https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165310,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/2CxwqktUwLHo0XtgMaI9Qc"
+    },
+    {
+      "album": {
+        "name": "Limbo",
         "url": "https://open.spotify.com/album/5pXEHD47zKV9KyUcEAuRlV"
       },
       "artists": [
@@ -12538,7 +12556,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 165310,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/4BMhR515OiK2TII7qzQujj"

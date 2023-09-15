@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB?si=CS9Gq9vzTCqU0PtFgigllA">Cardi B</a>, <a href="https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK?si=OOhuYCaWSNCvTM1cKWn3XQ">Megan Thee Stallion</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,915 likes - 56 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,020 likes - 56 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

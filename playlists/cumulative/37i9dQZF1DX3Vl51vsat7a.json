@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "vier aufnahmen",
+        "url": "https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145063,
+      "name": "\\ sympathisch",
+      "url": "https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX"
+    },
+    {
+      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
       },
@@ -1176,6 +1194,24 @@
       "duration_ms": 193435,
       "name": "echo",
       "url": "https://open.spotify.com/track/39rdOcmqMFRCoxaFLSXB00"
+    },
+    {
+      "album": {
+        "name": "Egal (was passiert)",
+        "url": "https://open.spotify.com/album/4mNn1ZVQzxRhOQjFav5rMe"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198120,
+      "name": "Egal (was passiert)",
+      "url": "https://open.spotify.com/track/0kNkyLekrgYVDt6EPmslv2"
     },
     {
       "album": {
@@ -2944,7 +2980,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 170016,
       "name": "Panikwei\u00df",
       "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
@@ -3046,6 +3082,24 @@
       "duration_ms": 386193,
       "name": "Physical Aspects Of Disco",
       "url": "https://open.spotify.com/track/10UQj7uJ2RPG481QII1xpv"
+    },
+    {
+      "album": {
+        "name": "Piccolo",
+        "url": "https://open.spotify.com/album/3Imzkvlri6mG8V04fsdFkv"
+      },
+      "artists": [
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147922,
+      "name": "Piccolo",
+      "url": "https://open.spotify.com/track/0g3hdWIwkYStsPojCvDIG0"
     },
     {
       "album": {
@@ -3600,7 +3654,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 158441,
       "name": "Star",
       "url": "https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2"
@@ -4404,7 +4458,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 136373,
       "name": "Wien",
       "url": "https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2"

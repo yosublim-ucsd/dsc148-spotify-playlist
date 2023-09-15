@@ -4,7 +4,7 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-57 songs - 4 hr 9 min
+58 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 | 2022-07-22 |  |
 | [Dios Incomparable \(Invitado: Marco Barrientos\)](https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 10:45 | 2022-07-22 |  |
 | [Días Mejores](https://open.spotify.com/track/6vtFTFXUa8dDV2DXnXAzhq) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Días Mejores](https://open.spotify.com/album/1OkifSNfJnObBOcbJ2lpPW) | 4:27 | 2022-07-22 |  |
-| [El Héroe De La Humanidad](https://open.spotify.com/track/61ZdhQyMoPmftovugJ7uk2) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:03 | 2022-07-22 |  |
+| [El Héroe De La Humanidad](https://open.spotify.com/track/2Ct8UONdpODoRYJKre38R1) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0yXPcyG4gS3W6m2aQACbVD) | 4:03 | 2022-10-25 |  |
+| [El Héroe De La Humanidad](https://open.spotify.com/track/61ZdhQyMoPmftovugJ7uk2) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:03 | 2022-07-22 | 2023-09-15 |
 | [En mi palma te escribí](https://open.spotify.com/track/4kkLruWcwJ6B2qSGl58zkf) | [La voz del desierto](https://open.spotify.com/artist/3o3NVYDVBPfg4tWKe6hKuC) | [Él me vuelve a levantar](https://open.spotify.com/album/6mTchxlwaF1UCRmGlof1uB) | 3:55 | 2022-07-22 |  |
 | [Enamorado De Ti](https://open.spotify.com/track/0LLnJYTyuDIuRN6c93Up0Q) | [Strike 3](https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l) | [Memories Edicion Especial](https://open.spotify.com/album/4fe7dNz4Jn4eWmHgTBDToi) | 5:26 | 2022-10-25 | 2022-11-13 |
 | [Enamorado De Ti](https://open.spotify.com/track/6QQaNfFVNVBzCMCHfTcNln) | [Strike 3](https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l) | [Llevate El Tiempo](https://open.spotify.com/album/65tShWSVCNe5Fgj5ogLDBl) | 5:26 | 2022-07-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: Hotel Mira
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,022 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,055 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 80 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 |
 | 81 | [Liberate Me II](https://open.spotify.com/track/0gx0mxHF6gewK9FZL9mwi9) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses), [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Liberate Me II](https://open.spotify.com/album/6K5aDes6TAod8K2nVCGU2g) | 3:03 |
 | 82 | [Me And You, Anywhere](https://open.spotify.com/track/2YyvOCmxDpyTkovTmA86XY) | [Deadharrie](https://open.spotify.com/artist/2AQksJj3wc0pTSVLZtjUJX) | [Me And You, Anywhere](https://open.spotify.com/album/6Ae3GMu40g4zisALlypWZz) | 3:22 |
-| 83 | [Miss You](https://open.spotify.com/track/0I00AlBouZdCUCepT8Vb4C) | [James Blonde](https://open.spotify.com/artist/4JFUF9h1Mo98JJ1AnsLyJT) | [Miss You](https://open.spotify.com/album/5KlbyoEP6Fz0TYm1sSRHfl) | 3:50 |
+| 83 | [Miss You](https://open.spotify.com/track/6G0awewSOXVPeZkreVe77h) | [James Blonde](https://open.spotify.com/artist/4JFUF9h1Mo98JJ1AnsLyJT) | [Chameleon](https://open.spotify.com/album/1cv08rZVoRLEHAg225iAjq) | 3:50 |
 | 84 | [Closer](https://open.spotify.com/track/4UyoKqkDZTLcDOvWsbK67h) | [Whale and the Wolf](https://open.spotify.com/artist/4AMuXW9TMEbxAQOoz0C6sj) | [Closer](https://open.spotify.com/album/2Zuja0ug52TFpPPzPkbWO5) | 3:41 |
 | 85 | [1996](https://open.spotify.com/track/42gCvd5KaiW6IA8cjZXEIt) | [Hotel Decor](https://open.spotify.com/artist/3wPuwE1Bgnjnhn1re2KKU5) | [1996](https://open.spotify.com/album/3SBIazXQLsavKpKxVKsFQy) | 3:00 |
 | 86 | [Forever You](https://open.spotify.com/track/2h1ZMOcsrEAoemWnAZaBkl) | [Jay Feelbender](https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI) | [Reflection of Casey](https://open.spotify.com/album/20RZW3rUKbMLVb0Edv6Zwl) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Skin](https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4) | 3:51 |
 | 100 | [Clay Feet](https://open.spotify.com/track/7CJkmupnhIhgdDuPMBpSMD) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Clay Feet](https://open.spotify.com/album/5IXXU7lT4HFRSryIRwfiZF) | 3:39 |
 
-Snapshot ID: `MCwwMDAwMjY1MmMxN2I0OWNmODE5YmRhZDQ0NDM1NWVhODA0ZTNhZDYy`
+Snapshot ID: `MCxlNWZlMDliMWE0MTUzMTk3ODU3ZjE4MThkYzgwYjk5ZGFhYzM4N2Nk`

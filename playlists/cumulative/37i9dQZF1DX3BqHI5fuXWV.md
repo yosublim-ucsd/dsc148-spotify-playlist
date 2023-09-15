@@ -4,7 +4,7 @@
 
 > The best tracks from the great Miles Davis.
 
-141 songs - 13 hr 52 min
+142 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Joshua](https://open.spotify.com/track/3M398IT8mJzKWUGOmO16GG) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps: The Complete Columbia Recordings Of Miles Davis 1963\-1964](https://open.spotify.com/album/1cURRxhG6jxK2mIcPzlNEs) | 5:24 | 2021-07-02 |  |
 | [Just Squeeze Me](https://open.spotify.com/track/514orWNnWjj6TtJ2ifaWF6) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [The New Miles Davis Quintet](https://open.spotify.com/album/5UrThO63Ij9bCoLgmVEk01) | 7:26 | 2021-07-02 | 2022-07-29 |
 | [Just Squeeze Me](https://open.spotify.com/track/4OdeWWTGaNP8fEAvu0AAlk) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Muted Miles](https://open.spotify.com/album/6QJATd5UumhYl04B8wZlng) | 7:28 | 2022-09-16 | 2022-11-13 |
-| [Just Squeeze Me](https://open.spotify.com/track/3QWC9bsUI7weE7bkeEQz9a) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [The Legendary Prestige Quintet Sessions](https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm) | 7:28 | 2022-04-27 |  |
+| [Just Squeeze Me](https://open.spotify.com/track/3QWC9bsUI7weE7bkeEQz9a) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [The Legendary Prestige Quintet Sessions](https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm) | 7:28 | 2022-04-27 | 2023-09-15 |
+| [Just Squeeze Me \- Miles Davis And His Quintet](https://open.spotify.com/track/3C2iim4vUBGbQWBnTR6o9q) | [Miles Davis And His Quintet](https://open.spotify.com/artist/0LW6sREPWemmi5wZDhTh0M) | [Miles And His Quintet \(Miles Davis And His Quintet\)](https://open.spotify.com/album/6AZ1jpH5CEub6Iza2HXZrp) | 7:29 | 2023-08-31 |  |
 | [Kelo](https://open.spotify.com/track/0x6iYV6HjYocs3rphJgnNj) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Finest](https://open.spotify.com/album/7iZcta4q9Z5Sk3Mvhe3Kbp) | 3:18 | 2022-04-27 | 2022-11-13 |
 | [Kelo](https://open.spotify.com/track/2aYz8YsMwlTJ468YufM8yA) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Jazz Profile](https://open.spotify.com/album/29fodpqtlnqDlZHlnmrbB9) | 3:18 | 2022-04-27 | 2023-02-25 |
 | [Kelo](https://open.spotify.com/track/45Gixa6r1Xee1MUNgitw6J) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Jazz Legends: Miles Davis](https://open.spotify.com/album/0G2uOeDDMYwHXKGDxIjz9X) | 3:18 | 2022-09-16 | 2022-11-12 |

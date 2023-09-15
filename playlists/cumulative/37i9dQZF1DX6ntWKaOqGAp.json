@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Division",
+        "url": "https://open.spotify.com/album/1o4wsjJbgLTH2q2LqowwX1"
+      },
+      "artists": [
+        {
+          "name": "KAMI WA SAIKORO WO FURANAI",
+          "url": "https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Division",
+      "url": "https://open.spotify.com/track/1FfTdooVqOs64kfSlh2p84"
+    },
+    {
+      "album": {
         "name": "DO THE DANCE",
         "url": "https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2"
       },
@@ -5146,7 +5164,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 278456,
       "name": "Over the rain~Hikari no hashi~ - Ryu-Take 2023 ver.",
       "url": "https://open.spotify.com/track/7cjE6T1u6wqUY3jtNW3g95"
@@ -5420,7 +5438,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 214905,
       "name": "Pushing My Back",
       "url": "https://open.spotify.com/track/0s7J452ViFJuFjbQW4wOpB"
@@ -11444,7 +11462,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 159987,
       "name": "\u5730\u7344\u3067\u30b9\u30ad\u30c3\u30d7",
       "url": "https://open.spotify.com/track/3J4aASakUQi3c1A4H6sWNo"
@@ -13245,6 +13263,24 @@
     },
     {
       "album": {
+        "name": "\u785d\u5b50\u7a93",
+        "url": "https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217817,
+      "name": "\u785d\u5b50\u7a93",
+      "url": "https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE"
+    },
+    {
+      "album": {
         "name": "\u79c1\u306f\u732b\u306e\u76ee",
         "url": "https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx"
       },
@@ -13470,6 +13506,24 @@
       "duration_ms": 251000,
       "name": "\u8272\u5f69",
       "url": "https://open.spotify.com/track/1xQkiYu0JiYpTCZ4tGMGit"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u306b\u306a\u308c (Ryu-Take 2023 ver.)",
+        "url": "https://open.spotify.com/album/6uCHKMCp9Qbmbbb0gzjwAY"
+      },
+      "artists": [
+        {
+          "name": "flumpool",
+          "url": "https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387520,
+      "name": "\u82b1\u306b\u306a\u308c - Ryu-Take 2023 ver.",
+      "url": "https://open.spotify.com/track/3pXPqtPn0dAMRbztfuEwmf"
     },
     {
       "album": {

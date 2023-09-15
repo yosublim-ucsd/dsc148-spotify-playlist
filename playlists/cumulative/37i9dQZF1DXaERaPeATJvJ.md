@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: White Shoes & The Couples Company
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Rock N Roll Mafia
 
-117 songs - 7 hr 56 min
+119 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Another Song for Her](https://open.spotify.com/track/5wR3uyU7yPCQaDp2cSq9c7) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:10 | 2022-01-06 |  |
 | [Apple \(Suicide On Your Stereo Set\)](https://open.spotify.com/track/2YsfSIc88U6nIqWqDTxiDG) | [Annemarie](https://open.spotify.com/artist/510UvK3f9UNOBh4CNZuSoJ) | [ABC On Tv](https://open.spotify.com/album/712iSMC4r6ANdkzBCkqAz3) | 3:38 | 2021-11-25 |  |
 | [Awas Polizei!](https://open.spotify.com/track/2bPsnsvezXrMzck5HROMZ5) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [DGNR8](https://open.spotify.com/album/5g5AfLL7lcT9NjWhEZoN8i) | 4:07 | 2022-12-16 | 2023-01-14 |
+| [Batu Karas](https://open.spotify.com/track/4ktxvxJxfTXKyzK6ziqlrY) | [Rock N Roll Mafia](https://open.spotify.com/artist/6EK3t5PY9iBCzjujQFwYVc) | [Rnrm](https://open.spotify.com/album/64WKwndg13a7CH0ULLGauO) | 6:25 | 2023-09-14 |  |
 | [Bedroom Avenue](https://open.spotify.com/track/4BhsOTApNxK4VxTjJgoLtT) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 3:03 | 2022-10-28 |  |
 | [Before Circus Over](https://open.spotify.com/track/6kXrYku6uidvZil7Qz2Oik) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/77KIsJT9Lc5upPsvvySDZx) | 4:56 | 2023-03-02 |  |
 | [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 | 2022-08-04 | 2023-05-27 |
@@ -49,6 +50,7 @@
 | [Kisah Dari Selatan Jakarta](https://open.spotify.com/track/20qm0yBgr7ylY91vKp7SpY) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Together Whatever Sessions \(Live Version\)](https://open.spotify.com/album/0eXX7sZMrUItp9FT6FTWdl) | 4:15 | 2021-11-25 |  |
 | [Kissh Kissh \(Accoustic Version\)](https://open.spotify.com/track/2MuNPjvtdsIIX46Felbx82) | [Baby Eats Crackers](https://open.spotify.com/artist/5ToCo2V5mapXG8lnr9mV3e) | [Kissh Kissh \(Accoustic Version\)](https://open.spotify.com/album/0MBi0mMMAW1YoPWyLAtNGl) | 3:16 | 2022-08-04 |  |
 | [Kita Akan Bertemu di Sana](https://open.spotify.com/track/67WXgb9g8eZARad1QRMMpQ) | [whisperdesire](https://open.spotify.com/artist/0jSvusx01G0VWBt14G0AEK) | [Cerah Berawan](https://open.spotify.com/album/3mXgaM6h0ZysTtrEahbhUF) | 4:43 | 2022-08-04 |  |
+| [Kompor Meledug](https://open.spotify.com/track/1IrWazmEizd0SgFw9GWpZ8) | [Agrikulture](https://open.spotify.com/artist/1DjUWo5Izdu6U9lCZWUBwv) | [Dawai Damai \(Remastered\)](https://open.spotify.com/album/6yyn1YUqApIVOnEGubFIFL) | 4:09 | 2023-09-14 |  |
 | [Konservatif](https://open.spotify.com/track/7qUkZhXym0LCTdcmwhGO3b) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [The Adams](https://open.spotify.com/album/78DE7OzE8yFEcfkGQ7L024) | 4:51 | 2021-11-25 |  |
 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 | 2021-11-25 |  |
 | [Kuning](https://open.spotify.com/track/5vIXRsAZwa8uvXBhTNWTiK) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Nol Derajat](https://open.spotify.com/album/79HenduAxtzqwIznxHKJ8F) | 5:49 | 2021-11-25 |  |

@@ -2,7 +2,7 @@
 
 ### [90s Country](https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU)
 
-> We're celebrating 30 years of Alan Jackson's classic hit "Chattahoochee" on 90s Country!
+> We're celebrating 30 years of Martina McBrides's timeless album "The Way That I Am" on 90s Country!
 
 187 songs - 10 hr 52 min
 

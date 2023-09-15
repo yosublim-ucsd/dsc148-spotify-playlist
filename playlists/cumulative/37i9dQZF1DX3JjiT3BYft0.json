@@ -594,24 +594,6 @@
     {
       "album": {
         "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
-        "url": "https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "date_added": "2022-09-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249566,
-      "name": "chAngE",
-      "url": "https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8"
-    },
-    {
-      "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
         "url": "https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2"
       },
       "artists": [
@@ -644,6 +626,24 @@
       "duration_ms": 250833,
       "name": "chAngE",
       "url": "https://open.spotify.com/track/2as6oi3XXxxFj1p9TYGl4L"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
+        "url": "https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249566,
+      "name": "chAngE - Cover",
+      "url": "https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8"
     },
     {
       "album": {

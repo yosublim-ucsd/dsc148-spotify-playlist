@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Shakila Anjani
 
-2,476 songs - 6 day 7 hr 44 min
+2,477 songs - 6 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Don’t Judge Me](https://open.spotify.com/track/0u0ivkMMnw6ADn3IelvMyq) | [Nino Kuya](https://open.spotify.com/artist/0LV1a6lI6oiQU2QyhNrUND) | [Don’t Judge Me](https://open.spotify.com/album/5CS0sXtMgbKn2H1NfyGxCN) | 3:20 | 2022-06-09 | 2022-07-01 |
 | [Don’t Leave Me on My Own](https://open.spotify.com/track/1gKFMTNytZMo9WJPbFp33R) | [Mega Bhu](https://open.spotify.com/artist/30hNhIAEL9CI7804oMJXS6) | [Don’t Leave Me on My Own](https://open.spotify.com/album/6YKpHOd0WryEUAWsvFVma2) | 4:42 | 2023-01-12 | 2023-01-27 |
 | [Dopamine](https://open.spotify.com/track/6nIdc63CNRI3CqmqFrTXiN) | [Atha Rafif](https://open.spotify.com/artist/6DFJ8h0sIeIpd39fcliTwa) | [Dopamine](https://open.spotify.com/album/1zSFbB5v2xqSBdwboNu5Oh) | 4:12 | 2023-04-27 | 2023-05-19 |
+| [DORA, DORA](https://open.spotify.com/track/2Mwcvy4acEJu50hwLTXIZj) | [Tacbo](https://open.spotify.com/artist/5224c570dMiD896ZBEr7YW) | [DORA, DORA](https://open.spotify.com/album/4ExDDeQeeFVKiBNA0cPHuk) | 2:43 | 2023-09-07 |  |
 | [Double Happiness \- Freestyle](https://open.spotify.com/track/17nt31Y4kYcgnIewfwxIfW) | [Davi Sol](https://open.spotify.com/artist/3zJT799hLRH5sT6AucfyPD) | [Double Happiness \(Freestyle\)](https://open.spotify.com/album/415fpCbsmyIl1XDlxeErUt) | 3:05 | 2023-06-08 | 2023-06-23 |
 | [Doux Escape](https://open.spotify.com/track/2ViL01hAtFzX4gDTNFzfBD) | [Rasya](https://open.spotify.com/artist/1DJOVIe6ZV05Dhqu9lkQDO) | [Doux Escape](https://open.spotify.com/album/144ft4nhLesdzxXZbGvgXE) | 3:30 | 2022-03-10 | 2023-01-13 |
 | [down](https://open.spotify.com/track/42ZvBCbOZIPSswXXmL7eWC) | [Ramandhika](https://open.spotify.com/artist/47WzpqQTUuAnZQsMl6V6Kt) | [down](https://open.spotify.com/album/2C5TRWMxdkBcKWI16NkEWB) | 3:02 | 2023-06-08 | 2023-06-23 |

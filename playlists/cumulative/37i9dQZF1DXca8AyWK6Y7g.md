@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Aidan Bissett
 
-1,786 songs - 3 day 18 hr 31 min
+1,787 songs - 3 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1264,6 +1264,7 @@
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2021-01-25 | 2022-01-08 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-10 |  |
 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 | 2021-02-22 | 2021-05-09 |
+| [Quarter Life Crisis](https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis](https://open.spotify.com/album/5bTGBed0FKungdHiISflgl) | 3:03 | 2023-09-08 |  |
 | [QUARTER LIFE CRISIS](https://open.spotify.com/track/5qM8NWUsRQ1xztraiBgn0g) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [QUARTER LIFE CRISIS](https://open.spotify.com/album/0DkuTWSO3Jnljzyxm75mNK) | 3:18 | 2023-03-08 |  |
 | [QUARTER LIFE CRISIS](https://open.spotify.com/track/7BmpRLqZg1vLheYi1SI1Rw) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [QUARTER LIFE CRISIS](https://open.spotify.com/album/1xZpg4zC8UQRM0NAnWCiZl) | 3:18 | 2022-10-14 | 2023-04-12 |
 | [Quartz](https://open.spotify.com/track/5Ty5uUfUzsAGd5opVvWDNj) | [Black Grapefruit](https://open.spotify.com/artist/13CHp8uQ13fYrZ4dOecqIG) | [Fade Forget](https://open.spotify.com/album/6l5hLE8eZmKfmPKbD8YAl1) | 3:00 | 2019-07-27 | 2020-04-15 |
@@ -1554,7 +1555,7 @@
 | [Tall Boi](https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Tall Boi](https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl) | 2:30 | 2023-04-28 | 2023-07-01 |
 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 | 2020-08-20 | 2021-11-10 |
 | [Tangerine](https://open.spotify.com/track/0WRPGrwIiWYa2lCE6OVdtl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Tangerine](https://open.spotify.com/album/0h2FVsj0pDzutT9kvlqDY1) | 3:27 | 2020-10-17 | 2021-01-15 |
-| [Tantrum](https://open.spotify.com/track/2oPZ5C25DHuF4il15vFI3J) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Tantrum](https://open.spotify.com/album/0DzYS39dNG3WhACUAA5LI7) | 2:31 | 2023-08-25 |  |
+| [Tantrum](https://open.spotify.com/track/2oPZ5C25DHuF4il15vFI3J) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Tantrum](https://open.spotify.com/album/0DzYS39dNG3WhACUAA5LI7) | 2:31 | 2023-08-25 | 2023-09-15 |
 | [Taste It](https://open.spotify.com/track/2CJ6Dn7diAVvJPLm79o3Xp) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Taste It](https://open.spotify.com/album/4cPPZ4jLUU1aa942DlVXy2) | 2:27 | 2022-10-28 | 2023-01-28 |
 | [Tattoos & Therapy](https://open.spotify.com/track/6F4Ox9In57PS1Wb3A7MfL5) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Madilyn](https://open.spotify.com/artist/07r7OPIALkj6Icaoj4Kf5l) | [Tattoos & Therapy](https://open.spotify.com/album/1NXOPPFLlbmbSJnWMwHkvQ) | 2:46 | 2023-06-16 | 2023-06-24 |
 | [taylor](https://open.spotify.com/track/5EsISNjHKK6AEuEK1tLt7Z) | [heartspace](https://open.spotify.com/artist/4TXauRyx1XUkg6hRkWdgrE) | [taylor](https://open.spotify.com/album/3YeTOayFFUWNOIpfDiWEnt) | 3:00 | 2022-10-07 | 2022-10-15 |

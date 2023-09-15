@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 23438,
+  "num_followers": 23501,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDE3MDNiZTE2MTgzMTQyODM3ZWRkNjRkMjI5YTgxNTI4M2YwNDkz",
+  "snapshot_id": "MCw5NzZjMjhiYzY0ZmI3MDE2M2M0OGEyYTE4ZDA0M2I0NzYxZGYxYjc5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -47,6 +47,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        },
+        {
+          "name": "Lazy Jay",
+          "url": "https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR"
+        }
+      ],
+      "duration_ms": 204956,
+      "name": "212",
+      "url": "https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Girl Code",
         "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
       },
@@ -75,26 +95,6 @@
       "duration_ms": 129546,
       "name": "Foot Fungus",
       "url": "https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Broke with Expensive Taste",
-        "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        },
-        {
-          "name": "Lazy Jay",
-          "url": "https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR"
-        }
-      ],
-      "duration_ms": 204956,
-      "name": "212",
-      "url": "https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys"
     },
     {
       "added_at": "2022-10-01 16:00:00",

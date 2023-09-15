@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Tra storytelling e barre affilate, il meglio del rap game italiano. Cover: Ensi, Nerone",
+  "description": "Tra storytelling e barre affilate, il meglio del rap game italiano. Cover: Il Tre",
   "name": "Liricisti",
   "tracks": [
     {
@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "INVISIBILI",
+        "url": "https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL"
+      },
+      "artists": [
+        {
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/4MIObv6jXdHuf3EGDg3Lap"
+    },
+    {
+      "album": {
         "name": "Scialla Semper",
         "url": "https://open.spotify.com/album/4HzX5H3PFVQk1nAlzLG29r"
       },
@@ -278,10 +296,32 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 195535,
       "name": "Bagagli (Improvvisazione)",
       "url": "https://open.spotify.com/track/0VbPsWeQgpyDw5sQNGkUVL"
+    },
+    {
+      "album": {
+        "name": "INVISIBILI",
+        "url": "https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL"
+      },
+      "artists": [
+        {
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
+        },
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182044,
+      "name": "BIG SHOW (feat. Nicola Siciliano)",
+      "url": "https://open.spotify.com/track/4n5JC857oepHTOT7T4NqN3"
     },
     {
       "album": {
@@ -748,6 +788,32 @@
       "duration_ms": 188640,
       "name": "COL CUORE IN GOLA - lords of dogtown",
       "url": "https://open.spotify.com/track/2ypcWaliFPJ9c3JeWMqi1w"
+    },
+    {
+      "album": {
+        "name": "INVISIBILI",
+        "url": "https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL"
+      },
+      "artists": [
+        {
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        },
+        {
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "COOLIN BREAK (feat. Nitro & Enzo Dong)",
+      "url": "https://open.spotify.com/track/5nt0lVfzmmuiU1Zk6PbWbM"
     },
     {
       "album": {
@@ -1248,7 +1314,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 119111,
       "name": "LAVA FREESTYLE",
       "url": "https://open.spotify.com/track/7etw1KbS95CG0kn8VFGema"
@@ -2448,7 +2514,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 193960,
       "name": "Vita sbagliata",
       "url": "https://open.spotify.com/track/4ThoVGWZoI3w0eKvKlWkej"

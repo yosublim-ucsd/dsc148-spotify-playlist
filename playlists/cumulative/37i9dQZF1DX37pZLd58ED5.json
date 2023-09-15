@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "INVISIBILI",
+        "url": "https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL"
+      },
+      "artists": [
+        {
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/4HKQTz6RoJkFwlFLBAsJqm"
+    },
+    {
+      "album": {
         "name": "Bottiglie Priv\u00e8",
         "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
       },
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 186160,
       "name": "Mi manchi",
       "url": "https://open.spotify.com/track/7Jgi200kgCNvAuZw2W8Nxq"

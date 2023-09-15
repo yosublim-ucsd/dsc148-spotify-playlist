@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,578 likes - 73 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,599 likes - 73 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Voices In My Head \- Damian Lazarus Re\-Shape](https://open.spotify.com/track/1ekzPoFjCnIUejIPNhjaRc) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC) | 3:31 |
+| 1 | [Voices In My Head \- Damian Lazarus Re\-Shape](https://open.spotify.com/track/1Kd7FtVfzyifBhsMi6MgVI) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/50foag5P06HSWOkVrnZg33) | 3:31 |
 | 2 | [Aliens](https://open.spotify.com/track/7gSkM5Q3rqCoxo0lNDyKLw) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Aliens](https://open.spotify.com/album/3kVuuASjIPzf7qHMus6qRP) | 3:40 |
 | 3 | [UNA PENA \- ORGINAL](https://open.spotify.com/track/0KD97PT97Qi2a7Zuq2gJkL) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Una Pena](https://open.spotify.com/album/4KHVqwTF2jO1gTYHATQVMM) | 8:05 |
 | 4 | [Jorniel](https://open.spotify.com/track/2QBMxByChhXHhlzFLz58Ys) | [Yotam Avni](https://open.spotify.com/artist/4lSumeUuEBPEwWcozc0oba) | [Mabruk EP](https://open.spotify.com/album/7Bv7AHT3lqCNkQSmZOWFhJ) | 7:01 |
-| 5 | [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/2WJhtbWwlKny2SOzT58JRD) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC) | 3:51 |
+| 5 | [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/6XzYPtLcf1pVmjZ1y2k5T0) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/50foag5P06HSWOkVrnZg33) | 3:51 |
 | 6 | [Try](https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Feelin'](https://open.spotify.com/album/6g67MU2G9JmsIvuXf0yY9x) | 3:39 |
 | 7 | [Femme](https://open.spotify.com/track/4mNI8DJ5LS91D1bTjaqNg7) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J) | 6:22 |
 | 8 | [Terra Rasgada \- Santiago Garcia Remix](https://open.spotify.com/track/0pmAFbgm9YdB1teCoD8yY2) | [Embatucadores](https://open.spotify.com/artist/26WcldLimxcEG1SkHgP3ky), [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Terra Rasgada \(Santiago Garcia Remix\)](https://open.spotify.com/album/7kFv48dGaYfsVwpzBfVOWN) | 6:24 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 72 | [Two Zulu Men In Ibiza](https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Two Zulu Men In Ibiza EP](https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz) | 7:01 |
 | 73 | [Yes \- Club Version](https://open.spotify.com/track/1gcPomDSpxuRptrxDv9KNx) | [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [Yes](https://open.spotify.com/album/0uDxZbREPCOFOjuT1CPlER) | 5:06 |
 
-Snapshot ID: `MCxiMjk4Yjc2ODgxYzFiODk5MGRhNTYxYzRhYjc2ZDU3M2NiMTU4M2U4`
+Snapshot ID: `MCw2YjQ5ODYwZmE1ODRlODYzYjg5NDI0YzE1ZTE0NjBlM2ViOGU2ZThl`

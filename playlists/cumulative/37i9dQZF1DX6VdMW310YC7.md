@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,521 songs - 4 day 8 hr 45 min
+1,522 songs - 4 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,7 +632,7 @@
 | [I Got New Feelings](https://open.spotify.com/track/6sl6ONNu7w47hIT8KqU2Vl) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [I Got New Feelings](https://open.spotify.com/album/0muMwij4795EX2nEp8jw9V) | 3:25 | 2020-05-22 | 2020-07-03 |
 | [I Leave Again](https://open.spotify.com/track/4e9lUyz9lB7QRP9OLRpbbw) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/15yBff9ZnXVgnO3v6vfCw5) | 3:58 | 2020-11-06 | 2022-08-23 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2020-07-03 | 2020-10-09 |
-| [I Love You](https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [I Love You](https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl) | 4:22 | 2023-09-08 |  |
+| [I Love You](https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [I Love You](https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl) | 4:22 | 2023-09-08 | 2023-09-15 |
 | [I Met You](https://open.spotify.com/track/4VPBrJfT6CAu9ktgoU28Bj) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Anna Lunoe & Friends](https://open.spotify.com/album/1BcKf0iS2eSrgodE7nDicH) | 4:29 | 2020-05-18 | 2020-07-18 |
 | [I Miss You \(feat\. Julia Michaels\) \- Branchez & Charlie Klarsfeld Remix](https://open.spotify.com/track/3zKHw6cGxDZsqUyiGPwFca) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf), [Charlie Klarsfeld](https://open.spotify.com/artist/7IBk1EXqYanGYVIyEdu3SB) | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/album/4Ol6h6D8OdsFju6ks2HFbh) | 4:10 | 2020-03-16 | 2020-07-18 |
 | [I Need Space](https://open.spotify.com/track/2y6krW4iylDWiKVxTzUJcE) | [M!NT ](https://open.spotify.com/artist/1ghaj9f3HCe4tMU4SVjplQ) | [I Need Space](https://open.spotify.com/album/5P9bG3UUgZXY8NsufEtSJH) | 5:24 | 2020-03-17 | 2022-04-21 |
@@ -792,6 +792,7 @@
 | [Loop 6](https://open.spotify.com/track/0V3FG3i1xL19Js9QFvKbkz) | [Funk Fiction](https://open.spotify.com/artist/12Rrb0zhWhcbaXJhVtrmXz) | [Loop 6](https://open.spotify.com/album/062ojkrN7GMCtGLS2gt2ow) | 4:12 | 2020-05-18 | 2021-01-11 |
 | [Looped](https://open.spotify.com/track/0J3BNRNxMxiLyWvG9hn3t6) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Faze \#45: Butch](https://open.spotify.com/album/4g5n57G6qWCAPxVeO14HAb) | 6:17 | 2020-05-18 | 2022-04-21 |
 | [Lose My Head](https://open.spotify.com/track/5HWQWYk7rgkRA9fJ68geNY) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:23 | 2020-05-18 | 2020-07-03 |
+| [Losing Focus](https://open.spotify.com/track/51vJGNySaVSxTmcPotlWrU) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Losing Focus](https://open.spotify.com/album/63NN44IZSRCRevVrgP0EVE) | 3:34 | 2023-09-08 |  |
 | [Losing Ground](https://open.spotify.com/track/7mXcMycQqLHzo60E7WkvvG) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Tishmal](https://open.spotify.com/artist/5lzYtvETBVL9Rqen5RUpPu) | [Losing Ground](https://open.spotify.com/album/2CLaKRjhzUhuIu8tLysXZq) | 4:33 | 2022-12-09 | 2023-04-03 |
 | [Lost](https://open.spotify.com/track/3XYMybUYCtTKm3ZzoJmn8C) | [Deltium](https://open.spotify.com/artist/0QroI8p7Rd0bK54HCFtelN) | [Fields of White](https://open.spotify.com/album/6hNh6rAko5Z5dtcgoKRzve) | 4:19 | 2022-12-28 | 2023-01-06 |
 | [Lost](https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Lost](https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a) | 3:14 | 2023-07-21 |  |

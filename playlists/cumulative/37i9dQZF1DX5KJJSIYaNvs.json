@@ -908,6 +908,10 @@
         {
           "name": "Rashmeet Kaur",
           "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Sunayana Kachroo",
+          "url": "https://open.spotify.com/artist/29UdvhODQC1KwziGG44sKL"
         }
       ],
       "date_added": "2023-06-21",
@@ -1536,7 +1540,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 192186,
       "name": "Hasi - Female Version",
       "url": "https://open.spotify.com/track/1cmZbGkCEVVAck2MsWpPYQ"
@@ -3045,6 +3049,24 @@
     },
     {
       "album": {
+        "name": "Naina Milayke",
+        "url": "https://open.spotify.com/album/1E5P0NaUcnXWBX4MxqYgk2"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215121,
+      "name": "Naina Milayke",
+      "url": "https://open.spotify.com/track/3ylrAcRTfhiiTDLKInsWr1"
+    },
+    {
+      "album": {
         "name": "Najaa (From \"Sooryavanshi\")",
         "url": "https://open.spotify.com/album/5zP4OuD73f42dogIjNid68"
       },
@@ -3190,7 +3212,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 245131,
       "name": "O Sajna",
       "url": "https://open.spotify.com/track/1SVE8yjAt2m9JWjeOaGG4Q"
@@ -3984,6 +4006,28 @@
       "duration_ms": 282391,
       "name": "Saanjh",
       "url": "https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs"
+    },
+    {
+      "album": {
+        "name": "Saanware Aijaiyo",
+        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234713,
+      "name": "Saanware Aijaiyo",
+      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
     },
     {
       "album": {

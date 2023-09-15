@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Cultura Prof\u00e9tica",
-  "num_followers": 1251526,
+  "num_followers": 1251670,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjUyNmZiYTk0NDE0MzEwMjU2OGMxODk5NWRiY2Y1NGI4ZjQzYTgx",
+  "snapshot_id": "MCxhMjBiZDMyMTMzMmNmNzI2MTAxMzI1YWZiNDE2M2NmZTcyMWM2YmUw",
   "tracks": [
     {
       "added_at": "2023-09-08 03:59:00",
@@ -143,22 +143,18 @@
     {
       "added_at": "2023-09-08 03:59:00",
       "album": {
-        "name": "Binikini",
-        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
+        "name": "Inefable",
+        "url": "https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 183048,
-      "name": "Binikini",
-      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
+      "duration_ms": 207879,
+      "name": "Confianza",
+      "url": "https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue"
     },
     {
       "added_at": "2023-09-08 03:59:00",
@@ -179,18 +175,22 @@
     {
       "added_at": "2023-09-08 03:59:00",
       "album": {
-        "name": "Inefable",
-        "url": "https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp"
+        "name": "Binikini",
+        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 207879,
-      "name": "Confianza",
-      "url": "https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue"
+      "duration_ms": 183048,
+      "name": "Binikini",
+      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
     },
     {
       "added_at": "2023-09-08 03:59:00",
@@ -291,42 +291,6 @@
     {
       "added_at": "2023-09-08 03:59:00",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 288388,
-      "name": "High (feat. Apache)",
-      "url": "https://open.spotify.com/track/5KQVSvivJ89ZFAPdsLLtyq"
-    },
-    {
-      "added_at": "2023-09-08 03:59:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 180929,
-      "name": "Me Fui de Vacaciones",
-      "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
-    },
-    {
-      "added_at": "2023-09-08 03:59:00",
-      "album": {
         "name": "Con Rastafari Todo Concuerda",
         "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
       },
@@ -343,18 +307,18 @@
     {
       "added_at": "2023-09-08 03:59:00",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/0LfdXgdI3ksuzkpQomvIH8"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Tubar\u00e1",
-          "url": "https://open.spotify.com/artist/0Er4BwZ8o4ec3I3rdLaFL3"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 201328,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/3rWcQsUH5Jo25JyaYr9Kmj"
+      "duration_ms": 180929,
+      "name": "Me Fui de Vacaciones",
+      "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
     },
     {
       "added_at": "2023-09-08 03:59:00",
@@ -379,6 +343,42 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
+    },
+    {
+      "added_at": "2023-09-08 03:59:00",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/0LfdXgdI3ksuzkpQomvIH8"
+      },
+      "artists": [
+        {
+          "name": "Tubar\u00e1",
+          "url": "https://open.spotify.com/artist/0Er4BwZ8o4ec3I3rdLaFL3"
+        }
+      ],
+      "duration_ms": 201328,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/3rWcQsUH5Jo25JyaYr9Kmj"
+    },
+    {
+      "added_at": "2023-09-08 03:59:00",
+      "album": {
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 288388,
+      "name": "High (feat. Apache)",
+      "url": "https://open.spotify.com/track/5KQVSvivJ89ZFAPdsLLtyq"
     },
     {
       "added_at": "2023-09-08 03:59:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-09-08 03:59:00",
       "album": {
+        "name": "Un Lustro Inyectando Ruido Positivo",
+        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 390173,
+      "name": "Juego a Muerte",
+      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
+    },
+    {
+      "added_at": "2023-09-08 03:59:00",
+      "album": {
         "name": "Limonadita Fresca",
         "url": "https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 200000,
       "name": "Limonadita Fresca",
       "url": "https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6"
-    },
-    {
-      "added_at": "2023-09-08 03:59:00",
-      "album": {
-        "name": "Un Lustro Inyectando Ruido Positivo",
-        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 390173,
-      "name": "Juego a Muerte",
-      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
     },
     {
       "added_at": "2023-09-08 03:59:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-09-08 03:59:00",
       "album": {
-        "name": "Buenas Noticias",
-        "url": "https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 251878,
-      "name": "Puedo esperarte",
-      "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
-    },
-    {
-      "added_at": "2023-09-08 03:59:00",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 220565,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2023-09-08 03:59:00",
+      "album": {
+        "name": "Buenas Noticias",
+        "url": "https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 251878,
+      "name": "Puedo esperarte",
+      "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
     },
     {
       "added_at": "2023-09-08 03:59:00",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-09-08 03:59:00",
       "album": {
-        "name": "Vueltas (feat. Pure Negga)",
-        "url": "https://open.spotify.com/album/2Jwsz5GKHWBY2WJE88iiaB"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Pure Negga",
-          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
-        }
-      ],
-      "duration_ms": 221240,
-      "name": "Vueltas (feat. Pure Negga)",
-      "url": "https://open.spotify.com/track/2JzU1TFL91aJFyCfrEMQND"
-    },
-    {
-      "added_at": "2023-09-08 03:59:00",
-      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
       },
@@ -1651,6 +1631,26 @@
     {
       "added_at": "2023-09-08 03:59:00",
       "album": {
+        "name": "Vueltas (feat. Pure Negga)",
+        "url": "https://open.spotify.com/album/2Jwsz5GKHWBY2WJE88iiaB"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        }
+      ],
+      "duration_ms": 221240,
+      "name": "Vueltas (feat. Pure Negga)",
+      "url": "https://open.spotify.com/track/2JzU1TFL91aJFyCfrEMQND"
+    },
+    {
+      "added_at": "2023-09-08 03:59:00",
+      "album": {
         "name": "Ahora Lo S\u00e9",
         "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
       },
@@ -1663,6 +1663,26 @@
       "duration_ms": 256372,
       "name": "Ahora Lo S\u00e9",
       "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
+    },
+    {
+      "added_at": "2023-09-08 03:59:00",
+      "album": {
+        "name": "La Llave Maestra",
+        "url": "https://open.spotify.com/album/4U7KLrIBFClFnQ4v7jKj4O"
+      },
+      "artists": [
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Las Ganas de Vivir",
+      "url": "https://open.spotify.com/track/3ZtGBBtfUyfV1KYiIZSf35"
     },
     {
       "added_at": "2023-09-08 03:59:00",
@@ -1691,26 +1711,6 @@
       "duration_ms": 175668,
       "name": "La Felicidad Dubplate",
       "url": "https://open.spotify.com/track/3MOyJAMKUoB4RHGtT5Me9n"
-    },
-    {
-      "added_at": "2023-09-08 03:59:00",
-      "album": {
-        "name": "La Llave Maestra",
-        "url": "https://open.spotify.com/album/4U7KLrIBFClFnQ4v7jKj4O"
-      },
-      "artists": [
-        {
-          "name": "Green Valley",
-          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
-        },
-        {
-          "name": "Alborosie",
-          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Las Ganas de Vivir",
-      "url": "https://open.spotify.com/track/3ZtGBBtfUyfV1KYiIZSf35"
     },
     {
       "added_at": "2023-09-08 03:59:00",

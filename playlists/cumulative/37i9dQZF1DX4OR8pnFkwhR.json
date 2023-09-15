@@ -6323,6 +6323,28 @@
     },
     {
       "album": {
+        "name": "missing summer (Hugh Keice\u3000Remix - Korean Ver.)",
+        "url": "https://open.spotify.com/album/1YZXtuwz8Ohy0WcMKR93Wg"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        },
+        {
+          "name": "Hugh Keice",
+          "url": "https://open.spotify.com/artist/74w143cx7ODBg7fiKC23aO"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "missing summer - Hugh Keice\u3000Remix - Korean Ver.",
+      "url": "https://open.spotify.com/track/7fv8egRaKe98kxMpTYkSUh"
+    },
+    {
+      "album": {
         "name": "misunderstanding",
         "url": "https://open.spotify.com/album/23k2d1ZEOCTJUCQQrPGlhM"
       },
@@ -6486,7 +6508,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 230633,
       "name": "More Bitter, Mocha Better",
       "url": "https://open.spotify.com/track/7Eas2Kp8CmRqHEphZWIMBG"
@@ -17431,6 +17453,24 @@
     },
     {
       "album": {
+        "name": "\u661f\u3092\u898b\u308b\u4eba",
+        "url": "https://open.spotify.com/album/20Rf0NcJXvBmWIk8bhmWhb"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308518,
+      "name": "\u661f\u3092\u898b\u308b\u4eba",
+      "url": "https://open.spotify.com/track/40D6bVwmUK7RqigjAnmcmW"
+    },
+    {
+      "album": {
         "name": "\u661f\u5c51\u30c9\u30e9\u30a4\u30d6",
         "url": "https://open.spotify.com/album/0ubpJPdKR70Znah6uYigxc"
       },
@@ -19176,7 +19216,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 356258,
       "name": "\u89d2\u3092\u63a2\u3059\u4eba",
       "url": "https://open.spotify.com/track/78qoF0s9vf9twx2eOijPuq"

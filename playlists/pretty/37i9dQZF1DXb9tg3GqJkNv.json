@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: FRVRFRIDAY",
-  "num_followers": 7368,
+  "num_followers": 7404,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzY0NDBhOGQ1NGIyMTdkMTIwZDNlMjEzMzUxMDlhYWM0OTdhMjkx",
+  "snapshot_id": "MCxlYmQzMzkyNjMyNzA1ZmM5NWMxOWMzNGFhNjAxNzE2ODdhYmU5ODUx",
   "tracks": [
     {
       "added_at": "2023-09-07 19:34:51",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-09-07 19:34:51",
       "album": {
+        "name": "no long talk.",
+        "url": "https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT"
+      },
+      "artists": [
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "duration_ms": 198676,
+      "name": "My Town (feat. Giggs)",
+      "url": "https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC"
+    },
+    {
+      "added_at": "2023-09-07 19:34:51",
+      "album": {
         "name": "002 / LOVE ME",
         "url": "https://open.spotify.com/album/06tuQubTO3GAXGOcMtfHok"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 266599,
       "name": "Come Inside (Kaytranada Edit)",
       "url": "https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN"
-    },
-    {
-      "added_at": "2023-09-07 19:34:51",
-      "album": {
-        "name": "no long talk.",
-        "url": "https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT"
-      },
-      "artists": [
-        {
-          "name": "Baka Not Nice",
-          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
-        },
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        }
-      ],
-      "duration_ms": 198676,
-      "name": "My Town (feat. Giggs)",
-      "url": "https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC"
     },
     {
       "added_at": "2023-09-07 19:34:51",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-09-07 19:34:51",
       "album": {
+        "name": "Body & A Face",
+        "url": "https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J"
+      },
+      "artists": [
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        }
+      ],
+      "duration_ms": 159205,
+      "name": "Body & A Face",
+      "url": "https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ"
+    },
+    {
+      "added_at": "2023-09-07 19:34:51",
+      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 150292,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
-    },
-    {
-      "added_at": "2023-09-07 19:34:51",
-      "album": {
-        "name": "Body & A Face",
-        "url": "https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J"
-      },
-      "artists": [
-        {
-          "name": "Baka Not Nice",
-          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
-        }
-      ],
-      "duration_ms": 159205,
-      "name": "Body & A Face",
-      "url": "https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ"
     },
     {
       "added_at": "2023-09-07 19:34:51",

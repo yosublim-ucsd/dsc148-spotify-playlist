@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,141 likes - 71 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,177 likes - 71 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 37 | [Hell to the Liars](https://open.spotify.com/track/15pjLBdN42P2gyFefUt8DD) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Truth Is a Beautiful Thing \(Deluxe\)](https://open.spotify.com/album/2czuN6tZcR5ebpuK9A1Vur) | 6:04 |
 | 38 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/2F7vTfBdCnlcFgVg9jqhh1) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\) \[Radio Version\]](https://open.spotify.com/album/2notFP0aEoyCWBOHLanN6o) | 3:57 |
 | 39 | [Cold \(2 AM\)](https://open.spotify.com/track/56ZMz7ERZ7NwLOqDtdsTlq) | [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk) | [Cold \(2 AM\)](https://open.spotify.com/album/4CzVzLksrXIUZAyixlsdE3) | 2:23 |
-| 40 | [Porcelain](https://open.spotify.com/track/1zKij1M9oYMTeMCKNErsxe) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 4:01 |
+| 40 | [Porcelain](https://open.spotify.com/track/50DMunbxuRK0ucbiDfncvM) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain / Wolf](https://open.spotify.com/album/6X21qWKM7nogd9N7MMMiwJ) | 4:01 |
 | 41 | [Dawn](https://open.spotify.com/track/1ZD9gnpU4yex0ZLSpcG1Ub) | [Amy Cashmore](https://open.spotify.com/artist/26192SYpy5QVTYfgOEwM81) | [Up on the 20th Floor](https://open.spotify.com/album/3fzs4EDpSrqs0TVZAUvkg8) | 2:29 |
 | 42 | [Had a Love](https://open.spotify.com/track/4xGjnjJMbjLFEJwb0gW1pP) | [Vessels](https://open.spotify.com/artist/6Y1nACvxtuuTjKx2b4Rwmb), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Had a Love](https://open.spotify.com/album/4pPpxfKMupyb0qLLuaWHlY) | 4:37 |
 | 43 | [Home](https://open.spotify.com/track/4NfyJOFtDvZvBnRQGeGWs7) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Home](https://open.spotify.com/album/4ZRKdHyUGWyRqxRiJ9MS4N) | 3:56 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 70 | [Friends](https://open.spotify.com/track/71bAQugadZL7hSKS9DUCbC) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:24 |
 | 71 | [Turn Me Down](https://open.spotify.com/track/7KbFoYmInyz7SGcRFKcx4M) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN), [LUSTBASS](https://open.spotify.com/artist/6KVYyAtFWiPTpBcNKRM5ER) | [Turn Me Down](https://open.spotify.com/album/5Nzx72g90YvVDhI7BE3Hqf) | 4:27 |
 
-Snapshot ID: `MCw1NjdkN2NkODQxYjQzODA4MzIyZDVhZWMyZGU5YjYxZmIyMDJiMmRl`
+Snapshot ID: `MCw1ZmYyMmUxNWYxZWVkYjU4ZDczNWI2YmE1OTViZDA0ZjgwZTg4ODcz`

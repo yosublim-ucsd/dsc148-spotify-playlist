@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-137 songs - 7 hr 46 min
+138 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Sernthom Pirinthom](https://open.spotify.com/track/15ZUtomY7AmhvWrrSxzwOS) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Sernthom Pirinthom](https://open.spotify.com/album/1EzqQmsgWsqYkyAyWN4RMu) | 3:43 | 2023-07-10 |  |
 | [Shy Boi](https://open.spotify.com/track/5dF6MnJUCc2LuLMQ5w82wA) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M), [Baila Curry](https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly), [Double J The Rapper](https://open.spotify.com/artist/4oS28QL714oJei3rN7QrIf) | [Shy Boi](https://open.spotify.com/album/2JA7ebasiQYXt9jaw5cNz2) | 2:37 | 2023-08-07 |  |
 | [Sooravali](https://open.spotify.com/track/3vJjFE5dxFhyurohHo6clw) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Sooravali](https://open.spotify.com/album/0eIhUF5BVnbZbuP17RxUQ8) | 4:07 | 2023-03-21 | 2023-07-18 |
+| [Story Rewrite](https://open.spotify.com/track/7jQHimJTn5joGqtUXFnTvA) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Story Rewrite](https://open.spotify.com/album/48IgWLickNf0lBCE5zLOoZ) | 2:59 | 2023-09-14 |  |
 | [Thalayaatti Bommai \- From "Think Originals"](https://open.spotify.com/track/13peKDjGU45w5yvKR8QvCC) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Thalayaatti Bommai \(From "Think Originals"\)](https://open.spotify.com/album/7tO2sPQbhwj5KcHkyGKy99) | 3:27 | 2023-03-21 |  |
 | [Thamarai Poovilum](https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Thamarai Poovilum](https://open.spotify.com/album/32mPyTwlznacWc17apgBvl) | 5:30 | 2023-06-16 |  |
 | [Thanimaye](https://open.spotify.com/track/5oPw3pV2RMM5MVvH8bqTI0) | [Adithya L](https://open.spotify.com/artist/1CHukNLdtUsorPxFfbtzIA) | [Thanimaye](https://open.spotify.com/album/3CWFCY5M20VINvnDQUyoHh) | 3:28 | 2023-09-01 |  |

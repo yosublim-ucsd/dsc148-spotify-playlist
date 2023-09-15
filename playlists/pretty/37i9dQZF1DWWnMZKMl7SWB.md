@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,332 likes - 279 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,329 likes - 279 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,7 +251,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 241 | [Stray](https://open.spotify.com/track/0fcAUdDY2LXAwFICE2YBT7) | [Am Froggo](https://open.spotify.com/artist/1D9zRD0TQfQhCFDWz8XsAW) | [Stray](https://open.spotify.com/album/2clOYk4NVEAnlzKfxAeFaM) | 2:30 |
 | 242 | [Elevator Jam](https://open.spotify.com/track/05OuE2FeaeCkiz0EAKIqYZ) | [Wall Giant](https://open.spotify.com/artist/2SJLqBkYtTHwb0tYJDxnrf) | [Elevator Jam](https://open.spotify.com/album/0ILqNHJ9j8QNhBa3KomCeH) | 2:48 |
 | 243 | [Fire Inside](https://open.spotify.com/track/6mS822S9l2BKN0RzmTyLfP) | [T.O.M](https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ) | [Fire Inside](https://open.spotify.com/album/2MIh3AN4UDKhmevXoEovwy) | 2:28 |
-| 244 | [summer haze](https://open.spotify.com/track/5BKszK7QI1EjeEB7SgoQVh) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [summer haze](https://open.spotify.com/album/0tRV2enItxLhyTrMHRYS2V) | 3:44 |
+| 244 | [summer haze](https://open.spotify.com/track/0aG9gVRYIzdHwMeUQcLm0v) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Summer 32](https://open.spotify.com/album/17dlQVGukmo4BMGc3TOb4D) | 3:44 |
 | 245 | [.Like a fool](https://open.spotify.com/track/7n87Oi2j5Us4eWhHu8zmpp) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/6VOj1qdMD9IwgeSnyhM54l) | 1:43 |
 | 246 | [Skyline Moods](https://open.spotify.com/track/2xIMahPvRzDSnbSTHrEKNR) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Valentine Morell](https://open.spotify.com/artist/3l8NLw6POkjXQps81nd7mT) | [Skyline Moods](https://open.spotify.com/album/4Y45XeH0q8o8t9IesoEjsu) | 2:05 |
 | 247 | [Bali](https://open.spotify.com/track/4GTx5ce46I727hO7AmTwf0) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Bali](https://open.spotify.com/album/6wt7ZVmCSkSojsGJjsff15) | 2:14 |
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 278 | [Samba de orla](https://open.spotify.com/track/69OKsm8bcjSqRcVr2QAvW9) | [O F F](https://open.spotify.com/artist/5IjGvQKE2nsaL2RkqnqYfG) | [Samba de orla](https://open.spotify.com/album/6E7R0nN7PBwQkCf54aQbeM) | 1:47 |
 | 279 | [winter balloon](https://open.spotify.com/track/6qKhsRKyfUbeqeIEArP2d8) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [winter balloon](https://open.spotify.com/album/69793ppyxJHCz149lVQHIt) | 2:11 |
 
-Snapshot ID: `MCxlMDg2ZTQ1YzIyZGE1MzkzMWU2Y2MyNGY3NTU3MzdlOTA2Y2FkNmRm`
+Snapshot ID: `MCxmMTlkNDM4MTljODM3ZjkxYTAxNTJhMDBkMTIzYjJlMGRhYzA2ZDUy`

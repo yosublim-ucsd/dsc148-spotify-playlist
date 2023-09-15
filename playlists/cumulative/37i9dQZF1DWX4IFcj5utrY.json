@@ -7813,6 +7813,32 @@
     },
     {
       "album": {
+        "name": "Permanent Music 3",
+        "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/5EjeN8ChFDW6lRHfrdnW2W"
+        },
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379322,
+      "name": "Imoto",
+      "url": "https://open.spotify.com/track/1QI3YsyMxfD2j3xoJDHvTi"
+    },
+    {
+      "album": {
         "name": "Impi Yamabutho",
         "url": "https://open.spotify.com/album/5VOMmPUst1EamvlQUt8ljp"
       },
@@ -10826,6 +10852,24 @@
       "duration_ms": 456585,
       "name": "Mandalorian",
       "url": "https://open.spotify.com/track/7DN3XdkOBIOHJHp8zTdsQj"
+    },
+    {
+      "album": {
+        "name": "Mangalam",
+        "url": "https://open.spotify.com/album/2EeKAOY9tXnGNtDVTO8Ctf"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383225,
+      "name": "Mangalam",
+      "url": "https://open.spotify.com/track/4y2o3XahngmyJ3clWCxLAB"
     },
     {
       "album": {
@@ -15022,6 +15066,36 @@
       "duration_ms": 353750,
       "name": "Shayi Zule",
       "url": "https://open.spotify.com/track/21keT1eQuf6w8KPqeRtABM"
+    },
+    {
+      "album": {
+        "name": "Shayo Galore (feat. Le Mav)",
+        "url": "https://open.spotify.com/album/3CFoj1BZZ61ZKTWWTuKDmj"
+      },
+      "artists": [
+        {
+          "name": "Wavy The Creator",
+          "url": "https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC"
+        },
+        {
+          "name": "SGaWD",
+          "url": "https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l"
+        },
+        {
+          "name": "Arieenati",
+          "url": "https://open.spotify.com/artist/4ylIqJiqWnd05U4Ng8f616"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138720,
+      "name": "Shayo Galore (feat. Le Mav)",
+      "url": "https://open.spotify.com/track/4vxJVCRV3CZR7Wy2NCsMBf"
     },
     {
       "album": {

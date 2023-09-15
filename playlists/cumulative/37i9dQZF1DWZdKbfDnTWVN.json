@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=LJke8bmwSjeu4whf3N_9HA\">Khaligraph Jones</a>",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6?si=Sg-gzvauQhydPxCL9UEPuQ\"> Wangechi </a>",
   "name": "254 Flow",
   "tracks": [
     {
@@ -28,7 +28,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 104571,
       "name": "2 Step Gliding",
       "url": "https://open.spotify.com/track/3LCisn5gOFXlwHR6CCJH1h"
@@ -446,6 +446,28 @@
       "duration_ms": 167889,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/0eYtxjlZfYQEsqCWzzptuO"
+    },
+    {
+      "album": {
+        "name": "EMOTIONAL GANGSTER",
+        "url": "https://open.spotify.com/album/19omrLfZdSm48xHpEgWG06"
+      },
+      "artists": [
+        {
+          "name": "Wangechi",
+          "url": "https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6"
+        },
+        {
+          "name": "Domani Mkadinali",
+          "url": "https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178368,
+      "name": "Chachisha",
+      "url": "https://open.spotify.com/track/7qqhMOYy8FU1SnwLpGLMhv"
     },
     {
       "album": {
@@ -1668,7 +1690,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 222761,
       "name": "Nairobi Pengz",
       "url": "https://open.spotify.com/track/6vYlSCbecwhbLN7LCReItg"
@@ -3216,6 +3238,24 @@
       "duration_ms": 205393,
       "name": "YKTD",
       "url": "https://open.spotify.com/track/43nz8zSHKEY2fZrlrx9MFL"
+    },
+    {
+      "album": {
+        "name": "EMOTIONAL GANGSTER",
+        "url": "https://open.spotify.com/album/19omrLfZdSm48xHpEgWG06"
+      },
+      "artists": [
+        {
+          "name": "Wangechi",
+          "url": "https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174905,
+      "name": "Zile Zile",
+      "url": "https://open.spotify.com/track/5Ni6UiFvBPvOJrCP86S01t"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN"

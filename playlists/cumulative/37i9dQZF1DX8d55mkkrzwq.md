@@ -4,7 +4,7 @@
 
 > Get moving with these family\-friendly dance hits!
 
-52 songs - 2 hr 33 min
+54 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Boot Scootin' Boogie](https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:18 | 2022-04-01 |  |
 | [Bounce! Bounce!](https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:06 | 2022-04-01 |  |
 | [Casper Cha\-Cha Slide](https://open.spotify.com/track/0ie0OWIrhVAivVhAfjpZN0) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s), [The Live Platinum Band](https://open.spotify.com/artist/5SoQwLbYZZSk1imly5wLFJ) | [Cha Cha Slide](https://open.spotify.com/album/7Hn2C8QRMdpQXcHunLe58K) | 6:27 | 2022-04-01 | 2022-11-13 |
-| [Cha Cha Slide \- Original Live Platinum Band Mix](https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 6:27 | 2022-04-01 |  |
+| [Casper Cha\-Cha Slide \(Live Platinum Band\)](https://open.spotify.com/track/0AaEbPXWdeiW6MbW80Eibj) | [Casper & Col'ta](https://open.spotify.com/artist/3mWhHh5X42WmVx7Hku1zc3) | [The Slide Album](https://open.spotify.com/album/3KoYKWvKJrI6T0n5D5PTCS) | 6:27 | 2023-09-14 |  |
+| [Cha Cha Slide \- Original Live Platinum Band Mix](https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 6:27 | 2022-04-01 | 2023-09-15 |
 | [Cha Cha Slide \- Original Live Platinum Band Mix](https://open.spotify.com/track/3Xv5C02Wxlek0dmrYAM5A8) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s) | [Cha Cha Slide](https://open.spotify.com/album/3Ogg26ibNmxL8uIVwZVqsJ) | 6:27 | 2022-04-01 | 2022-07-29 |
 | [Chicken Dance](https://open.spotify.com/track/64WbwrNCZkNiS91TEDAp1L) | [Electric Slide Music Makers](https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe) | [Electric Slide: with friends...](https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8) | 2:08 | 2022-04-01 |  |
 | [Chickie Chickie Beat](https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Chickie Chickie Beat](https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d) | 1:39 | 2022-04-01 |  |
@@ -43,6 +44,7 @@
 | [Limbo Rock](https://open.spotify.com/track/6FXjVsmKPW93LXRFYhfmmw) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Chubby Checker Classics](https://open.spotify.com/album/36tc0l1brbD9CCaUDrvqVi) | 2:28 | 2022-04-01 |  |
 | [Locomotion](https://open.spotify.com/track/0Perbjux3gxagOCJo64dlq) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [The Loco\-Motion](https://open.spotify.com/album/4KzkpwUYao28JWlcv9DCG0) | 3:13 | 2022-04-01 |  |
 | [Macarena \(Bayside Boys Remix\) \- Remasterizado](https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Macarena Christmas \(Remasterizado\)](https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx) | 3:47 | 2022-04-01 |  |
+| [MOVE YOUR BODY](https://open.spotify.com/track/2vp7HOVvYo7Z5ZqCAuRCli) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [MOVE YOUR BODY](https://open.spotify.com/album/0mPdAgH86rN9Yt48HrpnOG) | 2:06 | 2023-09-14 |  |
 | [Musical Statues \- Party Version](https://open.spotify.com/track/22kJuKZbHez63HBaUfThig) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Kids Dance Party](https://open.spotify.com/album/5ciGZZ391k8bagg6lMIkOV) | 3:08 | 2022-04-01 | 2022-07-29 |
 | [Musical Statues \- Party Version](https://open.spotify.com/track/7LC0vo7r0iDIuu61YwUXld) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Kids Dance Party](https://open.spotify.com/album/7JiXOAemvmJARf7w9WvbsT) | 3:08 | 2022-04-01 |  |
 | [Party Freeze Dance Song](https://open.spotify.com/track/5n5IxMcG2oV8IOzklsW6Vd) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Freeze Dance Songs for Learning](https://open.spotify.com/album/3d2Swul1tNBo1PSXdwfOGU) | 2:08 | 2022-04-01 |  |

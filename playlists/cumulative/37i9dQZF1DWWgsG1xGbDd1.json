@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-15",
       "duration_ms": 147600,
       "name": "Bobby Babylon",
       "url": "https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns"
@@ -200,6 +200,24 @@
       "duration_ms": 149680,
       "name": "Bobby Babylon",
       "url": "https://open.spotify.com/track/2Z0EHTytryLUAIUikxakIH"
+    },
+    {
+      "album": {
+        "name": "Bobby Bobylon: Deluxe Edition",
+        "url": "https://open.spotify.com/album/1NhP0Jn5grdBKwsRWx8L4x"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Bobby Bobylon",
+      "url": "https://open.spotify.com/track/3t0VvMqwrXM4RgrBYlB235"
     },
     {
       "album": {

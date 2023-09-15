@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Feat\. Lali
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,893 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,013 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 89 | [Choca Mi Cintura](https://open.spotify.com/track/6ExLrjegzgNt2X5C3T7snD) | [Valen Etchegoyen](https://open.spotify.com/artist/68605Nj80pgfMzs2fr8fZs) | [Choca Mi Cintura](https://open.spotify.com/album/4vkbL3ruWwrbq9PE3bbWOL) | 3:08 |
 | 90 | [Cursi](https://open.spotify.com/track/2ePVy5fIcduj4U70PKlA8Z) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [Cursi](https://open.spotify.com/album/6MOLgG4WHVrY2iYFSY6KEZ) | 2:58 |
 
-Snapshot ID: `MCw5OGZmNzAzYmMyMTkyNmM2OWQyMWI4NmNhMDFkNjI1MDQxN2FkNDZi`
+Snapshot ID: `MCwxM2EwMDBhZGJkYzliYjYzMDI5NDRlODdlNzA5ZTFiM2I5MjU3OThi`

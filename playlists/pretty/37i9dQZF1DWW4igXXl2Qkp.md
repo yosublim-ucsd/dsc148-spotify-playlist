@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:1WaFQSHVGZQJTbf0BdxdNo">Tommy Richman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,303 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,387 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 9 | [In Da Area](https://open.spotify.com/track/2HJXPA4Tqfp6ezekrVgg8k) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work Volume.2](https://open.spotify.com/album/2qHbhcVWG14e4k6FfFEKEA) | 2:08 |
 | 10 | [I Like](https://open.spotify.com/track/4FV1qGukKvdaVtBcv853Bi) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [I Like](https://open.spotify.com/album/4vYP74UV7y5RWLhp3mGC38) | 2:06 |
 | 11 | [Last laugh](https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX) | 2:55 |
-| 12 | [LOSE FIRST, WIN LATER](https://open.spotify.com/track/6FvMmoVFEl6cGvAQXMNeu9) | [Tec](https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI) | [LOSE FIRST, WIN LATER](https://open.spotify.com/album/5btr8xOvQkSJ88TQKusa81) | 2:38 |
+| 12 | [LOSE FIRST, WIN LATER \- DEMO](https://open.spotify.com/track/6FvMmoVFEl6cGvAQXMNeu9) | [Tec](https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI), [KLWN CAT](https://open.spotify.com/artist/3njKTUDQIOswiLKoYRePBd) | [LOSE FIRST, WIN LATER \(DEMO\)](https://open.spotify.com/album/5btr8xOvQkSJ88TQKusa81) | 2:38 |
 | 13 | [You Is Not Havin](https://open.spotify.com/track/4dUj9KBYC8ob9MGgTPaRTF) | [Lil Kari](https://open.spotify.com/artist/2QXvHlMnUVw9LKYlxuCRHd) | [You Is Not Havin](https://open.spotify.com/album/6EoQ6gT2h72WsJQHn0lIEa) | 2:12 |
 | 14 | [ROCKSTAR](https://open.spotify.com/track/0AtZRrAMpCmGJrvUpbeWvG) | [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [ROCKSTAR](https://open.spotify.com/album/3ogzEAQm9X2yiTRsuuPFTm) | 3:39 |
 | 15 | [LUCKY](https://open.spotify.com/track/2KxeLlTGctzbh8EXm4eW7d) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [AREN'T YOU LUCKY?](https://open.spotify.com/album/11PbZ0Vle1SnLTHw0zRXWA) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [HNL](https://open.spotify.com/track/0zxpRRpS5SZQyiTW3sP2Tk) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [HNL](https://open.spotify.com/album/7vsrshJJAAW5AQJDcRo6Jx) | 2:22 |
 | 75 | [Love Language](https://open.spotify.com/track/5fNgz0GbFBXhz4RoBNTnQB) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Love Language](https://open.spotify.com/album/0YYIIcjmHW3mtiVaLStpOD) | 2:07 |
 
-Snapshot ID: `MCwzODk1YjMwNmFmNGQ4ZTM2ZTA1YzYzYmJkNDhiOWZlNWViN2E3ODc2`
+Snapshot ID: `MCwyM2ZmZTA1ZWFhYTBlZjE2NTM1ZGYyYjIzMDA0YzBmNDA3NTg3ZGRm`
